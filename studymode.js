@@ -13,6 +13,27 @@ document.addEventListener('DOMContentLoaded', function () {
   const questionImageContainer = document.createElement('div');
   questionImageContainer.className = 'question-image';
 
+  // --- NEW: Create Flag Button inside UI ---
+  const flagBtn = document.createElement('button');
+  flagBtn.id = 'flag-question-btn';
+  flagBtn.className = 'flag-btn';
+  flagBtn.style.padding = '8px 16px';
+  flagBtn.style.marginLeft = '15px';
+  flagBtn.style.cursor = 'pointer';
+  flagBtn.style.borderRadius = '6px';
+  flagBtn.style.border = '1px solid #ffbc00';
+  flagBtn.style.background = 'transparent';
+  flagBtn.style.color = '#ffbc00';
+  flagBtn.style.fontWeight = 'bold';
+  flagBtn.style.transition = 'all 0.2s';
+
+  // Insert flag button next to the question number heading
+  if (questionNumber) {
+    questionNumber.style.display = 'inline-flex';
+    questionNumber.style.alignItems = 'center';
+    questionNumber.after(flagBtn);
+  }
+
   // End Test button (shows only on last question)
   const endTestBtn = document.createElement('button');
   endTestBtn.textContent = 'End Test';
@@ -21,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const navigationButtons = document.querySelector('.navigation-buttons');
   if (navigationButtons) navigationButtons.appendChild(endTestBtn);
 
-  // UPDATED: Hook up submission payload generation and route to review engine
+  // Hook up submission payload generation and route to review engine
   endTestBtn.addEventListener('click', function () {
     if (confirm('Are you sure you want to end this study session and review your answers?')) {
       const endTime = Math.round((Date.now() - startTime) / 1000);
@@ -33,6 +54,10 @@ document.addEventListener('DOMContentLoaded', function () {
       };
 
       localStorage.setItem("lastExamResult", JSON.stringify(examResult));
+      
+      // Save incorrect questions specifically for dashboard review
+      saveIncorrectSessionData();
+
       window.location.href = 'review.html';
     }
   });
@@ -94,19 +119,34 @@ document.addEventListener('DOMContentLoaded', function () {
     localStorage.setItem('qbankStats', JSON.stringify(stats));
   }
 
-  // Extracts unit prefix from filename (e.g., "pedi1-2" -> "pedi", "thoracic_cases" -> "thoracic")
+  // Save wrong answers to global localStorage bank
+  function saveIncorrectSessionData() {
+    const globalIncorrect = JSON.parse(localStorage.getItem('globalIncorrectQuestions')) || [];
+    
+    questions.forEach((q, index) => {
+      const userAns = userAnswers[index];
+      const correctIdx = q.answer;
+      if (userAns !== null && Number(userAns) !== correctIdx) {
+        // Prevent duplicate questions in our review bank by matching question text
+        const alreadyExists = globalIncorrect.some(item => item.question === q.question);
+        if (!alreadyExists) {
+          globalIncorrect.push(q);
+        }
+      }
+    });
+    localStorage.setItem('globalIncorrectQuestions', JSON.stringify(globalIncorrect));
+  }
+
+  // Extracts unit prefix from filename
   function getUnitFromFilename(filename) {
     if (!filename) return 'General';
-    // Match letters at the start of the file before any numbers, dashes, or underscores
     const match = filename.match(/^([a-zA-Z]+)/);
     return match ? match[1] : filename;
   }
 
   // --------- DATA NORMALIZATION ----------
-  // Standardizes properties of different database schemes
   function normalizeQuestions(rawQuestions, filename) {
     return rawQuestions.map(q => {
-      // 1. Unify choices/options array & strip redundant prefix (e.g., "a. ")
       let originalChoices = q.options || q.choices || [];
       const cleanedOptions = originalChoices.map(opt => {
         if (typeof opt === 'string') {
@@ -115,15 +155,13 @@ document.addEventListener('DOMContentLoaded', function () {
         return opt;
       });
 
-      // 2. Unify details/explanations
       const explanationText = q.explanation || q.detail || "No explanation provided.";
 
-      // 3. Resolve answer keys to index numbers (0 through 4)
       let calculatedAnswerIndex = 0;
       if (typeof q.answer === 'string') {
         const cleanAns = q.answer.trim().toLowerCase();
         if (cleanAns.length === 1 && cleanAns >= 'a' && cleanAns <= 'e') {
-          calculatedAnswerIndex = cleanAns.charCodeAt(0) - 97; // 'a' -> 0, 'b' -> 1...
+          calculatedAnswerIndex = cleanAns.charCodeAt(0) - 97;
         } else {
           const matchInRaw = originalChoices.indexOf(q.answer);
           calculatedAnswerIndex = matchInRaw !== -1 ? matchInRaw : cleanedOptions.indexOf(q.answer);
@@ -144,18 +182,12 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  // --------- HELPERS: LOADING JSON WITH CORRECT FALLBACKS ----------
-  if (location.protocol === 'file:') {
-    console.warn('This page is opened via file://. Use a local server (e.g., `python -m http.server`).');
-  }
-
   function normalizeName(name) {
     return String(name || '').trim().replace(/^\/*/, '').replace(/\.json$/i, '');
   }
 
   async function fetchJsonWithFallbacks(name) {
     const base = normalizeName(name);
-    // Modified candidate list to prioritize the correct "assets/" directory
     const candidates = [
       `assets/${base}.json`,
       `${base}.json`,
@@ -169,47 +201,37 @@ document.addEventListener('DOMContentLoaded', function () {
         if (!res.ok) continue;
         const data = await res.json();
         if (data && Array.isArray(data.questions) && data.questions.length) {
-          console.log(`Loaded ${data.questions.length} questions from ${url}`);
           return { data, url };
         }
-      } catch (_) {
-        // keep trying
-      }
+      } catch (_) {}
     }
-    const err = new Error(`No usable JSON found for "${name}". Tried:\n${tried.join('\n')}`);
+    const err = new Error(`No usable JSON found for "${name}".`);
     err.tried = tried;
     throw err;
   }
 
   async function loadCombinedQuestions(files) {
+    // Check if we are running in "incorrect review" or "flagged review" modes
+    const mode = sessionStorage.getItem('customStudyMode');
+    if (mode === 'incorrect') {
+      return JSON.parse(localStorage.getItem('globalIncorrectQuestions')) || [];
+    } else if (mode === 'flagged') {
+      return JSON.parse(localStorage.getItem('globalFlaggedQuestions')) || [];
+    }
+
     const unique = Array.from(new Set((files || []).map(normalizeName)));
     const list = unique.length ? unique : ['sample'];
     const allQuestions = [];
-    const errors = [];
 
     const limit = Math.min(parseInt(sessionStorage.getItem('questionCount')) || 40, 400);
 
     for (const name of list) {
       try {
         const { data } = await fetchJsonWithFallbacks(name);
-        
-        // Normalize the questions right away so the frontend handles uniform objects
         const normalized = normalizeQuestions(data.questions || [], name);
         allQuestions.push(...normalized);
       } catch (e) {
         console.warn(e.message);
-        errors.push(e.tried || []);
-      }
-    }
-
-    if (!allQuestions.length) {
-      const msg =
-        'No questions found. Check your JSON filenames/locations.\n' +
-        (errors.flat().length ? `Tried:\n${errors.flat().map(u => '• ' + u).join('\n')}` : '');
-      console.error(msg);
-      if (questionText) {
-        questionText.textContent =
-          'No questions found. Ensure your JSON files are in the assets/ folder, and run via a local server.';
       }
     }
 
@@ -222,19 +244,13 @@ document.addEventListener('DOMContentLoaded', function () {
   loadCombinedQuestions(filesToLoad)
     .then(loadedQuestions => {
       questions = loadedQuestions;
-      // Pre-fill user answers with null entries so skipped tracking calculates accurately
       questions.forEach(() => userAnswers.push(null));
       displayQuestion(currentQuestionIndex);
       createQuestionsSidebar();
-      
-      // Increment overall sessions count in storage
       incrementSessionCount();
     })
     .catch(error => {
       console.error('Error loading questions:', error);
-      if (questionText) {
-        questionText.textContent = 'Failed to load questions. Please try again later.';
-      }
     });
 
   // --------- UI BUILDERS ----------
@@ -270,7 +286,6 @@ document.addEventListener('DOMContentLoaded', function () {
   function displayQuestion(index) {
     if (!questions.length || index < 0 || index >= questions.length) return;
 
-    // reset UI
     choicesContainer.innerHTML = '';
     answerExplanation.innerHTML = '';
     questionImageContainer.innerHTML = '';
@@ -280,7 +295,9 @@ document.addEventListener('DOMContentLoaded', function () {
     if (questionNumber) questionNumber.textContent = `Question ${index + 1}`;
     if (questionText) questionText.textContent = question.question || '';
 
-    // Image (if present)
+    // Update the Flagging Button visual state
+    updateFlagButtonState(question);
+
     if (question.Image && question.Image !== 'none') {
       const img = document.createElement('img');
       img.src = `assets/${question.Image}`;
@@ -292,7 +309,6 @@ document.addEventListener('DOMContentLoaded', function () {
       questionText.insertAdjacentElement('afterend', questionImageContainer);
     }
 
-    // UPDATED: Standardized letters mapping array (A-E)
     const letters = ['A', 'B', 'C', 'D', 'E'];
     const currentOptions = question.options || [];
 
@@ -304,10 +320,9 @@ document.addEventListener('DOMContentLoaded', function () {
         <span class="choice-text">${choiceText || ''}</span>
       `;
 
-      // If user already clicked a choice previously, show correctness state immediately
       if (userAnswers[index] !== null) {
         const selectedIdx = userAnswers[index];
-        const correctIndex = question.answer; // Pre-normalized to index integer
+        const correctIndex = question.answer;
 
         if (i === correctIndex) {
           choiceElement.classList.add('correct');
@@ -317,35 +332,27 @@ document.addEventListener('DOMContentLoaded', function () {
       }
 
       choiceElement.addEventListener('click', function () {
-        // Prevent multiple overrides if already answered
         if (userAnswers[currentQuestionIndex] !== null) return;
 
-        // Save index number position into tracking matrix array
         userAnswers[currentQuestionIndex] = i;
-
         attemptedQuestions.add(currentQuestionIndex);
         updateQuestionsSidebar();
         showExplanation(question);
 
-        // Reset states
         Array.from(choicesContainer.children).forEach(child => {
           child.classList.remove('correct', 'incorrect');
         });
 
-        const correctIndex = question.answer; // Pre-normalized index integer
+        const correctIndex = question.answer;
         const isAnswerCorrect = (i === correctIndex);
-
-        // AUTOMATIC UNIT PARSING FROM FILENAME PREFIX
         const questionUnit = getUnitFromFilename(question._sourceFile);
 
-        // Save progress details immediately to localStorage
         recordQuestionProgress(questionUnit, isAnswerCorrect, 'study');
 
         if (isAnswerCorrect) {
           highlightCorrect(choiceElement);
         } else {
           highlightIncorrect(choiceElement);
-          // Also highlight the correct answer
           if (correctIndex >= 0 && correctIndex < choicesContainer.children.length) {
             choicesContainer.children[correctIndex].classList.add('correct');
           }
@@ -355,30 +362,58 @@ document.addEventListener('DOMContentLoaded', function () {
       choicesContainer.appendChild(choiceElement);
     });
 
-    // If already answered, make sure explanation stays visible upon returning to card
     if (userAnswers[index] !== null) {
       showExplanation(question);
     }
 
-    // Last page = show End button
     endTestBtn.style.display = index === questions.length - 1 ? 'inline-block' : 'none';
 
-    // Nav buttons state
     if (prevBtn) prevBtn.disabled = index === 0;
     if (nextBtn) nextBtn.disabled = index === questions.length - 1;
 
     updateQuestionsSidebar();
   }
 
+  // --- NEW: Flagging Storage Actions ---
+  function updateFlagButtonState(question) {
+    const flaggedList = JSON.parse(localStorage.getItem('globalFlaggedQuestions')) || [];
+    const isFlagged = flaggedList.some(item => item.question === question.question);
+
+    if (isFlagged) {
+      flagBtn.innerHTML = '🚩 Flagged';
+      flagBtn.style.backgroundColor = '#ffbc00';
+      flagBtn.style.color = '#000';
+    } else {
+      flagBtn.innerHTML = '🏳️ Flag Question';
+      flagBtn.style.backgroundColor = 'transparent';
+      flagBtn.style.color = '#ffbc00';
+    }
+  }
+
+  flagBtn.addEventListener('click', function () {
+    const question = questions[currentQuestionIndex];
+    if (!question) return;
+
+    let flaggedList = JSON.parse(localStorage.getItem('globalFlaggedQuestions')) || [];
+    const indexInFlags = flaggedList.findIndex(item => item.question === question.question);
+
+    if (indexInFlags > -1) {
+      flaggedList.splice(indexInFlags, 1); // Remove flag
+    } else {
+      flaggedList.push(question); // Add flag
+    }
+
+    localStorage.setItem('globalFlaggedQuestions', JSON.stringify(flaggedList));
+    updateFlagButtonState(question);
+  });
+
   function showExplanation(question) {
-    // Prefer detail.image if provided; otherwise none.
     const detailImgName = question['detail.image'];
     const detailImgHtml =
       detailImgName && detailImgName !== 'none'
         ? `<img src="assets/${detailImgName}" alt="Explanation image" class="explanation-image">`
         : '';
 
-    // Uses the normalized explanation property
     answerExplanation.innerHTML = `
       <h3>Explanation</h3>
       <p>${question.explanation || 'No explanation provided.'}</p>
@@ -386,17 +421,9 @@ document.addEventListener('DOMContentLoaded', function () {
     `;
   }
 
-  // --- Helpers to adjust dynamic style tags ---
-  function highlightCorrect(el) {
-    el.classList.add('correct');
-  }
+  function highlightCorrect(el) { el.classList.add('correct'); }
+  function highlightIncorrect(el) { el.classList.add('incorrect'); }
 
-  // --- Helpers to adjust dynamic style tags ---
-  function highlightIncorrect(el) {
-    el.classList.add('incorrect');
-  }
-
-  // --------- NAV HANDLERS ----------
   if (prevBtn) {
     prevBtn.addEventListener('click', function () {
       if (currentQuestionIndex > 0) {
@@ -415,7 +442,6 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  // Keyboard navigation
   document.addEventListener('keydown', function (e) {
     if (e.key === 'ArrowLeft' && prevBtn && !prevBtn.disabled) {
       prevBtn.click();

@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const prevBtn = document.getElementById('prev-btn');
   const nextBtn = document.getElementById('next-btn');
   const questionsList = document.getElementById('questions-list');
+  const flagBtn = document.getElementById('flag-question-btn'); // NEW
 
   const questionImageContainer = document.createElement('div');
   questionImageContainer.className = 'question-image';
@@ -21,7 +22,6 @@ document.addEventListener('DOMContentLoaded', function () {
   // End Test button tracking
   let endTestBtn = document.getElementById('end-test-btn');
   if (!endTestBtn) {
-    // Fallback injection if the element isn't explicitly in HTML template
     endTestBtn = document.createElement('button');
     endTestBtn.textContent = 'End Test';
     endTestBtn.className = 'nav-btn end-test-btn';
@@ -72,11 +72,9 @@ document.addEventListener('DOMContentLoaded', function () {
       units: {}
     };
 
-    // Increment overall statistics
     stats.totalAnswered += 1;
     if (isCorrect) stats.totalCorrect += 1;
 
-    // Increment mode-specific statistics
     if (sessionType === 'study') {
       stats.studyMode.answered += 1;
       if (isCorrect) stats.studyMode.correct += 1;
@@ -85,7 +83,6 @@ document.addEventListener('DOMContentLoaded', function () {
       if (isCorrect) stats.examMode.correct += 1;
     }
 
-    // Increment unit-specific statistics
     if (unitName) {
       const formattedUnit = unitName.toLowerCase().trim();
       if (!stats.units[formattedUnit]) {
@@ -98,7 +95,6 @@ document.addEventListener('DOMContentLoaded', function () {
     localStorage.setItem('qbankStats', JSON.stringify(stats));
   }
 
-  // Extracts unit prefix from filename (e.g., "pedi1-2" -> "pedi", "thoracic_cases" -> "thoracic")
   function getUnitFromFilename(filename) {
     if (!filename) return 'General';
     const match = filename.match(/^([a-zA-Z]+)/);
@@ -106,10 +102,8 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   // --------- DATA NORMALIZATION ----------
-  // Standardizes properties of different database schemes
   function normalizeQuestions(rawQuestions, filename) {
     return rawQuestions.map(q => {
-      // 1. Unify choices/options array & strip redundant prefix (e.g., "a. ")
       let originalChoices = q.options || q.choices || [];
       const cleanedOptions = originalChoices.map(opt => {
         if (typeof opt === 'string') {
@@ -118,15 +112,13 @@ document.addEventListener('DOMContentLoaded', function () {
         return opt;
       });
 
-      // 2. Unify details/explanations
       const explanationText = q.explanation || q.detail || "No explanation provided.";
 
-      // 3. Resolve answer keys to index numbers (0 through 4)
       let calculatedAnswerIndex = 0;
       if (typeof q.answer === 'string') {
         const cleanAns = q.answer.trim().toLowerCase();
         if (cleanAns.length === 1 && cleanAns >= 'a' && cleanAns <= 'e') {
-          calculatedAnswerIndex = cleanAns.charCodeAt(0) - 97; // 'a' -> 0, 'b' -> 1...
+          calculatedAnswerIndex = cleanAns.charCodeAt(0) - 97;
         } else {
           const matchInRaw = originalChoices.indexOf(q.answer);
           calculatedAnswerIndex = matchInRaw !== -1 ? matchInRaw : cleanedOptions.indexOf(q.answer);
@@ -147,19 +139,12 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  // --------- HELPERS: LOADING JSON WITH FALLBACKS ----------
-  if (location.protocol === 'file:') {
-    console.warn('This page is opened via file://. Use a local server (e.g., `python -m http.server`).');
-  }
-
-  // Normalizes the path/filename strings
   function normalizeName(name) {
     return String(name || '').trim().replace(/^\/*/, '').replace(/\.json$/i, '');
   }
 
   async function fetchJsonWithFallbacks(name) {
     const base = normalizeName(name);
-    // Modified candidate list to prioritize the correct "assets/" directory
     const candidates = [
       `assets/${base}.json`,
       `${base}.json`,
@@ -176,11 +161,9 @@ document.addEventListener('DOMContentLoaded', function () {
           console.log(`Loaded ${data.questions.length} questions from ${url}`);
           return { data, url };
         }
-      } catch (_) {
-        // keep trying
-      }
+      } catch (_) {}
     }
-    const err = new Error(`No usable JSON found for "${name}". Tried:\n${tried.join('\n')}`);
+    const err = new Error(`No usable JSON found for "${name}".`);
     err.tried = tried;
     throw err;
   }
@@ -189,44 +172,41 @@ document.addEventListener('DOMContentLoaded', function () {
     const unique = Array.from(new Set((files || []).map(normalizeName)));
     const list = unique.length ? unique : ['sample'];
     const allQuestions = [];
-    const errors = [];
 
     const limit = Math.min(parseInt(sessionStorage.getItem('questionCount')) || 40, 400);
 
     for (const name of list) {
       try {
         const { data } = await fetchJsonWithFallbacks(name);
-        // Normalize loaded questions before joining them
         const normalized = normalizeQuestions(data.questions || [], name);
         allQuestions.push(...normalized);
       } catch (e) {
         console.warn(e.message);
-        errors.push(e.tried || []);
-      }
-    }
-
-    if (!allQuestions.length) {
-      const msg =
-        'No questions found. Check your JSON filenames/locations.\n' +
-        (errors.flat().length ? `Tried:\n${errors.flat().map(u => '• ' + u).join('\n')}` : '');
-      console.error(msg);
-      if (questionText) {
-        questionText.textContent =
-          'No questions found. Ensure your JSON files are in the assets/ folder, and run via a local server.';
       }
     }
 
     return allQuestions.slice(0, limit);
   }
 
-  // --------- LOAD QUESTIONS ----------
+  // --------- LOAD QUESTIONS (UPDATED FOR REVIEW MODE) ----------
+  const customMode = sessionStorage.getItem('customStudyMode');
   const filesToLoad = JSON.parse(sessionStorage.getItem('filesToLoad')) || ['sample'];
 
-  loadCombinedQuestions(filesToLoad)
+  let loadPromise;
+
+  if (customMode === 'incorrect' || customMode === 'flagged') {
+    const storageKey = customMode === 'incorrect' ? 'globalIncorrectQuestions' : 'globalFlaggedQuestions';
+    const rawCustomQs = JSON.parse(localStorage.getItem(storageKey)) || [];
+    const normalizedCustomQs = normalizeQuestions(rawCustomQs, customMode);
+    loadPromise = Promise.resolve(normalizedCustomQs);
+  } else {
+    loadPromise = loadCombinedQuestions(filesToLoad);
+  }
+
+  loadPromise
     .then(loadedQuestions => {
       questions = loadedQuestions;
 
-      // init timer and counters
       totalTime = questions.length * QUESTION_TIME;
       timeLeft = totalTime;
       if (examTotalQuestions) examTotalQuestions.textContent = questions.length;
@@ -234,15 +214,10 @@ document.addEventListener('DOMContentLoaded', function () {
       displayQuestion(currentQuestionIndex);
       createQuestionsSidebar();
       startTimer();
-      
-      // Track session commencement
       incrementSessionCount();
     })
     .catch(error => {
       console.error('Error loading questions:', error);
-      if (questionText) {
-        questionText.textContent = 'Failed to load questions. Please try again later.';
-      }
     });
 
   // --------- UI BUILDERS ----------
@@ -275,11 +250,9 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  // Loads active index parameters onto interface layout
   function displayQuestion(index) {
     if (!questions.length || index < 0 || index >= questions.length) return;
 
-    // reset containers
     choicesContainer.innerHTML = '';
     questionImageContainer.innerHTML = '';
 
@@ -290,7 +263,9 @@ document.addEventListener('DOMContentLoaded', function () {
     if (examCurrentQuestion) examCurrentQuestion.textContent = index + 1;
     if (questionText) questionText.textContent = question.question || '';
 
-    // Image (if present)
+    // NEW: Sync the Flag button visual state for this question
+    updateFlagButtonState(question);
+
     if (question.Image && question.Image !== 'none') {
       const img = document.createElement('img');
       img.src = `assets/${question.Image}`;
@@ -302,7 +277,6 @@ document.addEventListener('DOMContentLoaded', function () {
       questionText.insertAdjacentElement('afterend', questionImageContainer);
     }
 
-    // Choices (supporting up to 5 choices)
     const letters = ['A', 'B', 'C', 'D', 'E'];
     const currentOptions = question.options || [];
 
@@ -314,13 +288,12 @@ document.addEventListener('DOMContentLoaded', function () {
         <span class="choice-text">${choiceText || ''}</span>
       `;
 
-      // Match against normalized numerical user answers index (0-4)
       if (selectedAnswers[index] === i) {
         choiceElement.classList.add('selected');
       }
 
       choiceElement.addEventListener('click', function () {
-        selectedAnswers[index] = i; // Save choice index directly
+        selectedAnswers[index] = i;
         attemptedQuestions.add(index);
         Array.from(choicesContainer.children).forEach(child => child.classList.remove('selected'));
         choiceElement.classList.add('selected');
@@ -330,11 +303,46 @@ document.addEventListener('DOMContentLoaded', function () {
       choicesContainer.appendChild(choiceElement);
     });
 
-    // Navigation
     if (prevBtn) prevBtn.disabled = index === 0;
     if (nextBtn) nextBtn.disabled = index === questions.length - 1;
 
     updateQuestionsSidebar();
+  }
+
+  // --- NEW: Flagging UI Helpers ---
+  function updateFlagButtonState(question) {
+    if (!flagBtn) return;
+    const flaggedList = JSON.parse(localStorage.getItem('globalFlaggedQuestions')) || [];
+    const isFlagged = flaggedList.some(item => item.question === question.question);
+
+    if (isFlagged) {
+      flagBtn.innerHTML = '🚩 Flagged';
+      flagBtn.style.backgroundColor = '#ffbc00';
+      flagBtn.style.color = '#000';
+    } else {
+      flagBtn.innerHTML = '🏳️ Flag Question';
+      flagBtn.style.backgroundColor = 'transparent';
+      flagBtn.style.color = '#ffbc00';
+    }
+  }
+
+  if (flagBtn) {
+    flagBtn.addEventListener('click', function () {
+      const question = questions[currentQuestionIndex];
+      if (!question) return;
+
+      let flaggedList = JSON.parse(localStorage.getItem('globalFlaggedQuestions')) || [];
+      const indexInFlags = flaggedList.findIndex(item => item.question === question.question);
+
+      if (indexInFlags > -1) {
+        flaggedList.splice(indexInFlags, 1); // Unflag
+      } else {
+        flaggedList.push(question); // Flag
+      }
+
+      localStorage.setItem('globalFlaggedQuestions', JSON.stringify(flaggedList));
+      updateFlagButtonState(question);
+    });
   }
 
   // --------- FINISH & PACKAGING LOGIC ----------
@@ -342,32 +350,41 @@ document.addEventListener('DOMContentLoaded', function () {
     clearInterval(interval);
 
     const parsedAnswersArray = [];
+    const globalIncorrects = JSON.parse(localStorage.getItem('globalIncorrectQuestions')) || [];
 
-    // Map selections to structure expected by review.js and record progress details
     questions.forEach((question, index) => {
       const chosenIdx = selectedAnswers[index];
-      
-      // AUTOMATIC UNIT PARSING FROM FILENAME PREFIX
       const questionUnit = getUnitFromFilename(question._sourceFile);
+      const isCorrect = (chosenIdx === question.answer);
 
       if (chosenIdx !== undefined && chosenIdx !== null) {
         parsedAnswersArray.push(chosenIdx);
-
-        // Evaluate and record the question accuracy (using pre-normalized indices)
-        const isCorrect = (chosenIdx === question.answer);
         recordQuestionProgress(questionUnit, isCorrect, 'exam');
       } else {
-        parsedAnswersArray.push(null); // Explicit skipped item indicator
-        
-        // Count skipped questions as incorrect answers in historical performance datasets
+        parsedAnswersArray.push(null);
         recordQuestionProgress(questionUnit, false, 'exam');
       }
+
+      // Save or update incorrect pool
+      if (!isCorrect) {
+        const exists = globalIncorrects.some(q => q.question === question.question);
+        if (!exists) {
+          globalIncorrects.push(question);
+        }
+      } else {
+        const findIndex = globalIncorrects.findIndex(q => q.question === question.question);
+        if (findIndex !== -1) {
+          globalIncorrects.splice(findIndex, 1);
+        }
+      }
     });
+
+    localStorage.setItem('globalIncorrectQuestions', JSON.stringify(globalIncorrects));
 
     const examResultPayload = {
       questions: questions,
       answers: parsedAnswersArray,
-      timeTaken: totalTime - timeLeft // Calculate total elapsed seconds
+      timeTaken: totalTime - timeLeft
     };
 
     localStorage.setItem('lastExamResult', JSON.stringify(examResultPayload));
@@ -375,11 +392,8 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   // --------- TIMER ----------
-  function pad(n) {
-    return n < 10 ? '0' + n : String(n);
-  }
+  function pad(n) { return n < 10 ? '0' + n : String(n); }
 
-  // Timer display configuration
   function updateTimerDisplay() {
     const mins = Math.floor(timeLeft / 60);
     const secs = timeLeft % 60;
@@ -422,7 +436,6 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  // Keyboard navigation
   document.addEventListener('keydown', function (e) {
     if (e.key === 'ArrowLeft' && prevBtn && !prevBtn.disabled) {
       prevBtn.click();

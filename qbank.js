@@ -36,9 +36,61 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
+  // --- NEW: Dashboard Actions (Incorrect / Flagged Review Launchers) ---
+  function initDashboardActions() {
+    const btnIncorrect = document.getElementById('btn-review-incorrect');
+    const btnFlagged = document.getElementById('btn-review-flagged');
+    const incorrectCountEl = document.getElementById('incorrect-count');
+    const flaggedCountEl = document.getElementById('flagged-count');
+
+    const incorrects = JSON.parse(localStorage.getItem('globalIncorrectQuestions')) || [];
+    const flagged = JSON.parse(localStorage.getItem('globalFlaggedQuestions')) || [];
+
+    // 1. Update Badge Counts on the Dashboard
+    if (incorrectCountEl) incorrectCountEl.textContent = incorrects.length;
+    if (flaggedCountEl) flaggedCountEl.textContent = flagged.length;
+
+    // 2. Disable buttons visually if there are no questions to review
+    if (btnIncorrect && incorrects.length === 0) {
+      btnIncorrect.disabled = true;
+      btnIncorrect.style.opacity = '0.5';
+      btnIncorrect.style.cursor = 'not-allowed';
+    }
+    if (btnFlagged && flagged.length === 0) {
+      btnFlagged.disabled = true;
+      btnFlagged.style.opacity = '0.5';
+      btnFlagged.style.cursor = 'not-allowed';
+    }
+
+    // 3. Handle incorrect questions review click
+    if (btnIncorrect) {
+      btnIncorrect.addEventListener('click', function () {
+        sessionStorage.setItem('customStudyMode', 'incorrect');
+        sessionStorage.setItem('questionCount', incorrects.length.toString());
+        sessionStorage.removeItem('filesToLoad'); // Clear typical loads
+        window.location.href = 'studymode.html';
+      });
+    }
+
+    // 4. Handle flagged questions review click
+    if (btnFlagged) {
+      btnFlagged.addEventListener('click', function () {
+        sessionStorage.setItem('customStudyMode', 'flagged');
+        sessionStorage.setItem('questionCount', flagged.length.toString());
+        sessionStorage.removeItem('filesToLoad'); // Clear typical loads
+        window.location.href = 'studymode.html';
+      });
+    }
+  }
+
+  // Initialize those buttons right away
+  initDashboardActions();
+
   // --- FRCR Modular Session Launcher ---
-  // Expose to window so the inline onclick handlers in your HTML cards work perfectly
   window.launchModularSession = function(moduleFileName, mode) {
+    // Make sure to clear custom review modes when starting a fresh standard session
+    sessionStorage.removeItem('customStudyMode');
+
     // 1. Pack the selected modular file
     const filesToLoad = [moduleFileName];
     sessionStorage.setItem('filesToLoad', JSON.stringify(filesToLoad));
@@ -239,6 +291,9 @@ document.addEventListener('DOMContentLoaded', function () {
   const startBtn = document.querySelector('.start-btn');
   if (startBtn) {
     startBtn.addEventListener('click', function() {
+      // Clear custom review mode when launching a completely new set of questions
+      sessionStorage.removeItem('customStudyMode');
+
       let filesToLoad = [];
 
       // Check standard modular sub-unit modals first

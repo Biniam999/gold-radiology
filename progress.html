@@ -41,6 +41,17 @@
         </div>
       </section>
 
+      <section class="review-actions-section" style="margin: 20px 0;">
+        <div class="dashboard-actions" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+          <button id="btn-review-incorrect" class="action-btn" style="padding: 14px 24px; font-weight: bold; background: #e53935; color: white; border: none; border-radius: 8px; cursor: pointer; display: inline-flex; align-items: center; gap: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.15); transition: all 0.2s;">
+            ⚠️ Review Incorrect Questions (<span id="incorrect-count">0</span>)
+          </button>
+          <button id="btn-review-flagged" class="action-btn" style="padding: 14px 24px; font-weight: bold; background: #fbc02d; color: #1e1e1e; border: none; border-radius: 8px; cursor: pointer; display: inline-flex; align-items: center; gap: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.15); transition: all 0.2s;">
+            🚩 Review Flagged Questions (<span id="flagged-count">0</span>)
+          </button>
+        </div>
+      </section>
+
       <section class="breakdown-section">
         <h2>Performance by Unit</h2>
         <div class="unit-progress-list" id="unitProgressContainer">

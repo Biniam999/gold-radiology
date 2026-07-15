@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
         unitRow.className = 'unit-progress-row';
         unitRow.innerHTML = `
           <div class="unit-progress-info">
-            <span class="unit-name">${unit}</span>
+            <span class="unit-name" style="text-transform: capitalize;">${unit}</span>
             <span class="unit-score">${unitAcc}% (${uData.correct}/${uData.answered})</span>
           </div>
           <div class="progress-bar-bg">
@@ -51,11 +51,58 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // 4. Reset Button Behavior
+  // --- 4. Custom Review Launchers Logic ---
+  const btnIncorrect = document.getElementById('btn-review-incorrect');
+  const btnFlagged = document.getElementById('btn-review-flagged');
+  const incorrectCountEl = document.getElementById('incorrect-count');
+  const flaggedCountEl = document.getElementById('flagged-count');
+
+  // Load custom reviews lists
+  const incorrects = JSON.parse(localStorage.getItem('globalIncorrectQuestions')) || [];
+  const flagged = JSON.parse(localStorage.getItem('globalFlaggedQuestions')) || [];
+
+  // Update numbers in the buttons
+  if (incorrectCountEl) incorrectCountEl.textContent = incorrects.length;
+  if (flaggedCountEl) flaggedCountEl.textContent = flagged.length;
+
+  // Visual disable settings if counts are 0
+  if (btnIncorrect && incorrects.length === 0) {
+    btnIncorrect.disabled = true;
+    btnIncorrect.style.opacity = '0.4';
+    btnIncorrect.style.cursor = 'not-allowed';
+  }
+  if (btnFlagged && flagged.length === 0) {
+    btnFlagged.disabled = true;
+    btnFlagged.style.opacity = '0.4';
+    btnFlagged.style.cursor = 'not-allowed';
+  }
+
+  // Handle launch interactions
+  if (btnIncorrect) {
+    btnIncorrect.addEventListener('click', () => {
+      sessionStorage.setItem('customStudyMode', 'incorrect');
+      sessionStorage.setItem('questionCount', incorrects.length.toString());
+      sessionStorage.removeItem('filesToLoad'); // Bypass global unit json targets
+      window.location.href = 'studymode.html';
+    });
+  }
+
+  if (btnFlagged) {
+    btnFlagged.addEventListener('click', () => {
+      sessionStorage.setItem('customStudyMode', 'flagged');
+      sessionStorage.setItem('questionCount', flagged.length.toString());
+      sessionStorage.removeItem('filesToLoad'); // Bypass global unit json targets
+      window.location.href = 'studymode.html';
+    });
+  }
+
+  // 5. Reset Button Behavior
   const resetBtn = document.getElementById('resetProgressBtn');
   resetBtn.addEventListener('click', () => {
     if (confirm('Are you absolutely sure you want to reset all your progress and performance stats? This cannot be undone.')) {
       localStorage.removeItem('qbankStats');
+      localStorage.removeItem('globalIncorrectQuestions');
+      localStorage.removeItem('globalFlaggedQuestions');
       window.location.reload();
     }
   });

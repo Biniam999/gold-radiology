@@ -12,8 +12,8 @@
     <a href="index.html" class="logo">GOLD RADIOLOGY</a>
     <nav>
       <a href="qbank.html">Qbank</a>
-      <a href="#">Progress</a>
-      <a href="#">About</a>
+      <a href="progress.html">Progress</a>
+      <a href="about.html">About</a>
     </nav>
   </header>
 
@@ -26,14 +26,17 @@
 
       <div class="question-content">
         <div class="question-container">
-          <div class="question-header">
-            <div class="question-number" id="question-number">Question 1</div>
+          <div class="question-header" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+            <div style="display: flex; align-items: center; gap: 15px;">
+              <div class="question-number" id="question-number" style="margin: 0;">Question 1</div>
+              <button id="flag-question-btn" class="flag-btn" style="padding: 6px 12px; cursor: pointer; border-radius: 6px; border: 1px solid #ffbc00; background: transparent; color: #ffbc00; font-weight: bold; transition: all 0.2s;">🏳️ Flag Question</button>
+            </div>
             <div class="question-counter" id="question-counter">Question 1 of 1</div>
           </div>
 
           <div class="question-text" id="question-text"></div>
           <div class="choices-container" id="choices-container"></div>
-          </div>
+        </div>
 
         <div class="navigation-buttons">
           <button class="nav-btn" id="prev-btn">Previous</button>
