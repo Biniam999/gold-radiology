@@ -1,0 +1,1305 @@
+{
+    "questions": 
+[
+  {
+    "number": 1,
+    "question": "A 60-year-old male with chronic renal failure presents with hip pain. Radiographs demonstrate wide lucent bands oriented at 90 degrees to the cortex of the femoral neck with surrounding sclerosis. What is the most likely diagnosis?",
+    "choices": [
+      "A. Stress fracture",
+      "B. Looser zones",
+      "C. Pathologic fracture",
+      "D. Osteopoikilosis",
+      "E. Paget disease"
+    ],
+    "answer": "B",
+    "detail": "Wide lucent bands at 90 degrees to the cortex are a type of insufficiency fracture classic for osteomalacia."
+  },
+  {
+    "number": 2,
+    "question": "Which of the following is considered a primary imaging hallmark of osteomalacia on multiple-choice exams?",
+    "choices": [
+      "A. Sharp, well-defined cortical margins",
+      "B. Ill-defined trabeculae",
+      "C. Increased bone density",
+      "D. Narrowed joint spaces",
+      "E. Osteophyte formation"
+    ],
+    "answer": "B",
+    "detail": "Osteomalacia is characterized by 'soft' bone findings, including ill-defined trabeculae and bowing."
+  },
+  {
+    "number": 3,
+    "question": "At what approximate age does bone density typically peak before it begins to decrease?",
+    "choices": [
+      "A. 18 years",
+      "B. 25 years",
+      "C. 30 years",
+      "D. 40 years",
+      "E. 50 years"
+    ],
+    "answer": "C",
+    "detail": "Bone density peaks around age 30 and then decreases, faster in women during menopause."
+  },
+  {
+    "number": 4,
+    "question": "According to the WHO criteria for DEXA, a T-score of -2.6 in a post-menopausal woman is classified as:",
+    "choices": [
+      "A. Normal",
+      "B. Osteopenia",
+      "C. Osteoporosis",
+      "D. Severe Osteoporosis",
+      "E. Osteomalacia"
+    ],
+    "answer": "C",
+    "detail": "WHO criteria define a T-score < -2.5 as osteoporosis."
+  },
+  {
+    "number": 5,
+    "question": "Which of the following would result in a 'False Positive' on a DEXA scan (measuring density higher than it actually is)?",
+    "choices": [
+      "A. Status post laminectomy",
+      "B. Excessive osteophytes",
+      "C. Dermal calcifications",
+      "D. Compression fracture in the measured area",
+      "E. Metallic hardware"
+    ],
+    "answer": "A",
+    "detail": "Absent structures like a laminectomy fool the machine into measuring lower density, creating a false positive for osteoporosis/underestimation of density."
+  },
+  {
+    "number": 6,
+    "question": "In DEXA scanning, what does the 'Z-score' represent?",
+    "choices": [
+      "A. Density relative to a young adult",
+      "B. Density relative to an age-matched control",
+      "C. The probability of fracture in 10 years",
+      "D. The amount of radiation absorbed by the patient",
+      "E. The thickness of the femoral cortex"
+    ],
+    "answer": "B",
+    "detail": "T-score is relative to a young adult; Z-score is relative to an age-matched control ('Za Zame age')."
+  },
+  {
+    "number": 7,
+    "question": "Which clinical tool is used to calculate the 10-year probability of a major osteoporotic fracture?",
+    "choices": [
+      "A. Neer Classification",
+      "B. FRAX",
+      "C. Torg-Pavlov Ratio",
+      "D. Modic Criteria",
+      "E. WHO T-score"
+    ],
+    "answer": "B",
+    "detail": "The Fracture Risk Assessment Tool (FRAX) calculates the 10-year probability of fracture."
+  },
+  {
+    "number": 8,
+    "question": "For which patient population is the FRAX tool specifically recommended to assist in clinical decision-making?",
+    "choices": [
+      "A. Patients with a T-score of -3.0",
+      "B. Patients already on osteoporosis medications",
+      "C. Patients with a T-score between -1.0 and -2.5",
+      "D. Children with growth plate injuries",
+      "E. Athletes with suspected stress fractures"
+    ],
+    "answer": "C",
+    "detail": "FRAX adds value by identifying which 'osteopenic' patients (T-score between -1.0 and -2.5) need pharmacologic intervention."
+  },
+  {
+    "number": 9,
+    "question": "A patient presents with severe osteopenia and intra-articular uptake of tracer on all three phases of a bone scan following a minor injury. What is the most likely diagnosis?",
+    "choices": [
+      "A. Rheumatoid arthritis",
+      "B. Reflex Sympathetic Dystrophy (RSD)",
+      "C. Osteomyelitis",
+      "D. Transient Osteoporosis of the Hip",
+      "E. Disuse atrophy"
+    ],
+    "answer": "B",
+    "detail": "RSD (Complex Regional Pain Syndrome) classically shows intra-articular uptake on all three phases of a bone scan."
+  },
+  {
+    "number": 10,
+    "question": "A female in her third trimester of pregnancy presents with sudden left hip pain. Radiographs show profound osteopenia of the femoral head, but the joint space is preserved. What is the most likely diagnosis?",
+    "choices": [
+      "A. Avascular Necrosis (AVN)",
+      "B. Septic arthritis",
+      "C. Transient Osteoporosis of the Hip",
+      "D. Femoral neck stress fracture",
+      "E. Osteosarcoma"
+    ],
+    "answer": "C",
+    "detail": "Transient Osteoporosis of the Hip is classically seen in women in the 3rd trimester, often favoring the left hip."
+  },
+  {
+    "number": 11,
+    "question": "On MRI, how can a radiologist most reliably differentiate early Avascular Necrosis (AVN) from Transient Osteoporosis of the Hip?",
+    "choices": [
+      "A. Transient osteoporosis has no edema on STIR",
+      "B. AVN will demonstrate a serpiginous dark line (infarct core) on T1",
+      "C. Transient osteoporosis always involves the joint space",
+      "D. AVN shows uniform high T1 signal",
+      "E. There is no way to differentiate them on MRI"
+    ],
+    "answer": "B",
+    "detail": "On MRI, AVN shows a characteristic serpiginous dark line (infarct core); transient osteoporosis shows diffuse edema."
+  },
+  {
+    "number": 12,
+    "question": "A 45-year-old male athlete presents with hip pain that resolves over several months, only for similar pain to subsequently develop in the knee. This clinical history is classic for:",
+    "choices": [
+      "A. Osteosarcoma",
+      "B. Regional Migratory Osteoporosis",
+      "C. Septic arthritis",
+      "D. Chronic osteomyelitis",
+      "E. Multiple Myeloma"
+    ],
+    "answer": "B",
+    "detail": "Regional Migratory Osteoporosis is characterized by idiopathic joint pain that moves from one joint to another."
+  },
+  {
+    "number": 13,
+    "question": "When evaluating a vertebral compression fracture on MRI, which finding is highly suggestive of an underlying malignancy (neoplastic fracture)?",
+    "choices": [
+      "A. A 'band-like' T1 dark fracture line",
+      "B. Normal marrow signal in the non-deformed portion of the vertebra",
+      "C. Involvement of the posterior margin of the vertebral body",
+      "D. Retropulsion of a posterior bone fragment",
+      "E. Edema confined to the superior endplate"
+    ],
+    "answer": "C",
+    "detail": "Malignancy often replaces the entire vertebral body and involves the posterior margin, unlike benign fractures."
+  },
+  {
+    "number": 14,
+    "question": "What is the appropriate 'internal control' for normal fatty marrow signal in an adult spine on T1-weighted images?",
+    "choices": [
+      "A. The spinal cord",
+      "B. The cerebrospinal fluid",
+      "C. An adjacent normal (non-desiccated) disc",
+      "D. The subcutaneous fat",
+      "E. The aorta"
+    ],
+    "answer": "C",
+    "detail": "Normal adult fatty marrow should be brighter than the adjacent non-desiccated intervertebral disc on T1."
+  },
+  {
+    "number": 15,
+    "question": "Which stage of Osteochondritis Dissecans (OCD) is defined by high T2 signal fluid undercutting the osteochondral fragment?",
+    "choices": [
+      "A. Stage 1",
+      "B. Stage 2",
+      "C. Stage 3",
+      "D. Stage 4",
+      "E. Stage 5"
+    ],
+    "answer": "C",
+    "detail": "Stage 3 OCD is defined as 'unstable on probing' with high T2 signal fluid undercutting the fragment."
+  },
+  {
+    "number": 16,
+    "question": "Where is the most common location for Osteochondritis Dissecans (OCD) in the knee?",
+    "choices": [
+      "A. Lateral aspect of the medial femoral condyle",
+      "B. Medial aspect of the lateral femoral condyle",
+      "C. Inferior pole of the patella",
+      "D. Tibial spine",
+      "E. Anterior lateral femoral condyle"
+    ],
+    "answer": "A",
+    "detail": "The lateral aspect of the medial femoral condyle is the most common site for OCD in the knee."
+  },
+  {
+    "number": 17,
+    "question": "A 7-year-old boy presents with collapse and sclerosis of the tarsal navicular. What is the diagnosis?",
+    "choices": [
+      "A. Freiberg infraction",
+      "B. Kohler disease",
+      "C. Sever disease",
+      "D. Perthes disease",
+      "E. Panner disease"
+    ],
+    "answer": "B",
+    "detail": "Kohler disease is a self-limiting osteochondrosis of the tarsal navicular in young boys."
+  },
+  {
+    "number": 18,
+    "question": "Which childhood osteochondrosis involves the second metatarsal head and is most common in adolescent girls?",
+    "choices": [
+      "A. Kohler disease",
+      "B. Freiberg infraction",
+      "C. Sever disease",
+      "D. Kienbock disease",
+      "E. Scheuermann disease"
+    ],
+    "answer": "B",
+    "detail": "Freiberg infraction is an osteochondrosis of the 2nd metatarsal head, typically in adolescent girls."
+  },
+  {
+    "number": 19,
+    "question": "A 7-year-old active child presents with heel pain. Radiographs show fragmentation and increased density of the calcaneal apophysis. This finding is often called:",
+    "choices": [
+      "A. A calcaneal stress fracture",
+      "B. Sever’s 'growing pain'",
+      "C. Ewing sarcoma",
+      "D. Osteomyelitis",
+      "E. Normal variant of no consequence"
+    ],
+    "answer": "B",
+    "detail": "Sever disease (calcaneal apophysitis) is a common cause of heel pain in children often called 'growing pain'."
+  },
+  {
+    "number": 20,
+    "question": "Panner’s disease involves the capitellum of the humerus. Which patient population is typically affected?",
+    "choices": [
+      "A. Adolescent pitchers (12–16 years old)",
+      "B. Young children (5–10 years old)",
+      "C. Elderly women with osteoporosis",
+      "D. Infants with birth trauma",
+      "E. Adults with RA"
+    ],
+    "answer": "B",
+    "detail": "Panner's disease affects younger children (5–10 years), whereas OCD is seen in older throwers."
+  },
+  {
+    "number": 21,
+    "question": "Legg-Calvé-Perthes (Perthes) disease classically affects which demographic?",
+    "choices": [
+      "A. Adolescent girls; 12–16 years old",
+      "B. White males; 4–8 years old",
+      "C. African American males; 20–40 years old",
+      "D. Newborn infants",
+      "E. Post-menopausal women"
+    ],
+    "answer": "B",
+    "detail": "Legg-Calvé-Perthes classically affects white males aged 4–8 years."
+  },
+  {
+    "number": 22,
+    "question": "Which finding is the most likely testable trivia associated with Kienbock disease?",
+    "choices": [
+      "A. Positive ulnar variance",
+      "B. Negative ulnar variance",
+      "C. Terry Thomas sign",
+      "D. Madelung deformity",
+      "E. Scaphoid non-union"
+    ],
+    "answer": "B",
+    "detail": "Negative ulnar variance is testably associated with Kienbock disease (lunate AVN)."
+  },
+  {
+    "number": 23,
+    "question": "Scheuermann’s disease is defined by at least 3 adjacent levels of thoracic vertebral wedging and a thoracic kyphosis of at least:",
+    "choices": [
+      "A. 11 degrees",
+      "B. 20 degrees",
+      "C. 30 degrees",
+      "D. 40 degrees",
+      "E. 60 degrees"
+    ],
+    "answer": "D",
+    "detail": "Diagnosis of Scheuermann's requires at least 3 adjacent wedged levels and kyphosis > 40 degrees."
+  },
+  {
+    "number": 24,
+    "question": "A 13-year-old soccer player has pain over the tibial tubercle with soft tissue swelling and fragmentation seen on radiographs. What is the diagnosis?",
+    "choices": [
+      "A. Sinding-Larsen-Johansson (SLJ)",
+      "B. Osgood-Schlatter Disease (OSD)",
+      "C. Blount disease",
+      "D. Tibial spine avulsion",
+      "E. Segond fracture"
+    ],
+    "answer": "B",
+    "detail": "OSD is a repetitive overuse injury of the tibial tubercle in active adolescents."
+  },
+  {
+    "number": 25,
+    "question": "Sinding-Larsen-Johansson (SLJ) involves an overuse injury to which structure?",
+    "choices": [
+      "A. Superior pole of the patella",
+      "B. Inferior pole of the patella",
+      "C. Tibial tubercle",
+      "D. Medial femoral condyle",
+      "E. Proximal fibula"
+    ],
+    "answer": "B",
+    "detail": "SLJ involves an overuse injury to the inferior patellar pole in jumping adolescents."
+  },
+  {
+    "number": 26,
+    "question": "How long after the onset of infection do radiographs typically remain normal in the setting of osteomyelitis?",
+    "choices": [
+      "A. 24–48 hours",
+      "B. 3–5 days",
+      "C. 7–10 days",
+      "D. 14–21 days",
+      "E. 1 month"
+    ],
+    "answer": "C",
+    "detail": "Radiographs lag behind clinical infection by 7–10 days in osteomyelitis."
+  },
+  {
+    "number": 27,
+    "question": "In children, which route of spread is most common for osteomyelitis, usually targeting the metaphysis of long bones?",
+    "choices": [
+      "A. Direct inoculation",
+      "B. Hematogenous spread",
+      "C. Spread from a septic joint",
+      "D. Iatrogenic spread from surgery",
+      "E. Lymphatic spread"
+    ],
+    "answer": "B",
+    "detail": "In children, infection typically reaches the metaphysis via hematogenous spread."
+  },
+  {
+    "number": 28,
+    "question": "Which of the following statements regarding joint infections is a recognized 'General Rule'?",
+    "choices": [
+      "A. Septic joints are more common in kids; osteomyelitis is more common in adults",
+      "B. Septic joints are more common in adults; osteomyelitis is more common in kids",
+      "C. Both are equally common in all ages",
+      "D. Septic joints only occur via direct spread",
+      "E. Osteomyelitis never involves the spine"
+    ],
+    "answer": "B",
+    "detail": "A key rule is that septic joints are more common in adults, whereas osteomyelitis is more common in children."
+  },
+  {
+    "number": 29,
+    "question": "A piece of necrotic bone surrounded by granulation tissue in the setting of chronic osteomyelitis is called a:",
+    "choices": [
+      "A. Involucrum",
+      "B. Sequestrum",
+      "C. Cloaca",
+      "D. Sinus tract",
+      "E. Phlebolith"
+    ],
+    "answer": "B",
+    "detail": "A sequestrum is necrotic bone surrounded by granulation tissue."
+  },
+  {
+    "number": 30,
+    "question": "A thick sheath of periosteal bone forming around a sequestrum is known as:",
+    "choices": [
+      "A. Involucrum",
+      "B. Cloaca",
+      "C. Sinus tract",
+      "D. Abscess",
+      "E. Callus"
+    ],
+    "answer": "A",
+    "detail": "An involucrum is the thick periosteal sheath that forms around a sequestrum."
+  },
+  {
+    "number": 31,
+    "question": "Which of the following is a recognized risk factor for the development of Squamous Cell Carcinoma?",
+    "choices": [
+      "A. Acute stress fracture",
+      "B. Draining sinus tracts in chronic osteomyelitis",
+      "C. Transient osteoporosis",
+      "D. Bipartite patella",
+      "E. Schmorl nodes"
+    ],
+    "answer": "B",
+    "detail": "Draining sinus tracts from chronic osteomyelitis are a known risk factor for squamous cell carcinoma (Marjolin ulcer)."
+  },
+  {
+    "number": 32,
+    "question": "What is the most specific sign of active chronic osteomyelitis?",
+    "choices": [
+      "A. Periosteal reaction",
+      "B. Bone marrow edema on STIR",
+      "C. Presence of a sequestrum",
+      "D. Uniform joint space narrowing",
+      "E. Soft tissue swelling"
+    ],
+    "answer": "C",
+    "detail": "The presence of a sequestrum is the most specific sign of active chronic osteomyelitis."
+  },
+  {
+    "number": 33,
+    "question": "The MRI diagnosis of 'healed' osteomyelitis is based on:",
+    "choices": [
+      "A. Complete resolution of T2 edema",
+      "B. Return of normal fatty marrow signal on T1",
+      "C. Disappearance of the sinus tract",
+      "D. Sclerosis of the bone on radiographs",
+      "E. Enhancement of the previous abscess cavity"
+    ],
+    "answer": "B",
+    "detail": "Diagnosis of 'healed' osteomyelitis is based on the return of normal fatty marrow signal on T1 images."
+  },
+  {
+    "number": 34,
+    "question": "In an infant younger than 18 months, why can osteomyelitis easily spread from the metaphysis to the epiphysis?",
+    "choices": [
+      "A. The growth plate is already fused",
+      "B. Transphyseal vessels are still present",
+      "C. The periosteum is thinner",
+      "D. There is no marrow in the epiphysis",
+      "E. Infants have higher intraosseous pressure"
+    ],
+    "answer": "B",
+    "detail": "In infants < 18 months, transphyseal vessels allow infection to spread across the growth plate."
+  },
+  {
+    "number": 35,
+    "question": "In the spine, the route of hematogenous seeding typically involves which sequence?",
+    "choices": [
+      "A. Disc -> Endplate -> Body",
+      "B. Vertebral endplate -> Disc -> Adjacent body",
+      "C. Spinous process -> Lamina -> Body",
+      "D. Epidural space -> Disc -> Endplate",
+      "E. Facet joint -> Pedicle -> Body"
+    ],
+    "answer": "B",
+    "detail": "Infection typically seeds the vascular endplate first, then spreads to the disc and adjacent body."
+  },
+  {
+    "number": 36,
+    "question": "Which imaging modality is considered superior for evaluating infection in the spine compared to a WBC scan?",
+    "choices": [
+      "A. Technetium-99m MDP",
+      "B. Gallium scan",
+      "C. Ultrasound",
+      "D. PET/CT",
+      "E. Radiographs"
+    ],
+    "answer": "B",
+    "detail": "Gallium scans are considered superior to WBC scans for evaluating spinal infection."
+  },
+  {
+    "number": 37,
+    "question": "A 3-year-old child presents with a recent history of an upper respiratory infection and now has new-onset lumbar back pain. MRI shows isolated discitis. This finding is:",
+    "choices": [
+      "A. Diagnostic of metastatic neuroblastoma",
+      "B. A classic presentation for pediatric discitis/osteomyelitis",
+      "C. Never seen in children under 5",
+      "D. Highly suggestive of TB (Pott’s)",
+      "E. A normal developmental variant"
+    ],
+    "answer": "B",
+    "detail": "Children < 4 years can get isolated discitis because of direct blood supply to the disc at that age."
+  },
+  {
+    "number": 38,
+    "question": "Pott disease (tuberculosis of the spine) is characterized by which of the following?",
+    "choices": [
+      "A. Rapid destruction of the intervertebral disc",
+      "B. Sparing of the disc space until late in the disease",
+      "C. Involvement of only one vertebral level",
+      "D. Absence of paraspinal abscesses",
+      "E. Predilection for the lumbar spine only"
+    ],
+    "answer": "B",
+    "detail": "TB of the spine classically spares the disc space until very late in the disease process."
+  },
+  {
+    "number": 39,
+    "question": "A focal, destructive kyphosis seen in the setting of spinal TB is known as a:",
+    "choices": [
+      "A. Trough sign",
+      "B. Gibbus deformity",
+      "C. Picture frame vertebra",
+      "D. H-shaped vertebra",
+      "E. Bamboo spine"
+    ],
+    "answer": "B",
+    "detail": "A Gibbus deformity is a destructive focal kyphosis characteristic of Pott disease."
+  },
+  {
+    "number": 40,
+    "question": "'Rice bodies' are sloughed, infarcted synovium found in end-stage RA and which other condition?",
+    "choices": [
+      "A. Gout",
+      "B. TB infection of joints",
+      "C. SONK",
+      "D. Osteopetrosis",
+      "E. Paget disease"
+    ],
+    "answer": "B",
+    "detail": "Rice bodies are sloughed, infarcted synovium seen in both TB joint infections and end-stage RA."
+  },
+  {
+    "number": 41,
+    "question": "The presence of gas in the soft tissues of the floor of the mouth in a patient with aggressive cellulitis is diagnostic of:",
+    "choices": [
+      "A. Parotitis",
+      "B. Ludwig’s Angina",
+      "C. Sialolithiasis",
+      "D. Thyroglossal duct cyst",
+      "E. Ranula"
+    ],
+    "answer": "B",
+    "detail": "Ludwig’s Angina is an aggressive cellulitis in the floor of the mouth often featuring gas."
+  },
+  {
+    "number": 42,
+    "question": "Which 'buzzword' describes the appearance of infarcted synovium in TB or late-stage RA?",
+    "choices": [
+      "A. Cotton wool",
+      "B. Rice bodies",
+      "C. Celery stalk",
+      "D. Drumstick",
+      "E. String sign"
+    ],
+    "answer": "B",
+    "detail": "Rice bodies are the classic buzzword for infarcted synovium in TB or RA."
+  },
+  {
+    "number": 43,
+    "question": "A 'Looser Zone' is fundamentally categorized as which type of fracture?",
+    "choices": [
+      "A. Fatigue fracture",
+      "B. Pathologic fracture",
+      "C. Insufficiency fracture",
+      "D. Comminuted fracture",
+      "E. Greenstick fracture"
+    ],
+    "answer": "C",
+    "detail": "Looser zones are wide lucent bands and are a specific type of insufficiency fracture."
+  },
+  {
+    "number": 44,
+    "question": "In which patient population is 'Physiologic Bowing' of the tibia considered a smooth, lateral, and normal finding?",
+    "choices": [
+      "A. Newborns at birth",
+      "B. Children between 18 months and 2 years",
+      "C. Adolescents during puberty",
+      "D. Elderly patients with Paget’s",
+      "E. This is never a normal finding"
+    ],
+    "answer": "B",
+    "detail": "Physiologic bowing is lateral, symmetric, and normal in children between 18 months and 2 years."
+  },
+  {
+    "number": 45,
+    "question": "Which of the following conditions is an idiopathic disorder where joint pain moves from one joint to another and is associated with self-limiting osteoporosis?",
+    "choices": [
+      "A. Reflex Sympathetic Dystrophy",
+      "B. Regional Migratory Osteoporosis",
+      "C. Avascular Necrosis",
+      "D. Osteomyelitis",
+      "E. Rheumatoid Arthritis"
+    ],
+    "answer": "B",
+    "detail": "Regional Migratory Osteoporosis is an idiopathic disorder involving joint pain that moves from joint to joint."
+  },
+  {
+    "number": 46,
+    "question": "On MRI, a 'Double Line Sign' seen on T2-weighted images (an inner bright line and outer dark line) is a classic indicator of:",
+    "choices": [
+      "A. Acute fracture",
+      "B. Osteomyelitis",
+      "C. Avascular Necrosis (AVN)",
+      "D. Meniscal tear",
+      "E. Synovial sarcoma"
+    ],
+    "answer": "C",
+    "detail": "The double line sign on T2 represents granulation tissue and sclerotic bone in AVN."
+  },
+  {
+    "number": 47,
+    "question": "A 'Crescent Sign' seen on a frog-leg lateral radiograph of the hip indicates:",
+    "choices": [
+      "A. Early-stage healing",
+      "B. Imminent articular collapse in AVN",
+      "C. A normal variation in children",
+      "D. Septic arthritis",
+      "E. Osteoid osteoma"
+    ],
+    "answer": "B",
+    "detail": "The subcondral lucency of a crescent sign indicates imminent articular collapse in AVN."
+  },
+  {
+    "number": 48,
+    "question": "Which condition results in 'hair-on-end' skulls, 'rodent faces,' and the obliteration of sinuses?",
+    "choices": [
+      "A. Sickle Cell Disease",
+      "B. Thalassemia",
+      "C. Paget Disease",
+      "D. Osteopetrosis",
+      "E. Hyperparathyroidism"
+    ],
+    "answer": "B",
+    "detail": "Thalassemia is characterized by hair-on-end skull and rodent faces due to marrow expansion."
+  },
+  {
+    "number": 49,
+    "question": "How can a radiologist distinguish Thalassemia from Sickle Cell Disease on a skull radiograph?",
+    "choices": [
+      "A. Thalassemia obliterates the sinuses; Sickle Cell does not",
+      "B. Sickle Cell obliterates the sinuses; Thalassemia does not",
+      "C. Only Sickle Cell shows 'hair-on-end' changes",
+      "D. Thalassemia is only seen in adults",
+      "E. There is no radiographic difference"
+    ],
+    "answer": "A",
+    "detail": "Sinus obliteration is the key differentiator for Thalassemia over Sickle Cell."
+  },
+  {
+    "number": 50,
+    "question": "Which of the following is the most common complication of Paget disease?",
+    "choices": [
+      "A. Osteosarcoma",
+      "B. High output CHF",
+      "C. Deafness",
+      "D. Spinal stenosis",
+      "E. Pathologic fracture"
+    ],
+    "answer": "C",
+    "detail": "Deafness is the most common complication of Paget's disease."
+  },
+  {
+    "number": 51,
+    "question": "A 'Blade of Grass' or 'Flame Sign' describes the advancing margin of lucency in Paget disease in which location?",
+    "choices": [
+      "A. Skull",
+      "B. Pelvis",
+      "C. Long bones",
+      "D. Spine",
+      "E. Carpals"
+    ],
+    "answer": "C",
+    "detail": "The Blade of Grass/Flame sign describes the advancing margin of lucency in long bones."
+  },
+  {
+    "number": 52,
+    "question": "Osteoporosis circumscripta is the 'buzzword' for the lytic phase of Paget disease in the:",
+    "choices": [
+      "A. Femur",
+      "B. Tibia",
+      "C. Skull",
+      "D. Spine",
+      "E. Scapula"
+    ],
+    "answer": "C",
+    "detail": "Osteoporosis circumscripta refers to large areas of osteolysis in the skull from Paget's."
+  },
+  {
+    "number": 53,
+    "question": "In the spine, Paget disease can cause a 'Picture Frame Vertebra.' Which other condition is a recognized mimic of this sign?",
+    "choices": [
+      "A. Sickle Cell Anemia",
+      "B. Osteopetrosis",
+      "C. Renal Osteodystrophy",
+      "D. Hyperparathyroidism",
+      "E. Osteogenesis Imperfecta"
+    ],
+    "answer": "B",
+    "detail": "Both Paget disease and Osteopetrosis cause cortical thickening leading to the picture frame sign."
+  },
+  {
+    "number": 54,
+    "question": "A 'Rugger Jersey Spine' (sclerosis of the superior and inferior endplates) is the hallmark of:",
+    "choices": [
+      "A. Paget disease",
+      "B. Renal Osteodystrophy",
+      "C. Sickle Cell Anemia",
+      "D. Osteopetrosis",
+      "E. Multiple Myeloma"
+    ],
+    "answer": "B",
+    "detail": "Rugger jersey spine shows sclerosis of tops and bottoms of vertebrae, classic for Renal Osteodystrophy."
+  },
+  {
+    "number": 55,
+    "question": "An 'H-Shaped Vertebra' caused by microvascular endplate infarcts is a classic 'buzzword' for:",
+    "choices": [
+      "A. Paget disease",
+      "B. Sickle Cell Anemia",
+      "C. Osteopetrosis",
+      "D. Renal Osteodystrophy",
+      "E. Ankylosing Spondylitis"
+    ],
+    "answer": "B",
+    "detail": "H-shaped vertebrae from microvascular endplate infarcts are a buzzword for Sickle Cell Anemia."
+  },
+  {
+    "number": 56,
+    "question": "If a patient with known Paget disease demonstrates a loss of the normal T1 fatty marrow signal on MRI, what should the radiologist suspect?",
+    "choices": [
+      "A. Active lytic phase",
+      "B. Sclerotic phase",
+      "C. Malignant transformation (Sarcoma)",
+      "D. Secondary Osteoarthritis",
+      "E. Normal disease progression"
+    ],
+    "answer": "C",
+    "detail": "Loss of normal fatty T1 signal in Paget disease indicates malignant transformation."
+  },
+  {
+    "number": 57,
+    "question": "Which bone is most commonly involved in Paget disease?",
+    "choices": [
+      "A. Skull",
+      "B. Spine",
+      "C. Pelvis",
+      "D. Femur",
+      "E. Tibia"
+    ],
+    "answer": "C",
+    "detail": "The pelvis is the most common bone involved in Paget disease."
+  },
+  {
+    "number": 58,
+    "question": "What is the classic triad of McCune-Albright Syndrome?",
+    "choices": [
+      "A. Polyostotic fibrous dysplasia, cafe-au-lait spots, and precocious puberty",
+      "B. Polyostotic fibrous dysplasia, soft tissue myxomas, and malignancy",
+      "C. Osteopoikilosis, keloids, and sclerotic lesions",
+      "D. Thalassemia, rodent faces, and hair-on-end skull",
+      "E. RA, splenomegaly, and neutropenia"
+    ],
+    "answer": "A",
+    "detail": "The McCune-Albright triad consists of polyostotic FD, cafe-au-lait spots, and precocious puberty."
+  },
+  {
+    "number": 59,
+    "question": "Mazabraud syndrome consists of polyostotic fibrous dysplasia and:",
+    "choices": [
+      "A. Precocious puberty",
+      "B. Multiple soft tissue myxomas",
+      "C. Recurrent septic joints",
+      "D. Early-onset deafness",
+      "E. Renal failure"
+    ],
+    "answer": "B",
+    "detail": "Mazabraud syndrome is the association of polyostotic FD and myxomas."
+  },
+  {
+    "number": 60,
+    "question": "A 'Shepherd’s Crook' deformity (coxa varus angulation of the proximal femur) is classic for:",
+    "choices": [
+      "A. Paget disease",
+      "B. Fibrous Dysplasia",
+      "C. Osteogenesis Imperfecta",
+      "D. Osteopetrosis",
+      "E. Perthes disease"
+    ],
+    "answer": "B",
+    "detail": "Fibrous Dysplasia classically hits the pelvis and ipsilateral femur, creating this deformity."
+  },
+  {
+    "number": 61,
+    "question": "Which 'Don’t Touch' lesion is a chronic tug lesion from the medial gastrocnemius/adductor magnus found on the posterior medial epicondyle of the distal femur?",
+    "choices": [
+      "A. Myositis ossificans",
+      "B. Cortical desmoid",
+      "C. Pitt’s pit",
+      "D. Osteoid osteoma",
+      "E. NOF"
+    ],
+    "answer": "B",
+    "detail": "A cortical desmoid is a chronic 'tug lesion' on the posterior medial femur."
+  },
+  {
+    "number": 62,
+    "question": "A 'Pitt’s Pit' (synovial herniation pit) is a lytic-appearing lesion typically located in the:",
+    "choices": [
+      "A. Greater trochanter",
+      "B. Lesser trochanter",
+      "C. Anterosuperior femoral neck",
+      "D. Ischial tuberosity",
+      "E. Acetabular roof"
+    ],
+    "answer": "C",
+    "detail": "The characteristic location for Pitt’s Pit is the anterosuperior femoral neck."
+  },
+  {
+    "number": 63,
+    "question": "Which condition is also known as 'Sudeck Atrophy'?",
+    "choices": [
+      "A. Osteomyelitis",
+      "B. Complex Regional Pain Syndrome (RSD)",
+      "C. Transient Osteoporosis",
+      "D. Avascular Necrosis",
+      "E. Paget disease"
+    ],
+    "answer": "B",
+    "detail": "RSD is also known as Sudeck Atrophy."
+  },
+  {
+    "number": 64,
+    "question": "A 'Fleck Sign' (small bone fragment between the 1st and 2nd metatarsal bases) is associated with:",
+    "choices": [
+      "A. Jones fracture",
+      "B. Lisfranc injury",
+      "C. March fracture",
+      "D. Sever disease",
+      "E. Freiberg infraction"
+    ],
+    "answer": "B",
+    "detail": "A bony fragment in the 1st-2nd MT space is the fleck sign of a Lisfranc injury."
+  },
+  {
+    "number": 65,
+    "question": "Which tendon is the largest in the human body?",
+    "choices": [
+      "A. Patellar tendon",
+      "B. Quadriceps tendon",
+      "C. Achilles tendon",
+      "D. Posterior tibial tendon",
+      "E. Supraspinatus tendon"
+    ],
+    "answer": "C",
+    "detail": "The Achilles tendon is the largest in the body."
+  },
+  {
+    "number": 66,
+    "question": "Why can the Achilles tendon NOT have 'tenosynovitis'?",
+    "choices": [
+      "A. It has no blood supply",
+      "B. It does not have a true tendon sheath",
+      "C. It is composed of fibrocartilage",
+      "D. It is always intra-articular",
+      "E. It is too thick to develop inflammation"
+    ],
+    "answer": "B",
+    "detail": "The Achilles lacks a true sheath, so inflammation around it is paratendinitis, not tenosynovitis."
+  },
+  {
+    "number": 67,
+    "question": "The 'Master Knot of Henry' is the anatomic location where which two structures cross?",
+    "choices": [
+      "A. FDL and FHL",
+      "B. PTT and FDL",
+      "C. Achilles and Plantaris",
+      "D. Peroneus Brevis and Longus",
+      "E. Anterior Tibialis and EHL"
+    ],
+    "answer": "A",
+    "detail": "This is the location where Dick (FDL) crosses over Harry (FHL)."
+  },
+  {
+    "number": 68,
+    "question": "Failure of which structure is the primary initiator of the 'Classic Flat Foot Progression'?",
+    "choices": [
+      "A. Spring ligament",
+      "B. Plantar fascia",
+      "C. Posterior Tibial Tendon (PTT)",
+      "D. Sinus tarsi ligaments",
+      "E. Achilles tendon"
+    ],
+    "answer": "C",
+    "detail": "The PTT is the first to go in the flat foot progression."
+  },
+  {
+    "number": 69,
+    "question": "Which ligament is the 'weakest' and most frequently injured in the ankle?",
+    "choices": [
+      "A. Calcaneofibular ligament",
+      "B. Posterior talofibular ligament",
+      "C. Anterior talofibular ligament (ATFL)",
+      "D. Deltoid ligament",
+      "E. Spring ligament"
+    ],
+    "answer": "C",
+    "detail": "The ATFL is the weakest and most frequently injured ankle ligament."
+  },
+  {
+    "number": 70,
+    "question": "A 'meniscoid mass' (balled-up scar) in the lateral gutter of the ankle on MRI is diagnostic of:",
+    "choices": [
+      "A. Tarsal Tunnel Syndrome",
+      "B. Anterolateral Impingement Syndrome",
+      "C. Sinus Tarsi Syndrome",
+      "D. Peroneal split tear",
+      "E. Os Trigonum Syndrome"
+    ],
+    "answer": "B",
+    "detail": "Anterolateral Impingement shows a 'meniscoid mass' in the lateral gutter."
+  },
+  {
+    "number": 71,
+    "question": "'Tarsal Tunnel Syndrome' involves compression of the posterior tibial nerve behind the:",
+    "choices": [
+      "A. Lateral malleolus",
+      "B. Medial malleolus",
+      "C. Calcaneus",
+      "D. Talus",
+      "E. Navicular"
+    ],
+    "answer": "B",
+    "detail": "Tarsal tunnel syndrome involves the posterior tibial nerve behind the medial malleolus."
+  },
+  {
+    "number": 72,
+    "question": "In 'Os Trigonum Syndrome,' the accessory ossicle 'puts the smash' on which specific tendon?",
+    "choices": [
+      "A. Tibialis posterior",
+      "B. Flexor Digitorum Longus",
+      "C. Flexor Hallucis Longus (FHL)",
+      "D. Peroneus brevis",
+      "E. Achilles tendon"
+    ],
+    "answer": "C",
+    "detail": "Os Trigonum impingement 'smashes' Harry (the FHL tendon)."
+  },
+  {
+    "number": 73,
+    "question": "A 'Tennis Leg' injury is a rupture of the plantaris tendon, classically showing a fluid collection between the soleus and:",
+    "choices": [
+      "A. The medial head of the gastrocnemius",
+      "B. The lateral head of the gastrocnemius",
+      "C. The tibia",
+      "D. The Achilles tendon",
+      "E. The plantaris muscle belly"
+    ],
+    "answer": "A",
+    "detail": "Tennis leg involves fluid between the soleus and medial gastrocnemius."
+  },
+  {
+    "number": 74,
+    "question": "An avulsion of the calcaneal tuberosity (the back of the bone 'ripped off') is most strongly associated with which systemic condition?",
+    "choices": [
+      "A. Renal failure",
+      "B. Hypertension",
+      "C. Diabetes",
+      "D. Alcoholism",
+      "E. Gout"
+    ],
+    "answer": "C",
+    "detail": "Calcaneal tuberosity avulsions are 'Aunt Minnies' for diabetes."
+  },
+  {
+    "number": 75,
+    "question": "Which childhood osteochondrosis involves the tibial tubercle and requires soft tissue swelling and fragmentation for diagnosis?",
+    "choices": [
+      "A. Kohler",
+      "B. Perthes",
+      "C. Osgood-Schlatter (OSD)",
+      "D. Sinding-Larsen-Johansson (SLJ)",
+      "E. Sever"
+    ],
+    "answer": "C",
+    "detail": "OSD is the overuse of the tibial tubercle in adolescents."
+  },
+  {
+    "number": 76,
+    "question": "Which condition is defined as 'osteomyelitis lasting longer than 6 weeks'?",
+    "choices": [
+      "A. Acute osteomyelitis",
+      "B. Subacute osteomyelitis",
+      "C. Chronic osteomyelitis",
+      "D. Marjolin ulcer",
+      "E. Brodie abscess"
+    ],
+    "answer": "C",
+    "detail": "Chronic osteomyelitis is defined as lasting longer than 6 weeks."
+  },
+  {
+    "number": 77,
+    "question": "In the spine, which clinical scenario is highly associated with an IV drug user?",
+    "choices": [
+      "A. Isolated discitis",
+      "B. Osteomyelitis without disc involvement",
+      "C. Unilateral SI joint lysis",
+      "D. Gibbus deformity",
+      "E. Epidural hematoma"
+    ],
+    "answer": "C",
+    "detail": "Unilateral SI joint lysis is a classic 'I say, you say' for IV drug users."
+  },
+  {
+    "number": 78,
+    "question": "An infected collection located between the dura and periosteum is called a(n):",
+    "choices": [
+      "A. Paraspinal abscess",
+      "B. Subdural empyema",
+      "C. Epidural abscess",
+      "D. Discitis",
+      "E. Myelitis"
+    ],
+    "answer": "C",
+    "detail": "A collection between the dura and periosteum is an epidural abscess."
+  },
+  {
+    "number": 79,
+    "question": "Which 'I Say, You Say' association is correct for a Psoas Muscle Abscess?",
+    "choices": [
+      "A. IV drug user",
+      "B. Tuberculosis (TB)",
+      "C. Staphylococcus aureus",
+      "D. Dialysis",
+      "E. Trauma"
+    ],
+    "answer": "B",
+    "detail": "A psoas abscess is classically associated with TB."
+  },
+  {
+    "number": 80,
+    "question": "A defect in the periosteum caused by infection is known as a:",
+    "choices": [
+      "A. Sequestrum",
+      "B. Involucrum",
+      "C. Cloaca",
+      "D. Sinus tract",
+      "E. Fistula"
+    ],
+    "answer": "C",
+    "detail": "A cloaca is a defect in the periosteum caused by infection."
+  },
+  {
+    "number": 81,
+    "question": "Which 'buzzword' finding on MRI suggests 'Adhesive Capsulitis'?",
+    "choices": [
+      "A. Increased glenohumeral volume",
+      "B. Loss of fat in the rotator cuff interval",
+      "C. Thickened supraspinatus tendon",
+      "D. Bicipital groove effusion",
+      "E. Labral tear"
+    ],
+    "answer": "B",
+    "detail": "Loss of fat in the rotator cuff interval is a classic MRI sign of adhesive capsulitis."
+  },
+  {
+    "number": 82,
+    "question": "In 'Quadrilateral Space Syndrome,' compression of the axillary nerve typically results in atrophy of which muscle?",
+    "choices": [
+      "A. Teres major",
+      "B. Teres minor",
+      "C. Infraspinatus",
+      "D. Subscapularis",
+      "E. Deltoid"
+    ],
+    "answer": "B",
+    "detail": "Quadrilateral space syndrome leads to teres minor atrophy."
+  },
+  {
+    "number": 83,
+    "question": "A cyst located in the 'Spinoglenoid Notch' will typically cause atrophy of which muscle(s)?",
+    "choices": [
+      "A. Supraspinatus and Infraspinatus",
+      "B. Supraspinatus only",
+      "C. Infraspinatus only",
+      "D. Teres minor",
+      "E. Subscapularis"
+    ],
+    "answer": "C",
+    "detail": "A cyst at the spinoglenoid notch spares the supraspinatus and affects only the infraspinatus."
+  },
+  {
+    "number": 84,
+    "question": "'Parsonage-Turner Syndrome' should be suspected when a radiologist identifies muscle atrophy in:",
+    "choices": [
+      "A. A single nerve distribution",
+      "B. Two or more nerve distributions (e.g., suprascapular and axillary)",
+      "C. The entire rotator cuff",
+      "D. Only the deltoid",
+      "E. The biceps muscle belly"
+    ],
+    "answer": "B",
+    "detail": "Atrophy in two or more nerve distributions is a hallmark of idiopathic brachial plexitis."
+  },
+  {
+    "number": 85,
+    "question": "What is the most common site for a 'metatarsal stress fracture' (March Fracture)?",
+    "choices": [
+      "A. 1st metatarsal",
+      "B. 2nd metatarsal",
+      "C. 5th metatarsal tuberosity",
+      "D. 5th metatarsal head",
+      "E. Great toe sesamoid"
+    ],
+    "answer": "B",
+    "detail": "The 2nd metatarsal is the most common site for a march fracture."
+  },
+  {
+    "number": 86,
+    "question": "A 'Jones Fracture' of the 5th metatarsal occurs approximately how far distal to the tuberosity?",
+    "choices": [
+      "A. 0.5 cm",
+      "B. 1.0 cm",
+      "C. 1.5 cm",
+      "D. 3.0 cm",
+      "E. 5.0 cm"
+    ],
+    "answer": "C",
+    "detail": "Jones fractures occur approximately 1.5 cm distal to the tuberosity."
+  },
+  {
+    "number": 87,
+    "question": "Which classification system is used to describe the number of 'parts' in a proximal humerus fracture?",
+    "choices": [
+      "A. Schatzker",
+      "B. Neer",
+      "C. Garden",
+      "D. Weber",
+      "E. Salter-Harris"
+    ],
+    "answer": "B",
+    "detail": "The Neer classification describes parts in proximal humerus fractures."
+  },
+  {
+    "number": 88,
+    "question": "The 'most common' complication of a conventional total shoulder arthroplasty is:",
+    "choices": [
+      "A. Anterior escape",
+      "B. Loosening of the glenoid component",
+      "C. Axillary nerve palsy",
+      "D. Posterior acromion fracture",
+      "E. Periprosthetic infection"
+    ],
+    "answer": "B",
+    "detail": "The most common complication of conventional TSA is loosening of the glenoid component."
+  },
+  {
+    "number": 89,
+    "question": "A 'Reverse' Total Shoulder Arthroplasty is the modern trend for treating which types of proximal humerus fractures?",
+    "choices": [
+      "A. All non-displaced fractures",
+      "B. Acute 3 and 4-part fractures",
+      "C. Fractures in children",
+      "D. Isolated greater tuberosity fractures",
+      "E. Pathologic fractures"
+    ],
+    "answer": "B",
+    "detail": "Reverse TSA is the modern trend for acute 3 and 4-part fractures."
+  },
+  {
+    "number": 90,
+    "question": "Which structure is the primary stabilizer of the Distal Radioulnar Joint (DRUJ)?",
+    "choices": [
+      "A. Scapholunate ligament",
+      "B. Triangular Fibrocartilage Complex (TFCC)",
+      "C. Ulnar collateral ligament",
+      "D. Volar radiocarpal ligament",
+      "E. Interosseous membrane"
+    ],
+    "answer": "B",
+    "detail": "The TFCC is the primary stabilizer and shock absorber of the DRUJ."
+  },
+  {
+    "number": 91,
+    "question": "In 'Ulnar Impaction Syndrome,' the distal ulna 'smashes' into which carpal bone?",
+    "choices": [
+      "A. Scaphoid",
+      "B. Lunate",
+      "C. Triquetrum",
+      "D. Capitate",
+      "E. Hamate"
+    ],
+    "answer": "B",
+    "detail": "In ulnar impaction, ulna abutment degenerates the lunate."
+  },
+  {
+    "number": 92,
+    "question": "Negative ulnar variance is most strongly associated with which condition?",
+    "choices": [
+      "A. Ulnar impaction syndrome",
+      "B. Kienbock disease (AVN of the lunate)",
+      "C. TFCC tear",
+      "D. Madelung deformity",
+      "E. Galeazzi fracture"
+    ],
+    "answer": "B",
+    "detail": "Kienbock disease is testably associated with negative ulnar variance."
+  },
+  {
+    "number": 93,
+    "question": "'De Quervain’s Tenosynovitis' involves the tendons of which extensor compartment?",
+    "choices": [
+      "A. 1st compartment (APL and EPB)",
+      "B. 2nd compartment (ECRL and ECRB)",
+      "C. 3rd compartment (EPL)",
+      "D. 4th compartment (EDC and EIP)",
+      "E. 6th compartment (ECU)"
+    ],
+    "answer": "A",
+    "detail": "De Quervain’s affects the 1st extensor compartment ('Mommy Thumb')."
+  },
+  {
+    "number": 94,
+    "question": "'Intersection Syndrome' occurs where the 1st extensor compartment crosses over the tendons of the:",
+    "choices": [
+      "A. 2nd compartment",
+      "B. 3rd compartment",
+      "C. 4th compartment",
+      "D. 6th compartment",
+      "E. Flexor carpi radialis"
+    ],
+    "answer": "A",
+    "detail": "Intersection syndrome occurs where the 1st compartment crosses the 2nd compartment."
+  },
+  {
+    "number": 95,
+    "question": "A 'Stener Lesion' occurs when the adductor aponeurosis gets caught in the torn edges of the:",
+    "choices": [
+      "A. Radial collateral ligament",
+      "B. Ulnar collateral ligament (UCL) of the thumb",
+      "C. Volar plate",
+      "D. Scapholunate ligament",
+      "E. Flexor pollicis longus"
+    ],
+    "answer": "B",
+    "detail": "A Stener lesion prevents UCL healing due to entrapment by the adductor aponeurosis."
+  },
+  {
+    "number": 96,
+    "question": "A 'Monteggia Fracture' (MUGR) involves a proximal ulnar fracture and dislocation of the:",
+    "choices": [
+      "A. Ulnar head at the wrist",
+      "B. Radial head at the elbow",
+      "C. Scaphoid",
+      "D. Lunate",
+      "E. Distal radius"
+    ],
+    "answer": "B",
+    "detail": "Monteggia = proximal Ulna fracture + Radial head dislocation."
+  },
+  {
+    "number": 97,
+    "question": "A 'Galeazzi Fracture' (MUGR) involves a radial shaft fracture and dislocation of the:",
+    "choices": [
+      "A. Radial head at the elbow",
+      "B. Ulna at the DRUJ",
+      "C. Capitellum",
+      "D. Triquetrum",
+      "E. First CMC joint"
+    ],
+    "answer": "B",
+    "detail": "Galeazzi = Radius fracture + Ulnar dislocation at the DRUJ."
+  },
+  {
+    "number": 98,
+    "question": "'Little Leaguer’s Elbow' is characterized by a triad including lateral compression, medial tension, and:",
+    "choices": [
+      "A. Anterior traction",
+      "B. Posterior shear",
+      "C. Superior distraction",
+      "D. Rotational torque",
+      "E. Valgus instability"
+    ],
+    "answer": "B",
+    "detail": "The triad for valgus overload throwers includes Medial tension, Lateral compression, and Posterior shear."
+  },
+  {
+    "number": 99,
+    "question": "A 'Popeye Deformity' is the clinical sign of a rupture of which structure?",
+    "choices": [
+      "A. Triceps tendon",
+      "B. Biceps tendon",
+      "C. Brachialis",
+      "D. Pectoralis major",
+      "E. Subscapularis"
+    ],
+    "answer": "B",
+    "detail": "The rolled-up muscle appearance of a biceps tear is called the Popeye Deformity."
+  },
+  {
+    "number": 100,
+    "question": "According to the 'Pretzel Principle,' if a radiologist sees a fracture of the proximal ulna, what is the 'Next Step'?",
+    "choices": [
+      "A. Get a wrist X-ray",
+      "B. Get an elbow X-ray",
+      "C. Order an MRI",
+      "D. Perform a joint aspiration",
+      "E. Apply a cast immediately"
+    ],
+    "answer": "B",
+    "detail": "Ulna Fx = Elbow X-ray; Radius Fx = Wrist X-ray based on the 'Pretzel Principle' of forearm rings."
+  }
+]
+}

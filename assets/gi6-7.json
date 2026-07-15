@@ -1,0 +1,1306 @@
+{
+    "questions": 
+    [
+    {
+      "number": 1,
+      "question": "According to classic ultrasound anatomy, how should the echogenicity of the pancreas compare to the liver?",
+      "choices": [
+        "The liver should be more echogenic.",
+        "Pancreatic echogenicity should be GREATER than the normal liver.",
+        "They should be identical.",
+        "The pancreas is anechoic.",
+        "The pancreas is always darker."
+      ],
+      "answer": "B",
+      "detail": "In a healthy patient, the pancreas is brighter (more echogenic) than the liver."
+    },
+    {
+      "number": 2,
+      "question": "On a non-contrast T1-weighted MRI, the pancreas is characteristically described as:",
+      "choices": [
+        "The darkest organ in the abdomen.",
+        "The brightest organ in the body",
+        "Isointense to the spleen.",
+        "High signal only on T2.",
+        "Non-enhancing."
+      ],
+      "answer": "B",
+      "detail": "The pancreas is the brightest T1 structure due to its high aqueous protein and enzyme content."
+    },
+    {
+      "number": 3,
+      "question": "In patients with Cystic Fibrosis (CF), what is the most common imaging finding in the adult population?",
+      "choices": [
+        "Pancreatic adenocarcinoma.",
+        "Complete fatty replacement of the pancreas",
+        "Multiple large macroscopic cysts.",
+        "Biliary atresia.",
+        "Pancreatic divisum."
+      ],
+      "answer": "B",
+      "detail": "While fibrosis occurs, complete fatty replacement is the most frequent adult CF finding."
+    },
+    {
+      "number": 4,
+      "question": "What is the buzzword for a pancreas that is markedly enlarged and entirely replaced by fat?",
+      "choices": [
+        "Pancreatic agenesis.",
+        "Lipomatous pseudohypertrophy",
+        "Steatotic pancreatitis.",
+        "Nesidioblastosis.",
+        "SPEN."
+      ],
+      "answer": "B",
+      "detail": "Lipomatous pseudohypertrophy describes the massive fatty enlargement seen in CF or Shwachman-Diamond."
+    },
+    {
+      "number": 5,
+      "question": "Shwachman-Diamond Syndrome is the second most common cause of pancreatic insufficiency in children and features which clinical triad?",
+      "choices": [
+        "Diarrhea, short stature, and eczema",
+        "Obesity, tall stature, and acne.",
+        "Jaundice, fever, and RLQ pain.",
+        "Anemia, web, and spoon nails.",
+        "Macroglossia, omphalocele, and Wilms."
+      ],
+      "answer": "A",
+      "detail": "This syndrome presents with pancreatic insufficiency, growth issues, and skin changes."
+    },
+    {
+      "number": 6,
+      "question": "Dorsal Pancreatic Agenesis occurs when the dorsal bud fails to form, resulting in a pancreas that lacks a:",
+      "choices": [
+        "Head.",
+        "Uncinate process.",
+        "Tail",
+        "Neck.",
+        "Duct of Wirsung."
+      ],
+      "answer": "C",
+      "detail": "The dorsal bud forms the body and tail; its absence leads to a tail-less pancreas."
+    },
+    {
+      "number": 7,
+      "question": "Dorsal Pancreatic Agenesis is classically associated with which heterotaxy syndrome?",
+      "choices": [
+        "Asplenia.",
+        "Polysplenia",
+        "Situs Inversus.",
+        "Kartagener’s.",
+        "VACTERL."
+      ],
+      "answer": "B",
+      "detail": "This agenesis is a known association with polysplenia."
+    },
+    {
+      "number": 8,
+      "question": "Annular Pancreas results from the failure of the ventral bud to rotate, causing the pancreas to encase the:",
+      "choices": [
+        "Stomach.",
+        "Descending (2nd part) duodenum",
+        "Esophagus.",
+        "Common bile duct.",
+        "Portal vein."
+      ],
+      "answer": "B",
+      "detail": "The pancreatic tissue encircles the duodenum, often causing obstruction."
+    },
+    {
+      "number": 9,
+      "question": "In pediatric patients, Annular Pancreas typically presents as:",
+      "choices": [
+        "Pancreatitis.",
+        "Duodenal obstruction",
+        "Gastric ulcers.",
+        "Diarrhea.",
+        "Jaundice."
+      ],
+      "answer": "B",
+      "detail": "In children, it causes extrinsic narrowing and high obstruction."
+    },
+    {
+      "number": 10,
+      "question": "What is the most critical factor to evaluate in the setting of blunt pancreatic trauma?",
+      "choices": [
+        "Size of the hematoma.",
+        "Integrity of the pancreatic duct",
+        "Presence of free air.",
+        "Enhancement of the tail.",
+        "Proximity to the spleen."
+      ],
+      "answer": "B",
+      "detail": "If the pancreatic duct is damaged, the patient must go to the OR."
+    },
+    {
+      "number": 11,
+      "question": "Traumatic pancreatitis in a child who is too young to ride a bicycle should raise immediate suspicion for:",
+      "choices": [
+        "Cystic Fibrosis.",
+        "Non-Accidental Trauma (NAT)",
+        "Congenital ductal anomaly.",
+        "Ascaris infection.",
+        "Biliary atresia."
+      ],
+      "answer": "B",
+      "detail": "Handlebar or seatbelt injuries are common, but in very young kids, think abuse (NAT)."
+    },
+    {
+      "number": 12,
+      "question": "On CT, how do you distinguish a pancreatic laceration from a contusion?",
+      "choices": [
+        "Contusions are always calcified.",
+        "Lacerations show low attenuation fluid separating two portions of enhancing parenchyma",
+        "Lacerations only occur in the tail.",
+        "Contusions always involve the duct.",
+        "There is no CT difference."
+      ],
+      "answer": "B",
+      "detail": "Lacerations are defined by the clear separation of the enhancing gland."
+    },
+    {
+      "number": 13,
+      "question": "What is the Best Next Step to evaluate for a suspected pancreatic duct injury?",
+      "choices": [
+        "Repeat CT in 24 hours.",
+        "MRCP or ERCP",
+        "Ultrasound.",
+        "Barium swallow.",
+        "PET/CT."
+      ],
+      "answer": "B",
+      "detail": "MRCP or ERCP is required to assess ductal integrity."
+    },
+    {
+      "number": 14,
+      "question": "What are the two most common causes of acute pancreatitis in the adult population?",
+      "choices": [
+        "Trauma and Surgery.",
+        "Gallstones and EtOH (Alcohol)",
+        "Scorpion bites and Medications.",
+        "Hyperlipidemia and Hypercalcemia.",
+        "CF and Infection."
+      ],
+      "answer": "B",
+      "detail": "Together, gallstones and alcohol account for 80% of real-world cases."
+    },
+    {
+      "number": 15,
+      "question": "Which scoring system is used to estimate the prognosis of acute pancreatitis on CT?",
+      "choices": [
+        "Child-Pugh.",
+        "MELD.",
+        "Balthazar Score",
+        "Wells Score.",
+        "Kocher Criteria."
+      ],
+      "answer": "C",
+      "detail": "The Balthazar Score is the standard for CT grading of pancreatitis."
+    },
+    {
+      "number": 16,
+      "question": "Acute pancreatitis follows a biphasic course; the first two weeks (Week 1–2) are characterized by:",
+      "choices": [
+        "SIRS / ARDS (pro-inflammatory phase)",
+        "Liquefactive necrosis.",
+        "Bacterial infection.",
+        "Pseudocyst formation.",
+        "Chronic fibrosis."
+      ],
+      "answer": "A",
+      "detail": "The early phase is a sterile inflammatory response."
+    },
+    {
+      "number": 17,
+      "question": "In the clinical course of pancreatitis, the risk of infection and sepsis typically peaks during:",
+      "choices": [
+        "The first 24 hours.",
+        "Weeks 3–4",
+        "Month 6.",
+        "Only after surgery.",
+        "It is constant throughout."
+      ],
+      "answer": "B",
+      "detail": "The late phase is the period of translocated intestinal flora and potential sepsis."
+    },
+    {
+      "number": 18,
+      "question": "According to the revised Atlanta classification, an Acute Peripancreatic Fluid Collection (APFC) is defined as having:",
+      "choices": [
+        "Internal necrosis.",
+        "NO necrosis and lasting LESS than 4 weeks",
+        "A thick enhancing wall.",
+        "Communication with the stomach.",
+        "Calcifications."
+      ],
+      "answer": "B",
+      "detail": "APFC is a simple collection seen early in the disease without necrosis."
+    },
+    {
+      "number": 19,
+      "question": "A Pancreatic Pseudocyst is a fluid collection that has persisted for:",
+      "choices": [
+        "< 1 week.",
+        "1–2 weeks.",
+        "More than 4 weeks (with NO necrosis)",
+        "Exactly 1 year.",
+        "Only in chronic disease."
+      ],
+      "answer": "C",
+      "detail": "A pseudocyst is a mature collection occurring after 4 weeks."
+    },
+    {
+      "number": 20,
+      "question": "Which term describes a necrotic collection that has lasted MORE than 4 weeks and has developed a wall?",
+      "choices": [
+        "Acute Necrotic Collection (ANC).",
+        "Walled-Off Necrosis (WON)",
+        "Pseudocyst.",
+        "Phlegmon.",
+        "Abscess."
+      ],
+      "answer": "B",
+      "detail": "WON is the necrotic version of a pseudocyst."
+    },
+    {
+      "number": 21,
+      "question": "Isolated Gastric Varices in a patient with pancreatitis are usually caused by:",
+      "choices": [
+        "Portal hypertension.",
+        "Splenic vein thrombosis",
+        "Superior mesenteric artery syndrome.",
+        "Hepatic artery aneurysm.",
+        "Aorta-enteric fistula."
+      ],
+      "answer": "B",
+      "detail": "Pancreatitis can cause splenic vein occlusion, leading to isolated varices in the fundus."
+    },
+    {
+      "number": 22,
+      "question": "Which two vessels are the most common sites for pseudoaneurysm formation following pancreatitis?",
+      "choices": [
+        "Celiac and SMA.",
+        "GDA and Splenic Artery",
+        "Renal and Hepatic.",
+        "IMA and Iliac.",
+        "Aorta and IVC."
+      ],
+      "answer": "B",
+      "detail": "The GDA and Splenic artery are frequently digested by leaking enzymes."
+    },
+    {
+      "number": 23,
+      "question": "On ultrasound, how does the appearance of the pancreas change during an episode of acute inflammation?",
+      "choices": [
+        "It becomes hyperechoic.",
+        "It becomes hypoechoic (edematous)",
+        "It shows clean shadowing.",
+        "It disappears.",
+        "It becomes 'Oreo cookie' shaped."
+      ],
+      "answer": "B",
+      "detail": "An inflamed pancreas is hypoechoic, which is the opposite of its normal bright appearance."
+    },
+    {
+      "number": 24,
+      "question": "What is the most common anatomical variant of the human pancreas?",
+      "choices": [
+        "Agenesis.",
+        "Pancreatic Divisum",
+        "Annular pancreas.",
+        "Ectopic rest.",
+        "Horseshoe pancreas."
+      ],
+      "answer": "B",
+      "detail": "Pancreatic Divisum occurs in about 15% of the population."
+    },
+    {
+      "number": 25,
+      "question": "In Pancreatic Divisum, the Duct of Santorini (the minor duct) characteristically drains into the:",
+      "choices": [
+        "Major papilla (inferior).",
+        "Superior (minor) duodenal papilla",
+        "Gastric fundus.",
+        "Common bile duct.",
+        "Spleen."
+      ],
+      "answer": "B",
+      "detail": "Santorini is Small and Superior; it drains the bulk of the gland in divisum."
+    },
+    {
+      "number": 26,
+      "question": "Which pancreatic duct variant is associated with an increased risk of pancreatitis?",
+      "choices": [
+        "Pancreatic Divisum",
+        "Replaced right hepatic artery.",
+        "Accessory spleen.",
+        "Normal bifid system.",
+        "Phrygian cap."
+      ],
+      "answer": "A",
+      "detail": "The clinical relevance of divisum is its link to recurrent pancreatitis."
+    },
+    {
+      "number": 27,
+      "question": "Autoimmune Pancreatitis is characteristically associated with elevated serum levels of:",
+      "choices": [
+        "AFP.",
+        "CEA.",
+        "IgG4",
+        "CA 19-9.",
+        "Amylase."
+      ],
+      "answer": "C",
+      "detail": "IgG4-related disease is the hallmark of autoimmune pancreatitis."
+    },
+    {
+      "number": 28,
+      "question": "What is the classic CT appearance of Autoimmune Pancreatitis?",
+      "choices": [
+        "Multiple macroscopic cysts.",
+        "Sausage-shaped gland with a capsule-like rim of enhancement",
+        "Diffuse calcifications and ductal dilation.",
+        "Small, atrophic tail.",
+        "Apple core narrowing."
+      ],
+      "answer": "B",
+      "detail": "The featureless, sausage-shaped gland is pathognomonic."
+    },
+    {
+      "number": 29,
+      "question": "How can Autoimmune Pancreatitis be distinguished from Chronic Pancreatitis on imaging?",
+      "choices": [
+        "Autoimmune has more calcifications.",
+        "Autoimmune has NO ductal dilation and NO calcifications",
+        "Chronic has a sausage shape.",
+        "They are identical.",
+        "Autoimmune only occurs in the head."
+      ],
+      "answer": "B",
+      "detail": "Unlike chronic pancreatitis, AIP lacks the typical stones and spit-up ducts."
+    },
+    {
+      "number": 30,
+      "question": "Groove Pancreatitis (Paraduodenal) classically involves the soft tissues between the pancreatic head and the:",
+      "choices": [
+        "Liver.",
+        "Duodenum (the groove)",
+        "Spleen.",
+        "Aorta.",
+        "Transverse colon."
+      ],
+      "answer": "B",
+      "detail": "It presents as soft tissue in the pancreaticoduodenal groove."
+    },
+    {
+      "number": 31,
+      "question": "Which parasite is most commonly implicated in causing pancreatitis by obstructing the bile ducts?",
+      "choices": [
+        "Giardia.",
+        "Ascaris",
+        "Entamoeba.",
+        "Strongyloides.",
+        "Toxoplasma."
+      ],
+      "answer": "B",
+      "detail": "Ascaris can migrate into and block the pancreatic or bile ducts."
+    },
+    {
+      "number": 32,
+      "question": "Intraductal Papillary Mucinous Neoplasms (IPMNs) are mucin-producing tumors that arise from:",
+      "choices": [
+        "Islet cells.",
+        "Duct epithelium",
+        "The pancreatic capsule.",
+        "Mesenchymal tissue.",
+        "Lymphatics."
+      ],
+      "answer": "B",
+      "detail": "IPMNs are primary ductal tumors."
+    },
+    {
+      "number": 33,
+      "question": "Main Branch IPMNs carry a high malignant potential of approximately:",
+      "choices": [
+        "5%.",
+        "25%.",
+        "60%",
+        "95%.",
+        "100%."
+      ],
+      "answer": "C",
+      "detail": "Because of the 60% malignant risk, main branch IPMNs usually require resection."
+    },
+    {
+      "number": 34,
+      "question": "A Side Branch IPMN is often described as 'the pulmonary nodule of the pancreas' because it is:",
+      "choices": [
+        "Always malignant.",
+        "Common and usually meaningless (benign)",
+        "Only found in the lungs.",
+        "Calcified.",
+        "Rare."
+      ],
+      "answer": "B",
+      "detail": "Side branch IPMNs are frequently incidental and carry a low risk of malignancy (<5%)."
+    },
+    {
+      "number": 35,
+      "question": "Serous Cystadenoma is nicknamed the 'Grandma Lesion' because it typically occurs in:",
+      "choices": [
+        "Young Asian females.",
+        "Women over age 60",
+        "Newborns.",
+        "Men on steroids.",
+        "Adolescent boys."
+      ],
+      "answer": "B",
+      "detail": "Serous cystic tumors favor elderly women."
+    },
+    {
+      "number": 36,
+      "question": "The characteristic appearance of a Serous Cystadenoma is described as:",
+      "choices": [
+        "Unilocular with thick walls.",
+        "Micro-cystic or Honeycomb with central calcification",
+        "Solid and hypervascular.",
+        "Communicating with the main duct.",
+        "Fat-containing."
+      ],
+      "answer": "B",
+      "detail": "The honeycomb appearance and a central stellate scar/calcification are classic."
+    },
+    {
+      "number": 37,
+      "question": "Mucinous Cystic Neoplasm is nicknamed the 'Mother Lesion' and characteristically occurs in:",
+      "choices": [
+        "Newborns.",
+        "Middle-aged women (40s)",
+        "Men with CF.",
+        "Elderly grandfathers.",
+        "Teenage girls."
+      ],
+      "answer": "B",
+      "detail": "Mucinous cystic tumors favor middle-aged women and are considered premalignant."
+    },
+    {
+      "number": 38,
+      "question": "Where do 95% of Mucinous Cystic Neoplasms occur?",
+      "choices": [
+        "Pancreatic head.",
+        "Uncinate process.",
+        "Pancreatic body or tail",
+        "Major papilla.",
+        "Intra-gastric."
+      ],
+      "answer": "C",
+      "detail": "Unlike serous tumors, mucinous ones strongly favor the body/tail."
+    },
+    {
+      "number": 39,
+      "question": "In a Mucinous Cystic Neoplasm, where is the characteristic calcification located?",
+      "choices": [
+        "Central.",
+        "Peripheral (along the wall or septations)",
+        "Intraductal.",
+        "Within the spleen.",
+        "No calcifications occur."
+      ],
+      "answer": "B",
+      "detail": "Peripheral calcification is a major discriminator for mucinous lesions."
+    },
+    {
+      "number": 40,
+      "question": "Solid Pseudopapillary Neoplasm (SPEN) is nicknamed the 'Daughter Lesion' and classically occurs in:",
+      "choices": [
+        "Asian or Black females in their 20s or 30s",
+        "White males over 70.",
+        "Infants with Beckwith-Wiedemann.",
+        "Healthy athletes.",
+        "Patients with diabetes."
+      ],
+      "answer": "A",
+      "detail": "SPEN is the Aunt Minnie for a young woman with a large pancreatic tail mass."
+    },
+    {
+      "number": 41,
+      "question": "Pancreatic Adenocarcinoma is most commonly found in which part of the gland?",
+      "choices": [
+        "Tail.",
+        "Body.",
+        "Head",
+        "Uncinate process.",
+        "Capsule."
+      ],
+      "answer": "C",
+      "detail": "The pancreatic head is the primary site, often leading to ductal obstruction."
+    },
+    {
+      "number": 42,
+      "question": "The Wide Duodenal Sweep and Inverted 3 Sign are radiographic indicators of:",
+      "choices": [
+        "Pancreatitis.",
+        "Pancreatic Cancer (Adenocarcinoma)",
+        "Divisum.",
+        "Annular pancreas.",
+        "Gastric volvulus."
+      ],
+      "answer": "B",
+      "detail": "These signs result from a mass in the pancreatic head pushing on the duodenum."
+    },
+    {
+      "number": 43,
+      "question": "How is a Periampullary Tumor defined?",
+      "choices": [
+        "Any tumor in the pancreatic tail.",
+        "A tumor originating within 2 cm of the major papilla",
+        "A tumor that invades the spleen.",
+        "A tumor caused by gallstones.",
+        "Any metastatic lesion."
+      ],
+      "answer": "B",
+      "detail": "Periampullary tumors involve the distal CBD, pancreas, or duodenum near the papilla."
+    },
+    {
+      "number": 44,
+      "question": "Which pancreatic tumor is the most common islet cell/neuroendocrine type (75%)?",
+      "choices": [
+        "Gastrinoma.",
+        "Insulinoma",
+        "Glucagonoma.",
+        "Somatostatinoma.",
+        "VIPoma."
+      ],
+      "answer": "B",
+      "detail": "Insulinomas are the most frequent pancreatic neuroendocrine tumors."
+    },
+    {
+      "number": 45,
+      "question": "Most Insulinomas are characteristically:",
+      "choices": [
+        "Large and malignant.",
+        "Small (<2 cm) and benign (90%)",
+        "Found only in the tail.",
+        "Cystic.",
+        "Calcified."
+      ],
+      "answer": "B",
+      "detail": "These are usually small, solitary, hypervascular, and benign."
+    },
+    {
+      "number": 46,
+      "question": "Gastrinomas are the second most common islet cell tumor and are the most common type associated with:",
+      "choices": [
+        "NF-1.",
+        "MEN 1",
+        "VHL.",
+        "Tuberous Sclerosis.",
+        "Down Syndrome."
+      ],
+      "answer": "B",
+      "detail": "Gastrinomas are a high-yield feature of MEN 1 (multiple endocrine neoplasia type 1)."
+    },
+    {
+      "number": 47,
+      "question": "The clinical presentation of a Gastrinoma (Zollinger-Ellison Syndrome) features which classic imaging finding?",
+      "choices": [
+        "Jejunal ulcers",
+        "Barrett’s esophagus.",
+        "Distal ileal thickening.",
+        "Porcelain gallbladder.",
+        "Sigmoid volvulus."
+      ],
+      "answer": "A",
+      "detail": "Peptic ulcers in the jejunum are a major clue for gastrinoma."
+    },
+    {
+      "number": 48,
+      "question": "Where is the Gastrinoma Triangle located?",
+      "choices": [
+        "Between the stomach, spleen, and diaphragm.",
+        "Junction of cystic/CBD, 3rd part of duodenum, and pancreatic body",
+        "Portohilar region.",
+        "Lower 1/3 of the esophagus.",
+        "The sigmoid-rectal junction."
+      ],
+      "answer": "B",
+      "detail": "This triangle is the anatomical region where 90% of gastrinomas arise."
+    },
+    {
+      "number": 49,
+      "question": "Which neuroendocrine tumor is the most likely to be large and show calcifications at the time of diagnosis?",
+      "choices": [
+        "Insulinoma.",
+        "Gastrinoma.",
+        "Non-Functional Islet Cell Tumor",
+        "SPEN.",
+        "Somatostatinoma."
+      ],
+      "answer": "C",
+      "detail": "Non-functional tumors present late because they don't produce hormone-related symptoms."
+    },
+    {
+      "number": 50,
+      "question": "An Intrapancreatic Accessory Spleen (IPAS) classically mimics a mass but can be identified by which pattern on the arterial phase?",
+      "choices": [
+        "Homogeneous enhancement.",
+        "Tiger striped appearance",
+        "Peripheral nodular enhancement.",
+        "Oreo cookie sign.",
+        "No enhancement."
+      ],
+      "answer": "B",
+      "detail": "Like the main spleen, IPAS is tiger-striped on the arterial run."
+    },
+    {
+      "number": 51,
+      "question": "Which nuclear medicine tests can prove a pancreatic mass is actually an accessory spleen?",
+      "choices": [
+        "HIDA scan.",
+        "Heat Treated RBCs or Sulfur Colloid",
+        "MIBG scan.",
+        "I-123 scan.",
+        "PET/CT."
+      ],
+      "answer": "B",
+      "detail": "The accessory spleen will take up tracer just like the normal spleen."
+    },
+    {
+      "number": 52,
+      "question": "The Whipple procedure involves the resection of the gallbladder, gastric antrum, duodenum, and the:",
+      "choices": [
+        "Entire pancreas.",
+        "Pancreatic head",
+        "Pancreatic tail.",
+        "Spleen.",
+        "Kidney."
+      ],
+      "answer": "B",
+      "detail": "A standard Whipple focuses on the pancreatic head."
+    },
+    {
+      "number": 53,
+      "question": "What is the most common clinical complication following a Whipple procedure?",
+      "choices": [
+        "Delayed gastric emptying",
+        "Heart failure.",
+        "Splenic infarct.",
+        "Renal failure.",
+        "Blindness."
+      ],
+      "answer": "A",
+      "detail": "This is often managed with a long-term NG tube."
+    },
+    {
+      "number": 54,
+      "question": "A Pancreatic Fistula post-surgery is defined by which drain output?",
+      "choices": [
+        "Bloody fluid > 1 liter.",
+        "Amylase-rich fluid > 50 ml for longer than 7–10 days",
+        "Clear fluid for 24 hours.",
+        "Bile in the drain.",
+        "Pus."
+      ],
+      "answer": "B",
+      "detail": "The diagnosis depends on the volume and duration of amylase-rich fluid."
+    },
+    {
+      "number": 55,
+      "question": "What is the third most common complication of a pancreaticoduodenectomy, occurring in 5–20% of patients?",
+      "choices": [
+        "Pulmonary embolism.",
+        "Wound infection",
+        "Chronic rejection.",
+        "Dumping syndrome.",
+        "Mesenteric ischemia."
+      ],
+      "answer": "B",
+      "detail": "Wound infections are a frequent surgical complication."
+    },
+    {
+      "number": 56,
+      "question": "Shrinking Transplant is a specific buzzword used to describe:",
+      "choices": [
+        "Normal healing.",
+        "Chronic rejection of a pancreatic graft",
+        "Acute rejection.",
+        "Fatty replacement.",
+        "Successful outcome."
+      ],
+      "answer": "B",
+      "detail": "The graft progressively gets smaller in size during chronic rejection."
+    },
+    {
+      "number": 57,
+      "question": "Which genetic syndrome features the association of Serous Cystadenomas of the pancreas?",
+      "choices": [
+        "MEN 1.",
+        "Von Hippel-Lindau (VHL)",
+        "Tuberous Sclerosis.",
+        "Beckwith-Wiedemann.",
+        "Turner Syndrome."
+      ],
+      "answer": "B",
+      "detail": "VHL is the reflex generator for serous cystic pancreatic lesions."
+    },
+    {
+      "number": 58,
+      "question": "Tropical Pancreatitis and Hereditary Pancreatitis are both associated with an increased risk of:",
+      "choices": [
+        "Diabetes only.",
+        "Pancreatic Adenocarcinoma",
+        "Islet cell tumors.",
+        "SPEN.",
+        "Cystic fibrosis."
+      ],
+      "answer": "B",
+      "detail": "Both chronic inflammatory states increase the risk of cancer."
+    },
+    {
+      "number": 59,
+      "question": "In the 'THIS vs THAT' for pancreatic tumors, which lesion is 'Mother' (middle-aged, tail, premalignant)?",
+      "choices": [
+        "Serous Cystic.",
+        "Mucinous Cystic",
+        "Solid Pseudopapillary.",
+        "Adenocarcinoma.",
+        "Lymphoma."
+      ],
+      "answer": "B",
+      "detail": "Mucinous is the 'Mother' lesion."
+    },
+    {
+      "number": 60,
+      "question": "In the 'THIS vs THAT' for pancreatic tumors, which lesion is 'Daughter' (young, Asian/Black, tail, low-grade malignant)?",
+      "choices": [
+        "Serous Cystic.",
+        "Mucinous Cystic.",
+        "Solid Pseudopapillary (SPEN)",
+        "Adenocarcinoma.",
+        "VIPoma."
+      ],
+      "answer": "C",
+      "detail": "SPEN is the 'Daughter' lesion."
+    },
+    {
+      "number": 61,
+      "question": "Which type of pancreatitis shows 'Multiple large calculi within a dilated pancreatic duct'?",
+      "choices": [
+        "Autoimmune.",
+        "Tropic Pancreatitis",
+        "Acute EtOH.",
+        "Groove.",
+        "Ascaris-induced."
+      ],
+      "answer": "B",
+      "detail": "Tropic pancreatitis is famous for its large stones and ductal dilation."
+    },
+    {
+      "number": 62,
+      "question": "Sausage Shaped Pancreas is a classic descriptor for:",
+      "choices": [
+        "Cancer.",
+        "Autoimmune Pancreatitis",
+        "Divisum.",
+        "CF.",
+        "SMA Syndrome."
+      ],
+      "answer": "B",
+      "detail": "AIP gives the pancreas a smooth, sausage-like contour."
+    },
+    {
+      "number": 63,
+      "question": "When I say 'IgG4,' you say reflexively:",
+      "choices": [
+        "Adenocarcinoma.",
+        "Autoimmune Pancreatitis (and RP Fibrosis/Sclerosing Cholangitis)",
+        "Gallstones.",
+        "VIPoma.",
+        "Sickle Cell."
+      ],
+      "answer": "B",
+      "detail": "IgG4 is the lab association for a spectrum of inflammatory fibro-inflammatory diseases."
+    },
+    {
+      "number": 64,
+      "question": "A tiger striped mass in the pancreatic tail on arterial phase CT is pathognomonic for:",
+      "choices": [
+        "Gastrinoma.",
+        "Intrapancreatic Accessory Spleen",
+        "Adenocarcinoma.",
+        "SPEN.",
+        "Lymphoma."
+      ],
+      "answer": "B",
+      "detail": "The tiger stripe matches the splenic parenchymal enhancement."
+    },
+    {
+      "number": 65,
+      "question": "Which of the following islet cell tumors is usually solitary, and small (<2cm)?",
+      "choices": [
+        "Non-functional.",
+        "Insulinoma",
+        "Gastrinoma.",
+        "SPEN.",
+        "VIPoma."
+      ],
+      "answer": "B",
+      "detail": "Insulinomas are characteristically small."
+    },
+    {
+      "number": 66,
+      "question": "What is the sensitivity of an Octreoscan (In-Octreotide) for identifying a Gastrinoma?",
+      "choices": [
+        "10%.",
+        "30%.",
+        "50%.",
+        "85%",
+        "100%."
+      ],
+      "answer": "D",
+      "detail": "Octreoscan is good for gastrinomas (85% sensitivity) but shit for insulinomas (30%)."
+    },
+    {
+      "number": 67,
+      "question": "In a patient with MEN 1, which pancreatic/duodenal tumor is the most common?",
+      "choices": [
+        "Insulinoma.",
+        "Gastrinoma",
+        "Adenocarcinoma.",
+        "SPEN.",
+        "Lipoma."
+      ],
+      "answer": "B",
+      "detail": "Gastrinomas are the leading MEN 1 pancreatic tumor."
+    },
+    {
+      "number": 68,
+      "question": "Cavitary (low density) Lymph Nodes in the abdomen should make you think of:",
+      "choices": [
+        "Scleroderma.",
+        "Celiac Disease (and Whipple's/MAC)",
+        "Crohn's disease.",
+        "VIPoma.",
+        "Pancreatic cancer."
+      ],
+      "answer": "B",
+      "detail": "Low-density nodes are a high-yield feature of Celiac disease."
+    },
+    {
+      "number": 69,
+      "question": "Fibrosing Colonopathy (thickened proximal colon) is a complication of which treatment?",
+      "choices": [
+        "Steroids.",
+        "Enzyme replacement therapy (in CF)",
+        "Chemotherapy.",
+        "Barium enemas.",
+        "Radiation."
+      ],
+      "answer": "B",
+      "detail": "Excessive pancreatic enzyme use in CF can damage the colon."
+    },
+    {
+      "number": 70,
+      "question": "A pancreatic pseudocyst that communicates with the duct is best treated with which drainage route?",
+      "choices": [
+        "Transperitoneal.",
+        "Transgastric (into the stomach)",
+        "Substernal.",
+        "Transrectal.",
+        "Only surgery is allowed."
+      ],
+      "answer": "B",
+      "detail": "The transgastric approach allows for long-term internal drainage."
+    },
+    {
+      "number": 71,
+      "question": "How do you distinguish between Acute Necrotic Collection (ANC) and Walled-Off Necrosis (WON)?",
+      "choices": [
+        "ANC is only in the head.",
+        "ANC is < 4 weeks; WON is > 4 weeks",
+        "WON has no wall.",
+        "Both are identical.",
+        "WON only occurs in children."
+      ],
+      "answer": "B",
+      "detail": "The 4-week mark is the threshold for defining a walled-off collection."
+    },
+    {
+      "number": 72,
+      "question": "The Duct of Wirsung is the major duct; the accessory (minor) duct is the:",
+      "choices": [
+        "Duct of Luschka.",
+        "Duct of Santorini",
+        "Common Bile Duct.",
+        "Aqueduct of Sylvius.",
+        "Vitelline duct."
+      ],
+      "answer": "B",
+      "detail": "Santorini is the minor duct."
+    },
+    {
+      "number": 73,
+      "question": "In Pancreatic Divisum, which duct drains the major portion of the pancreas?",
+      "choices": [
+        "Duct of Wirsung.",
+        "Duct of Santorini",
+        "Duct of Luschka.",
+        "Hepatic duct.",
+        "Cystic duct."
+      ],
+      "answer": "B",
+      "detail": "Because of the failed fusion, Santorini drains the bulk of the gland."
+    },
+    {
+      "number": 74,
+      "question": "When I say 'Jejunal Ulcer,' you say:",
+      "choices": [
+        "VIPoma.",
+        "Zollinger-Ellison (Gastrinoma)",
+        "Crohn's disease.",
+        "Scleroderma.",
+        "Insulinoma."
+      ],
+      "answer": "B",
+      "detail": "Peptic ulcers in the jejunum are a classic sign of hypergastrinemia."
+    },
+    {
+      "number": 75,
+      "question": "What are the three parameters used to calculate a MELD score?",
+      "choices": [
+        "Bilirubin, Albumin, and INR.",
+        "Bilirubin, INR, and Creatinine",
+        "WBC, AST, and ALT.",
+        "Amylase, Lipase, and Glucose.",
+        "INR, PT, and PTT."
+      ],
+      "answer": "B",
+      "detail": "MELD is calculated using liver and renal function labs."
+    },
+    {
+      "number": 76,
+      "question": "Following a Whipple procedure, what is the most common surgical complication?",
+      "choices": [
+        "Pancreatic fistula.",
+        "Delayed gastric emptying",
+        "Internal hernia.",
+        "Splenic vein thrombus.",
+        "Gastric volvulus."
+      ],
+      "answer": "B",
+      "detail": "Delayed gastric emptying is the most frequent post-op issue."
+    },
+    {
+      "number": 77,
+      "question": "A post-surgical Pancreatic Fistula is clinically diagnosed when amylase-rich fluid is in the drain for:",
+      "choices": [
+        "1 day.",
+        "3 days.",
+        "Longer than 7–10 days",
+        "30 days.",
+        "Only in chronic disease."
+      ],
+      "answer": "C",
+      "detail": "The duration (>7–10 days) is the key diagnostic criteria."
+    },
+    {
+      "number": 78,
+      "question": "Slipped Nissen refers to a complication of fundoplication where the wrap moves, leading to:",
+      "choices": [
+        "Immediate death.",
+        "Recurrent reflux",
+        "Gastric outlet obstruction.",
+        "High-output CHF.",
+        "Mesenteric ischemia."
+      ],
+      "answer": "B",
+      "detail": "Recurrent reflux is the most common reason a Nissen fails."
+    },
+    {
+      "number": 79,
+      "question": "A fundoplication wrap is considered 'slipped' if the length of the narrowed esophagus is:",
+      "choices": [
+        "< 1 cm.",
+        "Greater than 2 cm",
+        "Exactly 5 cm.",
+        "Not visible on barium.",
+        "10 cm."
+      ],
+      "answer": "B",
+      "detail": "A wrap length > 2 cm suggests it has slipped."
+    },
+    {
+      "number": 80,
+      "question": "For the purpose of the exam, a Short Esophagus is defined as a fixed hiatal hernia greater than:",
+      "choices": [
+        "1 cm.",
+        "2 cm.",
+        "5 cm",
+        "10 cm.",
+        "20 cm."
+      ],
+      "answer": "C",
+      "detail": "> 5 cm defines a short esophagus for boards."
+    },
+    {
+      "number": 81,
+      "question": "What is the surgical treatment for a short esophagus before a fundoplication?",
+      "choices": [
+        "Billroth 1.",
+        "Collis gastroplasty (lengthening procedure)",
+        "Roux-en-Y.",
+        "Whipple.",
+        "Pyloromyotomy."
+      ],
+      "answer": "B",
+      "detail": "Collis gastroplasty is used to lengthen the esophagus."
+    },
+    {
+      "number": 82,
+      "question": "A classic Lap Gastric Band should be positioned with a phi angle of:",
+      "choices": [
+        "0 degrees.",
+        "4–58 degrees (ideally 5–50)",
+        "90 degrees.",
+        "180 degrees.",
+        "360 degrees."
+      ],
+      "answer": "B",
+      "detail": "A flat angle indicates band slippage."
+    },
+    {
+      "number": 83,
+      "question": "What is the most common overall complication of a lap gastric band?",
+      "choices": [
+        "Band slippage.",
+        "Stomal stenosis (band too tight)",
+        "Erosion into the lumen.",
+        "Gastric leak.",
+        "Weight gain."
+      ],
+      "answer": "B",
+      "detail": "Stomal stenosis often presents with vomiting and a dilated proximal pouch."
+    },
+    {
+      "number": 84,
+      "question": "In a Billroth 1 surgery, the stomach is attached to the:",
+      "choices": [
+        "Jejunum.",
+        "Duodenum",
+        "Ileum.",
+        "Esophagus.",
+        "Spleen."
+      ],
+      "answer": "B",
+      "detail": "Billroth 1 is a gastroduodenostomy."
+    },
+    {
+      "number": 85,
+      "question": "In a Billroth 2 surgery, the stomach is attached to the:",
+      "choices": [
+        "Duodenum.",
+        "Jejunum",
+        "Ileum.",
+        "Rectum.",
+        "Antrum."
+      ],
+      "answer": "B",
+      "detail": "Billroth 2 is a gastrojejunostomy."
+    },
+    {
+      "number": 86,
+      "question": "Billroth 2 surgeries are associated with an increased risk of which malignancy after 10–20 years?",
+      "choices": [
+        "GIST.",
+        "Adenocarcinoma in the gastric remnant (stump cancer)",
+        "Lymphoma.",
+        "Squamous cell CA.",
+        "Mesothelioma."
+      ],
+      "answer": "B",
+      "detail": "Patients have a 3–6x increased risk of cancer years later."
+    },
+    {
+      "number": 87,
+      "question": "Dumping Syndrome (diarrhea/nausea after a meal) is caused by rapid gastric emptying and is classically seen after:",
+      "choices": [
+        "Lap band.",
+        "Billroth 2 (and early post-op Roux-en-Y)",
+        "Pyloromyotomy.",
+        "Liver transplant.",
+        "Nephrectomy."
+      ],
+      "answer": "B",
+      "detail": "Undigested food enters the jejunum too quickly."
+    },
+    {
+      "number": 88,
+      "question": "Afferent Loop Syndrome occurs when which limb is obstructed after a Billroth 2 or Whipple?",
+      "choices": [
+        "Feeding limb.",
+        "Bilio-pancreatic (afferent) limb",
+        "Esophagus.",
+        "Rectum.",
+        "Spleen."
+      ],
+      "answer": "B",
+      "detail": "Obstruction of the afferent limb causes build-up of bile and pancreatic juices."
+    },
+    {
+      "number": 89,
+      "question": "Jejunogastric Intussusception is a rare, high-mortality complication where the jejunum herniates into the:",
+      "choices": [
+        "Duodenum.",
+        "Stomach",
+        "Transverse colon.",
+        "Omentum.",
+        "Spleen."
+      ],
+      "answer": "B",
+      "detail": "The efferent limb typically herniates back into the stomach."
+    },
+    {
+      "number": 90,
+      "question": "When looking for a post-surgical Leak (gastrojejunal anastomosis), which imaging position is most useful?",
+      "choices": [
+        "Supine.",
+        "Supine Left Posterior Oblique (LPO)",
+        "Prone.",
+        "Right Lateral Decubitus.",
+        "Standing."
+      ],
+      "answer": "B",
+      "detail": "75% of leaks will drain to the left, making LPO the money view."
+    },
+    {
+      "number": 91,
+      "question": "Which vital sign is considered the single most reliable sign of a post-surgical perforation?",
+      "choices": [
+        "Blood pressure < 90/60.",
+        "Heart rate > 120 bpm",
+        "Fever > 101 F.",
+        "Oxygen saturation < 90%.",
+        "Respiratory rate > 20."
+      ],
+      "answer": "B",
+      "detail": "Tachycardia > 120 is highly indicative of a perforation."
+    },
+    {
+      "number": 92,
+      "question": "In a Roux-en-Y gastric bypass, a Gastro-Gastric Fistula involves contrast leaking from the pouch into the:",
+      "choices": [
+        "Duodenum.",
+        "Excluded (remnant) stomach",
+        "Lung.",
+        "Spleen.",
+        "Skin."
+      ],
+      "answer": "B",
+      "detail": "The classic history for a G-G fistula is weight gain years after surgery."
+    },
+    {
+      "number": 93,
+      "question": "Marginal Ulcers in a Roux-en-Y patient are characteristically found:",
+      "choices": [
+        "In the esophagus.",
+        "Just distal to the 'G-J' anastomosis (in the jejunum)",
+        "In the excluded stomach.",
+        "In the antrum.",
+        "At the IC valve."
+      ],
+      "answer": "B",
+      "detail": "These ulcers occur because the small bowel is not used to stomach acid."
+    },
+    {
+      "number": 94,
+      "question": "Simple Mechanical bowel obstruction is defined by a bowel segment being obstructed at:",
+      "choices": [
+        "A single point",
+        "Two adjacent points.",
+        "Three non-adjacent points.",
+        "Only the pylorus.",
+        "The anus."
+      ],
+      "answer": "A",
+      "detail": "Obstruction at a single lead point defines simple SBO."
+    },
+    {
+      "number": 95,
+      "question": "Closed Loop obstruction occurs when a segment is obstructed at:",
+      "choices": [
+        "A single point.",
+        "Two adjacent points",
+        "The ligament of Treitz.",
+        "Only in the colon.",
+        "Only in the esophagus."
+      ],
+      "answer": "B",
+      "detail": "Obstruction at two adjacent points creates a closed loop."
+    },
+    {
+      "number": 96,
+      "question": "A Petersen’s Hernia is an internal hernia that occurs:",
+      "choices": [
+        "Through the fossa of Waldeyer.",
+        "Behind the Roux limb mesentery",
+        "Through the fossa of Lanzert.",
+        "At the pylorus.",
+        "In the anterior abdominal wall."
+      ],
+      "answer": "B",
+      "detail": "Petersen's is a common internal hernia after Roux-en-Y gastric bypass."
+    },
+    {
+      "number": 97,
+      "question": "In a Roux-en-Y, Ante-Colic refers to the Roux-Limb passing:",
+      "choices": [
+        "Behind the transverse colon.",
+        "In front of the transverse colon",
+        "Through the mesentery.",
+        "Into the excluded stomach.",
+        "Under the rectum."
+      ],
+      "answer": "B",
+      "detail": "Ante-colic means in front of the colon."
+    },
+    {
+      "number": 98,
+      "question": "A Retro-Colic Roux-Limb requires a defect in the transverse mesocolon, which is a potential source of:",
+      "choices": [
+        "Internal hernia",
+        "Dumping syndrome.",
+        "Stomal stenosis.",
+        "Gastric varices.",
+        "Reflux."
+      ],
+      "answer": "A",
+      "detail": "The mesocolon defect provides a space for bowel to herniate."
+    },
+    {
+      "number": 99,
+      "question": "What is the standard target for a G-Tube (Gastrostomy tube) placement?",
+      "choices": [
+        "Left of midline (lateral to the rectus), mid to distal body",
+        "Right of midline, fundus.",
+        "Posterior wall of the antrum.",
+        "Directly through the rectus muscle.",
+        "Only the cardia."
+      ],
+      "answer": "A",
+      "detail": "Placing the tube lateral to the rectus avoids the inferior epigastric artery."
+    },
+    {
+      "number": 100,
+      "question": "Why should G-tube placement be 'equal distance from the greater and lesser curves'?",
+      "choices": [
+        "To avoid the portal vein.",
+        "To avoid the gastric arteries",
+        "To prevent gastric volvulus.",
+        "To ensure it hits the most posterior portion.",
+        "To avoid the liver."
+      ],
+      "answer": "B",
+      "detail": "The target should be centered between the curves to bypass major vessels."
+    }
+  ]
+}
+ 

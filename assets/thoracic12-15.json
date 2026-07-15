@@ -1,0 +1,1307 @@
+{
+    "questions":
+
+[
+  {
+    "number": 1,
+    "question": "What is the upper limit of the normal transverse diameter of the trachea in an adult?",
+    "choices": [
+      "1.5 cm",
+      "2.0 cm",
+      "2.5 cm",
+      "3.0 cm",
+      "3.5 cm"
+    ],
+    "answer": "C",
+    "detail": "The adult trachea transverse diameter should be no more than 2.5 cm, which is approximately equivalent to the width of a vertebral body."
+  },
+  {
+    "number": 2,
+    "question": "A 65-year-old smoker presents with a CT showing a 'saber-sheath' trachea. What is the definition of this finding?",
+    "choices": [
+      "Sagittal diameter less than two-thirds the coronal diameter",
+      "Coronal diameter less than two-thirds the sagittal diameter",
+      "Circumferential wall thickening > 3 mm",
+      "Mass-like narrowing of the subglottic trachea",
+      "Massive dilatation of the trachea > 3 cm"
+    ],
+    "answer": "B",
+    "detail": "Saber-sheath trachea is defined by a coronal diameter that is less than two-thirds of the sagittal diameter."
+  },
+  {
+    "number": 3,
+    "question": "Saber-sheath trachea is considered pathognomonic for which condition?",
+    "choices": [
+      "Relapsing Polychondritis",
+      "Wegener Granulomatosis",
+      "COPD",
+      "Amyloidosis",
+      "Tracheobronchopathia Osteochondroplastica (TBO)"
+    ],
+    "answer": "C",
+    "detail": "The 'saber-sheath' appearance of the trachea is considered pathognomonic for COPD."
+  },
+  {
+    "number": 4,
+    "question": "A patient presents with recurrent episodes of cartilage inflammation involving the ears and nose. CT shows diffuse anterior and lateral tracheal thickening sparing the posterior membrane. What is the diagnosis?",
+    "choices": [
+      "Wegener Granulomatosis",
+      "Amyloidosis",
+      "Relapsing Polychondritis",
+      "Tracheobronchomegaly",
+      "Post-intubation stenosis"
+    ],
+    "answer": "C",
+    "detail": "Relapsing Polychondritis involves cartilage-rich areas and characteristically spares the posterior membrane of the trachea because it lacks cartilage."
+  },
+  {
+    "number": 5,
+    "question": "Which tracheal condition is characterized by circumferential thickening that frequently involves the subglottic region and is associated with a positive c-ANCA?",
+    "choices": [
+      "Relapsing Polychondritis",
+      "Wegener Granulomatosis",
+      "Amyloidosis",
+      "TBO",
+      "Rhinoscleroma"
+    ],
+    "answer": "B",
+    "detail": "Wegener Granulomatosis (GPA) features circumferential thickening, subglottic involvement, and is associated with c-ANCA."
+  },
+  {
+    "number": 6,
+    "question": "A 55-year-old male undergoes CT for a chronic cough. Imaging shows multiple cartilaginous and osseous nodules within the submucosa of the tracheal wall, specifically sparing the posterior membrane. What is the diagnosis?",
+    "choices": [
+      "Amyloidosis",
+      "Wegener Granulomatosis",
+      "Tracheobronchopathia Osteochondroplastica (TBO)",
+      "Relapsing Polychondritis",
+      "Mounier-Kuhn Syndrome"
+    ],
+    "answer": "C",
+    "detail": "TBO is characterized by cartilaginous and osseous nodules that specifically spare the posterior membrane."
+  },
+  {
+    "number": 7,
+    "question": "How does the appearance of Amyloidosis typically differ from TBO on tracheal CT?",
+    "choices": [
+      "Amyloidosis always spares the posterior membrane.",
+      "Amyloidosis involves the posterior membrane and often features calcifications.",
+      "Amyloidosis only occurs in children.",
+      "Amyloidosis presents with massive tracheal dilatation.",
+      "TBO always involves the main bronchi, while Amyloidosis does not."
+    ],
+    "answer": "B",
+    "detail": "Unlike TBO and Relapsing Polychondritis, Amyloidosis typically involves the posterior membrane and often features calcifications."
+  },
+  {
+    "number": 8,
+    "question": "Which tracheal tumor is the most common and is strongly associated with smoking?",
+    "choices": [
+      "Adenoid Cystic Carcinoma",
+      "Typical Carcinoid",
+      "Squamous Cell Carcinoma",
+      "Small Cell Carcinoma",
+      "Mucoepidermoid Carcinoma"
+    ],
+    "answer": "C",
+    "detail": "Squamous Cell Carcinoma is the most common primary tracheal malignancy and is strongly linked to smoking."
+  },
+  {
+    "number": 9,
+    "question": "A 40-year-old female non-smoker presents with a mass in the upper trachea that prefers the posterior lateral wall. The mucosa overlying the submucosal mass is intact. What is the most likely diagnosis?",
+    "choices": [
+      "Squamous Cell Carcinoma",
+      "Adenoid Cystic Carcinoma",
+      "Typical Carcinoid",
+      "Large Cell Neuroendocrine Tumor",
+      "Squamous Cell Papilloma"
+    ],
+    "answer": "B",
+    "detail": "Adenoid Cystic Carcinoma is the second most common tracheal tumor; it favors non-smokers and typically involves the posterior-lateral wall of the upper trachea."
+  },
+  {
+    "number": 10,
+    "question": "Regarding neuroendocrine tumors of the airway, which statement is true?",
+    "choices": [
+      "Typical carcinoids are usually peripheral.",
+      "Atypical carcinoids are associated with smoking.",
+      "SCLC usually presents as a small endobronchial nodule.",
+      "Carcinoid tumors are always PET hot.",
+      "Carcinoids never calcify."
+    ],
+    "answer": "B",
+    "detail": "While typical carcinoids are not associated with smoking, atypical carcinoids are linked to a smoking history."
+  },
+  {
+    "number": 11,
+    "question": "A 50-year-old patient has a low-grade malignant airway tumor that is central (near the tracheal bifurcation) and shows enhancement post-contrast. It measures 2.5 cm. This is most likely a:",
+    "choices": [
+      "Typical Carcinoid",
+      "Atypical Carcinoid",
+      "Squamous Cell Carcinoma",
+      "Adenoid Cystic Carcinoma",
+      "Small Cell Carcinoma"
+    ],
+    "answer": "A",
+    "detail": "Typical carcinoids are low-grade, typically less than 3 cm, central, and show enhancement."
+  },
+  {
+    "number": 12,
+    "question": "'Multiple papillomas' in the trachea of a child should make you think of which etiology?",
+    "choices": [
+      "Smoking",
+      "Chronic Reflux",
+      "HPV (Perinatal transmission)",
+      "Cystic Fibrosis",
+      "Primary Ciliary Dyskinesia"
+    ],
+    "answer": "C",
+    "detail": "Multiple tracheal papillomas in children usually result from perinatal HPV transmission in the birth canal."
+  },
+  {
+    "number": 13,
+    "question": "A 'single papilloma' in the trachea of an adult is most likely related to:",
+    "choices": [
+      "HPV",
+      "Smoking",
+      "Asbestos",
+      "Alpha-1 antitrypsin deficiency",
+      "Intubation trauma"
+    ],
+    "answer": "B",
+    "detail": "A solitary tracheal papilloma in an adult is most frequently associated with smoking."
+  },
+  {
+    "number": 14,
+    "question": "What is the most common cause of focal subglottic tracheal stenosis in an adult?",
+    "choices": [
+      "Croup",
+      "Wegener Granulomatosis",
+      "Post-intubation injury",
+      "Amyloidosis",
+      "Sarcoidosis"
+    ],
+    "answer": "C",
+    "detail": "Post-intubation injury is the most common cause of subglottic tracheal stenosis in adults."
+  },
+  {
+    "number": 15,
+    "question": "If a patient has an hourglass-shaped subglottic stenosis but has NEVER been intubated, what rare adult diagnosis should be considered?",
+    "choices": [
+      "Post-intubation stenosis",
+      "Adult Croup",
+      "TBO",
+      "Relapsing Polychondritis",
+      "Mounier-Kuhn"
+    ],
+    "answer": "B",
+    "detail": "While rare, adult croup can cause subglottic stenosis in patients without a history of intubation."
+  },
+  {
+    "number": 16,
+    "question": "Which of the following is a classic feature of Cystic Fibrosis (CF) in the lungs?",
+    "choices": [
+      "Lower lobe predominant bronchiectasis",
+      "Normal vas deferens in males",
+      "Apical predominant bronchiectasis",
+      "Normal sweat chloride test",
+      "Absence of mucus plugging"
+    ],
+    "answer": "C",
+    "detail": "Cystic Fibrosis is characterized by apical (upper lobe) predominant bronchiectasis."
+  },
+  {
+    "number": 17,
+    "question": "Primary Ciliary Dyskinesia (PCD) differs from Cystic Fibrosis because PCD typically features:",
+    "choices": [
+      "Upper lobe predominant bronchiectasis",
+      "Lower lobe predominant bronchiectasis",
+      "Normal sperm motility",
+      "Absence of sinusitis",
+      "Autosomal dominant inheritance"
+    ],
+    "answer": "B",
+    "detail": "A key discriminator is that PCD typically features lower lobe predominant bronchiectasis, whereas CF is apical."
+  },
+  {
+    "number": 18,
+    "question": "What percentage of patients with Primary Ciliary Dyskinesia have Kartagener’s Syndrome (situs inversus)?",
+    "choices": [
+      "10%",
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "answer": "C",
+    "detail": "Approximately 50% of patients with Primary Ciliary Dyskinesia have Kartagener’s Syndrome."
+  },
+  {
+    "number": 19,
+    "question": "Williams-Campbell Syndrome is a rare condition characterized by cystic bronchiectasis due to a deficiency of:",
+    "choices": [
+      "Surfactant",
+      "Alpha-1 antitrypsin",
+      "Cartilage in the 4th-6th order bronchi",
+      "Cilia",
+      "Sodium pump function"
+    ],
+    "answer": "C",
+    "detail": "Williams-Campbell syndrome is specifically characterized by a deficiency of cartilage in the 4th-6th order bronchi."
+  },
+  {
+    "number": 20,
+    "question": "A CT shows a massive dilatation of the trachea measuring 3.5 cm. What is the most likely diagnosis?",
+    "choices": [
+      "Saber-sheath trachea",
+      "Mounier-Kuhn Syndrome",
+      "Relapsing Polychondritis",
+      "Wegener Granulomatosis",
+      "Tracheal bronchus"
+    ],
+    "answer": "B",
+    "detail": "Mounier-Kuhn syndrome (tracheobronchomegaly) is defined by massive tracheal dilatation exceeding 3 cm."
+  },
+  {
+    "number": 21,
+    "question": "In the context of small airways disease, 'air trapping' is technically best identified on:",
+    "choices": [
+      "Routine inspiratory CT",
+      "Post-contrast CT",
+      "Expiratory CT",
+      "Bone window CT",
+      "PET/CT"
+    ],
+    "answer": "C",
+    "detail": "Air trapping is best identified on expiratory CT as areas of decreased attenuation."
+  },
+  {
+    "number": 22,
+    "question": "Which pattern is defined by the dilation and impaction of centrilobular airways, typically seen 5-10 mm from the pleural surface?",
+    "choices": [
+      "Ground glass",
+      "Honeycombing",
+      "Tree-in-bud",
+      "Mosaic attenuation",
+      "Crazy paving"
+    ],
+    "answer": "C",
+    "detail": "The dilation and impaction of centrilobular airways 5-10 mm from the pleura is known as the tree-in-bud pattern."
+  },
+  {
+    "number": 23,
+    "question": "Follicular Bronchiolitis is an inflammatory process characterized by centrilobular ground-glass nodules and is associated with:",
+    "choices": [
+      "Smoking",
+      "Rheumatoid Arthritis or Sjogrens",
+      "Alpha-1 antitrypsin deficiency",
+      "Acute viral infection",
+      "Hypersensitivity Pneumonitis"
+    ],
+    "answer": "B",
+    "detail": "Follicular bronchiolitis is an inflammatory condition commonly associated with Rheumatoid Arthritis or Sjogren Syndrome."
+  },
+  {
+    "number": 24,
+    "question": "Which condition involves mononuclear cells forming granulation tissue that plugs the airway, leading to air trapping and Swyer-James syndrome?",
+    "choices": [
+      "RB-ILD",
+      "Constrictive Bronchiolitis",
+      "TBO",
+      "Cystic Fibrosis",
+      "Infectious Bronchiolitis"
+    ],
+    "answer": "B",
+    "detail": "Constrictive bronchiolitis involves granulation tissue plugging the airways, which can result in air trapping and Swyer-James syndrome."
+  },
+  {
+    "number": 25,
+    "question": "A supine patient who aspirates will most likely show opacities in which lung segments?",
+    "choices": [
+      "Basal lower lobes",
+      "Anterior upper lobes",
+      "Posterior segments of upper lobes and superior segments of lower lobes",
+      "Lingula and Right Middle Lobe",
+      "Apical segments only"
+    ],
+    "answer": "C",
+    "detail": "In the supine position, aspiration most commonly affects the posterior segments of the upper lobes and the superior segments of the lower lobes."
+  },
+  {
+    "number": 26,
+    "question": "In a patient with Systemic Lupus Erythematosus (SLE), what is the most common thoracic manifestation?",
+    "choices": [
+      "Interstitial fibrosis",
+      "Cavitary nodules",
+      "Pleuritis with or without pleural effusion",
+      "Bronchiectasis",
+      "Pulmonary hypertension"
+    ],
+    "answer": "C",
+    "detail": "Pleuritis, with or without pleural effusion, is the most common thoracic manifestation of SLE."
+  },
+  {
+    "number": 27,
+    "question": "'Shrinking Lung' in a Lupus patient is characterized by a progressive loss of lung volume, likely due to:",
+    "choices": [
+      "Rapidly progressive fibrosis",
+      "Diaphragm dysfunction or pleuritic pain",
+      "Recurrent pulmonary emboli",
+      "Chronic aspiration",
+      "Alveolar proteinosis"
+    ],
+    "answer": "B",
+    "detail": "The loss of lung volume in 'shrinking lung' syndrome is attributed to diaphragm dysfunction or pleuritic pain."
+  },
+  {
+    "number": 28,
+    "question": "Which collagen vascular disease is most classically associated with an NSIP pattern (lower lobe predominant ground glass) and a dilated fluid-filled esophagus?",
+    "choices": [
+      "Locus",
+      "Rheumatoid Arthritis",
+      "Scleroderma",
+      "Sjogren Syndrome",
+      "Ankylosing Spondylitis"
+    ],
+    "answer": "C",
+    "detail": "The combination of an NSIP pattern and a dilated, fluid-filled esophagus is a high-yield hint for Scleroderma."
+  },
+  {
+    "number": 29,
+    "question": "Rheumatoid Arthritis in the lung most commonly mimics which patterns?",
+    "choices": [
+      "LIP and PAP",
+      "UIP and COP",
+      "Sarcoid and HP",
+      "LCH and LAM",
+      "BPD and PIE"
+    ],
+    "answer": "B",
+    "detail": "Rheumatoid lung disease most commonly presents with UIP and COP patterns."
+  },
+  {
+    "number": 30,
+    "question": "Caplan Syndrome is the clinical combination of Rheumatoid Arthritis and:",
+    "choices": [
+      "Dilated esophagus",
+      "'Shrinking lung'",
+      "Upper lobe predominant lung nodules (which may cavitate)",
+      "Chylous effusions",
+      "Miliary nodules"
+    ],
+    "answer": "C",
+    "detail": "Caplan syndrome is the triad of Rheumatoid Arthritis and pneumoconiosis, presenting as upper lobe predominant nodules."
+  },
+  {
+    "number": 31,
+    "question": "Sjogren Syndrome is most strongly associated with which interstitial lung disease?",
+    "choices": [
+      "NSIP",
+      "UIP",
+      "LIP",
+      "RB-ILD",
+      "DIP"
+    ],
+    "answer": "C",
+    "detail": "LIP is associated with Sjogren Syndrome and is concomitant in 25% of cases."
+  },
+  {
+    "number": 32,
+    "question": "A patient with Ankylosing Spondylitis develops thoracic disease. Where is it typically located?",
+    "choices": [
+      "Lower lobes symmetrically",
+      "Peripheral upper lobes",
+      "Upper lobe fibrobullous disease",
+      "Mid-lung zones only",
+      "Perihilar regions"
+    ],
+    "answer": "C",
+    "detail": "Ankylosing Spondylitis characteristically presents with upper lobe fibrobullous disease."
+  },
+  {
+    "number": 33,
+    "question": "A patient with cirrhosis presents with 'shortness of breath when sitting up' (platypnea). A Tc-MAA scan shows tracer in the brain. What is the diagnosis?",
+    "choices": [
+      "Hepatopulmonary Syndrome",
+      "Pulmonary Arteriovenous Malformation",
+      "Portopulmonary Hypertension",
+      "Cardiac Shunt",
+      "CHF"
+    ],
+    "answer": "A",
+    "detail": "Platypnea and the presence of Tc-MAA in the brain (signifying a shunt) in a cirrhotic patient indicates Hepatopulmonary Syndrome."
+  },
+  {
+    "number": 34,
+    "question": "What is the underlying mechanism of Hepatopulmonary Syndrome?",
+    "choices": [
+      "Pulmonary fibrosis",
+      "Distal vascular dilation in the lung bases (subpleural telangiectasia)",
+      "Left-to-right cardiac shunting",
+      "Excessive pleural effusions",
+      "Phrenic nerve paralysis"
+    ],
+    "answer": "B",
+    "detail": "The syndrome results from distal vascular dilation in the lung bases leading to shunting."
+  },
+  {
+    "number": 35,
+    "question": "Wegener Granulomatosis (Granulomatosis with Polyangiitis) most commonly involves which organ?",
+    "choices": [
+      "Kidneys",
+      "Sinuses",
+      "Lungs",
+      "Heart",
+      "Skin"
+    ],
+    "answer": "C",
+    "detail": "Despite its name involving a triad, the lungs are the most commonly involved organ (95% of cases)."
+  },
+  {
+    "number": 36,
+    "question": "The most common (and most likely tested) imaging presentation of Wegener Granulomatosis in the lungs is:",
+    "choices": [
+      "Diffuse ground glass",
+      "Pleural rinds",
+      "Random nodules with cavitation",
+      "Basilar honeycombing",
+      "Tree-in-bud opacities"
+    ],
+    "answer": "C",
+    "detail": "The classic appearance of Wegener in the lungs is random nodules, 50% of which cavitate."
+  },
+  {
+    "number": 37,
+    "question": "Which autoimmune pulmonary-renal syndrome classically favors young men and presents with bilateral airspace opacities that resolve within 2 weeks?",
+    "choices": [
+      "SLE",
+      "Goodpasture Syndrome",
+      "Churg-Strauss",
+      "Wegener Granulomatosis",
+      "Behcet Disease"
+    ],
+    "answer": "B",
+    "detail": "Goodpasture Syndrome typically affects young men and presents with transient bilateral airspace opacities due to hemorrhage."
+  },
+  {
+    "number": 38,
+    "question": "Recurrent bleeding in Goodpasture Syndrome can eventually lead to:",
+    "choices": [
+      "Pulmonary Alveolar Proteinosis",
+      "Pulmonary Fibrosis",
+      "Malignant transformation",
+      "Azygos continuation",
+      "Large pleural rinds"
+    ],
+    "answer": "B",
+    "detail": "Repeated episodes of hemorrhage in Goodpasture can lead to pulmonary fibrosis."
+  },
+  {
+    "number": 39,
+    "question": "Churg-Strauss Syndrome is a necrotizing vasculitis characterized by which clinical triad?",
+    "choices": [
+      "RA, Splenomegaly, Neutropenia",
+      "Asthma, Eosinophilia, and transient lung consolidations",
+      "Mouth ulcers, Genital ulcers, Turkish descent",
+      "Hemoptysis, Hematuria, Anti-GBM antibodies",
+      "Fever, Strawberry tongue, Rash"
+    ],
+    "answer": "B",
+    "detail": "Churg-Strauss syndrome is defined by asthma, eosinophilia, and transient consolidations."
+  },
+  {
+    "number": 40,
+    "question": "Cavitation in Churg-Strauss is described as:",
+    "choices": [
+      "Very common (80%)",
+      "Rare (should make you think of Wegener instead)",
+      "Diagnostic for the disease",
+      "Symmetrical in the lower lobes",
+      "Associated with chylothorax"
+    ],
+    "answer": "B",
+    "detail": "Cavitation is rare in Churg-Strauss and its presence should raise suspicion for Wegener Granulomatosis."
+  },
+  {
+    "number": 41,
+    "question": "A patient of Turkish descent presents with mouth ulcers, genital ulcers, and a pulmonary artery aneurysm. What is the diagnosis?",
+    "choices": [
+      "Wegener Granulomatosis",
+      "Goodpasture Syndrome",
+      "Behcet Disease",
+      "Hughes-Stovin Syndrome",
+      "Sarcoidosis"
+    ],
+    "answer": "C",
+    "detail": "Behcet disease classically presents in patients of Turkish descent with ulcers and pulmonary artery aneurysms."
+  },
+  {
+    "number": 42,
+    "question": "Hughes-Stovin Syndrome is a rare condition similar to Behcet's, characterized by recurrent thrombophlebitis and:",
+    "choices": [
+      "Rib erosions",
+      "Pulmonary artery aneurysm formation and rupture",
+      "Massive tracheal dilatation",
+      "Upper lobe fibrobullous disease",
+      "Chylothorax"
+    ],
+    "answer": "B",
+    "detail": "Hughes-Stovin syndrome is a rare cause of pulmonary artery aneurysm formation and rupture."
+  },
+  {
+    "number": 43,
+    "question": "In a patient with Scleroderma, what finding on CT is a 'huge hint' for the diagnosis?",
+    "choices": [
+      "Calcified hilar nodes",
+      "Dilated, fluid-filled esophagus",
+      "Rib splaying",
+      "Azygos continuation",
+      "Tracheal bronchus"
+    ],
+    "answer": "B",
+    "detail": "A dilated, fluid-filled esophagus is a classic hint for Scleroderma on chest CT."
+  },
+  {
+    "number": 44,
+    "question": "Most common manifestation of SLE in the chest is:",
+    "choices": [
+      "Fibrosis",
+      "Shrinking lung",
+      "Pleuritis with/without effusion",
+      "Cavitary nodules",
+      "Alveolar hemorrhage"
+    ],
+    "answer": "C",
+    "detail": "Pleuritis is the most frequent manifestation of SLE in the chest."
+  },
+  {
+    "number": 45,
+    "question": "'Hoarseness' in a patient with an enlarged left atrium is known as:",
+    "choices": [
+      "Caplan Syndrome",
+      "Ortner’s Syndrome",
+      "Heyde Syndrome",
+      "Dressler Syndrome",
+      "Lofgren Syndrome"
+    ],
+    "answer": "B",
+    "detail": "Ortner's syndrome describes hoarseness caused by left atrial compression of the recurrent laryngeal nerve."
+  },
+  {
+    "number": 46,
+    "question": "Which syndrome involves the triad of Splenomegaly, Rheumatoid Arthritis, and Neutropenia?",
+    "choices": [
+      "Caplan",
+      "Felty",
+      "Goodpasture",
+      "Heyde",
+      "Meigs"
+    ],
+    "answer": "B",
+    "detail": "Felty syndrome is defined by the high-yield triad of Splenomegaly, RA, and Neutropenia."
+  },
+  {
+    "number": 47,
+    "question": "A 30-year-old male presents with hemoptysis and hematuria. CT shows bilateral coalescent airspace opacities. What is the most likely diagnosis?",
+    "choices": [
+      "Wegener Granulomatosis",
+      "Goodpasture Syndrome",
+      "SLE",
+      "Churg-Strauss",
+      "Mycoplasma"
+    ],
+    "answer": "B",
+    "detail": "Goodpasture Syndrome presents with pulmonary hemorrhage (bilateral opacities) and renal involvement (hematuria)."
+  },
+  {
+    "number": 48,
+    "question": "Pulmonary hemosiderosis from recurrent bleeding in Goodpasture presents on CT as:",
+    "choices": [
+      "Large cavitary masses",
+      "Small, ill-defined nodules",
+      "Peripheral pleural thickening",
+      "Saber-sheath trachea",
+      "Tree-in-bud opacities"
+    ],
+    "answer": "B",
+    "detail": "Iron deposition (hemosiderosis) from recurrent bleeding appears as small, ill-defined nodules on CT."
+  },
+  {
+    "number": 49,
+    "question": "In Wegener Granulomatosis, what percentage of nodules typically cavitate?",
+    "choices": [
+      "10%",
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "answer": "C",
+    "detail": "Approximately 50% of the random nodules in Wegener Granulomatosis will demonstrate cavitation."
+  },
+  {
+    "number": 50,
+    "question": "What is the 'next step' if you see hoarseness and a left vocal cord paralysis?",
+    "choices": [
+      "Biopsy the larynx",
+      "Look at the chest (AP window) for a mass/node",
+      "Thyroid ultrasound",
+      "Start antibiotics",
+      "Brain MRI"
+    ],
+    "answer": "B",
+    "detail": "Hoarseness and left vocal cord paralysis should prompt an evaluation of the chest (specifically the AP window) to look for a mass or node compressing the recurrent laryngeal nerve."
+  },
+  {
+    "number": 51,
+    "question": "Pleural plaques associated with asbestos exposure typically appear how many years after initial exposure?",
+    "choices": [
+      "1-2 years",
+      "5 years",
+      "10 years",
+      "20-30 years",
+      " > 50 years"
+    ],
+    "answer": "D",
+    "detail": "Pleural plaques have a typical lag time of 20-30 years after the initial asbestos exposure."
+  },
+  {
+    "number": 52,
+    "question": "Asbestos-related pleural plaques characteristically SPARE which area?",
+    "choices": [
+      "Diaphragm",
+      "Parietal pleura",
+      "Costophrenic angles",
+      "Lateral chest wall",
+      "Posterior pleura"
+    ],
+    "answer": "C",
+    "detail": "Pleural plaques typically spare the apices and the costophrenic angles."
+  },
+  {
+    "number": 53,
+    "question": "What is the most common cancer of the pleura?",
+    "choices": [
+      "SFTP",
+      "Lipoma",
+      "Malignant Mesothelioma",
+      "Pleural Metastases",
+      "Lymphoma"
+    ],
+    "answer": "D",
+    "detail": "Pleural metastases are the most common overall cancer involving the pleura; mesothelioma is the most common primary cancer."
+  },
+  {
+    "number": 54,
+    "question": "Which of the following is a 'highly suggestive' key feature of Malignant Mesothelioma on CT?",
+    "choices": [
+      "Pleural thickness < 5 mm",
+      "Extension of pleural thickening into the fissures",
+      "Sparing of the medial (mediastinal) pleura",
+      "Presence of 'popcorn' calcifications",
+      "Associated rib erosion in 100% of cases"
+    ],
+    "answer": "B",
+    "detail": "The extension of pleural thickening into the fissures is highly suggestive of malignant mesothelioma."
+  },
+  {
+    "number": 55,
+    "question": "According to the text, the development of Malignant Mesothelioma is:",
+    "choices": [
+      "Strictly dose-dependent on asbestos exposure",
+      "NOT dose-dependent on asbestos exposure",
+      "Only seen in active smokers",
+      "Always associated with Doege-Potter syndrome",
+      "Cured with wedge resection"
+    ],
+    "answer": "B",
+    "detail": "Unlike lung cancer, the risk of mesothelioma is NOT strictly dose-dependent on asbestos exposure."
+  },
+  {
+    "number": 56,
+    "question": "A 60-year-old male presents with a large, solitary tumor arising from the visceral pleura. It is NOT associated with asbestos or smoking. What is the diagnosis?",
+    "choices": [
+      "Malignant Mesothelioma",
+      "Solitary Fibrous Tumor of the Pleura (SFTP)",
+      "Pleural Lipoma",
+      "Pleural Metastasis",
+      "Asbestosis"
+    ],
+    "answer": "B",
+    "detail": "SFTP is a solitary tumor arising from the visceral pleura and is notably NOT associated with asbestos or smoking."
+  },
+  {
+    "number": 57,
+    "question": "Solitary Fibrous Tumor of the Pleura (SFTP) is associated with which paraneoplastic syndrome?",
+    "choices": [
+      "SIADH",
+      "Lambert-Eaton",
+      "Doege-Potter Syndrome (hypoglycemia)",
+      "Hypercalcemia",
+      "ACTH production"
+    ],
+    "answer": "C",
+    "detail": "Doege-Potter syndrome (episodic hypoglycemia) is caused by the tumor's production of insulin-like factor."
+  },
+  {
+    "number": 58,
+    "question": "What percentage of SFTP cases demonstrate Hypertrophic Osteoarthropathy?",
+    "choices": [
+      "5%",
+      "10%",
+      "30%",
+      "50%",
+      "80%"
+    ],
+    "answer": "C",
+    "detail": "Hypertrophic Osteoarthropathy is observed in approximately 30% of SFTP cases."
+  },
+  {
+    "number": 59,
+    "question": "Which is the most common benign soft tissue tumor of the pleura?",
+    "choices": [
+      "SFTP",
+      "Lipoma",
+      "Fibroma",
+      "Schwannoma",
+      "Hemangioma"
+    ],
+    "answer": "B",
+    "detail": "Pleural lipoma is the most frequent benign soft tissue tumor of the pleura."
+  },
+  {
+    "number": 60,
+    "question": "Regarding pleural lipomas, which statement is correct?",
+    "choices": [
+      "They frequently turn into sarcomas.",
+      "They often cause rib erosion.",
+      "They are the most common benign soft tissue tumor of the pleura.",
+      "They are always associated with asbestos.",
+      "They should always be biopsied."
+    ],
+    "answer": "C",
+    "detail": "Lipomas are common and benign soft tissue tumors of the pleura."
+  },
+  {
+    "number": 61,
+    "question": "Which histological subtype of cancer is most likely to metastasize to the pleura?",
+    "choices": [
+      "Squamous Cell",
+      "Small Cell",
+      "Adenocarcinoma",
+      "Large Cell",
+      "Sarcoma"
+    ],
+    "answer": "C",
+    "detail": "Adenocarcinoma is the most likely subtype of lung cancer to metastasize to the pleura."
+  },
+  {
+    "number": 62,
+    "question": "What is the most common manifestation of metastatic disease to the pleura?",
+    "choices": [
+      "Pleural plaques",
+      "Pleural rind",
+      "Pleural effusion",
+      "Rib destruction",
+      "Pneumothorax"
+    ],
+    "answer": "C",
+    "detail": "The most common finding in pleural metastatic disease is a pleural effusion."
+  },
+  {
+    "number": 63,
+    "question": "Approximately how much pleural fluid must be present to be seen on a frontal chest radiograph?",
+    "choices": [
+      "25 cc",
+      "50 cc",
+      "75 cc",
+      "175 cc",
+      "500 cc"
+    ],
+    "answer": "D",
+    "detail": "At least 175 cc of pleural fluid must be present to be visible on a standard frontal CXR."
+  },
+  {
+    "number": 64,
+    "question": "A 'subpulmonic effusion' on the right side typically demonstrates which radiographic sign?",
+    "choices": [
+      "Flattening of the diaphragm",
+      "'Ski-slopping' or lateralization of the diaphragmatic peak",
+      "Medial displacement of the heart",
+      "Narrowing of the retrosternal clear space",
+      "Silhouette sign with the aortic knob"
+    ],
+    "answer": "B",
+    "detail": "Subpulmonic effusions cause a 'ski-slopping' effect, which is the lateralization of the diaphragmatic peak."
+  },
+  {
+    "number": 65,
+    "question": "To differentiate a subpulmonic effusion from a truly elevated diaphragm in the real world, what is the best next step?",
+    "choices": [
+      "CT scan",
+      "Lateral decubitus film",
+      "MRI",
+      "PET/CT",
+      "Ultrasound"
+    ],
+    "answer": "B",
+    "detail": "A lateral decubitus film will show if the 'diaphragm' is actually free-flowing fluid."
+  },
+  {
+    "number": 66,
+    "question": "An 'encysted pleural effusion' can mimic which pathology?",
+    "choices": [
+      "Pneumonia",
+      "Lung Cancer",
+      "Pulmonary Embolism",
+      "Azygos lobe",
+      "Diaphragmatic hernia"
+    ],
+    "answer": "B",
+    "detail": "Fluid encysted in a fissure can often mimic a lung tumor or mass."
+  },
+  {
+    "number": 67,
+    "question": "What is the name for an infected pleural effusion, often featuring pleural enhancement and septations?",
+    "choices": [
+      "Pleural plaque",
+      "SFTP",
+      "Empyema",
+      "Mesothelioma",
+      "Hemothorax"
+    ],
+    "answer": "C",
+    "detail": "Empyema is defined as an infected pleural effusion."
+  },
+  {
+    "number": 68,
+    "question": "The 'Split Pleural Sign' (thickening and separation of visceral and parietal pleura) is a hallmark of:",
+    "choices": [
+      "Pulmonary Abscess",
+      "Empyema",
+      "Mesothelioma",
+      "SFTP",
+      "Asbestosis"
+    ],
+    "answer": "B",
+    "detail": "The 'split pleural sign' is a key imaging feature for empyema."
+  },
+  {
+    "number": 69,
+    "question": "How do you distinguish an Empyema from a Pulmonary Abscess on CT?",
+    "choices": [
+      "Empyema is round; Abscess is lentiform.",
+      "Empyema shows the 'Claw Sign' with the pleura.",
+      "Empyema shows the 'Split Pleural Sign'; Abscess does not.",
+      "Abscess is treated with a chest tube; Empyema is not.",
+      "Abscess has a thin, smooth wall; Empyema has a thick, irregular wall."
+    ],
+    "answer": "C",
+    "detail": "The split pleural sign is a definitive discriminator for empyema on CT."
+  },
+  {
+    "number": 70,
+    "question": "'Empyema Necessitans' refers to an empyema that eats through the chest wall. What is the most common cause (70%)?",
+    "choices": [
+      "Actinomyces",
+      "Tuberculosis (TB)",
+      "Staph Aureus",
+      "Nocardia",
+      "Klebsiella"
+    ],
+    "answer": "B",
+    "detail": "Tuberculosis causes approximately 70% of empyema necessitans cases."
+  },
+  {
+    "number": 71,
+    "question": "Which diaphragmatic hernia is most common, typically occurs in the 'back left,' and is congenital?",
+    "choices": [
+      "Morgagni",
+      "Bochdalek",
+      "Hiatal",
+      "Traumatic",
+      "Spigelian"
+    ],
+    "answer": "B",
+    "detail": "Bochdalek hernias occur in the 'Back' (posterior) and are the most common congenital diaphragmatic hernias."
+  },
+  {
+    "number": 72,
+    "question": "Diaphragmatic paralysis is idiopathic 70% of the time, but if seen on a board exam, you should suspect phrenic nerve compression from:",
+    "choices": [
+      "Sarcoidosis",
+      "Lung Cancer",
+      "Tuberculosis",
+      "Aortic Aneurysm",
+      "Goiter"
+    ],
+    "answer": "B",
+    "detail": "On exams, diaphragmatic paralysis should raise suspicion for phrenic nerve compression by lung cancer."
+  },
+  {
+    "number": 73,
+    "question": "What is the characteristic finding of diaphragmatic paralysis on a fluoroscopic 'sniff test'?",
+    "choices": [
+      "Immediate downward movement on inspiration",
+      "Paradoxical movement (going up on inspiration)",
+      "No movement at all",
+      "Pulsatile movement",
+      "Rotation of the diaphragm"
+    ],
+    "answer": "B",
+    "detail": "The sniff test relies on observing paradoxical (upward) movement of the paralyzed diaphragm upon inspiration."
+  },
+  {
+    "number": 74,
+    "question": "The 'Raider Triangle' (Retrotracheal Triangle) opacity is most commonly caused by:",
+    "choices": [
+      "Goiter",
+      "Aberrant right subclavian artery",
+      "Zenker diverticulum",
+      "Esophageal cancer",
+      "Lymphoma"
+    ],
+    "answer": "B",
+    "detail": "An aberrant right subclavian artery is the classic multiple-choice cause of an obliterated retrotracheal triangle."
+  },
+  {
+    "number": 75,
+    "question": "What is the recommended follow-up interval for a suspected pneumonia to confirm clearance in an 'elderly' patient?",
+    "choices": [
+      "2 weeks",
+      "6 weeks",
+      "3 months",
+      "6 months",
+      "1 year"
+    ],
+    "answer": "C",
+    "detail": "Because clearance can be slow in elderly patients, a 3-month follow-up is often recommended."
+  },
+  {
+    "number": 76,
+    "question": "The 'Hilum Overlay Sign' helps determine if a mass is located:",
+    "choices": [
+      "Within the lung parenchyma or pleura",
+      "In the hilum or anterior/posterior to it",
+      "Solid or cystic",
+      "Malignant or benign",
+      "Associated with an effusion"
+    ],
+    "answer": "B",
+    "detail": "This sign is an application of the silhouette sign used to localize masses relative to the hilum."
+  },
+  {
+    "number": 77,
+    "question": "If hilar vessels are obscured by a soft tissue mass, the mass is:",
+    "choices": [
+      "Touching the vessels (in the hilum)",
+      "Anterior to the hilum",
+      "Posterior to the hilum",
+      "In the posterior mediastinum",
+      "A normal variant"
+    ],
+    "answer": "A",
+    "detail": "The vessels are obscured because the soft tissue mass is in the hilum and touching them."
+  },
+  {
+    "number": 78,
+    "question": "Any mass that extends above the level of the clavicles on a frontal CXR is NOT located in the:",
+    "choices": [
+      "Posterior mediastinum",
+      "Anterior mediastinum",
+      "Lung apex",
+      "Superior mediastinum",
+      "Paraspinal region"
+    ],
+    "answer": "B",
+    "detail": "This is based on the anatomical fact that the anterior mediastinum ends at the level of the clavicles."
+  },
+  {
+    "number": 79,
+    "question": "A classic example of a mass that frequently demonstrates a positive 'Cervicothoracic Sign' is:",
+    "choices": [
+      "Thymoma",
+      "Pericardial cyst",
+      "Thyroid Goiter",
+      "Bronchogenic cyst",
+      "Teratoma"
+    ],
+    "answer": "C",
+    "detail": "A thyroid goiter is a classic example of a mass that extends above the clavicles."
+  },
+  {
+    "number": 80,
+    "question": "In the 'Anterior Mediastinal Mass Strategy,' what is the primary move to distinguish a normal thymus from lymphoma in a child?",
+    "choices": [
+      "Use PET/CT",
+      "Look for calcifications",
+      "Use age: Under 10 = Thymus, Over 10 = Lymphoma",
+      "Look for SVC compression",
+      "Check for Myasthenia Gravis symptoms"
+    ],
+    "answer": "C",
+    "detail": "Age is used as the primary discriminator for children: under 10 is usually thymus, over 10 is suspicious for lymphoma."
+  },
+  {
+    "number": 81,
+    "question": "Thymic rebound typically occurs after which event?",
+    "choices": [
+      "Puberty",
+      "Birth",
+      "Stress or Chemotherapy",
+      "Pleural effusion resolution",
+      "Lung transplant"
+    ],
+    "answer": "C",
+    "detail": "Stress or chemotherapy are common triggers for subsequent thymic rebound."
+  },
+  {
+    "number": 82,
+    "question": "Which statement regarding Thymic Rebound is correct?",
+    "choices": [
+      "The thymus stays small forever after chemo.",
+      "It can rebound up to 1.5 times its normal size and be PET avid.",
+      "It is always a sign of recurrent lymphoma.",
+      "It only occurs in adults over 50.",
+      "It is T2 dark on MRI."
+    ],
+    "answer": "B",
+    "detail": "Thymic rebound can exceed the original size of the thymus and can show PET activity."
+  },
+  {
+    "number": 83,
+    "question": "Which anterior mediastinal mass is strongly associated with Myasthenia Gravis?",
+    "choices": [
+      "Lymphoma",
+      "Teratoma",
+      "Thymoma",
+      "NSGCT",
+      "Pericardial cyst"
+    ],
+    "answer": "C",
+    "detail": "Thymomas are strongly associated with Myasthenia Gravis and Pure Red Cell Aplasia."
+  },
+  {
+    "number": 84,
+    "question": "A large anterior mediastinal mass containing fat, cystic areas, and calcifications (including teeth) is a 'dead giveaway' for:",
+    "choices": [
+      "Seminoma",
+      "NSGCT",
+      "Mature Teratoma",
+      "Lymphoma",
+      "Thymolipoma"
+    ],
+    "answer": "C",
+    "detail": "The presence of fat, cysts, and calcifications/teeth is pathognomonic for a mature teratoma."
+  },
+  {
+    "number": 85,
+    "question": "Which Germ Cell Tumor 'straddles the midline' and is described as bulky, solid, and lobulated?",
+    "choices": [
+      "Teratoma",
+      "Seminoma",
+      "NSGCT",
+      "Choriocarcinoma",
+      "Embryonal cell carcinoma"
+    ],
+    "answer": "B",
+    "detail": "Seminomas typically straddle the midline and appear as bulky, solid, and lobulated masses."
+  },
+  {
+    "number": 86,
+    "question": "NSGCT (Non-Seminomatous Germ Cell Tumor) is typically 'big and ugly' and associated with which genetic syndrome?",
+    "choices": [
+      "Turner Syndrome",
+      "Klinefelter Syndrome (47 XXY)",
+      "Downs Syndrome",
+      "Marfan Syndrome",
+      "VACTERL"
+    ],
+    "answer": "B",
+    "detail": "Non-seminomatous germ cell tumors are associated with Klinefelter Syndrome."
+  },
+  {
+    "number": 87,
+    "question": "What is the most common 'abnormal' mediastinal mass in children?",
+    "choices": [
+      "Thymoma",
+      "Lymphoma",
+      "Teratoma",
+      "Neuroblastoma",
+      "Bronchogenic cyst"
+    ],
+    "answer": "B",
+    "detail": "Lymphoma is the most frequent pathological anterior mediastinal mass in children."
+  },
+  {
+    "number": 88,
+    "question": "Lymphoma in the mediastinum of a child is 4 times more likely to be:",
+    "choices": [
+      "Non-Hodgkin Lymphoma",
+      "Hodgkin Lymphoma",
+      "MALToma",
+      "Burkitt Lymphoma",
+      "T-cell Lymphoma"
+    ],
+    "answer": "B",
+    "detail": "Hodgkin Lymphoma is significantly more common than NHL in the pediatric population."
+  },
+  {
+    "number": 89,
+    "question": "If you see calcification in a mediastinal mass that has NOT been treated, what should you suspect?",
+    "choices": [
+      "Lymphoma",
+      "Teratoma",
+      "Thymoma",
+      "Fibrosing Mediastinitis",
+      "Sarcoidosis"
+    ],
+    "answer": "B",
+    "detail": "Calcification in an untreated mass points toward a teratoma, as untreated lymphoma rarely calcifies."
+  },
+  {
+    "number": 90,
+    "question": "Which mediastinal compartment contains the heart, central vessel roots, and tracheal bifurcation?",
+    "choices": [
+      "Superior",
+      "Anterior",
+      "Middle",
+      "Posterior",
+      "Para-aortic"
+    ],
+    "answer": "C",
+    "detail": "The middle mediastinum contains the heart, the roots of the central vessels, and the tracheal bifurcation."
+  },
+  {
+    "number": 91,
+    "question": "Duplication cysts are divided into bronchogenic, enteric, and neuroenteric. Where is a 'Bronchogenic Cyst' most commonly found (70%)?",
+    "choices": [
+      "Posterior mediastinum",
+      "Anterior mediastinum",
+      "Middle mediastinum (Subcarinal space)",
+      "Retroperitoneum",
+      "Cardiophrenic angle"
+    ],
+    "answer": "C",
+    "detail": "The subcarinal space in the middle mediastinum is the most common location for bronchogenic cysts."
+  },
+  {
+    "number": 92,
+    "question": "Which type of duplication cyst is associated with vertebral anomalies like scoliosis and hemivertebrae?",
+    "choices": [
+      "Bronchogenic",
+      "Enteric",
+      "Neuroenteric",
+      "Pericardial",
+      "Thymic"
+    ],
+    "answer": "C",
+    "detail": "Neuroenteric cysts are characteristically associated with vertebral anomalies."
+  },
+  {
+    "number": 93,
+    "question": "Fibrosing Mediastinitis is a proliferation of fibrous tissue, with the granulomatous subtype most commonly caused by:",
+    "choices": [
+      "Tuberculosis",
+      "Sarcoidosis",
+      "Histoplasmosis",
+      "Actinomyces",
+      "Radiation"
+    ],
+    "answer": "C",
+    "detail": "Histoplasmosis is the most common cause of the granulomatous form of fibrosing mediastinitis."
+  },
+  {
+    "number": 94,
+    "question": "What clinical syndrome can result from both subtypes of Fibrosing Mediastinitis?",
+    "choices": [
+      "Horner Syndrome",
+      "SVC Syndrome",
+      "Lambert-Eaton Syndrome",
+      "Ortner’s Syndrome",
+      "Heyde Syndrome"
+    ],
+    "answer": "B",
+    "detail": "SVC Syndrome is a known and serious clinical complication of fibrosing mediastinitis."
+  },
+  {
+    "number": 95,
+    "question": "The most common posterior mediastinal mass in an adult is:",
+    "choices": [
+      "Neuroblastoma",
+      "Extramedullary Hematopoiesis",
+      "Neurogenic origin (Schwannoma/Neurofibroma)",
+      "Enteric duplication cyst",
+      "Lymphoma"
+    ],
+    "answer": "C",
+    "detail": "Tumors of neurogenic origin, such as Schwannomas and Neurofibromas, are the most common posterior masses in adults."
+  },
+  {
+    "number": 96,
+    "question": "A child under age 2 with a posterior mediastinal mass and rib splaying/erosions likely has:",
+    "choices": [
+      "Neuroblastoma",
+      "Ganglioneuroma",
+      "EMH",
+      "Askin Tumor",
+      "Pleuropulmonary Blastoma"
+    ],
+    "answer": "A",
+    "detail": "Neuroblastoma is a common posterior mass in infants under 2 and often causes rib splaying or erosion."
+  },
+  {
+    "number": 97,
+    "question": "In the spectrum of neuroblastic tumors, which is the 'most mature' and benign?",
+    "choices": [
+      "Neuroblastoma",
+      "Ganglioneuroblastoma",
+      "Ganglioneuroma",
+      "Ewing Sarcoma",
+      "Schwannoma"
+    ],
+    "answer": "C",
+    "detail": "Ganglioneuroma represents the most mature and benign end of the neuroblastic tumor spectrum."
+  },
+  {
+    "number": 98,
+    "question": "'Extramedullary Hematopoiesis' (EMH) presents as bilateral paravertebral soft tissue masses and is associated with:",
+    "choices": [
+      "Myasthenia Gravis",
+      "Hemoglobinopathy/Anemia (e.g., Sickle Cell, Thalassemia)",
+      "Histoplasmosis",
+      "Primary Lung Cancer",
+      "Asbestos exposure"
+    ],
+    "answer": "B",
+    "detail": "EMH presents as paravertebral masses in patients with chronic anemia or hemoglobinopathies."
+  },
+  {
+    "number": 99,
+    "question": "A 'Pericardial Cyst' is most classically found in which location?",
+    "choices": [
+      "Subcarinal space",
+      "Posterior to the esophagus",
+      "Right anterior cardiophrenic angle",
+      "Superior to the aortic arch",
+      "Splaying the carina"
+    ],
+    "answer": "C",
+    "detail": "The right anterior cardiophrenic angle is the classic location for a pericardial cyst."
+  },
+  {
+    "number": 100,
+    "question": "A 'Big Fucking Mass' (B.F.M.) in the chest of a 1-year-old child that is right-sided and lacks rib invasion is most likely:",
+    "choices": [
+      "Askin Tumor",
+      "Pleuropulmonary Blastoma (PPB)",
+      "Neuroblastoma",
+      "Teratoma",
+      "Wilms tumor metastasis"
+    ],
+    "answer": "B",
+    "detail": "PPB is a large right-sided mass in very young children that characteristically does not invade the ribs."
+  }
+]
+
+}

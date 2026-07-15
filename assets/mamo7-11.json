@@ -1,0 +1,1297 @@
+{
+    "questions": 
+   [
+    {
+      "number": 1,
+      "question": "What is the most common histological type of invasive breast cancer, accounting for 80–85% of cases?",
+      "choices": [
+        "Invasive Lobular Carcinoma (ILC)",
+        "Invasive Ductal Carcinoma (IDC)",
+        "Tubular Carcinoma",
+        "Mucinous Carcinoma",
+        "Medullary Carcinoma"
+      ],
+      "answer": "B",
+      "detail": "Invasive Ductal Carcinoma is the most common, making up 80–85% of cases."
+    },
+    {
+      "number": 2,
+      "question": "Clinically, what is the most common presentation for Invasive Ductal Carcinoma?",
+      "choices": [
+        "A soft, mobile, tender mass",
+        "A hard, non-mobile, painless mass",
+        "Milky nipple discharge",
+        "Cyclic breast pain",
+        "Spontaneous bruising"
+      ],
+      "answer": "B",
+      "detail": "The classic clinical story for IDC is a hard, non-mobile, painless mass."
+    },
+    {
+      "number": 3,
+      "question": "On mammography, what is the most common appearance of Invasive Ductal Carcinoma (IDC)?",
+      "choices": [
+        "A circumscribed fat-containing mass",
+        "An irregular, high-density mass with spiculated margins",
+        "A round, low-density mass with popcorn calcifications",
+        "Global asymmetry with no mass",
+        "A 'breast within a breast' appearance"
+      ],
+      "answer": "B",
+      "detail": "The most common mammographic look for IDC is an irregular, high-density mass with spiculated or indistinct margins."
+    },
+    {
+      "number": 4,
+      "question": "Which type of calcification is most commonly associated with Invasive Ductal Carcinoma?",
+      "choices": [
+        "Large rod-like calcifications",
+        "Popcorn calcifications",
+        "Pleomorphic calcifications",
+        "Eggshell calcifications",
+        "Tea-cupping calcifications"
+      ],
+      "answer": "C",
+      "detail": "IDC is frequently associated with pleomorphic calcifications."
+    },
+    {
+      "number": 5,
+      "question": "On ultrasound, Invasive Ductal Carcinoma is typically described as:",
+      "choices": [
+        "A parallel hyperechoic mass with enhancement",
+        "An anti-parallel shadowing mass with an echogenic halo",
+        "A simple thin-walled anechoic cyst",
+        "A mass with a central hyperechoic band",
+        "A 'sack of marbles'"
+      ],
+      "answer": "B",
+      "detail": "IDC classically appears as an anti-parallel shadowing mass with an echogenic halo on ultrasound."
+    },
+    {
+      "number": 6,
+      "question": "Which subtype of Invasive Ductal Carcinoma is most likely to be associated with a radial scar?",
+      "choices": [
+        "Medullary",
+        "Tubular",
+        "Mucinous",
+        "Papillary",
+        "Inflammatory"
+      ],
+      "answer": "B",
+      "detail": "Tubular carcinoma is frequently associated with a radial scar."
+    },
+    {
+      "number": 7,
+      "question": "Tubular carcinoma is generally characterized as:",
+      "choices": [
+        "A fast-growing mass with a poor prognosis",
+        "A small, spiculated, slow-growing mass with a favorable prognosis",
+        "A large cystic and solid mass in non-white patients",
+        "A mass associated with BRCA2 mutations",
+        "T2 bright on MRI"
+      ],
+      "answer": "B",
+      "detail": "Tubular carcinoma is a small, spiculated, slow-growing mass with a favorable prognosis."
+    },
+    {
+      "number": 8,
+      "question": "If a patient is diagnosed with tubular carcinoma in one breast, how likely is it that the contralateral breast will also have cancer?",
+      "choices": [
+        "1%",
+        "5%",
+        "10–15%",
+        "50%",
+        "90%"
+      ],
+      "answer": "C",
+      "detail": "The contralateral breast will have cancer 10–15% of the time in patients with tubular carcinoma."
+    },
+    {
+      "number": 9,
+      "question": "Which Invasive Ductal Carcinoma subtype is known for being uncommon but having better outcomes than IDC-NOS?",
+      "choices": [
+        "Medullary",
+        "Mucinous",
+        "Papillary",
+        "Inflammatory",
+        "Sarcomatous"
+      ],
+      "answer": "B",
+      "detail": "Mucinous carcinoma is uncommon but typically has better outcomes."
+    },
+    {
+      "number": 10,
+      "question": "What is the characteristic shape of a Mucinous (Colloid) breast cancer on imaging?",
+      "choices": [
+        "Spiculated and angular",
+        "Round (or lobulated) and circumscribed",
+        "Flame-shaped and retroareolar",
+        "Cigar-shaped",
+        "A 'dark star'"
+      ],
+      "answer": "B",
+      "detail": "Mucinous tumors are typically round (or lobulated) and circumscribed."
+    },
+    {
+      "number": 11,
+      "question": "Which Invasive Ductal Carcinoma subtype classically occurs in younger patients (40s–50s) and is associated with the BRCA1 mutation?",
+      "choices": [
+        "Tubular",
+        "Medullary",
+        "Papillary",
+        "Mucinous",
+        "ILC"
+      ],
+      "answer": "B",
+      "detail": "Medullary carcinoma typically affects younger patients and is associated with BRCA1 in 25% of cases."
+    },
+    {
+      "number": 12,
+      "question": "A medullary carcinoma can present with which unique feature regarding lymph nodes?",
+      "choices": [
+        "It never metastasizes to lymph nodes.",
+        "Axillary nodes can be large even in the absence of metastases.",
+        "It only spreads to internal mammary nodes.",
+        "Nodes are always 'snow-storm' in appearance.",
+        "It only causes supraclavicular nodes."
+      ],
+      "answer": "B",
+      "detail": "In medullary carcinoma, axillary nodes can be large even without metastatic involvement."
+    },
+    {
+      "number": 13,
+      "question": "Which subtype of Invasive Ductal Carcinoma is the 2nd most common after IDC-NOS and typically favors non-white and elderly patients?",
+      "choices": [
+        "Medullary",
+        "Tubular",
+        "Papillary",
+        "Mucinous",
+        "Inflammatory"
+      ],
+      "answer": "C",
+      "detail": "Papillary carcinoma is the 2nd most common IDC subtype and favors elderly, non-white patients."
+    },
+    {
+      "number": 14,
+      "question": "What is the typical imaging appearance of a papillary breast cancer?",
+      "choices": [
+        "A small cluster of amorphous calcifications",
+        "A complex cystic and solid mass",
+        "A pure fat-containing mass",
+        "A 'breast within a breast'",
+        "A flame-shaped density"
+      ],
+      "answer": "B",
+      "detail": "Papillary carcinoma typically appears as a complex cystic and solid mass."
+    },
+    {
+      "number": 15,
+      "question": "'Multifocal' breast cancer is defined as:",
+      "choices": [
+        "Multiple primaries in different quadrants",
+        "Multiple primaries in the same quadrant (less than 4–5 cm apart)",
+        "Cancer in both breasts simultaneously",
+        "Cancer that has metastasized to the liver",
+        "Cancer involving the skin and the nipple"
+      ],
+      "answer": "B",
+      "detail": "Multifocal disease involves multiple primaries in the same quadrant, typically within the same duct system."
+    },
+    {
+      "number": 16,
+      "question": "'Multicentric' breast cancer is defined as:",
+      "choices": [
+        "A single large mass in the center of the breast",
+        "Multiple primaries in different quadrants",
+        "Multiple primaries in the same duct system",
+        "Cancer that is confined to the nipple",
+        "Cancer that involves the chest wall"
+      ],
+      "answer": "B",
+      "detail": "Multicentric means multiple primaries in different quadrants."
+    },
+    {
+      "number": 17,
+      "question": "Synchronous bilateral breast cancer is found on MRI in what percentage of patients with known unilateral cancer?",
+      "choices": [
+        "0.1%",
+        "3–6%",
+        "10%",
+        "25%",
+        "50%"
+      ],
+      "answer": "B",
+      "detail": "MRI finds synchronous bilateral disease in 3–6% of women, while mammography finds it in 2–3%."
+    },
+    {
+      "number": 18,
+      "question": "Which histological type of cancer is associated with an increased risk of synchronous bilateral disease?",
+      "choices": [
+        "Tubular",
+        "Infiltrating Lobular (ILC)",
+        "Medullary",
+        "Papillary",
+        "IDC-NOS"
+      ],
+      "answer": "B",
+      "detail": "The risk of bilateral disease is increased in infiltrating lobular types and multicentric disease."
+    },
+    {
+      "number": 19,
+      "question": "DCIS (Ductal Carcinoma In Situ) is considered the 'earliest form of breast cancer' because it is:",
+      "choices": [
+        "Always benign",
+        "Confined to the duct",
+        "Only found in the skin",
+        "Never calcified",
+        "Only found in men"
+      ],
+      "answer": "B",
+      "detail": "DCIS is 'in situ' because the cancer is confined to the duct."
+    },
+    {
+      "number": 20,
+      "question": "Between 'comedo' and 'non-comedo' types of DCIS, which is considered more aggressive?",
+      "choices": [
+        "Non-comedo",
+        "Comedo",
+        "They are identical in risk",
+        "Neither is aggressive"
+      ],
+      "answer": "B",
+      "detail": "The comedo type of DCIS is more aggressive."
+    },
+    {
+      "number": 21,
+      "question": "What percentage of DCIS cases on core biopsy are found to have an invasive component upon surgical excision?",
+      "choices": [
+        "5%",
+        "10%",
+        "25%",
+        "50%",
+        "95%"
+      ],
+      "answer": "C",
+      "detail": "25% of DCIS on core biopsy are found to have an invasive component at excision."
+    },
+    {
+      "number": 22,
+      "question": "DCIS can occasionally present as a mass without calcifications in what percentage of cases?",
+      "choices": [
+        "1%",
+        "8%",
+        "25%",
+        "50%",
+        "80%"
+      ],
+      "answer": "B",
+      "detail": "8% of DCIS will present as a mass without calcifications."
+    },
+    {
+      "number": 23,
+      "question": "The most common ultrasound appearance of DCIS is a:",
+      "choices": [
+        "Purely anechoic cyst",
+        "Microlobulated, mildly hypoechoic mass with ductal extension",
+        "Parallel hyperechoic mass with intense shadowing",
+        "Spiculated mass with an echogenic halo",
+        "Thinly septated cyst"
+      ],
+      "answer": "B",
+      "detail": "DCIS on ultrasound is most commonly a microlobulated, hypoechoic mass with ductal extension."
+    },
+    {
+      "number": 24,
+      "question": "Paget's disease of the breast is defined as:",
+      "choices": [
+        "Invasive Lobular Carcinoma involving the skin",
+        "Carcinoma in situ of the nipple epidermis",
+        "A thrombosed vein in the breast",
+        "A fat-containing hamartoma",
+        "A normal variant of the areola"
+      ],
+      "answer": "B",
+      "detail": "Paget's is a carcinoma in situ of the nipple epidermis."
+    },
+    {
+      "number": 25,
+      "question": "Breast Paget's disease is associated with an underlying high-grade DCIS in what percentage of cases?",
+      "choices": [
+        "5%",
+        "50%",
+        "75%",
+        "96%",
+        "100%"
+      ],
+      "answer": "D",
+      "detail": "96% of Paget's cases have an associated high-grade DCIS."
+    },
+    {
+      "number": 26,
+      "question": "For a skin lesion of the nipple-areolar complex that does not resolve with topical therapy, what is the next step?",
+      "choices": [
+        "2-year follow-up",
+        "Wedge biopsy",
+        "Annual mammogram only",
+        "Ultrasound",
+        "Serum estrogen levels"
+      ],
+      "answer": "B",
+      "detail": "A wedge biopsy should be performed for persistent nipple-areolar skin lesions."
+    },
+    {
+      "number": 27,
+      "question": "True or False: Paget's disease involvement of the skin is considered T4 staging.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "B",
+      "detail": "Paget's is NOT considered T4, and skin involvement here does not upstage the disease."
+    },
+    {
+      "number": 28,
+      "question": "What is the second most common type of breast cancer after IDC-NOS?",
+      "choices": [
+        "Tubular",
+        "Invasive Lobular Carcinoma (ILC)",
+        "Medullary",
+        "Papillary",
+        "Mucinous"
+      ],
+      "answer": "B",
+      "detail": "Invasive Lobular Carcinoma is the 2nd most common, making up 5–10% of cases."
+    },
+    {
+      "number": 29,
+      "question": "The loss of which cell-surface protein is a hallmark of Invasive Lobular Carcinoma (ILC) pathophysiology?",
+      "choices": [
+        "BRCA1",
+        "E-cadherin",
+        "Estrogen",
+        "P53",
+        "Aromatase"
+      ],
+      "answer": "B",
+      "detail": "ILC cells lose e-cadherin, which allows them to infiltrate the breast without forming a discrete mass."
+    },
+    {
+      "number": 30,
+      "question": "Because ILC infiltrates like a 'spider's web,' it frequently presents as which mammographic finding?",
+      "choices": [
+        "A large round mass with popcorn calcifications",
+        "Architectural distortion without a central mass ('dark star')",
+        "Segmental fine linear branching calcifications",
+        "A well-circumscribed low-density mass",
+        "A wadded-up plastic wrapper"
+      ],
+      "answer": "B",
+      "detail": "ILC often presents as architectural distortion ('dark star') rather than a discrete mass."
+    },
+    {
+      "number": 31,
+      "question": "'Shrinking breast' is a mammography buzzword for which condition?",
+      "choices": [
+        "Normal aging",
+        "Invasive Lobular Carcinoma (ILC)",
+        "Mondor disease",
+        "Breast reduction surgery",
+        "Fibroadenoma involution"
+      ],
+      "answer": "B",
+      "detail": "The 'shrinking breast' is a buzzword for ILC, as the breast fails to compress properly and appears smaller relative to the other side."
+    },
+    {
+      "number": 32,
+      "question": "Compared to IDC, calcifications in Invasive Lobular Carcinoma (ILC) are:",
+      "choices": [
+        "More common",
+        "Less common",
+        "Always rod-like",
+        "Pathognomonic",
+        "Only seen in men"
+      ],
+      "answer": "B",
+      "detail": "Calcifications are less common in ILC than in ductal cancers."
+    },
+    {
+      "number": 33,
+      "question": "What percentage of Invasive Lobular Carcinoma (ILC) cases are bilateral?",
+      "choices": [
+        "1%",
+        "5%",
+        "15%",
+        "Up to 1/3 (33%)",
+        "95%"
+      ],
+      "answer": "D",
+      "detail": "ILC is bilateral in up to 1/3 of cases."
+    },
+    {
+      "number": 34,
+      "question": "Inflammatory Breast Cancer is caused by:",
+      "choices": [
+        "An overabundance of milk",
+        "Tumor emboli obstructing the lymphatics",
+        "A bacterial infection from a cracked nipple",
+        "A thrombosed superficial vein",
+        "High protein diet"
+      ],
+      "answer": "B",
+      "detail": "Inflammatory breast cancer features tumor emboli that block lymphatic drainage."
+    },
+    {
+      "number": 35,
+      "question": "What is the classic clinical appearance of inflammatory breast cancer?",
+      "choices": [
+        "A solitary hard lump",
+        "Peau d'orange (orange peel) appearance",
+        "Nipple retraction with no other signs",
+        "A localized bruise",
+        "A 'breast within a breast'"
+      ],
+      "answer": "B",
+      "detail": "The classic sign is Peau d'orange appearance."
+    },
+    {
+      "number": 36,
+      "question": "Cyclic breast pain that occurs in both breasts and is worse during the luteal phase:",
+      "choices": [
+        "Requires immediate biopsy",
+        "Does not need evaluation",
+        "Should be treated with antibiotics",
+        "Is a sign of ILC",
+        "Requires a contrast MRI"
+      ],
+      "answer": "B",
+      "detail": "Cyclical pain in both breasts is normal and does not need evaluation."
+    },
+    {
+      "number": 37,
+      "question": "Which of the following breast pain scenarios 'warrants an evaluation'?",
+      "choices": [
+        "Bilateral cyclic pain",
+        "Focal non-cyclic breast pain",
+        "Pain that peaks at day 28 of the cycle",
+        "Pain that improves with exercise",
+        "Pain only during breastfeeding"
+      ],
+      "answer": "B",
+      "detail": "Focal non-cyclic pain should be evaluated."
+    },
+    {
+      "number": 38,
+      "question": "What is the Negative Predictive Value (NPV) of combined mammogram and ultrasound for 'focal pain'?",
+      "choices": [
+        "50%",
+        "75%",
+        "90%",
+        "100%",
+        "0%"
+      ],
+      "answer": "D",
+      "detail": "The NPV for focal pain is right around 100%."
+    },
+    {
+      "number": 39,
+      "question": "'Non-focal skin thickening' or breast edema seen bilaterally on a multiple-choice test is typically the result of:",
+      "choices": [
+        "Inflammatory cancer",
+        "Benign conditions like CHF or renal failure",
+        "Mastitis",
+        "Smoking",
+        "Multiple fibroadenomas"
+      ],
+      "answer": "B",
+      "detail": "Bilateral edema on tests is usually from benign systemic conditions like CHF."
+    },
+    {
+      "number": 40,
+      "question": "If a breast is red, hot, and swollen, what is the primary differential diagnosis?",
+      "choices": [
+        "Lipoma vs. Hamartoma",
+        "Mastitis/Abscess vs. Inflammatory breast cancer",
+        "Fibroadenoma vs. Phyllodes",
+        "IDC vs. ILC",
+        "Cysts vs. Milk of calcium"
+      ],
+      "answer": "B",
+      "detail": "The differential for a swollen red breast is mastitis/abscess vs. inflammatory cancer."
+    },
+    {
+      "number": 41,
+      "question": "How is inflammatory breast cancer classically distinguished from mastitis/abscess clinically?",
+      "choices": [
+        "Inflammatory BC is much more painful.",
+        "Inflammatory BC is often NOT painful.",
+        "Mastitis is only seen in 70-year-olds.",
+        "Inflammatory BC only occurs during breastfeeding.",
+        "Abscesses never involve Staph A."
+      ],
+      "answer": "B",
+      "detail": "Inflammatory breast cancer is often NOT painful, despite its appearance."
+    },
+    {
+      "number": 42,
+      "question": "What is the 'general rule' for a swollen red breast that does not respond to antibiotics?",
+      "choices": [
+        "Repeat the ultrasound in 6 months.",
+        "Perform a skin biopsy to exclude inflammatory cancer.",
+        "Assess as BI-RADS 3.",
+        "Start Hormone Replacement Therapy.",
+        "Recommend a breast lift."
+      ],
+      "answer": "B",
+      "detail": "If a breast doesn't respond to antibiotics, you must biopsy the skin to rule out inflammatory cancer."
+    },
+    {
+      "number": 43,
+      "question": "What is the recommended first-line treatment strategy for inflammatory breast cancer?",
+      "choices": [
+        "Immediate radical mastectomy",
+        "'Cool down' with chemotherapy and/or radiation first, then surgery",
+        "Wide excision lumpectomy only",
+        "Sentinel node biopsy only",
+        "Antibiotics for 6 months"
+      ],
+      "answer": "B",
+      "detail": "IBC is treated by 'cooling down' with chemo/radiation before surgery."
+    },
+    {
+      "number": 44,
+      "question": "Milky nipple discharge is NOT suspicious for breast cancer but can be caused by:",
+      "choices": [
+        "Pituitary prolactinoma or thyroid issues",
+        "DCIS",
+        "ILC",
+        "BRCA1 mutation",
+        "High vitamin D intake"
+      ],
+      "answer": "A",
+      "detail": "Milky discharge is related to prolactinomas or thyroid issues."
+    },
+    {
+      "number": 45,
+      "question": "Which class of medication is known to stimulate prolactin production and cause milky discharge?",
+      "choices": [
+        "Aspirin",
+        "Antipsychotics (neuroleptics)",
+        "Antibiotics",
+        "Statins",
+        "Beta-blockers"
+      ],
+      "answer": "B",
+      "detail": "Meds that mess with dopamine (like antipsychotics) can stimulate prolactin."
+    },
+    {
+      "number": 46,
+      "question": "What is the most common cause of spontaneous nipple discharge in a pre-menopausal woman?",
+      "choices": [
+        "DCIS",
+        "Fibrocystic change",
+        "Ductal ectasia",
+        "Papilloma",
+        "ILC"
+      ],
+      "answer": "B",
+      "detail": "In pre-menopausal women, fibrocystic change is the top benign cause."
+    },
+    {
+      "number": 47,
+      "question": "What is the most common benign cause of nipple discharge in a post-menopausal woman?",
+      "choices": [
+        "DCIS",
+        "Ductal ectasia",
+        "Fibroadenoma",
+        "Intraductal papilloma",
+        "Mastitis"
+      ],
+      "answer": "B",
+      "detail": "Ductal ectasia is the most common cause post-menopause."
+    },
+    {
+      "number": 48,
+      "question": "What is the most common cause of bloody nipple discharge overall (90% of cases)?",
+      "choices": [
+        "DCIS",
+        "Intraductal Papilloma",
+        "Invasive Ductal Carcinoma",
+        "Invasive Lobular Carcinoma",
+        "Fat necrosis"
+      ],
+      "answer": "B",
+      "detail": "Intraductal Papilloma is the culprit in 90% of bloody discharge cases."
+    },
+    {
+      "number": 49,
+      "question": "DCIS accounts for approximately what percentage of non-milky nipple discharge cases?",
+      "choices": [
+        "1%",
+        "10%",
+        "50%",
+        "90%",
+        "0%"
+      ],
+      "answer": "B",
+      "detail": "DCIS is the worrisome cause in about 10% of cases."
+    },
+    {
+      "number": 50,
+      "question": "On galactography, what represents the classic look for a single intraductal papilloma?",
+      "choices": [
+        "Multiple irregular filling defects",
+        "A solitary filling defect near the nipple with a dilated duct",
+        "Complete absence of the ductal system",
+        "Extravasation of contrast into the fat",
+        "Popcorn-like calcifications"
+      ],
+      "answer": "B",
+      "detail": "A solitary filling defect near the nipple is classic for papilloma."
+    },
+    {
+      "number": 51,
+      "question": "Architectural distortion (AD) is defined as:",
+      "choices": [
+        "A space-occupying high-density mass",
+        "Distortion of normal architecture without a visible mass",
+        "A purely fat-containing lesion",
+        "A cluster of round calcifications",
+        "Nipple inversion since birth"
+      ],
+      "answer": "B",
+      "detail": "AD is distortion of the parenchyma without a visible mass."
+    },
+    {
+      "number": 52,
+      "question": "What is the primary differential consideration for architectural distortion?",
+      "choices": [
+        "Fat necrosis",
+        "Summation artifact",
+        "Simple cysts",
+        "Hamartoma",
+        "Lipoma"
+      ],
+      "answer": "B",
+      "detail": "Summation artifact is the main differential for AD."
+    },
+    {
+      "number": 53,
+      "question": "How is architectural distortion (AD) distinguished from summation artifact on imaging?",
+      "choices": [
+        "Summation lines radiate to a central point.",
+        "AD lines radiate to a central point; summation lines continue past each other.",
+        "Only summation is visible on two views.",
+        "Only AD disappears on spot compression.",
+        "AD is always fat-containing."
+      ],
+      "answer": "B",
+      "detail": "In AD, lines radiate to a point; in summation, they do not."
+    },
+    {
+      "number": 54,
+      "question": "If you see architectural distortion (AD) with associated calcifications, the most likely diagnosis is:",
+      "choices": [
+        "ILC",
+        "IDC + DCIS",
+        "Fibroadenoma",
+        "Fat necrosis",
+        "PASH"
+      ],
+      "answer": "B",
+      "detail": "AD + Calcifications = IDC + DCIS."
+    },
+    {
+      "number": 55,
+      "question": "If you see architectural distortion (AD) WITHOUT calcifications, what is the most likely diagnosis?",
+      "choices": [
+        "IDC",
+        "Invasive Lobular Carcinoma (ILC)",
+        "Tubular carcinoma",
+        "Papilloma",
+        "Normal fat"
+      ],
+      "answer": "B",
+      "detail": "AD without calcifications is the classic look for ILC."
+    },
+    {
+      "number": 56,
+      "question": "What is the management 'pearl' for architectural distortion (AD)?",
+      "choices": [
+        "Follow for 2 years (BI-RADS 3).",
+        "AD always gets a biopsy, even with no ultrasound or MRI correlate.",
+        "AD is always benign if it has been there for 5 years.",
+        "Only biopsy if the patient has pain.",
+        "Treat with antibiotics first."
+      ],
+      "answer": "B",
+      "detail": "AD gets a biopsy, period."
+    },
+    {
+      "number": 57,
+      "question": "Is it ever appropriate to assess an area of architectural distortion (AD) as BI-RADS 3?",
+      "choices": [
+        "Yes, if it is small.",
+        "Never, ever, ever.",
+        "Only if the ultrasound is negative.",
+        "Only on a baseline.",
+        "Yes, if there is no central mass."
+      ],
+      "answer": "B",
+      "detail": "Never BI-RADS 3 an area of AD."
+    },
+    {
+      "number": 58,
+      "question": "How should a surgical scar behave over time on follow-up imaging?",
+      "choices": [
+        "It should become more dense.",
+        "It should progressively get lighter and harder to see.",
+        "it should develop fine linear branching calcifications.",
+        "it should turn into a 'dark star.'",
+        "It should migrate into the axilla."
+      ],
+      "answer": "B",
+      "detail": "Surgical scars should get less dense with time."
+    },
+    {
+      "number": 59,
+      "question": "If a surgical scar is seen to be 'increasing' in density on follow-up, you must:",
+      "choices": [
+        "Return to annual screening.",
+        "Perform a biopsy to rule out recurrence.",
+        "Assume it is normal healing.",
+        "Give the patient antibiotics.",
+        "Assess as BI-RADS 2."
+      ],
+      "answer": "B",
+      "detail": "If a scar is increasing in density, you have to stick a needle in it."
+    },
+    {
+      "number": 60,
+      "question": "A 'radial scar' is a type of architectural distortion that is pathologically:",
+      "choices": [
+        "A true scar from surgery",
+        "An idiopathic sclerosing lesion (not a true scar)",
+        "Always malignant",
+        "Only seen in men",
+        "Fat-containing"
+      ],
+      "answer": "B",
+      "detail": "A radial scar is not a surgical scar but an idiopathic lesion."
+    },
+    {
+      "number": 61,
+      "question": "What is the 'next step' after finding a breast cancer to help stage the disease?",
+      "choices": [
+        "Liver MRI",
+        "Ultrasound the armpit (axilla)",
+        "Bone scan immediately",
+        "Brain CT",
+        "Core biopsy of the nipple"
+      ],
+      "answer": "B",
+      "detail": "You must ultrasound the axilla to look for abnormal nodes."
+    },
+    {
+      "number": 62,
+      "question": "Abnormal nodes are found in approximately what ratio of breast cancer patients?",
+      "choices": [
+        "1 in 10",
+        "1 in 3",
+        "1 in 2",
+        "9 in 10",
+        "0"
+      ],
+      "answer": "B",
+      "detail": "About 1 in 3 times you will find abnormal nodes."
+    },
+    {
+      "number": 63,
+      "question": "Unilateral axillary adenopathy should make you worry about cancer, especially if:",
+      "choices": [
+        "It is bilateral.",
+        "The patient has a known cancer on that side.",
+        "The patient is under 20.",
+        "The nodes are purely fatty.",
+        "The nodes measure 5 mm."
+      ],
+      "answer": "B",
+      "detail": "Unilateral adenopathy on the side of a cancer is concerning."
+    },
+    {
+      "number": 64,
+      "question": "Which features of an axillary lymph node are considered 'abnormal' and may prompt a biopsy?",
+      "choices": [
+        "Cortical thickness > 2.3–3 mm or loss of the central fatty hilum",
+        "Presence of a large fatty hilum",
+        "A total node size of 1 cm",
+        "A bean-shaped morphology",
+        "A 'sack of marbles' appearance"
+      ],
+      "answer": "A",
+      "detail": "Cortical thickening and loss of the fatty hilum are suspicious."
+    },
+    {
+      "number": 65,
+      "question": "What is the 'most specific sign' of a pathologic lymph node?",
+      "choices": [
+        "Size > 2 cm",
+        "Loss of the central fatty hilum",
+        "Oval shape",
+        "Presence of a blood vessel",
+        "Shadowing"
+      ],
+      "answer": "B",
+      "detail": "Loss of the fatty hilum is the most specific sign of pathology."
+    },
+    {
+      "number": 66,
+      "question": "For staging purposes, how are Level 1 and Level 2 axillary nodes treated?",
+      "choices": [
+        "Differently",
+        "The same",
+        "Level 1 is ignored",
+        "Level 2 is ignored",
+        "They are not staged"
+      ],
+      "answer": "B",
+      "detail": "Level 1 and Level 2 nodes are treated the same."
+    },
+    {
+      "number": 67,
+      "question": "Rotter nodes are located between the pectoralis minor and major and are treated as:",
+      "choices": [
+        "Level 1",
+        "Level 2",
+        "Level 3",
+        "Supraclavicular",
+        "Internal mammary"
+      ],
+      "answer": "B",
+      "detail": "Rotter nodes are treated as Level 2."
+    },
+    {
+      "number": 68,
+      "question": "Level 3 axillary nodes are staged and treated the same as which other node group?",
+      "choices": [
+        "Level 1",
+        "Level 2",
+        "Supraclavicular nodes",
+        "Internal mammary",
+        "Delphian nodes"
+      ],
+      "answer": "C",
+      "detail": "Level 3 and supraclavicular nodes are treated the same."
+    },
+    {
+      "number": 69,
+      "question": "Gold Therapy (chrysotherapy) used for rheumatoid arthritis long ago can show which 'Aunt Minnie' finding?",
+      "choices": [
+        "'Snowstorm' nodes",
+        "Very dense calcifications within a lymph node",
+        "'Sack of marbles' nodes",
+        "Disappearance of all nodes",
+        "'Linguine sign' in nodes"
+      ],
+      "answer": "B",
+      "detail": "Gold therapy shows very dense (metallic) specs in nodes."
+    },
+    {
+      "number": 70,
+      "question": "Snowstorm appearance of a lymph node on ultrasound is a classic look for:",
+      "choices": [
+        "Gold therapy",
+        "Silicone infiltration from a leak or rupture",
+        "Metastatic IDC",
+        "Metastatic ILC",
+        "Cat scratch disease"
+      ],
+      "answer": "B",
+      "detail": "Snowstorm nodes indicate silicone adenopathy."
+    },
+    {
+      "number": 71,
+      "question": "Isolated metastases to the internal mammary chain nodes are uncommon (3%) and typically occur with:",
+      "choices": [
+        "Lateral breast cancers",
+        "Medial breast cancers",
+        "Axillary tail cancers",
+        "Nipple-only disease",
+        "Male breast cancer"
+      ],
+      "answer": "B",
+      "detail": "Internal mammary involvement is seen in medial cancers."
+    },
+    {
+      "number": 72,
+      "question": "When biopsying an axillary lymph node, which part should you target?",
+      "choices": [
+        "The fatty hilum",
+        "The node's cortex",
+        "The adjacent fat only",
+        "The skin above it",
+        "The pectoralis muscle"
+      ],
+      "answer": "B",
+      "detail": "Target the node's cortex during biopsy."
+    },
+    {
+      "number": 73,
+      "question": "If you have known breast cancer and are nearly certain you are dealing with a metastasis, which biopsy technique works fine for the node?",
+      "choices": [
+        "Core biopsy only",
+        "FNA (Fine Needle Aspiration)",
+        "Surgical excision only",
+        "Vacuum-assisted biopsy",
+        "No biopsy needed"
+      ],
+      "answer": "B",
+      "detail": "FNA is acceptable if there is high certainty of metastasis."
+    },
+    {
+      "number": 74,
+      "question": "If you see silicone in a lymph node on a patient with implants, what should you recommend next?",
+      "choices": [
+        "Biopsy the node",
+        "MRI to evaluate for intracapsular rupture",
+        "Removal of the implants immediately",
+        "No further imaging",
+        "Annual mammogram"
+      ],
+      "answer": "B",
+      "detail": "Silicone in a node requires MRI to look for rupture."
+    },
+    {
+      "number": 75,
+      "question": "IHC (Immunohistochemistry) staining is needed to confirm the diagnosis of which breast malignancy?",
+      "choices": [
+        "IDC",
+        "ILC",
+        "Lymphoma",
+        "Phyllodes",
+        "Angiosarcoma"
+      ],
+      "answer": "C",
+      "detail": "IHC staining is required to confirm breast lymphoma."
+    },
+    {
+      "number": 76,
+      "question": "Which histological components does the male breast LACK compared to the female breast?",
+      "choices": [
+        "Skin and fat",
+        "Elongated branching ducts and proliferated lobules",
+        "Nipple and areola",
+        "Pectoralis muscle",
+        "Lymph nodes"
+      ],
+      "answer": "B",
+      "detail": "The male breast does NOT have the branching ducts or lobules seen in women."
+    },
+    {
+      "number": 77,
+      "question": "Because men lack lobules, which pathologies do they NOT get?",
+      "choices": [
+        "IDC and lymphoma",
+        "Lobular carcinoma, fibroadenoma, or cysts",
+        "Gynecomastia and pseudogynecomastia",
+        "Male breast cancer",
+        "Abscesses"
+      ],
+      "answer": "B",
+      "detail": "Men do NOT get lobule-associated pathology."
+    },
+    {
+      "number": 78,
+      "question": "Gynecomastia is a non-neoplastic enlargement of which elements of the male breast?",
+      "choices": [
+        "Just fat",
+        "Epithelial and stromal elements",
+        "Lymph nodes only",
+        "The pectoralis muscle",
+        "The skin only"
+      ],
+      "answer": "B",
+      "detail": "Gynecomastia involves epithelial and stromal enlargement."
+    },
+    {
+      "number": 79,
+      "question": "Physiological gynecomastia affects what percentage of adolescent boys?",
+      "choices": [
+        "1%",
+        "10%",
+        "50%",
+        "90%",
+        "100%"
+      ],
+      "answer": "C",
+      "detail": "Approximately 50% of adolescent boys are affected."
+    },
+    {
+      "number": 80,
+      "question": "What is the most common pattern of gynecomastia?",
+      "choices": [
+        "Dendritic",
+        "Nodular",
+        "Diffuse glandular",
+        "Pseudogynecomastia",
+        "Eccentric"
+      ],
+      "answer": "B",
+      "detail": "Nodular is the most common pattern."
+    },
+    {
+      "number": 81,
+      "question": "The 'Nodular' pattern of gynecomastia is mammographically described as:",
+      "choices": [
+        "A branching tree",
+        "'Flame shaped' centered behind the nipple",
+        "Diffuse increase in density",
+        "Pure fat",
+        "Spiculated mass"
+      ],
+      "answer": "B",
+      "detail": "Nodular gynecomastia is flame-shaped and retroareolar."
+    },
+    {
+      "number": 82,
+      "question": "Which gynecomastia pattern resembles a 'branching tree' and is a chronic fibrotic pattern?",
+      "choices": [
+        "Nodular",
+        "Dendritic",
+        "Diffuse glandular",
+        "Pseudogynecomastia",
+        "Bitch tits"
+      ],
+      "answer": "B",
+      "detail": "The dendritic pattern resembles a branching tree."
+    },
+    {
+      "number": 83,
+      "question": "The 'Diffuse Glandular' pattern of gynecomastia is typically seen in men receiving:",
+      "choices": [
+        "Aspirin",
+        "Estrogen treatment",
+        "Antibiotics",
+        "Marijuana",
+        "Vitamin C"
+      ],
+      "answer": "B",
+      "detail": "Diffuse glandular is seen with estrogen treatment."
+    },
+    {
+      "number": 84,
+      "question": "Pseudogynecomastia is defined as an increase in:",
+      "choices": [
+        "Glandular tissue",
+        "Fat tissue only",
+        "Muscle tissue",
+        "Lymphatic fluid",
+        "Blood flow"
+      ],
+      "answer": "B",
+      "detail": "Pseudogynecomastia is an increase in fat tissue."
+    },
+    {
+      "number": 85,
+      "question": "In pseudogynecomastia, the mound of tissue will NOT be:",
+      "choices": [
+        "Visible",
+        "Concentric to the nipple",
+        "Fatty",
+        "Painless",
+        "Asymmetric"
+      ],
+      "answer": "B",
+      "detail": "The tissue is NOT concentric to the nipple in pseudogynecomastia."
+    },
+    {
+      "number": 86,
+      "question": "What is the average age of a man presenting with male breast cancer?",
+      "choices": [
+        "13",
+        "25",
+        "40",
+        "70",
+        "90"
+      ],
+      "answer": "D",
+      "detail": "The average age for male breast cancer is around 70."
+    },
+    {
+      "number": 87,
+      "question": "About 1 in 4 men with breast cancer have a mutation in which gene?",
+      "choices": [
+        "BRCA1",
+        "BRCA2",
+        "P53",
+        "E-cadherin",
+        "Rb"
+      ],
+      "answer": "B",
+      "detail": "BRCA2 is the more common mutation in male breast cancer."
+    },
+    {
+      "number": 88,
+      "question": "Risk factors for male breast cancer include Klinefelter Syndrome, Cirrhosis, and:",
+      "choices": [
+        "Chronic alcoholism",
+        "High protein diet",
+        "Exercise",
+        "Smoking marijuana",
+        "Normal testosterone levels"
+      ],
+      "answer": "A",
+      "detail": "Chronic alcoholism and cirrhosis are known risk factors."
+    },
+    {
+      "number": 89,
+      "question": "The classic imaging description of male breast cancer is:",
+      "choices": [
+        "Central and flame-shaped",
+        "Eccentric but near the nipple",
+        "Diffuse and symmetric",
+        "Purely radiolucent",
+        "'Breast within a breast'"
+      ],
+      "answer": "B",
+      "detail": "Male breast cancer is typically eccentric but near the nipple."
+    },
+    {
+      "number": 90,
+      "question": "What is the 'oldest trick in the book' regarding male breast imaging?",
+      "choices": [
+        "Gynecomastia looks like a cyst.",
+        "Gynecomastia looks like a scary mass on ultrasound, which is why you always start with a mammogram.",
+        "Men never get cancer.",
+        "Ultrasound is always diagnostic in men.",
+        "Biopsy is never needed in men."
+      ],
+      "answer": "B",
+      "detail": "Gynecomastia looks like cancer on US; you must get a mammogram first."
+    },
+    {
+      "number": 91,
+      "question": "Micro-calcifications are seen in what percentage of male breast cancers?",
+      "choices": [
+        "1%",
+        "25%",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "answer": "B",
+      "detail": "25% of male breast cancers have calcifications."
+    },
+    {
+      "number": 92,
+      "question": "After gynecomastia, what is the second most common palpable mass in a man?",
+      "choices": [
+        "Cancer",
+        "Lipoma",
+        "Cyst",
+        "Fibroadenoma",
+        "Abscess"
+      ],
+      "answer": "B",
+      "detail": "Lipoma is the 2nd most common palpable mass in men."
+    },
+    {
+      "number": 93,
+      "question": "Which genetic syndrome approaches the female screening range for breast cancer risk in men?",
+      "choices": [
+        "Down Syndrome",
+        "Klinefelter Syndrome",
+        "VHL",
+        "Turner Syndrome",
+        "NF-1"
+      ],
+      "answer": "B",
+      "detail": "Only Klinefelter patients reach a risk level near the screening range."
+    },
+    {
+      "number": 94,
+      "question": "Are males with gynecomastia from gender reassignment on hormone therapy high enough risk for screening mammograms?",
+      "choices": [
+        "Yes, annually",
+        "No",
+        "Only if they are over 40",
+        "Only if they smoke"
+      ],
+      "answer": "B",
+      "detail": "They are not high enough risk for screening."
+    },
+    {
+      "number": 95,
+      "question": "For a male under age 25 with an indeterminate palpable mass, what is the most appropriate imaging?",
+      "choices": [
+        "Mammography",
+        "Ultrasound",
+        "MRI",
+        "PET/CT",
+        "No imaging"
+      ],
+      "answer": "B",
+      "detail": "Ultrasound is appropriate for symptomatic males < 25."
+    },
+    {
+      "number": 96,
+      "question": "For a male OLDER than 25 with an indeterminate palpable mass, what is the first appropriate imaging step?",
+      "choices": [
+        "Mammography",
+        "Ultrasound",
+        "MRI",
+        "Core biopsy",
+        "PET/CT"
+      ],
+      "answer": "A",
+      "detail": "Mammography is the first step for symptomatic males > 25."
+    },
+    {
+      "number": 97,
+      "question": "If a male's mammogram is suspicious for cancer, the next step is:",
+      "choices": [
+        "Biopsy the nipple",
+        "Ultrasound to stage the breast and axilla",
+        "Annual follow-up",
+        "Reassurance",
+        "Chest CT"
+      ],
+      "answer": "B",
+      "detail": "Ultrasound is used to stage the breast and axilla in men with suspicious mammograms."
+    },
+    {
+      "number": 98,
+      "question": "Bitch tits is a slang term used by the author for:",
+      "choices": [
+        "Nodular gynecomastia",
+        "Pseudogynecomastia",
+        "Male breast cancer",
+        "Silicone rupture",
+        "Mastitis"
+      ],
+      "answer": "B",
+      "detail": "Pseudogynecomastia is nicknamed 'Bitch Tits'."
+    },
+    {
+      "number": 99,
+      "question": "Tenderness is a clinical feature most associated with which gynecomastia pattern?",
+      "choices": [
+        "Nodular",
+        "Dendritic",
+        "Diffuse glandular",
+        "Pseudogynecomastia",
+        "Male breast cancer"
+      ],
+      "answer": "A",
+      "detail": "The nodular pattern is often tender."
+    },
+    {
+      "number": 100,
+      "question": "True or False: You should never ultrasound a male breast before you get a mammogram.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "A",
+      "detail": "Never ultrasound a male breast first, as gynecomastia is a 'cancer mimic' on US."
+    }
+  ]
+}

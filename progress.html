@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Progress | GOLD RADIOLOGY</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header>
+    <a href="index.html" class="logo">GOLD RADIOLOGY</a>
+    <nav>
+      <a href="qbank.html">Qbank</a>
+      <a href="progress.html" class="active">Progress</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+
+  <main class="progress-main">
+    <div class="progress-container">
+      
+      <section class="overview-section">
+        <h1>YOUR PERFORMANCE DASHBOARD</h1>
+        <div class="stats-grid">
+          <div class="stat-card">
+            <span class="stat-icon">📊</span>
+            <div class="stat-value" id="totalAnswered">0</div>
+            <div class="stat-label">Questions Answered</div>
+          </div>
+          <div class="stat-card">
+            <span class="stat-icon">🎯</span>
+            <div class="stat-value" id="overallAccuracy">0%</div>
+            <div class="stat-label">Overall Accuracy</div>
+          </div>
+          <div class="stat-card">
+            <span class="stat-icon">🔥</span>
+            <div class="stat-value" id="sessionsCompleted">0</div>
+            <div class="stat-label">Sessions Completed</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="breakdown-section">
+        <h2>Performance by Unit</h2>
+        <div class="unit-progress-list" id="unitProgressContainer">
+          <p class="no-data">Start answering questions in the Qbank to see your unit breakdown!</p>
+        </div>
+      </section>
+
+      <section class="modes-section">
+        <div class="mode-card">
+          <h3>Study Mode Stats</h3>
+          <p>Questions Answered: <span id="studyAnswered" class="highlight">0</span></p>
+          <p>Correct: <span id="studyCorrect" class="highlight">0</span></p>
+        </div>
+        <div class="mode-card">
+          <h3>Exam Mode Stats</h3>
+          <p>Questions Answered: <span id="examAnswered" class="highlight">0</span></p>
+          <p>Correct: <span id="examCorrect" class="highlight">0</span></p>
+        </div>
+      </section>
+
+      <div class="danger-zone">
+        <button id="resetProgressBtn" class="reset-btn">Reset All Progress Data</button>
+      </div>
+
+    </div>
+  </main>
+
+  <footer>
+    <p>© 2026 GOLD RADIOLOGY. All rights reserved.</p>
+  </footer>
+
+  <script src="progress.js" defer></script>
+</body>
+</html>

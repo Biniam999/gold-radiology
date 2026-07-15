@@ -1,0 +1,1290 @@
+{
+    "questions": 
+ [
+    {
+      "number": 1,
+      "question": "For a woman at high risk (BRCA positive), at what age should annual screening mammography generally begin?",
+      "choices": [
+        "Age 18",
+        "Age 25–30",
+        "Age 40",
+        "Age 50",
+        "10 years after their first period"
+      ],
+      "answer": "B",
+      "detail": "For high-risk women, screening mammography is highly appropriate starting at age 25–30 or 10 years before the age of a first-degree relative's diagnosis."
+    },
+    {
+      "number": 2,
+      "question": "A patient received 20 Gy of chest radiation for lymphoma as a child. When should annual screening MRI begin?",
+      "choices": [
+        "Immediately after radiation ends",
+        "At age 18",
+        "At age 21",
+        "At age 25 or 8 years post-exposure (whichever is later)",
+        "Only if a lump is palpable"
+      ],
+      "answer": "D",
+      "detail": "Women with a history of childhood chest radiation (≥ 20 Gy) qualify for annual MRI starting at age 25 or 8 years after radiation."
+    },
+    {
+      "number": 3,
+      "question": "In a woman with an average risk (< 15% lifetime risk), is a screening MRI appropriate?",
+      "choices": [
+        "Yes, it is highly appropriate (9)",
+        "Yes, it is a 7",
+        "No, it is a 3 (not appropriate)",
+        "Only if the mammogram is dense",
+        "Only if she has breast pain"
+      ],
+      "answer": "C",
+      "detail": "MRI is not appropriate (rated as a 3) for screening women with average risk."
+    },
+    {
+      "number": 4,
+      "question": "A woman has a personal history of breast cancer and a risk model showing 15–20% lifetime risk. What is the appropriateness of MRI?",
+      "choices": [
+        "1 (Least appropriate)",
+        "3",
+        "5",
+        "7 (Usually appropriate)",
+        "9 (Highly appropriate)"
+      ],
+      "answer": "D",
+      "detail": "For medium-risk women (15–20% risk), MRI is rated as a 7."
+    },
+    {
+      "number": 5,
+      "question": "True or False: In high-risk women, MRI should replace mammography.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "B",
+      "detail": "Mammography and MRI are complementary examinations, and both should be performed in high-risk patients."
+    },
+    {
+      "number": 6,
+      "question": "For a transgender woman over age 50, screening mammography is recommended if they have been on hormones for at least:",
+      "choices": [
+        "6 months",
+        "1 year",
+        "2 years",
+        "5 years",
+        "10 years"
+      ],
+      "answer": "D",
+      "detail": "Screening for transgender women is recommended if they are > 50 years old and have taken hormones (Estrogen/Progestin) for > 5 years."
+    },
+    {
+      "number": 7,
+      "question": "Screening mammography is recommended for transgender men if:",
+      "choices": [
+        "They have had a complete bilateral mastectomy",
+        "They are over age 50 only",
+        "They still have breast tissue (even after reduction)",
+        "They have never taken testosterone",
+        "It is never recommended"
+      ],
+      "answer": "C",
+      "detail": "Transgender men should have screening if they still have breast tissue."
+    },
+    {
+      "number": 8,
+      "question": "Which imaging is appropriate for a woman < 40 with cyclical, bilateral breast pain?",
+      "choices": [
+        "Mammography",
+        "MRI",
+        "Ultrasound",
+        "No imaging is appropriate",
+        "PET/CT"
+      ],
+      "answer": "D",
+      "detail": "For cyclical pain in a woman < 40, no imaging is appropriate."
+    },
+    {
+      "number": 9,
+      "question": "For a woman < 40 with NON-cyclical breast pain, which modality 'might be appropriate'?",
+      "choices": [
+        "Mammography",
+        "Ultrasound (rated as a 5)",
+        "MRI",
+        "Tomosynthesis",
+        "Biopsy"
+      ],
+      "answer": "B",
+      "detail": "Ultrasound is the only modality that 'might be appropriate' (5) for non-cyclical pain in younger women."
+    },
+    {
+      "number": 10,
+      "question": "In a newly diagnosed Stage 1 breast cancer patient with no symptoms, what imaging is appropriate to rule out distal metastases?",
+      "choices": [
+        "Bone scan",
+        "CT Chest/Abdomen/Pelvis",
+        "PET/CT",
+        "No imaging is appropriate",
+        "Liver MRI"
+      ],
+      "answer": "D",
+      "detail": "No systemic imaging (CT, MRI, PET) is indicated for the initial workup of Stage 1 disease without symptoms."
+    },
+    {
+      "number": 11,
+      "question": "For surveillance to rule out local recurrence in a post-therapy patient, which is most appropriate?",
+      "choices": [
+        "Diagnostic Mammography or Tomosynthesis (9)",
+        "Ultrasound (5)",
+        "MRI (5)",
+        "PET/CT (2)",
+        "Annual physical exam only"
+      ],
+      "answer": "A",
+      "detail": "Diagnostic mammography or tomo is highly appropriate (9) for surveillance."
+    },
+    {
+      "number": 12,
+      "question": "A 22-year-old male presents with an indeterminate palpable mass. What is the appropriate first imaging step?",
+      "choices": [
+        "Mammography",
+        "Ultrasound (8)",
+        "MRI",
+        "PET/CT",
+        "No imaging"
+      ],
+      "answer": "B",
+      "detail": "For symptomatic males < 25, ultrasound is appropriate (8)."
+    },
+    {
+      "number": 13,
+      "question": "A 40-year-old male presents with an indeterminate palpable mass. What is the appropriate first imaging step?",
+      "choices": [
+        "Mammography (8)",
+        "Ultrasound (5)",
+        "MRI",
+        "Biopsy",
+        "Reassurance"
+      ],
+      "answer": "A",
+      "detail": "For males > 25, mammography is the preferred initial study."
+    },
+    {
+      "number": 14,
+      "question": "A male patient has a physical exam highly concerning for cancer (ulcerative mass, nodes). What is appropriate?",
+      "choices": [
+        "Mammography only",
+        "Ultrasound only",
+        "Both Mammography (9) and Ultrasound (8) to stage",
+        "MRI only",
+        "PET/CT only"
+      ],
+      "answer": "C",
+      "detail": "Highly suspicious exams in males require both mammo and ultrasound for staging."
+    },
+    {
+      "number": 15,
+      "question": "A woman > 40 presents with a palpable finding. What is the most appropriate first step?",
+      "choices": [
+        "Mammography (9)",
+        "Ultrasound (9)",
+        "MRI",
+        "Reassurance",
+        "FNA"
+      ],
+      "answer": "A",
+      "detail": "Mammography is the standard first step for a palpable in a woman > 40."
+    },
+    {
+      "number": 16,
+      "question": "If a woman > 40 has a palpable finding but the mammogram is negative, what is the next step?",
+      "choices": [
+        "Reassurance",
+        "Ultrasound (9)",
+        "MRI",
+        "6-month follow-up",
+        "Surgical consult"
+      ],
+      "answer": "B",
+      "detail": "Even with a negative mammogram, a palpable in this age group requires ultrasound."
+    },
+    {
+      "number": 17,
+      "question": "For a woman < 30 with a palpable mass, what is the appropriate initial evaluation?",
+      "choices": [
+        "Mammography",
+        "Ultrasound (9)",
+        "MRI",
+        "2-year follow-up",
+        "Core biopsy"
+      ],
+      "answer": "B",
+      "detail": "For women < 30, ultrasound is the first step."
+    },
+    {
+      "number": 18,
+      "question": "If a woman < 30 has a suspicious ultrasound, what is the next most appropriate step?",
+      "choices": [
+        "Core Biopsy (9)",
+        "Mammography (8)",
+        "MRI",
+        "6-month follow-up",
+        "PET/CT"
+      ],
+      "answer": "A",
+      "detail": "Core biopsy is the most appropriate (9) next step for a suspicious US in this age group."
+    },
+    {
+      "number": 19,
+      "question": "A woman < 30 has an ultrasound finding eligible for BI-RADS 3 (e.g., fibroadenoma). What is the follow-up?",
+      "choices": [
+        "Annual screening",
+        "Short interval follow-up (usually Q6 months x 2 years)",
+        "Immediate biopsy",
+        "Reassurance",
+        "MRI"
+      ],
+      "answer": "B",
+      "detail": "BI-RADS 3 findings require short-interval follow-up for 2 years."
+    },
+    {
+      "number": 20,
+      "question": "In the 'Symptomatic Male Breast,' if history and exam are consistent with 'bitch tits' (pseudogynecomastia):",
+      "choices": [
+        "Mammography is required",
+        "Ultrasound is required",
+        "No imaging is appropriate",
+        "Biopsy the fat",
+        "MRI with contrast"
+      ],
+      "answer": "C",
+      "detail": "For clear pseudogynecomastia, no imaging is necessary."
+    },
+    {
+      "number": 21,
+      "question": "A woman > 40 has mammographic findings of a simple lipoma at the site of a palpable mass. What is the next step?",
+      "choices": [
+        "Ultrasound",
+        "Biopsy",
+        "No additional imaging is appropriate",
+        "MRI",
+        "6-month follow-up"
+      ],
+      "answer": "C",
+      "detail": "If the mammogram definitively identifies a benign lesion (lipoma) at the palpable site, no more imaging is needed."
+    },
+    {
+      "number": 22,
+      "question": "Which molecular subtype of breast cancer is most associated with BRCA1 mutations?",
+      "choices": [
+        "Luminal A",
+        "Luminal B",
+        "HER2 positive",
+        "Triple negative",
+        "Paget's"
+      ],
+      "answer": "D",
+      "detail": "BRCA1 is more often associated with triple negative cancers."
+    },
+    {
+      "number": 23,
+      "question": "For a woman with a lifetime risk of 22%, which screening combination is 'highly appropriate'?",
+      "choices": [
+        "Mammo only",
+        "MRI only",
+        "Mammography + MRI",
+        "Ultrasound only",
+        "No screening until 50"
+      ],
+      "answer": "C",
+      "detail": "Lifetime risk > 20–25% warrants both mammography and MRI."
+    },
+    {
+      "number": 24,
+      "question": "In a transgender woman, which BMI increases breast cancer risk?",
+      "choices": [
+        "< 18",
+        "18–25",
+        "> 35",
+        "Only if < 20",
+        "BMI does not affect risk"
+      ],
+      "answer": "C",
+      "detail": "A BMI > 35 is noted to increase risk in transgender women."
+    },
+    {
+      "number": 25,
+      "question": "A woman between ages 30–39 presents for initial evaluation of a palpable. Both Mammo and US are rated as:",
+      "choices": [
+        "2",
+        "5",
+        "7",
+        "8 (Appropriate)",
+        "9"
+      ],
+      "answer": "D",
+      "detail": "Both mammo and ultrasound are appropriate (8) for this age range."
+    },
+    {
+      "number": 26,
+      "question": "Which modality is generally faster and easier than stereotactic biopsy?",
+      "choices": [
+        "MRI-guided",
+        "Ultrasound-guided",
+        "PET-guided",
+        "Palpation-guided",
+        "CT-guided"
+      ],
+      "answer": "B",
+      "detail": "Ultrasound is faster and easier; if a mass is visible on US, biopsy should be done that way."
+    },
+    {
+      "number": 27,
+      "question": "What is the typical gauge for an automatic spring-loaded device used for breast masses?",
+      "choices": [
+        "7 gauge",
+        "10 gauge",
+        "14 gauge",
+        "22 gauge",
+        "25 gauge"
+      ],
+      "answer": "C",
+      "detail": "A 14 gauge device is usually used for masses."
+    },
+    {
+      "number": 28,
+      "question": "To visualize the needle length better during ultrasound biopsy, where should the mass be placed?",
+      "choices": [
+        "In the center of the screen",
+        "On the far side of the screen",
+        "On the near side of the screen",
+        "At the very top",
+        "It does not matter"
+      ],
+      "answer": "B",
+      "detail": "Placing the mass on the far side allows for better visualization of the needle length."
+    },
+    {
+      "number": 29,
+      "question": "Which needle orientation is preferred to avoid the 'embarrassing complication' of a pneumothorax?",
+      "choices": [
+        "Perpendicular to the chest wall",
+        "Parallel to the chest wall",
+        "45-degree angle",
+        "Directly into the rib",
+        "Toward the heart"
+      ],
+      "answer": "B",
+      "detail": "The needle should be parallel to the chest wall to prevent pneumothorax."
+    },
+    {
+      "number": 30,
+      "question": "Where should the local anesthetic be placed for a small lesion?",
+      "choices": [
+        "Directly into the lesion",
+        "Right up to but not into the lesion",
+        "In the contralateral breast",
+        "Only in the skin",
+        "In the pectoralis muscle"
+      ],
+      "answer": "B",
+      "detail": "Anesthetic should be placed near the lesion but not inside it."
+    },
+    {
+      "number": 31,
+      "question": "When performing multiple passes on a mass, which part should you try to biopsy first?",
+      "choices": [
+        "The superficial part",
+        "The deeper part",
+        "The very center",
+        "The spiculated margin",
+        "The axillary nodes"
+      ],
+      "answer": "B",
+      "detail": "Biopsying the deeper part first prevents bleeding from obscuring the view."
+    },
+    {
+      "number": 32,
+      "question": "If you have two lesions to biopsy, which should you target first to avoid obscuration from bleeding?",
+      "choices": [
+        "The larger one",
+        "The smaller one",
+        "The one closest to the skin",
+        "The most spiculated one",
+        "Always the axilla first"
+      ],
+      "answer": "B",
+      "detail": "Hit the smaller one first, as a bleeding larger one is more likely to obscure the field."
+    },
+    {
+      "number": 33,
+      "question": "If a lesion is both solid and cystic, which component should be biopsied?",
+      "choices": [
+        "The cystic part",
+        "The solid part",
+        "Both equally",
+        "Neither (just aspirate)",
+        "Only the wall"
+      ],
+      "answer": "B",
+      "detail": "Always target the solid part of a complex lesion."
+    },
+    {
+      "number": 34,
+      "question": "You accidentally inject a bunch of air while giving lidocaine and now the mass is obscured. What is the next step?",
+      "choices": [
+        "Biopsy it blind",
+        "Try to see through the air with Doppler",
+        "Reschedule the biopsy",
+        "Proceed to MRI-guided biopsy",
+        "Call the surgeon for an immediate OR excision"
+      ],
+      "answer": "C",
+      "detail": "If air obscures the mass, you must reschedule."
+    },
+    {
+      "number": 35,
+      "question": "When biopsying an axillary lymph node, which part of the node should be targeted?",
+      "choices": [
+        "The fatty hilum",
+        "The node’s cortex",
+        "The central artery",
+        "The skin above it",
+        "The adjacent fat"
+      ],
+      "answer": "B",
+      "detail": "Target the cortex when biopsying a node."
+    },
+    {
+      "number": 36,
+      "question": "A suspicious hypoechoic mass turns out to be a debris-filled cyst upon aspiration. The fluid is non-bloody and the lesion disappears. What do you do?",
+      "choices": [
+        "Send for cytology",
+        "Biopsy the wall",
+        "Pitch the fluid; no need for cytology",
+        "Place a clip and follow in 6 months",
+        "Assess as BI-RADS 4"
+      ],
+      "answer": "C",
+      "detail": "If a cyst is non-bloody and disappears, you are done."
+    },
+    {
+      "number": 37,
+      "question": "If you aspirate a cyst and the fluid is bloody, what is the next step?",
+      "choices": [
+        "Throw it away",
+        "Send it to cytology and place a clip",
+        "Call the surgeon",
+        "Start antibiotics",
+        "Re-aspirate in 1 week"
+      ],
+      "answer": "B",
+      "detail": "Bloody fluid requires cytology and a clip."
+    },
+    {
+      "number": 38,
+      "question": "A cyst aspiration yields purulent fluid that 'smells like a zombie farted.' What is the next step?",
+      "choices": [
+        "Cytology",
+        "Send to microbiology lab for culture and sensitivity",
+        "Core biopsy",
+        "Pitch it",
+        "MRI"
+      ],
+      "answer": "B",
+      "detail": "Purulent fluid needs microbiology/culture."
+    },
+    {
+      "number": 39,
+      "question": "If a lesion does NOT disappear after aspiration of fluid, what is the next step?",
+      "choices": [
+        "Reassurance",
+        "Proceed to core biopsy of the residual solid mass",
+        "Cytology of the fluid only",
+        "6-month follow-up",
+        "PET/CT"
+      ],
+      "answer": "B",
+      "detail": "A residual mass after aspiration requires core biopsy."
+    },
+    {
+      "number": 40,
+      "question": "How many samples are typically taken with a 10–11 gauge vacuum-assisted needle?",
+      "choices": [
+        "2",
+        "4",
+        "6",
+        "12",
+        "50"
+      ],
+      "answer": "D",
+      "detail": "A 10–11 gauge needle typically takes 12 samples."
+    },
+    {
+      "number": 41,
+      "question": "If the breast compresses to less than what thickness, is a stereotactic biopsy contraindicated?",
+      "choices": [
+        "10 mm",
+        "20 mm",
+        "40 mm",
+        "60 mm",
+        "Compression thickness doesn't matter"
+      ],
+      "answer": "B",
+      "detail": "If the breast is < 20 mm compressed, you should do wire localization instead."
+    },
+    {
+      "number": 42,
+      "question": "What is the 'accordion effect' in the context of breast procedures?",
+      "choices": [
+        "The needle bending",
+        "Clip migration after compression is released",
+        "The breast expanding after biopsy",
+        "Multiple septations in a cyst",
+        "Nipple retraction"
+      ],
+      "answer": "B",
+      "detail": "The accordion effect refers to clip migration."
+    },
+    {
+      "number": 43,
+      "question": "After placing a biopsy marker, which imaging is needed to evaluate for migration?",
+      "choices": [
+        "Ultrasound",
+        "MRI",
+        "Mammogram in the orthogonal view",
+        "PET",
+        "No imaging is needed"
+      ],
+      "answer": "C",
+      "detail": "An orthogonal mammogram is used to check clip placement."
+    },
+    {
+      "number": 44,
+      "question": "The 'Localization and Accuracy Test' for stereotactic systems is performed:",
+      "choices": [
+        "Weekly",
+        "Monthly",
+        "Daily before patient exams",
+        "Annually",
+        "Only after a repair"
+      ],
+      "answer": "C",
+      "detail": "System alignment is checked daily."
+    },
+    {
+      "number": 45,
+      "question": "For a patient with breast implants, is a core biopsy contraindicated?",
+      "choices": [
+        "Yes",
+        "No"
+      ],
+      "answer": "B",
+      "detail": "Implants are NOT a contraindication for core biopsy."
+    },
+    {
+      "number": 46,
+      "question": "Which size needle is small but can still 'burst a saline implant'?",
+      "choices": [
+        "10 gauge",
+        "14 gauge",
+        "25 gauge FNA needle",
+        "18 gauge",
+        "No needle can burst it"
+      ],
+      "answer": "C",
+      "detail": "Even a tiny 25 gauge needle can burst a saline implant."
+    },
+    {
+      "number": 47,
+      "question": "'No Calcs in the core' from a biopsy of milk of calcium means you need to look at the cores with:",
+      "choices": [
+        "UV light",
+        "Polarized light",
+        "Ultrasound",
+        "T2 MRI",
+        "A magnifying glass"
+      ],
+      "answer": "B",
+      "detail": "Polarized light is needed to see the birefringence of milk of calcium."
+    },
+    {
+      "number": 48,
+      "question": "In ultrasound-guided biopsy, how many passes do most texts recommend (even if diagnosis is often made in 1–2)?",
+      "choices": [
+        "1",
+        "3",
+        "5",
+        "10",
+        "15"
+      ],
+      "answer": "C",
+      "detail": "Most texts recommend 5 passes."
+    },
+    {
+      "number": 49,
+      "question": "For stereotactic biopsy using a 7–9 gauge needle, how many samples are typically taken?",
+      "choices": [
+        "2",
+        "4",
+        "12",
+        "24",
+        "100"
+      ],
+      "answer": "B",
+      "detail": "A 7–9 gauge needle requires only 4 samples."
+    },
+    {
+      "number": 50,
+      "question": "'CXR with clips in the axilla of a woman' is a classic Aunt Minnie look for:",
+      "choices": [
+        "History of Melanoma",
+        "History of Breast Cancer",
+        "Prior infection",
+        "Normal variant",
+        "Tuberculosis"
+      ],
+      "answer": "B",
+      "detail": "Axillary clips in a woman usually indicate prior breast cancer surgery."
+    },
+    {
+      "number": 51,
+      "question": "What does the acronym MQSA stand for?",
+      "choices": [
+        "Mammography Quality Selection Act",
+        "Mammography Quality Standards Act",
+        "Medical Quality and Safety Authority",
+        "Modern Quality Standards Association",
+        "Mandatory Quality Service Audit"
+      ],
+      "answer": "B",
+      "detail": "It stands for the Mammography Quality Standards Act."
+    },
+    {
+      "number": 52,
+      "question": "Which agency is the 'Evil Overlord' (main regulator) behind MQSA?",
+      "choices": [
+        "ACR",
+        "FDA",
+        "AMA",
+        "FBI",
+        "CIA"
+      ],
+      "answer": "B",
+      "detail": "The FDA is the body behind MQSA."
+    },
+    {
+      "number": 53,
+      "question": "How many months of dedicated mammography training are required during residency?",
+      "choices": [
+        "1 month",
+        "2 months",
+        "3 months",
+        "6 months",
+        "12 months"
+      ],
+      "answer": "C",
+      "detail": "Three months of training are required."
+    },
+    {
+      "number": 54,
+      "question": "How many mammograms must a resident read during the last two years of training?",
+      "choices": [
+        "100",
+        "240",
+        "500",
+        "960",
+        "1000"
+      ],
+      "answer": "B",
+      "detail": "Residents must read 240 mammograms."
+    },
+    {
+      "number": 55,
+      "question": "According to MQSA, the 'recall rate' for a screening mammogram should be less than:",
+      "choices": [
+        "1%",
+        "5%",
+        "10%",
+        "25%",
+        "50%"
+      ],
+      "answer": "C",
+      "detail": "The recall rate must be under 10%."
+    },
+    {
+      "number": 56,
+      "question": "What is the 'appropriate target range' for the recall rate during a medical audit?",
+      "choices": [
+        "1–2%",
+        "5–7%",
+        "10–15%",
+        "20–25%",
+        "0%"
+      ],
+      "answer": "B",
+      "detail": "The target recall rate is 5–7%."
+    },
+    {
+      "number": 57,
+      "question": "How many cancers per 1000 screened is the appropriate target range?",
+      "choices": [
+        "1–2",
+        "3–8",
+        "10–20",
+        "50",
+        "100"
+      ],
+      "answer": "B",
+      "detail": "The goal is to find 3–8 cancers per 1000."
+    },
+    {
+      "number": 58,
+      "question": "Facilities must provide patients with a written 'lay report' of results within how many days?",
+      "choices": [
+        "24 hours",
+        "7 days",
+        "14 days",
+        "30 days",
+        "1 year"
+      ],
+      "answer": "D",
+      "detail": "A lay summary must be given within 30 days."
+    },
+    {
+      "number": 59,
+      "question": "If a patient moves, can they obtain their 'original' mammograms from a facility?",
+      "choices": [
+        "No, only digital copies",
+        "No, only written reports",
+        "Yes, patients can obtain original mammograms",
+        "Only if a lawyer requests them",
+        "Only after 10 years"
+      ],
+      "answer": "C",
+      "detail": "Patients are entitled to their original mammograms."
+    },
+    {
+      "number": 60,
+      "question": "Who is 'ultimately responsible' for the Quality Control program at a mammography facility?",
+      "choices": [
+        "The lead technician",
+        "The Interpreting Physician",
+        "The hospital CEO",
+        "The FDA inspector",
+        "The janitor"
+      ],
+      "answer": "B",
+      "detail": "The Interpreting Physician is responsible for QC."
+    },
+    {
+      "number": 61,
+      "question": "What is the required resolution for line pairs in the anode-to-cathode direction?",
+      "choices": [
+        "5 lp/mm",
+        "11 lp/mm",
+        "13 lp/mm",
+        "20 lp/mm",
+        "50 lp/mm"
+      ],
+      "answer": "C",
+      "detail": "The required resolution is 13 lp/mm."
+    },
+    {
+      "number": 62,
+      "question": "To pass image quality testing using a phantom, how many 'fibers' must be visible?",
+      "choices": [
+        "1",
+        "3",
+        "4",
+        "6",
+        "10"
+      ],
+      "answer": "C",
+      "detail": "At least 4 fibers must be seen."
+    },
+    {
+      "number": 63,
+      "question": "To pass phantom image quality, how many 'microcalcification clusters' and 'masses' must be shown?",
+      "choices": [
+        "1 cluster and 1 mass",
+        "2 clusters and 2 masses",
+        "3 clusters and 3 masses",
+        "5 clusters and 5 masses",
+        "10 of each"
+      ],
+      "answer": "C",
+      "detail": "The requirement is 3 clusters and 3 masses."
+    },
+    {
+      "number": 64,
+      "question": "What is the dose phantom thickness and glandularity?",
+      "choices": [
+        "6 cm, 20% glandularity",
+        "4.2 cm, 50% glandularity",
+        "2 cm, 100% fat",
+        "10 cm, 50% glandularity",
+        "4.2 cm, 10% glandularity"
+      ],
+      "answer": "B",
+      "detail": "The phantom is 4.2 cm thick with 50% glandularity."
+    },
+    {
+      "number": 65,
+      "question": "The phantom dose is supposed to be less than how many mGy per image (with a grid)?",
+      "choices": [
+        "1 mGy",
+        "2 mGy",
+        "3 mGy",
+        "5 mGy",
+        "10 mGy"
+      ],
+      "answer": "C",
+      "detail": "The limit is 3 mGy per image."
+    },
+    {
+      "number": 66,
+      "question": "True or False: There are strict dose limits for an 'actual patient' during mammography.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "B",
+      "detail": "There are no patient dose limits, only phantom dose limits."
+    },
+    {
+      "number": 67,
+      "question": "What is the 'typical' dose for a standard two-view (CC + MLO) screening of one breast?",
+      "choices": [
+        "1 mGy",
+        "2 mGy per view (4 mGy total for one breast)",
+        "8 mGy per view",
+        "0.5 mGy",
+        "20 mGy"
+      ],
+      "answer": "B",
+      "detail": "Typical dose is about 2 mGy per view."
+    },
+    {
+      "number": 68,
+      "question": "How often must 'Processor QC' be performed?",
+      "choices": [
+        "Daily",
+        "Weekly",
+        "Quarterly",
+        "Semi-annually",
+        "Annually"
+      ],
+      "answer": "A",
+      "detail": "Processor QC is a daily task."
+    },
+    {
+      "number": 69,
+      "question": "How often must 'Phantom Evaluation' be performed?",
+      "choices": [
+        "Daily",
+        "Weekly",
+        "Monthly",
+        "Semi-annually",
+        "Annually"
+      ],
+      "answer": "B",
+      "detail": "Phantom evaluation is done weekly."
+    },
+    {
+      "number": 70,
+      "question": "How often must a 'Compression Test' be performed?",
+      "choices": [
+        "Daily",
+        "Weekly",
+        "Quarterly",
+        "Semi-Annually",
+        "Every 5 years"
+      ],
+      "answer": "D",
+      "detail": "The compression test is a semi-annual task."
+    },
+    {
+      "number": 71,
+      "question": "How often must a medical audit and outcome analysis be performed?",
+      "choices": [
+        "Daily",
+        "Monthly",
+        "Quarterly",
+        "Once a year",
+        "Only after an FDA inspection"
+      ],
+      "answer": "D",
+      "detail": "Audits are performed annually."
+    },
+    {
+      "number": 72,
+      "question": "For how many years must a facility keep original mammograms if they have prior films?",
+      "choices": [
+        "1 year",
+        "2 years",
+        "5 years",
+        "10 years",
+        "20 years"
+      ],
+      "answer": "C",
+      "detail": "Films must be kept for 5 years (or 10 if no priors)."
+    },
+    {
+      "number": 73,
+      "question": "The 'average' compressed breast in the real world is:",
+      "choices": [
+        "4.2 cm",
+        "6 cm",
+        "10 cm",
+        "2 cm",
+        "8 cm"
+      ],
+      "answer": "B",
+      "detail": "The typical compressed breast is 6 cm."
+    },
+    {
+      "number": 74,
+      "question": "True or False: Digital mammography uses a 'fixed dose' (similar to screen-film).",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "B",
+      "detail": "Digital systems do not use a fixed dose and can use as much (or little) as appropriate."
+    },
+    {
+      "number": 75,
+      "question": "Darkroom Cleanliness' is a QA task that must be performed:",
+      "choices": [
+        "Daily",
+        "Weekly",
+        "Monthly",
+        "Annually",
+        "It is not required"
+      ],
+      "answer": "A",
+      "detail": "Darkroom cleanliness is a daily requirement."
+    },
+    {
+      "number": 76,
+      "question": "In Scenario 1, the PNL is 9 cm on MLO but only 6 cm on CC. What is the next step?",
+      "choices": [
+        "BI-RADS 1",
+        "BI-RADS 3",
+        "Technical call back (BI-RADS 0)",
+        "Ultrasound",
+        "Biopsy"
+      ],
+      "answer": "C",
+      "detail": "This is a technical failure; the PNLs must be within 1 cm of each other."
+    },
+    {
+      "number": 77,
+      "question": "In Scenario 2a, a mass is seen on two views on an annual screening. What is the appropriate assessment?",
+      "choices": [
+        "BI-RADS 1",
+        "BI-RADS 2",
+        "BI-RADS 4",
+        "BI-RADS 0 (incomplete workup)",
+        "BI-RADS 6"
+      ],
+      "answer": "D",
+      "detail": "A suspicious finding on a screener must be a BI-RADS 0."
+    },
+    {
+      "number": 78,
+      "question": "After a callback, the mass persists and is suspicious. You perform an ultrasound and see a shadowing, angry mass. What is the 'Next Step'?",
+      "choices": [
+        "6-month follow-up",
+        "Stage the breast and axilla",
+        "Call the surgeon for mastectomy",
+        "PET scan",
+        "Reassurance"
+      ],
+      "answer": "B",
+      "detail": "If cancer is highly likely, you must scan the rest of the breast and axilla to stage it."
+    },
+    {
+      "number": 79,
+      "question": "In Scenario 3a, a mass is seen on CC only (an asymmetry). What is the BI-RADS assessment?",
+      "choices": [
+        "BI-RADS 1",
+        "BI-RADS 2",
+        "BI-RADS 0",
+        "BI-RADS 4",
+        "BI-RADS 5"
+      ],
+      "answer": "C",
+      "detail": "Findings seen in one view require a callback (BI-RADS 0) for spot compression."
+    },
+    {
+      "number": 80,
+      "question": "In Scenario 3b, after spot compression is applied, the 'mass' disappears and looks like normal tissue. What is the next step?",
+      "choices": [
+        "BI-RADS 1 and return to screening",
+        "BI-RADS 3",
+        "Ultrasound just to be sure",
+        "Biopsy",
+        "MRI"
+      ],
+      "answer": "A",
+      "detail": "If the finding does not persist on spots, it is BI-RADS 1."
+    },
+    {
+      "number": 81,
+      "question": "According to the 'Oldest Trick in the Book,' a male with a palpable mass should never have an ultrasound before a:",
+      "choices": [
+        "PET scan",
+        "Mammogram ('Man'-o-gram)",
+        "Biopsy",
+        "CT",
+        "Blood test"
+      ],
+      "answer": "B",
+      "detail": "You must get a mammogram first because gynecomastia can look like cancer on US."
+    },
+    {
+      "number": 82,
+      "question": "In Scenario 4b, a male's mammogram shows a 'flame-shaped' density under the nipple. What is the likely diagnosis?",
+      "choices": [
+        "Male Breast Cancer",
+        "Gynecomastia",
+        "Lipoma",
+        "Saline rupture",
+        "Hematoma"
+      ],
+      "answer": "B",
+      "detail": "Flame-shaped retroareolar density is classic for gynecomastia."
+    },
+    {
+      "number": 83,
+      "question": "In Scenario 5a, a 70-year-old woman with a history of lumpectomy (no RT) has a scar that is 'increasing' in density. What is the assessment?",
+      "choices": [
+        "BI-RADS 2 (normal scar)",
+        "BI-RADS 3",
+        "BI-RADS 0 (recall for spots)",
+        "Reassurance",
+        "Antibiotics"
+      ],
+      "answer": "C",
+      "detail": "An increasingly dense scar is suspicious and needs callback."
+    },
+    {
+      "number": 84,
+      "question": "The spot views in Scenario 5b show 'pointy' calcifications near the scar. What are they called?",
+      "choices": [
+        "Popcorn",
+        "Secretory",
+        "Fine Pleomorphic",
+        "Eggshell",
+        "Dystrophic"
+      ],
+      "answer": "C",
+      "detail": "Pointy calcifications are fine pleomorphic."
+    },
+    {
+      "number": 85,
+      "question": "What is the final diagnosis for Scenario 5 (increasing scar density + fine pleomorphic calcs)?",
+      "choices": [
+        "Normal healing",
+        "Fat necrosis",
+        "Local recurrence (BI-RADS 5)",
+        "Mastitis",
+        "Fibroadenoma"
+      ],
+      "answer": "C",
+      "detail": "These features are highly suggestive of local recurrence."
+    },
+    {
+      "number": 86,
+      "question": "A 'shrinking breast' on mammography is a buzzword for:",
+      "choices": [
+        "Normal aging",
+        "Invasive Lobular Carcinoma (ILC)",
+        "Gynecomastia",
+        "CHF",
+        "Breast reduction"
+      ],
+      "answer": "B",
+      "detail": "The 'shrinking breast' is a hallmark of ILC."
+    },
+    {
+      "number": 87,
+      "question": "If you see 'lines radiating to a single point' on mammography, you say:",
+      "choices": [
+        "Summation artifact",
+        "Architectural distortion",
+        "Normal Cooper's ligaments",
+        "Simple cyst",
+        "Hamartoma"
+      ],
+      "answer": "B",
+      "detail": "Radiating lines indicate architectural distortion."
+    },
+    {
+      "number": 88,
+      "question": "Architectural distortion + Calcifications' makes you think of:",
+      "choices": [
+        "ILC",
+        "IDC + DCIS",
+        "Fat necrosis",
+        "Fibroadenoma",
+        "Mastitis"
+      ],
+      "answer": "B",
+      "detail": "This combination suggests Invasive Ductal and Ductal Carcinoma In Situ."
+    },
+    {
+      "number": 89,
+      "question": "Architectural distortion WITHOUT calcifications' makes you think of:",
+      "choices": [
+        "IDC",
+        "Infiltrating Lobular Carcinoma (ILC)",
+        "Tubular cancer",
+        "Papilloma",
+        "Normal fat"
+      ],
+      "answer": "B",
+      "detail": "ILC classically presents as architectural distortion without calcifications."
+    },
+    {
+      "number": 90,
+      "question": "The 'Stepladder Sign' on ultrasound and the 'Linguine Sign' on MRI both indicate:",
+      "choices": [
+        "Extracapsular rupture",
+        "Intracapsular silicone rupture",
+        "Saline rupture",
+        "Normal folds",
+        "Cancer"
+      ],
+      "answer": "B",
+      "detail": "These are buzzwords for intracapsular rupture."
+    },
+    {
+      "number": 91,
+      "question": "Residual Calcs in the Lumpectomy Bed' is a buzzword for:",
+      "choices": [
+        "Normal healing",
+        "Fat necrosis",
+        "Local recurrence",
+        "Secretory disease",
+        "Dystrophic calcs"
+      ],
+      "answer": "C",
+      "detail": "Calcs in the tumor bed indicate recurrence."
+    },
+    {
+      "number": 92,
+      "question": "If a biopsy result is 'discordant' with suspicious imaging (e.g., BR-5), what is the mandatory next step?",
+      "choices": [
+        "Re-biopsy in 6 months",
+        "Return to screening",
+        "Surgical excision",
+        "MRI",
+        "2-year follow-up"
+      ],
+      "answer": "C",
+      "detail": "Discordant findings require surgical biopsy."
+    },
+    {
+      "number": 93,
+      "question": "CXR with clips in the axilla of a man' is a classic look for:",
+      "choices": [
+        "Prior breast cancer",
+        "Prior History of Melanoma",
+        "prior infection",
+        "Tuberculosis",
+        "Lung cancer"
+      ],
+      "answer": "B",
+      "detail": "In a male, axillary clips suggest melanoma surgery."
+    },
+    {
+      "number": 94,
+      "question": "True or False: Surgical scars should generally get LESS dense with time.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "A",
+      "detail": "Scars should lighten; if they darken, worry about cancer."
+    },
+    {
+      "number": 95,
+      "question": "For the purpose of the exam, screening mammography:",
+      "choices": [
+        "Is ineffective",
+        "Saves lots of lives",
+        "Should only be done every 3 years",
+        "Is not for women over 80",
+        "Increases overall mortality"
+      ],
+      "answer": "B",
+      "detail": "On the boards, screening saves lives."
+    },
+    {
+      "number": 96,
+      "question": "A '95-year-old with low-grade DCIS' needs which step on a board exam?",
+      "choices": [
+        "Hospice",
+        "Surgical consult",
+        "No treatment",
+        "Reassurance",
+        "Radiation only"
+      ],
+      "answer": "B",
+      "detail": "Even very elderly patients with DCIS get a surgical consult."
+    },
+    {
+      "number": 97,
+      "question": "If you see 'thick Coopers ligaments' on a mammogram, you should think of:",
+      "choices": [
+        "ILC",
+        "Edema (e.g., from CHF)",
+        "Normal aging",
+        "Weight loss",
+        "Popcorn calcification"
+      ],
+      "answer": "B",
+      "detail": "Thickened ligaments are a sign of edema."
+    },
+    {
+      "number": 98,
+      "question": "Thick FUZZY coopers ligaments with normal skin' is an imaging sign of:",
+      "choices": [
+        "Edema",
+        "Blur (patient motion)",
+        "Inflammatory cancer",
+        "Mastitis",
+        "Nipple retraction"
+      ],
+      "answer": "B",
+      "detail": "Fuzzy ligaments suggest motion blur."
+    },
+    {
+      "number": 99,
+      "question": "What is the 'most common' primary tumor to metastasize to the breast?",
+      "choices": [
+        "Lung",
+        "Melanoma",
+        "Renal cell",
+        "Thyroid",
+        "Ovarian"
+      ],
+      "answer": "B",
+      "detail": "Melanoma (along with lymphoma) is a top metastasis source."
+    },
+    {
+      "number": 100,
+      "question": "BRCA2' mutations are more commonly seen in which patient group?",
+      "choices": [
+        "Younger patients",
+        "Male breast cancer patients (more than BRCA1)",
+        "Infants",
+        "Patients with CHF",
+        "Everyone has equal risk"
+      ],
+      "answer": "B",
+      "detail": "BRCA2 is more strongly associated with male breast cancer."
+    }
+  ]
+}

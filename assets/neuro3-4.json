@@ -1,0 +1,496 @@
+{
+    "questions": 
+
+[
+  {
+    "number": 1,
+    "question": "The Monro-Kellie Hypothesis states that the head is a closed shell containing brain, blood, and CSF in dynamic equilibrium. If the volume of one increases, what must happen to the others?",
+    "choices": ["A. They must increase proportionally", "B. The volume of another must go down", "C. The skull expands to compensate", "D. Blood pressure must decrease", "E. Intracranial pressure remains constant"],
+    "answer": "B",
+    "detail": "Because the skull is a rigid container, an increase in one component necessitates a decrease in another to maintain equilibrium."
+  },
+  {
+    "number": 2,
+    "question": "In the setting of Intracranial Hypotension (leaking CSF), how does the venous system compensate?",
+    "choices": ["A. Venous sinuses compress", "B. Venous blood expands", "C. Dural sinuses disappear", "D. The pituitary gland shrinks", "E. Flow reversal in the jugular vein"],
+    "answer": "B",
+    "detail": "To maintain intracranial volume equilibrium in the face of low CSF, the venous blood volume expands."
+  },
+  {
+    "number": 3,
+    "question": "Which of the following is a classic MRI finding in Intracranial Hypotension?",
+    "choices": ["A. Slit-like ventricles", "B. Meningeal engorgement (enhancement)", "C. Optic nerve tortuosity", "D. Scleral flattening", "E. Empty sella"],
+    "answer": "B",
+    "detail": "Diffuse pachymeningeal enhancement (meningeal engorgement) is a hallmark of intracranial hypotension."
+  },
+  {
+    "number": 4,
+    "question": "\"Pituitary pseudo-mass\" or engorgement is an imaging feature associated with:",
+    "choices": ["A. Pseudotumor cerebri", "B. Pituitary adenoma", "C. Intracranial hypotension", "D. Pregnancy", "E. Acromegaly"],
+    "answer": "C",
+    "detail": "Engorgement of the pituitary gland is a known compensatory feature of low intracranial pressure."
+  },
+  {
+    "number": 5,
+    "question": "What is the classic clinical demographic for Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)?",
+    "choices": ["A. Elderly males with dementia", "B. Young athletic males", "C. Fat middle-aged women with a headache", "D. Newborn infants", "E. Post-menopausal women with hearing loss"],
+    "answer": "C",
+    "detail": "The classic 'Aunt Minnie' clinical profile for IIH is an overweight woman of childbearing age presenting with headache."
+  },
+  {
+    "number": 6,
+    "question": "Which of the following findings follow the \"equilibrium idea\" for Increased Intracranial Pressure (ICP)?",
+    "choices": ["A. Ventricles become slit-like", "B. Pituitary shrinks (partially empty sella)", "C. Venous sinuses appear compressed", "D. Vertical tortuosity of the optic nerves", "E. All of the above"],
+    "answer": "E",
+    "detail": "Findings of high ICP include ventricular/sinus compression, pituitary flattening, and optic nerve changes."
+  },
+  {
+    "number": 7,
+    "question": "A downward displacement of the brainstem in Pseudotumor Cerebri can stretch which cranial nerve?",
+    "choices": ["A. CN 2", "B. CN 3", "C. CN 4", "D. CN 6", "E. CN 7"],
+    "answer": "D",
+    "detail": "Increased pressure can push the brainstem down, stretching the abducens nerve (CN 6)."
+  },
+  {
+    "number": 8,
+    "question": "Approximately what fraction of patients with Pseudotumor Cerebri have a sixth nerve paresis as their only neurologic deficit?",
+    "choices": ["A. 1/10", "B. 1/4", "C. 1/3", "D. 1/2", "E. 3/4"],
+    "answer": "C",
+    "detail": "Roughly one-third of IIH patients present with a CN 6 palsy as a false-localizing sign."
+  },
+  {
+    "number": 9,
+    "question": "In \"Communicating\" hydrocephalus, which statement regarding the ventricles is true?",
+    "choices": ["A. Only the lateral ventricles are big", "B. All ventricles are big (though 25% of the time the 4th is normal)", "C. The 4th ventricle is always small", "D. The 3rd ventricle is compressed", "E. Only the 4th ventricle is enlarged"],
+    "answer": "B",
+    "detail": "In communicating hydrocephalus, all ventricles typically enlarge because the obstruction is distal to the 4th ventricle exits."
+  },
+  {
+    "number": 10,
+    "question": "What is the most common site of obstruction in Communicating Hydrocephalus?",
+    "choices": ["A. Foramen of Monro", "B. Aqueduct of Sylvius", "C. Between the basal cisterns and arachnoid granulations", "D. Foramen of Magendie", "E. The exit of the 4th ventricle"],
+    "answer": "C",
+    "detail": "The primary site of 'clogging' in communicating hydrocephalus is between the cisterns and the site of CSF reabsorption."
+  },
+  {
+    "number": 11,
+    "question": "Which of the following is considered a \"True Obstruction\" cause for communicating hydrocephalus by plugging the villi?",
+    "choices": ["A. Brain atrophy", "B. Subarachnoid hemorrhage (SAH)", "C. Meningitis (TB or Bacterial)", "D. Carcinomatous Meningitis", "E. B, C, and D"],
+    "answer": "E",
+    "detail": "SAH, meningitis, and carcinomatosis all provide physical debris that plugs the arachnoid villi."
+  },
+  {
+    "number": 12,
+    "question": "\"Non-Communicating\" hydrocephalus is defined by an obstruction located:",
+    "choices": ["A. Outside the brain", "B. Within the ventricle system", "C. At the arachnoid granulations", "D. In the cervical spine", "E. At the level of the dural sinuses"],
+    "answer": "B",
+    "detail": "Non-communicating (obstructive) hydrocephalus occurs when the CSF is blocked before it can exit the ventricular system."
+  },
+  {
+    "number": 13,
+    "question": "A Colloid Cyst typically causes obstruction at which level?",
+    "choices": ["A. Aqueduct", "B. 4th ventricle", "C. Foramen of Monro", "D. Foramen of Luschka", "E. Interhemispheric fissure"],
+    "answer": "C",
+    "detail": "Colloid cysts characteristically obstruct the Foramina of Monro, leading to dilation of the lateral ventricles."
+  },
+  {
+    "number": 14,
+    "question": "Tectal Gliomas and Aqueductal Stenosis typically cause hydrocephalus by obstructing the:",
+    "choices": ["A. Foramen of Monro", "B. Aqueduct", "C. 4th ventricle", "D. 3rd ventricle", "E. Basal cisterns"],
+    "answer": "B",
+    "detail": "These entities result in obstructive hydrocephalus at the level of the cerebral aqueduct."
+  },
+  {
+    "number": 15,
+    "question": "What is the classic clinical triad (\"wet, wacky, and wobbly\") for Normal Pressure Hydrocephalus (NPH)?",
+    "choices": ["A. Headache, vomiting, and vision loss", "B. Urinary incontinence, confusion, and ataxia", "C. Seizures, rigidity, and coma", "D. Fever, neck stiffness, and photophobia", "E. Ataxia, deafness, and blindness"],
+    "answer": "B",
+    "detail": "The NPH triad consists of urinary incontinence, cognitive decline/dementia, and gait ataxia."
+  },
+  {
+    "number": 16,
+    "question": "In NPH, which clinical symptom typically appears first and is most pronounced?",
+    "choices": ["A. Confusion", "B. Urinary incontinence", "C. Ataxia", "D. Headache", "E. Pupil dilation"],
+    "answer": "C",
+    "detail": "Gait ataxia is generally the first clinical sign to manifest in NPH."
+  },
+  {
+    "number": 17,
+    "question": "What is the testable \"buzz-phrase\" regarding NPH and brain volume?",
+    "choices": ["A. Atrophy out of proportion to ventricles", "B. Ventricular size out of proportion to atrophy", "C. Uniform expansion of the cortex", "D. Sparing of the temporal horns", "E. Obliteration of the sulci"],
+    "answer": "B",
+    "detail": "A key imaging clue for NPH is that the ventricles are much larger than would be expected based on the degree of cortical atrophy."
+  },
+  {
+    "number": 18,
+    "question": "Which structural change is a hallmark of NPH on MRI?",
+    "choices": ["A. Downward bowing of the corpus callosum", "B. Upward bowing of the corpus callosum", "C. Flattening of the midbrain", "D. Expansion of the 4th ventricle", "E. Sclerosis of the thalami"],
+    "answer": "B",
+    "detail": "Enlargement of the lateral ventricles in NPH causes upward stretching/bowing of the corpus callosum."
+  },
+  {
+    "number": 19,
+    "question": "Is transependymal flow (interstitial edema) more commonly seen with acute or chronic hydrocephalus?",
+    "choices": ["A. Acute", "B. Chronic", "C. Equally common in both", "D. Only seen in infants", "E. Only seen in trauma"],
+    "answer": "A",
+    "detail": "Transependymal CSF seepage is a sign of acute pressure elevation within the ventricles."
+  },
+  {
+    "number": 20,
+    "question": "The \"Syndrome of Hydrocephalus in the Young and Middle-aged Adult\" (SHYMA) is distinguished from NPH primarily by:",
+    "choices": ["A. Lack of urinary symptoms", "B. More frequent headaches", "C. Absence of ataxia", "D. Younger age and more headaches", "E. Smaller ventricles"],
+    "answer": "D",
+    "detail": "SHYMA presents in a younger age group and features prominent headaches compared to classic NPH."
+  },
+  {
+    "number": 21,
+    "question": "What is the most common cause of congenital obstructive hydrocephalus?",
+    "choices": ["A. Chiari II", "B. Dandy-Walker", "C. Aqueductal Stenosis", "D. Arachnoid Cysts", "E. Fetal stroke"],
+    "answer": "C",
+    "detail": "Congenital narrowing or web formation in the aqueduct is the #1 cause of neonatal obstructive hydrocephalus."
+  },
+  {
+    "number": 22,
+    "question": "\"Sunset eyes\" or upward gaze paralysis is a clinical trivia clue for:",
+    "choices": ["A. NPH", "B. Pseudotumor cerebri", "C. Aqueductal stenosis", "D. Wernicke Encephalopathy", "E. Chiari I"],
+    "answer": "C",
+    "detail": "Pressure on the tectum from a dilated 3rd ventricle/aqueduct causes vertical gaze palsy (Parinaud syndrome/sunset eyes)."
+  },
+  {
+    "number": 23,
+    "question": "A male infant with \"flexed thumbs\" and hydrocephalus suggests which condition?",
+    "choices": ["A. Dandy-Walker", "B. Bickers Adams Edwards syndrome (X-linked aqueductal stenosis)", "C. Hurler Syndrome", "D. Down Syndrome", "E. Toxoplasmosis"],
+    "answer": "B",
+    "detail": "This is an X-linked recessive form of hydrocephalus with a classic hand finding."
+  },
+  {
+    "number": 24,
+    "question": "Which type of edema is intracellular, results from Na/K pump failure, and favors the gray matter?",
+    "choices": ["A. Vasogenic edema", "B. Interstitial edema", "C. Cytotoxic edema", "D. Hydrocephalic edema", "E. Transependymal edema"],
+    "answer": "C",
+    "detail": "Cytotoxic edema involves swelling of the cells themselves due to metabolic failure."
+  },
+  {
+    "number": 25,
+    "question": "Loss of the \"gray-white differentiation\" or interface is an EARLY sign of:",
+    "choices": ["A. Tumor", "B. Infection", "C. Stroke (cytotoxic edema)", "D. NPH", "E. Multiple Sclerosis"],
+    "answer": "C",
+    "detail": "Because cytotoxic edema in stroke favors the gray matter, it blurs the normal anatomical interface."
+  },
+  {
+    "number": 26,
+    "question": "Vasogenic edema is extracellular and classically associated with:",
+    "choices": ["A. Acute ischemia", "B. Tumor and infection", "C. Trauma", "D. Hypoxia", "E. Near drowning"],
+    "answer": "B",
+    "detail": "Vasogenic edema results from blood-brain barrier breakdown and typically spreads along white matter tracts surrounding masses."
+  },
+  {
+    "number": 27,
+    "question": "Which type of brain edema is characteristically responsive to steroids?",
+    "choices": ["A. Cytotoxic edema", "B. Vasogenic edema", "C. Transependymal edema", "D. Myelinic edema", "E. None of the above"],
+    "answer": "B",
+    "detail": "Vasogenic edema, such as that seen with tumors, is highly responsive to corticosteroid treatment."
+  },
+  {
+    "number": 28,
+    "question": "In Subfalcine (Cingulate) herniation, which artery may be compressed, potentially leading to an infarct?",
+    "choices": ["A. MCA", "B. PCA", "C. ACA", "D. Basilar", "E. PCOM"],
+    "answer": "C",
+    "detail": "Shift of the cingulate gyrus under the falx can trap and compress the anterior cerebral artery."
+  },
+  {
+    "number": 29,
+    "question": "What is the first structure to be effaced in Descending Transtentorial (Uncal) herniation?",
+    "choices": ["A. 4th ventricle", "B. Ipsilateral suprasellar cistern", "C. Foramen of Monro", "D. Contralateral lateral ventricle", "E. Cisterna magna"],
+    "answer": "B",
+    "detail": "Medial temporal lobe shift first encroaches upon the ipsilateral side of the suprasellar cistern."
+  },
+  {
+    "number": 30,
+    "question": "Compression of CN 3 between the PCA and Superior Cerebellar Artery during uncal herniation causes:",
+    "choices": ["A. Constricted pupils", "B. Ipsilateral pupil dilation and ptosis", "C. Bilateral blindness", "D. Deafness", "E. Facial droop"],
+    "answer": "B",
+    "detail": "Pressure on the oculomotor nerve results in an acute 'blown pupil' and eyelid drooping."
+  },
+  {
+    "number": 31,
+    "question": "\"Duret Hemorrhages\" resulting from compression of perforating basilar branches are classically located at the:",
+    "choices": ["A. Midline of the pontomesencephalic junction", "B. Temporal lobes", "C. Frontal poles", "D. Occipital lobes", "E. Thalamus"],
+    "answer": "A",
+    "detail": "Severe brainstem compression causes arterial rupture in the midline of the upper pons and lower midbrain."
+  },
+  {
+    "number": 32,
+    "question": "\"Kernohan’s Notch\" refers to an indentation of the midbrain on the tentorium that leads to which \"false localizing sign\"?",
+    "choices": ["A. Contralateral hemiparesis", "B. Ipsilateral hemiparesis", "C. Total paralysis", "D. Loss of sensation only", "E. Coma"],
+    "answer": "B",
+    "detail": "Compression of the peduncle contralateral to the primary mass causes weakness on the same side as the mass."
+  },
+  {
+    "number": 33,
+    "question": "\"Spinning Top\" is a buzzword for the midbrain appearance in which type of herniation?",
+    "choices": ["A. Subfalcine", "B. Descending Transtentorial", "C. Ascending Transtentorial", "D. Tonsillar", "E. Transcalvarial"],
+    "answer": "C",
+    "detail": "Upward herniation of the cerebellum through the tentorial notch compresses the midbrain into a 'spinning top' shape."
+  },
+  {
+    "number": 34,
+    "question": "Cerebellar Tonsil herniation is defined as at least one tonsil being how far below the foramen magnum?",
+    "choices": ["A. 2 mm", "B. 3 mm", "C. 5 mm", "D. 10 mm", "E. 15 mm"],
+    "answer": "C",
+    "detail": "The standard diagnostic threshold for tonsillar descent (ectopia) is 5 mm."
+  },
+  {
+    "number": 35,
+    "question": "A \"T2 bright central pons\" that spares the periphery in a patient with low sodium is diagnostic of:",
+    "choices": ["A. Wernicke encephalopathy", "B. Marchiafava-Bignami", "C. Osmotic Demyelination (Central Pontine Myelinolysis)", "D. West Nile Virus", "E. Pontine glioma"],
+    "answer": "C",
+    "detail": "Rapid correction of hyponatremia results in characteristic central pontine demyelination."
+  },
+  {
+    "number": 36,
+    "question": "What is the earliest change seen on MRI in Osmotic Demyelination?",
+    "choices": ["A. T2 hyperintensity", "B. Enhancement", "C. Restricted diffusion in the lower pons", "D. Volume loss", "E. Hemorrhage"],
+    "answer": "C",
+    "detail": "Diffusion-weighted imaging is the most sensitive sequence for detecting early osmotic injury."
+  },
+  {
+    "number": 37,
+    "question": "Wernicke Encephalopathy is caused by a deficiency in:",
+    "choices": ["A. Vitamin B12", "B. Vitamin B1 (Thiamine)", "C. Vitamin C", "D. Folate", "E. Iron"],
+    "answer": "B",
+    "detail": "Thiamine deficiency is the underlying cause of this acute neuro-metabolic emergency."
+  },
+  {
+    "number": 38,
+    "question": "The classic clinical triad of Wernicke Encephalopathy includes:",
+    "choices": ["A. Confusion, ataxia, and ophthalmoplegia", "B. Ataxia, dementia, and incontinence", "C. Fever, rash, and headache", "D. Coma, seizures, and rigidity", "E. Blindness, deafness, and mutism"],
+    "answer": "A",
+    "detail": "The classic presentation includes altered mental status, gait instability, and eye movement abnormalities."
+  },
+  {
+    "number": 39,
+    "question": "High T2/FLAIR signal in the medial thalamus, periaqueductal gray, and mamillary bodies is characteristic of:",
+    "choices": ["A. NPH", "B. Marchiafava-Bignami", "C. Wernicke Encephalopathy", "D. Carbon Monoxide poisoning", "E. Methanol toxicity"],
+    "answer": "C",
+    "detail": "These specific grey matter locations are selectively targeted in thiamine deficiency."
+  },
+  {
+    "number": 40,
+    "question": "In Wernicke Encephalopathy, where is enhancement classically seen?",
+    "choices": ["A. Thalamus", "B. Pons", "C. Mamillary bodies", "D. Corpus callosum", "E. Dentate nucleus"],
+    "answer": "C",
+    "detail": "Contrast enhancement of the mamillary bodies is a specific and high-yield finding for Wernicke."
+  },
+  {
+    "number": 41,
+    "question": "Marchiafava-Bignami is a metabolic disease classically seen in middle-aged \"red wine tasters\" that involves:",
+    "choices": ["A. The basal ganglia", "B. The cerebellum", "C. The corpus callosum", "D. The pons", "E. The temporal lobes"],
+    "answer": "C",
+    "detail": "This metabolic disorder specifically targets the white matter of the corpus callosum."
+  },
+  {
+    "number": 42,
+    "question": "The \"Sandwich sign\" describes a pattern of preference for central fibers with sparing of dorsal/ventral fibers in which structure?",
+    "choices": ["A. Midbrain", "B. Thalamus", "C. Corpus callosum", "D. Internal capsule", "E. Spinal cord"],
+    "answer": "C",
+    "detail": "On sagittal MRI, central signal change in the corpus callosum with peripheral sparing creates a 'sandwich' look."
+  },
+  {
+    "number": 43,
+    "question": "Direct alcoholic injury most commonly results in brain atrophy, particularly affecting the:",
+    "choices": ["A. Frontal lobes", "B. Cerebellum (especially the vermis)", "C. Thalamus", "D. Basal ganglia", "E. Optic nerves"],
+    "answer": "B",
+    "detail": "Chronic alcohol abuse classically leads to volume loss in the superior cerebellar vermis."
+  },
+  {
+    "number": 44,
+    "question": "\"T1 bright basal ganglia\" is a non-specific finding related to liver disease, TPN, or:",
+    "choices": ["A. Iron deficiency", "B. Copper and Manganese deposition", "C. Vitamin B12 deficiency", "D. Lead poisoning", "E. Alcohol withdrawal"],
+    "answer": "B",
+    "detail": "Metal deposition (manganese in liver disease) results in intrinsic T1 shortening in the basal ganglia."
+  },
+  {
+    "number": 45,
+    "question": "Methanol toxicity (\"Windshield Wiper Fluid\") classically causes necrosis of which structures?",
+    "choices": ["A. Globus pallidus", "B. Putamen and subcortical white matter", "C. Mamillary bodies", "D. Thalamus", "E. Pons"],
+    "answer": "B",
+    "detail": "Methanol causes Selective putaminal necrosis and optic nerve damage."
+  },
+  {
+    "number": 46,
+    "question": "How can a radiologist distinguish Carbon Monoxide poisoning from Methanol toxicity on imaging?",
+    "choices": ["A. CO targets the Putamen; Methanol targets the Globus Pallidus", "B. CO targets the Globus Pallidus; Methanol targets the Putamen", "C. Only Methanol causes T2 bright signal", "D. CO causes enhancement; Methanol does not", "E. There is no imaging difference"],
+    "answer": "B",
+    "detail": "Carbon monoxide favors the globus pallidus, while methanol favors the putamen."
+  },
+  {
+    "number": 47,
+    "question": "Posterior Reversible Encephalopathy Syndrome (PRES) is associated with which clinical histories?",
+    "choices": ["A. Chronic alcoholism", "B. Thiamine deficiency", "C. Acute Hypertension or Chemotherapy", "D. Near drowning", "E. Head trauma"],
+    "answer": "C",
+    "detail": "Sudden BP spikes, preeclampsia, or neurotoxic medications are the standard triggers for PRES."
+  },
+  {
+    "number": 48,
+    "question": "Which is a classic feature of PRES on MRI?",
+    "choices": ["A. Symmetrical restricted diffusion", "B. Asymmetric cortical/subcortical edema in parietal and occipital regions", "C. Enhancement of the mamillary bodies", "D. \"Eye of the tiger\" sign", "E. Sparing of the subcortical U-fibers"],
+    "answer": "B",
+    "detail": "PRES typically presents as vasogenic edema in a posterior-predominant distribution."
+  },
+  {
+    "number": 49,
+    "question": "Does PRES typically restrict on diffusion?",
+    "choices": ["A. Yes, always", "B. Yes, in 50% of cases", "C. No (helps distinguish it from a stroke)", "D. Only in the frontal lobes", "E. Only in children"],
+    "answer": "C",
+    "detail": "The presence of vasogenic edema (not restricted diffusion) helps differentiate PRES from posterior circulation stroke."
+  },
+  {
+    "number": 50,
+    "question": "Chemotherapy-induced PRES often targets which \"non-classic\" locations compared to the hypertension type?",
+    "choices": ["A. Temporal lobes and pituitary", "B. Frontal lobes and thalami", "C. Basal ganglia, brainstem, and cerebellum", "D. Spinal cord and optic nerves", "E. Hippocampus and fornix"],
+    "answer": "C",
+    "detail": "While classic PRES is posterior, drug-induced variants frequently involve the deep nuclei and brainstem."
+  },
+  {
+    "number": 51,
+    "question": "\"Mineralizing Microangiopathy\" is the term used for brain calcifications (basal ganglia/white matter) following:",
+    "choices": ["A. Alcohol abuse", "B. Methanol ingestion", "C. Radiation and/or Chemotherapy", "D. Hyponatremia", "E. Meningitis"],
+    "answer": "C",
+    "detail": "This is a characteristic pattern of iatrogenic calcification seen after pediatric CNS therapy."
+  },
+  {
+    "number": 52,
+    "question": "After radiation therapy, how long is the latent period before imaging findings typically appear?",
+    "choices": ["A. 24 hours", "B. 1 week", "C. 2 months", "D. 1 year", "E. 5 years"],
+    "answer": "C",
+    "detail": "Imaging manifestations of radiation injury typically do not appear before 2 months post-treatment."
+  },
+  {
+    "number": 53,
+    "question": "\"Early Delayed\" radiation changes (1–6 months) appear similar to chemotherapy changes and are usually:",
+    "choices": ["A. Irreversible and fatal", "B. Associated with massive hemorrhage", "C. Reversible changes in the periventricular white matter", "D. Found only in the cerebellum", "E. T1 bright"],
+    "answer": "C",
+    "detail": "These transient white matter signal changes often resolve without permanent deficit."
+  },
+  {
+    "number": 54,
+    "question": "What is the most important risk factor for primary CNS neoplasms?",
+    "choices": ["A. Smoking", "B. Hypertension", "C. Prior radiation therapy (XRT)", "D. High cholesterol", "E. Alcoholism"],
+    "answer": "C",
+    "detail": "Ionizing radiation is the most well-documented environmental risk factor for developing brain tumors."
+  },
+  {
+    "number": 55,
+    "question": "What is the most common type of radiation-induced brain cancer, typically appearing ~15 years post-XRT?",
+    "choices": ["A. Glioma", "B. Meningioma (70%)", "C. Sarcoma", "D. Lymphoma", "E. Pituitary adenoma"],
+    "answer": "B",
+    "detail": "Meningiomas account for the vast majority of radiation-induced intracranial neoplasms."
+  },
+  {
+    "number": 56,
+    "question": "\"Chasing the Dragon\" (Heroin Inhalational Leukoencephalopathy) shows a classic \"butterfly\" pattern of high T2/FLAIR signal in the:",
+    "choices": ["A. Thalamus", "B. Centrum semiovale", "C. Pons", "D. Temporal lobes", "E. Medulla"],
+    "answer": "C",
+    "detail": "The 'butterfly' pattern of T2 brightness in the pons is pathognomonic for heroin inhalation."
+  },
+  {
+    "number": 57,
+    "question": "Which structure is characteristically SPARED in Heroin Inhalational Leukoencephalopathy?",
+    "choices": ["A. Posterior limb of the internal capsule", "B. Deep cerebellar white matter", "C. Dentate nucleus", "D. Corpus callosum", "E. Frontal cortex"],
+    "answer": "C",
+    "detail": "White matter is targeted, but the dentate nucleus itself is typically preserved."
+  },
+  {
+    "number": 58,
+    "question": "Which condition is a mitochondrial disorder characterized by \"Migrating Infarcts\" and an elevated lactate doublet at 1.3 ppm?",
+    "choices": ["A. Leigh Disease", "B. MELAS Syndrome", "C. Alexander Disease", "D. Krabbe Disease", "E. Canavan Disease"],
+    "answer": "B",
+    "detail": "MELAS features strokes that do not follow vascular territories and clear metabolic shifts on MRS."
+  },
+  {
+    "number": 59,
+    "question": "In the context of liver disease, why do the basal ganglia appear bright on T1-weighted images?",
+    "choices": ["A. Iron deposition", "B. Manganese deposition", "C. Fatty infiltration", "D. Chronic hemorrhage", "E. Myelination"],
+    "answer": "B",
+    "detail": "Manganese buildup due to impaired hepatic clearance causes T1 signal increase."
+  },
+  {
+    "number": 60,
+    "question": "Progressive Multifocal Leukoencephalopathy (PML) is caused by the JC virus and typically occurs when the CD4 count is:",
+    "choices": ["A. < 500", "B. < 400", "C. < 200", "D. < 50", "E. Normal"],
+    "answer": "D",
+    "detail": "PML is a severe opportunistic infection usually seen with extreme immunosuppression (CD4 < 50)."
+  },
+  {
+    "number": 61,
+    "question": "How does HIV Encephalitis differ from PML regarding the subcortical U-fibers?",
+    "choices": ["A. HIV encephalitis involves them; PML spares them", "B. HIV encephalitis spares them; PML involves them", "C. Both spare the U-fibers", "D. Both involve the U-fibers", "E. Neither involves white matter"],
+    "answer": "B",
+    "detail": "A key differentiator is that PML aggressively attacks the subcortical U-fibers."
+  },
+  {
+    "number": 62,
+    "question": "Which MRI sequence is the \"earliest sign\" and most sensitive for acute Subarachnoid Hemorrhage (SAH)?",
+    "choices": ["A. T1", "B. T2", "C. FLAIR", "D. GRE", "E. SWI"],
+    "answer": "C",
+    "detail": "FLAIR shows high signal in the sulci immediately, as blood fails to suppress like normal CSF."
+  },
+  {
+    "number": 63,
+    "question": "What can cause a \"fake out\" that looks like SAH on FLAIR?",
+    "choices": ["A. High glucose", "B. Supplemental oxygen (50–100%)", "C. Dehydration", "D. Hypertension", "E. Recent caffeine intake"],
+    "answer": "B",
+    "detail": "High-flow oxygen therapy can alter the relaxation properties of CSF and mimic blood on FLAIR."
+  },
+  {
+    "number": 64,
+    "question": "A \"Benign Non-Aneurysm Perimesencephalic hemorrhage\" is characteristically located:",
+    "choices": ["A. In the Sylvian fissure", "B. In the interhemispheric fissure", "C. Anterior to the brainstem", "D. In the lateral ventricles", "E. Over the cerebral convexities"],
+    "answer": "C",
+    "detail": "This specific, low-risk hemorrhage is localized to the cisterns surrounding the midbrain and pons."
+  },
+  {
+    "number": 65,
+    "question": "Which of the following is a sequela of SAH that typically occurs 7–10 days after the bleed?",
+    "choices": ["A. Hydrocephalus", "B. Vasospasm", "C. Superficial Siderosis", "D. Brain atrophy", "E. Meningioma"],
+    "answer": "B",
+    "detail": "Cerebral vasospasm is a delayed vascular complication peaking 1–2 weeks after the hemorrhage."
+  },
+  {
+    "number": 66,
+    "question": "\"Superficial Siderosis\" results from repeated SAH and presents clinically with:",
+    "choices": ["A. Blindness and seizures", "B. Sensorineural hearing loss and ataxia", "C. Hypertension and headache", "D. Urinary incontinence and confusion", "E. Coma and death"],
+    "answer": "B",
+    "detail": "Hemosiderin deposition on the cranial nerves and cerebellum causes deafness and balance issues."
+  },
+  {
+    "number": 67,
+    "question": "A mimic of SAH seen in the setting of diffuse cerebral edema (anoxic injury) is called:",
+    "choices": ["A. Real SAH", "B. Pseudo-Subarachnoid Hemorrhage", "C. Chemical meningitis", "D. Subdural hematoma", "E. Epidural hematoma"],
+    "answer": "B",
+    "detail": "Brain edema reduces parenchyma density, making normal sulcal density look bright by comparison."
+  },
+  {
+    "number": 68,
+    "question": "In Pseudo-SAH, the density in the sulci/cisterns is typically:",
+    "choices": ["A. Greater than 70 HU", "B. Around 60 HU", "C. Less than 40 HU", "D. 100 HU", "E. Negative HU (fat density)"],
+    "answer": "C",
+    "detail": "Sulcal density in pseudo-SAH is much lower than the 60–70 HU expected for acute clotted blood."
+  },
+  {
+    "number": 69,
+    "question": "Hypertensive Hemorrhage is most commonly located in the:",
+    "choices": ["A. Frontal lobe", "B. Thalamus", "C. Basal ganglia (specifically the putamen)", "D. Cerebellum", "E. Pons"],
+    "answer": "C",
+    "detail": "The putamen is the classic most common site for spontaneous hypertensive bleeds."
+  },
+  {
+    "number": 70,
+    "question": "\"Tension Pneumocephalus\" following subdural drainage creates which characteristic sign?",
+    "choices": ["A. \"Target\" sign", "B. \"Mt. Fuji\" sign", "C. \"Spinning Top\" sign", "D. \"Panda\" face", "E. \"Molar tooth\" sign"],
+    "answer": "B",
+    "detail": "Air splitting and compressing the frontal lobes creates a silhouette resembling the peak of Mt. Fuji."
+  }
+]
+}

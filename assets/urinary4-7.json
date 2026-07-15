@@ -1,0 +1,1305 @@
+{
+    "questions": 
+    [
+    {
+      "number": 1,
+      "question": "What is the most common \"bug\" (organism) responsible for retrograde renal infections?",
+      "choices": [
+        "Staph aureus",
+        "E. coli (the poop bug)",
+        "Klebsiella",
+        "Proteus",
+        "Pseudomonas"
+      ],
+      "answer": "B",
+      "detail": "Most cases of pyelonephritis start as a retrograde infection from the bladder, with E. coli being the most common culprit."
+    },
+    {
+      "number": 2,
+      "question": "On a contrast-enhanced CT, acute pyelonephritis is most classically demonstrated as:",
+      "choices": [
+        "A single large cystic mass",
+        "A \"striped kidney\" (striated nephrogram)",
+        "Global renal atrophy",
+        "Macroscopic fat in the hilum",
+        "A \"pancake\" appearance"
+      ],
+      "answer": "B",
+      "detail": "The striated nephrogram is the classic imaging hallmark of pyelonephritis."
+    },
+    {
+      "number": 3,
+      "question": "Which contrast phase is considered the BEST for visualizing the striated nephrogram of infection?",
+      "choices": [
+        "Arterial phase",
+        "Corticomedullary phase",
+        "Excretory phase",
+        "Non-contrast phase",
+        "20-minute delayed Eovist phase"
+      ],
+      "answer": "C",
+      "detail": "The striated appearance is seen best on an excretory phase."
+    },
+    {
+      "number": 4,
+      "question": "A \"Striated Nephrogram\" is not specific to infection; its differential includes hypotension, radiation nephritis, and:",
+      "choices": [
+        "Acute ureteral obstruction or Renal vein thrombosis",
+        "Renal cell carcinoma",
+        "Simple cortical cysts",
+        "Adrenal hemorrhage",
+        "Polysplenia"
+      ],
+      "answer": "A",
+      "detail": "Anything that interferes with blood flow or causes edema, including obstruction and venous thrombosis, can cause this pattern."
+    },
+    {
+      "number": 5,
+      "question": "How can you distinguish a renal INFARCT from infection on a multiple-choice exam?",
+      "choices": [
+        "Infarcts extend to the capsule.",
+        "Infarcts spare the cortex (Cortical Rim Sign); infection extends TO the capsule.",
+        "Infection always shows the \"bear paw\" sign.",
+        "Infarcts only occur in the lower pole.",
+        "There is no radiographic difference."
+      ],
+      "answer": "B",
+      "detail": "The \"cortical rim sign\" (a thin rim of subcapsular enhancement) helps distinguish an infarct from infection, as infection classically involves the complete wedge including the capsule."
+    },
+    {
+      "number": 6,
+      "question": "\"Pyonephrosis\" is a urologic emergency defined as a collecting system that is:",
+      "choices": [
+        "Congenitally duplicated",
+        "Infected and Obstructed",
+        "Entirely replaced by fat",
+        "Bleeding into the retroperitoneum",
+        "Communicating with the pancreas"
+      ],
+      "answer": "B",
+      "detail": "Pyonephrosis refers to an infected/obstructed system, often requiring urgent decompression via nephrostomy."
+    },
+    {
+      "number": 7,
+      "question": "What is the \"Next Step\" in management for a renal abscess larger than 3 cm?",
+      "choices": [
+        "Oral antibiotics only",
+        "Urgent drainage (IR Section)",
+        "Immediate radical nephrectomy",
+        "Observation for 6 months",
+        "PET/CT for staging"
+      ],
+      "answer": "B",
+      "detail": "Abscesses bigger than 3 cm typically require percutaneous drainage."
+    },
+    {
+      "number": 8,
+      "question": "\"Emphysematous Pyelonephritis\" is a life-threatening necrotizing infection seen almost EXCLUSIVELY in:",
+      "choices": [
+        "Professional athletes",
+        "Diabetic patients",
+        "Children under age 5",
+        "Pregnant women",
+        "Healthy patients with no history"
+      ],
+      "answer": "B",
+      "detail": "This severe infection, characterized by gas formation within the parenchyma, is a disease of diabetics."
+    },
+    {
+      "number": 9,
+      "question": "In \"Emphysematous Pyelitis,\" gas is localized to which area?",
+      "choices": [
+        "The perirenal space",
+        "The collecting system only",
+        "The renal cortex",
+        "The adrenal gland",
+        "The psoas muscle"
+      ],
+      "answer": "B",
+      "detail": "Unlike pyelonephritis, pyelitis involves gas localized only to the collecting system."
+    },
+    {
+      "number": 10,
+      "question": "What is the \"Next Step\" for a patient diagnosed with Emphysematous Pyelonephritis?",
+      "choices": [
+        "Low-fat diet",
+        "Urgent antibiotics followed by Nephrectomy",
+        "Oral hydration only",
+        "Repeat ultrasound in 48 hours",
+        "Physical therapy"
+      ],
+      "answer": "B",
+      "detail": "Because it is so aggressive, the standard management is urgent antibiotics and surgery."
+    },
+    {
+      "number": 11,
+      "question": "\"Papillary Necrosis\" most commonly occurs in which patient population?",
+      "choices": [
+        "Diabetics (also Sickle Cell and TB)",
+        "Patients with CF",
+        "Healthy infants",
+        "Marathon runners",
+        "Patients with VHL"
+      ],
+      "answer": "A",
+      "detail": "Diabetes is the leading cause of papillary necrosis."
+    },
+    {
+      "number": 12,
+      "question": "The presence of a necrotic cavity in the papillae with linear streaks of contrast is called the:",
+      "choices": [
+        "Bear paw sign",
+        "Lobster claw sign",
+        "Manta ray sign",
+        "Cobra head sign",
+        "Champagne glass sign"
+      ],
+      "answer": "B",
+      "detail": "This finding is the \"lobster claw sign.\""
+    },
+    {
+      "number": 13,
+      "question": "\"Xanthogranulomatous Pyelonephritis\" (XGP) is characteristically associated with which radiographic finding?",
+      "choices": [
+        "A single 2 mm stone",
+        "A staghorn stone acting as a nidus",
+        "Massive liver cysts",
+        "Multiple cortical microcysts",
+        "Air in the bladder wall"
+      ],
+      "answer": "B",
+      "detail": "XGP is almost always seen with a staghorn stone."
+    },
+    {
+      "number": 14,
+      "question": "The \"Bear Paw\" appearance on CT is pathognomonic for:",
+      "choices": [
+        "Renal lymphoma",
+        "Xanthogranulomatous Pyelonephritis (XGP)",
+        "Emphysematous pyelitis",
+        "Page kidney",
+        "HIV nephropathy"
+      ],
+      "answer": "B",
+      "detail": "The non-functional kidney with replaced fat/dilated calyces is the \"Bear Paw.\""
+    },
+    {
+      "number": 15,
+      "question": "\"HIV Nephropathy\" classically presents on ultrasound as:",
+      "choices": [
+        "Small, shrunken, dark kidneys",
+        "Big and Bright (echogenic) kidneys",
+        "Massive hydronephrosis",
+        "Multiple macroscopic cysts",
+        "Absence of the left kidney"
+      ],
+      "answer": "B",
+      "detail": "The kidneys are typically enlarged and bright in HIV patients with this condition."
+    },
+    {
+      "number": 16,
+      "question": "What is the earliest radiographic finding of renal Tuberculosis (TB)?",
+      "choices": [
+        "Putty kidney",
+        "Calyceal blunting (\"moth eaten\" calices)",
+        "Medullary nephrocalcinosis",
+        "Staghorn stone",
+        "Renal vein thrombosis"
+      ],
+      "answer": "B",
+      "detail": "Calyceal blunting is the earliest sign of TB."
+    },
+    {
+      "number": 17,
+      "question": "\"Kerr Kink\" refers to a specific TB-related scarring pattern at the:",
+      "choices": [
+        "Distal ureter",
+        "Renal pelvis",
+        "Adrenal gland",
+        "Major papilla",
+        "Psoas muscle"
+      ],
+      "answer": "B",
+      "detail": "Scarring at the renal pelvis produces the uplifted \"Kerr Kink.\""
+    },
+    {
+      "number": 18,
+      "question": "A \"Putty Kidney\" is the end-stage appearance of which disease?",
+      "choices": [
+        "Diabetes",
+        "Tuberculosis (TB)",
+        "Schistosomiasis",
+        "Polycystic kidney disease",
+        "Renal cell carcinoma"
+      ],
+      "answer": "B",
+      "detail": "An autonephrectomized, calcified kidney is called a putty kidney."
+    },
+    {
+      "number": 19,
+      "question": "Which chronic inflammatory condition is associated with chronic E. coli UTIs and \"Michaelis-Gutmann Bodies\"?",
+      "choices": [
+        "Leukoplakia",
+        "Malakoplakia",
+        "TB",
+        "Sarcoidosis",
+        "GvHD"
+      ],
+      "answer": "B",
+      "detail": "Malakoplakia is the correct answer; it is not premalignant and improves with antibiotics."
+    },
+    {
+      "number": 20,
+      "question": "\"Leukoplakia\" of the urinary tract is significant because it is:",
+      "choices": [
+        "Benign and infectious",
+        "Premalignant (precursor to Squamous Cell Carcinoma)",
+        "Caused by a virus",
+        "Only seen in the kidney",
+        "A normal variant of the bladder"
+      ],
+      "answer": "B",
+      "detail": "Leukoplakia is premalignant and associated with SCC."
+    },
+    {
+      "number": 21,
+      "question": "What is the most common type of kidney stone?",
+      "choices": [
+        "Struvite",
+        "Calcium Oxalate (75%)",
+        "Uric Acid",
+        "Cystine",
+        "Indinavir"
+      ],
+      "answer": "B",
+      "detail": "Calcium oxalate stones are the most common."
+    },
+    {
+      "number": 22,
+      "question": "Which type of stone is characteristically \"unseen\" on a standard X-ray?",
+      "choices": [
+        "Calcium oxalate",
+        "Uric acid",
+        "Struvite",
+        "Cystine",
+        "Milk of calcium"
+      ],
+      "answer": "B",
+      "detail": "Uric acid stones are radiolucent on plain films."
+    },
+    {
+      "number": 23,
+      "question": "\"Indinavir\" stones are unique because they are:",
+      "choices": [
+        "The most common in kids",
+        "The ONLY stones NOT seen on CT",
+        "Always visible on X-ray",
+        "Shaped like a bear paw",
+        "Always calcified"
+      ],
+      "answer": "B",
+      "detail": "These stones, seen in HIV patients, are invisible on CT."
+    },
+    {
+      "number": 24,
+      "question": "Stones measuring what size or smaller have a high likelihood of passing spontaneously?",
+      "choices": [
+        "5 mm",
+        "1 cm",
+        "2 cm",
+        "3 cm",
+        "Only 1 mm pass"
+      ],
+      "answer": "A",
+      "detail": "Stones <= 5 mm usually pass on their own."
+    },
+    {
+      "number": 25,
+      "question": "\"Staghorn stones\" are usually composed of which material?",
+      "choices": [
+        "Calcium oxalate",
+        "Struvite",
+        "Pure uric acid",
+        "Cholesterol",
+        "Cystine"
+      ],
+      "answer": "B",
+      "detail": "Big branching staghorn stones are typically struvite."
+    },
+    {
+      "number": 26,
+      "question": "Uric acid stones can often be treated medically (melted) by increasing urine pH using:",
+      "choices": [
+        "Aspirin",
+        "Potassium citrate or sodium bicarbonate",
+        "High doses of Vitamin C",
+        "Heparin",
+        "IV contrast"
+      ],
+      "answer": "B",
+      "detail": "Increasing the pH can melt uric acid stones."
+    },
+    {
+      "number": 27,
+      "question": "In Dual Energy CT, which type of stone shows the BIGGEST change in HU between 80 kVp and 140 kVp?",
+      "choices": [
+        "Uric acid",
+        "Calcium stones",
+        "Cystine",
+        "Indinavir",
+        "They all change equally"
+      ],
+      "answer": "B",
+      "detail": "Calcium stones show the largest change because of their higher atomic weight."
+    },
+    {
+      "number": 28,
+      "question": "\"Milk of Calcium\" in the urinary tract is defined as:",
+      "choices": [
+        "A solid tumor",
+        "A suspension of crystals that layers in a cyst or diverticulum",
+        "A sign of end-stage renal failure",
+        "Calcification of the adrenal glands",
+        "A variant of renal agenesis"
+      ],
+      "answer": "B",
+      "detail": "It is a layering suspension of crystals."
+    },
+    {
+      "number": 29,
+      "question": "\"Cortical Nephrocalcinosis\" is typically a sequela of which event?",
+      "choices": [
+        "Hyperparathyroidism",
+        "Cortical necrosis (from shock, trauma, or postpartum)",
+        "Medullary sponge kidney",
+        "Sickle cell disease",
+        "Chronic aspirin use"
+      ],
+      "answer": "B",
+      "detail": "It follows acute cortical necrosis."
+    },
+    {
+      "number": 30,
+      "question": "What is the most common cause of \"Medullary Nephrocalcinosis\"?",
+      "choices": [
+        "Hyperparathyroidism",
+        "Lasix use in adults",
+        "Celiac disease",
+        "Horseshoe kidney",
+        "Pelvic kidney"
+      ],
+      "answer": "A",
+      "detail": "Hyperparathyroidism is considered the most common cause."
+    },
+    {
+      "number": 31,
+      "question": "\"Medullary Sponge Kidney\" is a congenital cause of nephrocalcinosis that is associated with:",
+      "choices": [
+        "VHL",
+        "Caroli’s Disease and Beckwith-Wiedemann",
+        "Polysplenia",
+        "Turner Syndrome",
+        "Klinefelter Syndrome"
+      ],
+      "answer": "B",
+      "detail": "MSK has known associations with Caroli’s and Beckwith-Wiedemann."
+    },
+    {
+      "number": 32,
+      "question": "A \"Page Kidney\" refers to hypertension caused by:",
+      "choices": [
+        "A tumor in the adrenal gland",
+        "A subcapsular hematoma putting pressure on the renal meat",
+        "Bilateral renal agenesis",
+        "An obstructing stone in the ureter",
+        "A simple Bosniak 1 cyst"
+      ],
+      "answer": "B",
+      "detail": "Subcapsular hematomas compress the kidney and activate the renin-angiotensin system, causing HTN."
+    },
+    {
+      "number": 33,
+      "question": "A \"Delayed Nephrogram\" (one kidney enhancing less/later than the other) is caused by:",
+      "choices": [
+        "Hypotension/Shock",
+        "Pressure (obstructing stone or Page kidney)",
+        "Normal development",
+        "Renal agenesis",
+        "Medullary sponge kidney"
+      ],
+      "answer": "B",
+      "detail": "Extrinsic or intrinsic pressure causes a delayed nephrogram."
+    },
+    {
+      "number": 34,
+      "question": "A \"Persistent Nephrogram\" (bilateral dense kidneys seen 3+ hours later) is characteristically seen in:",
+      "choices": [
+        "Obstructing stones",
+        "Hypotension/Shock and Acute Tubular Necrosis (ATN)",
+        "Simple cysts",
+        "Horseshoe kidney",
+        "Adrenal hemorrhage"
+      ],
+      "answer": "B",
+      "detail": "Persistent bilateral nephrograms are a sign of shock/ATN."
+    },
+    {
+      "number": 35,
+      "question": "On Doppler, \"Renal Vein Thrombosis\" is characteristically shown as:",
+      "choices": [
+        "High peak systolic velocity",
+        "Reversed arterial diastolic flow and absent venous flow",
+        "Continuous forward diastolic flow",
+        "Normal waveforms",
+        "A \"tiger striped\" pattern"
+      ],
+      "answer": "B",
+      "detail": "Reversed diastolic flow is the classic Doppler finding for RVT."
+    },
+    {
+      "number": 36,
+      "question": "Where is a renal transplant kidney typically placed anatomically?",
+      "choices": [
+        "Retroperitoneum of the upper abdomen",
+        "Extraperitoneal iliac fossa",
+        "Inside the liver",
+        "Posterior to the bladder",
+        "Anterior to the stomach"
+      ],
+      "answer": "B",
+      "detail": "It is placed in the iliac fossa."
+    },
+    {
+      "number": 37,
+      "question": "In a renal transplant, the donor renal artery is typically anastomosed to the recipient's:",
+      "choices": [
+        "Aorta",
+        "External Iliac Artery",
+        "Inferior Mesenteric Artery",
+        "Celiac Axis",
+        "Splenic Artery"
+      ],
+      "answer": "B",
+      "detail": "The external iliac artery is the standard target."
+    },
+    {
+      "number": 38,
+      "question": "What is the normal Resistive Index (RI) for a renal transplant kidney?",
+      "choices": [
+        "> 0.9",
+        "< 0.7",
+        "1.0 to 1.5",
+        "Exactly 0",
+        "5.0"
+      ],
+      "answer": "B",
+      "detail": "Normal RIs should be below 0.7."
+    },
+    {
+      "number": 39,
+      "question": "A renal transplant \"Urinoma\" typically occurs how long after surgery?",
+      "choices": [
+        "Within 24 hours",
+        "Within the first 2 weeks (often around Day 10)",
+        "6 months",
+        "5 years",
+        "It only occurs before surgery"
+      ],
+      "answer": "B",
+      "detail": "Urinomas are early collections occurring within the first 2 weeks."
+    },
+    {
+      "number": 40,
+      "question": "On a nuclear medicine scan (MAG3), a \"Urinoma\" will appear:",
+      "choices": [
+        "Cold (photopenic)",
+        "Hot with tracer accumulation (extravasation)",
+        "Denser than the liver",
+        "Like a \"bear paw\"",
+        "It is invisible on nuclear scans"
+      ],
+      "answer": "B",
+      "detail": "Urinomas will show active tracer leakage and accumulation."
+    },
+    {
+      "number": 41,
+      "question": "A \"Lymphocele\" is a post-transplant fluid collection typically found at:",
+      "choices": [
+        "Day 1",
+        "4–8 weeks (or up to 6 months)",
+        "2 years",
+        "Only in infants",
+        "At the time of harvesting"
+      ],
+      "answer": "B",
+      "detail": "Lymphoceles are late complications, typically appearing at 4–8 weeks."
+    },
+    {
+      "number": 42,
+      "question": "How can you distinguish a post-transplant Urinoma from a Lymphocele based on fluid labs?",
+      "choices": [
+        "Urinoma fluid has low Cr; Lymphocele has high Cr",
+        "Urinoma fluid Cr is GREATER than serum Cr; Lymphocele Cr is equal to serum Cr",
+        "They are identical",
+        "Lymphoceles have high amylase",
+        "Only biopsy can tell"
+      ],
+      "answer": "B",
+      "detail": "Urinoma fluid is basically urine, so the creatinine will be much higher than blood."
+    },
+    {
+      "number": 43,
+      "question": "On a MAG3 scan, a \"Lymphocele\" will appear:",
+      "choices": [
+        "Hot with tracer",
+        "Cold / Photopenic (it does not communicate with the tract)",
+        "Like a \"tiger stripe\"",
+        "Denser than the bladder",
+        "As a \"persistent nephrogram\""
+      ],
+      "answer": "B",
+      "detail": "Lymphoceles are cold on nuclear imaging as they do not communicate with the urinary tract."
+    },
+    {
+      "number": 44,
+      "question": "\"Acute Tubular Necrosis\" (ATN) in a transplant typically presents when?",
+      "choices": [
+        "After 1 year",
+        "In the first week (immediate post-op)",
+        "Only after radiation",
+        "Before the surgery",
+        "After month 3"
+      ],
+      "answer": "B",
+      "detail": "ATN is an early issue occurring in the first week post-op."
+    },
+    {
+      "number": 45,
+      "question": "How is ATN distinguished from Acute Rejection on a MAG3 nuclear scan?",
+      "choices": [
+        "ATN has crap flow; Rejection has normal flow",
+        "ATN has PRESERVED (normal/mildly delayed) flow; Rejection has CRAP (poor) flow",
+        "They both have normal flow",
+        "ATN has no uptake",
+        "Rejection has immediate excretion"
+      ],
+      "answer": "B",
+      "detail": "ATN maintains perfusion despite delayed excretion, while Rejection has poor perfusion."
+    },
+    {
+      "number": 46,
+      "question": "\"Cyclosporin Toxicity\" in a transplant patient characteristically occurs:",
+      "choices": [
+        "At Day 1",
+        "Around one month (long standing)",
+        "After 10 years",
+        "Only in cadaveric donors",
+        "Before harvesting"
+      ],
+      "answer": "B",
+      "detail": "Toxicity usually appears around a month into therapy."
+    },
+    {
+      "number": 47,
+      "question": "\"Chronic Rejection\" is a gradual process that presents months to years later as:",
+      "choices": [
+        "Massive renal enlargement",
+        "A \"Shrinking Transplant\" (graft gets smaller)",
+        "Normal RIs",
+        "Rapid excretion",
+        "Excessive bowel gas"
+      ],
+      "answer": "B",
+      "detail": "\"Shrinking Transplant\" is the buzzword for chronic rejection."
+    },
+    {
+      "number": 48,
+      "question": "In a transplant patient, the \"BK Virus\" is characteristically associated with which condition?",
+      "choices": [
+        "Renal artery stenosis",
+        "Urothelial Malignancy",
+        "Heart failure",
+        "Biliary atresia",
+        "Splenic infarct"
+      ],
+      "answer": "B",
+      "detail": "BK virus is associated with urothelial cancer."
+    },
+    {
+      "number": 49,
+      "question": "Which MSK condition is a \"classic\" trivia association following a renal transplant?",
+      "choices": [
+        "Scoliosis",
+        "Femoral Head AVN",
+        "Osteosarcoma",
+        "Discitis",
+        "Rickets"
+      ],
+      "answer": "B",
+      "detail": "AVN of the femoral head is a known post-transplant complication."
+    },
+    {
+      "number": 50,
+      "question": "For a \"First Week\" transplant complication, if the MAG3 scan shows normal perfusion but delayed excretion, the diagnosis is:",
+      "choices": [
+        "Acute Rejection",
+        "Acute Tubular Necrosis (ATN)",
+        "Chronic Rejection",
+        "Urinoma",
+        "BK Virus"
+      ],
+      "answer": "B",
+      "detail": "Normal perfusion + delayed excretion = ATN."
+    },
+    {
+      "number": 51,
+      "question": "A \"Fractured Kidney\" in trauma is defined by a laceration that:",
+      "choices": [
+        "Is < 1 cm deep",
+        "Extends the full depth of the parenchyma (connects two cortical surfaces)",
+        "Only involves the medulla",
+        "Is calcified",
+        "Is only seen in the adrenal gland"
+      ],
+      "answer": "B",
+      "detail": "A fractured kidney goes all the way through the parenchyma, connecting two cortical surfaces."
+    },
+    {
+      "number": 52,
+      "question": "A \"Shattered Kidney\" is defined as a renal fracture with:",
+      "choices": [
+        "2 fragments",
+        "3 or more fragments",
+        "100 tiny pieces",
+        "No fragments",
+        "Involvement of the liver"
+      ],
+      "answer": "B",
+      "detail": "Three or more fragments is the definition of a shattered kidney."
+    },
+    {
+      "number": 53,
+      "question": "In renal trauma, a \"Persistent Nephrogram\" should make you suspect:",
+      "choices": [
+        "Segmental artery injury",
+        "Renal Vein Injury or Thrombosis",
+        "Devascularized kidney",
+        "Simple stone",
+        "Normal healing"
+      ],
+      "answer": "B",
+      "detail": "A persistent nephrogram in trauma points to venous injury or thrombosis."
+    },
+    {
+      "number": 54,
+      "question": "A \"Wedge Shaped Perfusion Abnormality\" on a trauma CT suggests:",
+      "choices": [
+        "Renal vein thrombosis",
+        "Segmental Artery Injury",
+        "Devascularized kidney",
+        "Page kidney",
+        "HIV nephropathy"
+      ],
+      "answer": "B",
+      "detail": "Wedge-shaped defects in enhancement point toward segmental arterial injury."
+    },
+    {
+      "number": 55,
+      "question": "According to AAST Grading, a Grade 1 renal injury is defined as:",
+      "choices": [
+        "A 5 cm laceration",
+        "A subcapsular hematoma with NO laceration",
+        "A shattered kidney",
+        "Renal hilum avulsion",
+        "A kidney stone"
+      ],
+      "answer": "B",
+      "detail": "Grade 1 involves a subcapsular hematoma without a parenchymal laceration."
+    },
+    {
+      "number": 56,
+      "question": "A renal laceration that \"extends into the hilum\" is classified as AAST:",
+      "choices": [
+        "Grade 1",
+        "Grade 2",
+        "Grade 3",
+        "Grade 4",
+        "Grade 5"
+      ],
+      "answer": "D",
+      "detail": "Lacerations extending into the hilum are Grade 4 injuries."
+    },
+    {
+      "number": 57,
+      "question": "Grade 5 renal trauma, the most severe, includes which of the following?",
+      "choices": [
+        "Laceration < 1 cm",
+        "Renal Hilum Injury (avulsion) or a Devascularized Kidney",
+        "Subcapsular hematoma",
+        "Medial deviation of the ureter",
+        "A \"cobra head\" sign"
+      ],
+      "answer": "B",
+      "detail": "Grade 5 is the most severe, involving hilum avulsion or devascularization."
+    },
+    {
+      "number": 58,
+      "question": "How are renal trauma Grades 1, 2, and 3 typically managed?",
+      "choices": [
+        "Emergent surgery",
+        "Conservatively",
+        "With immediate IR drainage",
+        "With radical nephrectomy",
+        "With a low-salt diet"
+      ],
+      "answer": "B",
+      "detail": "Grades 1–3 are usually managed conservatively."
+    },
+    {
+      "number": 59,
+      "question": "If you see a focal collection of contrast that INCREASES in attenuation on delayed images in a trauma patient, it indicates:",
+      "choices": [
+        "Pseudoaneurysm",
+        "Active bleeding",
+        "A simple cyst",
+        "Normal excretion",
+        "An AV fistula"
+      ],
+      "answer": "B",
+      "detail": "An increase on delays (contrast extravasation) is the sign of active bleeding."
+    },
+    {
+      "number": 60,
+      "question": "A focal collection of contrast that DECREASES in attenuation on delayed trauma imaging suggests:",
+      "choices": [
+        "Active bleeding",
+        "Pseudoaneurysm or AV fistula",
+        "Urine leak",
+        "Renal cell carcinoma",
+        "Segmental infarct"
+      ],
+      "answer": "B",
+      "detail": "A decrease in attenuation on delays is characteristic of vascular lesions like pseudoaneurysms or AV fistulas."
+    },
+    {
+      "number": 61,
+      "question": "What are the three classic locations where ureteral stones tend to lodge?",
+      "choices": [
+        "UPJ, UVJ, and the pelvic brim",
+        "Hilum, mid-ureter, and bladder neck",
+        "Proximal, middle, and distal thirds equally",
+        "Only at the renal pelvis",
+        "Only inside the bladder"
+      ],
+      "answer": "A",
+      "detail": "Stones classically stick at the UPJ, UVJ, and where they cross the pelvic brim."
+    },
+    {
+      "number": 62,
+      "question": "\"Ureteral Wall Calcifications\" should prompt you to think about TB and:",
+      "choices": [
+        "Diabetes",
+        "Schistosomiasis",
+        "Crohn's disease",
+        "Scleroderma",
+        "Sarcoidosis"
+      ],
+      "answer": "B",
+      "detail": "Schistosomiasis is the classic cause of ureteral wall calcification."
+    },
+    {
+      "number": 63,
+      "question": "\"Ureteritis Cystica\" (numerous tiny subepithelial cysts) is the result of:",
+      "choices": [
+        "Acute trauma",
+        "Chronic inflammation (from stones or recurrent UTI)",
+        "Congenital malformation",
+        "Cystic fibrosis",
+        "HIV infection"
+      ],
+      "answer": "B",
+      "detail": "It results from chronic irritation or inflammation, often seen in diabetics."
+    },
+    {
+      "number": 64,
+      "question": "\"Ureteral Pseudodiverticulosis\" (multiple small outpouchings) is bilateral 75% of the time and is associated with:",
+      "choices": [
+        "Malignancy",
+        "Normal pregnancy",
+        "High Vitamin C intake",
+        "Renal agenesis",
+        "Polysplenia"
+      ],
+      "answer": "A",
+      "detail": "Ureteral pseudodiverticulosis carries an association with underlying malignancy."
+    },
+    {
+      "number": 65,
+      "question": "Which condition causes \"medial deviation\" or \"waisting\" of the ureters?",
+      "choices": [
+        "Aortic aneurysm",
+        "Retroperitoneal Fibrosis (and Pelvic Lipomatosis)",
+        "Psoas hypertrophy",
+        "Retroperitoneal adenopathy",
+        "Dromedary hump"
+      ],
+      "answer": "B",
+      "detail": "Retroperitoneal Fibrosis (Ormond Disease) and Pelvic Lipomatosis characteristically pull the ureters medially."
+    },
+    {
+      "number": 66,
+      "question": "Retroperitoneal Fibrosis is idiopathic 75% of the time, also known as:",
+      "choices": [
+        "Beckwith-Wiedemann Syndrome",
+        "Ormond Disease",
+        "Birt-Hogg-Dube",
+        "Zinner Syndrome",
+        "Potter Sequence"
+      ],
+      "answer": "B",
+      "detail": "Ormond Disease is the eponymous name for idiopathic Retroperitoneal Fibrosis."
+    },
+    {
+      "number": 67,
+      "question": "A \"Subepithelial Renal Pelvis Hematoma\" is a classic mimic for which malignancy?",
+      "choices": [
+        "RCC",
+        "Transitional Cell Carcinoma (TCC)",
+        "Wilms tumor",
+        "Oncocytoma",
+        "Adrenal cortical CA"
+      ],
+      "answer": "B",
+      "detail": "It creates a thickened wall that mimics TCC on imaging."
+    },
+    {
+      "number": 68,
+      "question": "How do you distinguish a subepithelial hematoma from TCC on CT?",
+      "choices": [
+        "Hematomas enhance avidly",
+        "Hematomas are HYPERDENSE on non-contrast CT and do NOT enhance",
+        "TCC is always fatty",
+        "TCC disappears on delayed images",
+        "There is no CT difference"
+      ],
+      "answer": "B",
+      "detail": "A hematoma will be hyperdense on non-contrast CT and show no enhancement."
+    },
+    {
+      "number": 69,
+      "question": "\"Lateral deviation\" of the ureters is characteristically caused by:",
+      "choices": [
+        "Pelvic lipomatosis",
+        "Retroperitoneal Adenopathy or Aortic Aneurysm",
+        "Retroperitoneal fibrosis",
+        "Retrocaval ureter",
+        "Horseshoe kidney"
+      ],
+      "answer": "B",
+      "detail": "Large masses (adenopathy) or aneurysms push the ureters laterally."
+    },
+    {
+      "number": 70,
+      "question": "What is the most common histological subtype of collecting system cancers (90%)?",
+      "choices": [
+        "Squamous Cell Carcinoma",
+        "Transitional Cell Carcinoma (TCC) / Urothelial Carcinoma",
+        "Adenocarcinoma",
+        "Adenoid cystic",
+        "Small cell CA"
+      ],
+      "answer": "B",
+      "detail": "TCC (Urothelial Carcinoma) makes up 90% of collecting system cancers."
+    },
+    {
+      "number": 71,
+      "question": "The \"Goblet Sign\" or \"Champagne Glass Sign\" on a retrograde pyelogram is the buzzword for:",
+      "choices": [
+        "Obstructing stone",
+        "Ureteral TCC",
+        "Ureteral pseudodiverticulosis",
+        "Blood clot",
+        "Normal variant"
+      ],
+      "answer": "B",
+      "detail": "This sign describes the focal dilation below an intraluminal mass, typical of TCC."
+    },
+    {
+      "number": 72,
+      "question": "Which risk factor is most strongly associated with TCC?",
+      "choices": [
+        "High fat diet",
+        "Smoking",
+        "Alcohol",
+        "Previous C-section",
+        "Multiple pregnancies"
+      ],
+      "answer": "B",
+      "detail": "Smoking is the classic and most heavily tested risk factor for TCC."
+    },
+    {
+      "number": 73,
+      "question": "In the urinary tract, which organ is MOST likely to develop TCC?",
+      "choices": [
+        "Renal Pelvis",
+        "Bladder",
+        "Ureter",
+        "Urethra",
+        "Prostate"
+      ],
+      "answer": "B",
+      "detail": "The bladder is 100x more common than the ureter for TCC."
+    },
+    {
+      "number": 74,
+      "question": "\"Balkan Nephropathy\" is a degenerative disease endemic to the Balkan States associated with a very high rate of:",
+      "choices": [
+        "Renal agenesis",
+        "Renal pelvis and upper ureter TCC",
+        "Horseshoe kidney",
+        "Medullary RCC",
+        "Simple cysts"
+      ],
+      "answer": "B",
+      "detail": "Balkan Nephropathy carries a super high risk for upper tract urothelial cancers (TCC)."
+    },
+    {
+      "number": 75,
+      "question": "\"Fibroepithelial Polyp\" is a benign lesion that mimics TCC but characteristically occurs in:",
+      "choices": [
+        "Younger patients (30–40)",
+        "90-year-old men",
+        "Infants",
+        "Diabetics only",
+        "Patients with TB"
+      ],
+      "answer": "A",
+      "detail": "Polyps favor younger patients (30s-40s) compared to TCC."
+    },
+    {
+      "number": 76,
+      "question": "\"Prune Belly\" (Eagle Barrett) Syndrome is a triad of cryptorchidism, hydroureteronephrosis, and:",
+      "choices": [
+        "Lung cysts",
+        "Deficiency of abdominal musculature",
+        "Multiple limb defects",
+        "Brain tumors",
+        "Gallstones"
+      ],
+      "answer": "B",
+      "detail": "The absent abdominal wall gives the classic \"wide pear\" look in Prune Belly syndrome."
+    },
+    {
+      "number": 77,
+      "question": "What is the primary concern associated with a \"Urachal Remnant\"?",
+      "choices": [
+        "Renal artery stenosis",
+        "Development of Adenocarcinoma (at the bladder dome)",
+        "Biliary atresia",
+        "Pelvic kidney",
+        "Testicular torsion"
+      ],
+      "answer": "B",
+      "detail": "90% of urachal cancers are adenocarcinoma, typically found at the bladder dome."
+    },
+    {
+      "number": 78,
+      "question": "\"Bladder Ears\" are defined as:",
+      "choices": [
+        "Malignant tumors",
+        "Transitory extraperitoneal herniation of the bladder into the inguinal canal",
+        "A sign of end-stage TB",
+        "Calcifications of the ureters",
+        "Diverticula of the dome"
+      ],
+      "answer": "B",
+      "detail": "Bladder ears are transient extraperitoneal herniations, often seen in infants."
+    },
+    {
+      "number": 79,
+      "question": "In a patient with \"GROSS hematuria\" over age 50, the primary concern is:",
+      "choices": [
+        "Simple cysts",
+        "Bladder Cancer",
+        "Nephrocalcinosis",
+        "Page kidney",
+        "Horseshoe kidney"
+      ],
+      "answer": "B",
+      "detail": "Gross hematuria in an older adult is the classic prompt for a bladder cancer workup."
+    },
+    {
+      "number": 80,
+      "question": "What does \"diffuse circumferential bladder wall thickening\" typically represent?",
+      "choices": [
+        "TCC",
+        "Inflammation, infection, or outlet obstruction (prostate)",
+        "Squamous cell carcinoma",
+        "Urachal remnant",
+        "Normal anatomy"
+      ],
+      "answer": "B",
+      "detail": "Diffuse thickening is usually benign (inflammation/obstruction); focal thickening is concerning for cancer."
+    },
+    {
+      "number": 81,
+      "question": "\"Squamous Cell Carcinoma\" of the bladder is strongly associated with which condition?",
+      "choices": [
+        "Smoking",
+        "Schistosomiasis (and chronic catheters)",
+        "Urachal remnants",
+        "Bladder exstrophy",
+        "MEN 1"
+      ],
+      "answer": "B",
+      "detail": "Squamous Cell CA is strongly associated with Schistosomiasis (and chronic irritation like catheters)."
+    },
+    {
+      "number": 82,
+      "question": "A midline mass with calcifications located at the bladder dome is the Aunt Minnie for:",
+      "choices": [
+        "Bladder TCC",
+        "Urachal Adenocarcinoma",
+        "Squamous cell carcinoma",
+        "Rhabdomyosarcoma",
+        "Leiomyoma"
+      ],
+      "answer": "B",
+      "detail": "Calcifications in a midline dome mass are a major sign of urachal adenocarcinoma."
+    },
+    {
+      "number": 83,
+      "question": "\"Leiomyoma\" of the bladder is a benign \"fibroid\" that characteristically presents with:",
+      "choices": [
+        "Gross hematuria",
+        "Urinary hesitancy or \"dribbling\"",
+        "Weight loss",
+        "Bone metastases",
+        "Jaundice"
+      ],
+      "answer": "B",
+      "detail": "Leiomyomas are smooth solid tumors that cause obstructive symptoms like urinary hesitancy."
+    },
+    {
+      "number": 84,
+      "question": "\"Bladder Flap Hematoma\" is a surgical complication seen after which procedure?",
+      "choices": [
+        "Radical nephrectomy",
+        "C-section",
+        "Pyloromyotomy",
+        "Liver transplant",
+        "HSG"
+      ],
+      "answer": "B",
+      "detail": "It occurs when blood accumulates behind the bladder after a lower uterine incision (C-section)."
+    },
+    {
+      "number": 85,
+      "question": "A \"Psoas Hitch\" is a surgical procedure performed to:",
+      "choices": [
+        "Drain an abscess",
+        "Bridge the gap for a short ureter by stretching the bladder",
+        "Remove a kidney stone",
+        "Treat bladder cancer",
+        "Fix a horseshoe kidney"
+      ],
+      "answer": "B",
+      "detail": "The bladder is surgically anchored to the psoas to bridge the gap for a short ureter."
+    },
+    {
+      "number": 86,
+      "question": "In \"Emphysematous Cystitis,\" where is the gas located?",
+      "choices": [
+        "The kidney meat",
+        "The wall of the bladder",
+        "The renal pelvis",
+        "The peritoneal cavity",
+        "The psoas muscle"
+      ],
+      "answer": "B",
+      "detail": "Emphysematous cystitis is a gas-forming infection in the wall of the bladder."
+    },
+    {
+      "number": 87,
+      "question": "A \"Thimble Bladder\" (thick, contracted bladder) is a late sign of:",
+      "choices": [
+        "Smoking",
+        "Tuberculosis (TB)",
+        "Diabetes",
+        "Schistosomiasis",
+        "AIDS"
+      ],
+      "answer": "B",
+      "detail": "Thimble bladder is a hallmark sign of end-stage genitourinary TB."
+    },
+    {
+      "number": 88,
+      "question": "\"Pine Cone Bladder\" is a buzzword associated with:",
+      "choices": [
+        "Bladder cancer",
+        "Neurogenic Bladder",
+        "Bladder stones",
+        "Diverticulitis",
+        "Normal pregnancy"
+      ],
+      "answer": "B",
+      "detail": "The irregular, spiky look (pine cone or Christmas tree) is typical of neurogenic bladder."
+    },
+    {
+      "number": 89,
+      "question": "\"Pear Shaped Bladder\" is a radiographic sign associated with:",
+      "choices": [
+        "TB",
+        "Pelvic Lipomatosis or large hematoma",
+        "Bladder TCC",
+        "Renal agenesis",
+        "Simple cysts"
+      ],
+      "answer": "B",
+      "detail": "A pear-shaped bladder results from extrinsic compression by pelvic fat (lipomatosis) or a large hematoma."
+    },
+    {
+      "number": 90,
+      "question": "Which type of bladder rupture is more common (80–90%) and usually associated with a pelvic fracture?",
+      "choices": [
+        "Intraperitoneal",
+        "Extraperitoneal",
+        "Retroperitoneal",
+        "Subperitoneal",
+        "Mediastinal"
+      ],
+      "answer": "B",
+      "detail": "Extraperitoneal rupture is the most common type and is typically managed medically."
+    },
+    {
+      "number": 91,
+      "question": "The \"Molar Tooth Sign\" on a cystogram indicates:",
+      "choices": [
+        "Intraperitoneal bladder rupture",
+        "Extraperitoneal bladder rupture (contrast in the space of Retzius)",
+        "Normal bladder filling",
+        "Bladder stones",
+        "Cancer at the dome"
+      ],
+      "answer": "B",
+      "detail": "Contrast tracking into the prevesical space (space of Retzius) takes on a molar tooth shape in extraperitoneal rupture."
+    },
+    {
+      "number": 92,
+      "question": "\"Intraperitoneal Bladder Rupture\" characteristically occurs after:",
+      "choices": [
+        "Pelvic fracture",
+        "A direct blow to a FULL bladder (popping the top)",
+        "Normal voiding",
+        "Chronic catheter use",
+        "Walking too much"
+      ],
+      "answer": "B",
+      "detail": "Intraperitoneal rupture occurs when a direct blow to a full bladder \"pops\" the dome."
+    },
+    {
+      "number": 93,
+      "question": "\"Pseudo Azotemia\" in the setting of bladder trauma is caused by:",
+      "choices": [
+        "Kidney failure",
+        "Absorption of urinary creatinine across the peritoneal lining",
+        "Dehydration",
+        "Contrast allergy",
+        "Smoking"
+      ],
+      "answer": "B",
+      "detail": "The peritoneal lining absorbs urinary creatinine back into the blood, mimicking renal failure."
+    },
+    {
+      "number": 94,
+      "question": "The \"Verumontanum\" is a landmark in the male urethra that contains a remnant of the:",
+      "choices": [
+        "Wolffian duct",
+        "Mullerian duct (prostatic utricle)",
+        "Urachus",
+        "Allantois",
+        "Pharyngeal pouch"
+      ],
+      "answer": "B",
+      "detail": "The prostatic utricle is a vestigial remnant of the Mullerian duct found at the verumontanum."
+    },
+    {
+      "number": 95,
+      "question": "Trauma with \"blood at the meatus\" is the clinical trigger for which \"Next Step\" study?",
+      "choices": [
+        "CT abdomen",
+        "Retrograde Urethrography (RUG)",
+        "Ultrasound of the bladder",
+        "IVP",
+        "MRI"
+      ],
+      "answer": "B",
+      "detail": "A RUG is mandatory to evaluate for urethral injury before inserting a catheter."
+    },
+    {
+      "number": 96,
+      "question": "A \"Straddle Injury\" typically results in damage to which urethral segment?",
+      "choices": [
+        "Membranous",
+        "Bulbous (Anterior)",
+        "Prostatic",
+        "Penile",
+        "Renal pelvis"
+      ],
+      "answer": "B",
+      "detail": "Straddle injuries crush the bulbous urethra against the pubic symphysis."
+    },
+    {
+      "number": 97,
+      "question": "\"Gonococcal Urethral Stricture\" is distinguished from a traumatic stricture by being:",
+      "choices": [
+        "Short and smooth",
+        "Long and irregular in the distal bulbous urethra",
+        "Only in the prostatic urethra",
+        "Fatty",
+        "Calcified"
+      ],
+      "answer": "B",
+      "detail": "Gonococcal strictures are typically long and irregular, located in the distal bulbous segment."
+    },
+    {
+      "number": 98,
+      "question": "\"Saddle-bag\" configuration on a sagittal MRI is the buzzword for:",
+      "choices": [
+        "Prostate cancer",
+        "Female Urethral Diverticulum",
+        "Bladder exstrophy",
+        "Neurogenic bladder",
+        "Horseshoe kidney"
+      ],
+      "answer": "B",
+      "detail": "The saddle-bag shape is pathognomonic for female urethral diverticula."
+    },
+    {
+      "number": 99,
+      "question": "In a \"Nuclear Renogram\" (Lasix wash-out), \"No Obstruction\" is defined as a wash-out of 50% of the tracer within:",
+      "choices": [
+        "2 minutes",
+        "10 minutes",
+        "30 minutes",
+        "1 hour",
+        "24 hours"
+      ],
+      "answer": "B",
+      "detail": "A T-1/2 of less than 10 minutes is the standard for no obstruction."
+    },
+    {
+      "number": 100,
+      "question": "If the wash-out takes longer than 20 minutes after Lasix administration, the system is:",
+      "choices": [
+        "Normal",
+        "Obstructed",
+        "Indeterminate",
+        "Hypotensive",
+        "Shrunken"
+      ],
+      "answer": "B",
+      "detail": "A wash-out taking longer than 20 minutes is diagnostic for obstruction."
+    }
+  ]
+}

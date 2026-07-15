@@ -1,0 +1,1307 @@
+{
+    "questions": 
+  
+[
+  {
+    "number": 1,
+    "question": "According to the \"Battle Tactics\" for congenital heart on CXR, what is the first question a radiologist should ask when presented with a case?",
+    "choices": [
+      "What is the heart size?",
+      "What is the side of the aortic arch?",
+      "Is the pulmonary blood flow increased or decreased?",
+      "Is the patient cyanotic or not?",
+      "What is the patient’s age?"
+    ],
+    "answer": "D",
+    "detail": "The easiest way to identify bad distractors is to first determine if the disorder is cyanotic or not, as this information is required to solve the case."
+  },
+  {
+    "number": 2,
+    "question": "Which of the following congenital heart diseases is NOT classified as a cyanotic disorder?",
+    "choices": [
+      "Tetralogy of Fallot (TOF)",
+      "Total Anomalous Pulmonary Venous Return (TAPVR)",
+      "Ventricular Septal Defect (VSD)",
+      "D-Transposition of the Great Arteries",
+      "Truncus Arteriosus"
+    ],
+    "answer": "C",
+    "detail": "VSD is explicitly listed in the \"Not Cyanotic\" category, while TOF, TAPVR, Transposition, Truncus, and Tricuspid Atresia are cyanotic."
+  },
+  {
+    "number": 3,
+    "question": "A newborn presents with cyanosis and a right-sided aortic arch. According to the \"Battle Tactics\" strategy, what are the two primary diagnostic considerations?",
+    "choices": [
+      "TAPVR or D-Transposition",
+      "TOF or Truncus Arteriosus",
+      "Ebstein Anomaly or Tricuspid Atresia",
+      "ASD or VSD",
+      "Coarctation of the Aorta or HLH"
+    ],
+    "answer": "B",
+    "detail": "If the aortic arch is on the right in a cyanotic newborn, the primary considerations are TOF (more common) or Truncus Arteriosus (more strongly associated with right arch)."
+  },
+  {
+    "number": 4,
+    "question": "What is the \"Aunt Minnie\" sign for D-Transposition of the Great Arteries on a chest radiograph?",
+    "choices": [
+      "Snowman appearance",
+      "Boot-shaped heart",
+      "Figure 3 sign",
+      "Egg on a string",
+      "Box-shaped heart"
+    ],
+    "answer": "D",
+    "detail": "D-Transposition is classically described as having an \"egg on a string\" appearance due to a narrow mediastinum."
+  },
+  {
+    "number": 5,
+    "question": "The \"Snowman\" heart appearance on CXR is pathognomonic for which condition?",
+    "choices": [
+      "D-Transposition",
+      "Tetralogy of Fallot",
+      "Supracardiac TAPVR (Type 1)",
+      "Ebstein Anomaly",
+      "Tricuspid Atresia"
+    ],
+    "answer": "C",
+    "detail": "Type 1 Supracardiac TAPVR, where veins drain above the heart, creates the characteristic \"snowman\" appearance."
+  },
+  {
+    "number": 6,
+    "question": "A \"Boot-Shaped\" heart on a pediatric chest X-ray is the classic appearance for:",
+    "choices": [
+      "TAPVR",
+      "D-Transposition",
+      "Ebstein Anomaly",
+      "Tetralogy of Fallot",
+      "Truncus Arteriosus"
+    ],
+    "answer": "D",
+    "detail": "A \"boot-shaped\" heart is the classic Aunt Minnie radiographic finding for Tetralogy of Fallot."
+  },
+  {
+    "number": 7,
+    "question": "Which congenital heart defect is associated with a \"massive box-shaped heart\" on CXR?",
+    "choices": [
+      "Hypoplastic Left Heart",
+      "Ebstein Anomaly",
+      "TAPVR Type 3",
+      "Truncus Arteriosus",
+      "Cor Triatriatum"
+    ],
+    "answer": "B",
+    "detail": "Ebstein Anomaly is characterized by an enlarged right atrium and decreased/atrialized right ventricle, which creates a massive \"box-shaped\" heart on X-ray."
+  },
+  {
+    "number": 8,
+    "question": "What is the \"Aunt Minnie\" radiographic sign for Aortic Coarctation?",
+    "choices": [
+      "Scimitar Sword",
+      "Figure 3 sign",
+      "Snowman appearance",
+      "Egg on a string",
+      "Boot shaped"
+    ],
+    "answer": "B",
+    "detail": "The \"Figure 3 sign\" is the classic appearance of coarctation of the aorta on a chest radiograph."
+  },
+  {
+    "number": 9,
+    "question": "\"Scimitar Syndrome\" is defined as a dilated right inferior pulmonary vein (PAPVR) draining into the IVC along with which lung finding?",
+    "choices": [
+      "Pulmonary sequestration",
+      "Hyper-expanded left lung",
+      "Unilateral pulmonary hypoplasia",
+      "Right upper lobe pneumonia",
+      "Pleural effusion"
+    ],
+    "answer": "C",
+    "detail": "Scimitar syndrome consists of the \"sword vein\" (PAPVR) and unilateral pulmonary hypoplasia."
+  },
+  {
+    "number": 10,
+    "question": "What is the most common congenital heart disease overall, excluding bicuspid aortic valve?",
+    "choices": [
+      "ASD",
+      "VSD",
+      "PDA",
+      "TOF",
+      "Ebstein Anomaly"
+    ],
+    "answer": "B",
+    "detail": "Excluding bicuspid aortic valve, Ventricular Septal Defect (VSD) is the most common congenital heart disease."
+  },
+  {
+    "number": 11,
+    "question": "Which type of VSD is the most common, accounting for 70% of cases?",
+    "choices": [
+      "Outlet (Infundibular)",
+      "Muscular",
+      "Membranous",
+      "Inlet",
+      "Gerbode"
+    ],
+    "answer": "C",
+    "detail": "The membranous type of VSD, located just below the aortic valve, accounts for 70% of cases."
+  },
+  {
+    "number": 12,
+    "question": "When identifying a newborn with a cyanotic heart disease and increased pulmonary blood flow, which of the following is a primary consideration?",
+    "choices": [
+      "TOF",
+      "Ebstein Anomaly",
+      "D-Transposition",
+      "Tricuspid Atresia",
+      "Pulmonary Atresia without VSD"
+    ],
+    "answer": "C",
+    "detail": "D-Transposition is a cyanotic heart disease characterized by increased pulmonary blood flow, whereas TOF and Ebstein typically show decreased or normal flow."
+  },
+  {
+    "number": 13,
+    "question": "\"Hand/thumb defects + ASD\" is the classic clinical association for which syndrome?",
+    "choices": [
+      "Turner Syndrome",
+      "Downs Syndrome",
+      "Holt-Oram Syndrome",
+      "DiGeorge Syndrome",
+      "Williams Syndrome"
+    ],
+    "answer": "C",
+    "detail": "Holt-Oram syndrome is the high-yield association for the combination of hand/thumb defects and an ASD."
+  },
+  {
+    "number": 14,
+    "question": "An Ostium Primum ASD (endocardial cushion defect) is most strongly associated with which condition?",
+    "choices": [
+      "Turner Syndrome",
+      "Downs Syndrome",
+      "Noonan Syndrome",
+      "Williams Syndrome",
+      "Alagille Syndrome"
+    ],
+    "answer": "B",
+    "detail": "Ostium primum ASDs and AV canal defects have a strong clinical association with Downs syndrome."
+  },
+  {
+    "number": 15,
+    "question": "Which type of ASD is the most common overall?",
+    "choices": [
+      "Ostium Primum",
+      "Sinus Venosus",
+      "Unroofed Coronary Sinus",
+      "Ostium Secundum",
+      "AV Canal"
+    ],
+    "answer": "D",
+    "detail": "Ostium secundum is the most common type of ASD, representing 50-70% of cases."
+  },
+  {
+    "number": 16,
+    "question": "Sinus Venosus ASDs are characteristically associated with which other vascular anomaly?",
+    "choices": [
+      "PDA",
+      "PAPVR",
+      "Coarctation",
+      "Bicuspid aortic valve",
+      "Pulmonary stenosis"
+    ],
+    "answer": "B",
+    "detail": "Sinus venosus ASDs are classically associated with Partial Anomalous Pulmonary Venous Return (PAPVR), often involving the right upper lobe."
+  },
+  {
+    "number": 17,
+    "question": "An \"Unroofed Coronary Sinus\" ASD is strongly linked to which finding?",
+    "choices": [
+      "Right-sided aortic arch",
+      "Persistent left SVC",
+      "Unilateral pulmonary hypoplasia",
+      "Horseshoe lung",
+      "Bicuspid aortic valve"
+    ],
+    "answer": "B",
+    "detail": "There is a strong association between an unroofed coronary sinus and a persistent left SVC."
+  },
+  {
+    "number": 18,
+    "question": "Which congenital defect is required for survival in a patient with TAPVR?",
+    "choices": [
+      "Coarctation of the aorta",
+      "A large PFO or ASD",
+      "Bicuspid aortic valve",
+      "Pulmonary stenosis",
+      "Persistent left SVC"
+    ],
+    "answer": "B",
+    "detail": "In TAPVR, a large PFO or ASD is required for survival to allow for admixture of blood."
+  },
+  {
+    "number": 19,
+    "question": "TAPVR Type 3 (Infracardiac) is unique because it often presents in the newborn with which imaging appearance?",
+    "choices": [
+      "A large \"snowman\" heart",
+      "Normal pulmonary vascularity",
+      "A full-on pulmonary edema look",
+      "Egg on a string",
+      "Clear lungs and a massive heart"
+    ],
+    "answer": "C",
+    "detail": "Infracardiac TAPVR often presents with a pulmonary edema appearance in newborns due to venous obstruction as veins pass through the diaphragm."
+  },
+  {
+    "number": 20,
+    "question": "Total Anomalous Pulmonary Venous Return (TAPVR) is associated with which condition in 100% of cases when it occurs with situs ambiguus?",
+    "choices": [
+      "Polysplenia",
+      "Asplenia (Right Isomerism)",
+      "Left Isomerism",
+      "Situs Solitus",
+      "Situs Inversus"
+    ],
+    "answer": "B",
+    "detail": "Nearly 100% of asplenia (right isomerism) patients who have congenital heart disease will have TAPVR."
+  },
+  {
+    "number": 21,
+    "question": "D-Transposition of the Great Arteries is the most common cause of cyanosis during which timeframe?",
+    "choices": [
+      "First 24 hours of life",
+      "After the first week of life",
+      "In early adolescence",
+      "Only in adults",
+      "In the third trimester of pregnancy"
+    ],
+    "answer": "A",
+    "detail": "D-Transposition is the most common cause of cyanosis during the first 24 hours of life."
+  },
+  {
+    "number": 22,
+    "question": "Which of the following is true regarding D-Transposition of the Great Arteries?",
+    "choices": [
+      "It is congenitally corrected.",
+      "Survival is independent of admixture.",
+      "It is most commonly seen in infants of diabetic mothers.",
+      "The pulmonary artery arises from the right ventricle.",
+      "The aorta is posterior to the pulmonary artery."
+    ],
+    "answer": "C",
+    "detail": "D-Transposition is most common in infants of diabetic mothers; the aorta arises from the RV and the pulmonary trunk from the LV."
+  },
+  {
+    "number": 23,
+    "question": "\"L-Transposition\" of the great arteries is characterized by which of the following?",
+    "choices": [
+      "It is the \"doomed\" type.",
+      "It requires a PDA for survival.",
+      "The ventricles are inverted, making it \"Lucky\" or congenitally corrected.",
+      "It always results in severe cyanosis at birth.",
+      "It is associated with the \"Snowman\" heart."
+    ],
+    "answer": "C",
+    "detail": "L-Transposition is considered \"Lucky\" because the inverted ventricles (double discordance) make it congenitally corrected and compatible with life."
+  },
+  {
+    "number": 24,
+    "question": "The \"LeCompte Maneuver\" is a high-yield surgical technique used during which procedure?",
+    "choices": [
+      "Norwood procedure",
+      "Mustard procedure",
+      "Jatene Arterial Switch",
+      "Fontan procedure",
+      "Ross procedure"
+    ],
+    "answer": "C",
+    "detail": "The LeCompte maneuver, where the pulmonary artery is draped over the aorta, is part of the Jatene Arterial Switch for corrected D-transposition."
+  },
+  {
+    "number": 25,
+    "question": "Tetralogy of Fallot (TOF) consists of four major findings. Which of the following is NOT one of them?",
+    "choices": [
+      "VSD",
+      "Overriding Aorta",
+      "RVOT Obstruction",
+      "Left Ventricular Hypertrophy",
+      "Right Ventricular Hypertrophy"
+    ],
+    "answer": "D",
+    "detail": "TOF features VSD, RVOT obstruction, overriding aorta, and Right (not Left) Ventricular Hypertrophy."
+  },
+  {
+    "number": 26,
+    "question": "What is the most common complication following surgical repair of Tetralogy of Fallot?",
+    "choices": [
+      "Aortic stenosis",
+      "Recurrent VSD",
+      "Pulmonary regurgitation",
+      "Mitral insufficiency",
+      "Coronary artery aneurysm"
+    ],
+    "answer": "C",
+    "detail": "Pulmonary regurgitation is the most common complication after TOF surgery."
+  },
+  {
+    "number": 27,
+    "question": "\"Truncus Arteriosus\" is a cyanotic anomaly characterized by a single trunk supplying both circulations and a strong association with:",
+    "choices": [
+      "Downs Syndrome",
+      "Turner Syndrome",
+      "DiGeorge Syndrome (CATCH-22)",
+      "Holt-Oram Syndrome",
+      "Williams Syndrome"
+    ],
+    "answer": "C",
+    "detail": "Truncus arteriosus is strongly associated with DiGeorge syndrome (CATCH-22) and a right-sided aortic arch."
+  },
+  {
+    "number": 28,
+    "question": "Infantile (pre-ductal) coarctation of the aorta is characteristically associated with:",
+    "choices": [
+      "Leg claudication",
+      "Normal diameter aortic arch",
+      "Heart failure within the first week of life",
+      "Rib notching",
+      "Bicuspid aortic valve in only 5% of cases"
+    ],
+    "answer": "C",
+    "detail": "Infantile (pre-ductal) coarctation typically presents with heart failure within the first week of life."
+  },
+  {
+    "number": 29,
+    "question": "Which congenital heart defect is the most common association for Turner Syndrome?",
+    "choices": [
+      "VSD",
+      "ASD",
+      "Bicuspid aortic valve and Coarctation",
+      "Tetralogy of Fallot",
+      "Truncus Arteriosus"
+    ],
+    "answer": "C",
+    "detail": "Turner syndrome is most commonly associated with a bicuspid aortic valve and aortic coarctation."
+  },
+  {
+    "number": 30,
+    "question": "Rib notching in the setting of aortic coarctation characteristically involves the 4th through 8th ribs but spares which ribs?",
+    "choices": [
+      "3rd and 4th",
+      "9th and 10th",
+      "1st and 2nd",
+      "All ribs are notched",
+      "Only the left-sided ribs are notched"
+    ],
+    "answer": "C",
+    "detail": "Rib notching spares the 1st and 2nd ribs because they are supplied by the costocervical trunk."
+  },
+  {
+    "number": 31,
+    "question": "A newborn presenting with pulmonary edema and a hypoplastic aorta likely has Hypoplastic Left Heart Syndrome. Which of the following is REQUIRED for their survival?",
+    "choices": [
+      "Right-sided aortic arch",
+      "Bicuspid aortic valve",
+      "ASD or large PFO",
+      "Pulmonary stenosis",
+      "Mirror-image branching"
+    ],
+    "answer": "C",
+    "detail": "Survival in Hypoplastic Left Heart requires an ASD or large PFO, as well as a large PDA to provide blood to the arch."
+  },
+  {
+    "number": 32,
+    "question": "\"Cor Triatriatum Sinistrum\" is a rare condition that creates the appearance of a \"tri-atrium heart\" and clinically acts like which valvular pathology?",
+    "choices": [
+      "Mitral Regurgitation",
+      "Mitral Stenosis",
+      "Aortic Stenosis",
+      "Tricuspid Atresia",
+      "Pulmonary Stenosis"
+    ],
+    "answer": "B",
+    "detail": "Cor triatriatum sinistrum features a fibromuscular membrane in the left atrium, causing it to clinically behave like mitral stenosis."
+  },
+  {
+    "number": 33,
+    "question": "Which congenital heart disease is classically associated with maternal Lithium use?",
+    "choices": [
+      "VSD",
+      "Tetralogy of Fallot",
+      "Ebstein Anomaly",
+      "TAPVR",
+      "Transposition"
+    ],
+    "answer": "C",
+    "detail": "Ebstein anomaly is characteristically seen in infants whose mothers used lithium during pregnancy."
+  },
+  {
+    "number": 34,
+    "question": "Tricuspid Atresia is a cyanotic anomaly that is frequently associated with RV hypoplasia and which other finding?",
+    "choices": [
+      "Mirror image right arch",
+      "Bicuspid aortic valve",
+      "Pulmonary stenosis",
+      "Unilateral pulmonary hypoplasia",
+      "Horseshoe lung"
+    ],
+    "answer": "C",
+    "detail": "Tricuspid atresia often features pulmonary stenosis, which typically leads to decreased pulmonary vascularity."
+  },
+  {
+    "number": 35,
+    "question": "\"Supra-valvular Aortic Stenosis\" is a classic radiographic buzzword for which syndrome?",
+    "choices": [
+      "Turner Syndrome",
+      "Downs Syndrome",
+      "Williams Syndrome",
+      "Noonan Syndrome",
+      "Alagille Syndrome"
+    ],
+    "answer": "C",
+    "detail": "Supra-valvular aortic stenosis is the classic clinical association for Williams syndrome."
+  },
+  {
+    "number": 36,
+    "question": "Valvular Pulmonary Stenosis is characteristically associated with which syndrome?",
+    "choices": [
+      "Williams",
+      "Downs",
+      "Noonan",
+      "Turner",
+      "Marfan"
+    ],
+    "answer": "C",
+    "detail": "Valvular pulmonary stenosis is associated with Noonan syndrome, often referred to as the \"male version of Turner Syndrome.\""
+  },
+  {
+    "number": 37,
+    "question": "\"Peripheral Pulmonary Stenosis\" is a key feature of which condition?",
+    "choices": [
+      "Noonan Syndrome",
+      "Alagille Syndrome",
+      "Williams Syndrome",
+      "Marfan Syndrome",
+      "Downs Syndrome"
+    ],
+    "answer": "B",
+    "detail": "Alagille syndrome features peripheral pulmonary stenosis and is also noted for absent bile ducts in children."
+  },
+  {
+    "number": 38,
+    "question": "Which surgery replaces a diseased aortic valve with the patient's own pulmonary valve?",
+    "choices": [
+      "Norwood procedure",
+      "Jatene procedure",
+      "Ross procedure",
+      "Fontan procedure",
+      "Glenn procedure"
+    ],
+    "answer": "C",
+    "detail": "The Ross procedure involves replacing a diseased aortic valve with the patient's own pulmonary valve."
+  },
+  {
+    "number": 39,
+    "question": "Palliative surgery for Hypoplastic Left Heart involves a three-stage process. What is the first stage, typically performed within days of birth?",
+    "choices": [
+      "Glenn",
+      "Fontan",
+      "Norwood",
+      "Ross",
+      "Jatene"
+    ],
+    "answer": "C",
+    "detail": "The Norwood (or Sano) procedure is the first stage of HLH surgery, performed within days of birth."
+  },
+  {
+    "number": 40,
+    "question": "The \"Fontan Operation\" is used for single ventricle hearts and is associated with which unique \"testable\" complication?",
+    "choices": [
+      "SVC Syndrome",
+      "Pulmonary artery aneurysms",
+      "Plastic bronchitis",
+      "Coronary artery damage",
+      "Pulmonary regurgitation"
+    ],
+    "answer": "C",
+    "detail": "Plastic bronchitis, characterized by patients coughing up bronchial casts, is a unique testable complication of the Fontan procedure."
+  },
+  {
+    "number": 41,
+    "question": "What is the primary purpose of a Glenn shunt?",
+    "choices": [
+      "Increase pulmonary blood flow",
+      "Bypass the right ventricle",
+      "Take systemic blood (SVC) directly to the pulmonary circulation",
+      "Replace the aortic valve",
+      "Create a baffle within the atria"
+    ],
+    "answer": "C",
+    "detail": "The Glenn shunt's primary purpose is to take systemic SVC blood directly to the pulmonary circulation, bypassing the right heart."
+  },
+  {
+    "number": 42,
+    "question": "\"Pulmonary Artery Banding\" is most commonly performed for which condition?",
+    "choices": [
+      "Tetralogy of Fallot",
+      "Ebstein Anomaly",
+      "Single Ventricle",
+      "Coarctation of the Aorta",
+      "ASD"
+    ],
+    "answer": "C",
+    "detail": "Pulmonary artery banding is used to reduce pulmonary artery pressure, most commonly for single ventricle lesions."
+  },
+  {
+    "number": 43,
+    "question": "Which cardiac MRI view is considered the \"best\" to visualize AV Canal Defects?",
+    "choices": [
+      "2 Chamber view",
+      "3 Chamber view",
+      "4 Chamber horizontal long axis view",
+      "Short axis view",
+      "Aortic long axis"
+    ],
+    "answer": "C",
+    "detail": "The 4-chamber horizontal long axis view is the superior view for visualizing AV canal defects."
+  },
+  {
+    "number": 44,
+    "question": "According to the \"Sledgehammer\" tactics, what does a \"Right Arch with Mirror Branching\" signify?",
+    "choices": [
+      "Normal variant",
+      "Dysphagia lusoria",
+      "Congenital heart disease",
+      "Subclavian steal",
+      "Azygos continuation"
+    ],
+    "answer": "C",
+    "detail": "A right arch with mirror branching signifies congenital heart disease; 90% of these patients have Tetralogy of Fallot."
+  },
+  {
+    "number": 45,
+    "question": "\"Dysphagia Lusoria\" refers to swallowing difficulty caused by which variant?",
+    "choices": [
+      "Double aortic arch",
+      "Left arch with aberrant right subclavian",
+      "Pulmonary sling",
+      "Persistent left SVC",
+      "Scimitar vein"
+    ],
+    "answer": "B",
+    "detail": "Dysphagia lusoria is swallowing difficulty resulting from an aberrant right subclavian artery."
+  },
+  {
+    "number": 46,
+    "question": "Which vascular ring is the most common cause of symptoms like tracheal compression and difficulty swallowing?",
+    "choices": [
+      "Left arch with aberrant right subclavian",
+      "Double Aortic Arch",
+      "Pulmonary Sling",
+      "Right arch with mirror branching",
+      "Bovine arch"
+    ],
+    "answer": "B",
+    "detail": "The Double Aortic Arch is the most common symptomatic vascular ring anomaly."
+  },
+  {
+    "number": 47,
+    "question": "Which vascular anomaly is the ONLY variant to course between the esophagus and the trachea?",
+    "choices": [
+      "Double Aortic Arch",
+      "Aberrant Right Subclavian",
+      "Pulmonary Sling",
+      "Bovine Arch",
+      "Persistent Left SVC"
+    ],
+    "answer": "C",
+    "detail": "The pulmonary sling is unique as the only variant that courses between the esophagus and the trachea."
+  },
+  {
+    "number": 48,
+    "question": "Pulmonary Sling is uniquely associated with which other pathology?",
+    "choices": [
+      "ASD",
+      "Bicuspid aortic valve",
+      "Tracheal stenosis (complete rings)",
+      "Coarctation",
+      "Horseshoe kidney"
+    ],
+    "answer": "C",
+    "detail": "Pulmonary sling is uniquely associated with primary tracheal stenosis involving complete tracheal rings."
+  },
+  {
+    "number": 49,
+    "question": "If an NG tube is seen curling in the upper thoracic esophagus of a newborn, what is the first diagnosis to consider?",
+    "choices": [
+      "Truncus Arteriosus",
+      "Esophageal Atresia",
+      "D-Transposition",
+      "Hypertrophic Pyloric Stenosis",
+      "Midgut Volvulus"
+    ],
+    "answer": "B",
+    "detail": "An NG tube curling in the upper esophagus is a classic sign of esophageal atresia, often associated with VACTERL."
+  },
+  {
+    "number": 50,
+    "question": "Which VACTERL association is the most common?",
+    "choices": [
+      "Vertebral anomalies",
+      "Anal atresia",
+      "Cardiac anomalies",
+      "Renal anomalies",
+      "Limb defects"
+    ],
+    "answer": "C",
+    "detail": "Cardiac anomalies are the most frequent finding in VACTERL, appearing in 77% of cases."
+  },
+  {
+    "number": 51,
+    "question": "In the \"wave front of necrosis\" during a myocardial infarction, where does the necrosis always start?",
+    "choices": [
+      "Subepicardial",
+      "Mid-myocardial",
+      "Subendocardial",
+      "Pericardial",
+      "Simultaneously throughout the wall"
+    ],
+    "answer": "C",
+    "detail": "During an MI, the wave front of necrosis always starts at the subendocardium and moves toward the subepicardium."
+  },
+  {
+    "number": 52,
+    "question": "\"Microvascular Obstruction\" (MVO) is identified on Cardiac MRI by which appearance?",
+    "choices": [
+      "Intense enhancement on first-pass perfusion",
+      "Global thinning of the myocardium",
+      "Islands of dark signal in an ocean of late enhancement",
+      "Bright T2 signal in the infarct zone",
+      "Reversible FDG uptake"
+    ],
+    "answer": "C",
+    "detail": "MVO is seen on Cardiac MRI as islands of dark signal within a region of late gadolinium enhancement."
+  },
+  {
+    "number": 53,
+    "question": "Microvascular obstruction (MVO) is an independent predictor of:",
+    "choices": [
+      "Survival and functional recovery",
+      "Death and adverse LV remodeling",
+      "Reversible ischemia",
+      "Successful revascularization",
+      "Minimal infarct size"
+    ],
+    "answer": "B",
+    "detail": "Microvascular obstruction serves as an independent predictor of death and adverse remodeling of the left ventricle."
+  },
+  {
+    "number": 54,
+    "question": "Myocardium that persists in being dysfunctional for days to weeks after blood flow restoration is termed:",
+    "choices": [
+      "Hibernating Myocardium",
+      "Stunned Myocardium",
+      "Infarcted Myocardium",
+      "Scar tissue",
+      "Non-viable muscle"
+    ],
+    "answer": "B",
+    "detail": "Myocardial tissue that remains dysfunctional for an extended period even after restoration of flow is called \"stunned.\""
+  },
+  {
+    "number": 55,
+    "question": "Which of the following describes \"Hibernating Myocardium\"?",
+    "choices": [
+      "An acute situation following reperfusion injury",
+      "A chronic process that is NOT an infarct and is reversible with revascularization",
+      "Dead tissue that will not squeeze normally",
+      "Muscle with normal perfusion but crap contractility",
+      "Tissue that will NOT take up FDG on PET"
+    ],
+    "answer": "B",
+    "detail": "Hibernating myocardium is a chronic process due to severe CAD that remains viable and reversible through revascularization."
+  },
+  {
+    "number": 56,
+    "question": "On FDG PET imaging, how does hibernating myocardium behave compared to normal muscle?",
+    "choices": [
+      "It shows no tracer uptake.",
+      "It takes up tracer less intensely than normal.",
+      "It takes up tracer more intensely than normal.",
+      "Tracer uptake is only seen during stress.",
+      "Tracer uptake is indistinguishable from scar."
+    ],
+    "answer": "C",
+    "detail": "Hibernating myocardial tissue takes up FDG more intensely than normal myocardium."
+  },
+  {
+    "number": 57,
+    "question": "What is the fundamental difference between hibernating myocardium and scar tissue on nuclear imaging?",
+    "choices": [
+      "Scar takes up FDG; hibernating does not.",
+      "Hibernating will redistribute thallium; scar will not.",
+      "Scar has normal wall motion; hibernating does not.",
+      "Hibernating is a \"zombie\" that will never recover.",
+      "Both are permanent and fixed defects."
+    ],
+    "answer": "B",
+    "detail": "Hibernating myocardium takes up FDG and shows delayed thallium redistribution, whereas scar tissue does neither."
+  },
+  {
+    "number": 58,
+    "question": "Late Gadolinium Enhancement (LGE) that follows a vascular distribution and extends from the endocardium to the epicardium is diagnostic for:",
+    "choices": [
+      "Myocarditis",
+      "Sarcoidosis",
+      "Amyloidosis",
+      "Myocardial Infarction",
+      "Hypertrophic Cardiomyopathy"
+    ],
+    "answer": "D",
+    "detail": "Enhancement that starts subendocardially and follows a vascular distribution is diagnostic for myocardial infarction."
+  },
+  {
+    "number": 59,
+    "question": "In the acute setting (1 week), how does injured myocardium typically appear on T2-weighted MRI?",
+    "choices": [
+      "Dark (Low signal)",
+      "Bright (High signal from edema)",
+      "Isointense to normal muscle",
+      "T2 signal is only useful for chronic infarcts",
+      "Signal dropout due to calcification"
+    ],
+    "answer": "B",
+    "detail": "In the acute setting, injured myocardium typically shows high T2 signal due to the presence of edema."
+  },
+  {
+    "number": 60,
+    "question": "Which MRI feature is most helpful for distinguishing an acute MI from a chronic MI?",
+    "choices": [
+      "Presence of delayed enhancement",
+      "Vascular distribution of enhancement",
+      "Myocardial thickness and T2 signal intensity",
+      "Prolapse of the mitral valve",
+      "Identification of coronary artery stenosis"
+    ],
+    "answer": "C",
+    "detail": "Acute MIs show normal thickness and high T2 signal (edema), whereas chronic MIs show thinned myocardium and low T2 signal (scar)."
+  },
+  {
+    "number": 61,
+    "question": "A \"True\" ventricular aneurysm, which can occur after an MI, is characteristically:",
+    "choices": [
+      "Associated with a narrow neck",
+      "Located on the posterior wall",
+      "Associated with a high risk of rupture",
+      "Characterized by a mouth wider than the body",
+      "Formed by pericardial adhesions containing a rupture"
+    ],
+    "answer": "D",
+    "detail": "A true aneurysm typically involves the apical or anterolateral wall and has a broad neck where the mouth is wider than the body."
+  },
+  {
+    "number": 62,
+    "question": "A \"False\" ventricular aneurysm is a contained rupture and is most commonly located on which wall?",
+    "choices": [
+      "Anterior-lateral",
+      "Apical",
+      "Posterior-lateral",
+      "Septal",
+      "Right ventricular free wall"
+    ],
+    "answer": "C",
+    "detail": "False aneurysms represent contained ruptures, are usually located on the posterior-lateral wall, and have a higher rupture risk."
+  },
+  {
+    "number": 63,
+    "question": "When does \"Myocardial Rupture\" most commonly occur following an MI?",
+    "choices": [
+      "Within 3 days",
+      "2-7 days",
+      "3-7 days",
+      "4-6 weeks",
+      "Months later"
+    ],
+    "answer": "A",
+    "detail": "Myocardial rupture occurs within 3 days post-MI in 50% of cases."
+  },
+  {
+    "number": 64,
+    "question": "\"Dressler Syndrome\" is a post-MI pericardial effusion that typically develops during which timeframe?",
+    "choices": [
+      "Within 24 hours",
+      "2-7 days",
+      "4-6 weeks",
+      "After 6 months",
+      "Only in chronic cases"
+    ],
+    "answer": "C",
+    "detail": "Dressler syndrome is an inflammatory pericardial effusion occurring 4-6 weeks after an MI."
+  },
+  {
+    "number": 65,
+    "question": "Myocardial viability is graded by the percentage of transmural thickness involved in an infarct. Function is \"unlikely to recover\" if the involvement is:",
+    "choices": [
+      " < 25%",
+      "25-50%",
+      "50-100%",
+      "Exactly 0%",
+      "Any involvement makes recovery impossible"
+    ],
+    "answer": "C",
+    "detail": "If 50-100% of the transmural thickness is involved in an infarct, function is considered unlikely to recover."
+  },
+  {
+    "number": 66,
+    "question": "What is the primary purpose of an \"Intra-Aortic Balloon Pump\" (IABP) in the setting of cardiogenic shock?",
+    "choices": [
+      "To slow the heart rate",
+      "To increase venous return to the right atrium",
+      "To provide diastolic augmentation and improve coronary perfusion",
+      "To replace the function of the mitral valve",
+      "To bypass the descending aorta"
+    ],
+    "answer": "C",
+    "detail": "The IABP provides diastolic augmentation, creating back pressure to improve coronary perfusion."
+  },
+  {
+    "number": 67,
+    "question": "In nuclear medicine, a \"Fixed Defect\" seen on both stress and rest imaging is diagnostic for:",
+    "choices": [
+      "Acute Ischemia",
+      "Reversible ischemia",
+      "Normal heart",
+      "Scar (prior infarct)",
+      "Diaphragmatic artifact"
+    ],
+    "answer": "D",
+    "detail": "A fixed defect visible on both stress and rest imaging is diagnostic of scar from a prior infarct."
+  },
+  {
+    "number": 68,
+    "question": "A \"Reversible Defect\" (seen on stress, but better on rest) is the hallmark of:",
+    "choices": [
+      "Scar",
+      "Infarct",
+      "Ischemia",
+      "Normal variation",
+      "Left Bundle Branch Block (LBBB)"
+    ],
+    "answer": "C",
+    "detail": "A defect that appears on stress imaging but improves on rest imaging is a hallmark of ischemia."
+  },
+  {
+    "number": 69,
+    "question": "\"Transient Ischemic Dilation\" (TID) of the Left Ventricle on stress imaging is highly correlated with:",
+    "choices": [
+      "Single vessel disease",
+      "Right heart failure",
+      "High risk disease (left main or 3 vessel CAD)",
+      "Normal variation in athletes",
+      "Pericardial effusion"
+    ],
+    "answer": "C",
+    "detail": "TID is highly correlated with high-risk disease such as left main or 3-vessel coronary artery disease."
+  },
+  {
+    "number": 70,
+    "question": "Which artifact is described as a \"False Positive Reversible Perfusion Defect at the Septum\"?",
+    "choices": [
+      "Breast tissue attenuation",
+      "Left hemidiaphragm attenuation",
+      "Left Bundle Branch Block (LBBB)",
+      "Patient motion",
+      "Normal apical thinning"
+    ],
+    "answer": "C",
+    "detail": "LBBB can cause a false-positive reversible defect in the septum, particularly during exercise or dobutamine stress."
+  },
+  {
+    "number": 71,
+    "question": "For a patient with a known LBBB, which stress agent is preferred to minimize septal artifacts?",
+    "choices": [
+      "Dobutamine",
+      "Exercise",
+      "Adenosine or Dipyridamole",
+      "Nitroglycerine",
+      "Aminophylline"
+    ],
+    "answer": "C",
+    "detail": "Adenosine or dipyridamole is preferred for LBBB patients because they don't increase the heart rate as much as dobutamine."
+  },
+  {
+    "number": 72,
+    "question": "What is the \"antidote\" for Adenosine-induced side effects during a stress test?",
+    "choices": [
+      "Albuterol",
+      "Atropine",
+      "Aminophylline",
+      "Nitroglycerine",
+      "Metoprolol"
+    ],
+    "answer": "C",
+    "detail": "Aminophylline acts as the antidote for adenosine-induced side effects."
+  },
+  {
+    "number": 73,
+    "question": "\"Rubidium-82\" is unique among PET agents for myocardial perfusion because it is:",
+    "choices": [
+      "Produced in a cyclotron",
+      "Made with a generator",
+      "Characterized by a 2-hour half-life",
+      "Excreted exclusively by the liver",
+      "Used primarily for lung imaging"
+    ],
+    "answer": "B",
+    "detail": "Rubidium-82 is distinguished by being the only PET perfusion agent produced with a generator."
+  },
+  {
+    "number": 74,
+    "question": "The \"MUGA\" scan uses which radioactive tracer to calculate Ejection Fraction?",
+    "choices": [
+      "Tc-99m MAA",
+      "Tc-99m Sestamibi",
+      "Tc-99m tagged RBCs",
+      "Xenon-133",
+      "Thallium-201"
+    ],
+    "answer": "C",
+    "detail": "MUGA is an equilibrium radionuclide angiogram performed using Tc-99m tagged RBCs."
+  },
+  {
+    "number": 75,
+    "question": "Which MUGA view is the \"best septal view\" and is usually used to measure LVEF?",
+    "choices": [
+      "Anterior",
+      "Lateral",
+      "Left Anterior Oblique (LAO)",
+      "Posterior",
+      "Right Anterior Oblique (RAO)"
+    ],
+    "answer": "C",
+    "detail": "The LAO view provides the best view of the septum and is the standard for measuring LVEF on a MUGA scan."
+  },
+  {
+    "number": 76,
+    "question": "A MUGA scan may yield a \"False Low EF\" if which of the following occurs?",
+    "choices": [
+      "Over-subtraction of background from the spleen",
+      "Inclusion of an enlarged Left Atrium in the ROI",
+      "The patient is an athlete with a naturally low heart rate",
+      "The septum is photopenic",
+      "Tracer is clumped in the lungs"
+    ],
+    "answer": "B",
+    "detail": "Inclusion of an enlarged left atrium in the region of interest will cause a false low EF due to overlap."
+  },
+  {
+    "number": 77,
+    "question": "In Cardiac MRI, \"First Pass Perfusion\" imaging is the best sequence for identifying:",
+    "choices": [
+      "Myocardial scar",
+      "Amyloidosis",
+      "Microvascular Obstruction (MVO)",
+      "Pericarditis",
+      "Papillary muscle rupture"
+    ],
+    "answer": "C",
+    "detail": "First-pass imaging, typically around 25 seconds post-injection, is the best sequence for identifying microvascular obstruction."
+  },
+  {
+    "number": 78,
+    "question": "\"Tako-Tsubo Cardiomyopathy\" classically presents in post-menopausal women with which imaging finding?",
+    "choices": [
+      "Diffuse subendocardial LGE",
+      "Transmural LGE following the RCA distribution",
+      "Ballooning of the left ventricular apex and NO delayed enhancement",
+      "Linear mid-myocardial enhancement",
+      "Massive right atrial thrombus"
+    ],
+    "answer": "C",
+    "detail": "Tako-Tsubo is characterized by apical LV ballooning and a characteristic lack of delayed enhancement."
+  },
+  {
+    "number": 79,
+    "question": "On a chest radiograph, the \"Double Density Sign\" is a direct sign of:",
+    "choices": [
+      "Right Atrial enlargement",
+      "Left Atrial enlargement",
+      "Right Ventricular hypertrophy",
+      "Left Ventricular enlargement",
+      "Pericardial effusion"
+    ],
+    "answer": "B",
+    "detail": "The \"Double Density Sign\" on a frontal CXR is a direct sign of left atrial enlargement."
+  },
+  {
+    "number": 80,
+    "question": "The \"Walking Man Sign\" on a lateral chest radiograph refers to:",
+    "choices": [
+      "Displacement of the heart against the sternum",
+      "Posterior displacement of the left mainstem bronchus",
+      "Anterior tilting of the cardiac apex",
+      "Widening of the carinal angle",
+      "Aortic arch splaying the trachea"
+    ],
+    "answer": "B",
+    "detail": "The Walking Man sign on a lateral CXR is an indirect sign of LA enlargement represented by posterior displacement of the left mainstem bronchus."
+  },
+  {
+    "number": 81,
+    "question": "Left Ventricular enlargement on CXR is described by which cardiac apex position?",
+    "choices": [
+      "Tilted Up and Out",
+      "Tilted Down and Out",
+      "Shifting of the Right Heart Border > 3 cm",
+      "Displaced anteriorly against the sternum",
+      "No movement of the apex"
+    ],
+    "answer": "B",
+    "detail": "Left ventricular enlargement is described as a \"let down,\" where the apex is tilted down and out."
+  },
+  {
+    "number": 82,
+    "question": "Right Ventricular enlargement on CXR is associated with which apex tilt?",
+    "choices": [
+      "Up and Out",
+      "Down and Out",
+      "Directly posterior",
+      "Medial shift",
+      "The apex does not move"
+    ],
+    "answer": "A",
+    "detail": "Right ventricular enlargement characteristically tilts the cardiac apex up and out."
+  },
+  {
+    "number": 83,
+    "question": "\"Bright is Dead\" is a mnemonic used to describe which MRI sequence?",
+    "choices": [
+      "T2 weighted imaging",
+      "First-pass perfusion",
+      "Late Gadolinium Enhancement (LGE)",
+      "Cine imaging",
+      "Phase contrast imaging"
+    ],
+    "answer": "C",
+    "detail": "The mnemonic \"Bright is Dead\" refers to Late Gadolinium Enhancement, where dead or scarred tissue appears bright."
+  },
+  {
+    "number": 84,
+    "question": "Microvascular obstruction (MVO) is characteristically NOT seen in which phase of an MI?",
+    "choices": [
+      "Acute MI",
+      "Subacute MI",
+      "Chronic Infarct / Scar",
+      "Any phase where there is a clot",
+      "It is seen in all phases"
+    ],
+    "answer": "C",
+    "detail": "MVO is an acute/subacute finding and is not seen in chronic infarcts because those areas have turned to scar."
+  },
+  {
+    "number": 85,
+    "question": "\"Soft Tissue Attenuation\" from breast tissue on nuclear stress imaging typically causes a defect in which wall?",
+    "choices": [
+      "Inferior wall",
+      "Septal wall",
+      "Anterior wall",
+      "Lateral wall",
+      "Apex"
+    ],
+    "answer": "C",
+    "detail": "Breast tissue attenuation in nuclear stress imaging typically results in a false perfusion defect in the anterior wall."
+  },
+  {
+    "number": 86,
+    "question": "A coronary artery aneurysm is defined by a vessel diameter greater than what factor of the normal lumen?",
+    "choices": [
+      "1.1x",
+      "1.25x",
+      "1.5x",
+      "2.0x",
+      "3.0x"
+    ],
+    "answer": "C",
+    "detail": "An aneurysm in a coronary artery is defined by a diameter exceeding 1.5 times the normal lumen."
+  },
+  {
+    "number": 87,
+    "question": "What is the most common cause of coronary artery aneurysms in children?",
+    "choices": [
+      "Atherosclerosis",
+      "Syphilis",
+      "Kawasaki Disease",
+      "Iatrogenic (cardiac cath)",
+      "Polyarteritis nodosa"
+    ],
+    "answer": "C",
+    "detail": "Kawasaki disease is cited as the most common cause of coronary aneurysms in children."
+  },
+  {
+    "number": 88,
+    "question": "\"Myocardial Bridging\" most commonly involves which coronary vessel?",
+    "choices": [
+      "Right Coronary Artery (RCA)",
+      "Left Circumflex (LCX)",
+      "Left Anterior Descending (LAD)",
+      "Posterior Descending Artery (PDA)",
+      "Left Main"
+    ],
+    "answer": "C",
+    "detail": "Myocardial bridging, which is an intramyocardial course of the vessel, most frequently involves the mid-portion of the LAD."
+  },
+  {
+    "number": 89,
+    "question": "Which coronary artery anomaly is considered \"malignant\" and is a common cause of sudden cardiac death in young patients?",
+    "choices": [
+      "High take-off of the coronary",
+      "RCA from the Left Cusp",
+      "LCA from the Right Cusp with an interarterial course",
+      "Myocardial bridging",
+      "Coronary fistula"
+    ],
+    "answer": "C",
+    "detail": "An LCA arising from the right coronary sinus that courses between the aorta and pulmonary artery is considered high-risk and malignant."
+  },
+  {
+    "number": 90,
+    "question": "ALCAPA (Anomalous Left Coronary from the Pulmonary Artery) is associated with \"Steal Syndrome,\" which is defined as:",
+    "choices": [
+      "High pressure in the PA forcing blood into the LCA",
+      "Retrograde flow in the LCA as pulmonary pressure decreases",
+      "Shunting of blood from the RA to the LA",
+      "Embolization of clot from the PA into the LCA",
+      "Blood being \"stolen\" from the aorta by the LCA"
+    ],
+    "answer": "B",
+    "detail": "Steal syndrome in ALCAPA describes the reversed (retrograde) flow of blood in the LCA as pulmonary circulation pressure decreases."
+  },
+  {
+    "number": 91,
+    "question": "In approximately 85% of the population, which vessel is the dominant coronary artery?",
+    "choices": [
+      "Left Main",
+      "LAD",
+      "RCA",
+      "LCX",
+      "Co-dominant"
+    ],
+    "answer": "C",
+    "detail": "The RCA is the dominant coronary artery in approximately 85% of the population."
+  },
+  {
+    "number": 92,
+    "question": "The AV node is supplied by the RCA in what percentage of the population?",
+    "choices": [
+      "10%",
+      "25%",
+      "60%",
+      "90%",
+      "100%"
+    ],
+    "answer": "D",
+    "detail": "The RCA provides blood supply to the AV node in 90% of people."
+  },
+  {
+    "number": 93,
+    "question": "Which artery is typically the first branch of the RCA and supplies the ventricle outflow tract?",
+    "choices": [
+      "SA nodal branch",
+      "Conus artery",
+      "Acute marginal artery",
+      "Posterior descending artery",
+      "Diagonal branch"
+    ],
+    "answer": "B",
+    "detail": "The conus artery is the first branch of the RCA in about 50% of people and supplies the ventricular outflow tract."
+  },
+  {
+    "number": 94,
+    "question": "The mnemonic \"LAD for D\" refers to which coronary branches?",
+    "choices": [
+      "Septal branches",
+      "Obtuse marginal branches",
+      "Diagonal branches",
+      "Acute marginal branches",
+      "Nodal branches"
+    ],
+    "answer": "C",
+    "detail": "The mnemonic \"LAD for D\" indicates that diagonal branches arise from the Left Anterior Descending artery."
+  },
+  {
+    "number": 95,
+    "question": "For a Coronary CT scan, what is the preferred ideal heart rate to reduce motion-related artifacts?",
+    "choices": [
+      " < 40 bpm",
+      " < 60 bpm",
+      " < 80 bpm",
+      " < 100 bpm",
+      " < 120 bpm"
+    ],
+    "answer": "B",
+    "detail": "A slow heart rate under 60 beats per minute is preferred to minimize motion-related artifacts during a Coronary CT."
+  },
+  {
+    "number": 96,
+    "question": "Which type of Cardiac CT gating is required for the evaluation of the mitral and tricuspid valves?",
+    "choices": [
+      "Prospective gating",
+      "Step and Shoot gating",
+      "Retrospective gating",
+      "Non-gated CT",
+      "End-systolic gating"
+    ],
+    "answer": "C",
+    "detail": "Retrospective gating, which collects data throughout the cardiac cycle, is required for the evaluation of cardiac valves."
+  },
+  {
+    "number": 97,
+    "question": "Nitroglycerine is administered during a Cardiac CT for what primary purpose?",
+    "choices": [
+      "To slow the heart rate",
+      "To prevent contrast reactions",
+      "To dilate the coronary arteries",
+      "To increase systemic blood pressure",
+      "To enhance the myocardium"
+    ],
+    "answer": "C",
+    "detail": "Nitroglycerine is given to dilate the coronary arteries so they can be better visualized on CT."
+  },
+  {
+    "number": 98,
+    "question": "A \"high Agatston score (>160)\" is used to suggest increased risk for:",
+    "choices": [
+      "Valve failure",
+      "Aortic dissection",
+      "Major Adverse Cardiac Events (MACE)",
+      "Myocarditis",
+      "Pericardial effusion"
+    ],
+    "answer": "C",
+    "detail": "A high Agatston score (>160), reflecting significant vessel calcification, suggests an increased risk for MACE."
+  },
+  {
+    "number": 99,
+    "question": "Use of Phosphodiesterase inhibitors (\"boner pills\") is an absolute contraindication for the administration of:",
+    "choices": [
+      "Beta blockers",
+      "Contrast material",
+      "Nitroglycerine",
+      "Gadolinium",
+      "Adenosine"
+    ],
+    "answer": "C",
+    "detail": "The use of phosphodiesterase inhibitors is an absolute contraindication for administering nitroglycerine."
+  },
+  {
+    "number": 100,
+    "question": "Which type of ventricular aneurysm is characterized by having a \"narrow neck\"?",
+    "choices": [
+      "True Aneurysm",
+      "False (Pseudo) Aneurysm",
+      "Mycotic Aneurysm",
+      "Coronary Aneurysm",
+      "Infantile Aneurysm"
+    ],
+    "answer": "B",
+    "detail": "A false (pseudo) aneurysm represents a contained rupture and is characterized by a narrow neck compared to its body."
+  }
+]
+  
+}

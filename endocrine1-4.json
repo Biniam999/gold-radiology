@@ -1,0 +1,1304 @@
+{
+    "questions": 
+     [
+    {
+      "number": 1,
+      "question": "The adrenal glands are located in which retroperitoneal space?",
+      "choices": [
+        "Anterior pararenal space",
+        "Perirenal space",
+        "Posterior pararenal space",
+        "Retromesenteric plane",
+        "Retrorenal plane"
+      ],
+      "answer": "B",
+      "detail": "The perirenal space contains the kidneys, proximal ureters, and adrenals."
+    },
+    {
+      "number": 2,
+      "question": "Which artery is NOT one of the three primary sources of arterial blood to the adrenal gland?",
+      "choices": [
+        "Superior adrenal artery (from inferior phrenic)",
+        "Middle adrenal artery (from aorta)",
+        "Inferior adrenal artery (from renal artery)",
+        "Celiac adrenal artery"
+      ],
+      "answer": "D",
+      "detail": "Each gland gets blood from three arteries: superior (from inferior phrenic), middle (from aorta), and inferior (from renal artery)."
+    },
+    {
+      "number": 3,
+      "question": "The right adrenal vein drains directly into the IVC, while the left adrenal vein typically drains into the:",
+      "choices": [
+        "Aorta",
+        "Left renal vein",
+        "Splenic vein",
+        "Left iliac vein",
+        "Portal vein"
+      ],
+      "answer": "B",
+      "detail": "Venous drainage is via one main vein: the right into the IVC and the left into the left renal vein."
+    },
+    {
+      "number": 4,
+      "question": "Which zone of the adrenal cortex is responsible for producing Aldosterone?",
+      "choices": [
+        "Zona Glomerulosa",
+        "Zona Fasciculata",
+        "Zona Reticularis",
+        "Medulla",
+        "Anterior stroma"
+      ],
+      "answer": "A",
+      "detail": "The Zona Glomerulosa makes Aldosterone; prolonged stimulation here leads to hypertrophy."
+    },
+    {
+      "number": 5,
+      "question": "The Zona Fasciculata is the layer of the adrenal cortex that produces:",
+      "choices": [
+        "Aldosterone",
+        "Cortisol",
+        "Androgens",
+        "Epinephrine",
+        "Insulin"
+      ],
+      "answer": "B",
+      "detail": "The Zona Fasciculata makes Cortisol."
+    },
+    {
+      "number": 6,
+      "question": "Which part of the adrenal gland is responsible for making catecholamines (e.g., Epinephrine)?",
+      "choices": [
+        "Zona Glomerulosa",
+        "Zona Fasciculata",
+        "Zona Reticularis",
+        "Medulla",
+        "Capsule"
+      ],
+      "answer": "D",
+      "detail": "The medulla makes catecholamines."
+    },
+    {
+      "number": 7,
+      "question": "In the third trimester of pregnancy, the relative size of the adrenal gland compared to the kidney is:",
+      "choices": [
+        "Half the size",
+        "1/3 the size",
+        "1/13 the size",
+        "Twice the size",
+        "The same size"
+      ],
+      "answer": "B",
+      "detail": "In the 3rd Trimester the adrenal is 1/3 the size of the kidney; by adulthood, it is 1/13 the size."
+    },
+    {
+      "number": 8,
+      "question": "On neonatal ultrasound, the adrenal gland has a 'triple stripe' or 'Oreo' appearance due to:",
+      "choices": [
+        "Hypoechoic cortex and hyperechoic medulla",
+        "Hyperechoic cortex and hypoechoic medulla",
+        "Anechoic appearance throughout",
+        "Total calcification",
+        "Macroscopic fat"
+      ],
+      "answer": "A",
+      "detail": "The triple stripe appearance consists of a hypoechoic cortex and a hyperechoic medulla."
+    },
+    {
+      "number": 9,
+      "question": "An elongated flat 'Pancake' or 'Discoid' adrenal gland is a sign of:",
+      "choices": [
+        "Adrenal hemorrhage",
+        "Congenital absence of the kidney",
+        "Horseshoe kidney",
+        "Neuroblastoma",
+        "Adrenal carcinoma"
+      ],
+      "answer": "B",
+      "detail": "An elongated flat (pancake) adrenal is seen with congenital absence of the kidney."
+    },
+    {
+      "number": 10,
+      "question": "A 'Horseshoe Adrenal' occurs when the limbs of the glands fuse in the midline and is associated with:",
+      "choices": [
+        "Asplenia (Right Isomerism)",
+        "Polysplenia (Left Isomerism)",
+        "Turner Syndrome",
+        "VHL",
+        "Neuroblastoma"
+      ],
+      "answer": "A",
+      "detail": "Horseshoe adrenal glands are associated with asplenia (right isomerism)."
+    },
+    {
+      "number": 11,
+      "question": "What is the most common cause of an adrenal 'mass' in a neonate?",
+      "choices": [
+        "Neuroblastoma",
+        "Adrenal Hemorrhage",
+        "Adrenal Adenoma",
+        "Pheochromocytoma",
+        "Wilms tumor"
+      ],
+      "answer": "B",
+      "detail": "Adrenal hemorrhage is the most common cause of an adrenal mass in a neonate."
+    },
+    {
+      "number": 12,
+      "question": "In the setting of neonatal adrenal hemorrhage, 70% of cases occur on which side?",
+      "choices": [
+        "Left side",
+        "Right side",
+        "Both sides equally",
+        "Only in female infants",
+        "It is never unilateral"
+      ],
+      "answer": "B",
+      "detail": "70% of cases occur on the right due to compression between the liver and kidney."
+    },
+    {
+      "number": 13,
+      "question": "On ultrasound, a neonatal adrenal hemorrhage characteristically appears:",
+      "choices": [
+        "Solid and hypervascular",
+        "Anechoic and avascular",
+        "Calcified immediately",
+        "Fatty",
+        "Identical to a neuroblastoma"
+      ],
+      "answer": "B",
+      "detail": "Hemorrhage should be anechoic and avascular."
+    },
+    {
+      "number": 14,
+      "question": "What is the 'Classic Next Step' to differentiate neonatal adrenal hemorrhage from a cystic neuroblastoma?",
+      "choices": [
+        "Immediate biopsy",
+        "Serial ultrasounds",
+        "PET scan",
+        "Radical nephrectomy",
+        "Bone marrow aspiration"
+      ],
+      "answer": "B",
+      "detail": "Serial ultrasounds can differentiate them: hemorrhage will get smaller over time; cancer will not."
+    },
+    {
+      "number": 15,
+      "question": "'Waterhouse-Friderichsen Syndrome' refers to adrenal hemorrhage in the setting of:",
+      "choices": [
+        "Birth trauma",
+        "Fulminant meningitis (Neisseria)",
+        "Lung cancer",
+        "Liver failure",
+        "Diabetes"
+      ],
+      "answer": "B",
+      "detail": "This syndrome involves adrenal hemorrhage during fulminant meningitis."
+    },
+    {
+      "number": 16,
+      "question": "Adrenal Hyperplasia on ultrasound is described as a 'big adrenal' that looks like:",
+      "choices": [
+        "A star",
+        "A brain (wrinkled surface with gyri/sulci)",
+        "An Oreo",
+        "A pancake",
+        "A horseshoe"
+      ],
+      "answer": "B",
+      "detail": "Hyperplasia classically shows a wrinkled surface ('looks like a brain')."
+    },
+    {
+      "number": 17,
+      "question": "Congenital adrenal hypertrophy is caused by 21-hydroxylase deficiency in > 90% of cases and manifests as:",
+      "choices": [
+        "Genital ambiguity in girls or salt-losing pathology in boys",
+        "Hypertension and obesity",
+        "Precocious puberty only",
+        "Immediate renal failure",
+        "Absence of the pituitary"
+      ],
+      "answer": "A",
+      "detail": "21-Hydroxylase deficiency results in genital ambiguity or salt-losing."
+    },
+    {
+      "number": 18,
+      "question": "The association of 'Bilateral Solid Testicular Masses' and 'Congenital Adrenal Hyperplasia' points to:",
+      "choices": [
+        "Seminoma",
+        "Adrenal Rests",
+        "Lymphoma",
+        "Leydig cell tumor",
+        "Sarcoidosis"
+      ],
+      "answer": "B",
+      "detail": "Bilateral testicular masses + CAH = Adrenal Rests."
+    },
+    {
+      "number": 19,
+      "question": "'Cushing Disease' is specifically defined as an overproduction of ACTH caused by:",
+      "choices": [
+        "An adrenal adenoma",
+        "A pituitary adenoma",
+        "Small cell lung cancer",
+        "Chronic steroid use",
+        "A renal tumor"
+      ],
+      "answer": "B",
+      "detail": "Cushing Disease is overproduction of ACTH by a pituitary adenoma."
+    },
+    {
+      "number": 20,
+      "question": "Which of the following is a classic 'Adrenal Mass Mimic' in a neonate?",
+      "choices": [
+        "Normal spleen",
+        "Infradiaphragmatic extralobar sequestration",
+        "Splenic artery aneurysm",
+        "Gastric diverticulum",
+        "Pancreatic tail"
+      ],
+      "answer": "B",
+      "detail": "Infradiaphragmatic extralobar sequestration is a classic mimic of an adrenal mass."
+    },
+    {
+      "number": 21,
+      "question": "Adrenal Adenomas are the most common adrenal tumor; what is the Hounsfield Unit (HU) threshold on non-contrast CT to 'call it an adenoma'?",
+      "choices": [
+        "< 0 HU",
+        "< 10 HU",
+        "< 20 HU",
+        "> 100 HU",
+        "Adenomas are always fatty on CT"
+      ],
+      "answer": "B",
+      "detail": "On non-contrast CT, an adrenal mass measuring less than 10 HU is diagnostic for adenoma."
+    },
+    {
+      "number": 22,
+      "question": "To calculate Absolute Washout for an adrenal mass, the formula is:",
+      "choices": [
+        "(Enhanced - Delayed) / Enhanced x 100",
+        "(Enhanced - Delayed) / (Enhanced - Unenhanced) x 100",
+        "(Delayed - Unenhanced) / Enhanced x 100",
+        "(Enhanced + Delayed) / 2",
+        "It is based on MRI signal only"
+      ],
+      "answer": "B",
+      "detail": "Absolute Washout uses the formula: (Enhanced - Delayed) / (Enhanced - Unenhanced) x 100."
+    },
+    {
+      "number": 23,
+      "question": "An Absolute Washout value of greater than what percentage is diagnostic for an adrenal adenoma?",
+      "choices": [
+        "10%",
+        "40%",
+        "50%",
+        "60%",
+        "90%"
+      ],
+      "answer": "D",
+      "detail": "Absolute Washout > 60% = Adenoma."
+    },
+    {
+      "number": 24,
+      "question": "A Relative Washout value of greater than what percentage is diagnostic for an adrenal adenoma?",
+      "choices": [
+        "10%",
+        "40%",
+        "60%",
+        "80%",
+        "100%"
+      ],
+      "answer": "B",
+      "detail": "Relative Washout > 40% = Adenoma."
+    },
+    {
+      "number": 25,
+      "question": "Which hypervascular metastasis can mimic adenoma washout and should be suspected if portal venous phase HU > 120?",
+      "choices": [
+        "Lung cancer",
+        "Renal Cell Carcinoma (RCC) or HCC",
+        "Breast cancer",
+        "Lymphoma",
+        "Colon cancer"
+      ],
+      "answer": "B",
+      "detail": "Hypervascular mets (RCC/HCC) can mimic washout; look for HU > 120 on portal venous phase."
+    },
+    {
+      "number": 26,
+      "question": "On MRI, the hallmark of an adrenal adenoma is:",
+      "choices": [
+        "T2 brightness",
+        "Signal drop-out on Out-of-Phase T1 imaging",
+        "Intense enhancement with no washout",
+        "Presence of teeth",
+        "Restricted diffusion"
+      ],
+      "answer": "B",
+      "detail": "Adenomas show signal drop-out on In and Out-of-Phase T1."
+    },
+    {
+      "number": 27,
+      "question": "'Conn's Syndrome' is characterized by excessive aldosterone production and is most commonly caused by:",
+      "choices": [
+        "Adrenal hyperplasia",
+        "A benign adenoma (70%)",
+        "Cortical carcinoma",
+        "Pheochromocytoma",
+        "Small cell lung cancer"
+      ],
+      "answer": "B",
+      "detail": "Conn's Syndrome is most commonly caused by a benign adenoma (70%)."
+    },
+    {
+      "number": 28,
+      "question": "'Pheochromocytomas' are characteristically associated with which MRI signal finding?",
+      "choices": [
+        "T1 bright rim",
+        "T2 bright ('Light Bulb Bright')",
+        "T1 and T2 dark",
+        "Signal drop-out on out-of-phase",
+        "Anechoic"
+      ],
+      "answer": "B",
+      "detail": "Pheos are characteristically T2 bright."
+    },
+    {
+      "number": 29,
+      "question": "The extra-adrenal location for a pheochromocytoma, typically found at the level of the IMA, is the:",
+      "choices": [
+        "Organ of Gerota",
+        "Organ of Zuckerkandl",
+        "Meckel cave",
+        "Tuber cinereum",
+        "Verumontanum"
+      ],
+      "answer": "B",
+      "detail": "Extra-adrenal pheos are often at the Organ of Zuckerkandl (near the IMA)."
+    },
+    {
+      "number": 30,
+      "question": "According to the 'Rule of 10s' for pheochromocytomas, what percentage are bilateral?",
+      "choices": [
+        "1%",
+        "10%",
+        "50%",
+        "70%",
+        "90%"
+      ],
+      "answer": "B",
+      "detail": "The Rule of 10s states that 10% are extra-adrenal, 10% bilateral, 10% in children, and 10% hereditary."
+    },
+    {
+      "number": 31,
+      "question": "Which genetic syndrome is MOST associated with multiple and bilateral pheochromocytomas?",
+      "choices": [
+        "VHL",
+        "MEN 2 (subtypes 2a and 2b)",
+        "Tuberous Sclerosis",
+        "Neurofibromatosis type 1",
+        "Turner Syndrome"
+      ],
+      "answer": "B",
+      "detail": "MEN 2 is associated with multiple and bilateral pheochromocytomas in 50% of patients."
+    },
+    {
+      "number": 32,
+      "question": "The 'Carney Triad' includes extra-adrenal pheochromocytoma, GIST, and:",
+      "choices": [
+        "Cardiac Myxoma",
+        "Pulmonary Chondroma (Hamartoma)",
+        "Skin pigmentation",
+        "Renal cell carcinoma",
+        "Medullary thyroid cancer"
+      ],
+      "answer": "B",
+      "detail": "The Carney Triad consists of Extra-Adrenal Pheo, GIST, and Pulmonary Chondroma."
+    },
+    {
+      "number": 33,
+      "question": "An adrenal mass that contains macroscopic 'bulk fat' on CT is a:",
+      "choices": [
+        "Adenoma",
+        "Myelolipoma",
+        "Pheochromocytoma",
+        "Cortical Carcinoma",
+        "Abscess"
+      ],
+      "answer": "B",
+      "detail": "A Myelolipoma is a benign tumor that contains bulk fat."
+    },
+    {
+      "number": 34,
+      "question": "Adrenal Myelolipomas can produce a 'speed displacement artifact' on ultrasound, making the diaphragm appear:",
+      "choices": [
+        "Thickened",
+        "Discontinuous or broken",
+        "Calcified",
+        "Elevated",
+        "Bright"
+      ],
+      "answer": "B",
+      "detail": "Fat causes sound to travel slower, creating a discontinuous diaphragm artifact."
+    },
+    {
+      "number": 35,
+      "question": "Adrenal 'Cortical Carcinoma' is typically suspected when a mass is:",
+      "choices": [
+        "Small (< 1 cm)",
+        "LARGE (4 cm - 10 cm) with central necrosis",
+        "Purely fatty",
+        "T2 dark",
+        "Asymptomatic in infants"
+      ],
+      "answer": "B",
+      "detail": "Cortical Carcinoma is typically LARGE (4-10 cm) and often has central necrosis."
+    },
+    {
+      "number": 36,
+      "question": "'Wolman Disease' is a total Aunt Minnie described as:",
+      "choices": [
+        "Bilateral shrunken calcified kidneys",
+        "Bilateral enlarged calcified adrenals",
+        "Massive liver cysts",
+        "T-shaped uterus",
+        "Absent pituitary"
+      ],
+      "answer": "B",
+      "detail": "Wolman Disease is a fat metabolism error with bilateral enlarged calcified adrenals."
+    },
+    {
+      "number": 37,
+      "question": "Adrenal metastases are common; which imaging finding helps distinguish them from lipid-poor adenomas?",
+      "choices": [
+        "High portal venous HU (> 120)",
+        "Presence of bulk fat",
+        "T2 brightness",
+        "Total lack of enhancement",
+        "Size < 1 cm"
+      ],
+      "answer": "A",
+      "detail": "Portal venous phase HU > 120 suggests a met or pheo rather than an adenoma."
+    },
+    {
+      "number": 38,
+      "question": "Which nuclear medicine agent is first-line for evaluating neuroblastoma and pheochromocytoma?",
+      "choices": [
+        "Octreotide",
+        "MIBG (I-123 or I-131)",
+        "Sulfur Colloid",
+        "Tc-MDP",
+        "FDG-PET"
+      ],
+      "answer": "B",
+      "detail": "MIBG is first-line for pheo, paraganglioma, and neuroblastoma."
+    },
+    {
+      "number": 39,
+      "question": "Before performing an MIBG scan, which organ must be blocked to prevent unintended radiation?",
+      "choices": [
+        "Kidney",
+        "Thyroid Gland (using Lugol's or SSKI)",
+        "Liver",
+        "Bladder",
+        "Heart"
+      ],
+      "answer": "B",
+      "detail": "You must block the thyroid prior to MIBG."
+    },
+    {
+      "number": 40,
+      "question": "If you see a 'skeleton' (bone uptake) on an MIBG scan, it indicates:",
+      "choices": [
+        "Normal variant",
+        "Diffuse bone metastases",
+        "High renal function",
+        "Paget's disease",
+        "Osteoporosis"
+      ],
+      "answer": "B",
+      "detail": "Skeleton on MIBG = Diffuse bone mets."
+    },
+    {
+      "number": 41,
+      "question": "Multiple Endocrine Neoplasia (MEN) 1 is associated with the '3 Ps': Pituitary, Pancreas, and:",
+      "choices": [
+        "Parathyroid Hyperplasia",
+        "Pheochromocytoma",
+        "Papillary thyroid cancer",
+        "Prostate",
+        "Penis"
+      ],
+      "answer": "A",
+      "detail": "MEN 1 = 3 Ps (Pituitary, Parathyroid, and Pancreas)."
+    },
+    {
+      "number": 42,
+      "question": "Which pancreatic tumor is most commonly seen in MEN 1?",
+      "choices": [
+        "Insulinoma",
+        "Gastrinoma (Zollinger-Ellison)",
+        "Glucagonoma",
+        "Somatostatinoma",
+        "Adenocarcinoma"
+      ],
+      "answer": "B",
+      "detail": "Gastrinoma is the most common pancreatic/duodenal tumor in MEN 1."
+    },
+    {
+      "number": 43,
+      "question": "MEN 2a is associated with Medullary Thyroid Cancer, Pheochromocytoma, and:",
+      "choices": [
+        "Pituitary adenoma",
+        "Parathyroid Hyperplasia",
+        "Mucosal Neuroma",
+        "Marfanoid habitus",
+        "Ganglioneuroma"
+      ],
+      "answer": "B",
+      "detail": "MEN 2a = 1M, 2Ps (Medullary Thyroid Ca, Pheochromocytoma, Parathyroid)."
+    },
+    {
+      "number": 44,
+      "question": "MEN 2b is distinguished from 2a by the LACK of parathyroid involvement and the presence of:",
+      "choices": [
+        "Mucosal Neuromas and Marfanoid habitus",
+        "Pituitary adenoma",
+        "Insulinoma",
+        "Splenic infarcts",
+        "Renal cysts"
+      ],
+      "answer": "A",
+      "detail": "MEN 2b features Medullary Thyroid Ca, Pheo, Mucosal Neuroma, and Marfanoid habitus."
+    },
+    {
+      "number": 45,
+      "question": "'Carcinoid Syndrome' (flushing, diarrhea, right heart failure) typically does NOT occur until:",
+      "choices": [
+        "The tumor reaches 5 cm",
+        "The lesion metastasizes to the liver",
+        "The patient drinks alcohol",
+        "The appendix is removed",
+        "The kidneys fail"
+      ],
+      "answer": "B",
+      "detail": "The syndrome does not occur until liver mets are present (the liver normally metabolizes serotonin)."
+    },
+    {
+      "number": 46,
+      "question": "What is the 'most common' primary location for a GI carcinoid tumor?",
+      "choices": [
+        "Stomach",
+        "Distal Ileum (older literature says appendix)",
+        "Descending colon",
+        "Rectum",
+        "Esophagus"
+      ],
+      "answer": "B",
+      "detail": "The distal ileum is the most common primary site."
+    },
+    {
+      "number": 47,
+      "question": "The lab test used to screen for Carcinoid Syndrome is:",
+      "choices": [
+        "Serum PSA",
+        "Urine 5-HIAA",
+        "Serum Calcitonin",
+        "Plasma Metanephrines",
+        "Serum AFP"
+      ],
+      "answer": "B",
+      "detail": "Urine 5-HIAA is the test for Carcinoid."
+    },
+    {
+      "number": 48,
+      "question": "Systemic serotonin from Carcinoid Syndrome characteristically degrades which heart valve?",
+      "choices": [
+        "Mitral",
+        "Tricuspid (Tricuspid Regurgitation)",
+        "Aortic",
+        "Pulmonary",
+        "All valves equally"
+      ],
+      "answer": "B",
+      "detail": "Carcinoid classically causes right-sided valve disease, specifically tricuspid regurgitation."
+    },
+    {
+      "number": 49,
+      "question": "Von Hippel-Lindau (VHL) syndrome is associated with hemangioblastomas (retina/cord), RCC, and:",
+      "choices": [
+        "Pheochromocytoma (10% risk)",
+        "Medullary thyroid cancer",
+        "Pituitary adenoma",
+        "Gastrinoma",
+        "Marfanoid habitus"
+      ],
+      "answer": "A",
+      "detail": "VHL patients have a 10% risk for Pheochromocytoma."
+    },
+    {
+      "number": 50,
+      "question": "'Tuberous Sclerosis' features a clinical triad of Facial Angiofibroma, Seizures, and:",
+      "choices": [
+        "Mental Retardation (Retard Brain)",
+        "Lung cancer",
+        "Medullary thyroid cancer",
+        "Gallstones",
+        "Scoliosis"
+      ],
+      "answer": "A",
+      "detail": "The TS triad is facial angiofibromas, seizures, and mental retardation."
+    },
+    {
+      "number": 51,
+      "question": "Which endocrine tumor is a hallmark of MEN 2 (both a and b) and occurs in 100% of MEN 2a cases?",
+      "choices": [
+        "Papillary thyroid cancer",
+        "Medullary Thyroid Cancer",
+        "Follicular thyroid cancer",
+        "Anaplastic thyroid cancer",
+        "Hurthle cell tumor"
+      ],
+      "answer": "B",
+      "detail": "Medullary Thyroid Cancer is a constant in MEN 2."
+    },
+    {
+      "number": 52,
+      "question": "'Intestinal Ganglioneuromas' are associated with which syndrome?",
+      "choices": [
+        "MEN 1",
+        "MEN 2a",
+        "MEN 2b",
+        "VHL",
+        "NF-1"
+      ],
+      "answer": "C",
+      "detail": "MEN 2b is associated with intestinal ganglioneuromas."
+    },
+    {
+      "number": 53,
+      "question": "Elevated levels of Calcitonin in MEN 2 can cause symptoms similar to Carcinoid syndrome, such as:",
+      "choices": [
+        "Flushing and diarrhea",
+        "Jaundice and gallstones",
+        "Hypertension and weight gain",
+        "Bradycardia and cold intolerance",
+        "Hair loss"
+      ],
+      "answer": "A",
+      "detail": "Elevated calcitonin in Medullary CA causes flushing and diarrhea."
+    },
+    {
+      "number": 54,
+      "question": "In MEN 1, what is the most common PITUITARY tumor?",
+      "choices": [
+        "GH secreting tumor",
+        "Prolactinoma",
+        "ACTH secreting tumor",
+        "TSH secreting tumor",
+        "Non-functional tumor"
+      ],
+      "answer": "B",
+      "detail": "Prolactinoma is the most common pituitary tumor in MEN 1."
+    },
+    {
+      "number": 55,
+      "question": "Which syndrome features multiple head and neck paragangliomas and a risk for pheochromocytoma?",
+      "choices": [
+        "PGL Syndrome",
+        "MEN 1",
+        "VHL",
+        "Tuberous Sclerosis",
+        "Li-Fraumeni"
+      ],
+      "answer": "A",
+      "detail": "PGL Syndrome involves multiple head and neck paragangliomas."
+    },
+    {
+      "number": 56,
+      "question": "'Zinner Syndrome' links male infertility with renal agenesis and:",
+      "choices": [
+        "Ipsilateral seminal vesicle cyst",
+        "Pituitary adenoma",
+        "Adrenal rest",
+        "Polycystic kidneys",
+        "Fibroids"
+      ],
+      "answer": "A",
+      "detail": "Zinner Syndrome = renal agenesis + seminal vesicle cyst."
+    },
+    {
+      "number": 57,
+      "question": "'Kallman Syndrome' is a rare cause of male infertility associated with:",
+      "choices": [
+        "Anosmia (can't smell)",
+        "Blindness",
+        "Deafness",
+        "Giantism",
+        "Scoliosis"
+      ],
+      "answer": "A",
+      "detail": "Kallman Syndrome = can't smell + infertile."
+    },
+    {
+      "number": 58,
+      "question": "'Klinefelter Syndrome' (47XXY) features tall stature, infertility, and a high risk for:",
+      "choices": [
+        "Mediastinal Germ Cell Tumors",
+        "Endometrial cancer",
+        "Renal agenesis",
+        "Splenic infarcts",
+        "Brain tumors"
+      ],
+      "answer": "A",
+      "detail": "Klinefelter patients have a 300x risk for GCTs in their chest."
+    },
+    {
+      "number": 59,
+      "question": "In the 'Adrenal Ultrasound Cases' strategy, if a mass is big and does NOT get smaller over time, the diagnosis is:",
+      "choices": [
+        "Hemorrhage",
+        "Neuroblastoma",
+        "Hyperplasia",
+        "Adrenal cyst",
+        "Normal variant"
+      ],
+      "answer": "B",
+      "detail": "Neuroblastoma is big and does NOT get smaller over time (unlike hemorrhage)."
+    },
+    {
+      "number": 60,
+      "question": "The 'Oreo' sign of the normal neonatal adrenal gland is lost in which condition?",
+      "choices": [
+        "Hyperplasia (whole thing looks like cortex)",
+        "Adrenal cyst",
+        "Normal development",
+        "Pheochromocytoma",
+        "Adrenal met"
+      ],
+      "answer": "A",
+      "detail": "In Hyperplasia, you may lose the central hyperechoic stripe (Oreo filling)."
+    },
+    {
+      "number": 61,
+      "question": "The thyroid gland descends from which anatomical landmark during development?",
+      "choices": [
+        "Pharyngeal pouch",
+        "Foramen Cecum (base of the tongue)",
+        "Sella turcica",
+        "Hyoid bone",
+        "Epiglottis"
+      ],
+      "answer": "B",
+      "detail": "The thyroid descends from the foramen cecum at the base of the tongue."
+    },
+    {
+      "number": 62,
+      "question": "The 'Zuckerkandl Tubercle' is a posterior nodular extension of the thyroid that helps locate the:",
+      "choices": [
+        "Recurrent laryngeal nerve",
+        "Internal carotid artery",
+        "Vagus nerve",
+        "Parathyroid gland",
+        "Phrenic nerve"
+      ],
+      "answer": "A",
+      "detail": "It helps with locating the recurrent laryngeal nerve (which is medial to it)."
+    },
+    {
+      "number": 63,
+      "question": "Which imaging finding is considered the 'hallmark' or buzzword for Papillary Thyroid Cancer?",
+      "choices": [
+        "Bulk fat",
+        "Microcalcifications",
+        "Central scar",
+        "T2 darkness",
+        "Comet-tail artifact"
+      ],
+      "answer": "B",
+      "detail": "Microcalcifications are the hallmark of papillary CA."
+    },
+    {
+      "number": 64,
+      "question": "'Comet Tail' artifact seen within a thyroid nodule on ultrasound is characteristic of:",
+      "choices": [
+        "Papillary cancer",
+        "Colloid Nodules (benign)",
+        "Medullary cancer",
+        "Graves disease",
+        "Hashimotos"
+      ],
+      "answer": "B",
+      "detail": "'Comet Tail' artifact is seen in colloid nodules."
+    },
+    {
+      "number": 65,
+      "question": "A thyroid nodule that is 'Cold' on an I-123 scan has what percentage chance of being cancer?",
+      "choices": [
+        "1%",
+        "15%",
+        "50%",
+        "90%",
+        "0%"
+      ],
+      "answer": "B",
+      "detail": "Cold nodules have cancer about 15% of the time."
+    },
+    {
+      "number": 66,
+      "question": "'Subacute (De Quervain's) Thyroiditis' characteristically presents in a female with:",
+      "choices": [
+        "A painful gland after an upper respiratory infection",
+        "A painless gland during menopause",
+        "Multiple large cysts",
+        "A 'snowflake' appearance on CT",
+        "Immediate hypothyroidism"
+      ],
+      "answer": "A",
+      "detail": "Subacute thyroiditis features a painful gland after a cold."
+    },
+    {
+      "number": 67,
+      "question": "During the acute phase of De Quervain's Thyroiditis, radiotracer uptake (RAIU) will be:",
+      "choices": [
+        "Increased (70-80%)",
+        "Decreased",
+        "Normal",
+        "Variable based on side",
+        "Only seen in the pyramidal lobe"
+      ],
+      "answer": "B",
+      "detail": "RAIU will be decreased during the acute phase of subacute thyroiditis."
+    },
+    {
+      "number": 68,
+      "question": "'Riedel’s Thyroiditis' is an IgG4-associated disease characterized by:",
+      "choices": [
+        "Thyroid replaced by fibrous tissue (causing compression/dysphagia)",
+        "Multiple small microcysts",
+        "Intense hypervascularity ('Inferno')",
+        "High T2 signal on MRI",
+        "Association with Down syndrome"
+      ],
+      "answer": "A",
+      "detail": "Riedel's involves fibrous replacement and compression of adjacent structures."
+    },
+    {
+      "number": 69,
+      "question": "On MRI, Riedel’s Thyroiditis will appear:",
+      "choices": [
+        "T1 bright",
+        "Dark on all sequences (like a fibroma)",
+        "Cystic",
+        "Bright on T2",
+        "Calcified"
+      ],
+      "answer": "B",
+      "detail": "It will be dark on all MRI sequences."
+    },
+    {
+      "number": 70,
+      "question": "What is the most common location for ectopic thyroid tissue (90% of cases)?",
+      "choices": [
+        "Chest",
+        "Tongue base ('Lingual Thyroid')",
+        "Midline neck",
+        "Behind the esophagus",
+        "Inside the carotid sheath"
+      ],
+      "answer": "B",
+      "detail": "Lingual Thyroid (back of the tongue) is the most common."
+    },
+    {
+      "number": 71,
+      "question": "'Graves Disease' is an autoimmune condition where antibodies are directed at the:",
+      "choices": [
+        "Thyroid hormone directly",
+        "TSH receptor",
+        "Pituitary",
+        "Iodine atoms",
+        "Parathyroid glands"
+      ],
+      "answer": "B",
+      "detail": "Graves involves an antibody directed at the TSH receptor."
+    },
+    {
+      "number": 72,
+      "question": "The classic ultrasound appearance of Graves disease is an enlarged gland that is:",
+      "choices": [
+        "Shrunken and atrophic",
+        "'Inferno hot' on Doppler (intense blood flow)",
+        "Filled with 'White Knight' nodules",
+        "Calcified",
+        "Anechoic"
+      ],
+      "answer": "B",
+      "detail": "The gland is 'inferno hot' on Doppler."
+    },
+    {
+      "number": 73,
+      "question": "In Graves disease, nuclear medicine I-123 uptake values are typically:",
+      "choices": [
+        "10-20%",
+        "50-80% (High)",
+        "< 5%",
+        "Normal",
+        "Zero"
+      ],
+      "answer": "B",
+      "detail": "Uptake is typically increased (50-80%)."
+    },
+    {
+      "number": 74,
+      "question": "'Hashimoto's Thyroiditis' is the most common cause of hypothyroidism in the US and is associated with:",
+      "choices": [
+        "Increased risk of primary thyroid lymphoma",
+        "Decreased risk of cancer",
+        "Pre-tibial edema",
+        "'Light bulb bright' T2 signal",
+        "High protein diet"
+      ],
+      "answer": "A",
+      "detail": "Hashimotos has an increased risk of primary thyroid lymphoma."
+    },
+    {
+      "number": 75,
+      "question": "The 'White Knight' sign on thyroid ultrasound refers to:",
+      "choices": [
+        "Calcified papillary cancer",
+        "Uniform hyperechoic regenerative nodules in Hashimoto's",
+        "Colloid cysts",
+        "Lingual thyroid",
+        "Normal anatomy"
+      ],
+      "answer": "B",
+      "detail": "'White Knights' are uniform hyperechoic nodules seen in Hashimotos."
+    },
+    {
+      "number": 76,
+      "question": "'Delphian Nodes' are level 6 lymph nodes that, if 'sick-looking,' suggest:",
+      "choices": [
+        "Thyroid cancer",
+        "Laryngeal cancer metastasis",
+        "Normal variant of Hashimotos",
+        "Subacute thyroiditis",
+        "TB"
+      ],
+      "answer": "B",
+      "detail": "For multiple choice purposes, a sick level 6 node is a laryngeal cancer met."
+    },
+    {
+      "number": 77,
+      "question": "Thyroid cancer metastases to the brain are unique because they tend to be:",
+      "choices": [
+        "Fat-containing",
+        "Hypervascular and bleed intensely",
+        "Calcified",
+        "T2 dark",
+        "Non-enhancing"
+      ],
+      "answer": "B",
+      "detail": "Thyroid cancer is hypervascular and can bleed like stink in the brain."
+    },
+    {
+      "number": 78,
+      "question": "When thyroid cancer spreads to the lungs, the classic pattern on imaging is:",
+      "choices": [
+        "A single large mass",
+        "'Miliary' (innumerable tiny dots)",
+        "Cavitating nodules",
+        "Pleural effusion only",
+        "Air-fluid levels"
+      ],
+      "answer": "B",
+      "detail": "The classic pattern for lung mets is 'miliary'."
+    },
+    {
+      "number": 79,
+      "question": "A risk of treating diffuse lung thyroid metastases with high-dose I-131 is:",
+      "choices": [
+        "Heart failure",
+        "Pulmonary Fibrosis",
+        "Biliary atresia",
+        "Renal stones",
+        "Gastric ulcers"
+      ],
+      "answer": "B",
+      "detail": "Pulmonary fibrosis is a risk when treating diffuse lung mets with I-131."
+    },
+    {
+      "number": 80,
+      "question": "Which thyroid cancer subtype does NOT respond to I-131 therapy because it does not concentrate iodine?",
+      "choices": [
+        "Papillary",
+        "Follicular",
+        "Medullary",
+        "Hurthle Cell",
+        "All types respond well"
+      ],
+      "answer": "C",
+      "detail": "Medullary thyroid CA does NOT drink I-131."
+    },
+    {
+      "number": 81,
+      "question": "For a 'First-trimester' patient with hyperthyroidism, the recommended drug is:",
+      "choices": [
+        "Methimazole",
+        "Propylthiouracil (PTU)",
+        "Aspirin",
+        "Iodine 123",
+        "Heparin"
+      ],
+      "answer": "B",
+      "detail": "PTU is recommended during pregnancy."
+    },
+    {
+      "number": 82,
+      "question": "The 'Wolff-Chaikoff Effect' refers to:",
+      "choices": [
+        "Permanent hypothyroidism",
+        "Reduction in thyroid levels caused by ingestion of a large amount of iodine",
+        "Excessive growth of the thyroid during pregnancy",
+        "Immediate resolution of Graves symptoms",
+        "Development of thyroid lymphoma"
+      ],
+      "answer": "B",
+      "detail": "The W.C. effect is a suppression of the gland by large amounts of iodine."
+    },
+    {
+      "number": 83,
+      "question": "What is the NRC limit for residual activity before a thyroid patient can be released from the hospital?",
+      "choices": [
+        "1 mCi",
+        "33 mCi (or 7 mR/h at 1 meter)",
+        "100 mCi",
+        "200 mCi",
+        "10 mCi"
+      ],
+      "answer": "B",
+      "detail": "The number to remember is 33 mCi of residual activity."
+    },
+    {
+      "number": 84,
+      "question": "Following high-dose I-131 therapy, how long should a patient wait before getting pregnant?",
+      "choices": [
+        "1 month",
+        "6-12 months",
+        "5 years",
+        "There is no waiting period",
+        "2 weeks"
+      ],
+      "answer": "B",
+      "detail": "No getting pregnant for 6-12 months after therapy."
+    },
+    {
+      "number": 85,
+      "question": "If you see an Iodine scan with uptake in the LIVER, it is always:",
+      "choices": [
+        "Normal variant",
+        "A post-treatment scan (representing metabolized thyroid hormone)",
+        "Sign of liver failure",
+        "Metastatic disease",
+        "Free Technetium"
+      ],
+      "answer": "B",
+      "detail": "Uptake in the liver on an Iodine scan is ALWAYS a post-treatment scan."
+    },
+    {
+      "number": 86,
+      "question": "How many parathyroid glands are normally present in an adult?",
+      "choices": [
+        "2",
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "answer": "B",
+      "detail": "There are normally 4 parathyroid glands."
+    },
+    {
+      "number": 87,
+      "question": "The superior two parathyroid glands originate from which embryological structure?",
+      "choices": [
+        "3rd branchial pouch",
+        "4th branchial pouch",
+        "Thyroglossal duct",
+        "Neural crest",
+        "Heart"
+      ],
+      "answer": "B",
+      "detail": "Superior 2 are from the 4th pouch; inferior 2 are from the 3rd pouch."
+    },
+    {
+      "number": 88,
+      "question": "Which parathyroid glands are MORE likely to be in an ectopic location (e.g., in the chest)?",
+      "choices": [
+        "Superior glands",
+        "Inferior glands",
+        "Both equally",
+        "Only in men",
+        "Only in children"
+      ],
+      "answer": "B",
+      "detail": "The inferior two are more likely to be ectopic."
+    },
+    {
+      "number": 89,
+      "question": "What is the most common cause of hyperparathyroidism (90%)?",
+      "choices": [
+        "Parathyroid hyperplasia",
+        "Parathyroid Adenoma",
+        "Parathyroid Carcinoma",
+        "Multiple myeloma",
+        "Kidney failure"
+      ],
+      "answer": "B",
+      "detail": "Hyperfunctioning Adenoma (85-90%) is the leading cause."
+    },
+    {
+      "number": 90,
+      "question": "On ultrasound, a parathyroid adenoma typically appears as:",
+      "choices": [
+        "Calcified masses",
+        "Hypoechoic beans posterior to the thyroid",
+        "T1 bright nodules",
+        "Anechoic simple cysts",
+        "'Inferno hot' glands"
+      ],
+      "answer": "B",
+      "detail": "Adenomas look like hypoechoic beans."
+    },
+    {
+      "number": 91,
+      "question": "On a 4D-CT scan, a parathyroid adenoma characteristically demonstrates:",
+      "choices": [
+        "Slow, progressive enhancement",
+        "Early wash-in and delayed wash-out",
+        "No enhancement at all",
+        "Bulk fat",
+        "Popcorn calcification"
+      ],
+      "answer": "B",
+      "detail": "4D-CT shows early enhancement and delayed washout."
+    },
+    {
+      "number": 92,
+      "question": "Parathyroid Carcinoma is rare (1%) and is distinguished from an adenoma on imaging by:",
+      "choices": [
+        "Early washout",
+        "Cervical adenopathy or invasion of adjacent structures",
+        "Signal drop-out on MRI",
+        "T2 brightness",
+        "Lack of uptake on Sestamibi"
+      ],
+      "answer": "B",
+      "detail": "The only way to tell carcinoma on imaging is invasion or adenopathy."
+    },
+    {
+      "number": 93,
+      "question": "Localization of parathyroid adenomas using Tc-99m Sestamibi imaging depends on:",
+      "choices": [
+        "Glucose metabolism",
+        "Mitochondrial density and blood flow",
+        "Thyroid hormone levels",
+        "Bone remodeling",
+        "Renal excretion rate"
+      ],
+      "answer": "B",
+      "detail": "Sestamibi imaging depends on mitochondrial density and blood flow."
+    },
+    {
+      "number": 94,
+      "question": "In the 'Dual Phase' Sestamibi technique, parathyroid pathology is identified because:",
+      "choices": [
+        "It is cold early",
+        "The tracer sticks around longer (delayed uptake) while thyroid tissue washes out",
+        "It shows immediate washout",
+        "It is only seen on the 24-hour scan",
+        "It is hot on I-123"
+      ],
+      "answer": "B",
+      "detail": "Uptake remains in abnormal parathyroid on the delayed phase."
+    },
+    {
+      "number": 95,
+      "question": "Which of the following can cause a 'False Positive' on a Sestamibi parathyroid scan?",
+      "choices": [
+        "Thyroid nodules, Head and Neck cancers, or Lymphadenopathy",
+        "Simple cysts",
+        "Renal failure",
+        "Smoking",
+        "Pregnancy"
+      ],
+      "answer": "A",
+      "detail": "These three things like to 'drink' Sestamibi and mimic adenomas."
+    },
+    {
+      "number": 96,
+      "question": "In the 'Dual Tracer' technique, the second agent (e.g., I-123) is used because it:",
+      "choices": [
+        "Goes to both thyroid and parathyroid",
+        "Only goes to the thyroid (allowing for subtraction)",
+        "Only goes to the parathyroid",
+        "Labels WBCs",
+        "Highlights bone mets"
+      ],
+      "answer": "B",
+      "detail": "The second agent only goes to the thyroid."
+    },
+    {
+      "number": 97,
+      "question": "Successful surgical treatment of hyperparathyroidism is defined as an intra-operative reduction of PTH by:",
+      "choices": [
+        "10%",
+        "25%",
+        "50%",
+        "90%",
+        "100%"
+      ],
+      "answer": "C",
+      "detail": "Success is defined as a 50% reduction in PTH."
+    },
+    {
+      "number": 98,
+      "question": "If you see 'Lymph Nodes' on a Sestamibi (MIBI) scan, the strategy says you should:",
+      "choices": [
+        "Call them normal",
+        "Consider them suspicious (maybe cancer) and eval with ultrasound",
+        "Assume they are parathyroid adenomas",
+        "Ignore them if they are in the neck",
+        "Biopsy them immediately without imaging"
+      ],
+      "answer": "B",
+      "detail": "On a MIBI study, you should NOT see lymph nodes; if you do, they are suspicious."
+    },
+    {
+      "number": 99,
+      "question": "Which parathyroid condition is associated with 8-10% of cases and often involves all four glands?",
+      "choices": [
+        "Adenoma",
+        "Multi-Gland Hyperplasia",
+        "Carcinoma",
+        "Riedel's thyroiditis",
+        "Graves disease"
+      ],
+      "answer": "B",
+      "detail": "Multi-Gland Hyperplasia accounts for about 10% of cases."
+    },
+    {
+      "number": 100,
+      "question": "Parathyroid tissue can be surgically auto-transplanted into which location to maintain function after total removal?",
+      "choices": [
+        "The liver",
+        "The forearm",
+        "The thigh",
+        "The abdominal wall",
+        "The spleen"
+      ],
+      "answer": "B",
+      "detail": "Glands can be implanted into the forearm."
+    }
+  ]
+}

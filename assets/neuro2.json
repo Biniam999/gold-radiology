@@ -1,0 +1,1385 @@
+{
+    "questions": 
+    [
+  {
+    "number": 1,
+    "question": "Which of the following best describes the MRI signal characteristics of a neonatal brain compared to an adult brain?",
+    "choices": [
+      "A. The T1 and T2 patterns are identical to an adult",
+      "B. The T1 pattern of a baby is similar to the T2 pattern of an adult",
+      "C. The T1 pattern of a baby is similar to the T1 pattern of an adult",
+      "D. The T2 pattern of a baby is similar to the T2 pattern of an adult",
+      "E. Neonatal brains show no grey-white differentiation"
+    ],
+    "answer": "B",
+    "detail": "At birth, neonatal brain signal is essentially inverted compared to an adult: T1 is dark where it should be bright, and T2 is bright where it should be dark. [1, 2]"
+  },
+  {
+    "number": 2,
+    "question": "Why does mature white matter appear brighter on T1-weighted images?",
+    "choices": [
+      "A. Increase in total water content",
+      "B. Decrease in brain cholesterol",
+      "C. Decrease in water and increase in fat (cholesterol and glycolipids)",
+      "D. Accumulation of iron in the myelin sheath",
+      "E. Presence of stagnant interstitial fluid"
+    ],
+    "answer": "C",
+    "detail": "Myelination involves the replacement of water with cholesterol and glycolipids, which are T1-shortening (bright). [3, 4]"
+  },
+  {
+    "number": 3,
+    "question": "At approximately what age is the 'adult T1 pattern' of myelination typically seen?",
+    "choices": ["A. 6 months", "B. 1 year", "C. 2 years", "D. 5 years", "E. Puberty"],
+    "answer": "B",
+    "detail": "The '1 for T1' rule dictates that the adult T1 pattern is reached at 1 year of age. [3, 4]"
+  },
+  {
+    "number": 4,
+    "question": "At approximately what age is the 'adult T2 pattern' of myelination typically seen?",
+    "choices": ["A. 6 months", "B. 1 year", "C. 2 years", "D. 3 years", "E. 10 years"],
+    "answer": "C",
+    "detail": "The '2 for T2' rule dictates that the adult T2 pattern is reached at 2 years of age. [3, 4]"
+  },
+  {
+    "number": 5,
+    "question": "Which MRI sequence is considered most useful for assessing myelination in an infant during the first 6 months of life?",
+    "choices": ["A. T1-weighted", "B. T2-weighted", "C. FLAIR", "D. GRE", "E. DWI"],
+    "answer": "A",
+    "detail": "T1-weighted imaging is most sensitive for tracking early myelination changes in the first 6 months. [4, 5]"
+  },
+  {
+    "number": 6,
+    "question": "Which MRI sequence is most useful for assessing myelination progress between 6 months and 18 months of age?",
+    "choices": ["A. T1-weighted", "B. T2-weighted", "C. Proton Density", "D. T2* GRE", "E. Post-contrast T1"],
+    "answer": "B",
+    "detail": "T2-weighted imaging is the 'money' sequence for tracking progress after 6 months. [4, 5]"
+  },
+  {
+    "number": 7,
+    "question": "Regarding the order of myelination progression, which of the following is correct?",
+    "choices": [
+      "A. Superior to inferior",
+      "B. Anterior to posterior",
+      "C. Peripheral to central",
+      "D. Sensory fibers prior to motor fibers",
+      "E. Subcortical white matter prior to deep white matter"
+    ],
+    "answer": "D",
+    "detail": "Myelination typically follows a pattern of sensory before motor, inferior to superior, and posterior to anterior. [4, 5]"
+  },
+  {
+    "number": 8,
+    "question": "Which anatomical area is the LAST part of the brain to undergo myelination?",
+    "choices": [
+      "A. Brainstem",
+      "B. Posterior limb of the internal capsule",
+      "C. Subcortical white matter",
+      "D. Optic radiations",
+      "E. Cerebellar peduncles"
+    ],
+    "answer": "C",
+    "detail": "Subcortical white matter is the last major region to finish myelination. [4, 6]"
+  },
+  {
+    "number": 9,
+    "question": "Myelination of the subcortical frontal regions is typically finished by what age?",
+    "choices": ["A. 6 months", "B. 12 months", "C. 18 months", "D. 24 months", "E. 40 months"],
+    "answer": "C",
+    "detail": "Frontal subcortical white matter myelination finishes at roughly 18 months. [4, 6]"
+  },
+  {
+    "number": 10,
+    "question": "The 'terminal zones' of myelination, located in the subcortical frontotemporoparietal regions, finish myelination around:",
+    "choices": ["A. 12 months", "B. 18 months", "C. 24 months", "D. 40 months", "E. 5 years"],
+    "answer": "D",
+    "detail": "These specific 'terminal zones' can take up to 40 months to reach adult patterns. [4, 6]"
+  },
+  {
+    "number": 11,
+    "question": "Which of the following structures is expected to be normally myelinated at the time of birth?",
+    "choices": [
+      "A. Frontal subcortical white matter",
+      "B. Corpus callosum rostrum",
+      "C. Brainstem and posterior limb of the internal capsule",
+      "D. Entire temporal lobe",
+      "E. Anterior limb of the internal capsule"
+    ],
+    "answer": "C",
+    "detail": "Essential structures for life, such as the brainstem and posterior limb of the internal capsule, are myelinated at birth. [4, 7]"
+  },
+  {
+    "number": 12,
+    "question": "At birth, what are the expected T1 signal characteristics of the pituitary gland?",
+    "choices": [
+      "A. Anterior is dark, posterior is bright",
+      "B. Both anterior and posterior are T1 bright",
+      "C. Both anterior and posterior are T1 iso-intense",
+      "D. The pituitary is not visible until 6 months",
+      "E. The gland is purely cystic at birth"
+    ],
+    "answer": "B",
+    "detail": "In neonates, the entire pituitary gland is typically T1 bright. [4, 7]"
+  },
+  {
+    "number": 13,
+    "question": "By what age does the anterior pituitary typically lose its T1 hyperintensity, becoming iso-intense?",
+    "choices": ["A. 1 week", "B. 2 months", "C. 6 months", "D. 1 year", "E. 2 years"],
+    "answer": "B",
+    "detail": "The anterior gland loses its hyperintensity by 2 months of age. [4, 8]"
+  },
+  {
+    "number": 14,
+    "question": "In a normal adult, which part of the pituitary gland is T1 bright?",
+    "choices": ["A. Anterior part", "B. Posterior part", "C. Both parts", "D. Neither part", "E. Only in pregnant women"],
+    "answer": "B",
+    "detail": "In adults, only the posterior pituitary retains T1 hyperintensity. [4, 8]"
+  },
+  {
+    "number": 15,
+    "question": "Why is the posterior pituitary T1 bright in an adult?",
+    "choices": [
+      "A. High fat content",
+      "B. Storage of Vasopressin and storage proteins",
+      "C. Chronic micro-hemorrhage",
+      "D. Ectopic fat from the hypothalamus",
+      "E. Artifact from the sphenoid sinus"
+    ],
+    "answer": "B",
+    "detail": "The brightness results from stored neurosecretory granules containing Vasopressin. [4, 8]"
+  },
+  {
+    "number": 16,
+    "question": "As a person ages, what change is expected in brain iron deposition?",
+    "choices": [
+      "A. Iron levels decrease",
+      "B. Iron increases, causing the globus pallidus to darken on T2/FLAIR",
+      "C. Iron levels remain constant",
+      "D. Iron only deposits in the cortex",
+      "E. Iron disappears from the substantia nigra"
+    ],
+    "answer": "B",
+    "detail": "Accumulating brain iron results in signal dropout (darkening) of deep nuclei on T2/FLAIR with age. [4, 9]"
+  },
+  {
+    "number": 17,
+    "question": "Calvarial bone marrow signal in a young child is typically 'active,' meaning it appears:",
+    "choices": ["A. T1 hyperintense", "B. T1 hypointense", "C. T2 signal-void", "D. Fluid-bright on STIR", "E. Identical to adult fatty marrow"],
+    "answer": "B",
+    "detail": "Active hematopoietic red marrow in children is T1 dark/hypointense. [4, 9]"
+  },
+  {
+    "number": 18,
+    "question": "In what order do the paranasal sinuses typically form?",
+    "choices": [
+      "A. Frontal, Sphenoid, Ethmoid, Maxillary",
+      "B. Maxillary, Ethmoid, Sphenoid, Frontal",
+      "C. Ethmoid, Maxillary, Frontal, Sphenoid",
+      "D. Sphenoid, Frontal, Maxillary, Ethmoid",
+      "E. They all form simultaneously"
+    ],
+    "answer": "B",
+    "detail": "The developmental order is Maxillary (birth) -> Ethmoid (1yr) -> Sphenoid (4yrs) -> Frontal (6yrs). [4, 9]"
+  },
+  {
+    "number": 19,
+    "question": "Which sinus is the first to be visible on a CT scan, often around 5 months of age?",
+    "choices": ["A. Ethmoid", "B. Sphenoid", "C. Frontal", "D. Maxillary", "E. Mastoid air cells"],
+    "answer": "D",
+    "detail": "The maxillary sinus is the first to become visible radiographically. [10, 11]"
+  },
+  {
+    "number": 20,
+    "question": "By what age is the sphenoid sinus typically visible on CT?",
+    "choices": ["A. Birth", "B. 1 year", "C. 4 years", "D. 6 years", "E. 15 years"],
+    "answer": "C",
+    "detail": "The sphenoid sinus typically ossifies and is visible by age 4. [10, 11]"
+  },
+  {
+    "number": 21,
+    "question": "The frontal sinus is generally the last to develop and is typically visible on CT around age:",
+    "choices": ["A. 1 year", "B. 2 years", "C. 4 years", "D. 6 years", "E. 15 years"],
+    "answer": "D",
+    "detail": "The frontal sinus is usually not visible until age 6. [10, 11]"
+  },
+  {
+    "number": 22,
+    "question": "Most paranasal sinuses finish forming by approximately what age?",
+    "choices": ["A. 5 years", "B. 10 years", "C. 15 years", "D. 25 years", "E. They grow until age 50"],
+    "answer": "C",
+    "detail": "Sinus development is generally complete by age 15. [10, 11]"
+  },
+  {
+    "number": 23,
+    "question": "Congenital brain malformations can be broadly grouped into categories. Which of the following is NOT one of the 5 basic categories mentioned?",
+    "choices": ["A. Failure to Form", "B. Failure to Cleave", "C. Failure to Migrate", "D. Failure to Vascularize", "E. Herniation Syndromes"],
+    "answer": "D",
+    "detail": "Failure to Vascularize is not listed as one of the primary embryological categories for malformations. [11, 12]"
+  },
+  {
+    "number": 24,
+    "question": "In what order does the corpus callosum typically form during embryogenesis?",
+    "choices": [
+      "A. Back to front (Splenium to Genu)",
+      "B. Front to back (Genu to Splenium), with the rostrum last",
+      "C. The rostrum forms first",
+      "D. It forms simultaneously across its entire length",
+      "E. The body forms last"
+    ],
+    "answer": "B",
+    "detail": "The CC forms front-to-back, except for the rostrum which forms last. [11, 12]"
+  },
+  {
+    "number": 25,
+    "question": "If an MRI shows hypoplasia of the corpus callosum where the splenium is absent but the genu is intact, this is consistent with:",
+    "choices": [
+      "A. A primary formation failure (Front-to-back rule)",
+      "B. A secondary destructive event",
+      "C. Normal variation",
+      "D. Holoprosencephaly",
+      "E. Schizencephaly"
+    ],
+    "answer": "A",
+    "detail": "Absence of the posterior components with intact anterior components follows the front-to-back formation rule. [11, 13]"
+  },
+  {
+    "number": 26,
+    "question": "'Colpocephaly' is a radiographic hallmark of corpus callosum agenesis and is defined as:",
+    "choices": [
+      "A. Symmetric dilation of the frontal horns",
+      "B. Asymmetric dilation of the occipital horns",
+      "C. Complete absence of the lateral ventricles",
+      "D. Fusion of the thalami",
+      "E. Narrowing of the third ventricle"
+    ],
+    "answer": "B",
+    "detail": "Colpocephaly is the teardrop-shaped dilation of the occipital horns. [11, 13]"
+  },
+  {
+    "number": 27,
+    "question": "On a coronal MRI, the lateral ventricles in a patient with corpus callosum agenesis often have which characteristic appearance?",
+    "choices": ["A. 'Mickey Mouse' sign", "B. 'Steer horn' appearance", "C. 'Panda face' sign", "D. 'Inverted Omega'", "E. 'Target' sign"],
+    "answer": "B",
+    "detail": "Upward pointing frontal horns create the 'steer horn' look on coronal views. [11, 14]"
+  },
+  {
+    "number": 28,
+    "question": "On an axial MRI, the lateral ventricles in CC agenesis are described as 'Racing Car' ventricles because they are:",
+    "choices": [
+      "A. Small and circular",
+      "B. Widely spaced and parallel",
+      "C. Fused in the midline",
+      "D. Filled with blood",
+      "E. Orientated horizontally"
+    ],
+    "answer": "B",
+    "detail": "Parallel, widely spaced lateral ventricles are referred to as 'Racing Car' ventricles. [11, 14]"
+  },
+  {
+    "number": 29,
+    "question": "What are 'Probst bundles'?",
+    "choices": [
+      "A. Ectopic grey matter nodules",
+      "B. Densely packed white matter tracts that run parallel to the midline",
+      "C. Draining veins in the cavernous sinus",
+      "D. Calcified nodules in tuberous sclerosis",
+      "E. Fragments of a ruptured dermoid"
+    ],
+    "answer": "B",
+    "detail": "Probst bundles are white matter tracts that failed to cross the midline. [11, 14]"
+  },
+  {
+    "number": 30,
+    "question": "Which malformation is considered the 'most common anomaly seen with other CNS malformations'?",
+    "choices": ["A. Chiari I", "B. Dandy Walker", "C. Intracranial Lipoma", "D. Schizencephaly", "E. Encephalocele"],
+    "answer": "C",
+    "detail": "Intracranial lipomas are the most common anomaly identified alongside other CNS defects. [11, 15]"
+  },
+  {
+    "number": 31,
+    "question": "Where is the most common location for an intracranial lipoma?",
+    "choices": [
+      "A. Quadrigeminal cistern",
+      "B. Lateral ventricle trigone",
+      "C. Interhemispheric fissure (50%)",
+      "D. Foramen of Monro",
+      "E. Meckel's cave"
+    ],
+    "answer": "C",
+    "detail": "The interhemispheric fissure is the #1 location (50% of cases). [11, 15]"
+  },
+  {
+    "number": 32,
+    "question": "What is the second most common location for an intracranial lipoma?",
+    "choices": [
+      "A. Interhemispheric fissure",
+      "B. Quadrigeminal cistern (25%)",
+      "C. Prepontine cistern",
+      "D. Cerebellopontine angle",
+      "E. Spinal canal"
+    ],
+    "answer": "B",
+    "detail": "The quadrigeminal cistern is the #2 location for intracranial lipomas. [15, 16]"
+  },
+  {
+    "number": 33,
+    "question": "Radiologically, what is the most helpful sequence for identifying an intracranial lipoma?",
+    "choices": ["A. T2-weighted", "B. FLAIR", "C. Non-fat saturated T1", "D. DWI", "E. T2* GRE"],
+    "answer": "C",
+    "detail": "Fat signal is bright on T1, making non-fat sat T1 the primary identification sequence. [16, 17]"
+  },
+  {
+    "number": 34,
+    "question": "Which 'French sounding' phrase is used to explain the frequent pericallosal location of CNS lipomas?",
+    "choices": ["A. Zuckerguss", "B. Maldifferentiation of the Meninx Primitiva", "C. Lhermitte-Duclos", "D. Joubert syndrome", "E. Marchiafava-Bignami"],
+    "answer": "B",
+    "detail": "This is the embryological term for the failure of meninx differentiation. [16, 17]"
+  },
+  {
+    "number": 35,
+    "question": "Joubert Syndrome is characterized by which classic appearance of the midbrain on axial imaging?",
+    "choices": ["A. 'Mickey Mouse' face", "B. 'Stoner dog' face", "C. 'Molar tooth' sign", "D. 'Panda' face", "E. 'Hummingbird' sign"],
+    "answer": "C",
+    "detail": "Elongated superior cerebellar peduncles create the 'molar tooth' look. [16, 17]"
+  },
+  {
+    "number": 36,
+    "question": "In Joubert syndrome, the 'molar tooth' appearance is caused by:",
+    "choices": [
+      "A. Thickened and elongated superior cerebellar peduncles",
+      "B. Absence of the pituitary gland",
+      "C. Fusion of the frontal lobes",
+      "D. End-stage calcification of the basal ganglia",
+      "E. Enlargement of the red nuclei"
+    ],
+    "answer": "A",
+    "detail": "The midbrain peduncles are abnormally long and thickened. [16, 18]"
+  },
+  {
+    "number": 37,
+    "question": "Which of the following is a consistent feature of Joubert syndrome?",
+    "choices": [
+      "A. Large cerebellum",
+      "B. Small cerebellum and a 'batwing' shaped 4th ventricle",
+      "C. Normal vermis development",
+      "D. Absence of the falx cerebri",
+      "E. Multiple intracranial lipomas"
+    ],
+    "answer": "B",
+    "detail": "Hypoplasia of the vermis creates the 'batwing' fourth ventricle. [16, 18]"
+  },
+  {
+    "number": 38,
+    "question": "Which two markers of normal vermian development should a radiologist look for on a mid-sagittal image?",
+    "choices": [
+      "A. Rostrum and Genu",
+      "B. Primary fissure and fastigial point",
+      "C. Optic chiasm and infundibulum",
+      "D. Foramen of Monro and Aqueduct",
+      "E. Tectum and Tegmentum"
+    ],
+    "answer": "B",
+    "detail": "The primary fissure and fastigial point must be present to confirm a normal vermis. [16, 19]"
+  },
+  {
+    "number": 39,
+    "question": "The 'fastigial point' is the normal angular contour found along the:",
+    "choices": [
+      "A. Dorsal surface of the midbrain",
+      "B. Ventral surface of the cerebellum",
+      "C. Superior margin of the pons",
+      "D. Lateral wall of the 3rd ventricle",
+      "E. Floor of the 4th ventricle"
+    ],
+    "answer": "B",
+    "detail": "It is the angular point on the ventral cerebellar surface/roof of the 4th ventricle. [16, 19]"
+  },
+  {
+    "number": 40,
+    "question": "A 'Classic' Dandy Walker malformation consists of a triad of findings. Which of the following is NOT part of that triad?",
+    "choices": [
+      "A. Hypoplasia of the vermis",
+      "B. Elevated and rotated vermis",
+      "C. Dilated cystic 4th ventricle",
+      "D. Absence of the corpus callosum",
+      "E. Enlarged posterior fossa"
+    ],
+    "answer": "D",
+    "detail": "The triad includes vermian hypoplasia, cystic 4th ventricle, and large posterior fossa. [16, 19]"
+  },
+  {
+    "number": 41,
+    "question": "On axial imaging, a Dandy Walker malformation can mimic which other entity?",
+    "choices": ["A. Arachnoid cyst", "B. Retrocerebellar cyst", "C. Epidermoid", "D. Dermoid", "E. Mega cisterna magna"],
+    "answer": "B",
+    "detail": "Retrocerebellar cysts and mega cisterna magna are standard mimics. [16, 20]"
+  },
+  {
+    "number": 42,
+    "question": "The 'Torcular-lambdoid inversion' in Dandy Walker describes:",
+    "choices": [
+      "A. The torcula being below the level of the lambdoid suture",
+      "B. The torcula being above the level of the lambdoid suture",
+      "C. Absence of the transverse sinuses",
+      "D. Fusion of the sigmoid sinuses",
+      "E. A normal variant"
+    ],
+    "answer": "B",
+    "detail": "The confluence of sinuses (torcula) is displaced superiorly in Dandy-Walker. [16, 20]"
+  },
+  {
+    "number": 43,
+    "question": "What is the most common clinical manifestation of a Dandy Walker malformation in the first month of life?",
+    "choices": ["A. Seizures", "B. Blindness", "C. Macrocephaly", "D. Hypotension", "E. Hearing loss"],
+    "answer": "C",
+    "detail": "Hydrocephalus leads to presenting macrocephaly in nearly all neonates. [16, 20]"
+  },
+  {
+    "number": 44,
+    "question": "Which associated CNS malformation is seen in approximately 90% of Dandy Walker cases?",
+    "choices": ["A. Encephalocele", "B. Hydrocephalus", "C. Schizencephaly", "D. Lipoma", "E. Aneurysm"],
+    "answer": "B",
+    "detail": "Almost all Dandy-Walker cases feature associated hydrocephalus. [16, 21]"
+  },
+  {
+    "number": 45,
+    "question": "Holoprosencephaly (HPE) is a failure of what embryologic process?",
+    "choices": [
+      "A. Migration of neurons",
+      "B. Cleavage of the prosencephalon into two hemispheres",
+      "C. Formation of the neural tube",
+      "D. Organization of the cortical layers",
+      "E. Closure of the choroid fissure"
+    ],
+    "answer": "B",
+    "detail": "HPE is the failure of the single brain vesicle to divide into two. [16, 21]"
+  },
+  {
+    "number": 46,
+    "question": "Which form of Holoprosencephaly is the most severe, showing zero midline cleavage and a single midline ventricle?",
+    "choices": ["A. Semilobar", "B. Lobar", "C. Alobar", "D. Arrhencephaly", "E. Septo-optic dysplasia"],
+    "answer": "C",
+    "detail": "Alobar HPE features total lack of cleavage and a monoventricle. [21, 22]"
+  },
+  {
+    "number": 47,
+    "question": "In the 'Semilobar' form of HPE, what percentage of the frontal lobes are fused?",
+    "choices": ["A. < 10%", "B. 25%", "C. > 50%", "D. 100%", "E. They are never fused"],
+    "answer": "C",
+    "detail": "Semilobar features > 50% fusion of the frontal lobes. [22, 23]"
+  },
+  {
+    "number": 48,
+    "question": "Which facial abnormality is classically associated with Holoprosencephaly?",
+    "choices": ["A. Low set ears", "B. Cleft lip or palate", "C. Protruding tongue", "D. Microtia", "E. 'Rodent' face"],
+    "answer": "B",
+    "detail": "Midline facial defects like clefts are frequently associated with HPE. [22, 23]"
+  },
+  {
+    "number": 49,
+    "question": "Septo-optic Dysplasia (SOD) is characterized by the absence of which structure?",
+    "choices": ["A. Corpus callosum", "B. Septum pellucidum", "C. Cerebellar vermis", "D. Pituitary gland", "E. Pineal body"],
+    "answer": "B",
+    "detail": "Absence of the septum pellucidum is the defining hallmark of SOD. [22, 23]"
+  },
+  {
+    "number": 50,
+    "question": "Besides the absent septum pellucidum, SOD involves hypoplasia of which specific structures?",
+    "choices": [
+      "A. Optic chiasm and optic nerves",
+      "B. Olfactory bulbs",
+      "C. Thalami",
+      "D. Mammillary bodies",
+      "E. Red nuclei"
+    ],
+    "answer": "A",
+    "detail": "Optic pathway hypoplasia is the second requirement for diagnosis. [22, 23]"
+  },
+  {
+    "number": 51,
+    "question": "Which rare vascular variant is associated with both Septo-optic Dysplasia and lobar Holoprosencephaly?",
+    "choices": [
+      "A. Persistent trigeminal artery",
+      "B. Fetal PCA",
+      "C. Azygos anterior cerebral artery (common trunk)",
+      "D. Fenestrated basilar artery",
+      "E. Absent internal carotid artery"
+    ],
+    "answer": "C",
+    "detail": "The Azygos ACA is strongly associated with midline cleavage defects. [22, 24]"
+  },
+  {
+    "number": 52,
+    "question": "The brain is said to form 'inside-out,' meaning neurons are birthed from which region?",
+    "choices": [
+      "A. The cortical mantle",
+      "B. The periventricular proliferative neuroepithelium (the 'Pit')",
+      "C. The subarachnoid space",
+      "D. The dura mater",
+      "E. The spinal cord"
+    ],
+    "answer": "B",
+    "detail": "Neurons originate at the ventricular surface (the Pit) and migrate outward. [22, 24]"
+  },
+  {
+    "number": 53,
+    "question": "How many 'waves' of neuronal cells typically make the climb to freedom during migration?",
+    "choices": ["A. 1", "B. 3", "C. 6", "D. 10", "E. 12"],
+    "answer": "C",
+    "detail": "The 6-layered cortex is formed by 6 successive waves of migrating neurons. [22, 25]"
+  },
+  {
+    "number": 54,
+    "question": "In the 'Hemimegalencephaly' vs 'Atrophy' strategy, if you see a BIG hemisphere with a BIG ventricle, it is:",
+    "choices": ["A. Hemimegalencephaly", "B. Atrophy", "C. Normal development", "D. Porencephaly", "E. Rasmussen Encephalitis"],
+    "answer": "A",
+    "detail": "A big side with a big ventricle is pathognomonic for hemimegalencephaly. [22, 25]"
+  },
+  {
+    "number": 55,
+    "question": "If you see a SMALL hemisphere with a BIG ventricle, it is:",
+    "choices": ["A. Hemimegalencephaly", "B. Atrophy", "C. Lissencephaly", "D. Polymicrogyria", "E. Schizencephaly"],
+    "answer": "B",
+    "detail": "A small side with a big ventricle (ex-vacuo) indicates atrophy. [22, 25]"
+  },
+  {
+    "number": 56,
+    "question": "'Rasmussen Encephalitis' is a zebra viral/autoimmune disease that characteristically:",
+    "choices": [
+      "A. Causes overgrowth of one hemisphere",
+      "B. Annihilates half the brain, resulting in atrophy and ex-vacuo dilation",
+      "C. Causes bilateral calcifications",
+      "D. Results in a 'Figure 8' brain",
+      "E. Always spares the temporal lobes"
+    ],
+    "answer": "B",
+    "detail": "Rasmussen is a destructive process resulting in progressive hemi-atrophy. [22, 25]"
+  },
+  {
+    "number": 57,
+    "question": "Dyke-Davidoff-Masson (Cerebral Hemi-Atrophy) is distinguished from Rasmussen because it also includes:",
+    "choices": [
+      "A. Multiple lipomas",
+      "B. Unilateral skull thickening and expanded sinuses",
+      "C. Bilateral hydrocephalus",
+      "D. Absence of the falx",
+      "E. A 'molar tooth' midbrain"
+    ],
+    "answer": "B",
+    "detail": "Bone and sinus changes distinguish it from primary encephalitic atrophy. [22, 26]"
+  },
+  {
+    "number": 58,
+    "question": "Which term refers to the 'classic' Type 1 Lissencephaly characterized by a smooth brain surface?",
+    "choices": ["A. Pachygyria", "B. Agyria", "C. Polymicrogyria", "D. Heterotopia", "E. Schizencephaly"],
+    "answer": "B",
+    "detail": "Agyria (no gyri) is the characteristic feature of Type 1 Lissencephaly. [22, 26]"
+  },
+  {
+    "number": 59,
+    "question": "On axial imaging, a 'Classic' Type 1 Lissencephaly often has which shape due to shallow Sylvan fissures?",
+    "choices": ["A. Figure 8", "B. Star", "C. Molar tooth", "D. Heart", "E. Diamond"],
+    "answer": "A",
+    "detail": "The 'Figure 8' or 'hourglass' shape is classic. [22, 26]"
+  },
+  {
+    "number": 60,
+    "question": "Type 1 Lissencephaly is a failure of ________ migration.",
+    "choices": ["A. Over", "B. Under", "C. Normal", "D. Speed", "E. Order"],
+    "answer": "B",
+    "detail": "Type 1 is a failure of undermigration (neurons don't reach the surface). [22, 27]"
+  },
+  {
+    "number": 61,
+    "question": "Type 2 'Cobblestone' Lissencephaly is the result of ________ migration.",
+    "choices": ["A. Under", "B. Over", "C. Absent", "D. Symmetrical", "E. Delayed"],
+    "answer": "B",
+    "detail": "Type 2 involves overmigration through the glia limitans into the subarachnoid space. [22, 27]"
+  },
+  {
+    "number": 62,
+    "question": "'Muscle-eye-brain disease' is an association found in which condition?",
+    "choices": ["A. Type 1 Lissencephaly", "B. Type 2 Lissencephaly", "C. Joubert syndrome", "D. Chiari II", "E. Holoprosencephaly"],
+    "answer": "B",
+    "detail": "This disease is a standard association for Cobblestone Lissencephaly. [22, 27]"
+  },
+  {
+    "number": 63,
+    "question": "Where is the most common location for grey matter heterotopia?",
+    "choices": ["A. Cortical surface", "B. Periventricular (subependymal) region", "C. Basal ganglia", "D. Cerebellum", "E. Brainstem"],
+    "answer": "B",
+    "detail": "Heterotopias are most common in the subependymal periventricular region. [22, 27]"
+  },
+  {
+    "number": 64,
+    "question": "Periventricular Nodular Heterotopias are highly associated with which clinical symptom?",
+    "choices": ["A. Hearing loss", "B. Blindness", "C. Seizure disorders", "D. Hypertension", "E. Precocious puberty"],
+    "answer": "C",
+    "detail": "Refractory seizures are the classic presentation for heterotopias. [22, 28]"
+  },
+  {
+    "number": 65,
+    "question": "How can you radiographically distinguish a heterotopia from a subependymal tuber of Tuberous Sclerosis?",
+    "choices": [
+      "A. Heterotopias follow grey matter and do NOT enhance",
+      "B. Tubers never calcify",
+      "C. Heterotopias are T1 bright",
+      "D. Tubers follow CSF signal",
+      "E. No difference"
+    ],
+    "answer": "A",
+    "detail": "Heterotopias follow grey matter on all sequences and never enhance, unlike tubers. [28, 29]"
+  },
+  {
+    "number": 66,
+    "question": "Polymicrogyria (PMG) is a failure of organization that results in:",
+    "choices": [
+      "A. Absence of all gyri",
+      "B. An excessive number of small, fine folds (bumpy cortex)",
+      "C. A large single monoventricle",
+      "D. A 'Figure 8' brain",
+      "E. Fusion of the thalami"
+    ],
+    "answer": "B",
+    "detail": "PMG is defined by an overabundance of tiny, malformed gyri. [28, 29]"
+  },
+  {
+    "number": 67,
+    "question": "Which virus is the most common cause of PMG in Brazil and South America?",
+    "choices": ["A. CMV", "B. HIV", "C. Zika Virus", "D. HSV-2", "E. COVID-19"],
+    "answer": "A",
+    "detail": "CMV is the leading infectious cause of PMG. [29, 30]"
+  },
+  {
+    "number": 68,
+    "question": "Schizencephaly literally means 'split brain' and is defined by a cleft lined with:",
+    "choices": ["A. White matter", "B. Grey matter", "C. CSF only", "D. Blood", "E. Fat"],
+    "answer": "B",
+    "detail": "The hallmark of schizencephaly is a cleft lined by dysplastic grey matter. [29, 30]"
+  },
+  {
+    "number": 69,
+    "question": "Which type of schizencephaly is 'more common and more severe'?",
+    "choices": ["A. Closed Lip (20%)", "B. Open Lip (80%)", "C. Trans-hemispheric", "D. Midline only", "E. Infratentorial"],
+    "answer": "B",
+    "detail": "Open lip schizencephaly is the most common and clinically severe subtype. [29, 30]"
+  },
+  {
+    "number": 70,
+    "question": "In 'Closed Lip' schizencephaly, what is the subtle clue on the ependymal (ventricular) surface?",
+    "choices": ["A. A large cyst", "B. A 'nipple' of grey matter pouching", "C. A calcified nodule", "D. A flow void", "E. Absence of the choroid plexus"],
+    "answer": "B",
+    "detail": "The 'ependymal nipple' is the subtle sign for closed-lip clefts. [29, 30]"
+  },
+  {
+    "number": 71,
+    "question": "Which condition is associated with Schizencephaly in 70% of cases?",
+    "choices": ["A. Absence of the falx", "B. Absent septum pellucidum", "C. Myelomeningocele", "D. Optic nerve glioma", "E. Pituitary adenoma"],
+    "answer": "B",
+    "detail": "Absence of the septum pellucidum is a standard co-occurrence with schizencephaly. [29, 31]"
+  },
+  {
+    "number": 72,
+    "question": "How do you distinguish Schizencephaly from Porencephaly?",
+    "choices": [
+      "A. Schizencephaly is lined with grey matter; Porencephaly is not",
+      "B. Porencephaly is congenital; Schizencephaly is acquired",
+      "C. Schizencephaly is only seen in adults",
+      "D. Porencephaly always crosses the midline",
+      "E. No difference"
+    ],
+    "answer": "A",
+    "detail": "Grey matter lining the defect confirms schizencephaly over porencephaly. [29, 31]"
+  },
+  {
+    "number": 73,
+    "question": "Hydranencephaly is a massive in-utero destruction of both cerebral hemispheres, typically leaving only the:",
+    "choices": [
+      "A. Frontal lobes",
+      "B. Thalami",
+      "C. Cerebellum, midbrain, and the falx",
+      "D. Basal ganglia",
+      "E. Optic nerves"
+    ],
+    "answer": "C",
+    "detail": "Posterior fossa structures and the falx are typically preserved. [29, 31]"
+  },
+  {
+    "number": 74,
+    "question": "The most classic cause of Hydranencephaly is:",
+    "choices": ["A. CMV infection", "B. Bilateral ICA occlusion", "C. Trauma at birth", "D. Maternal smoking", "E. Trisomy 21"],
+    "answer": "B",
+    "detail": "Massive destruction follows bilateral occlusion of the internal carotid arteries. [2, 29]"
+  },
+  {
+    "number": 75,
+    "question": "To differentiate severe hydrocephalus from Alobar Holoprosencephaly, you look for:",
+    "choices": [
+      "A. The size of the thalami",
+      "B. The presence of the falx cerebri",
+      "C. Enhancement of the thalami",
+      "D. Signal of the CSF",
+      "E. The size of the cerebellum"
+    ],
+    "answer": "B",
+    "detail": "The presence of a falx cerebri confirms hydrocephalus and rules out alobar HPE. [2, 29]"
+  },
+  {
+    "number": 76,
+    "question": "An incredibly creepy 'Frog Eye' appearance on a coronal fetal MRI (due to absent cranial bone/brain with bulging orbits) is the hallmark of which condition?",
+    "choices": ["A. Iniencephaly", "B. Anencephaly", "C. Encephalocele", "D. Holoprosencephaly", "E. Hydranencephaly"],
+    "answer": "B",
+    "detail": "Anencephaly creates the 'frog eye' appearance due to absent cranial vault and brain tissue. [32, 33]"
+  },
+  {
+    "number": 77,
+    "question": "In the setting of Anencephaly, which finding is typically identified on antenatal ultrasound because the fetus cannot swallow properly?",
+    "choices": ["A. Oligohydramnios", "B. Polyhydramnios", "C. Fetal hydrops", "D. Placenta previa", "E. Chorioangioma"],
+    "answer": "B",
+    "detail": "Polyhydramnios occurs because swallowing mechanisms are absent or impaired. [32, 33]"
+  },
+  {
+    "number": 78,
+    "question": "Which lab value is consistently elevated in all 'Open Neural Tube Defects'?",
+    "choices": ["A. Beta-HCG", "B. Alpha-fetoprotein (AFP)", "C. CEA", "D. PSA", "E. LDH"],
+    "answer": "B",
+    "detail": "AFP leaks from the open defect into the amniotic fluid and maternal serum. [32, 33]"
+  },
+  {
+    "number": 79,
+    "question": "A 'Star Gazing Fetus,' characterized by extreme retroflexion of the head and a deficient occipital bone, is diagnostic of:",
+    "choices": ["A. Anencephaly", "B. Iniencephaly", "C. Chiari II", "D. Dandy Walker", "E. Joubert Syndrome"],
+    "answer": "B",
+    "detail": "Iniencephaly is defined by extreme retroflexion and occipital bone defects. [33, 34]"
+  },
+  {
+    "number": 80,
+    "question": "What is the definition of a 'Cephalocele'?",
+    "choices": [
+      "A. Herniation of the cerebellum into the spinal canal",
+      "B. Herniation of cranial contents through a defect in the skull",
+      "C. Failure of the prosencephalon to cleave",
+      "D. A CSF-filled space between the frontal horns",
+      "E. Fusion of the thalami"
+    ],
+    "answer": "B",
+    "detail": "A cephalocele is a general term for any herniation through a skull defect. [33, 34]"
+  },
+  {
+    "number": 81,
+    "question": "Where is the 'most classic' location for an intracranial encephalocele?",
+    "choices": ["A. Nasal", "B. Fronto-ethmoidal", "C. Trans-sphenoidal", "D. Parietal", "E. Occipital"],
+    "answer": "E",
+    "detail": "The occipital region is the most frequent site for encephaloceles. [35, 36]"
+  },
+  {
+    "number": 82,
+    "question": "A herniation sac containing only CSF and meninges, but 'NO BRAIN,' is specifically called a:",
+    "choices": ["A. Meningoencephalocele", "B. Meningocele", "C. Cystocele", "D. Myelocele", "E. Encephalocele"],
+    "answer": "B",
+    "detail": "A meningocele contains only CSF and meninges without neural tissue. [35, 36]"
+  },
+  {
+    "number": 83,
+    "question": "An occipital encephalocele is most classically associated with which other malformation?",
+    "choices": ["A. Chiari I", "B. Chiari II", "C. Chiari III", "D. Dandy Walker", "E. Septo-optic Dysplasia"],
+    "answer": "C",
+    "detail": "Chiari III is essentially an occipital encephalocele containing posterior fossa contents. [35, 36]"
+  },
+  {
+    "number": 84,
+    "question": "According to the 'testable vocab' for encephaloceles, a 'Myelocele' contains:",
+    "choices": ["A. Cerebellum", "B. Spinal cord", "C. Ventricles", "D. Only CSF", "E. Medulla"],
+    "answer": "B",
+    "detail": "A myelocele specifically contains spinal cord tissue. [36, 37]"
+  },
+  {
+    "number": 85,
+    "question": "A 'Chiari I' malformation is defined by the herniation of the cerebellar tonsils below the foramen magnum by more than:",
+    "choices": ["A. 2 mm", "B. 3 mm", "C. 5 mm", "D. 10 mm", "E. 15 mm"],
+    "answer": "C",
+    "detail": "The diagnostic threshold for tonsillar herniation is 5 mm. [36, 37]"
+  },
+  {
+    "number": 86,
+    "question": "Which condition is the most classic (though not always present) association with a Chiari I malformation?",
+    "choices": ["A. Myelomeningocele", "B. Syrinx (cervical cord)", "C. Encephalocele", "D. Absent septum pellucidum", "E. Azygos ACA"],
+    "answer": "B",
+    "detail": "A cervical cord syrinx is frequently identified in Chiari I patients. [36, 37]"
+  },
+  {
+    "number": 87,
+    "question": "'Tectal beaking,' clival hypoplasia, and a low-lying torcula are classic features of which malformation?",
+    "choices": ["A. Chiari I", "B. Chiari II", "C. Chiari III", "D. Chiari IV", "E. Chiari 1.5"],
+    "answer": "B",
+    "detail": "Tectal beaking and torcular displacement are hallmarks of Chiari II. [36, 38]"
+  },
+  {
+    "number": 88,
+    "question": "In Chiari II, the confluence of venous sinuses (torcula) is typically:",
+    "choices": ["A. Superiorly displaced", "B. Low-lying", "C. Absent", "D. Located in the frontal bone", "E. Only seen in adults"],
+    "answer": "B",
+    "detail": "The torcula is characteristically low-lying in Chiari II. [36, 38]"
+  },
+  {
+    "number": 89,
+    "question": "Which hybrid term describes a condition with features of both Type 1 and Type 2 Chiari, but is notably NOT associated with neural tube defects?",
+    "choices": ["A. Chiari III", "B. Chiari IV", "C. Chiari 1.5", "D. Dandy Walker", "E. Joubert"],
+    "answer": "C",
+    "detail": "Chiari 1.5 features tonsillar and brainstem herniation but no open neural tube defect. [36, 38]"
+  },
+  {
+    "number": 90,
+    "question": "Rhombencephalosynapsis is an 'Aunt Minnie' diagnosis characterized by the 'ABSENCE' of which structure?",
+    "choices": ["A. Pituitary gland", "B. Cerebellar vermis", "C. Falx cerebri", "D. Septum pellucidum", "E. Corpus callosum"],
+    "answer": "B",
+    "detail": "Total absence of the vermis results in cerebellar hemisphere fusion. [36, 39]"
+  },
+  {
+    "number": 91,
+    "question": "The absence of the vermis in Rhombencephalosynapsis results in what characteristic appearance of the cerebellum?",
+    "choices": [
+      "A. Widely separated hemispheres",
+      "B. 'Molar tooth' appearance",
+      "C. Transversely oriented single lobed cerebellum (fused)",
+      "D. 'Batwing' 4th ventricle",
+      "E. Normal appearance"
+    ],
+    "answer": "C",
+    "detail": "Fused hemispheres create a single, continuous transverse cerebellar lobe. [36, 39]"
+  },
+  {
+    "number": 92,
+    "question": "When assessing the vermis on a mid-sagittal image, what is the 'fastigial point'?",
+    "choices": [
+      "A. The most anterior part of the pons",
+      "B. A normal angular contour along the ventral surface of the cerebellum",
+      "C. The opening of the aqueduct",
+      "D. The apex of the medulla",
+      "E. The midpoint of the corpus callosum"
+    ],
+    "answer": "B",
+    "detail": "It is the angular point on the ventral cerebellar surface/roof of the 4th ventricle. [36, 40]"
+  },
+  {
+    "number": 93,
+    "question": "On the spectrum of Dandy Walker and friends, which entity is considered a 'Normal Variant' and shows a focal enlargement of the retrocerebellar CSF space with a normal vermis?",
+    "choices": ["A. Classic DWM", "B. 'Variant' DWM", "C. Blake Pouch Cyst", "D. Mega Cisterna Magna", "E. Arachnoid Cyst"],
+    "answer": "D",
+    "detail": "Mega cisterna magna features an enlarged posterior fossa with a preserved vermis. [36, 40]"
+  },
+  {
+    "number": 94,
+    "question": "A 'Blake Pouch Cyst' is a sac-like protrusion that only communicates with:",
+    "choices": ["A. The subarachnoid space", "B. The 4th ventricle", "C. The 3rd ventricle", "D. The cisterna magna", "E. The spinal canal"],
+    "answer": "B",
+    "detail": "A Blake pouch cyst communicates only with the ventricular system, unlike other posterior fossa cysts. [36, 41]"
+  },
+  {
+    "number": 95,
+    "question": "A 'Classic' Dandy Walker malformation consists of a triad. Which of the following is NOT part of that triad?",
+    "choices": [
+      "A. Hypoplasia of the vermis",
+      "B. Elevated and rotated vermis",
+      "C. Dilated cystic 4th ventricle",
+      "D. Absence of the septum pellucidum",
+      "E. Enlarged posterior fossa"
+    ],
+    "answer": "D",
+    "detail": "Septum pellucidum absence is associated with HPE and SOD, not DWM. [36, 41]"
+  },
+  {
+    "number": 96,
+    "question": "'Torcular-lambdoid inversion' is a buzzword for Dandy Walker describing:",
+    "choices": [
+      "A. The torcula being below the level of the lambdoid suture",
+      "B. The torcula being above the level of the lambdoid suture",
+      "C. Absence of the lambdoid suture",
+      "D. Fusion of the confluence of sinuses",
+      "E. A normal finding in 100% of infants"
+    ],
+    "answer": "B",
+    "detail": "The confluence of sinuses (torcula) is displaced superiorly in Dandy-Walker. [36, 41]"
+  },
+  {
+    "number": 97,
+    "question": "What is the most common clinical manifestation of Dandy Walker, seen in nearly all cases within the first month of life?",
+    "choices": ["A. Seizures", "B. Blindness", "C. Macrocephaly", "D. Hypotension", "E. Hearing loss"],
+    "answer": "C",
+    "detail": "Hydrocephalus leads to presenting macrocephaly in nearly all neonates. [36, 42]"
+  },
+  {
+    "number": 98,
+    "question": "Hydrocephalus is associated with Classic Dandy Walker in what percentage of cases?",
+    "choices": ["A. 10%", "B. 25%", "C. 50%", "D. 90%", "E. 100%"],
+    "answer": "D",
+    "detail": "Almost all Dandy-Walker cases feature associated hydrocephalus. [36, 42]"
+  },
+  {
+    "number": 99,
+    "question": "Holoprosencephaly (HPE) is a failure of the prosencephalon to:",
+    "choices": [
+      "A. Form myelin",
+      "B. Migrate neurons",
+      "C. Cleave into two hemispheres",
+      "D. Close the neural tube",
+      "E. Produce CSF"
+    ],
+    "answer": "C",
+    "detail": "HPE is the failure of the single brain vesicle to divide into two. [36, 43]"
+  },
+  {
+    "number": 100,
+    "question": "Which form of HPE is the 'most severe,' showing zero midline cleavage and a single midline ventricle?",
+    "choices": ["A. Semilobar", "B. Lobar", "C. Alobar", "D. Arrhencephaly", "E. Septo-optic dysplasia"],
+    "answer": "C",
+    "detail": "Alobar HPE features total lack of cleavage and a monoventricle. [36, 43]"
+  },
+  {
+    "number": 101,
+    "question": "In Alobar Holoprosencephaly, the thalami are typically:",
+    "choices": ["A. Widely separated", "B. Fused", "C. Small but distinct", "D. Located in the posterior fossa", "E. Absent"],
+    "answer": "B",
+    "detail": "Fused thalami are a characteristic feature of severe HPE. [36, 43]"
+  },
+  {
+    "number": 102,
+    "question": "In the 'Semilobar' form of HPE, what is the extent of frontal lobe fusion?",
+    "choices": ["A. < 10%", "B. 25%", "C. > 50%", "D. 0%", "E. 100%"],
+    "answer": "C",
+    "detail": "Semilobar features > 50% fusion of the frontal lobes. [36, 44]"
+  },
+  {
+    "number": 103,
+    "question": "Which facial abnormality is a classic 'multiple choice association' for Holoprosencephaly?",
+    "choices": ["A. Low set ears", "B. Microtia", "C. Cleft Lip / Palate", "D. 'Rodent' face", "E. Macroglossia"],
+    "answer": "C",
+    "detail": "Midline facial defects like clefts are frequently associated with HPE. [36, 44]"
+  },
+  {
+    "number": 104,
+    "question": "'Septo-optic Dysplasia (SOD)' is defined by the absence of the septum pellucidum and hypoplasia of which structures?",
+    "choices": [
+      "A. Thalami",
+      "B. Optic chiasm and optic nerves",
+      "C. Olfactory bulbs",
+      "D. Mammillary bodies",
+      "E. Cerebellar vermis"
+    ],
+    "answer": "B",
+    "detail": "Optic pathway hypoplasia is the second requirement for diagnosis. [44, 45]"
+  },
+  {
+    "number": 105,
+    "question": "Which rare vascular variant, characterized by a single common trunk of the ACAs, is associated with SOD and lobar HPE?",
+    "choices": [
+      "A. Persistent Trigeminal Artery",
+      "B. Fetal PCA",
+      "C. Azygos Anterior Cerebral Artery",
+      "D. Fenestrated Basilar Artery",
+      "E. Absent ICA"
+    ],
+    "answer": "C",
+    "detail": "The Azygos ACA is strongly associated with midline cleavage defects. [45, 46]"
+  },
+  {
+    "number": 106,
+    "question": "The brain is said to form 'inside-out.' From which region are the neurons originally birthed?",
+    "choices": [
+      "A. The cortical mantle",
+      "B. The subarachnoid space",
+      "C. The periventricular proliferative neuroepithelium (the 'Pit')",
+      "D. The dura mater",
+      "E. The spinal cord"
+    ],
+    "answer": "C",
+    "detail": "Neurons originate at the ventricular surface (the Pit) and migrate outward. [45, 46]"
+  },
+  {
+    "number": 107,
+    "question": "During the migration phase of cortical formation, neurons make the 'climb' to the cortex in how many waves?",
+    "choices": ["A. 1", "B. 3", "C. 6", "D. 10", "E. 12"],
+    "answer": "C",
+    "detail": "The 6-layered cortex is formed by 6 successive waves of migrating neurons. [45, 46]"
+  },
+  {
+    "number": 108,
+    "question": "In the 'Inside-Out' theory of migration, which cells are found most superficially in their final position?",
+    "choices": ["A. The oldest cells", "B. The younger cells (moving past older ones)", "C. Cells with the least myelin", "D. Dead cells", "E. Glial cells only"],
+    "answer": "B",
+    "detail": "Newer cells migrate past older ones to reach the outer cortical layers. [45, 47]"
+  },
+  {
+    "number": 109,
+    "question": "What is the key mechanism for brain folding (gyrification)?",
+    "choices": [
+      "A. Pressure from the skull",
+      "B. CSF pulsation",
+      "C. Differential speed of cortex expansion relative to deeper white matter",
+      "D. Traction from the cranial nerves",
+      "E. Blood flow velocity"
+    ],
+    "answer": "C",
+    "detail": "Folding results from the faster growth rate of the cortical surface compared to the core. [45, 47]"
+  },
+  {
+    "number": 110,
+    "question": "In the 'Hemimegalencephaly vs Atrophy' strategy, how do you identify Hemimegalencephaly?",
+    "choices": [
+      "A. Small side with a BIG ventricle",
+      "B. BIG side with a BIG ventricle",
+      "C. BIG side with a SMALL ventricle",
+      "D. Symmetric sides with NO ventricles",
+      "E. Small side with a SMALL ventricle"
+    ],
+    "answer": "B",
+    "detail": "A big side with a big ventricle is pathognomonic for hemimegalencephaly. [45, 47]"
+  },
+  {
+    "number": 111,
+    "question": "'Hamartomatous Overgrowth' of an entire cerebral hemisphere is the definition of:",
+    "choices": ["A. Rasmussen Encephalitis", "B. Hemimegalencephaly", "C. Dyke-Davidoff-Masson", "D. Lissencephaly", "E. Polymicrogyria"],
+    "answer": "B",
+    "detail": "Hemimegalencephaly is a hamartomatous overgrowth of half the brain. [45, 48]"
+  },
+  {
+    "number": 112,
+    "question": "A 'SMALL side with a BIG ventricle' is the result of:",
+    "choices": ["A. Hemimegalencephaly", "B. Atrophy", "C. Hypertrophy", "D. Porencephaly", "E. Agenesis"],
+    "answer": "B",
+    "detail": "A small side with a big ventricle (ex-vacuo) indicates atrophy. [45, 48]"
+  },
+  {
+    "number": 113,
+    "question": "Rasmussen’s Encephalitis is a destructive process that characteristically:",
+    "choices": [
+      "A. Affects the entire brain symmetrically",
+      "B. 'Annihilates half the brain,' resulting in atrophy and ex-vacuo dilation",
+      "C. Results in massive hamartomatous overgrowth",
+      "D. Is only seen in the elderly",
+      "E. Never involves the ventricles"
+    ],
+    "answer": "B",
+    "detail": "Rasmussen is a destructive process resulting in progressive hemi-atrophy. [45, 48]"
+  },
+  {
+    "number": 114,
+    "question": "Dyke-Davidoff-Masson (Cerebral Hemi-atrophy) is distinguished from Rasmussen because it also includes which feature?",
+    "choices": [
+      "A. Unilateral skull thickening and expanded sinuses",
+      "B. Absence of the falx",
+      "C. Bilateral hydrocephalus",
+      "D. A 'molar tooth' midbrain",
+      "E. Multiple intracranial lipomas"
+    ],
+    "answer": "A",
+    "detail": "Bone and sinus changes distinguish it from primary encephalitic atrophy. [45, 49]"
+  },
+  {
+    "number": 115,
+    "question": "'Classic' Type 1 Lissencephaly is a failure of:",
+    "choices": ["A. Proliferation", "B. Undermigration", "C. Overmigration", "D. Organization", "E. Myelination"],
+    "answer": "B",
+    "detail": "Type 1 is a failure of undermigration (neurons don't reach the surface). [45, 50]"
+  },
+  {
+    "number": 116,
+    "question": "A 'Figure 8' shaped brain on axial imaging due to shallow, vertical Sylvian fissures is characteristic of:",
+    "choices": ["A. Lissencephaly Type 2", "B. Lissencephaly 'Classic' Type 1", "C. Polymicrogyria", "D. Schizencephaly", "E. Heterotopia"],
+    "answer": "B",
+    "detail": "The 'Figure 8' or 'hourglass' shape is classic for Type 1. [45, 50]"
+  },
+  {
+    "number": 117,
+    "question": "In Type 1 Lissencephaly, the cortex is 'Thick' because it is composed of how many layers instead of the normal 6?",
+    "choices": ["A. 1", "B. 3", "C. 4", "D. 10", "E. 12"],
+    "answer": "C",
+    "detail": "Type 1 Lissencephaly typically features a 4-layered thickened cortex. [45, 50]"
+  },
+  {
+    "number": 118,
+    "question": "Which condition is considered the 'mildest form' of Classic Lissencephaly and creates a 'double cortex' appearance?",
+    "choices": ["A. Type 2 Lissencephaly", "B. Band Heterotopia", "C. Polymicrogyria", "D. Periventricular Heterotopia", "E. Schizencephaly"],
+    "answer": "B",
+    "detail": "Band heterotopia is often described as a 'double cortex'. [45, 50]"
+  },
+  {
+    "number": 119,
+    "question": "Band Heterotopia (Double Cortex) is most common in which gender?",
+    "choices": ["A. Males (XY)", "B. Females (XX)", "C. Equally common in both", "D. Infants only", "E. Post-menopausal women only"],
+    "answer": "B",
+    "detail": "This specific migration defect is far more frequent in females. [45, 51]"
+  },
+  {
+    "number": 120,
+    "question": "'Cobblestone' Type 2 Lissencephaly is the result of:",
+    "choices": ["A. Undermigration", "B. Overmigration", "C. Proliferation failure", "D. Chronic ischemia", "E. Lead poisoning"],
+    "answer": "B",
+    "detail": "Type 2 involves overmigration through the glia limitans into the subarachnoid space. [45, 51]"
+  },
+  {
+    "number": 121,
+    "question": "'Muscle-eye-brain disease' is an association classically found in which condition?",
+    "choices": ["A. Type 1 Lissencephaly", "B. Type 2 Lissencephaly", "C. Joubert Syndrome", "D. Chiari II", "E. Dandy Walker"],
+    "answer": "B",
+    "detail": "This disease is a standard association for Cobblestone Lissencephaly. [45, 51]"
+  },
+  {
+    "number": 122,
+    "question": "Where is the most common location for 'Grey Matter Heterotopia'?",
+    "choices": ["A. Cortical surface", "B. Periventricular (subependymal) region", "C. Basal ganglia", "D. Cerebellum", "E. Medulla"],
+    "answer": "B",
+    "detail": "Heterotopias are most common in the subependymal periventricular region. [45, 52]"
+  },
+  {
+    "number": 123,
+    "question": "Periventricular Nodular Heterotopias are highly associated with which clinical symptom?",
+    "choices": ["A. Blindness", "B. Seizure disorders", "C. Hypertension", "D. Hearing loss", "E. Precocious puberty"],
+    "answer": "B",
+    "detail": "Refractory seizures are the classic presentation for heterotopias. [45, 52]"
+  },
+  {
+    "number": 124,
+    "question": "How can a radiologist distinguish a heterotopia from a subependymal nodule of Tuberous Sclerosis?",
+    "choices": [
+      "A. Heterotopias follow grey matter on all sequences and do NOT enhance",
+      "B. Subependymal nodules follow CSF signal",
+      "C. Heterotopias always calcify",
+      "D. Subependymal nodules are T1 bright",
+      "E. No difference"
+    ],
+    "answer": "A",
+    "detail": "Heterotopias follow grey matter on all sequences and never enhance, unlike tubers. [52, 53]"
+  },
+  {
+    "number": 125,
+    "question": "Polymicrogyria (PMG) is a failure of 'Organization' that results in:",
+    "choices": [
+      "A. A smooth brain surface",
+      "B. An excessive number of small, fine folds (bumpy cortex)",
+      "C. Absence of all gyri",
+      "D. Fusion of the thalami",
+      "E. A 'Figure 8' shaped brain"
+    ],
+    "answer": "B",
+    "detail": "PMG is defined by an overabundance of tiny, malformed gyri. [53, 54]"
+  },
+  {
+    "number": 126,
+    "question": "Which TORCH infection is most strongly associated with Polymicrogyria?",
+    "choices": ["A. Toxoplasmosis", "B. Rubella", "C. CMV", "D. Herpes", "E. HIV"],
+    "answer": "C",
+    "detail": "CMV is the leading infectious cause of PMG. [53, 54]"
+  },
+  {
+    "number": 127,
+    "question": "Schizencephaly is defined as a brain cleft or hole that is 'LINED WITH':",
+    "choices": ["A. White matter", "B. Grey matter", "C. Fibrous tissue", "D. Blood", "E. Fat"],
+    "answer": "B",
+    "detail": "The hallmark of schizencephaly is a cleft lined by dysplastic grey matter. [53, 55]"
+  },
+  {
+    "number": 128,
+    "question": "Which type of Schizencephaly is described as 'more common and more severe'?",
+    "choices": ["A. Closed Lip (20%)", "B. Open Lip (80%)", "C. Midline only", "D. Posterior fossa only", "E. Trans-hemispheric"],
+    "answer": "B",
+    "detail": "Open lip schizencephaly is the most common and clinically severe subtype. [53, 55]"
+  },
+  {
+    "number": 129,
+    "question": "In 'Closed Lip' schizencephaly, what subtle clue might be seen on the ependymal (ventricular) surface?",
+    "choices": ["A. A large cyst", "B. A 'nipple' of grey matter pouching", "C. A calcified tuber", "D. A flow void", "E. A missing choroid plexus"],
+    "answer": "B",
+    "detail": "The 'ependymal nipple' is the subtle sign for closed-lip clefts. [53, 55]"
+  },
+  {
+    "number": 130,
+    "question": "Absent septum pellucidum is associated with Schizencephaly in what percentage of cases?",
+    "choices": ["A. 10%", "B. 30%", "C. 50%", "D. 70%", "E. 95%"],
+    "answer": "D",
+    "detail": "Absence of the septum pellucidum is a standard co-occurrence with schizencephaly. [53, 56]"
+  },
+  {
+    "number": 131,
+    "question": "How do you definitively distinguish Schizencephaly from Porencephaly?",
+    "choices": [
+      "A. Schizencephaly is lined with grey matter; Porencephaly is NOT",
+      "B. Porencephaly is congenital; Schizencephaly is acquired",
+      "C. Schizencephaly crosses the midline; Porencephaly does not",
+      "D. Porencephaly is T1 bright",
+      "E. No way"
+    ],
+    "answer": "A",
+    "detail": "Grey matter lining the defect confirms schizencephaly over porencephaly. [53, 56]"
+  },
+  {
+    "number": 132,
+    "question": "Porencephalic cysts are 'acquired,' classically resulting from:",
+    "choices": [
+      "A. Primary migration failure",
+      "B. A prior ischemic or traumatic event (encephalomalacia)",
+      "C. Notochord remnants",
+      "D. Over-proliferation of neurons",
+      "E. Chronic hydrocephalus"
+    ],
+    "answer": "B",
+    "detail": "Porencephalic cysts represent areas of prior brain tissue destruction. [53, 57]"
+  },
+  {
+    "number": 133,
+    "question": "'Hydranencephaly' is a massive in-utero destruction of both cerebral hemispheres, typically leaving only the:",
+    "choices": [
+      "A. Frontal lobes",
+      "B. Thalami",
+      "C. Cerebellum, midbrain, and the falx",
+      "D. Basal ganglia",
+      "E. Optic nerves"
+    ],
+    "answer": "C",
+    "detail": "Posterior fossa structures and the falx are typically preserved. [53, 57]"
+  },
+  {
+    "number": 134,
+    "question": "What is the most classic suspected cause of Hydranencephaly?",
+    "choices": ["A. CMV infection", "B. Bilateral ICA occlusion", "C. Maternal diabetes", "D. Trisomy 21", "E. Neonatal trauma"],
+    "answer": "B",
+    "detail": "Massive destruction follows bilateral occlusion of the internal carotid arteries. [53, 57]"
+  },
+  {
+    "number": 135,
+    "question": "To differentiate 'Severe Hydrocephalus' from 'Alobar Holoprosencephaly,' you should look for:",
+    "choices": [
+      "A. The size of the cerebellum",
+      "B. The presence of the falx cerebri (present in hydrocephalus)",
+      "C. The intensity of the CSF",
+      "D. The presence of the pituitary gland",
+      "E. Enhancement of the brainstem"
+    ],
+    "answer": "B",
+    "detail": "The presence of a falx cerebri confirms hydrocephalus and rules out alobar HPE. [53, 58]"
+  },
+  {
+    "number": 136,
+    "question": "In Alobar HPE, the anterior falx cerebri is typically:",
+    "choices": ["A. Thickened", "B. Normal", "C. Missing", "D. Calcified", "E. Displaced posteriorly"],
+    "answer": "C",
+    "detail": "The anterior falx is typically absent in Alobar HPE. [53, 58]"
+  },
+  {
+    "number": 137,
+    "question": "Which 'historical term' was used to describe severe cerebellar hypoplasia without herniation, but has since fallen out of favor?",
+    "choices": ["A. Chiari I", "B. Chiari II", "C. Chiari III", "D. Chiari IV", "E. Dandy Walker"],
+    "answer": "D",
+    "detail": "Chiari IV was historically used for severe hypoplasia without displacement. [53, 59]"
+  },
+  {
+    "number": 138,
+    "question": "In Dandy Walker, the cerebellar hemispheres are displaced in which direction?",
+    "choices": [
+      "A. Posterior and Inferior",
+      "B. Forward and Laterally",
+      "C. Superior and Medial",
+      "D. Into the foramen magnum",
+      "E. They are not displaced"
+    ],
+    "answer": "B",
+    "detail": "The expanding 4th ventricle monoventricle pushes hemispheres forward. [53, 59]"
+  },
+  {
+    "number": 139,
+    "question": "'Probst bundles' are white matter tracts destined to cross the corpus callosum that instead run parallel to the midline. They are diagnostic for:",
+    "choices": [
+      "A. Chiari II",
+      "B. Joubert Syndrome",
+      "C. Corpus Callosum Agenesis",
+      "D. Holoprosencephaly",
+      "E. Septo-optic Dysplasia"
+    ],
+    "answer": "C",
+    "detail": "Probst bundles are white matter tracts that failed to cross the midline. [53, 59]"
+  },
+  {
+    "number": 140,
+    "question": "On axial imaging, lateral ventricles that are 'widely spaced and parallel' (Racing Car appearance) suggest:",
+    "choices": ["A. Hydrocephalus", "B. CC Agenesis", "C. Schizencephaly", "D. Dandy Walker", "E. Chiari I"],
+    "answer": "B",
+    "detail": "Parallel, widely spaced lateral ventricles are referred to as 'Racing Car' ventricles. [53, 60]"
+  },
+  {
+    "number": 141,
+    "question": "On coronal imaging, lateral ventricles with a 'steer horn' appearance suggest:",
+    "choices": ["A. CC Agenesis", "B. Holoprosencephaly", "C. Lissencephaly", "D. SOD", "E. Hydranencephaly"],
+    "answer": "A",
+    "detail": "Upward pointing frontal horns create the 'steer horn' look on coronal views. [53, 60]"
+  },
+  {
+    "number": 142,
+    "question": "A cephalocele sac containing the spinal cord is a:",
+    "choices": ["A. Meningocele", "B. Cystocele", "C. Myelocele", "D. Encephalocele", "E. Lipoma"],
+    "answer": "C",
+    "detail": "A myelocele specifically contains spinal cord tissue. [53, 60]"
+  },
+  {
+    "number": 143,
+    "question": "Blake Pouch Cysts do NOT communicate with which space?",
+    "choices": ["A. 4th ventricle", "B. Cisternal CSF", "C. The foramen of Magendie", "D. The brainstem", "E. The spine"],
+    "answer": "B",
+    "detail": "Blake pouch cysts are ventricular diverticula and do not communicate with the subarachnoid space. [61, 62]"
+  },
+  {
+    "number": 144,
+    "question": "In Dandy Walker, the posterior fossa is typically:",
+    "choices": ["A. Small", "B. Normal", "C. Expanded", "D. Air-filled", "E. Obliterated by the thalami"],
+    "answer": "C",
+    "detail": "An expanded posterior fossa is a cardinal feature of DWM. [61, 62]"
+  },
+  {
+    "number": 145,
+    "question": "Failure of the prosencephalon to divide into hemispheres results in a spectrum of disorders known as:",
+    "choices": ["A. Lissencephaly", "B. Holoprosencephaly", "C. Chiari Malformations", "D. Dandy Walker Malformations", "E. Neural Tube Defects"],
+    "answer": "B",
+    "detail": "HPE represents the failure of primary brain vesicle cleavage. [61, 62]"
+  },
+  {
+    "number": 146,
+    "question": "Facial findings in Holoprosencephaly can include 'Borat’s brother Bilo,' which is a crude mnemonic for:",
+    "choices": ["A. Cyclopia", "B. Cleft Lip / Palate", "C. Low set ears", "D. Micrognathia", "E. Protruding tongue"],
+    "answer": "B",
+    "detail": "Clefts are the hallmark facial association for HPE. [62, 63]"
+  },
+  {
+    "number": 147,
+    "question": "An 'Azygos Anterior Cerebral Artery' is basically a:",
+    "choices": [
+      "A. Missing ACA",
+      "B. Double ACA",
+      "C. Common trunk of the ACAs",
+      "D. Connection to the basilar artery",
+      "E. Vein that mimics an artery"
+    ],
+    "answer": "C",
+    "detail": "The Azygos ACA variant features a single shared ACA trunk. [62, 63]"
+  },
+  {
+    "number": 148,
+    "question": "The 'differential speed of cortex expansion' relative to white matter is the mechanism behind:",
+    "choices": ["A. Myelination", "B. Proliferation", "C. Brain folding (gyrification)", "D. Neuron death", "E. Hydrocephalus"],
+    "answer": "C",
+    "detail": "Gyrification occurs because the cortex expands faster than the underlying core. [62, 63]"
+  },
+  {
+    "number": 149,
+    "question": "Lissencephaly Type 1 is a failure of neuronal:",
+    "choices": ["A. Proliferation", "B. Undermigration", "C. Overmigration", "D. Organization", "E. Blood supply"],
+    "answer": "B",
+    "detail": "Type 1 results from neurons failing to complete their outward climb. [62, 63]"
+  },
+  {
+    "number": 150,
+    "question": "Do grey matter heterotopias enhance with Gadolinium?",
+    "choices": ["A. Yes, avidly", "B. Yes, but only in the acute phase", "C. No", "D. Only if associated with cancer", "E. Only in children"],
+    "answer": "C",
+    "detail": "Heterotopias are composed of normal neural tissue and do not enhance. [62, 63]"
+  }
+]
+}

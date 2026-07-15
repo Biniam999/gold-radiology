@@ -1,0 +1,707 @@
+{
+    "questions": 
+
+[
+  {
+    "number": 1,
+    "question": "Multiple Sclerosis (MS) is considered the classic example of which white matter distribution pattern?",
+    "choices": ["A. Vascular pattern", "B. Perivascular pattern", "C. Diffuse confluent pattern", "D. Posterior predominant pattern", "E. Subcortical U-fiber pattern"],
+    "answer": "B",
+    "detail": "MS follows a perivascular distribution, as lesions typically form around small medullary veins."
+  },
+  {
+    "number": 2,
+    "question": "Which morphology is characteristically seen in Multiple Sclerosis lesions on MRI?",
+    "choices": ["A. Spherical and mass-like", "B. Ovoid and/or fusiform", "C. Linear and branching", "D. Wedge-shaped", "E. Geographic"],
+    "answer": "B",
+    "detail": "MS lesions are characteristically ovoid or fusiform in shape."
+  },
+  {
+    "number": 3,
+    "question": "In the diagnostic criteria for MS, a single white matter lesion greater than what size suggests the etiology is NOT vascular?",
+    "choices": ["A. 2 mm", "B. 5 mm", "C. 10 mm", "D. 15 mm", "E. 25 mm"],
+    "answer": "D",
+    "detail": "Lesions larger than 15 mm are unlikely to be vascular and favor a demyelinating process."
+  },
+  {
+    "number": 4,
+    "question": "According to the \"Vascular vs. Perivascular\" distribution, which location is common for MS but rare for vascular disease?",
+    "choices": ["A. Basal ganglia", "B. Corpus Callosum", "C. Thalamus", "D. Pons", "E. Internal capsule"],
+    "answer": "B",
+    "detail": "The corpus callosum is a frequent site for MS lesions but is rarely affected by small-vessel vascular disease."
+  },
+  {
+    "number": 5,
+    "question": "The McDonald Diagnostic Criteria for MS requires lesions to be disseminated in:",
+    "choices": ["A. Space and size", "B. Space and severity", "C. Space and time", "D. Time and age", "E. Vascular territories"],
+    "answer": "C",
+    "detail": "Dissemination in space and time is the fundamental requirement for the diagnosis of Multiple Sclerosis."
+  },
+  {
+    "number": 6,
+    "question": "Which patient demographic is most commonly targeted by Multiple Sclerosis?",
+    "choices": ["A. Men age 50–70", "B. Women age 20–40", "C. Infants", "D. Post-menopausal women", "E. Male adolescents"],
+    "answer": "B",
+    "detail": "MS predominantly affects young to middle-aged women."
+  },
+  {
+    "number": 7,
+    "question": "Involvement of which anatomical interface is reported to be 98% specific for MS?",
+    "choices": ["A. Gray-white junction", "B. Calloso-septal interface", "C. Ponto-mesencephalic junction", "D. Optic-chiasmatic junction", "E. Dural-cortical interface"],
+    "answer": "B",
+    "detail": "The calloso-septal interface is a highly specific location for MS plaques."
+  },
+  {
+    "number": 8,
+    "question": "Which MRI sequence is most sensitive for detecting juxtacortical and periventricular MS plaques?",
+    "choices": ["A. T2-weighted", "B. FLAIR", "C. T1-weighted", "D. DWI", "E. SWI"],
+    "answer": "B",
+    "detail": "FLAIR is superior for identifying lesions adjacent to CSF-filled spaces like the ventricles."
+  },
+  {
+    "number": 9,
+    "question": "Which MRI sequence is typically more sensitive than FLAIR for detecting MS lesions in the infratentorial region (posterior fossa)?",
+    "choices": ["A. T1-weighted", "B. T2-weighted", "C. STIR", "D. Proton Density", "E. GRE"],
+    "answer": "B",
+    "detail": "T2-weighted images often show posterior fossa lesions more clearly than FLAIR due to pulsation artifacts on the latter."
+  },
+  {
+    "number": 10,
+    "question": "A large MS plaque can mimic a tumor. What is the classic enhancement pattern for such a \"tumefactive\" MS lesion?",
+    "choices": ["A. Complete thick ring", "B. Incomplete ring (horseshoe shape)", "C. Nodular enhancement", "D. Central enhancement only", "E. No enhancement"],
+    "answer": "B",
+    "detail": "Tumefactive MS characteristically shows an incomplete \"horseshoe\" ring of enhancement."
+  },
+  {
+    "number": 11,
+    "question": "In an incomplete ring-enhancing MS lesion, where is the \"open\" part of the ring typically located?",
+    "choices": ["A. Facing the cortex", "B. Facing the basal ganglia/ventricular surface", "C. Facing the midline", "D. Facing the tentorium", "E. It is randomly oriented"],
+    "answer": "B",
+    "detail": "The open side of the horseshoe typically faces the gray matter or the ventricular surface."
+  },
+  {
+    "number": 12,
+    "question": "Acute Disseminated Encephalomyelitis (ADEM) typically occurs after which event?",
+    "choices": ["A. Hypertension", "B. Viral illness or vaccination", "C. Head trauma", "D. Stroke", "E. Chronic alcoholism"],
+    "answer": "B",
+    "detail": "ADEM is a monophasic demyelinating illness that usually follows a viral infection or vaccination."
+  },
+  {
+    "number": 13,
+    "question": "How do ADEM lesions characteristically differ from MS lesions regarding the calloso-septal interface?",
+    "choices": ["A. ADEM always involves it", "B. ADEM lesions do NOT involve the calloso-septal interface", "C. ADEM lesions are only found there", "D. ADEM lesions follow a vascular pattern", "E. There is no difference"],
+    "answer": "B",
+    "detail": "Sparing of the calloso-septal interface helps distinguish ADEM from Multiple Sclerosis."
+  },
+  {
+    "number": 14,
+    "question": "Acute Hemorrhagic Leukoencephalitis (Hurst Disease) is best described as:",
+    "choices": ["A. A benign form of MS", "B. A fulminant form of ADEM with massive brain swelling", "C. A chronic metabolic disorder", "D. A result of copper deposition", "E. A paraneoplastic syndrome"],
+    "answer": "B",
+    "detail": "Hurst disease is the most severe and fulminant hemorrhagic variant of ADEM."
+  },
+  {
+    "number": 15,
+    "question": "Devic’s disease (Neuromyelitis Optica) is defined by the combination of Optic Neuritis and:",
+    "choices": ["A. Hippocampal atrophy", "B. Transverse Myelitis", "C. Cerebellar degeneration", "D. Basal ganglia calcification", "E. Pituitary apoplexy"],
+    "answer": "B",
+    "detail": "Devic’s is defined by optic nerve and spinal cord (transverse myelitis) involvement."
+  },
+  {
+    "number": 16,
+    "question": "Which childhood MS variant is described as \"fulminant and terrible,\" leading to rapid death?",
+    "choices": ["A. ADEM", "B. Marburg Variant", "C. Binswanger Disease", "D. CADASIL", "E. Fahr Disease"],
+    "answer": "B",
+    "detail": "The Marburg variant is a rare, acute, and often fatal form of MS seen in children."
+  },
+  {
+    "number": 17,
+    "question": "Subcortical Arteriosclerotic Encephalopathy (SAE), or Binswanger Disease, is a multi-infarct dementia that:",
+    "choices": ["A. Favors the gray matter", "B. ONLY involves the white matter", "C. Favors the cerebellum", "D. Is associated with low blood pressure", "E. Primarily affects infants"],
+    "answer": "B",
+    "detail": "Binswanger disease is essentially multi-infarct dementia that is restricted to the white matter."
+  },
+  {
+    "number": 18,
+    "question": "Which white matter structures are \"classically spared\" in Binswanger Disease?",
+    "choices": ["A. Internal capsule", "B. Subcortical U-fibers", "C. Centrum semiovale", "D. Corpus callosum", "E. Optic radiations"],
+    "answer": "B",
+    "detail": "Sparing of the subcortical U-fibers is a classic feature of vascular white matter disease."
+  },
+  {
+    "number": 19,
+    "question": "What is the clinical triad for CADASIL?",
+    "choices": ["A. Fever, rash, and headache", "B. Migraines, recurrent strokes, and dementia", "C. Ataxia, confusion, and incontinence", "D. Blindness, deafness, and mutism", "E. Tremor, rigidity, and bradykinesia"],
+    "answer": "B",
+    "detail": "CADASIL typically presents in young to middle-aged adults with migraines, strokes, and cognitive decline."
+  },
+  {
+    "number": 20,
+    "question": "A 40-year-old patient presenting with CADASIL symptoms will likely show classic MRI signal changes in which location?",
+    "choices": ["A. Occipital lobe", "B. Temporal lobe", "C. Medulla", "D. Thalamus", "E. Pineal gland"],
+    "answer": "B",
+    "detail": "Involvement of the temporal lobes is a hallmark imaging finding for CADASIL."
+  },
+  {
+    "number": 21,
+    "question": "What is the genetic mutation associated with CADASIL?",
+    "choices": ["A. P53 mutation", "B. NOTCH3 mutations on chromosome 19", "C. NF1 mutation", "D. VHL mutation", "E. CAG repeats"],
+    "answer": "B",
+    "detail": "CADASIL is caused by mutations in the NOTCH3 gene on chromosome 19."
+  },
+  {
+    "number": 22,
+    "question": "On FDG PET, what is a \"quick pearl\" regarding the motor strip in neurodegenerative dementias?",
+    "choices": ["A. It is the first area to show low uptake", "B. The motor strip is always preserved", "C. It shows intense hypermetabolism", "D. It is only involved in Alzheimer's", "E. It is replaced by fat"],
+    "answer": "B",
+    "detail": "The motor strip is characteristically spared in the PET patterns of major dementias."
+  },
+  {
+    "number": 23,
+    "question": "What is the most common cause of dementia?",
+    "choices": ["A. Multi-infarct dementia", "B. Alzheimer Disease", "C. Pick's Disease", "D. Lewy Body Dementia", "E. Huntington's Disease"],
+    "answer": "B",
+    "detail": "Alzheimer's is the leading cause of dementia globally."
+  },
+  {
+    "number": 24,
+    "question": "What is the most classic imaging feature of Alzheimer's Disease on MRI?",
+    "choices": ["A. Caudate atrophy", "B. Hippocampal atrophy", "C. Frontal lobe overgrowth", "D. Thalamic calcification", "E. \"Hot Cross Bun\" sign"],
+    "answer": "B",
+    "detail": "Hippocampal atrophy is the earliest and most classic structural sign of Alzheimer's."
+  },
+  {
+    "number": 25,
+    "question": "In Alzheimer's Disease, temporal horn atrophy greater than what threshold is seen in over 65% of cases?",
+    "choices": ["A. 1 mm", "B. 3 mm", "C. 5 mm", "D. 10 mm", "E. 15 mm"],
+    "answer": "B",
+    "detail": "Widening of the temporal horns greater than 3 mm is highly suggestive of Alzheimer's."
+  },
+  {
+    "number": 26,
+    "question": "The FDG PET pattern for Alzheimer's is described as \"low posterior temporoparietal uptake.\" What is the catchy buzzword for this look?",
+    "choices": ["A. \"Mt. Fuji\"", "B. \"Headphones\" or \"ear muffs\"", "C. \"Tiger stripe\"", "D. \"Panda face\"", "E. \"Molar tooth\""],
+    "answer": "B",
+    "detail": "The bilateral posterior temporoparietal hypometabolism looks like \"headphones\" on an FDG PET."
+  },
+  {
+    "number": 27,
+    "question": "In Alzheimer's Disease, which specific area is typically the FIRST to become abnormal on PET?",
+    "choices": ["A. Frontal pole", "B. Posterior Cingulate gyrus", "C. Occipital cortex", "D. Cerebellar vermis", "E. Putamen"],
+    "answer": "B",
+    "detail": "Decreased uptake in the posterior cingulate gyrus is the earliest PET marker for Alzheimer's."
+  },
+  {
+    "number": 28,
+    "question": "Multi-infarct dementia (Vascular Dementia) has an FDG PET pattern characterized by:",
+    "choices": ["A. Symmetrical posterior uptake", "B. Multiple scattered areas of decreased activity", "C. Isolated frontal lobe low uptake", "D. Isolated hippocampal low uptake", "E. High global metabolism"],
+    "answer": "B",
+    "detail": "PET shows a \"random\" scattered pattern of hypometabolism corresponding to prior infarcts."
+  },
+  {
+    "number": 29,
+    "question": "Unlike neurodegenerative dementias, Multi-infarct dementia has the potential to:",
+    "choices": ["A. Spare the white matter", "B. Knock out the motor strip", "C. Cause \"Eye of the Tiger\"", "D. Lead to \"Hot Cross Bun\" sign", "E. Enhance homogeneously"],
+    "answer": "B",
+    "detail": "Because it is vascular, it can cause infarcts in the motor strip, which neurodegenerative dementias spare."
+  },
+  {
+    "number": 30,
+    "question": "Visual hallucinations and fluctuating alertness are hallmark clinical symptoms of:",
+    "choices": ["A. Alzheimer's", "B. Dementia with Lewy Bodies", "C. Pick's Disease", "D. Huntington's", "E. Multi-infarct dementia"],
+    "answer": "B",
+    "detail": "These are key parts of the clinical triad for Lewy Body Dementia."
+  },
+  {
+    "number": 31,
+    "question": "The \"Cingulate Island Sign\" on FDG PET refers to the preservation of the mid posterior cingulate gyrus and is a buzzword for:",
+    "choices": ["A. Alzheimer's", "B. Dementia with Lewy Bodies", "C. Pick's Disease", "D. Huntington's", "E. Multi-infarct dementia"],
+    "answer": "B",
+    "detail": "The Cingulate Island sign helps distinguish Lewy Body Dementia from Alzheimer's on PET."
+  },
+  {
+    "number": 32,
+    "question": "Pick’s Disease (Frontotemporal dementia) classically presents with:",
+    "choices": ["A. Severe symmetric atrophy of the frontal lobes", "B. Severe atrophy of the occipital lobes", "C. Hypertrophy of the caudate", "D. Normal PET scan", "E. Infarcts in the PCA territory"],
+    "answer": "A",
+    "detail": "Pick’s is characterized by profound frontal and temporal lobe atrophy."
+  },
+  {
+    "number": 33,
+    "question": "Fahr Disease (syndrome) is characterized by extensive calcification in the:",
+    "choices": ["A. Basal Ganglia and Thalami", "B. Corpus callosum", "C. Cortical gray matter only", "D. Optic nerves", "E. Spinal cord"],
+    "answer": "A",
+    "detail": "Fahr syndrome is defined by idiopathic, extensive calcification of the basal ganglia and thalami."
+  },
+  {
+    "number": 34,
+    "question": "In Fahr Disease, which structure is typically involved FIRST?",
+    "choices": ["A. Thalamus", "B. Globus pallidus", "C. Dentate nucleus", "D. Putamen", "E. Caudate"],
+    "answer": "B",
+    "detail": "The globus pallidus is usually the first site of calcification in Fahr disease."
+  },
+  {
+    "number": 35,
+    "question": "The \"Eye of the Tiger\" sign on T2 MRI is pathognomonic for:",
+    "choices": ["A. Fahr Disease", "B. Hallervorden Spatz (PKAN)", "C. ALS", "D. Wilson's Disease", "E. Huntington's"],
+    "answer": "B",
+    "detail": "The \"Eye of the Tiger\" consists of central T2 brightness surrounded by low signal in the globus pallidus."
+  },
+  {
+    "number": 36,
+    "question": "The central \"bright\" area of the Eye of the Tiger sign represents:",
+    "choices": ["A. Dark spot of calcification", "B. Necrosis", "C. Area of fat", "D. Flow void", "E. Enhancing nodule"],
+    "answer": "B",
+    "detail": "The central T2 hyperintensity represents necrosis within the iron-laden globus pallidus."
+  },
+  {
+    "number": 37,
+    "question": "Which condition is associated with the \"Motor Band sign\" (low signal in the motor cortex) on GRE or SWI sequences?",
+    "choices": ["A. Huntington's", "B. Amyotrophic Lateral Sclerosis (ALS)", "C. Pick's Disease", "D. Alzheimer's", "E. Fahr Disease"],
+    "answer": "B",
+    "detail": "The motor band sign on SWI is a specific imaging marker for ALS."
+  },
+  {
+    "number": 38,
+    "question": "The \"Alien limb phenomenon\" is a clinical manifestation seen in approximately 50% of patients with:",
+    "choices": ["A. ALS", "B. Cortico-basal Degeneration", "C. Parkinson's", "D. Wilson's", "E. MSA"],
+    "answer": "B",
+    "detail": "Alien limb is a characteristic finding in Cortico-basal Degeneration."
+  },
+  {
+    "number": 39,
+    "question": "Huntington Disease is an autosomal dominant disorder characterized by atrophy of the:",
+    "choices": ["A. Hippocampus", "B. Caudate", "C. Midbrain", "D. Pons", "E. Cerebellum"],
+    "answer": "B",
+    "detail": "Caudate atrophy is the defining structural feature of Huntington's."
+  },
+  {
+    "number": 40,
+    "question": "Due to caudate atrophy in Huntington's, the frontal horns of the lateral ventricles become:",
+    "choices": ["A. Slit-like", "B. Enlarged and outwardly convex (Boxcar shape)", "C. Fused", "D. Displaced inferiorly", "E. Compressed by the thalami"],
+    "answer": "B",
+    "detail": "Loss of the caudate head removes the normal indentation of the lateral ventricles, making them convex."
+  },
+  {
+    "number": 41,
+    "question": "What is the classic board trivia regarding the genetic sequence for Huntington's?",
+    "choices": ["A. 15 repeats", "B. 38 CAG repeats", "C. 100 GGG repeats", "D. 21 Trisomy", "E. X-linked recessive"],
+    "answer": "B",
+    "detail": "Huntington's is caused by an expanded CAG repeat sequence (threshold of 38)."
+  },
+  {
+    "number": 42,
+    "question": "Leigh Disease and MELAS are both categorized as:",
+    "choices": ["A. Tauopathies", "B. Mitochondrial Disorders", "C. Lysosomal storage diseases", "D. Prion diseases", "E. Alpha-synucleinopathies"],
+    "answer": "B",
+    "detail": "Both are primary mitochondrial diseases."
+  },
+  {
+    "number": 43,
+    "question": "Which MRS finding is characteristic of Leigh Disease and MELAS?",
+    "choices": ["A. Elevated NAA", "B. Elevated Lactate peak at 1.3 ppm", "C. Decreased Choline", "D. Elevated Myoinositol", "E. Elevated Alanine"],
+    "answer": "B",
+    "detail": "A lactate peak (or doublet) is the metabolic hallmark of these mitochondrial disorders."
+  },
+  {
+    "number": 44,
+    "question": "Leigh Disease typically shows T2/FLAIR bright lesions in the brainstem, basal ganglia, and:",
+    "choices": ["A. Occipital cortex", "B. Cerebral Peduncles", "C. Frontal lobes", "D. Corpus callosum", "E. Pituitary"],
+    "answer": "B",
+    "detail": "Cerebral peduncle involvement is a classic location for Leigh disease."
+  },
+  {
+    "number": 45,
+    "question": "\"Migrating Infarcts\" is a buzzword associated with which condition?",
+    "choices": ["A. Leigh Disease", "B. MELAS Syndrome", "C. CADASIL", "D. MS", "E. Binswanger Disease"],
+    "answer": "B",
+    "detail": "MELAS is famous for \"strokes\" that seem to shift location over time."
+  },
+  {
+    "number": 46,
+    "question": "Strokes in MELAS characteristically involve the cortical gray matter in which distribution?",
+    "choices": ["A. Single vascular distribution", "B. Nonvascular distribution", "C. Thalamic distribution", "D. Watershed distribution only", "E. Basal ganglia distribution only"],
+    "answer": "B",
+    "detail": "MELAS strokes do not follow standard arterial territories."
+  },
+  {
+    "number": 47,
+    "question": "Hurler Syndrome features \"Hurler Holes,\" which are actually:",
+    "choices": ["A. Brain abscesses", "B. Enlarged perivascular spaces", "C. Cortical infarcts", "D. Demyelinating plaques", "E. Skull fractures"],
+    "answer": "B",
+    "detail": "Marked enlargement of Virchow-Robin spaces is common in Hurler's."
+  },
+  {
+    "number": 48,
+    "question": "In Parkinson Disease, the DAT Scan (Ioflupane 123) is considered \"normal\" when the striatal uptake looks like:",
+    "choices": ["A. Periods", "B. Commas", "C. Stars", "D. Full circles", "E. Triangles"],
+    "answer": "B",
+    "detail": "Normal uptake in the striatum has a distinct \"comma\" shape."
+  },
+  {
+    "number": 49,
+    "question": "An \"abnormal\" DAT scan in Parkinsonism shows the striatal uptake becoming:",
+    "choices": ["A. Brighter", "B. Period-shaped (loss of the \"tail\")", "C. Larger", "D. Diffuse", "E. Invisible"],
+    "answer": "B",
+    "detail": "Loss of the putaminal \"tail\" transforms the comma into a period."
+  },
+  {
+    "number": 50,
+    "question": "Multiple System Atrophy (MSA) features the \"Hot Cross Bun Sign,\" representing loss of:",
+    "choices": ["A. Longitudinal fibers", "B. Transverse pontocerebellar fibers", "C. Cortical neurons", "D. The pituitary stalk", "E. Optic chiasm"],
+    "answer": "B",
+    "detail": "Degeneration of transverse fibers in the pons creates the cross-shaped T2 signal."
+  },
+  {
+    "number": 51,
+    "question": "Progressive Supranuclear Palsy (PSP) is characterized by midbrain volume loss with:",
+    "choices": ["A. A convex upper surface", "B. A concave upper surface (Hummingbird sign)", "C. Cerebellar hypertrophy", "D. Enlargement of the pons", "E. T2 dark basal ganglia"],
+    "answer": "B",
+    "detail": "Atrophy of the midbrain tegmentum creates the hummingbird profile on sagittal MRI."
+  },
+  {
+    "number": 52,
+    "question": "The \"Hummingbird Sign\" and the \"Mickey Mouse Sign\" are both buzzwords for:",
+    "choices": ["A. MSA", "B. Progressive Supranuclear Palsy (PSP)", "C. Huntington's", "D. Wilson's", "E. ALS"],
+    "answer": "B",
+    "detail": "These both describe the atrophy pattern of the midbrain in PSP."
+  },
+  {
+    "number": 53,
+    "question": "In the \"Mickey Mouse\" sign of PSP, what specific structure is atrophied?",
+    "choices": ["A. Tegmentum", "B. Tectum", "C. Peduncles", "D. Red Nucleus", "E. Substantia Nigra"],
+    "answer": "A",
+    "detail": "Atrophy of the midbrain tegmentum gives it the \"Mickey\" look."
+  },
+  {
+    "number": 54,
+    "question": "Wilson Disease is an autosomal recessive disorder involving the metabolism of:",
+    "choices": ["A. Iron", "B. Copper", "C. Phosphate", "D. Calcium", "E. Vitamin B12"],
+    "answer": "B",
+    "detail": "Wilson's is characterized by toxic accumulation of copper."
+  },
+  {
+    "number": 55,
+    "question": "Which clinical finding is seen in 95% of Wilson Disease patients?",
+    "choices": ["A. Kayser-Fleischer Rings", "B. Alien limb phenomenon", "C. Flexed thumbs", "D. \"Frog Eye\" appearance", "E. \"Sunset eyes\""],
+    "answer": "A",
+    "detail": "These are copper deposits in the cornea seen in nearly all patients."
+  },
+  {
+    "number": 56,
+    "question": "The \"Panda Sign\" on T2 MRI in Wilson Disease is characterized by:",
+    "choices": ["A. T2 dark tegmentum", "B. T2 bright tegmentum with normal dark red nuclei", "C. Diffuse calcification", "D. Hemorrhage in the putamen", "E. Enlargement of the thalami"],
+    "answer": "B",
+    "detail": "T2 brightness in the tegmentum with sparing of the red nuclei creates the panda face."
+  },
+  {
+    "number": 57,
+    "question": "For Parkinson Disease, Deep Brain Stimulator (DBS) electrodes are typically positioned in the:",
+    "choices": ["A. Thalamus", "B. Sub-thalamic nucleus", "C. Globus pallidus", "D. Hippocampus", "E. Fornix"],
+    "answer": "B",
+    "detail": "The subthalamic nucleus is the preferred target for Parkinson's DBS."
+  },
+  {
+    "number": 58,
+    "question": "Tips of the DBS electrodes for Parkinson's should be located approximately how far from the midline?",
+    "choices": ["A. 2 mm", "B. 5 mm", "C. 9 mm", "D. 15 mm", "E. 20 mm"],
+    "answer": "C",
+    "detail": "Electrode placement is typically around 9 mm lateral to the midline."
+  },
+  {
+    "number": 59,
+    "question": "What does \"NAA\" stand for in MRI Spectroscopy (MRS)?",
+    "choices": ["A. N-acetylaspartate", "B. Neural Acidic Amine", "C. Nitrogen Acetyl Amyloid", "D. Nicotinic Acetyl Asparagine", "E. Neuro-Anabolic Acid"],
+    "answer": "A",
+    "detail": "NAA is the major neuronal marker on MRS."
+  },
+  {
+    "number": 60,
+    "question": "On a normal MRS, the NAA peak is typically found at which frequency?",
+    "choices": ["A. 0.9 ppm", "B. 1.3 ppm", "C. 2.0 ppm", "D. 3.2 ppm", "E. 3.5 ppm"],
+    "answer": "C",
+    "detail": "NAA is found at 2.0 ppm on the MRS scale."
+  },
+  {
+    "number": 61,
+    "question": "NAA is considered a marker for:",
+    "choices": ["A. Cell membrane turnover", "B. Anaerobic metabolism", "C. Neuronal Marker / Viability", "D. Energy metabolism", "E. Necrosis"],
+    "answer": "C",
+    "detail": "NAA levels reflect the density and health of neurons."
+  },
+  {
+    "number": 62,
+    "question": "In general, a lower NAA peak on MRS suggests:",
+    "choices": ["A. The more benign the lesion", "B. The higher the grade of the tumor", "C. The higher the cellular metabolism", "D. The more likely the patient has Alzheimer's", "E. A normal variant"],
+    "answer": "B",
+    "detail": "Tumer infiltration destroys neurons, leading to a drop in the NAA peak."
+  },
+  {
+    "number": 63,
+    "question": "\"Choline\" (Co) is a marker for cell membrane turnover and is found at:",
+    "choices": ["A. 1.3 ppm", "B. 2.0 ppm", "C. 3.0 ppm", "D. 3.2 ppm", "E. 3.5 ppm"],
+    "answer": "D",
+    "detail": "Choline is located at 3.2 ppm."
+  },
+  {
+    "number": 64,
+    "question": "Which metabolite is a marker for energy metabolism and is found at 3.0 ppm?",
+    "choices": ["A. Choline", "B. Creatine", "C. NAA", "D. Myoinositol", "E. Lipid"],
+    "answer": "B",
+    "detail": "Creatine is the energy marker found at 3.0 ppm."
+  },
+  {
+    "number": 65,
+    "question": "Under normal conditions, Choline, Creatine, and NAA should ascend in height in that order. This is known as:",
+    "choices": ["A. Hunter’s Angle", "B. The McDonald rule", "C. Fisher Score", "D. The Torg-Pavlov ratio", "E. The Monix-Kellie line"],
+    "answer": "A",
+    "detail": "Normal brain spectroscopy should show a 45-degree ascending angle called Hunter's Angle."
+  },
+  {
+    "number": 66,
+    "question": "A \"Reversed Hunter’s Angle\" (Choline high, NAA low) is classic for:",
+    "choices": ["A. High Grade Glioma (GBM)", "B. Normal aging", "C. Low grade gliomas", "D. Brain abscess", "E. Stroke"],
+    "answer": "A",
+    "detail": "A reversed angle indicates rapid cell turnover and neuronal destruction typical of aggressive tumors."
+  },
+  {
+    "number": 67,
+    "question": "Which metabolite is a product of anaerobic metabolism and is \"absent under normal conditions\"?",
+    "choices": ["A. NAA", "B. Lactate", "C. Creatine", "D. Myoinositol", "E. Alanine"],
+    "answer": "B",
+    "detail": "Lactate appears when tissue is forced into anaerobic pathways."
+  },
+  {
+    "number": 68,
+    "question": "To see the \"inversion\" of the lactate peak (at 1.3 ppm) and distinguish it from lipids, you must use which TE?",
+    "choices": ["A. Short TE (30)", "B. Intermediate TE (around 140)", "C. Long TE (270)", "D. It doesn't matter", "E. Diffusion TE"],
+    "answer": "B",
+    "detail": "An intermediate TE of 140 is required to flip the lactate peak downward."
+  },
+  {
+    "number": 69,
+    "question": "Which amino acid peak at 1.48 ppm is characteristically found in Meningiomas?",
+    "choices": ["A. Glutamine", "B. Alanine", "C. Myoinositol", "D. Lipid", "E. NAA"],
+    "answer": "B",
+    "detail": "Alanine at 1.48 ppm is a highly specific marker for meningioma."
+  },
+  {
+    "number": 70,
+    "question": "The NAA peak is notably \"super high\" in which specific leukodystrophy?",
+    "choices": ["A. Metachromatic", "B. Canavan Disease", "C. Alexander Disease", "D. Krabbe Disease", "E. Adrenoleukodystrophy"],
+    "answer": "B",
+    "detail": "Canavan disease is unique for its massive elevation of the NAA peak."
+  },
+  {
+    "number": 71,
+    "question": "\"Myoinositol\" (mI) at 3.5 ppm is elevated in Alzheimer's and:",
+    "choices": ["A. Stroke", "B. Progressive Multifocal Leukoencephalopathy (PML)", "C. High grade gliomas", "D. Hepatic Encephalopathy", "E. Brain abscess"],
+    "answer": "B",
+    "detail": "mI is a marker of glial activation and is elevated in Alzheimer's and PML."
+  },
+  {
+    "number": 72,
+    "question": "In Hepatic Encephalopathy, \"GLX\" (Glutamine) is increased while Myoinositol is:",
+    "choices": ["A. Increased", "B. Reduced", "C. Unchanged", "D. Doubled", "E. Symmetrical"],
+    "answer": "B",
+    "detail": "Hepatic encephalopathy causes a reciprocal decrease in myoinositol."
+  },
+  {
+    "number": 73,
+    "question": "Metachromatic Leukodystrophy features which characteristic pattern of white matter disease?",
+    "choices": ["A. Frontal predominance", "B. Tigroid Pattern", "C. Subcortical predominance", "D. Posterior predominance", "E. Diffuse enhancement"],
+    "answer": "B",
+    "detail": "Stripes of spared myelin give it a \"tigroid\" or \"leopard skin\" look."
+  },
+  {
+    "number": 74,
+    "question": "Which structures are \"relatively spared\" in Metachromatic Leukodystrophy?",
+    "choices": ["A. Basal ganglia", "B. Subcortical U-fibers", "C. Cerebellum", "D. Thalami", "E. Brainstem"],
+    "answer": "B",
+    "detail": "Spared U-fibers is a classic feature of metachromatic leukodystrophy."
+  },
+  {
+    "number": 75,
+    "question": "Adrenoleukodystrophy (X-linked recessive) is a peroxisomal enzyme deficiency that is:",
+    "choices": ["A. Female predominant", "B. Male predominant", "C. Only seen in adults", "D. Found only in the frontal lobes", "E. T1 bright"],
+    "answer": "B",
+    "detail": "It is an X-linked recessive disorder seen in young males."
+  },
+  {
+    "number": 76,
+    "question": "Adrenoleukodystrophy typically shows white matter involvement with a:",
+    "choices": ["A. Parieto-occipital predominance", "B. Frontal predominance", "C. Medullary predominance", "D. Temporal predominance", "E. Diffuse cortical predominance"],
+    "answer": "A",
+    "detail": "ADL characteristically starts in the posterior white matter and spreads forward."
+  },
+  {
+    "number": 77,
+    "question": "Alexander Disease is a leukodystrophy characterized by a \"weird big head\" and white matter disease with:",
+    "choices": ["A. Posterior predominance", "B. Frontal predominance", "C. Cerebellar predominance", "D. Spared U-fibers", "E. Midline only involvement"],
+    "answer": "B",
+    "detail": "Alexander disease targets the frontal lobes first."
+  },
+  {
+    "number": 78,
+    "question": "Unlike many other leukodystrophies, Alexander Disease typically involves the:",
+    "choices": ["A. Basal ganglia", "B. Subcortical U-fibers", "C. Corpus callosum only", "D. Optic chiasm", "E. Pituitary"],
+    "answer": "B",
+    "detail": "In Alexander disease, the subcortical U-fibers are NOT spared."
+  },
+  {
+    "number": 79,
+    "question": "Canavan Disease also features a \"big head\" but is distinguished by involving the:",
+    "choices": ["A. Diffuse bilateral subcortical U-fibers", "B. Parietal lobes only", "C. Occipital lobes only", "D. Dentate nucleus", "E. Spinal cord"],
+    "answer": "A",
+    "detail": "Canavan features early and diffuse involvement of the subcortical U-fibers."
+  },
+  {
+    "number": 80,
+    "question": "Krabbe Disease is unique among leukodystrophies because the patient typically has a:",
+    "choices": ["A. Big head", "B. Small head", "C. Normal head size", "D. Deformed skull", "E. Missing falx"],
+    "answer": "B",
+    "detail": "Krabbe is associated with microcephaly (small head)."
+  },
+  {
+    "number": 81,
+    "question": "High density foci on CT (thalami, caudate, and deep white matter) are seen in:",
+    "choices": ["A. Alexander Disease", "B. Krabbe Disease", "C. Canavan Disease", "D. Pelizaeus-Merzbacher", "E. Fahr Disease"],
+    "answer": "B",
+    "detail": "Krabbe features dense spots on CT in these specific regions."
+  },
+  {
+    "number": 82,
+    "question": "Pelizaeus-Merzbacher Disease is characterized by a \"total lack of normal myelination\" and a:",
+    "choices": ["A. Normal head size", "B. Big head", "C. Small head", "D. Strawberry-shaped head", "E. Cloverleaf skull"],
+    "answer": "A",
+    "detail": "In contrast to others, head size is usually normal in Pelizaeus-Merzbacher."
+  },
+  {
+    "number": 83,
+    "question": "In the MRS of a high-grade tumor, as cell walls get broken down, what happens to the Choline peak?",
+    "choices": ["A. It goes down", "B. It goes up", "C. It stays the same", "D. It disappears", "E. It shifts to 1.3 ppm"],
+    "answer": "B",
+    "detail": "Choline rises because it is a marker for cell membrane turnover."
+  },
+  {
+    "number": 84,
+    "question": "\"Lipids\" may go up on MRS in the scenario of a:",
+    "choices": ["A. Benign cyst", "B. Necrotic tumor", "C. Small infarct", "D. Normal brain", "E. DVA"],
+    "answer": "B",
+    "detail": "Elevated lipids at 0.9-1.4 ppm indicate cell wall breakdown and necrosis."
+  },
+  {
+    "number": 85,
+    "question": "\"Mo Choline, Mo Problems\" is a mnemonic used to remember that higher grade tumors have:",
+    "choices": ["A. Less Choline", "B. More Choline", "C. More NAA", "D. More Creatine", "E. Less Lactate"],
+    "answer": "B",
+    "detail": "A rising choline peak infers that something is growing aggressively."
+  },
+  {
+    "number": 86,
+    "question": "For multiple choice questions, elevated Choline in the T2 signal surrounding a mass suggests:",
+    "choices": ["A. A Metastasis", "B. An Infiltrating Glioma", "C. A Brain Abscess", "D. A Stroke", "E. A Demyelinating plaque"],
+    "answer": "B",
+    "detail": "High choline in the \"edema\" implies infiltrating tumor cells, which helps distinguish glioma from metastasis."
+  },
+  {
+    "number": 87,
+    "question": "\"Disseminated necrotizing leukoencephalopathy\" is a severe white matter change seen in:",
+    "choices": ["A. HIV patients", "B. Leukemia patients undergoing radiation/chemo", "C. Chronic alcoholics", "D. Post-menopausal women", "E. Infants with CMV"],
+    "answer": "B",
+    "detail": "This is a severe complication of aggressive combined radiation and chemotherapy."
+  },
+  {
+    "number": 88,
+    "question": "\"Mineralizing Microangiopathy\" is the term for brain calcifications involving the basal ganglia/white matter following:",
+    "choices": ["A. Alcohol abuse", "B. Radiation and/or Chemotherapy", "C. Methanol poisoning", "D. Vitamin D deficiency", "E. Meningitis"],
+    "answer": "B",
+    "detail": "It is a specific iatrogenic pattern of calcification following treatment."
+  },
+  {
+    "number": 89,
+    "question": "In the context of MRS, Non-gliomas (like metastases or abscesses) tend to have:",
+    "choices": ["A. Super high NAA", "B. Little or no NAA", "C. Only Myoinositol", "D. Only Alanine", "E. High Creatine"],
+    "answer": "B",
+    "detail": "NAA is a neuronal/glial marker, so non-primary CNS lesions usually lack it."
+  },
+  {
+    "number": 90,
+    "question": "Which sequence is the \"Weapon of Choice\" for diagnosing Ventriculitis (pus within the ventricles)?",
+    "choices": ["A. T1 without contrast", "B. DWI", "C. FLAIR", "D. GRE", "E. T2*"],
+    "answer": "B",
+    "detail": "Restricting debris within the ventricles on DWI is diagnostic for ventriculitis."
+  },
+  {
+    "number": 91,
+    "question": "In a patient with HIV, symmetric T2 bright signal that spares the subcortical U-fibers suggests:",
+    "choices": ["A. PML", "B. HIV Encephalitis", "C. Toxoplasmosis", "D. Lymphoma", "E. CMV"],
+    "answer": "B",
+    "detail": "HIV Encephalitis is symmetric and characteristically spares the U-fibers."
+  },
+  {
+    "number": 92,
+    "question": "Progressive Multifocal Leukoencephalopathy (PML) is caused by the JC virus and characteristically:",
+    "choices": ["A. Spares the U-fibers", "B. Involves the subcortical U-fibers", "C. Is perfectly symmetric", "D. Shows ring enhancement", "E. Is T1 normal"],
+    "answer": "B",
+    "detail": "Involvement of the subcortical U-fibers helps distinguish PML from HIV encephalitis."
+  },
+  {
+    "number": 93,
+    "question": "The \"Dumbbell Sign\" (parieto-occipital signal crossing the splenium) is associated with:",
+    "choices": ["A. PML", "B. HIV Encephalitis", "C. Alzheimer's", "D. Pick's Disease", "E. MELAS"],
+    "answer": "A",
+    "detail": "This pattern of spread across the splenium is typical for PML."
+  },
+  {
+    "number": 94,
+    "question": "On FDG PET, \"Huntington's Disease\" is characterized by low activity in the:",
+    "choices": ["A. Frontal lobes", "B. Caudate nucleus and Putamen", "C. Occipital cortex", "D. Hippocampus", "E. Thalamus"],
+    "answer": "B",
+    "detail": "Huntington's shows profound hypometabolism in the striatum."
+  },
+  {
+    "number": 95,
+    "question": "On FDG PET, \"Dementia with Lewy Bodies\" shows low activity in the lateral occipital cortex but:",
+    "choices": ["A. Preserves the mid posterior cingulate gyrus", "B. Preserves the frontal lobes", "C. Spares the motor strip only", "D. Spares the hippocampus only", "E. Is identical to Alzheimer's"],
+    "answer": "A",
+    "detail": "Preservation of the cingulate gyrus (Cingulate Island sign) is the key differentiator from Alzheimer's."
+  },
+  {
+    "number": 96,
+    "question": "\"Tiger stripe mass\" in a cerebellar hemisphere on MRI is the diagnostic look for:",
+    "choices": ["A. Medulloblastoma", "B. Lhermitte-Duclos", "C. Pilocytic Astrocytoma", "D. Hemangioblastoma", "E. Metastasis"],
+    "answer": "B",
+    "detail": "Lhermitte-Duclos is a dysplastic gangliocytoma with a striped \"Aunt Minnie\" appearance."
+  },
+  {
+    "number": 97,
+    "question": "Lhermitte-Duclos is a hamartoma syndrome and is the \"CNS hallmark\" of:",
+    "choices": ["A. Neurofibromatosis 1", "B. Cowden Syndrome", "C. Von Hippel Lindau", "D. Tuberous Sclerosis", "E. Turcot Syndrome"],
+    "answer": "B",
+    "detail": "Lhermitte-Duclos is strongly associated with Cowden syndrome."
+  },
+  {
+    "number": 98,
+    "question": "If Lhermitte-Duclos is identified, what is the recommended \"Next Step\" for screening?",
+    "choices": ["A. Bone scan", "B. Mammogram", "C. Renal Ultrasound", "D. Colonoscopy", "E. Next Step: Mammogram"],
+    "answer": "B",
+    "detail": "Cowden syndrome carries a very high risk of breast cancer, necessitating screening."
+  },
+  {
+    "number": 99,
+    "question": "Which of the following is associated with \"Acro-osteolysis\" (specifically band-like)?",
+    "choices": ["A. Multiple Sclerosis", "B. Hajdu-Cheney Syndrome", "C. Alzheimer's", "D. Parkinson's", "E. Wilson's Disease"],
+    "answer": "B",
+    "detail": "Hajdu-Cheney is a rare genetic disorder characterized by bone resorption of the fingertips."
+  },
+  {
+    "number": 100,
+    "question": "\"Hot Cross Bun\" sign is the imaging hallmark of which MSA subtype?",
+    "choices": ["A. MSA-P", "B. MSA-C (Cerebellar subtype)", "C. MSA-A", "D. MSA-T", "E. MSA-V"],
+    "answer": "B",
+    "detail": "The sign represents degeneration of the transverse pontocerebellar tracts in the cerebellar variant of MSA."
+  }
+]
+
+}

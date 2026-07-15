@@ -1,0 +1,1306 @@
+{
+    "questions": 
+
+ [
+    {
+      "number": 1,
+      "question": "The \"root\" of the thoracic aorta is defined as the portion extending between which two landmarks?",
+      "choices": [
+        "Aortic valve annulus and the left subclavian artery",
+        "Aortic valve annulus and the sino-tubular (ST) junction",
+        "ST junction and the innominate artery",
+        "Left subclavian artery and the ligamentum arteriosum",
+        "Aortic arch and the diaphragm"
+      ],
+      "answer": "B",
+      "detail": "The aortic root specifically extends from the valve annulus to the sino-tubular junction."
+    },
+    {
+      "number": 2,
+      "question": "What is the average diameter of the thoracic aorta at the root?",
+      "choices": [
+        "2.0 cm",
+        "2.4 cm",
+        "3.0 cm",
+        "3.6 cm",
+        "4.2 cm"
+      ],
+      "answer": "D",
+      "detail": "The thoracic aorta averages 3.6 cm at the root, tapering to 2.4 cm distally."
+    },
+    {
+      "number": 3,
+      "question": "Which structure is located just distal to the aortic isthmus and is considered a normal contour bulge rather than a pseudoaneurysm?",
+      "choices": [
+        "Sinus of Valsalva",
+        "Ductus bump",
+        "Kommerell diverticulum",
+        "Left subclavian origin",
+        "Innominate artery"
+      ],
+      "answer": "B",
+      "detail": "A ductus bump is a normal contour bulge found along the lesser curvature distal to the isthmus."
+    },
+    {
+      "number": 4,
+      "question": "The \"Bovine Arch\" variant, seen in 15% of the population, is defined by which anatomical arrangement?",
+      "choices": [
+        "Separate origin of the left vertebral artery",
+        "Common origin of the brachiocephalic and left common carotid arteries",
+        "Left common carotid coming off the brachiocephalic proper",
+        "Four separate branches off the arch",
+        "Right-sided aortic arch with mirror branching"
+      ],
+      "answer": "B",
+      "detail": "Bovine arch is characterized by a shared origin of the brachiocephalic and left common carotid arteries."
+    },
+    {
+      "number": 5,
+      "question": "What is the most common aortic arch anomaly?",
+      "choices": [
+        "Right-sided arch with mirror branching",
+        "Bovine arch",
+        "Left arch with an aberrant right subclavian artery",
+        "Double aortic arch",
+        "Separate origin of the left vertebral artery"
+      ],
+      "answer": "C",
+      "detail": "The left arch with an aberrant right subclavian is the most frequent arch anomaly."
+    },
+    {
+      "number": 6,
+      "question": "Which vascular anomaly is unique as the only one to course between the esophagus and the trachea?",
+      "choices": [
+        "Double aortic arch",
+        "Aberrant right subclavian artery",
+        "Pulmonary sling",
+        "Bovine arch",
+        "Right-sided arch"
+      ],
+      "answer": "C",
+      "detail": "The pulmonary sling is the only variant that passes between the esophagus and the trachea."
+    },
+    {
+      "number": 7,
+      "question": "Pulmonary sling is characteristically associated with which of the following?",
+      "choices": [
+        "Bicuspid aortic valve",
+        "Tracheal stenosis from complete rings",
+        "Coarctation of the aorta",
+        "Sinus venosus ASD",
+        "Persistent left SVC"
+      ],
+      "answer": "B",
+      "detail": "Pulmonary slings are highly associated with primary tracheal stenosis due to complete tracheal rings."
+    },
+    {
+      "number": 8,
+      "question": "The Artery of Adamkiewicz, a dominant feeder of the spinal cord, most commonly arises from which side of the aorta?",
+      "choices": [
+        "Right side (70%)",
+        "Left side (70%)",
+        "Right side (90%)",
+        "Left side (90%)",
+        "It is always midline"
+      ],
+      "answer": "B",
+      "detail": "The Artery of Adamkiewicz arises from the left side in 70% of cases."
+    },
+    {
+      "number": 9,
+      "question": "What is the most common vertebral level range for the origin of the Artery of Adamkiewicz?",
+      "choices": [
+        "T5-T8",
+        "T9-T12",
+        "L1-L3",
+        "T1-T4",
+        "L4-L5"
+      ],
+      "answer": "B",
+      "detail": "This critical spinal artery typically originates between T9 and T12."
+    },
+    {
+      "number": 10,
+      "question": "On an angiogram, the Artery of Adamkiewicz is identified by which characteristic morphology?",
+      "choices": [
+        "Corkscrew appearance",
+        "Tree-bark appearance",
+        "Hairpin turn",
+        "Tulip bulb appearance",
+        "Beaded appearance"
+      ],
+      "answer": "C",
+      "detail": "The classic 'hairpin turn' identifies this artery where it joins the anterior spinal artery."
+    },
+    {
+      "number": 11,
+      "question": "Which branch is typically the first to arise from the Superior Mesenteric Artery (SMA)?",
+      "choices": [
+        "Middle colic artery",
+        "Right colic artery",
+        "Inferior pancreaticoduodenal artery",
+        "Ileocolic artery",
+        "Appendicular artery"
+      ],
+      "answer": "C",
+      "detail": "The inferior pancreaticoduodenal is the first branch to take off from the SMA."
+    },
+    {
+      "number": 12,
+      "question": "The \"Arc of Riolan\" is a collateral pathway connecting which two vessels?",
+      "choices": [
+        "Celiac artery and SMA",
+        "Right colic and middle colic arteries",
+        "Left colic (from IMA) and middle colic (from SMA)",
+        "SMA and internal iliac artery",
+        "Hepatic and splenic arteries"
+      ],
+      "answer": "C",
+      "detail": "The Arc of Riolan connects the left colic (IMA) and middle colic (SMA) arteries."
+    },
+    {
+      "number": 13,
+      "question": "A \"Typical\" Celiac Axis gives rise to which three branches?",
+      "choices": [
+        "Left gastric, SMA, and splenic arteries",
+        "Common hepatic, left gastric, and splenic arteries",
+        "Proper hepatic, GDA, and splenic arteries",
+        "Right hepatic, left hepatic, and GDA",
+        "Common hepatic, right gastric, and IMA"
+      ],
+      "answer": "B",
+      "detail": "The standard celiac trifurcation includes the common hepatic, left gastric, and splenic arteries."
+    },
+    {
+      "number": 14,
+      "question": "What is the most common variation of the hepatic arterial anatomy (seen in ~10% of people)?",
+      "choices": [
+        "Replaced left hepatic artery off the left gastric",
+        "Accessory left hepatic artery",
+        "Replaced right hepatic artery off the SMA",
+        "Celiac-mesenteric trunk",
+        "Replaced common hepatic artery off the SMA"
+      ],
+      "answer": "C",
+      "detail": "A replaced right hepatic artery from the SMA is the most common variant (10%)."
+    },
+    {
+      "number": 15,
+      "question": "If a vessel is seen in the fissure of the ligamentum venosum on CT, what does it likely represent?",
+      "choices": [
+        "Replaced right hepatic artery",
+        "Replaced or accessory left hepatic artery",
+        "Replaced common hepatic artery",
+        "Dilated portal vein",
+        "Persistent umbilical vein"
+      ],
+      "answer": "B",
+      "detail": "A replaced or accessory left hepatic artery from the left gastric artery courses through the fissure of the ligamentum venosum."
+    },
+    {
+      "number": 16,
+      "question": "Which mnemonic is used to remember the branches of the posterior division of the internal iliac artery?",
+      "choices": [
+        "\"Some Administrative Assistants\"",
+        "\"I Love Sex\"",
+        "\"LAD for D\"",
+        "\"C.R.A.Z.Y.\"",
+        "\"VACTERL\""
+      ],
+      "answer": "B",
+      "detail": "The mnemonic stands for Iliolumbar, Lateral sacral, and Superior gluteal arteries."
+    },
+    {
+      "number": 17,
+      "question": "The \"Persistent Sciatic Artery\" is an anatomical variant that is a continuation of which vessel?",
+      "choices": [
+        "External iliac artery",
+        "Internal iliac artery",
+        "Common femoral artery",
+        "Obturator artery",
+        "Superior gluteal artery"
+      ],
+      "answer": "B",
+      "detail": "This artery is a continuation of the internal iliac artery."
+    },
+    {
+      "number": 18,
+      "question": "What is a classic clinical clue for a persistent sciatic artery on a vascular boards question?",
+      "choices": [
+        "Swollen left leg",
+        "Absent femoral pulses but a strong pulse in the foot",
+        "Renovascular hypertension in a child",
+        "Hemoptysis with a positive PPD",
+        "Tearing chest pain radiating to the back"
+      ],
+      "answer": "B",
+      "detail": "This occurs because the foot is supplied by the internal iliac system rather than the occluded external/femoral system."
+    },
+    {
+      "number": 19,
+      "question": "\"Corona Mortis\" (Crown of Death) is a vascular connection between which two arteries?",
+      "choices": [
+        "Celiac and SMA",
+        "SMA and IMA",
+        "Obturator and external iliac arteries",
+        "Internal iliac and internal pudendal arteries",
+        "Subclavian and internal thoracic arteries"
+      ],
+      "answer": "C",
+      "detail": "Corona Mortis is an anastomosis between the obturator and external iliac (or inferior epigastric) systems."
+    },
+    {
+      "number": 20,
+      "question": "Why is the \"Corona Mortis\" significant in clinical practice?",
+      "choices": [
+        "It is a common source of type 1 endoleaks.",
+        "it can be injured during pelvic trauma or surgery and is difficult to ligate.",
+        "It causes dysphagia lusoria.",
+        "It is the main feeder for the spinal cord.",
+        "it prevents the development of collateral circulation."
+      ],
+      "answer": "B",
+      "detail": "Its location makes it prone to surgical injury and notoriously difficult to control."
+    },
+    {
+      "number": 21,
+      "question": "In the scalene triangle of the neck, what is the relationship between the subclavian artery and vein?",
+      "choices": [
+        "The artery is anterior to the vein.",
+        "The artery is posterior to the vein.",
+        "Both run inside the triangle with the phrenic nerve.",
+        "The vein runs in the triangle; the artery runs anteriorly.",
+        "They are separated by the middle scalene muscle."
+      ],
+      "answer": "B",
+      "detail": "The subclavian artery lies posterior to the vein in the scalene triangle."
+    },
+    {
+      "number": 22,
+      "question": "At which landmark does the axillary artery become the brachial artery?",
+      "choices": [
+        "The first rib",
+        "The lower border of the teres major",
+        "The level of the radial head",
+        "The lower border of the teres minor",
+        "The surgical neck of the humerus"
+      ],
+      "answer": "B",
+      "detail": "The transition from axillary to brachial occurs at the lower border of the teres major muscle."
+    },
+    {
+      "number": 23,
+      "question": "Which of the following is a rule for distinguishing the ulnar artery from the radial artery on an angiogram?",
+      "choices": [
+        "The radial artery is usually bigger.",
+        "The ulnar artery supplies the deep palmar arch.",
+        "The ulnar artery usually gives off the common interosseous artery.",
+        "The radial artery is always medial.",
+        "The ulnar artery originates from the axillary artery."
+      ],
+      "answer": "C",
+      "detail": "The ulnar artery is typically larger and provides the common interosseous branch."
+    },
+    {
+      "number": 24,
+      "question": "At the inguinal ligament, the external iliac artery becomes which vessel?",
+      "choices": [
+        "Deep femoral artery",
+        "Superficial femoral artery",
+        "Common femoral artery",
+        "Popliteal artery",
+        "Inferior epigastric artery"
+      ],
+      "answer": "C",
+      "detail": "The external iliac becomes the common femoral artery after passing the inguinal ligament."
+    },
+    {
+      "number": 25,
+      "question": "Which artery is considered the most medial artery in the lower leg?",
+      "choices": [
+        "Anterior tibialis",
+        "Peroneal (fibular)",
+        "Posterior tibialis",
+        "Popliteal",
+        "Dorsalis pedis"
+      ],
+      "answer": "C",
+      "detail": "The posterior tibialis is the most medial and is palpated at the medial malleolus."
+    },
+    {
+      "number": 26,
+      "question": "The popliteal artery bifurcates into which two primary vessels?",
+      "choices": [
+        "SFA and Profunda",
+        "Anterior tibialis and the tibioperoneal trunk",
+        "Posterior tibialis and peroneal",
+        "Dorsalis pedis and peroneal",
+        "Medial and lateral sural arteries"
+      ],
+      "answer": "B",
+      "detail": "At the lower border of the popliteus, the artery splits into the anterior tibialis and the tibioperoneal trunk."
+    },
+    {
+      "number": 27,
+      "question": "Most gastric varices are formed by which vessel?",
+      "choices": [
+        "Short gastric veins",
+        "Right gastric vein",
+        "Left gastric (coronary) vein",
+        "Splenic vein",
+        "Superior mesenteric vein"
+      ],
+      "answer": "C",
+      "detail": "The left gastric (coronary) vein is the primary source of gastric varices."
+    },
+    {
+      "number": 28,
+      "question": "What is the most common congenital venous anomaly in the chest?",
+      "choices": [
+        "Duplicated IVC",
+        "Azygos continuation",
+        "Left-sided SVC",
+        "Circum-aortic renal collar",
+        "Retro-aortic renal vein"
+      ],
+      "answer": "C",
+      "detail": "Left-sided SVC is the most frequent congenital venous chest anomaly."
+    },
+    {
+      "number": 29,
+      "question": "A persistent left-sided SVC nearly always (92%) drains into which structure?",
+      "choices": [
+        "Left atrium",
+        "Right atrium directly",
+        "Coronary sinus",
+        "SVC",
+        "Pulmonary vein"
+      ],
+      "answer": "C",
+      "detail": "In the vast majority of cases, the left SVC drains into the coronary sinus."
+    },
+    {
+      "number": 30,
+      "question": "Left-sided SVC is characteristically associated with which congenital heart defect?",
+      "choices": [
+        "VSD",
+        "ASD",
+        "Coarctation",
+        "Tetralogy of Fallot",
+        "Truncus arteriosus"
+      ],
+      "answer": "B",
+      "detail": "Atrial septal defects (ASD) are most commonly associated with a left-sided SVC."
+    },
+    {
+      "number": 31,
+      "question": "\"Azygos continuation\" of the IVC is also known as the absence of which segment?",
+      "choices": [
+        "Prerenal segment",
+        "Hepatic segment",
+        "Renal segment",
+        "Iliac segment",
+        "Suprarenal segment"
+      ],
+      "answer": "B",
+      "detail": "Azygos continuation is defined by the absence of the hepatic IVC segment."
+    },
+    {
+      "number": 32,
+      "question": "The presence of azygos continuation should immediately make you think of which syndrome?",
+      "choices": [
+        "Asplenia",
+        "Polysplenia",
+        "Turner syndrome",
+        "Marfan syndrome",
+        "Williams syndrome"
+      ],
+      "answer": "B",
+      "detail": "Azygos continuation of the IVC is a hallmark of polysplenia syndrome."
+    },
+    {
+      "number": 33,
+      "question": "In the \"Heterotaxia Syndrome\" game, which finding is associated with asplenia (right isomerism)?",
+      "choices": [
+        "Interrupted IVC",
+        "Reversed Aorta/IVC",
+        "Azygos continuation",
+        "One fissure in the right lung",
+        "Biliary atresia"
+      ],
+      "answer": "B",
+      "detail": "Asplenia or Right Isomerism is associated with a reversed relationship between the Aorta and IVC."
+    },
+    {
+      "number": 34,
+      "question": "In a \"circumaortic venous collar,\" which limb is superior relative to the other?",
+      "choices": [
+        "The posterior limb is superior.",
+        "The anterior limb is superior.",
+        "They are at the same level.",
+        "It depends on the patient's age.",
+        "The superior limb is always the one that thromboses."
+      ],
+      "answer": "B",
+      "detail": "The anterior limb of the collar is superior, while the posterior limb is inferior."
+    },
+    {
+      "number": 35,
+      "question": "A \"Duplicated IVC\" is frequently associated with which anatomical anomalies?",
+      "choices": [
+        "Horseshoe kidney and crossed fused ectopic kidneys",
+        "Bicuspid aortic valve and coarctation",
+        "Polysplenia and azygos continuation",
+        "D-Transposition and situs inversus",
+        "Tracheal stenosis and pulmonary sling"
+      ],
+      "answer": "A",
+      "detail": "Duplicated IVCs are commonly associated with horseshoe or crossed fused renal ectopia."
+    },
+    {
+      "number": 36,
+      "question": "Where is the most common location for a pulmonary AVM?",
+      "choices": [
+        "Upper lobes",
+        "Mid-lung zones",
+        "Lower lobes",
+        "Apex",
+        "Hilar region"
+      ],
+      "answer": "C",
+      "detail": "Due to higher blood flow, pulmonary AVMs are most frequently found in the lower lobes."
+    },
+    {
+      "number": 37,
+      "question": "At what afferent vessel size is a pulmonary AVM typically treated?",
+      "choices": [
+        "1 mm",
+        "2 mm",
+        "3 mm",
+        "5 mm",
+        "10 mm"
+      ],
+      "answer": "C",
+      "detail": "The clinical standard is to treat AVMs when the feeding artery reaches 3 mm."
+    },
+    {
+      "number": 38,
+      "question": "Which syndrome is characterized by multiple AVMs in the liver and lungs?",
+      "choices": [
+        "PHACES",
+        "Osler-Weber-Rendu (HHT)",
+        "Turner",
+        "Marfan",
+        "Mazabraud"
+      ],
+      "answer": "B",
+      "detail": "Hereditary Hemorrhagic Telangiectasia (HHT) typically presents with multiple visceral AVMs."
+    },
+    {
+      "number": 39,
+      "question": "In a patient with HHT, what is a feared complication of pulmonary AVMs due to right-to-left shunting?",
+      "choices": [
+        "Pulmonary hypertension",
+        "Brain abscess or stroke",
+        "Liver failure",
+        "Myocardial infarction",
+        "Renal failure"
+      ],
+      "answer": "B",
+      "detail": "Right-to-left shunting through pulmonary AVMs can allow bacteria or clots to reach the brain, causing abscess or stroke."
+    },
+    {
+      "number": 40,
+      "question": "What is the most common visceral arterial aneurysm?",
+      "choices": [
+        "Hepatic artery aneurysm",
+        "SMA aneurysm",
+        "Splenic artery aneurysm",
+        "Celiac artery aneurysm",
+        "Renal artery aneurysm"
+      ],
+      "answer": "C",
+      "detail": "The splenic artery is the most frequent site of visceral arterial aneurysms."
+    },
+    {
+      "number": 41,
+      "question": "Splenic artery aneurysms are more common and more likely to rupture in which patient population?",
+      "choices": [
+        "Elderly men with atherosclerosis",
+        "Young women who are pregnant",
+        "Children with Kawasaki disease",
+        "Patients with untreated syphilis",
+        "IV drug users"
+      ],
+      "answer": "B",
+      "detail": "Pregnancy is a major risk factor for the development and rupture of splenic aneurysms."
+    },
+    {
+      "number": 42,
+      "question": "For visceral artery aneurysms, what is the generally accepted size threshold for treatment?",
+      "choices": [
+        "1 cm",
+        "1.5 cm",
+        "2 cm",
+        "3 cm",
+        "5 cm"
+      ],
+      "answer": "C",
+      "detail": "Most visceral aneurysms (splenic, hepatic) are treated once they reach 2 cm."
+    },
+    {
+      "number": 43,
+      "question": "Which visceral aneurysm carries a high rate of rupture and mesenteric ischemia and should always be treated?",
+      "choices": [
+        "Splenic artery aneurysm",
+        "Hepatic artery aneurysm",
+        "SMA aneurysm",
+        "Left gastric aneurysm",
+        "Renal artery aneurysm"
+      ],
+      "answer": "C",
+      "detail": "All SMA aneurysms require treatment due to their aggressive nature and risk of ischemia."
+    },
+    {
+      "number": 44,
+      "question": "\"Median Arcuate Ligament Syndrome\" (Dunbar Syndrome) is caused by compression of which vessel?",
+      "choices": [
+        "SMA",
+        "IMA",
+        "Celiac artery",
+        "Renal artery",
+        "Aorta"
+      ],
+      "answer": "C",
+      "detail": "This syndrome involves celiac artery compression by the median arcuate ligament."
+    },
+    {
+      "number": 45,
+      "question": "What is the characteristic radiographic buzzword for Median Arcuate Ligament Syndrome?",
+      "choices": [
+        "\"Tulip bulb\" appearance",
+        "\"Hooked appearance\"",
+        "\"String of beads\"",
+        "\"Saber-sheath\" appearance",
+        "\"Snowman\" appearance"
+      ],
+      "answer": "B",
+      "detail": "The 'hooked appearance' of the celiac artery is diagnostic for this syndrome."
+    },
+    {
+      "number": 46,
+      "question": "Symptoms of Median Arcuate Ligament Syndrome characteristically get worse during which phase of respiration?",
+      "choices": [
+        "Inspiration",
+        "Expiration",
+        "They are constant",
+        "Breath-holding",
+        "Rapid panting"
+      ],
+      "answer": "B",
+      "detail": "Compression of the celiac artery is classically worsened during expiration."
+    },
+    {
+      "number": 47,
+      "question": "Which collateral system often dilates in the setting of celiac artery stenosis/occlusion?",
+      "choices": [
+        "Arc of Riolan",
+        "Marginal artery of Drummond",
+        "Pancreaticoduodenal arcades",
+        "Corona Mortis",
+        "Winslow pathway"
+      ],
+      "answer": "C",
+      "detail": "Stenosis of the celiac axis often leads to compensatory dilation of the pancreaticoduodenal collateral arcades."
+    },
+    {
+      "number": 48,
+      "question": "In the \"Anatomy of the Secondary Pulmonary Lobule,\" what structure runs through the middle?",
+      "choices": [
+        "Veins and lymphatics",
+        "Airway and artery",
+        "Septa",
+        "Visceral pleura",
+        "Bronchial arteries"
+      ],
+      "answer": "B",
+      "detail": "The terminal bronchiole and pulmonary artery occupy the center of the lobule."
+    },
+    {
+      "number": 49,
+      "question": "What structures are found in the periphery of the secondary pulmonary lobule, outlining the septa?",
+      "choices": [
+        "Airway and artery",
+        "Veins and lymphatics",
+        "Artery and lymphatics",
+        "Veins and airway",
+        "Nerve fibers"
+      ],
+      "answer": "B",
+      "detail": "The veins and lymphatics run in the interlobular septa at the periphery."
+    },
+    {
+      "number": 50,
+      "question": "What is the \"most anterior\" structure in the superior mediastinum?",
+      "choices": [
+        "Trachea",
+        "Esophagus",
+        "Thymus",
+        "Arch of the aorta",
+        "SVC"
+      ],
+      "answer": "C",
+      "detail": "The thymus is the most anteriorly situated structure in the superior mediastinum."
+    },
+    {
+      "number": 51,
+      "question": "What are the three recognized \"acute aortic syndromes\"?",
+      "choices": [
+        "Dissection, aneurysm, and coarctation",
+        "Dissection, intramural hematoma, and penetrating ulcer",
+        "Aneurysm, rupture, and fistulization",
+        "Vasculitis, coarctation, and dissection",
+        "Stenosis, ulceration, and hematoma"
+      ],
+      "answer": "B",
+      "detail": "Aortic dissection, intramural hematoma, and penetrating ulcer comprise the AAS triad."
+    },
+    {
+      "number": 52,
+      "question": "What is the #1 risk factor for the development of a Penetrating Ulcer?",
+      "choices": [
+        "Hypertension",
+        "Atherosclerosis",
+        "Connective tissue disease",
+        "Pregnancy",
+        "Trauma"
+      ],
+      "answer": "B",
+      "detail": "Atherosclerosis is the primary risk factor for a penetrating aortic ulcer."
+    },
+    {
+      "number": 53,
+      "question": "Penetrating ulcers typically involve which portion of the aorta?",
+      "choices": [
+        "Aortic root",
+        "Ascending aorta",
+        "Descending thoracic aorta",
+        "Abdominal aorta only",
+        "Arch of the aorta"
+      ],
+      "answer": "C",
+      "detail": "These ulcers most frequently affect the descending thoracic aorta in elderly patients."
+    },
+    {
+      "number": 54,
+      "question": "Which imaging \"pearl\" confirms that an ulcer has truly penetrated through the intima?",
+      "choices": [
+        "Bright T1 signal on MRI",
+        "A gap in the intimal calcifications",
+        "Saccular morphology",
+        "Presence of a dissection flap",
+        "Reflux of contrast into the azygos vein"
+      ],
+      "answer": "B",
+      "detail": "A break or gap in intimal calcifications indicates the ulcer has breached the intimal layer."
+    },
+    {
+      "number": 55,
+      "question": "Why do penetrating ulcers almost never occur in the aortic root?",
+      "choices": [
+        "Atherosclerosis does not occur there.",
+        "High flow pressures prevent cheeseburger crumbs (atherosclerosis) from depositing.",
+        "The root is too thick.",
+        "The root lacks an intimal layer.",
+        "The root is protected by the pericardium."
+      ],
+      "answer": "B",
+      "detail": "The high-velocity blood flow in the root prevents the deposition of atherosclerosis."
+    },
+    {
+      "number": 56,
+      "question": "What is the most common cause (70%) of an acute aortic syndrome?",
+      "choices": [
+        "Penetrating ulcer",
+        "Intramural hematoma",
+        "Aortic dissection",
+        "Aortic rupture",
+        "Mycotic aneurysm"
+      ],
+      "answer": "C",
+      "detail": "Aortic dissection is responsible for 70% of acute aortic syndrome cases."
+    },
+    {
+      "number": 57,
+      "question": "What is the main factor leading to an intimal tear in an aortic dissection?",
+      "choices": [
+        "Atherosclerosis",
+        "Hypertension",
+        "Tobacco use",
+        "Diabetes",
+        "High cholesterol"
+      ],
+      "answer": "B",
+      "detail": "Hypertension is the dominant driver leading to the initial intimal tear."
+    },
+    {
+      "number": 58,
+      "question": "Stanford A dissections involve the ascending aorta and must be treated:",
+      "choices": [
+        "Medically with beta blockers",
+        "Surgically",
+        "With endovascular fenestration",
+        "With absolute bed rest only",
+        "With thrombolysis"
+      ],
+      "answer": "B",
+      "detail": "Stanford A dissections are surgical emergencies due to the risk of root involvement."
+    },
+    {
+      "number": 59,
+      "question": "Stanford B dissections occur distal to the takeoff of the left subclavian and are typically treated:",
+      "choices": [
+        "Surgically",
+        "Medically",
+        "With emergent stenting",
+        "With heart transplant",
+        "They do not require treatment"
+      ],
+      "answer": "B",
+      "detail": "Unless complicated by ischemia, Stanford B dissections are managed with medical therapy."
+    },
+    {
+      "number": 60,
+      "question": "On CT, which feature helps identify the \"False Lumen\" in an aortic dissection?",
+      "choices": [
+        "Continuity with the undissected portion of the aorta",
+        "Smaller cross-sectional area",
+        "\"Cobweb Sign\"",
+        "Surrounded by calcifications",
+        "High velocity blood flow"
+      ],
+      "answer": "C",
+      "detail": "The 'Cobweb Sign' (linear low-attenuation areas) is a hallmark of the false lumen."
+    },
+    {
+      "number": 61,
+      "question": "The \"Beak Sign\" (an acute angle at the edge of the lumen) is a characteristic of which lumen?",
+      "choices": [
+        "True lumen",
+        "False lumen",
+        "It is seen in both",
+        "It is only seen in penetrating ulcers",
+        "It is only seen in Stanford B dissections"
+      ],
+      "answer": "B",
+      "detail": "The 'Beak Sign' is an acute angle characteristic of the false lumen."
+    },
+    {
+      "number": 62,
+      "question": "In a dissection, which renal artery usually arises from the \"False Lumen\"?",
+      "choices": [
+        "Right renal artery",
+        "Left renal artery",
+        "Both renal arteries",
+        "Neither renal artery",
+        "It is completely random"
+      ],
+      "answer": "B",
+      "detail": "The false lumen typically contains the origin of the left renal artery."
+    },
+    {
+      "number": 63,
+      "question": "Which \"game\" is used to remember that the false lumen is associated with the left side and \"evil\"?",
+      "choices": [
+        "\"I Love Sex\"",
+        "\"LAD for D\"",
+        "\"False is Left\"",
+        "\"Sledgehammer Tactics\"",
+        "\"Battle Tactics\""
+      ],
+      "answer": "C",
+      "detail": "The mnemonic 'False is Left' helps associate the false lumen with the left renal artery."
+    },
+    {
+      "number": 64,
+      "question": "The \"Floating Viscera Sign\" is a classic angiographic sign of what?",
+      "choices": [
+        "Celiac artery stenosis",
+        "Abdominal aortic dissection",
+        "Duplicated IVC",
+        "Renal artery aneurysm",
+        "Horseshoe kidney"
+      ],
+      "answer": "B",
+      "detail": "This angiographic sign occurs when branch vessels appear to arise from nowhere in a dissection."
+    },
+    {
+      "number": 65,
+      "question": "A dissection flap in the abdomen that is \"Static\" is located in the feeding artery and is usually treated with:",
+      "choices": [
+        "Fenestration",
+        "Stenting",
+        "Beta blockers",
+        "Surgery",
+        "Absolute ethanol"
+      ],
+      "answer": "B",
+      "detail": "Static flaps within feeding vessels are primarily treated with stents."
+    },
+    {
+      "number": 66,
+      "question": "A \"Dynamic\" dissection flap in the abdomen dangles in front of the ostium and is usually treated with:",
+      "choices": [
+        "Stenting",
+        "Fenestration",
+        "Thrombectomy",
+        "Coils",
+        "Gelfoam"
+      ],
+      "answer": "B",
+      "detail": "Dynamic flaps obstructing vessel ostia are usually treated via fenestration."
+    },
+    {
+      "number": 67,
+      "question": "How can you distinguish a thrombosed dissection from an aneurysm with mural thrombus?",
+      "choices": [
+        "The dissection flap should spiral; the thrombus tends to drop straight down.",
+        "Dissections never have calcifications.",
+        "Thrombus is always T1 bright.",
+        "Aneurysms are only seen in the arch.",
+        "Thrombus always shows the \"Beak Sign.\""
+      ],
+      "answer": "A",
+      "detail": "Dissections typically spiral and displace intimal calcifications, unlike simple mural thrombus."
+    },
+    {
+      "number": 68,
+      "question": "What is the most common cause of an Intramural Hematoma (IMH)?",
+      "choices": [
+        "Atherosclerosis",
+        "Hypertension (HTN)",
+        "Trauma",
+        "Syphilis",
+        "Marfan syndrome"
+      ],
+      "answer": "B",
+      "detail": "Hypertension is the most common etiology for an intramural hematoma."
+    },
+    {
+      "number": 69,
+      "question": "How does an Intramural Hematoma appear on non-contrast CT?",
+      "choices": [
+        "Hypodense crescent",
+        "Hyperdense crescent",
+        "Isodense to blood",
+        "It is invisible on CT",
+        "Brightly calcified"
+      ],
+      "answer": "B",
+      "detail": "IMH presents as a hyperdense crescentic area on non-contrast CT."
+    },
+    {
+      "number": 70,
+      "question": "Which of the following is a predictor of a \"shitty outcome\" for an Intramural Hematoma?",
+      "choices": [
+        "Thickness less than 1 cm",
+        "Spontaneous regression",
+        "Hematoma thickness greater than 2 cm",
+        "Association with an aortic diameter of 3 cm",
+        "Lack of pain"
+      ],
+      "answer": "C",
+      "detail": "A hematoma thicker than 2 cm is a poor prognostic indicator for IMH."
+    },
+    {
+      "number": 71,
+      "question": "A true aneurysm is defined as an enlargement of the vessel lumen to at least how many times its normal diameter?",
+      "choices": [
+        "1.1x",
+        "1.25x",
+        "1.5x",
+        "2.0x",
+        "3.0x"
+      ],
+      "answer": "C",
+      "detail": "By definition, a true aneurysm must be at least 1.5 times the normal vessel diameter."
+    },
+    {
+      "number": 72,
+      "question": "What is the fundamental difference between a true aneurysm and a pseudoaneurysm?",
+      "choices": [
+        "True aneurysms are always bigger than 5 cm.",
+        "In a pseudoaneurysm, all 3 layers are NOT intact.",
+        "True aneurysms are only caused by trauma.",
+        "Pseudoaneurysms never rupture.",
+        "There is no difference."
+      ],
+      "answer": "B",
+      "detail": "In a pseudoaneurysm, the vessel wall layers are compromised, making it a contained rupture."
+    },
+    {
+      "number": 73,
+      "question": "In a living patient, where is the most common site for a \"Traumatic Pseudoaneurysm\"?",
+      "choices": [
+        "Aortic root",
+        "Ascending aorta",
+        "Aortic isthmus",
+        "Diaphragmatic hiatus",
+        "Bifurcation"
+      ],
+      "answer": "C",
+      "detail": "90% of traumatic pseudoaneurysms seen in living patients occur at the aortic isthmus."
+    },
+    {
+      "number": 74,
+      "question": "Why is the aortic isthmus the most common site for traumatic injury?",
+      "choices": [
+        "It is the thinnest part of the aorta.",
+        "It is the result of tethering from the ligamentum arteriosum.",
+        "It lacks an adventitial layer.",
+        "It has the highest flow pressures.",
+        "It is adjacent to the esophagus."
+      ],
+      "answer": "B",
+      "detail": "The tethering effect of the ligamentum arteriosum makes the isthmus vulnerable to deceleration injury."
+    },
+    {
+      "number": 75,
+      "question": "What is the #1 cause of SVC Syndrome?",
+      "choices": [
+        "Fibrosing mediastinitis",
+        "External compression from lymphoma or lung cancer",
+        "Central venous catheters",
+        "Aortic dissection",
+        "Behcet disease"
+      ],
+      "answer": "B",
+      "detail": "External compression from malignancy is the primary cause of SVC syndrome."
+    },
+    {
+      "number": 76,
+      "question": "What are the two primary causes of ascending aortic calcifications, given that atherosclerosis typically spares this region?",
+      "choices": [
+        "Marfan syndrome and Ehlers-Danlos",
+        "Takayasu and Syphilis",
+        "Hypertension and cocaine use",
+        "Trauma and pregnancy",
+        "Diabetes and smoking"
+      ],
+      "answer": "B",
+      "detail": "Takayasu vasculitis and syphilis are the classic causes of ascending aortic calcification."
+    },
+    {
+      "number": 77,
+      "question": "What is the general rule for surgical repair of an aortic aneurysm in the chest?",
+      "choices": [
+        "3 cm",
+        "4 cm",
+        "5 cm",
+        "6 cm",
+        "10 cm"
+      ],
+      "answer": "D",
+      "detail": "Chest aneurysms are generally repaired when they reach 6 cm in diameter."
+    },
+    {
+      "number": 78,
+      "question": "Sinus of Valsalva aneurysms are most common in which demographic and typically involve which sinus?",
+      "choices": [
+        "Elderly Caucasian women; Left sinus",
+        "Asian men; Right sinus",
+        "Young African American men; Non-coronary sinus",
+        "Hispanic children; All three sinuses",
+        "Middle-aged women; Left sinus"
+      ],
+      "answer": "B",
+      "detail": "These aneurysms are most common in Asian men and typically involve the right sinus."
+    },
+    {
+      "number": 79,
+      "question": "What is the most common associated cardiac anomaly with a Sinus of Valsalva aneurysm?",
+      "choices": [
+        "ASD",
+        "VSD",
+        "PDA",
+        "Coarctation",
+        "Bicuspid aortic valve"
+      ],
+      "answer": "B",
+      "detail": "Ventricular septal defect (VSD) is the most frequent associated anomaly."
+    },
+    {
+      "number": 80,
+      "question": "Which of the following is a specific imaging sign of an \"Impending Rupture\" of an aortic aneurysm?",
+      "choices": [
+        "Cobweb sign",
+        "Draped aorta sign",
+        "Figure 3 sign",
+        "Snowman appearance",
+        "\"Tulip bulb\" appearance"
+      ],
+      "answer": "B",
+      "detail": "The 'Draped Aorta Sign' indicates that the posterior wall of the aorta is failing and draping over the spine."
+    },
+    {
+      "number": 81,
+      "question": "The \"Hyperdense Crescent Sign\" on non-contrast CT represents what in the context of an aneurysm?",
+      "choices": [
+        "Normal intimal calcification",
+        "Acute mural thrombus",
+        "Hemorrhage and a manifestation of impending rupture",
+        "Chronic stable plaque",
+        "A normal variant"
+      ],
+      "answer": "C",
+      "detail": "The hyperdense crescent sign indicates acute intramural hemorrhage and impending rupture."
+    },
+    {
+      "number": 82,
+      "question": "Mycotic aneurysms are typically described by which morphology and etiology?",
+      "choices": [
+        "Fusiform; atherosclerotic",
+        "Saccular; septicemia (endocarditis)",
+        "Ectatic; connective tissue disease",
+        "Saccular; traumatic",
+        "Fusiform; hypertensive"
+      ],
+      "answer": "B",
+      "detail": "Mycotic aneurysms are saccular pseudoaneurysms resulting from hematogenous seeding during sepsis."
+    },
+    {
+      "number": 83,
+      "question": "If you see a saccular aneurysm of the abdominal aorta (especially one that is small and expanding fast), what must you consider?",
+      "choices": [
+        "Syphilis",
+        "Infection (Mycotic aneurysm)",
+        "Marfan syndrome",
+        "Cocaine use",
+        "High cholesterol"
+      ],
+      "answer": "B",
+      "detail": "A small, rapidly expanding saccular abdominal aneurysm should be treated as infected until proven otherwise."
+    },
+    {
+      "number": 84,
+      "question": "Vascular findings in Neurofibromatosis type 1 (NF-1) include aneurysms and which common presentation in children?",
+      "choices": [
+        "Dysphagia lusoria",
+        "Orificial renal artery stenosis with hypertension",
+        "SVC syndrome",
+        "Sinus of Valsalva rupture",
+        "Ascending aortic calcifications"
+      ],
+      "answer": "B",
+      "detail": "The classic vascular manifestation of NF-1 in teenagers is orificial renal artery stenosis."
+    },
+    {
+      "number": 85,
+      "question": "Dilation of the aortic root in Marfan Syndrome is classically described as what?",
+      "choices": [
+        "\"Tulip bulb\" appearance",
+        "\"Annuloaortic ectasia\"",
+        "\"Bovine arch\"",
+        "\"Moyamoya\"",
+        "\"Scimitar sword\""
+      ],
+      "answer": "B",
+      "detail": "Annuloaortic ectasia with a 'tulip bulb' appearance is the classic Marfan root finding."
+    },
+    {
+      "number": 86,
+      "question": "What is a common and serious complication of the aortic root dilation in Marfan syndrome?",
+      "choices": [
+        "Mitral stenosis",
+        "Aortic valve insufficiency",
+        "Coarctation",
+        "SVC syndrome",
+        "Right heart failure"
+      ],
+      "answer": "B",
+      "detail": "Root dilation leads to stretching of the valve ring and subsequent aortic insufficiency."
+    },
+    {
+      "number": 87,
+      "question": "Loeys Dietz Syndrome is described as a \"really shitty version of Marfans\" and is associated with which unique feature?",
+      "choices": [
+        "Ectopic lens",
+        "Bifid uvula or cleft palate",
+        "Absent radius",
+        "Short stature",
+        "Hand/thumb defects"
+      ],
+      "answer": "B",
+      "detail": "Bifid uvula or cleft palate is part of the characteristic clinical triad for Loeys Dietz."
+    },
+    {
+      "number": 88,
+      "question": "Patients with Loeys Dietz Syndrome have vessels that are characteristically:",
+      "choices": [
+        "Straight and narrow",
+        "Very tortuous (twisty)",
+        "Heavily calcified",
+        "Spared from aneurysm formation",
+        "Only involving the abdominal aorta"
+      ],
+      "answer": "B",
+      "detail": "Extreme vessel tortuosity is a hallmark of Loeys Dietz syndrome."
+    },
+    {
+      "number": 89,
+      "question": "In Ehlers-Danlos syndrome, which procedure should be avoided due to the excessive risk of arterial dissection?",
+      "choices": [
+        "Chest X-ray",
+        "MRI",
+        "Invasive diagnostic studies (conventional angiography)",
+        "Ultrasound",
+        "PET/CT"
+      ],
+      "answer": "C",
+      "detail": "The extreme arterial fragility in Ehlers-Danlos makes invasive angiography dangerous."
+    },
+    {
+      "number": 90,
+      "question": "Which rare aneurysm is associated with \"tree bark\" intimal calcifications and involves the ascending aorta and arch branches?",
+      "choices": [
+        "Mycotic aneurysm",
+        "Syphilitic (Luetic) aneurysm",
+        "Inflammatory aneurysm",
+        "Marfan aneurysm",
+        "Takayasu aneurysm"
+      ],
+      "answer": "B",
+      "detail": "Syphilitic aneurysms typically involve the ascending aorta and feature 'tree bark' calcifications."
+    },
+    {
+      "number": 91,
+      "question": "Secondary aortoenteric fistulas are much more common than primary ones and are seen after:",
+      "choices": [
+        "Untreated syphilis",
+        "Aortic surgery with or without stent graft placement",
+        "Massive blunt trauma",
+        "Cocaine overdose",
+        "Chronic pancreatitis"
+      ],
+      "answer": "B",
+      "detail": "Most aortoenteric fistulas occur as a complication following aortic surgical repair."
+    },
+    {
+      "number": 92,
+      "question": "What part of the bowel is most commonly involved in an aortoenteric fistula?",
+      "choices": [
+        "Stomach",
+        "1st portion of the duodenum",
+        "3rd and 4th portions of the duodenum",
+        "Splenic flexure of the colon",
+        "Terminal ileum"
+      ],
+      "answer": "C",
+      "detail": "The 3rd and 4th portions of the duodenum are the most frequent sites of fistula formation."
+    },
+    {
+      "number": 93,
+      "question": "What is the definitive imaging finding for an aortoenteric fistula?",
+      "choices": [
+        "Perigraft fluid",
+        "Ectopic perigraft gas",
+        "Contrast from the aorta into the bowel lumen",
+        "Pseudoaneurysm formation",
+        "Thickened bowel wall"
+      ],
+      "answer": "C",
+      "detail": "Direct visualization of contrast flowing from the aorta into the bowel is the only definitive sign."
+    },
+    {
+      "number": 94,
+      "question": "\"Inflammatory Aneurysms\" are characteristically found in young men who smoke and characteristically spare which part of the aorta?",
+      "choices": [
+        "Anterior wall",
+        "Lateral walls",
+        "Posterior wall",
+        "Aortic root",
+        "Arch branches"
+      ],
+      "answer": "C",
+      "detail": "Inflammatory aneurysms typically involve asymmetrical thickening that spares the posterior wall."
+    },
+    {
+      "number": 95,
+      "question": "The clinical triad of \"Leriche Syndrome\" includes which three findings?",
+      "choices": [
+        "Hypertension, renal failure, and claudication",
+        "Impotence (limp dick), ass claudication, and absent femoral pulses",
+        "Fever, rash, and joint pain",
+        "Hypertelorism, bifid uvula, and tortuous vessels",
+        "Pectus excavatum, ectopic lens, and tulip bulb aorta"
+      ],
+      "answer": "B",
+      "detail": "Leriche syndrome is defined by impotence, buttock claudication, and absent femoral pulses."
+    },
+    {
+      "number": 96,
+      "question": "What is the \"Aunt Minnie\" sign for Coarctation of the Aorta on a chest X-ray?",
+      "choices": [
+        "Snowman heart",
+        "Boot-shaped heart",
+        "Figure 3 sign",
+        "Egg on a string",
+        "Box-shaped heart"
+      ],
+      "answer": "C",
+      "detail": "The 'Figure 3 sign' is the classic CXR appearance of aortic coarctation."
+    },
+    {
+      "number": 97,
+      "question": "Rib notching in coarctation characteristically spares which ribs?",
+      "choices": [
+        "3rd and 4th ribs",
+        "1st and 2nd ribs",
+        "9th and 10th ribs",
+        "All ribs on the left side",
+        "Rib notching is always global"
+      ],
+      "answer": "B",
+      "detail": "The 1st and 2nd ribs are spared because they are supplied by the costocervical trunk."
+    },
+    {
+      "number": 98,
+      "question": "\"Pseudocoarctation\" looks like a coarctation but is distinguished by the absence of what?",
+      "choices": [
+        "Aortic narrowing",
+        "A pressure gradient, collateral formation, and rib notching",
+        "Aortic arch elongation",
+        "Kinking of the aorta",
+        "Dysphagia symptoms"
+      ],
+      "answer": "B",
+      "detail": "Pseudocoarctation lacks the pressure gradient and collateral hallmarks of true coarctation."
+    },
+    {
+      "number": 99,
+      "question": "What is the most common cause of Thoracic Outlet Syndrome?",
+      "choices": [
+        "Cervical rib",
+        "Compression by the anterior scalene muscle",
+        "Paget's disease",
+        "Hypertrophy of the pectoralis minor",
+        "Pancoast tumor"
+      ],
+      "answer": "B",
+      "detail": "Anterior scalene muscle compression is the leading cause of thoracic outlet syndrome."
+    },
+    {
+      "number": 100,
+      "question": "\"Paget Schroetter\" syndrome, also known as \"effort thrombosis,\" involves a venous thrombus in which vessel?",
+      "choices": [
+        "Internal jugular vein",
+        "SVC",
+        "Subclavian vein",
+        "Axillary artery",
+        "Common femoral vein"
+      ],
+      "answer": "C",
+      "detail": "Paget Schroetter refers to subclavian vein thrombosis related to thoracic outlet compression."
+    }
+  ]
+}

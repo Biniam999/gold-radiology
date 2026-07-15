@@ -1,0 +1,1307 @@
+{
+    "questions": 
+    
+[
+  {
+    "number": 1,
+    "question": "Which syndrome results from the compression of the left common iliac vein by the right common iliac artery?",
+    "choices": [
+      "May-Thurner Syndrome",
+      "Nutcracker Syndrome",
+      "Paget-Schroetter Syndrome",
+      "Leriche Syndrome",
+      "Thoracic Outlet Syndrome"
+    ],
+    "answer": "A",
+    "detail": "May-Thurner Syndrome is defined as a DVT in the left common iliac vein caused by compression from the right common iliac artery."
+  },
+  {
+    "number": 2,
+    "question": "What is the recommended treatment for May-Thurner Syndrome when presenting as an acute swollen leg?",
+    "choices": [
+      "Anticoagulation only",
+      "Vein ligation",
+      "Thrombolysis and stenting",
+      "Inferior vena cava filter",
+      "Arterial bypass"
+    ],
+    "answer": "C",
+    "detail": "Treatment for May-Thurner typically involves thrombolysis and stenting to address the venous obstruction."
+  },
+  {
+    "number": 3,
+    "question": "What is the most common peripheral arterial aneurysm overall?",
+    "choices": [
+      "Radial artery aneurysm",
+      "Femoral artery aneurysm",
+      "Popliteal artery aneurysm",
+      "Axillary artery aneurysm",
+      "Ulnar artery aneurysm"
+    ],
+    "answer": "C",
+    "detail": "The popliteal aneurysm is the most common peripheral arterial aneurysm and the second most common overall after the aorta."
+  },
+  {
+    "number": 4,
+    "question": "What percentage of patients with a popliteal artery aneurysm also have an abdominal aortic aneurysm (AAA)?",
+    "choices": [
+      "10%",
+      "25%",
+      "30-50%",
+      "70%",
+      "90%"
+    ],
+    "answer": "C",
+    "detail": "There is a strong association where 30-50% of patients with popliteal aneurysms have a concurrent AAA."
+  },
+  {
+    "number": 5,
+    "question": "What is considered the most dreaded complication of a popliteal artery aneurysm?",
+    "choices": [
+      "Rupture",
+      "Venous compression",
+      "Acute limb ischemia from distal thromboembolism",
+      "Infected pseudoaneurysm",
+      "Arteriovenous fistula"
+    ],
+    "answer": "C",
+    "detail": "The main issue and most dreaded complication is an acute limb caused by distal thromboembolism."
+  },
+  {
+    "number": 6,
+    "question": "Which muscle is typically involved in the developmental relationship that causes \"Popliteal Entrapment\"?",
+    "choices": [
+      "Lateral head of the gastrocnemius",
+      "Medial head of the gastrocnemius",
+      "Soleus muscle",
+      "Plantaris muscle",
+      "Popliteus muscle"
+    ],
+    "answer": "B",
+    "detail": "Popliteal entrapment is caused by the medial deviation of the popliteal artery due to its relationship with the medial head of the gastrocnemius."
+  },
+  {
+    "number": 7,
+    "question": "In which patient population does \"Cystic Adventitial Disease\" classically occur?",
+    "choices": [
+      "Elderly women",
+      "Neonates",
+      "Young men",
+      "Patients with Hepatitis B",
+      "Diabetic women"
+    ],
+    "answer": "C",
+    "detail": "This uncommon disorder classically affects the popliteal artery of young men."
+  },
+  {
+    "number": 8,
+    "question": "How does Cystic Adventitial Disease appear on fluid-sensitive MRI sequences?",
+    "choices": [
+      "A single large fat-containing mass",
+      "A bunch of cysts around the vessel extrinsically narrowing it",
+      "Diffuse wall thickening with enhancement",
+      "Multiple microaneurysms",
+      "Intramural high T1 signal"
+    ],
+    "answer": "B",
+    "detail": "On MRI, it is seen as multiple mucoid-filled cysts developing in the outer media and adventitia that compress the artery."
+  },
+  {
+    "number": 9,
+    "question": "\"Paget-Schroetter Syndrome\" is associated with venous thrombosis in which vessel?",
+    "choices": [
+      "Internal jugular vein",
+      "Axillary vein",
+      "Subclavian vein",
+      "SVC",
+      "Brachial vein"
+    ],
+    "answer": "C",
+    "detail": "Paget-Schroetter involves the development of a venous thrombus in the subclavian vein."
+  },
+  {
+    "number": 10,
+    "question": "What is the classic nickname for Paget-Schroetter Syndrome?",
+    "choices": [
+      "The pulseless disease",
+      "Effort thrombosis",
+      "The crown of death",
+      "The nutcracker",
+      "The rabbit ear sign"
+    ],
+    "answer": "B",
+    "detail": "It is often called \"effort thrombosis\" because it is associated with athletes who raise their arms frequently."
+  },
+  {
+    "number": 11,
+    "question": "Klippel-Trenaunay Syndrome (KTS) is characterized by port wine nevi, soft tissue/bony hypertrophy, and which vascular finding?",
+    "choices": [
+      "Coronary artery aneurysms",
+      "Replaced right hepatic artery",
+      "Marginal vein of Servelle",
+      "Renal microaneurysms",
+      "Persistent sciatic artery"
+    ],
+    "answer": "C",
+    "detail": "The marginal vein of Servelle, a large saphenous vein on the lateral side of the leg, is pathognomonic for KTS."
+  },
+  {
+    "number": 12,
+    "question": "What is the primary differentiator between Klippel-Trenaunay Syndrome and Parkes-Weber Syndrome?",
+    "choices": [
+      "KTS is high flow; Parkes-Weber is low flow",
+      "KTS is low flow (venous); Parkes-Weber is high flow (arterial)",
+      "Only Parkes-Weber involves the leg",
+      "KTS is only seen in adults",
+      "Parkes-Weber lacks skin lesions"
+    ],
+    "answer": "B",
+    "detail": "KTS is a low-flow venous malformation, while Parkes-Weber is a true high-flow arterial malformation."
+  },
+  {
+    "number": 13,
+    "question": "An Ankle-Brachial Index (ABI) of less than 0.3 is generally associated with which clinical symptom?",
+    "choices": [
+      "Normal function",
+      "Mild claudication",
+      "Moderate claudication",
+      "Rest pain",
+      "Only seen in athletes"
+    ],
+    "answer": "D",
+    "detail": "According to standard generalizations, an ABI < 0.3 correlates with rest pain."
+  },
+  {
+    "number": 14,
+    "question": "Why might a diabetic patient have a falsely elevated ABI (e.g., > 1.3)?",
+    "choices": [
+      "They have high systemic blood pressure",
+      "Their arteries are too small",
+      "Dense vascular calcifications prevent vessel compression",
+      "They have high cardiac output",
+      "They have superior collateral circulation"
+    ],
+    "answer": "C",
+    "detail": "Arterial calcifications make compression difficult, leading to a false elevation of the ABI."
+  },
+  {
+    "number": 15,
+    "question": "If a patient with a threatened leg has an occluded ipsilateral common femoral artery (CFA), which access route is typically chosen?",
+    "choices": [
+      "Brachial access",
+      "Radial access",
+      "Contralateral CFA",
+      "Popliteal access",
+      "Axillary access"
+    ],
+    "answer": "C",
+    "detail": "Contralateral CFA is used when the ipsilateral CFA is occluded or if the patient is very obese."
+  },
+  {
+    "number": 16,
+    "question": "In the context of arterial access, what does \"Antegrade access\" mean?",
+    "choices": [
+      "Access towards the heart",
+      "Access via the arm",
+      "Access towards the toes",
+      "Access against the flow of blood",
+      "Access through a venous sheath"
+    ],
+    "answer": "C",
+    "detail": "The nomenclature for downward access, towards the toes, is \"antegrade\"."
+  },
+  {
+    "number": 17,
+    "question": "Hypothenar Hammer Syndrome is caused by blunt trauma to which vessel?",
+    "choices": [
+      "Radial artery",
+      "Ulnar artery",
+      "Brachial artery",
+      "Deep palmar arch",
+      "Axillary artery"
+    ],
+    "answer": "B",
+    "detail": "It is caused by blunt trauma to the ulnar artery and superficial palmar arch, often from using the hand as a hammer."
+  },
+  {
+    "number": 18,
+    "question": "What is a characteristic angiographic finding of Hypothenar Hammer Syndrome?",
+    "choices": [
+      "String of beads in the forearm",
+      "Corkscrew configuration or pseudoaneurysm of the ulnar artery",
+      "Total occlusion of the radial artery",
+      "Dilation of the internal mammary artery",
+      "Multiple AVMs in the digits"
+    ],
+    "answer": "B",
+    "detail": "Hallmarks include corkscrew configuration of the superficial palmar arch, occlusion of the ulnar artery, or a pseudoaneurysm."
+  },
+  {
+    "number": 19,
+    "question": "Which landmark defines the transition where the Axillary Artery becomes the Brachial Artery?",
+    "choices": [
+      "First rib",
+      "Lower border of the teres minor",
+      "Lower border of the teres major",
+      "Surgical neck of the humerus",
+      "Bicipital groove"
+    ],
+    "answer": "C",
+    "detail": "The brachial artery begins at the lower border of the teres major."
+  },
+  {
+    "number": 20,
+    "question": "Which leg artery is felt at the medial malleolus and is considered the most medial?",
+    "choices": [
+      "Anterior tibialis",
+      "Peroneal",
+      "Posterior tibialis",
+      "Popliteal",
+      "Dorsalis pedis"
+    ],
+    "answer": "C",
+    "detail": "The posterior tibial artery is the most medial artery in the leg and is felt at the medial malleolus."
+  },
+  {
+    "number": 21,
+    "question": "Intimal Hyperplasia common causes re-stenosis during what timeframe after angioplasty?",
+    "choices": [
+      "Within 24 hours",
+      "1-2 weeks",
+      "3-12 months",
+      "After 5 years",
+      "It is only seen in native vessels"
+    ],
+    "answer": "C",
+    "detail": "Re-stenosis occurring 3-12 months after angioplasty is probably from intimal hyperplasia."
+  },
+  {
+    "number": 22,
+    "question": "Which syndrome is associated with a \"Persistent Sciatic Artery\"?",
+    "choices": [
+      "Marfan Syndrome",
+      "Klippel-Trenaunay Syndrome",
+      "Williams Syndrome",
+      "Turner Syndrome",
+      "PHACES Syndrome"
+    ],
+    "answer": "B",
+    "detail": "A persistent sciatic vein (and sometimes artery) is often associated with Klippel-Trenaunay Syndrome."
+  },
+  {
+    "number": 23,
+    "question": "What is the classic clinical history that suggests a persistent sciatic artery?",
+    "choices": [
+      "Acute aortic dissection",
+      "Swollen left leg with DVT",
+      "External iliac is acutely occluded, but there is still a strong pulse in the foot",
+      "Renovascular hypertension in a child",
+      "Hemoptysis and a positive PPD"
+    ],
+    "answer": "C",
+    "detail": "This occurs because the persistent sciatic artery is a continuation of the internal iliac that bypasses the external iliac system."
+  },
+  {
+    "number": 24,
+    "question": "In the \"Acute Limb\" triage, a category 3 \"Irreversible\" limb is characterized by:",
+    "choices": [
+      "Intact capillary return",
+      "Partial sensory loss",
+      "Complete muscle paralysis and complete sensory loss",
+      "Presence of an arterial Doppler signal",
+      "Mild claudication"
+    ],
+    "answer": "C",
+    "detail": "A category 3 limb is not salvageable and presents with complete paralysis and sensory loss."
+  },
+  {
+    "number": 25,
+    "question": "For an \"Acute Limb\" with combined inflow and outflow disease, which should be treated first?",
+    "choices": [
+      "Outflow disease",
+      "Inflow disease",
+      "Both simultaneously with surgery",
+      "Medical management only",
+      "Treatment order does not matter"
+    ],
+    "answer": "B",
+    "detail": "If there is combined disease, you should treat the inflow first."
+  },
+  {
+    "number": 26,
+    "question": "If a limb has been occluded for less than 14 days, which treatment is generally considered superior?",
+    "choices": [
+      "Surgery",
+      "Thrombolysis",
+      "Amputation",
+      "Bed rest",
+      "Exercise therapy"
+    ],
+    "answer": "B",
+    "detail": "If occluded for less than 14 days, thrombolysis is superior; if more than 14 days, surgery is superior."
+  },
+  {
+    "number": 27,
+    "question": "\"Phlegmasia cerulea dolens\" is a condition characterized by:",
+    "choices": [
+      "Massive DVT without ischemia",
+      "Chronic venous stasis ulcers",
+      "Complete thrombosis of the deep venous system causing ischemia",
+      "Superficial thrombophlebitis",
+      "Isolated arterial embolism"
+    ],
+    "answer": "C",
+    "detail": "This \"painful blue leg\" represents extreme venous obstruction that compromises arterial flow."
+  },
+  {
+    "number": 28,
+    "question": "What is the Wells Score primarily used to predict?",
+    "choices": [
+      "Probability of a popliteal aneurysm",
+      "Risk of stroke during carotid stenting",
+      "Clinical probability of DVT or PE",
+      "Severity of vasculitis",
+      "Success rate of a TIPS procedure"
+    ],
+    "answer": "C",
+    "detail": "The Wells Score is used to stratify the risk of venous thromboembolism."
+  },
+  {
+    "number": 29,
+    "question": "Which ulcer location is classically associated with \"Venous Stasis\"?",
+    "choices": [
+      "Dorsum of the foot",
+      "Plantar surface of the foot",
+      "Medial ankle",
+      "Lateral calf",
+      "Tips of the toes"
+    ],
+    "answer": "C",
+    "detail": "Ulcers on the medial ankle are characteristic of venous stasis."
+  },
+  {
+    "number": 30,
+    "question": "An ulcer on the \"Plantar (Sole) Surface\" of the foot is classic for:",
+    "choices": [
+      "Ischemic ulcer",
+      "Infected ulcer",
+      "Neurotrophic ulcer",
+      "Venous stasis ulcer",
+      "Malignant ulcer"
+    ],
+    "answer": "C",
+    "detail": "Neurotrophic ulcers typically involve the plantar surface."
+  },
+  {
+    "number": 31,
+    "question": "Post Thrombotic Syndrome (PTS) is scored using which system?",
+    "choices": [
+      "MELD",
+      "Child-Pugh",
+      "VEINES-QOL",
+      "NASCET",
+      "Agatston"
+    ],
+    "answer": "C",
+    "detail": "VEINES-QOL is the system used to classify the severity of PTS."
+  },
+  {
+    "number": 32,
+    "question": "What is the preferred vessel for a PICC line?",
+    "choices": [
+      "Cephalic vein",
+      "Brachial vein",
+      "Basilic vein",
+      "Internal jugular vein",
+      "Subclavian vein"
+    ],
+    "answer": "C",
+    "detail": "For PICC lines, the order of preference is basilic > brachial > cephalic."
+  },
+  {
+    "number": 33,
+    "question": "Why is the right internal jugular (RIJ) the preferred access site for a dialysis catheter?",
+    "choices": [
+      "It is the largest vein in the body",
+      "It is the shortest, most direct route to the heart",
+      "It never thromboses",
+      "It avoids the carotid artery",
+      "It is easier to compress than the arm veins"
+    ],
+    "answer": "B",
+    "detail": "The RIJ is preferred because it provides the shortest route and thromboses less than the subclavian."
+  },
+  {
+    "number": 34,
+    "question": "Which vasculitis is often referred to as \"the pulseless disease\"?",
+    "choices": [
+      "Giant Cell Arteritis",
+      "Takayasu Arteritis",
+      "Polyarteritis Nodosa",
+      "Wegener Granulomatosis",
+      "Buerger Disease"
+    ],
+    "answer": "B",
+    "detail": "Takayasu Arteritis is the classic \"pulseless disease\"."
+  },
+  {
+    "number": 35,
+    "question": "Takayasu Arteritis has a strong demographic preference for which group?",
+    "choices": [
+      "Old men (Caucasian)",
+      "Young Asian girls (15-30 years)",
+      "Infants of diabetic mothers",
+      "Male smokers",
+      "Post-menopausal women"
+    ],
+    "answer": "B",
+    "detail": "It characteristically affects young Asian girls."
+  },
+  {
+    "number": 36,
+    "question": "In the acute phase of Takayasu Arteritis, CT characteristically shows:",
+    "choices": [
+      "Only distal narrowing",
+      "Wall thickening and enhancement of the aorta",
+      "Multiple microaneurysms of the renal arteries",
+      "Tree bark intimal calcifications",
+      "Pitted appearance of the intima"
+    ],
+    "answer": "B",
+    "detail": "In the acute phase, wall thickening and enhancement are seen in the involved aorta."
+  },
+  {
+    "number": 37,
+    "question": "Which type of Takayasu Arteritis is the most common?",
+    "choices": [
+      "Type 1",
+      "Type 2",
+      "Type 3",
+      "Type 4",
+      "Type 5"
+    ],
+    "answer": "C",
+    "detail": "Type 3 is the most common and involves the arch and abdominal aorta."
+  },
+  {
+    "number": 38,
+    "question": "Giant Cell Arteritis (GCA) is most common in which age group?",
+    "choices": [
+      "Children under 5",
+      "Adolescents",
+      "Adults in their 30s",
+      "Elderly patients (70-80 years)",
+      "It occurs at any age"
+    ],
+    "answer": "D",
+    "detail": "GCA is most common in elderly patients aged 70-80."
+  },
+  {
+    "number": 39,
+    "question": "GCA characteristically involves the temporal artery and which other region?",
+    "choices": [
+      "Splanchnic arteries",
+      "Renal arteries",
+      "The \"armpit\" vessels",
+      "Coronary arteries",
+      "Cerebral veins"
+    ],
+    "answer": "C",
+    "detail": "It involves the temporal artery and vessels in the \"armpit\" region (Subclavian, Axillary, Brachial)."
+  },
+  {
+    "number": 40,
+    "question": "What is a classic clinical clue for GCA involvement of the axillary arteries?",
+    "choices": [
+      "History of smoking",
+      "Part of the body compressed by crutches",
+      "Recent history of Hepatitis B",
+      "Turkish descent",
+      "Presence of nasal septum perforation"
+    ],
+    "answer": "B",
+    "detail": "GCA is linked to the \"crutches\" region (armpit vessels) in old men."
+  },
+  {
+    "number": 41,
+    "question": "What is the clinical relationship between GCA and \"polymyalgia rheumatica\"?",
+    "choices": [
+      "They are completely unrelated",
+      "Polymyalgia rheumatica is a side effect of treatment",
+      "They may be different phases of the same disease",
+      "GCA prevents polymyalgia rheumatica",
+      "They are only linked in Asian patients"
+    ],
+    "answer": "C",
+    "detail": "They are clinically connected and may be different phases of the same disease."
+  },
+  {
+    "number": 42,
+    "question": "Which Location Strategy distinguishes central aortic involvement in vasculitis?",
+    "choices": [
+      "Giant Cell Arteritis",
+      "Thoracic Outlet Syndrome",
+      "Takayasu Arteritis",
+      "Polyarteritis Nodosa",
+      "Buerger Disease"
+    ],
+    "answer": "C",
+    "detail": "Central aortic involvement favors Takayasu."
+  },
+  {
+    "number": 43,
+    "question": "Polyarteritis Nodosa (PAN) is more common in:",
+    "choices": [
+      "Women",
+      "Children",
+      "Men",
+      "Neonates",
+      "Elderly women"
+    ],
+    "answer": "C",
+    "detail": "PAN is noted as being more common in men."
+  },
+  {
+    "number": 44,
+    "question": "What are the \"Big 3\" organs affected by Polyarteritis Nodosa?",
+    "choices": [
+      "Brain, Heart, Lungs",
+      "Liver, Spleen, Bone",
+      "Renal, Cardiac, and GI",
+      "Eyes, Ears, Skin",
+      "Aorta, Arch branches, Pulmonaries"
+    ],
+    "answer": "C",
+    "detail": "PAN typically affects the kidneys (90%), heart (70%), and GI tract (50-70%)."
+  },
+  {
+    "number": 45,
+    "question": "The hallmark imaging finding of PAN is the formation of:",
+    "choices": [
+      "Wall thickening only",
+      "Diffuse stenosis",
+      "Microaneurysms at branch points",
+      "Corkscrew collaterals",
+      "Large saccular aneurysms"
+    ],
+    "answer": "C",
+    "detail": "Typically, PAN is characterized by microaneurysm formation, primarily at branch points."
+  },
+  {
+    "number": 46,
+    "question": "Which viral infection has a strong clinical association with PAN?",
+    "choices": [
+      "Hepatitis A",
+      "Hepatitis B",
+      "Hepatitis C",
+      "HIV",
+      "CMV"
+    ],
+    "answer": "B",
+    "detail": "There is a known high-yield association between PAN and Hepatitis B."
+  },
+  {
+    "number": 47,
+    "question": "A \"speed kidney\" on a renal angiogram can be seen in PAN and also in users of:",
+    "choices": [
+      "Cocaine",
+      "Alcohol",
+      "Crystal Meth",
+      "Heroin",
+      "Marijuana"
+    ],
+    "answer": "C",
+    "detail": "Microaneurysm formation in the kidney is seen in patients who abuse crystal meth."
+  },
+  {
+    "number": 48,
+    "question": "What is the most common vasculitis in children?",
+    "choices": [
+      "PAN",
+      "Wegener",
+      "Kawasaki Disease",
+      "Takayasu",
+      "Buerger"
+    ],
+    "answer": "C",
+    "detail": "Kawasaki is cited as one of the most common pediatric vasculitides."
+  },
+  {
+    "number": 49,
+    "question": "Coronary artery aneurysms in Kawasaki disease are considered \"Giant\" if they measure greater than:",
+    "choices": [
+      "2 mm",
+      "4 mm",
+      "5 mm",
+      "8 mm",
+      "15 mm"
+    ],
+    "answer": "D",
+    "detail": "Coronary aneurysms > 8 mm are considered \"Giant\" and high risk for MI."
+  },
+  {
+    "number": 50,
+    "question": "Wegener Granulomatosis primarily affects which areas?",
+    "choices": [
+      "Aorta and its branches",
+      "Coronary arteries",
+      "Sinuses, Lungs, and Kidneys",
+      "Large veins of the leg",
+      "Peripheral vessels of the hand"
+    ],
+    "answer": "C",
+    "detail": "Wegener's affects the upper/lower respiratory tract and the kidneys."
+  },
+  {
+    "number": 51,
+    "question": "Which finding in Wegener's is described as \"like a cocaine addict\"?",
+    "choices": [
+      "Aorta wall enhancement",
+      "Nasal septum perforation",
+      "Cavitary lung lesions",
+      "Wedge-shaped renal infarcts",
+      "Puff of smoke angiogram"
+    ],
+    "answer": "B",
+    "detail": "Nasal perforation is a classic way Wegener's is shown on exams."
+  },
+  {
+    "number": 52,
+    "question": "Churg-Strauss patients always have which two clinical features?",
+    "choices": [
+      "Hepatitis B and microaneurysms",
+      "Mouth and genital ulcers",
+      "Asthma and eosinophilia",
+      "Smoking history and auto-amputation",
+      "Intussusception and scrotal edema"
+    ],
+    "answer": "C",
+    "detail": "Churg-Strauss is always associated with asthma and eosinophilia."
+  },
+  {
+    "number": 53,
+    "question": "Cavitation of lung lesions is common in Wegener's but rare in:",
+    "choices": [
+      "PAN",
+      "Churg-Strauss",
+      "Microscopic Polyangiitis",
+      "Takayasu",
+      "Kawasaki"
+    ],
+    "answer": "B",
+    "detail": "Cavitation is rare in Churg-Strauss, distinguishing it from Wegener's."
+  },
+  {
+    "number": 54,
+    "question": "Microscopic Polyangiitis involves the kidneys and lungs, with 1/3 of cases demonstrating:",
+    "choices": [
+      "Nasal septum perforation",
+      "Diffuse pulmonary hemorrhage",
+      "Coronary aneurysms",
+      "String of beads appearance",
+      "Large-vessel occlusions"
+    ],
+    "answer": "B",
+    "detail": "Diffuse pulmonary hemorrhage is the classic testable feature."
+  },
+  {
+    "number": 55,
+    "question": "In Henoch-Schonlein Purpura (HSP), which symptoms are most common?",
+    "choices": [
+      "Pulmonary hemorrhage",
+      "GI symptoms and intussusception",
+      "Temporal artery thickening",
+      "Aortic aneurysm",
+      "Coronary stenosis"
+    ],
+    "answer": "B",
+    "detail": "GI symptoms and intussusception are common findings in kids with HSP."
+  },
+  {
+    "number": 56,
+    "question": "What is the most common cause of idiopathic scrotal edema in a child?",
+    "choices": [
+      "Testicular torsion",
+      "Epididymitis",
+      "HSP",
+      "Trauma",
+      "Nephrotic syndrome"
+    ],
+    "answer": "C",
+    "detail": "HSP is the most common cause of idiopathic scrotal edema."
+  },
+  {
+    "number": 57,
+    "question": "Behcet Disease is classically associated with which triad?",
+    "choices": [
+      "Asthma, eosinophilia, and nodules",
+      "Turkish descent, mouth ulcers, and genital ulcers",
+      "Fever, rash, and strawberry tongue",
+      "Hypertension, renal failure, and microaneurysms",
+      "Asian descent, pulselessness, and aortic dilation"
+    ],
+    "answer": "B",
+    "detail": "Mouth and genital ulcers in someone of Turkish descent are key buzzwords."
+  },
+  {
+    "number": 58,
+    "question": "What is the most likely question regarding vascular involvement in Behcet's?",
+    "choices": [
+      "Aortic dissection",
+      "Renal artery stenosis",
+      "Pulmonary artery aneurysm",
+      "Coronary aneurysm",
+      "Portal vein thrombosis"
+    ],
+    "answer": "C",
+    "detail": "Behcet's is a known high-yield cause of pulmonary artery aneurysms."
+  },
+  {
+    "number": 59,
+    "question": "Buerger Disease (Thromboangiitis Obliterans) is exclusively seen in:",
+    "choices": [
+      "Patients with Hepatitis B",
+      "Young children",
+      "Smokers",
+      "Diabetic women",
+      "Patients with asthma"
+    ],
+    "answer": "C",
+    "detail": "Buerger disease is strongly and exclusively associated with smokers."
+  },
+  {
+    "number": 60,
+    "question": "What is the classic buzzword for the clinical outcome of Buerger Disease?",
+    "choices": [
+      "Egg on a string",
+      "Auto-amputation",
+      "Tulip bulb",
+      "Puff of smoke",
+      "Rabbit ear sign"
+    ],
+    "answer": "B",
+    "detail": "Buerger's leads to extensive occlusive disease and \"auto-amputation\"."
+  },
+  {
+    "number": 61,
+    "question": "On a hand angiogram, what find identifies Buerger Disease versus Hypothenar Hammer Syndrome (HHS)?",
+    "choices": [
+      "Buerger's involves the ulnar artery; HHS does not",
+      "Buerger's spares the ulnar artery but has corkscrew collaterals to fingers",
+      "Buerger's never affects the fingers",
+      "HHS always involves the aorta",
+      "There is no way to tell them apart"
+    ],
+    "answer": "B",
+    "detail": "In Buerger's, the ulnar artery is generally spared while digits have occlusions and corkscrew collaterals."
+  },
+  {
+    "number": 62,
+    "question": "Cogan Syndrome presents with which unique combination?",
+    "choices": [
+      "Nasal septum perforation and hematuria",
+      "Eye symptoms and ear symptoms",
+      "Asthma and skin rash",
+      "Bloody diarrhea and scrotal edema",
+      "Pulselessness and microaneurysms"
+    ],
+    "answer": "B",
+    "detail": "Cogan syndrome presents with eye (optic neuritis/uveitis) and ear (audiovestibular) symptoms."
+  },
+  {
+    "number": 63,
+    "question": "Moyamoya Disease is characterized by progressive stenosis of which vessel?",
+    "choices": [
+      "Proximal RCA",
+      "Distal SMA",
+      "Supraclinoid ICA",
+      "Renal artery ostium",
+      "Axillary artery"
+    ],
+    "answer": "C",
+    "detail": "Moyamoya involves progressive stenosis of the supraclinoid internal carotid artery."
+  },
+  {
+    "number": 64,
+    "question": "What is the angiographic buzzword for Moyamoya?",
+    "choices": [
+      "String of beads",
+      "Corkscrew collaterals",
+      "Puff of smoke",
+      "Hairpin turn",
+      "Beaded appearance"
+    ],
+    "answer": "C",
+    "detail": "The \"puff of smoke\" appearance is due to the enlargement of basal perforating arteries."
+  },
+  {
+    "number": 65,
+    "question": "In a child with Moyamoya, what underlying condition should you suspect?",
+    "choices": [
+      "Cystic Fibrosis",
+      "Sickle Cell Disease",
+      "Down Syndrome",
+      "Hepatitis B",
+      "Diabetes"
+    ],
+    "answer": "B",
+    "detail": "Moyamoya in a child is highly associated with sickle cell disease."
+  },
+  {
+    "number": 66,
+    "question": "How does the clinical presentation of Moyamoya differ between children and adults?",
+    "choices": [
+      "Children bleed, adults stroke",
+      "Children have MI, adults have renal failure",
+      "Children stroke, adults bleed",
+      "It is identical in both",
+      "Children have no symptoms"
+    ],
+    "answer": "C",
+    "detail": "Children typically present with stroke, whereas adults present with hemorrhage."
+  },
+  {
+    "number": 67,
+    "question": "Segmental Arterial Mediolysis (SAM) targets which vessels?",
+    "choices": [
+      "Coronary arteries",
+      "Splanchnic arteries",
+      "Intracranial arteries",
+      "Lower extremity veins",
+      "Pulmonary arteries"
+    ],
+    "answer": "B",
+    "detail": "SAM targets the splanchnic arteries of the elderly and coronaries of young adults."
+  },
+  {
+    "number": 68,
+    "question": "What is the normal peak systolic velocity (PSV) for the internal carotid artery (ICA)?",
+    "choices": [
+      "< 60 cm/s",
+      "< 125 cm/s",
+      "> 230 cm/s",
+      "300-400 cm/s",
+      "Exactly 50 cm/s"
+    ],
+    "answer": "B",
+    "detail": "A PSV < 125 cm/s is considered normal or indicative of no significant stenosis."
+  },
+  {
+    "number": 69,
+    "question": "According to NASCET criteria, what PSV defines \"Moderate\" (50-69%) ICA stenosis?",
+    "choices": [
+      "< 125 cm/s",
+      "125-230 cm/s",
+      "> 230 cm/s",
+      "40-100 cm/s",
+      "> 400 cm/s"
+    ],
+    "answer": "B",
+    "detail": "A PSV between 125 and 230 cm/s indicates 50-69% stenosis."
+  },
+  {
+    "number": 70,
+    "question": "What PSV defines \"Severe\" (>70%) ICA stenosis?",
+    "choices": [
+      "< 125 cm/s",
+      "125-230 cm/s",
+      "> 230 cm/s",
+      "> 100 cm/s",
+      "50 cm/s"
+    ],
+    "answer": "C",
+    "detail": "A PSV greater than 230 cm/s is the threshold for >70% stenosis."
+  },
+  {
+    "number": 71,
+    "question": "Besides PSV, which parameter indicates severe (>70%) carotid stenosis?",
+    "choices": [
+      "ICA EDV < 40",
+      "ICA/CCA PSV ratio < 2.0",
+      "ICA/CCA PSV ratio > 4.0 and ICA EDV > 100",
+      "Absence of a temporal tap reaction",
+      "Presence of a dicrotic notch"
+    ],
+    "answer": "C",
+    "detail": "Severe stenosis criteria include an ICA/CCA ratio > 4.0 and an EDV > 100."
+  },
+  {
+    "number": 72,
+    "question": "What type of waveform is found downstream from a significant proximal stenosis?",
+    "choices": [
+      "High resistance",
+      "Pulsus bisferiens",
+      "Tardus parvus",
+      "Monophasic high velocity",
+      "Reversed diastolic flow"
+    ],
+    "answer": "C",
+    "detail": "Tardus parvus is found downstream from a stenosis."
+  },
+  {
+    "number": 73,
+    "question": "If you see unilateral tardus parvus in the right carotid system, where is the stenosis?",
+    "choices": [
+      "Aortic valve",
+      "Aortic arch",
+      "Innominate artery",
+      "Left subclavian artery",
+      "Distal ICA"
+    ],
+    "answer": "C",
+    "detail": "Unilateral tardus parvus indicates a stenosis in the innominate (brachiocephalic) artery."
+  },
+  {
+    "number": 74,
+    "question": "If you see bilateral tardus parvus in the carotid arteries, what is the most likely diagnosis?",
+    "choices": [
+      "Bilateral ICA disease",
+      "Innominate stenosis",
+      "Aortic stenosis",
+      "Subclavian steal",
+      "Takayasu arteritis"
+    ],
+    "answer": "C",
+    "detail": "Bilateral tardus parvus points to a central problem, specifically the aortic valve."
+  },
+  {
+    "number": 75,
+    "question": "What is the hallmark finding of \"Subclavian Steal\" on Doppler?",
+    "choices": [
+      "High resistance ICA flow",
+      "Retrograde flow in the ipsilateral vertebral artery",
+      "Reversal of flow in the CCA",
+      "Monophasic flow in the ECA",
+      "\"To and fro\" flow in the aorta"
+    ],
+    "answer": "B",
+    "detail": "Subclavian steal is defined by retrograde flow in the vertebral artery."
+  },
+  {
+    "number": 76,
+    "question": "What spectral waveform morphology is described as \"mid-systolic deceleration\" in early steal?",
+    "choices": [
+      "The bird beak",
+      "The rabbit ear sign",
+      "The snowman",
+      "The double density",
+      "The yin-yang"
+    ],
+    "answer": "B",
+    "detail": "The \"early steal\" waveform looks like a rabbit."
+  },
+  {
+    "number": 77,
+    "question": "How can you distinguish the ICA from the ECA using vascular resistance?",
+    "choices": [
+      "ICA is high resistance; ECA is low resistance",
+      "ICA is low resistance; ECA is high resistance",
+      "Both are identical in resistance",
+      "ICA has no diastolic flow",
+      "ECA has higher diastolic flow than the ICA"
+    ],
+    "answer": "B",
+    "detail": "The brain (ICA) needs continuous diastolic flow, face muscles (ECA) do not."
+  },
+  {
+    "number": 78,
+    "question": "Which vessel of the carotid system characteristically has branches in the neck?",
+    "choices": [
+      "ICA",
+      "ECA",
+      "Both ICA and ECA",
+      "Neither",
+      "Only the CCA"
+    ],
+    "answer": "B",
+    "detail": "The external carotid has branches; the cervical ICA normally does not."
+  },
+  {
+    "number": 79,
+    "question": "The \"Temporal Tap\" technique identifies which vessel?",
+    "choices": [
+      "ICA",
+      "ECA",
+      "Subclavian",
+      "Vertebral",
+      "Innominate"
+    ],
+    "answer": "B",
+    "detail": "Tapping the temporal artery produces ripples in the ECA spectrum."
+  },
+  {
+    "number": 80,
+    "question": "What does a \"loss of diastolic flow\" suggest on a carotid Doppler study in an ICU patient?",
+    "choices": [
+      "Successful revascularization",
+      "Aortic regurgitation",
+      "Brain death",
+      "High cardiac output",
+      "Carotid dissection"
+    ],
+    "answer": "C",
+    "detail": "A loss of diastolic flow suggests cerebral blood flow has ceased."
+  },
+  {
+    "number": 81,
+    "question": "\"Aortic Regurgitation\" characteristically shows:",
+    "choices": [
+      "Tardus parvus",
+      "Puff of smoke",
+      "Reversal of diastolic flow",
+      "High systolic velocity > 400",
+      "Monophasic flow"
+    ],
+    "answer": "C",
+    "detail": "Bilateral reversal of flow in the CCAs is the hallmark of aortic regurgitation."
+  },
+  {
+    "number": 82,
+    "question": "What is the \"Pulsus Bisferiens\" and when is it seen?",
+    "choices": [
+      "Single large systolic peak in aortic stenosis",
+      "Double systolic peak seen in aortic regurgitation or HOCM",
+      "Loss of all flow in brain death",
+      "Rabbit ear in subclavian steal",
+      "High resistance spike in the ICA"
+    ],
+    "answer": "B",
+    "detail": "This is a double systolic peak seen in aortic regurgitation or hypertrophic obstructive cardiomyopathy."
+  },
+  {
+    "number": 83,
+    "question": "Where is an \"Intra-Aortic Balloon Pump\" (IABP) correctly positioned?",
+    "choices": [
+      "Aortic root",
+      "Transverse arch",
+      "Proximal descending aorta, 2 cm distal to the left subclavian",
+      "Abdominal aorta below the renals",
+      "In the common iliac artery"
+    ],
+    "answer": "C",
+    "detail": "The balloon should be in the proximal descending aorta, below the left subclavian."
+  },
+  {
+    "number": 84,
+    "question": "How does an IABP affect the ICA waveform?",
+    "choices": [
+      "It causes flow reversal",
+      "It creates a tardus parvus look",
+      "It creates an assisted peak in early diastole",
+      "It completely flattens the waveform",
+      "It increases PSV by 500%"
+    ],
+    "answer": "C",
+    "detail": "The pump creates an \"assisted peak\" in early diastole."
+  },
+  {
+    "number": 85,
+    "question": "When measuring velocity in a patient with an IABP, which peak should be used?",
+    "choices": [
+      "The assisted peak",
+      "The normal peak",
+      "The average of both",
+      "Diastolic velocity only",
+      "No peak can be measured"
+    ],
+    "answer": "B",
+    "detail": "You should measure the first peak, which is not assisted by the pump."
+  },
+  {
+    "number": 86,
+    "question": "What does the carotid Doppler look like with a \"Left Ventricular Assist Device\" (LVAD)?",
+    "choices": [
+      "High resistance spikes",
+      "Mostly flat with continuous flow",
+      "Alternating high and low velocities",
+      "Retrograde flow throughout",
+      "Perfect normal triphasic spikes"
+    ],
+    "answer": "B",
+    "detail": "LVAD waveforms become mostly flat because flow is continuous."
+  },
+  {
+    "number": 87,
+    "question": "In ICA Occlusion, what does the CCA waveform look like?",
+    "choices": [
+      "It looks like a normal ICA",
+      "It looks like the ECA",
+      "It shows massive \"to and fro\" flow",
+      "It flattens completely",
+      "It has a \"rabbit ear\""
+    ],
+    "answer": "B",
+    "detail": "The CCA now only feeds the high-resistance ECA system."
+  },
+  {
+    "number": 88,
+    "question": "According to NASCET, how should the degree of carotid stenosis be measured?",
+    "choices": [
+      "Comparing stenosis to the carotid bulb",
+      "Comparing narrowest part to a parallel segment of distal ICA",
+      "Measuring velocity at the bifurcation only",
+      "Measuring the CCA diameter",
+      "Visual estimation only"
+    ],
+    "answer": "B",
+    "detail": "The rule is to use comparison to the normal distal vessel."
+  },
+  {
+    "number": 89,
+    "question": "At what level does the CCA bifurcation usually occur?",
+    "choices": [
+      "C1-C2",
+      "C3-C4",
+      "C6-C7",
+      "T1-T2",
+      "Angle of the mandible"
+    ],
+    "answer": "B",
+    "detail": "The bifurcation usually occurs at the C3-C4 level."
+  },
+  {
+    "number": 90,
+    "question": "A \"Crescent Sign\" of high T1 signal in the carotid wall is diagnostic for:",
+    "choices": [
+      "Atherosclerosis",
+      "Aneurysm",
+      "Dissection",
+      "Vasculitis",
+      "Fibromuscular dysplasia"
+    ],
+    "answer": "C",
+    "detail": "The T1 bright \"crescent sign\" represents intramural blood in a dissection."
+  },
+  {
+    "number": 91,
+    "question": "Blunt trauma in the neck tends to favor injury to which vessels?",
+    "choices": [
+      "Jugular veins",
+      "Vertebral arteries",
+      "External carotids",
+      "Thyroid arteries",
+      "Subclavians"
+    ],
+    "answer": "B",
+    "detail": "Blunt trauma tends to favor the vertebral arteries."
+  },
+  {
+    "number": 92,
+    "question": "What is the ideal angle of insonation for Doppler?",
+    "choices": [
+      "0 degrees",
+      "90 degrees",
+      "Less than 60 degrees",
+      "Exactly 75 degrees",
+      "Angle does not matter"
+    ],
+    "answer": "C",
+    "detail": "The ideal angle is less than 60 degrees because strength follows the cosine of the angle."
+  },
+  {
+    "number": 93,
+    "question": "If a patient with a known LBBB needs a thoracic angiogram, what must be done first?",
+    "choices": [
+      "Give beta blockers",
+      "Stop anticoagulation",
+      "Place a prophylactic pacer",
+      "Get a PET scan",
+      "Perform a temporal tap"
+    ],
+    "answer": "C",
+    "detail": "A catheter can cause a RBBB, and RBBB + LBBB = asystole."
+  },
+  {
+    "number": 94,
+    "question": "What is the most common vascular variant in posterior brain circulation?",
+    "choices": [
+      "Persistent trigeminal artery",
+      "Fetal origin of the PCA",
+      "Azygos ACA",
+      "Duplicated basilar",
+      "Fenestrated vertebral"
+    ],
+    "answer": "B",
+    "detail": "Fetal PCA is seen in 30% of the population."
+  },
+  {
+    "number": 95,
+    "question": "A \"Tau Sign\" on sagittal MRI is characteristic of:",
+    "choices": [
+      "Fetal PCA",
+      "Persistent trigeminal artery",
+      "Carotid-cavernous fistula",
+      "Moyamoya",
+      "Aneurysm of the PCOM"
+    ],
+    "answer": "B",
+    "detail": "The tau sign represents a persistent fetal connection between the ICA and basilar artery."
+  },
+  {
+    "number": 96,
+    "question": "Which vascular pathology presents with acute CN3 palsy?",
+    "choices": [
+      "ICA dissection",
+      "MCA stroke",
+      "PCOM aneurysm",
+      "Subclavian steal",
+      "PAN"
+    ],
+    "answer": "C",
+    "detail": "A PCOM aneurysm is the classic cause for CN3 palsy due to proximity."
+  },
+  {
+    "number": 97,
+    "question": "\"Hoarseness\" after a vascular procedure should make you worry about:",
+    "choices": [
+      "Glossopharyngeal nerve damage",
+      "Recurrent laryngeal nerve compression",
+      "Phrenic nerve palsy",
+      "Tracheal stenosis",
+      "Pulmonary sling"
+    ],
+    "answer": "B",
+    "detail": "Hoarseness points to the recurrent laryngeal nerve being affected."
+  },
+  {
+    "number": 98,
+    "question": "What is the \"Gold Standard\" for diagnosing GCA?",
+    "choices": [
+      "CTA of the armpit",
+      "Temporal artery ultrasound",
+      "Temporal artery biopsy",
+      "ESR and CRP levels",
+      "Response to steroids"
+    ],
+    "answer": "C",
+    "detail": "Biopsy is the gold standard, though often negative."
+  },
+  {
+    "number": 99,
+    "question": "Which vasculitis is associated with cavitary lung lesions?",
+    "choices": [
+      "Churg-Strauss",
+      "Wegener Granulomatosis",
+      "Microscopic Polyangiitis",
+      "PAN",
+      "Takayasu"
+    ],
+    "answer": "B",
+    "detail": "Wegener's is the classic cause of cavitary lung nodules among vasculitides."
+  },
+  {
+    "number": 100,
+    "question": "If an angiogram shows \"bizarre vascularity\" in a renal mass, what is the diagnosis?",
+    "choices": [
+      "PAN",
+      "Renal Cell Carcinoma",
+      "FMD",
+      "Renal artery stenosis",
+      "Abscess"
+    ],
+    "answer": "B",
+    "detail": "Bizarre vascularity is the classic description for RCC."
+  }
+]
+
+}

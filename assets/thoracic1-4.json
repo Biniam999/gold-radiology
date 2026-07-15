@@ -1,0 +1,1306 @@
+{
+    "questions": 
+[
+  {
+    "number": 1,
+    "question": "On a lateral chest radiograph, how can the radiologist distinguish the left hemidiaphragm from the right?",
+    "choices": [
+      "The left hemidiaphragm is always the highest point.",
+      "The left hemidiaphragm is seen much further anteriorly.",
+      "The right hemidiaphragm typically has a stomach bubble beneath it.",
+      "The heart touches the left hemidiaphragm, making its anterior border disappear.",
+      "The right hemidiaphragm is usually lower than the left."
+    ],
+    "answer": "D",
+    "detail": "The heart touches the left hemidiaphragm, making its anterior border disappear. This is the silhouette sign."
+  },
+  {
+    "number": 2,
+    "question": "Why do the right ribs appear larger and more posterior than the left ribs on a standard lateral chest X-ray?",
+    "choices": [
+      "The right ribs are naturally larger in the human skeleton.",
+      "Lateral CXRs are taken in the left lateral position, causing geometric magnification of the right-sided structures.",
+      "The left ribs are displaced anteriorly by the heart.",
+      "The right ribs are closer to the X-ray film/cassette.",
+      "The left ribs are smaller due to the presence of the left lung."
+    ],
+    "answer": "B",
+    "detail": "Lateral CXRs are taken in the left lateral position, causing geometric magnification. The farther something is from the film, the more magnified it is."
+  },
+  {
+    "number": 3,
+    "question": "In the lateral view of the hilum, what structure is referred to as the 'Dark Hole'?",
+    "choices": [
+      "The right main bronchus.",
+      "The left upper lobe bronchus.",
+      "The bronchus intermedius.",
+      "The left main pulmonary artery.",
+      "The trachea."
+    ],
+    "answer": "B",
+    "detail": "The left upper lobe bronchus represents 'looking down the barrel'."
+  },
+  {
+    "number": 4,
+    "question": "When identifying the pulmonary arteries on a lateral CXR, which of the following is true?",
+    "choices": [
+      "The left pulmonary artery passes anterior to the right main bronchus.",
+      "The right pulmonary artery is located superior to the left pulmonary artery.",
+      "The left pulmonary artery hooks up and over the left main bronchus.",
+      "The right pulmonary artery is the 'loser in the back.'",
+      "The left pulmonary artery is always lower than the right."
+    ],
+    "answer": "C",
+    "detail": "The left pulmonary artery hooks up and over the left main bronchus. 'L'osers in the back refers to the Left being posterior."
+  },
+  {
+    "number": 5,
+    "question": "An opacity in the Retrotracheal Triangle (Raider Triangle) on a lateral CXR is a classic indicator of:",
+    "choices": [
+      "A goiter.",
+      "A Zenker diverticulum.",
+      "An aberrant right subclavian artery.",
+      "Esophageal cancer.",
+      "Lymphadenopathy."
+    ],
+    "answer": "C",
+    "detail": "An aberrant right subclavian artery is the classic cause of an obliterated retrotracheal triangle."
+  },
+  {
+    "number": 6,
+    "question": "The 'Raider Triangle' is bordered anteriorly by which structure?",
+    "choices": [
+      "The aortic arch.",
+      "The posterior wall of the trachea.",
+      "The upper thoracic vertebral bodies.",
+      "The sternum.",
+      "The esophagus."
+    ],
+    "answer": "B",
+    "detail": "It is bordered anteriorly by the posterior wall of the trachea and posteriorly by the spine."
+  },
+  {
+    "number": 7,
+    "question": "On a frontal CXR, the horizontal ribs are those that are:",
+    "choices": [
+      "Anterior.",
+      "Medial.",
+      "Posterior.",
+      "Superior.",
+      "Inferior."
+    ],
+    "answer": "C",
+    "detail": "The posterior ribs appear more horizontal. 'Horizon is in the back'."
+  },
+  {
+    "number": 8,
+    "question": "For a hilum to be considered normal on a frontal CXR, the left hilar point should be approximately how much higher than the right hilar point?",
+    "choices": [
+      "Level with the right.",
+      "0.5 cm.",
+      "1.0 cm.",
+      "2.5 cm.",
+      "5.0 cm."
+    ],
+    "answer": "C",
+    "detail": "The left hilar point should always be around 1 cm higher than the right."
+  },
+  {
+    "number": 9,
+    "question": "How many layers of pleura are involved in an Azygos Lobe Fissure?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "D",
+    "detail": "The azygos lobe fissure contains 4 layers of pleura."
+  },
+  {
+    "number": 10,
+    "question": "On the right side, how many bronchopulmonary segments are typically present?",
+    "choices": [
+      "4",
+      "5",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": "D",
+    "detail": "There are 10 bronchopulmonary segments on the right."
+  },
+  {
+    "number": 11,
+    "question": "Which lobe on the left side is composed of four segments?",
+    "choices": [
+      "Upper lobe/Lingula.",
+      "Lower lobe.",
+      "Middle lobe.",
+      "Both A and B.",
+      "Neither A nor B."
+    ],
+    "answer": "D",
+    "detail": "On the left, both the upper lobe/lingula and the lower lobe typically have 4 segments each."
+  },
+  {
+    "number": 12,
+    "question": "A 'Pig Bronchus' (Tracheal Bronchus) is a variant airway that most commonly results in recurrent pneumonia in which lobe?",
+    "choices": [
+      "Left Upper Lobe.",
+      "Right Middle Lobe.",
+      "Right Upper Lobe.",
+      "Right Lower Lobe.",
+      "Lingula."
+    ],
+    "answer": "C",
+    "detail": "'Pig Pneumonia' refers to recurrent RUL pneumonia in a child due to this variant."
+  },
+  {
+    "number": 13,
+    "question": "Which variant airway is described as a 'blind ending' structure and is considered the only true supernumerary bronchus?",
+    "choices": [
+      "Pig Bronchus.",
+      "Tracheal Bronchus.",
+      "Cardiac Bronchus.",
+      "Accessory Lingular Bronchus.",
+      "Azygos Bronchus."
+    ],
+    "answer": "C",
+    "detail": "The cardiac bronchus is often blind-ending and is the only true supernumerary bronchus."
+  },
+  {
+    "number": 14,
+    "question": "According to the text, what is the most anterior structure in the superior mediastinum?",
+    "choices": [
+      "The trachea.",
+      "The esophagus.",
+      "The thoracic duct.",
+      "The thymus.",
+      "The phrenic nerve."
+    ],
+    "answer": "D",
+    "detail": "The thymus is the most anterior structure in the superior mediastinum."
+  },
+  {
+    "number": 15,
+    "question": "Which mediastinal compartment contains the roots of the central vessels and the bifurcation of the trachea?",
+    "choices": [
+      "Superior.",
+      "Anterior.",
+      "Middle.",
+      "Posterior.",
+      "Para-tracheal."
+    ],
+    "answer": "C",
+    "detail": "The middle mediastinum contains the roots of central vessels and the tracheal bifurcation."
+  },
+  {
+    "number": 16,
+    "question": "The posterior mediastinum is defined as the space from the back of the heart to the spine and contains which structure?",
+    "choices": [
+      "The heart.",
+      "The thymus.",
+      "The phrenic nerves.",
+      "The descending aorta.",
+      "The trachea."
+    ],
+    "answer": "D",
+    "detail": "The descending aorta is located in the posterior mediastinum along with the esophagus and thoracic duct."
+  },
+  {
+    "number": 17,
+    "question": "What is the most common supernumerary pulmonary vein?",
+    "choices": [
+      "Left superior.",
+      "Right middle.",
+      "Left inferior.",
+      "Right superior.",
+      "Common ostia."
+    ],
+    "answer": "B",
+    "detail": "The right middle is the most common supernumerary pulmonary vein."
+  },
+  {
+    "number": 18,
+    "question": "A 'Common Ostia' of the pulmonary veins most typically involves the merging of:",
+    "choices": [
+      "The right superior and inferior veins.",
+      "The right middle and inferior veins.",
+      "The left superior and inferior veins.",
+      "The left superior and right superior veins.",
+      "All five pulmonary veins."
+    ],
+    "answer": "C",
+    "detail": "A common ostia typically involves the left superior and inferior veins merging before entering the atrium."
+  },
+  {
+    "number": 19,
+    "question": "Which pulmonary vein sleeve is the most common site for arrhythmogenic foci causing atrial fibrillation?",
+    "choices": [
+      "Right middle.",
+      "Right superior.",
+      "Left superior.",
+      "Left inferior.",
+      "Azygos vein."
+    ],
+    "answer": "C",
+    "detail": "The left superior pulmonary vein is the most common site for a-fib foci."
+  },
+  {
+    "number": 20,
+    "question": "Accidental ligation of a 'Common Ostia' during surgery is a risk during which procedure?",
+    "choices": [
+      "Pneumonectomy.",
+      "Lobectomy.",
+      "Tracheal resection.",
+      "Thymectomy.",
+      "Esophagectomy."
+    ],
+    "answer": "B",
+    "detail": "Identification of a common ostia on pre-op CT is needed to avoid accidental ligation during a lobectomy."
+  },
+  {
+    "number": 21,
+    "question": "In the secondary pulmonary lobule, which structures run through the center?",
+    "choices": [
+      "Veins and lymphatics.",
+      "Airway and artery.",
+      "Interlobular septa.",
+      "Veins and artery.",
+      "Lymphatics and airway."
+    ],
+    "answer": "B",
+    "detail": "The airway (terminal bronchus) and artery run down the center of the secondary pulmonary lobule."
+  },
+  {
+    "number": 22,
+    "question": "Where are the lymphatics located within the secondary pulmonary lobule?",
+    "choices": [
+      "In the center with the artery.",
+      "Running along the terminal bronchial.",
+      "In the periphery, outlining the septa.",
+      "Crossing the alveolar walls.",
+      "Inside the artery lumen."
+    ],
+    "answer": "C",
+    "detail": "Lymphatics and veins are found in the periphery, outlining the septa."
+  },
+  {
+    "number": 23,
+    "question": "The terminal bronchial and its accompanying artery in the lobule center are surrounded by:",
+    "choices": [
+      "Connective tissue.",
+      "Veins.",
+      "Visceral pleura.",
+      "Mediastinal fat.",
+      "Major fissures."
+    ],
+    "answer": "A",
+    "detail": "The secondary pulmonary lobule (SPL) is the smallest part of the lung surrounded by connective tissue."
+  },
+  {
+    "number": 24,
+    "question": "The inferior border of the superior mediastinum is drawn from the sternal-manubrial junction to which vertebral level?",
+    "choices": [
+      "T1",
+      "T2",
+      "T4",
+      "T6",
+      "T8"
+    ],
+    "answer": "C",
+    "detail": "The line is drawn from the sternal-manubrial junction to the T4 vertebral level."
+  },
+  {
+    "number": 25,
+    "question": "Which structure is located in the middle mediastinum?",
+    "choices": [
+      "The Bulk of the Thymus (in kids).",
+      "The Thoracic Duct.",
+      "The Sympathetic Trunk.",
+      "The Phrenic Nerves.",
+      "The Descending Aorta."
+    ],
+    "answer": "D",
+    "detail": "The phrenic nerves are part of the middle mediastinum."
+  },
+  {
+    "number": 26,
+    "question": "Which pattern of atelectasis results from a loss of surface tension due to a surfactant deficiency?",
+    "choices": [
+      "Obstructive.",
+      "Compressive.",
+      "Fibrotic.",
+      "Adhesive.",
+      "Passive."
+    ],
+    "answer": "D",
+    "detail": "Adhesive atelectasis results from a loss of surface tension or surfactant deficiency."
+  },
+  {
+    "number": 27,
+    "question": "'Resorption atelectasis' is another name for which subtype?",
+    "choices": [
+      "Compressive.",
+      "Adhesive.",
+      "Obstructive.",
+      "Cicatrization.",
+      "Relaxation."
+    ],
+    "answer": "C",
+    "detail": "Obstructive atelectasis is also known as absorptive or resorption atelectasis."
+  },
+  {
+    "number": 28,
+    "question": "A patient with a large pleural effusion is most likely to demonstrate which type of atelectasis in the adjacent lung?",
+    "choices": [
+      "Obstructive.",
+      "Compressive.",
+      "Fibrotic.",
+      "Adhesive.",
+      "Cicatrization."
+    ],
+    "answer": "B",
+    "detail": "Compressive atelectasis is classically seen adjacent to a pleural effusion."
+  },
+  {
+    "number": 29,
+    "question": "Which type of atelectasis is most classically associated with Tuberculosis (TB)?",
+    "choices": [
+      "Obstructive.",
+      "Compressive.",
+      "Fibrotic.",
+      "Adhesive.",
+      "Passive."
+    ],
+    "answer": "C",
+    "detail": "Fibrotic atelectasis is also known as cicatrization and is classic for TB."
+  },
+  {
+    "number": 30,
+    "question": "In the setting of a pulmonary embolism, which mechanism leads to adhesive atelectasis?",
+    "choices": [
+      "Direct compression by the embolus.",
+      "Airway obstruction by blood.",
+      "Loss of blood flow and CO2 disrupting surfactant integrity.",
+      "Scarring of the pleura.",
+      "Tension pneumothorax."
+    ],
+    "answer": "C",
+    "detail": "In PE, the loss of blood flow and CO2 disrupts surfactant integrity, leading to adhesive atelectasis."
+  },
+  {
+    "number": 31,
+    "question": "Which of the following is considered a DIRECT sign of atelectasis?",
+    "choices": [
+      "Opacification (Shadow).",
+      "Tenting of the diaphragms.",
+      "Displacement of the fissures.",
+      "Shifting of the mediastinum.",
+      "Compensatory overinflation."
+    ],
+    "answer": "C",
+    "detail": "Displacement of the fissures is considered one of the most dependable direct signs."
+  },
+  {
+    "number": 32,
+    "question": "What is the earliest direct sign of volume loss in an atelectatic area?",
+    "choices": [
+      "Crowding of vessels and bronchi.",
+      "Tracheal deviation.",
+      "Fissure displacement.",
+      "Elevation of the hilar point.",
+      "Rib crowding."
+    ],
+    "answer": "A",
+    "detail": "Crowding of vessels and bronchi is considered one of the earliest direct signs."
+  },
+  {
+    "number": 33,
+    "question": "The 'S Sign of Golden' is a classic radiographic finding associated with:",
+    "choices": [
+      "Left upper lobe collapse due to a hilar mass.",
+      "Right upper lobe collapse due to a central obstructing mass.",
+      "Right lower lobe collapse in a smoker.",
+      "Total lung collapse from a mucus plug.",
+      "Bilateral lower lobe adhesive atelectasis."
+    ],
+    "answer": "B",
+    "detail": "The 'S Sign of Golden' refers to the reverse 'S' shape seen in RUL collapse caused by a central mass."
+  },
+  {
+    "number": 34,
+    "question": "In Right Upper Lobe (RUL) atelectasis, how does the lobe typically 'close'?",
+    "choices": [
+      "It collapses posteriorly against the spine.",
+      "It collapses inferiorly towards the diaphragm.",
+      "It closes like a fan attached at the hilum.",
+      "It moves medially to obscure the heart border.",
+      "It displaces the major fissure posteriorly."
+    ],
+    "answer": "C",
+    "detail": "The specific lobar pattern for RUL collapse is that it closes like a fan attached at the hilum."
+  },
+  {
+    "number": 35,
+    "question": "A patient presents with increased density at the right heart border and loss of the heart border silhouette. What is the most likely diagnosis?",
+    "choices": [
+      "RUL collapse.",
+      "RML collapse.",
+      "RLL collapse.",
+      "LUL collapse.",
+      "LLL collapse."
+    ],
+    "answer": "B",
+    "detail": "Loss of the right heart border is the classic look for RML collapse."
+  },
+  {
+    "number": 36,
+    "question": "'Lady Windermere Syndrome' is a clinical scenario involving chronic collapse of the RML associated with which infection?",
+    "choices": [
+      "Strep Pneumonia.",
+      "Mycobacterium avium-intracellulare (MAI).",
+      "Tuberculosis.",
+      "Aspergillus.",
+      "Legionella."
+    ],
+    "answer": "B",
+    "detail": "Lady Windermere syndrome involves MAI; the nickname suggests she is 'too proper to cough.'"
+  },
+  {
+    "number": 37,
+    "question": "What is the critical distinction between RML collapse and RLL collapse on a frontal CXR?",
+    "choices": [
+      "RML collapse obscures the right hemidiaphragm.",
+      "RLL collapse obscures the right heart border.",
+      "RLL collapse maintains the right heart border silhouette.",
+      "RML collapse creates a 'Superior Triangle Sign.'",
+      "RLL collapse bows the minor fissure upward."
+    ],
+    "answer": "C",
+    "detail": "In RLL collapse, the heart border silhouette should NOT be lost, whereas it is lost in RML collapse."
+  },
+  {
+    "number": 38,
+    "question": "The 'Superior Triangle Sign' represents the movement of mediastinal vessels in the setting of:",
+    "choices": [
+      "Right Upper Lobe collapse.",
+      "Right Middle Lobe collapse.",
+      "Right Lower Lobe collapse.",
+      "Left Upper Lobe collapse.",
+      "Total right lung collapse."
+    ],
+    "answer": "C",
+    "detail": "RLL collapse creates the 'Superior Triangle Sign' to the right of the trachea."
+  },
+  {
+    "number": 39,
+    "question": "If both the right hemidiaphragm and the right heart border silhouettes are lost, what is the most likely combination of collapsed lobes?",
+    "choices": [
+      "RUL + RML.",
+      "RUL + RLL.",
+      "RML + RLL.",
+      "Total Right Lung.",
+      "RUL only."
+    ],
+    "answer": "C",
+    "detail": "Loss of both visualization points (heart border and diaphragm) suggests a combined RML and RLL collapse."
+  },
+  {
+    "number": 40,
+    "question": "The 'Luftsichel Sign' is a lucent stripe seen in which condition?",
+    "choices": [
+      "Right Upper Lobe collapse.",
+      "Left Upper Lobe collapse.",
+      "Right Lower Lobe collapse.",
+      "Left Lower Lobe collapse.",
+      "Pneumothorax."
+    ],
+    "answer": "B",
+    "detail": "'Luftsichel' means 'Air Sickle' and is seen in Left Upper Lobe collapse."
+  },
+  {
+    "number": 41,
+    "question": "The 'Luftsichel' appearance is caused by the hyperinflation of which lung segment?",
+    "choices": [
+      "Apical segment of the RUL.",
+      "Superior (apical) segment of the Left Lower Lobe.",
+      "Superior segment of the RLL.",
+      "Anterior segment of the LUL.",
+      "Medial segment of the RML."
+    ],
+    "answer": "B",
+    "detail": "The superior (apical) segment of the Left Lower Lobe becomes hyperinflated and pinned between the aorta and the collapsed LUL segment."
+  },
+  {
+    "number": 42,
+    "question": "Which radiographic sign is described as a flattened appearance of the left heart border and hilum in the setting of LLL collapse?",
+    "choices": [
+      "S Sign of Golden.",
+      "Flat Waist Sign.",
+      "Oreo Cookie Sign.",
+      "Walking Man Sign.",
+      "Sail Sign."
+    ],
+    "answer": "B",
+    "detail": "The 'Flat Waist Sign' describes the flattened contours of the hilum and heart border in LLL collapse."
+  },
+  {
+    "number": 43,
+    "question": "On a frontal CXR, Left Lower Lobe collapse can be 'sneaky' because:",
+    "choices": [
+      "It always resembles a pleural effusion.",
+      "The opacity is often hidden behind the heart.",
+      "It displaces the trachea to the right.",
+      "It bows the minor fissure superiorly.",
+      "It clears with steroids."
+    ],
+    "answer": "B",
+    "detail": "LLL collapse is 'sneaky' on frontal views because the opacity is often hidden behind the heart."
+  },
+  {
+    "number": 44,
+    "question": "Acute atelectasis typically favors which type of displacement?",
+    "choices": [
+      "Compensatory overinflation of the normal lung.",
+      "Diaphragmatic and mediastinal displacement.",
+      "Shift of the minor fissure only.",
+      "Rib notching.",
+      "Posterior shift of the major fissure."
+    ],
+    "answer": "B",
+    "detail": "Acute atelectasis favors diaphragmatic and mediastinal displacement."
+  },
+  {
+    "number": 45,
+    "question": "Chronic atelectasis is more likely to show which secondary finding?",
+    "choices": [
+      "Rapid tracheal shift.",
+      "Sudden opacification of the hemithorax.",
+      "Compensatory overinflation of non-atelectatic lung.",
+      "Acute tenting of the diaphragm.",
+      "Development of a Rasmussen aneurysm."
+    ],
+    "answer": "C",
+    "detail": "Chronic atelectasis is more likely to show compensatory overinflation of the non-atelectatic lung."
+  },
+  {
+    "number": 46,
+    "question": "The loss of an interface seen when two objects of similar density touch is known as:",
+    "choices": [
+      "The Hilum Overlay Sign.",
+      "The Cervicothoracic Sign.",
+      "The Silhouette Sign.",
+      "The Incomplete Border Sign.",
+      "The Air Bronchogram Sign."
+    ],
+    "answer": "C",
+    "detail": "The Silhouette Sign describes the loss of an interface."
+  },
+  {
+    "number": 47,
+    "question": "The 'Hilum Overlay Sign' is used to determine if a mass is:",
+    "choices": [
+      "Solid or cystic.",
+      "Malignant or benign.",
+      "In the hilum or anterior/posterior to it.",
+      "Lung-based or pleural-based.",
+      "Causing bronchial obstruction."
+    ],
+    "answer": "C",
+    "detail": "The Hilum Overlay Sign is an application of the silhouette sign used to see if a mass is in the hilum or elsewhere."
+  },
+  {
+    "number": 48,
+    "question": "If the hilar vessels are obscured by a soft tissue mass, the mass is located:",
+    "choices": [
+      "In the anterior mediastinum.",
+      "In the posterior mediastinum.",
+      "In the hilum (touching the vessels).",
+      "In the pleural space.",
+      "Inside the bronchus."
+    ],
+    "answer": "C",
+    "detail": "If vessels are obscured, the soft tissue mass is in the hilum, touching them."
+  },
+  {
+    "number": 49,
+    "question": "If hilar vessels can still be clearly seen through a mass, the mass is located:",
+    "choices": [
+      "Within the pulmonary artery.",
+      "Anterior or posterior to the hilum.",
+      "Inside the bronchus intermedius.",
+      "In the middle mediastinum.",
+      "Directly in the hilum."
+    ],
+    "answer": "B",
+    "detail": "If vessels can be seen through the mass, the mass is anterior or posterior to the hilum and not touching them."
+  },
+  {
+    "number": 50,
+    "question": "The 'Cervicothoracic Sign' relies on the anatomical fact that:",
+    "choices": [
+      "The posterior mediastinum ends at the clavicles.",
+      "The anterior mediastinum ends at the clavicles.",
+      "The trachea bifurcates at the clavicles.",
+      "The esophagus is anterior to the trachea at the clavicles.",
+      "The aortic arch is above the clavicles."
+    ],
+    "answer": "B",
+    "detail": "The basis for the cervicothoracic sign is that the anterior mediastinum ends at the clavicles."
+  },
+  {
+    "number": 51,
+    "question": "A mass that extends above the level of the clavicles on a frontal CXR is NOT located in the:",
+    "choices": [
+      "Posterior mediastinum.",
+      "Anterior mediastinum.",
+      "Apex of the lung.",
+      "Superior mediastinum.",
+      "Trachea."
+    ],
+    "answer": "B",
+    "detail": "Anything above the clavicles is NOT in the anterior mediastinum."
+  },
+  {
+    "number": 52,
+    "question": "What is a classic example of a mass that frequently demonstrates a positive Cervicothoracic Sign?",
+    "choices": [
+      "Thymoma.",
+      "Pericardial cyst.",
+      "Thyroid goiter.",
+      "Bronchogenic cyst.",
+      "Lymphoma."
+    ],
+    "answer": "C",
+    "detail": "A thyroid goiter is a classic example."
+  },
+  {
+    "number": 53,
+    "question": "Which of the following structures extends above the clavicles, unlike its anterior counterpart?",
+    "choices": [
+      "Anterior junction line.",
+      "Posterior junction line.",
+      "Heart border.",
+      "Minor fissure.",
+      "Left main bronchus."
+    ],
+    "answer": "B",
+    "detail": "The posterior junction line extends above the clavicles."
+  },
+  {
+    "number": 54,
+    "question": "The 'Incomplete Border Sign' is used to differentiate:",
+    "choices": [
+      "Atelectasis from pneumonia.",
+      "Anterior from posterior masses.",
+      "Pulmonary masses from pleural/chest wall masses.",
+      "Hilar masses from vascular dilation.",
+      "Solid from liquid."
+    ],
+    "answer": "C",
+    "detail": "It is used to differentiate pulmonary masses (with crisp borders) from pleural/chest wall masses."
+  },
+  {
+    "number": 55,
+    "question": "A pulmonary mass (completely surrounded by lung) should typically have which type of border?",
+    "choices": [
+      "Hazy and incomplete.",
+      "Tapered at an acute angle with the pleura.",
+      "Crisp and circumferential.",
+      "Indistinguishable from the chest wall.",
+      "Displaced by fat."
+    ],
+    "answer": "C",
+    "detail": "A pulmonary mass typically has a crisp and circumferential border."
+  },
+  {
+    "number": 56,
+    "question": "Which bacterial pathogen is the most common cause of pneumonia in AIDS patients?",
+    "choices": [
+      "PCP.",
+      "Strep Pneumonia.",
+      "Staph Aureus.",
+      "Klebsiella.",
+      "Pseudomonas."
+    ],
+    "answer": "B",
+    "detail": "Strep Pneumonia is the most common cause of pneumonia in AIDS patients."
+  },
+  {
+    "number": 57,
+    "question": "'Lobar consolidation favoring the lower lobes' is the classic description for which bacterial pneumonia?",
+    "choices": [
+      "Staph Aureus.",
+      "Legionella.",
+      "Strep Pneumonia.",
+      "Mycoplasma.",
+      "H. Flu."
+    ],
+    "answer": "C",
+    "detail": "Lobar consolidation favoring the lower lobes is classic for Strep Pneumonia."
+  },
+  {
+    "number": 58,
+    "question": "Which infection is associated with endocarditis and can spread hematogenously to cause bilateral patchy opacities and abscesses?",
+    "choices": [
+      "Strep Pneumo.",
+      "Staph Aureus.",
+      "Anthrax.",
+      "Klebsiella.",
+      "Actinomycosis."
+    ],
+    "answer": "B",
+    "detail": "Staph Aureus often presents as bilateral bronchopneumonia spread via blood in endocarditis."
+  },
+  {
+    "number": 59,
+    "question": "A CXR showing mediastinal widening and pleural effusions in a clinical setting of potential bio-terrorism is suspicious for:",
+    "choices": [
+      "Klebsiella.",
+      "Pseudomonas.",
+      "Anthrax.",
+      "Legionella.",
+      "Mycoplasma."
+    ],
+    "answer": "C",
+    "detail": "Mediastinal widening in a bio-terrorism setting is the classic look for Anthrax."
+  },
+  {
+    "number": 60,
+    "question": "The 'Bulging Fissure' sign due to exuberant inflammation is the hallmark of which pneumonia?",
+    "choices": [
+      "Strep Pneumo.",
+      "Staph Aureus.",
+      "Klebsiella.",
+      "H. Flu.",
+      "Legionella."
+    ],
+    "answer": "C",
+    "detail": "The 'Bulging Fissure' is the hallmark buzzword for Klebsiella pneumonia."
+  },
+  {
+    "number": 61,
+    "question": "Which patient population is at the highest risk for Klebsiella pneumonia?",
+    "choices": [
+      "Children under 5.",
+      "Teenagers.",
+      "Alcoholics and nursing home patients.",
+      "Healthy young adults.",
+      "Pregnant women."
+    ],
+    "answer": "C",
+    "detail": "Alcoholics and nursing home patients are the classic demographic for Klebsiella."
+  },
+  {
+    "number": 62,
+    "question": "H. Flu pneumonia is most commonly seen in which underlying condition?",
+    "choices": [
+      "Cystic Fibrosis.",
+      "AIDS.",
+      "COPD (and those without a spleen).",
+      "Diabetes.",
+      "Primary Ciliary Dyskinesia."
+    ],
+    "answer": "C",
+    "detail": "H. Flu pneumonia is commonly seen in patients with COPD and those without a spleen."
+  },
+  {
+    "number": 63,
+    "question": "Which bacterial infection is typical for ICU patients on a ventilator and often forms abscesses?",
+    "choices": [
+      "Legionella.",
+      "Pseudomonas.",
+      "Mycoplasma.",
+      "Strep Pneumo.",
+      "Actinomycosis."
+    ],
+    "answer": "B",
+    "detail": "Pseudomonas is seen in ICU patients on ventilators."
+  },
+  {
+    "number": 64,
+    "question": "Legionella pneumonia is classically associated with which source?",
+    "choices": [
+      "Contaminated air conditioners.",
+      "Dental procedures.",
+      "Dirty birth canal.",
+      "Hot tubs.",
+      "IV drug use."
+    ],
+    "answer": "A",
+    "detail": "Legionella is classically associated with contaminated air conditioners and is also seen in COPDers."
+  },
+  {
+    "number": 65,
+    "question": "Cavitation in Legionella pneumonia is typically seen ONLY in which patients?",
+    "choices": [
+      "Smokers.",
+      "COPDers.",
+      "Immunosuppressed patients.",
+      "Children.",
+      "Alcoholics."
+    ],
+    "answer": "C",
+    "detail": "Legionella only typically cavitates in immunosuppressed patients."
+  },
+  {
+    "number": 66,
+    "question": "In a supine patient, aspiration pneumonia most commonly involves which lung segments?",
+    "choices": [
+      "Basal lower lobes.",
+      "Right middle lobe and lingula.",
+      "Posterior segments of the upper lobes and superior segments of the lower lobes.",
+      "Anterior segments of the upper lobes.",
+      "Apices."
+    ],
+    "answer": "C",
+    "detail": "In the supine position, aspiration favors the posterior segments of the upper lobes and superior segments of the lower lobes."
+  },
+  {
+    "number": 67,
+    "question": "What is the most common complication of aspiration pneumonia?",
+    "choices": [
+      "Pneumothorax.",
+      "Empyema.",
+      "Rasmussen aneurysm.",
+      "Rib notching.",
+      "Miliary spread."
+    ],
+    "answer": "B",
+    "detail": "Empyema is the most common complication of aspiration."
+  },
+  {
+    "number": 68,
+    "question": "A clinical history of a 'dental procedure gone bad' followed by aggressive airspace disease in the peripheral lower lobes and rib osteomyelitis suggests:",
+    "choices": [
+      "Actinomycosis.",
+      "Nocardia.",
+      "Staph Aureus.",
+      "Klebsiella.",
+      "Mycoplasma."
+    ],
+    "answer": "A",
+    "detail": "Actinomycosis is the classic answer for a 'dental procedure gone bad.'"
+  },
+  {
+    "number": 69,
+    "question": "Which is the most common community-acquired pneumonia in the 5 to 20-year-old age group?",
+    "choices": [
+      "Strep Pneumo.",
+      "Mycoplasma.",
+      "RSV.",
+      "H. Flu.",
+      "Chlamydia."
+    ],
+    "answer": "B",
+    "detail": "Mycoplasma is the most common community-acquired pneumonia in the 5-20 year age group."
+  },
+  {
+    "number": 70,
+    "question": "Mycoplasma pneumonia is associated with which syndrome characterized by a 'unilateral lucent lung'?",
+    "choices": [
+      "Lady Windermere.",
+      "Swyer-James.",
+      "Caplan.",
+      "Lofgren.",
+      "Goodpasture."
+    ],
+    "answer": "B",
+    "detail": "Swyer-James syndrome is associated with Mycoplasma and a unilateral lucent lung."
+  },
+  {
+    "number": 71,
+    "question": "According to the text's 'Gamesmanship,' how long should you wait for a follow-up CXR to confirm clearance of pneumonia in an elderly patient?",
+    "choices": [
+      "2 weeks.",
+      "6 weeks.",
+      "3 months.",
+      "6 months.",
+      "1 year."
+    ],
+    "answer": "C",
+    "detail": "The 'gamesmanship' recommendation is to wait 3 months for an elderly patient's follow-up."
+  },
+  {
+    "number": 72,
+    "question": "What is the most classic opportunistic infection in AIDS patients, often presenting as bilateral perihilar ground-glass opacities?",
+    "choices": [
+      "Kaposi Sarcoma.",
+      "Lymphoma.",
+      "Pneumocystis (PCP).",
+      "TB.",
+      "CMV."
+    ],
+    "answer": "C",
+    "detail": "PCP is the most classic AIDS infection."
+  },
+  {
+    "number": 73,
+    "question": "Thin-walled cysts and a high risk of pneumothorax are characteristic findings of which AIDS-related infection?",
+    "choices": [
+      "Strep Pneumo.",
+      "Invasive Aspergillus.",
+      "PCP.",
+      "Cryptococcus.",
+      "NTM."
+    ],
+    "answer": "C",
+    "detail": "PCP is characterized by ground glass, thin-walled cysts, and PTX."
+  },
+  {
+    "number": 74,
+    "question": "A 'Flame-Shaped' perihilar opacity in an AIDS patient is a buzzword for:",
+    "choices": [
+      "PCP.",
+      "Kaposi Sarcoma.",
+      "Lymphoma.",
+      "LIP.",
+      "Castleman disease."
+    ],
+    "answer": "B",
+    "detail": "A 'Flame-Shaped' perihilar opacity is a buzzword for Kaposi Sarcoma."
+  },
+  {
+    "number": 75,
+    "question": "In an AIDS patient, persistent opacities on imaging should make you think of:",
+    "choices": [
+      "PCP.",
+      "Strep Pneumo.",
+      "Lymphoma.",
+      "Kaposi Sarcoma.",
+      "Mycoplasma."
+    ],
+    "answer": "C",
+    "detail": "Lymphoma should be considered if there are persistent opacities in an AIDS patient."
+  },
+  {
+    "number": 76,
+    "question": "Which condition in children with HIV is associated with perivascular cysts and ground-glass opacities?",
+    "choices": [
+      "PCP.",
+      "Lymphocytic Interstitial Pneumonitis (LIP).",
+      "EBV.",
+      "RSV.",
+      "GBS Pneumonia."
+    ],
+    "answer": "B",
+    "detail": "LIP is a cystic disease seen in kids with HIV."
+  },
+  {
+    "number": 77,
+    "question": "A calcified TB granuloma is known as a:",
+    "choices": [
+      "Ranke Complex.",
+      "Ghon Focus.",
+      "Rasmussen Aneurysm.",
+      "Aspergilloma.",
+      "Atoll Sign."
+    ],
+    "answer": "B",
+    "detail": "A Ghon Focus is a calcified TB granuloma."
+  },
+  {
+    "number": 78,
+    "question": "A 'Ranke Complex' in TB consists of a calcified granuloma plus:",
+    "choices": [
+      "A pleural effusion.",
+      "A calcified hilar node.",
+      "A cavitation.",
+      "Miliary nodules.",
+      "A pseudoaneurysm."
+    ],
+    "answer": "B",
+    "detail": "A Ranke Complex consists of a calcified granuloma plus a calcified hilar node."
+  },
+  {
+    "number": 79,
+    "question": "Bulky hilar and paratracheal adenopathy in the setting of primary TB is most commonly seen in:",
+    "choices": [
+      "Immunocompromised adults.",
+      "Elderly patients.",
+      "Children.",
+      "Smokers.",
+      "Pregnant women."
+    ],
+    "answer": "C",
+    "detail": "Nodal expansion in primary TB is most common in children."
+  },
+  {
+    "number": 80,
+    "question": "What is the classic location for reactivation (post-primary) TB?",
+    "choices": [
+      "Right middle lobe.",
+      "Basal lower lobes.",
+      "Apical and posterior upper lobes and superior lower lobes.",
+      "Anterior segments of the upper lobes.",
+      "Costophrenic angles."
+    ],
+    "answer": "C",
+    "detail": "Reactivation TB is classically located in the apical and posterior upper lobes and superior lower lobes."
+  },
+  {
+    "number": 81,
+    "question": "Cavitation is a hallmark feature of which stage of Tuberculosis?",
+    "choices": [
+      "Primary.",
+      "Latent.",
+      "Post-primary (reactivation).",
+      "Ranke complex.",
+      "Primary TB in children."
+    ],
+    "answer": "C",
+    "detail": "A cavity is a classic look for post-primary (reactivation) TB."
+  },
+  {
+    "number": 82,
+    "question": "A 'Rasmussen Aneurysm' is a pseudoaneurysm of which structure in the setting of a TB cavity?",
+    "choices": [
+      "The Aorta.",
+      "Bronchial artery.",
+      "Pulmonary artery.",
+      "Superior Vena Cava.",
+      "Intercostal artery."
+    ],
+    "answer": "C",
+    "detail": "A Rasmussen pseudoaneurysm occurs in the pulmonary artery near a TB cavity."
+  },
+  {
+    "number": 83,
+    "question": "In an HIV patient, a 'reactive TB pattern' with cavitation is typically seen when the CD4 count is:",
+    "choices": [
+      "< 50.",
+      "< 100.",
+      "< 200.",
+      "> 200.",
+      "Normal."
+    ],
+    "answer": "D",
+    "detail": "Cavitation (reactive TB pattern) occurs when the CD4 count is > 200."
+  },
+  {
+    "number": 84,
+    "question": "Immune Reconstitution Inflammatory Syndrome (IRIS) occurs in AIDS/TB patients after starting HAART and is treated with:",
+    "choices": [
+      "Antibiotics.",
+      "Antifungals.",
+      "Steroids.",
+      "Increased anti-retrovirals.",
+      "Surgery."
+    ],
+    "answer": "C",
+    "detail": "Steroids are the therapy for IRIS."
+  },
+  {
+    "number": 85,
+    "question": "'Lady Windermere Disease' refers to a non-tuberculous mycobacterial (NTM) infection favoring middle lobe/lingular bronchiectasis in which demographic?",
+    "choices": [
+      "Old white male smokers with COPD.",
+      "HIV patients with CD4 < 100.",
+      "Elderly women who 'do not cough.'",
+      "Children under 2.",
+      "Healthcare workers."
+    ],
+    "answer": "C",
+    "detail": "This disease refers to MAC in elderly women who 'do not cough.'"
+  },
+  {
+    "number": 86,
+    "question": "'Hot-tub lung' is a form of Hypersensitivity Pneumonitis caused by aerosolized NTM and presents with:",
+    "choices": [
+      "Large upper lobe cavities.",
+      "Bulky mediastinal lymphadenopathy.",
+      "Ill-defined, ground-glass centrilobular nodules.",
+      "Pleural rinds.",
+      "Unilateral lucent lung."
+    ],
+    "answer": "C",
+    "detail": "Hot-tub lung presents with ill-defined, ground-glass centrilobular nodules."
+  },
+  {
+    "number": 87,
+    "question": "Which NTM presentation favors old white male smokers and mimics reactivation TB?",
+    "choices": [
+      "Bronchiectatic type.",
+      "Cavitary type.",
+      "HIV-disseminated type.",
+      "HP type.",
+      "Silicotuberculosis."
+    ],
+    "answer": "B",
+    "detail": "The cavitary type of NTM favors old white men with COPD."
+  },
+  {
+    "number": 88,
+    "question": " 'Invasive Aspergillus' is typically seen in which patient population?",
+    "choices": [
+      "Healthy adults.",
+      "Asthmatics.",
+      "AIDS or transplant patients.",
+      "Elderly women.",
+      "Newborns."
+    ],
+    "answer": "C",
+    "detail": "AIDS or transplant patients are risk groups for Invasive Aspergillus."
+  },
+  {
+    "number": 89,
+    "question": "The 'Halo Sign' (nodule with a ground-glass halo) in an immunocompromised patient is classic for:",
+    "choices": [
+      "PCP.",
+      "Invasive Aspergillus.",
+      "Aspergilloma.",
+      "ABPA.",
+      "Mucormycosis."
+    ],
+    "answer": "B",
+    "detail": "The 'Halo Sign' (consolidative nodule with ground glass) is classic for Invasive Aspergillus."
+  },
+  {
+    "number": 90,
+    "question": "On CT, the 'Air Crescent Sign' appearing within a consolidative mass in an AIDS patient after 2-3 weeks of treatment signifies:",
+    "choices": [
+      "Worsening infection.",
+      "New pneumothorax.",
+      "Healing/recovery.",
+      "Superinfection with TB.",
+      "Bronchopleural fistula."
+    ],
+    "answer": "C",
+    "detail": "The 'Air Crescent Sign' appearing after treatment signifies healing/recovery as necrotic lung separates from parenchyma."
+  },
+  {
+    "number": 91,
+    "question": "'Finger-in-glove' opacities in an asthmatic patient are the hallmark of:",
+    "choices": [
+      "Invasive Aspergillus.",
+      "Aspergilloma.",
+      "Allergic Bronchopulmonary Aspergillosis (ABPA).",
+      "PCP.",
+      "Mucormycosis."
+    ],
+    "answer": "C",
+    "detail": "'Finger-in-glove' opacities in an asthmatic are the hallmark of ABPA."
+  },
+  {
+    "number": 92,
+    "question": "Which aggressive fungal infection should be suspected if there is invasion of the mediastinum, pleura, and chest wall in a 'bad diabetic'?",
+    "choices": [
+      "ABPA.",
+      "Histoplasmosis.",
+      "Mucormycosis.",
+      "Candida.",
+      "Coccidioidomycosis."
+    ],
+    "answer": "C",
+    "detail": "Mucormycosis is an aggressive infection seen in 'bad diabetics.'"
+  },
+  {
+    "number": 93,
+    "question": "Severe COVID-19 disease is described on imaging as having what percentage of lung involvement within 24-48 hours?",
+    "choices": [
+      "> 10%",
+      "> 25%",
+      "> 50%",
+      "> 75%",
+      "100%"
+    ],
+    "answer": "C",
+    "detail": "Severe disease is defined as > 50% lung involvement."
+  },
+  {
+    "number": 94,
+    "question": "The 'Acute Stage' CT findings of COVID-19 are most classically:",
+    "choices": [
+      "Central lobar consolidations.",
+      "Bilateral, peripheral (sub-pleural) ground-glass opacities.",
+      "Upper lobe cavities.",
+      "Unilateral pleural effusions.",
+      "Miliary nodules."
+    ],
+    "answer": "B",
+    "detail": "Bilateral, peripheral ground-glass opacities are the classic acute findings for COVID-19."
+  },
+  {
+    "number": 95,
+    "question": "In the late 'Absorption Stage' (>14 days) of COVID-19, which appearance is common?",
+    "choices": [
+      "Crazy paving.",
+      "'Fibrous stripes' in previous disease regions.",
+      "Large lung cysts.",
+      "Diffuse calcifications.",
+      "Tree-in-bud opacities."
+    ],
+    "answer": "B",
+    "detail": "Late absorption phase findings include 'fibrous stripes' in previous disease regions."
+  },
+  {
+    "number": 96,
+    "question": "Septic emboli are most commonly found in which lung distribution?",
+    "choices": [
+      "Upper lobe predominant.",
+      "Randomly distributed throughout.",
+      "Lower lobe predominant (due to blood flow).",
+      "Medial perihilar regions.",
+      "Subpleural sparing."
+    ],
+    "answer": "C",
+    "detail": "Septic emboli are lower lobe predominant due to blood flow."
+  },
+  {
+    "number": 97,
+    "question": "'Lemierre Syndrome' refers to jugular vein thrombosis with septic emboli, typically caused by which bacteria?",
+    "choices": [
+      "Staph Aureus.",
+      "Pseudomonas.",
+      "Fusobacterium necrophorum.",
+      "Klebsiella.",
+      "Mycoplasma."
+    ],
+    "answer": "C",
+    "detail": "Fusobacterium necrophorum causes the majority of Lemierre cases."
+  },
+  {
+    "number": 98,
+    "question": "The 'Feeding Vessel Sign' (a vessel heading into a nodule) is classic for septic emboli or:",
+    "choices": [
+      "PCP.",
+      "Hematogenous metastases.",
+      "TB.",
+      "Organizing pneumonia.",
+      "Sarcoidosis."
+    ],
+    "answer": "B",
+    "detail": "Both septic emboli and hematogenous metastases show the feeding vessel sign."
+  },
+  {
+    "number": 99,
+    "question": "Which infection causes a 'Fine reticular pattern' on CXR and 'Tree-in-bud' on CT in 5-20 year-olds?",
+    "choices": [
+      "RSV.",
+      "Strep Pneumo.",
+      "Mycoplasma.",
+      "Legionella.",
+      "Anthrax."
+    ],
+    "answer": "C",
+    "detail": "Mycoplasma presents with patchy opacity and tree-in-bud in youth."
+  },
+  {
+    "number": 100,
+    "question": "In the 'CAVITY' mnemonic for lung cavities, what does the 'V' stand for?",
+    "choices": [
+      "Viral pneumonia.",
+      "Vasculitis.",
+      "Vascular (Septic/Bland Emboli).",
+      "Voltron.",
+      "Ventriculitis."
+    ],
+    "answer": "C",
+    "detail": "The 'V' stands for Vascular (Septic/Bland Emboli)."
+  }
+]
+
+}

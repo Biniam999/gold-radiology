@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Review Performance | GOLD RADIOLOGY</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header>
+    <a href="index.html" class="logo">GOLD RADIOLOGY</a>
+    <nav>
+      <a href="qbank.html">Qbank</a>
+      <a href="progress.html">Progress</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="results-summary-container" id="summary-section">
+      <h2>Performance Summary</h2>
+      <div class="score-card">
+        <div class="score-percentage" id="score-percent">0%</div>
+        <div class="score-raw" id="score-raw">0 / 0 Questions</div>
+      </div>
+      
+      <div class="stats-grid">
+        <div class="stat-box correct">Correct: <span id="stats-correct">0</span></div>
+        <div class="stat-box incorrect">Incorrect: <span id="stats-incorrect">0</span></div>
+        <div class="stat-box skipped">Skipped: <span id="stats-skipped">0</span></div>
+        <div class="stat-box time">Time Taken: <span id="stats-time">00:00</span></div>
+      </div>
+
+      <div class="summary-actions">
+        <button class="action-btn primary" id="start-review-btn">Review Questions</button>
+        <a href="qbank.html" class="action-btn secondary">Back to Qbank</a>
+      </div>
+    </section>
+
+    <section class="study-mode-container hidden" id="review-interface">
+      <aside class="questions-sidebar" aria-label="Question navigation">
+        <div class="sidebar-title">Review</div>
+        
+        <div class="review-filters">
+          <button class="filter-btn active" data-filter="all">All</button>
+          <button class="filter-btn" data-filter="incorrect">❌ Incorrect</button>
+          <button class="filter-btn" data-filter="correct">✅ Correct</button>
+        </div>
+
+        <div class="questions-list" id="questions-list"></div>
+      </aside>
+
+      <div class="question-content">
+        <div class="question-container">
+          <div class="question-number" id="question-number">Question 1</div>
+          <div class="question-text" id="question-text"></div>
+          <div class="choices-container" id="choices-container"></div>
+
+          <div class="answer-explanation" id="answer-explanation" style="display: block;"></div>
+        </div>
+
+        <div class="navigation-buttons">
+          <button class="nav-btn" id="prev-btn">Previous</button>
+          <button class="nav-btn" id="next-btn">Next</button>
+          <button class="nav-btn exit-btn" id="exit-review-btn">Exit Review</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 GOLD RADIOLOGY. All rights reserved.</p>
+  </footer>
+
+  <script src="review.js"></script>
+</body>
+</html>

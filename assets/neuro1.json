@@ -1,0 +1,1406 @@
+{
+    "questions": 
+    [
+  {
+    "number": 1,
+    "question": "Which anatomic landmark is considered the most reliable 'strategy' for identifying the central sulcus on high-axial MRI cuts?",
+    "choices": ["A. The superior frontal sulcus", "B. The pars marginalis (pars bracket sign)", "C. The intraparietal sulcus", "D. The pre-central sulcus", "E. The sylvian fissure"],
+    "answer": "B",
+    "detail": "The pars marginalis (pars bracket sign) is the most reliable strategy for identifying the central sulcus on high-axial images."
+  },
+  {
+    "number": 2,
+    "question": "The 'pars bracket sign' is formed by the bi-hemispheric symmetric pars marginalis. Where is this bracket located in relation to the central sulcus?",
+    "choices": ["A. Immediately anterior", "B. Immediately posterior", "C. Directly superior", "D. Directly inferior", "E. It bisects the sulcus"],
+    "answer": "B",
+    "detail": "The pars bracket is located immediately posterior to the central sulcus."
+  },
+  {
+    "number": 3,
+    "question": "What is the reported reliability percentage of the 'pars bracket sign' in identifying the central sulcus?",
+    "choices": ["A. 50%", "B. 70%", "C. 85%", "D. 95%", "E. 100%"],
+    "answer": "D",
+    "detail": "The sign has a reported reliability of 95%."
+  },
+  {
+    "number": 4,
+    "question": "The 'inverted omega' (sigmoid hook) seen on a high-axial image of the central sulcus/gyrus corresponds to which functional area?",
+    "choices": ["A. The motor leg", "B. The sensory foot", "C. The motor hand", "D. The speech center (Broca’s)", "E. The visual cortex"],
+    "answer": "C",
+    "detail": "The sigmoid hook or 'inverted omega' identifies the motor hand area."
+  },
+  {
+    "number": 5,
+    "question": "When comparing the thickness of the gyri adjacent to the central sulcus, which statement is correct?",
+    "choices": ["A. The post-central gyrus is thicker than the pre-central gyrus", "B. The pre-central gyrus is thicker than the post-central gyrus", "C. Both gyri are of equal thickness", "D. The thickness ratio is typically 3:1", "E. The post-central gyrus is bifid 100% of the time"],
+    "answer": "B",
+    "detail": "The pre-central gyrus is characteristically thicker than the post-central gyrus (1.5:1 ratio)."
+  },
+  {
+    "number": 6,
+    "question": "The 'Midline Sulcus Sign' is a method where the central sulcus is identified as the most prominent sulcus reaching the midline. This method works approximately:",
+    "choices": ["A. 50% of the time", "B. 70% of the time", "C. 85% of the time", "D. 95% of the time", "E. 10% of the time"],
+    "answer": "B",
+    "detail": "The midline sulcus sign is accurate approximately 70% of the time."
+  },
+  {
+    "number": 7,
+    "question": "Which sulcus typically intersects the post-central sulcus, serving as a landmark for carpal-level identification?",
+    "choices": ["A. Superior frontal sulcus", "B. Intraparietal sulcus", "C. Pre-central sulcus", "D. Marginal sulcus", "E. Callosal sulcus"],
+    "answer": "B",
+    "detail": "The intraparietal sulcus intersects the post-central sulcus."
+  },
+  {
+    "number": 8,
+    "question": "In the functional homunculus of the brain, which vascular territory is responsible for the motor and sensory control of the legs?",
+    "choices": ["A. MCA", "B. ACA", "C. PCA", "D. SCA", "E. PICA"],
+    "answer": "B",
+    "detail": "The ACA supplies the medial aspect of the hemispheres, corresponding to the legs in the homunculus."
+  },
+  {
+    "number": 9,
+    "question": "Which vascular territory supplies the majority of the functional homunculus, excluding the legs?",
+    "choices": ["A. ACA", "B. MCA", "C. PCA", "D. Basilar artery", "E. Internal carotid artery"],
+    "answer": "B",
+    "detail": "The MCA supplies the majority of the lateral homunculus, including the hand, face, and speech centers."
+  },
+  {
+    "number": 10,
+    "question": "How many layers of neurons typically make up the normal cerebral cortex?",
+    "choices": ["A. 1", "B. 3", "C. 5", "D. 6", "E. 10"],
+    "answer": "D",
+    "detail": "The normal cerebral cortex is composed of 6 neuronal layers."
+  },
+  {
+    "number": 11,
+    "question": "The hippocampus is unique compared to the rest of the cerebral cortex because it is composed of how many layers?",
+    "choices": ["A. 1", "B. 3", "C. 6", "D. 9", "E. 12"],
+    "answer": "B",
+    "detail": "The hippocampus is a more primitive part of the cortex with only 3 layers."
+  },
+  {
+    "number": 12,
+    "question": "On FLAIR imaging, the hippocampus can appear slightly brighter than other cortical areas. This is attributed to:",
+    "choices": ["A. High fat content", "B. Having only 3 neuronal layers", "C. Chronic micro-infarcts", "D. Increased iron deposition", "E. Normal CSF pulsation"],
+    "answer": "B",
+    "detail": "The 3-layered structure of the hippocampus contributes to its relative T2/FLAIR brightness."
+  },
+  {
+    "number": 13,
+    "question": "Dilated Perivascular Spaces (Virchow-Robins) accompany which type of vessels?",
+    "choices": ["A. Draining veins", "B. Perforating vessels", "C. Major dural sinuses", "D. Cortical bridging veins", "E. The Circle of Willis"],
+    "answer": "B",
+    "detail": "Perivascular spaces follow the path of perforating arteries into the brain parenchyma."
+  },
+  {
+    "number": 14,
+    "question": "Which of the following is TRUE regarding Virchow-Robins spaces?",
+    "choices": ["A. They contain CSF", "B. They are a rare congenital malformation", "C. They contain interstitial fluid", "D. They always enhance with Gadolinium", "E. They are typically T1 bright"],
+    "answer": "C",
+    "detail": "Virchow-Robins spaces contain interstitial fluid, not CSF, and they follow CSF signal on MRI but do not communicate with the subarachnoid space."
+  },
+  {
+    "number": 15,
+    "question": "'Gelatinous pseudocysts' in the setting of cryptococcal meningitis are actually:",
+    "choices": ["A. Small abscesses", "B. Dilated perivascular spaces", "C. Cortical infarcts", "D. Ependymal enhancements", "E. Arachnoid granulations"],
+    "answer": "B",
+    "detail": "Gelatinous pseudocysts are pathologically dilated perivascular spaces filled with fungal material."
+  },
+  {
+    "number": 16,
+    "question": "Which of the following locations is NOT a common site for dilated perivascular spaces?",
+    "choices": ["A. Lower third of the basal ganglia", "B. Centrum semiovale", "C. Midbrain", "D. Medulla", "E. Around the lenticulostriate arteries"],
+    "answer": "D",
+    "detail": "Perivascular spaces are common in the basal ganglia, white matter, and midbrain, but the medulla is not a typical site."
+  },
+  {
+    "number": 17,
+    "question": "Dilated perivascular spaces can be enlarged in which of the following metabolic conditions?",
+    "choices": ["A. Diabetes Mellitus", "B. Hurler’s and Hunter’s syndromes", "C. Graves’ disease", "D. Wilson’s disease", "E. Iron deficiency anemia"],
+    "answer": "B",
+    "detail": "Mucopolysaccharidoses like Hurler's and Hunter's show markedly enlarged perivascular spaces."
+  },
+  {
+    "number": 18,
+    "question": "The lateral ventricles communicate with the third ventricle via which anatomic structure?",
+    "choices": ["A. Cerebral aqueduct", "B. Foramen of Monro", "C. Foramen of Luschka", "D. Foramen of Magendie", "E. Obex"],
+    "answer": "B",
+    "detail": "The Foramen of Monro serves as the communication between the lateral and third ventricles."
+  },
+  {
+    "number": 19,
+    "question": "The third ventricle communicates with the fourth ventricle via the:",
+    "choices": ["A. Foramen of Monro", "B. Cerebral aqueduct", "C. Foramen of Magendie", "D. Foramen of Luschka", "E. Velum interpositum"],
+    "answer": "B",
+    "detail": "The cerebral aqueduct connects the third and fourth ventricles."
+  },
+  {
+    "number": 20,
+    "question": "Arachnoid granulations are projections of the arachnoid into the venous system. What is their primary function?",
+    "choices": ["A. Production of CSF", "B. Reabsorption of CSF", "C. Production of Myelin", "D. Thermoregulation of the brain", "E. Anchoring the brain to the skull"],
+    "answer": "B",
+    "detail": "Arachnoid granulations facilitate the reabsorption of CSF into the dural venous sinuses."
+  },
+  {
+    "number": 21,
+    "question": "On CT, arachnoid granulations typically appear:",
+    "choices": ["A. Hyperdense", "B. Isoattenuating to brain", "C. Hypodense (similar to CSF)", "D. Bright after IV contrast", "E. As linear streaks"],
+    "answer": "C",
+    "detail": "They follow CSF density (hypodense) on CT imaging."
+  },
+  {
+    "number": 22,
+    "question": "How can a radiologist distinguish a round arachnoid granulation from a thrombus in a venous sinus?",
+    "choices": ["A. Clots are always T2 bright", "B. Granulations are usually round/oval; clots are linear", "C. Granulations always enhance avidly", "D. Clots are found only in the jugular bulb", "E. Granulations are never found in adults"],
+    "answer": "B",
+    "detail": "Round or oval shapes favor granulations, while thrombus typically appears as a linear filling defect."
+  },
+  {
+    "number": 23,
+    "question": "Arachnoid granulations can sometimes cause which change to the adjacent bone?",
+    "choices": ["A. Hyperostosis", "B. Scalloping of the inner table", "C. Sunburst periosteal reaction", "D. Wormian bone formation", "E. Basilar invagination"],
+    "answer": "B",
+    "detail": "Large granulations can cause benign scalloping or 'sculpting' of the inner table of the skull."
+  },
+  {
+    "number": 24,
+    "question": "The suprasellar cisterns are frequently described as having which shape on axial imaging?",
+    "choices": ["A. Triangle", "B. Smile", "C. Star", "D. Square", "E. Crescent"],
+    "answer": "C",
+    "detail": "The suprasellar cistern appears as a 'star' shape on axial imaging."
+  },
+  {
+    "number": 25,
+    "question": "Which corner of the 'suprasellar star' corresponds to the interhemispheric fissure?",
+    "choices": ["A. The top", "B. The lateral points", "C. The posterior points", "D. The center", "E. The inferior points"],
+    "answer": "A",
+    "detail": "The anterior 'top' point of the star corresponds to the interhemispheric fissure."
+  },
+  {
+    "number": 26,
+    "question": "In the suprasellar cistern, the lateral points of the star represent which cisterns?",
+    "choices": ["A. Ambient cisterns", "B. Sylvian cisterns", "C. Interpeduncular cisterns", "D. Prepontine cisterns", "E. Quadrigeminal cisterns"],
+    "answer": "B",
+    "detail": "The lateral points of the star represent the Sylvian cisterns."
+  },
+  {
+    "number": 27,
+    "question": "The ambient cistern serves as an anatomic bridge between which two other cisterns?",
+    "choices": ["A. Prepontine and Sylvian", "B. Interpeduncular and Quadrigeminal", "C. Suprasellar and Chiasmatic", "D. Carotid and Crural", "E. Cisterna magna and the 4th ventricle"],
+    "answer": "B",
+    "detail": "The ambient cistern bridges the interpeduncular and quadrigeminal cisterns."
+  },
+  {
+    "number": 28,
+    "question": "The quadrigeminal plate has a characteristic radiographic appearance described as a:",
+    "choices": ["A. Star", "B. Frown", "C. Smile (or sideways moon)", "D. Cross", "E. Target"],
+    "answer": "C",
+    "detail": "The quadrigeminal plate cistern typically looks like a 'smile' or sideways moon."
+  },
+  {
+    "number": 29,
+    "question": "Atrophy patterns of the midbrain are critical for diagnosing neurodegenerative disorders. The midbrain tectum is located where in relation to the tegmentum?",
+    "choices": ["A. Anterior", "B. Posterior", "C. Medial", "D. Lateral", "E. Inferior"],
+    "answer": "B",
+    "detail": "The tectum (quadrigeminal plate) is the most posterior part of the midbrain."
+  },
+  {
+    "number": 30,
+    "question": "Radiologists often use mnemonics to remember midbrain anatomy. Which 'face' is commonly associated with the midbrain on axial imaging?",
+    "choices": ["A. Rodent face", "B. Monkey face (or Stoner dog)", "C. Panda face", "D. Hummingbird face", "E. Mickey Mouse face"],
+    "answer": "B",
+    "detail": "The midbrain is commonly compared to a 'monkey face' or 'stoner dog' (and sometimes Mickey Mouse)."
+  },
+  {
+    "number": 31,
+    "question": "When viewing the midbrain 'face,' the 'eyes' represent which structures?",
+    "choices": ["A. Red nuclei", "B. Substantia nigra", "C. Cerebral peduncles", "D. Mammillary bodies", "E. Optic tracts"],
+    "answer": "A",
+    "detail": "The red nuclei appear as the 'eyes' on axial midbrain sections."
+  },
+  {
+    "number": 32,
+    "question": "Foramen Rotundum (FR) is a common site for 'sneaky' test questions. On a coronal CT view, FR looks like:",
+    "choices": ["A. A high-heeled shoe footprint", "B. Staring into a gun barrel", "C. A horizontal slit", "D. A vertical oval", "E. A 'V' shape"],
+    "answer": "B",
+    "detail": "Coronal CT shows the Foramen Rotundum as a vertical hole, often described as 'staring into a gun barrel'."
+  },
+  {
+    "number": 33,
+    "question": "What structure passes through the Foramen Rotundum?",
+    "choices": ["A. CN V1", "B. CN V2", "C. CN V3", "D. Middle meningeal artery", "E. Accessory meningeal artery"],
+    "answer": "B",
+    "detail": "CN V2 (maxillary nerve) passes through FR ('R2V2')."
+  },
+  {
+    "number": 34,
+    "question": "Foramen Ovale (FO) and Foramen Spinosum (FS) have a relationship often compared to a footprint. Which part represents the 'pointy heel'?",
+    "choices": ["A. Foramen Ovale", "B. Foramen Spinosum", "C. Foramen Rotundum", "D. Hypoglossal canal", "E. Carotid canal"],
+    "answer": "B",
+    "detail": "Foramen Spinosum is the smaller, posterior hole representing the 'pointy heel' of the shoe-shaped footprint."
+  },
+  {
+    "number": 35,
+    "question": "Which nerves and vessels pass through the Foramen Ovale?",
+    "choices": ["A. CN V2 and internal carotid artery", "B. CN V3 and accessory meningeal artery", "C. CN 7 and 8", "D. Middle meningeal artery and CN 5", "E. Ophthalmic artery and CN 2"],
+    "answer": "B",
+    "detail": "CN V3 (mandibular nerve) and the accessory meningeal artery pass through the Foramen Ovale ('O3')."
+  },
+  {
+    "number": 36,
+    "question": "The Foramen Spinosum is the transit point for which important clinical vessel?",
+    "choices": ["A. Accessory meningeal artery", "B. Middle meningeal artery", "C. Internal carotid artery", "D. Vertebral artery", "E. Ophthalmic artery"],
+    "answer": "B",
+    "detail": "The Middle Meningeal Artery passes through the Foramen Spinosum."
+  },
+  {
+    "number": 37,
+    "question": "Which skull base foramen is located very posteriorly and inferiorly, making it unique?",
+    "choices": ["A. Foramen Rotundum", "B. Foramen Ovale", "C. Hypoglossal Canal", "D. Foramen Spinosum", "E. Foramen Lacerum"],
+    "answer": "C",
+    "detail": "The Hypoglossal Canal is located deep in the posterior fossa at the base of the clivus."
+  },
+  {
+    "number": 38,
+    "question": "The Hypoglossal Canal contains which cranial nerve?",
+    "choices": ["A. CN 9", "B. CN 10", "C. CN 11", "D. CN 12", "E. CN 7"],
+    "answer": "D",
+    "detail": "CN 12 (hypoglossal nerve) passes through this canal."
+  },
+  {
+    "number": 39,
+    "question": "The Jugular Foramen is divided into two parts by which bony landmark?",
+    "choices": ["A. The clivus", "B. The jugular spine", "C. The petrous apex", "D. The scutum", "E. The dorsum sella"],
+    "answer": "B",
+    "detail": "The jugular spine (a bony process) divides the foramen into pars nervosa and pars vascularis."
+  },
+  {
+    "number": 40,
+    "question": "The 'Pars Nervosa' is the anterior portion of the jugular foramen and contains which nerve?",
+    "choices": ["A. Vagus nerve", "B. Glossopharyngeal nerve", "C. Spinal accessory nerve", "D. Facial nerve", "E. Trigeminal nerve"],
+    "answer": "B",
+    "detail": "The pars nervosa contains CN 9 (glossopharyngeal nerve)."
+  },
+  {
+    "number": 41,
+    "question": "'Jacobson’s Nerve' is a branch of which cranial nerve?",
+    "choices": ["A. CN 7", "B. CN 9", "C. CN 10", "D. CN 11", "E. CN 12"],
+    "answer": "B",
+    "detail": "Jacobson’s nerve is a small branch of CN 9."
+  },
+  {
+    "number": 42,
+    "question": "The 'Pars Vascularis' of the jugular foramen contains the jugular bulb and which two cranial nerves?",
+    "choices": ["A. CN 7 and 8", "B. CN 9 and 10", "C. CN 10 and 11", "D. CN 11 and 12", "E. CN 3 and 4"],
+    "answer": "C",
+    "detail": "The larger pars vascularis contains the jugular bulb along with CN 10 and CN 11."
+  },
+  {
+    "number": 43,
+    "question": "'Arnold’s Nerve' is the auricular branch of which cranial nerve?",
+    "choices": ["A. CN 7", "B. CN 9", "C. CN 10", "D. CN 11", "E. CN 5"],
+    "answer": "C",
+    "detail": "Arnold’s nerve is the auricular branch of CN 10 (vagus)."
+  },
+  {
+    "number": 44,
+    "question": "Which structure passes through the Superior Orbital Fissure (SOF)?",
+    "choices": ["A. CN 2", "B. CN 3, 4, V1, and 6", "C. CN V2", "D. Ophthalmic artery", "E. Internal carotid artery"],
+    "answer": "B",
+    "detail": "CN 3, 4, V1, and 6 all pass through the SOF."
+  },
+  {
+    "number": 45,
+    "question": "Which structure passes through the Inferior Orbital Fissure (IOF)?",
+    "choices": ["A. CN 3", "B. CN V2", "C. CN 6", "D. Ophthalmic vein", "E. Lacrimal nerve"],
+    "answer": "B",
+    "detail": "CN V2 passes through the IOF."
+  },
+  {
+    "number": 46,
+    "question": "The Optic Canal is the transit point for which two structures?",
+    "choices": ["A. CN 2 and Ophthalmic artery", "B. CN 3 and Ophthalmic vein", "C. CN V1 and Internal carotid", "D. CN 2 and Middle meningeal artery", "E. CN 1 and Ethmoidal artery"],
+    "answer": "A",
+    "detail": "The optic nerve (CN 2) and ophthalmic artery use the optic canal."
+  },
+  {
+    "number": 47,
+    "question": "Which of the following cranial nerves does NOT run through the cavernous sinus?",
+    "choices": ["A. CN 3", "B. CN 4", "C. CN V3", "D. CN 6", "E. CN V1"],
+    "answer": "C",
+    "detail": "CN V3 exits through Foramen Ovale and does not enter the cavernous sinus."
+  },
+  {
+    "number": 48,
+    "question": "Within the cavernous sinus, which nerve runs immediately adjacent to the internal carotid artery?",
+    "choices": ["A. CN 3", "B. CN 4", "C. CN 6", "D. CN V1", "E. CN V2"],
+    "answer": "C",
+    "detail": "CN 6 is the most medial nerve, sitting right next to the ICA."
+  },
+  {
+    "number": 49,
+    "question": "Why is a lateral rectus palsy often the earliest neurologic sign of cavernous sinus pathology?",
+    "choices": ["A. CN 6 is the largest nerve in the sinus", "B. CN 6 runs next to the carotid, while others are protected along the wall", "C. CN 6 is the only motor nerve in the sinus", "D. CN 6 has no myelin sheath in this segment", "E. CN 6 is always compressed by the pituitary"],
+    "answer": "B",
+    "detail": "Because CN 6 sits centrally with the carotid, it is vulnerable to vascular pathology, while other nerves are tucked into the dural wall."
+  },
+  {
+    "number": 50,
+    "question": "The Internal Auditory Canal (IAC) anatomy can be remembered by the mnemonic '7-up, Coke Down.' This indicates:",
+    "choices": ["A. CN 7 is superior to CN 8", "B. CN 8 is superior to CN 7", "C. CN 7 is anterior to CN 8", "D. CN 7 is in the 7th decade of life", "E. There are 7 nerves in the IAC"],
+    "answer": "A",
+    "detail": "CN 7 (facial nerve) is the superior nerve in the canal."
+  },
+  {
+    "number": 51,
+    "question": "Which component of the vestibulocochlear nerve (CN 8) is considered 'Coke' in the '7-up, Coke Down' mnemonic?",
+    "choices": ["A. Superior vestibular branch", "B. Inferior vestibular branch", "C. Cochlear nerve", "D. All of the above", "E. None of the above"],
+    "answer": "C",
+    "detail": "The cochlear nerve is the 'Coke' (inferior and anterior)."
+  },
+  {
+    "number": 52,
+    "question": "The ideal MRI sequence for evaluating the thin nerve bundles within the IAC is:",
+    "choices": ["A. T1 without contrast", "B. Heavily T2-weighted sequence with super thin cuts", "C. Diffusion Weighted Imaging", "D. Axial FLAIR", "E. T2* Gradient Echo"],
+    "answer": "B",
+    "detail": "Sequences like FIESTA or CISS provide the necessary T2 contrast and thin slices for the IAC."
+  },
+  {
+    "number": 53,
+    "question": "Meckel’s Cave is the anatomic home for which structure?",
+    "choices": ["A. Pituitary gland", "B. Trigeminal ganglion", "C. Geniculate ganglion", "D. Optic chiasm", "E. Pineal body"],
+    "answer": "B",
+    "detail": "The trigeminal (Gasserian) ganglion sits within the CSF-filled Meckel’s cave."
+  },
+  {
+    "number": 54,
+    "question": "Dorello’s Canal is the transit point for which nerve and sinus?",
+    "choices": ["A. CN 5 and Superior petrosal sinus", "B. CN 6 and Inferior petrosal sinus", "C. CN 7 and Sigmoid sinus", "D. CN 3 and Transverse sinus", "E. CN 4 and Cavernous sinus"],
+    "answer": "B",
+    "detail": "The abducens nerve (CN 6) and the inferior petrosal sinus pass through Dorello’s canal."
+  },
+  {
+    "number": 55,
+    "question": "Regarding the branches of the External Carotid Artery (ECA), which mnemonic is provided to remember the order?",
+    "choices": ["A. Some Anatomists Like Fornicating Over Poor Medical Students", "B. All Physicians Must Study Every Day", "C. Every Radiologist Needs Good Coffee", "D. Big Craters In The Moon", "E. Never Eat Sour Watermelon"],
+    "answer": "A",
+    "detail": "This is a classic anatomical mnemonic for the 8 major ECA branches."
+  },
+  {
+    "number": 56,
+    "question": "Which is the FIRST branch of the External Carotid Artery?",
+    "choices": ["A. Ascending Pharyngeal", "B. Lingual", "C. Superior Thyroid", "D. Facial", "E. Maxillary"],
+    "answer": "C",
+    "detail": "The Superior Thyroid artery is the first and lowest branch of the ECA."
+  },
+  {
+    "number": 57,
+    "question": "On ultrasound, how can a radiologist distinguish the Internal Carotid Artery (ICA) from the External Carotid Artery (ECA)?",
+    "choices": ["A. The ICA has branches in the neck; the ECA does not", "B. The ECA is oriented posteriorly; the ICA is anterior", "C. The ICA has a low-resistance waveform; the ECA is high-resistance", "D. The 'Temporal Tap' reacts in the ICA", "E. The ICA is always smaller than the ECA"],
+    "answer": "C",
+    "detail": "The ICA feeds the brain (low-resistance); the ECA feeds the face (high-resistance)."
+  },
+  {
+    "number": 58,
+    "question": "What happens during a 'Temporal Tap' when imaging the carotids via ultrasound?",
+    "choices": ["A. The ICA waveform shows ripples", "B. The ECA waveform shows ripples", "C. The patient experiences syncope", "D. The vertebral artery reverses flow", "E. Both carotid waveforms disappear"],
+    "answer": "B",
+    "detail": "Tapping the temporal artery creates ripple artifacts in the ECA waveform, confirming identity."
+  },
+  {
+    "number": 59,
+    "question": "The internal carotid artery (ICA) bifurcation typically occurs at which vertebral level?",
+    "choices": ["A. C1-C2", "B. C3-C4", "C. C5-C6", "D. T1-T2", "E. C7-T1"],
+    "answer": "B",
+    "detail": "The carotid bulb is usually located at the level of the thyroid cartilage (C3/C4)."
+  },
+  {
+    "number": 60,
+    "question": "The C1 segment of the Internal Carotid Artery is also known as the:",
+    "choices": ["A. Petrous segment", "B. Lacerum segment", "C. Cervical segment", "D. Cavernous segment", "E. Clinoid segment"],
+    "answer": "C",
+    "detail": "C1 is the cervical segment (from the bifurcation to the skull base)."
+  },
+  {
+    "number": 61,
+    "question": "Dissection of the C1 (Cervical) segment of the ICA can result in which clinical finding?",
+    "choices": ["A. Full Horner’s Syndrome", "B. Partial Horner’s Syndrome", "C. Total blindness", "D. Complete CN 3 palsy", "E. Hearing loss"],
+    "answer": "B",
+    "detail": "Sympathetic fibers travel on the ICA; dissection causes ptosis and miosis (partial Horner's)."
+  },
+  {
+    "number": 62,
+    "question": "An ICA dissection is often followed by a stroke in which vascular territory?",
+    "choices": ["A. ACA", "B. MCA", "C. PCA", "D. SCA", "E. PICA"],
+    "answer": "B",
+    "detail": "ICA territory strokes most commonly affect the MCA distribution."
+  },
+  {
+    "number": 63,
+    "question": "Which segment of the ICA is affected by the development of a cavernous-carotid fistula?",
+    "choices": ["A. C1", "B. C2", "C. C3", "D. C4", "E. C5"],
+    "answer": "D",
+    "detail": "C4 is the cavernous segment of the ICA."
+  },
+  {
+    "number": 64,
+    "question": "Aneurysms of the C4 (Cavernous) segment of the ICA are strongly associated with:",
+    "choices": ["A. Trauma", "B. Hypertension", "C. Smoking", "D. Hypotension", "E. Pregnancy"],
+    "answer": "B",
+    "detail": "Hypertension is a major risk factor for non-traumatic cavernous ICA aneurysms."
+  },
+  {
+    "number": 65,
+    "question": "An aneurysm in the C5 (Clinoid) segment of the ICA could cause blindness by compressing which structure?",
+    "choices": ["A. Optic nerve", "B. Oculomotor nerve", "C. Pituitary gland", "D. Cornea", "E. Lacrimal gland"],
+    "answer": "A",
+    "detail": "The optic nerve is adjacent to the clinoid segment."
+  },
+  {
+    "number": 66,
+    "question": "The C6 segment of the ICA is also known as the Supraclinoid or:",
+    "choices": ["A. Ophthalmic segment", "B. Communicating segment", "C. Lacerum segment", "D. Petrous segment", "E. Dural segment"],
+    "answer": "A",
+    "detail": "C6 is the ophthalmic segment, where the ophthalmic artery arises."
+  },
+  {
+    "number": 67,
+    "question": "The 'dural ring' is an anatomic buzzword associated with the origin of which ICA segment?",
+    "choices": ["A. C1", "B. C4", "C. C6", "D. C7", "E. C2"],
+    "answer": "C",
+    "detail": "The distal dural ring marks the entry of the ICA into the subarachnoid space (C6 segment)."
+  },
+  {
+    "number": 68,
+    "question": "An aneurysm in the C7 (Communicating) segment of the ICA may compress which cranial nerve, presenting with a palsy?",
+    "choices": ["A. CN 2", "B. CN 3", "C. CN 4", "D. CN 6", "E. CN 5"],
+    "answer": "B",
+    "detail": "PCOM aneurysms (at C7) classically compress CN 3."
+  },
+  {
+    "number": 69,
+    "question": "During an ICA angiographic run, the petrous bones should be projected at what level to optimize the view?",
+    "choices": ["A. Superior to the orbits", "B. Bottom or below the orbits", "C. Mid to lower orbits", "D. Level with the vertex", "E. Projected over the maxilla"],
+    "answer": "C",
+    "detail": "Petrous bones are typically projected at the mid-to-lower orbit level."
+  },
+  {
+    "number": 70,
+    "question": "What is the typical contrast injection rate for a diagnostic ICA angiographic run?",
+    "choices": ["A. 1-2 mL/s", "B. 3-5 mL/s", "C. 6-7 mL/s", "D. 10-12 mL/s", "E. 20 mL/s"],
+    "answer": "C",
+    "detail": "The standard rate is 6–7 mL per second for the ICA."
+  },
+  {
+    "number": 71,
+    "question": "In a standard neuro angiography run, the imaging is typically performed at how many frames per second (fps)?",
+    "choices": ["A. 1 fps", "B. 2–4 fps", "C. 10 fps", "D. 30 fps", "E. 60 fps"],
+    "answer": "B",
+    "detail": "2–4 fps is the standard diagnostic frame rate."
+  },
+  {
+    "number": 72,
+    "question": "On a lateral ICA angiographic run, the 'PCB' refers to which vessel?",
+    "choices": ["A. Posterior Cerebral Bridge", "B. Pericallosal Branch", "C. Pre-communicating Branch", "D. Posterior Choroidal Branch", "E. Pontine Communicating Branch"],
+    "answer": "B",
+    "detail": "PCB stands for the Pericallosal Branch of the ACA."
+  },
+  {
+    "number": 73,
+    "question": "The 'CMB' is the superficial or superior terminal branch of the ACA and stands for:",
+    "choices": ["A. Central Meningeal Branch", "B. Callosomarginal Branch", "C. Coronal Midbrain Branch", "D. Cavernous Maxillary Branch", "E. Cerebellar Medullary Branch"],
+    "answer": "B",
+    "detail": "CMB is the Callosomarginal Branch."
+  },
+  {
+    "number": 74,
+    "question": "When reviewing an AP ICA run (Towne’s view), how can a resident easily distinguish it from a lateral run?",
+    "choices": ["A. The image shows the skull in profile", "B. Half the image is relatively blank because only one ICA is injected", "C. Both ICAs are always injected simultaneously", "D. The vertebral arteries are always visible", "E. There is no way to tell the difference"],
+    "answer": "B",
+    "detail": "Because angiography is selective, an AP run shows only the side injected, leaving the other half 'blank'."
+  },
+  {
+    "number": 75,
+    "question": "On an AP ICA run, which relative orientation of the main vessels is correct?",
+    "choices": ["A. MCA is medial; ACA is lateral", "B. ACA is medial; MCA is lateral", "C. Both are perfectly midline", "D. PCA is always medial to the ACA", "E. The vessels overlap completely"],
+    "answer": "B",
+    "detail": "The ACA (Anterior Cerebral) runs medially toward the fissure; the MCA (Middle Cerebral) runs laterally."
+  },
+  {
+    "number": 76,
+    "question": "The A1 segment of the ACA is defined as the vessel from the ICA bifurcation to the origin of the:",
+    "choices": ["A. Pericallosal artery", "B. Callosomarginal artery", "C. Anterior communicating artery (ACOM)", "D. Ophthalmic artery", "E. Posterior communicating artery (PCOM)"],
+    "answer": "C",
+    "detail": "A1 is the pre-communicating segment of the ACA."
+  },
+  {
+    "number": 77,
+    "question": "The M1 segment of the MCA extends from its origin up to the:",
+    "choices": ["A. Surface of the brain", "B. Insula", "C. Thalamus", "D. Temporal horn", "E. Foramen of Monro"],
+    "answer": "B",
+    "detail": "M1 is the horizontal segment extending to the insula."
+  },
+  {
+    "number": 78,
+    "question": "A classic neurology board question involves an acute CN 3 palsy (unilateral pupil dilation). What is the 'answer until proven otherwise'?",
+    "choices": ["A. MCA stroke", "B. ACA aneurysm", "C. PCOM aneurysm", "D. PICA dissection", "E. Pituitary tumor"],
+    "answer": "C",
+    "detail": "An acute CN 3 palsy is a PCOM aneurysm until proven otherwise."
+  },
+  {
+    "number": 79,
+    "question": "Besides a PCOM aneurysm, an acute CN 3 palsy can be caused by an aneurysm at which other location?",
+    "choices": ["A. Origin of the Ophthalmic artery", "B. Apex of the basilar artery", "C. A1-A2 junction", "D. Distal MCA branches", "E. Superior Sagittal Sinus"],
+    "answer": "B",
+    "detail": "The basilar tip sits right between the CN 3 nerves and can compress them if an aneurysm forms."
+  },
+  {
+    "number": 80,
+    "question": "In 70% of cases, the Posterior Inferior Cerebellar Artery (PICA) originates from the:",
+    "choices": ["A. Basilar artery", "B. Vertebral artery", "C. PCA", "D. SCA", "E. AICA"],
+    "answer": "B",
+    "detail": "The vertebral artery is the primary origin of PICA."
+  },
+  {
+    "number": 81,
+    "question": "A 'Persistent Trigeminal Artery' is a fetal connection between which two vessels?",
+    "choices": ["A. ACA and MCA", "B. Cavernous ICA and the Basilar artery", "C. PCOM and PCA", "D. Vertebral and PICA", "E. External Carotid and Internal Carotid"],
+    "answer": "B",
+    "detail": "The Persistent Trigeminal Artery connects the cavernous ICA to the distal basilar."
+  },
+  {
+    "number": 82,
+    "question": "On a sagittal MRI, a Persistent Trigeminal Artery has a characteristic appearance that looks like which Greek letter?",
+    "choices": ["A. Alpha", "B. Beta", "C. Tau", "D. Omega", "E. Delta"],
+    "answer": "C",
+    "detail": "The 'Tau sign' is a classic sagittal MRI finding for this variant."
+  },
+  {
+    "number": 83,
+    "question": "Presence of a Persistent Trigeminal Artery increases the clinical risk of:",
+    "choices": ["A. Stroke", "B. Aneurysm", "C. Brain tumor", "D. Hydrocephalus", "E. Epilepsy"],
+    "answer": "B",
+    "detail": "Anomalous connections create stress points for aneurysms."
+  },
+  {
+    "number": 84,
+    "question": "The venous anatomy of the brain is broadly categorized into:",
+    "choices": ["A. Arterial and Venous", "B. Superficial and Deep systems", "C. Cortical and Medullary", "D. Superior and Inferior", "E. Symmetrical and Asymmetrical"],
+    "answer": "B",
+    "detail": "Venous drainage is divided into superficial (cortical) and deep systems."
+  },
+  {
+    "number": 85,
+    "question": "Which of the following is considered a part of the DEEP venous system?",
+    "choices": ["A. Superior Cerebral Veins", "B. Vein of Trolard", "C. Vein of Labbe", "D. Basal Vein of Rosenthal", "E. Superficial Middle Vein"],
+    "answer": "D",
+    "detail": "The Basal Vein of Rosenthal is a major component of the deep system."
+  },
+  {
+    "number": 86,
+    "question": "The Vein of Galen is categorized as a:",
+    "choices": ["A. Superficial vein", "B. Deep vein", "C. Dural sinus", "D. Foramen content", "E. Normal variant"],
+    "answer": "B",
+    "detail": "The Great Cerebral Vein (Galen) is the final common pathway for the deep system."
+  },
+  {
+    "number": 87,
+    "question": "The Vein of Labbe connects the superficial middle vein to which sinus?",
+    "choices": ["A. Superior Sagittal Sinus", "B. Straight Sinus", "C. Transverse Sinus", "D. Cavernous Sinus", "E. Inferior Petrosal Sinus"],
+    "answer": "C",
+    "detail": "The Vein of Labbe is the inferior anastomotic vein connecting to the transverse sinus."
+  },
+  {
+    "number": 88,
+    "question": "The Vein of Trolard connects the superficial middle vein to which sinus?",
+    "choices": ["A. Transverse Sinus", "B. Sagittal Sinus", "C. Sigmoid Sinus", "D. Occipital Sinus", "E. Petrosal Sinus"],
+    "answer": "B",
+    "detail": "The Vein of Trolard is the superior anastomotic vein ('Trolard = Top') connecting to the sagittal sinus."
+  },
+  {
+    "number": 89,
+    "question": "Regarding the Veins of Trolard and Labbe, what is the 'territory rule'?",
+    "choices": ["A. They always drain different lobes", "B. As one gets large, the other gets small", "C. They are always identical in size", "D. Both are absent in 50% of the population", "E. They only exist in children"],
+    "answer": "B",
+    "detail": "The size of these veins is inversely proportional; they balance the drainage of the middle cerebral vein."
+  },
+  {
+    "number": 90,
+    "question": "Which deep vein passes lateral to the midbrain through the ambient cistern?",
+    "choices": ["A. Internal Cerebral Vein", "B. Basal Vein of Rosenthal", "C. Vein of Galen", "D. Vein of Labbe", "E. Straight Sinus"],
+    "answer": "B",
+    "detail": "The Basal Vein of Rosenthal travels through the ambient cistern."
+  },
+  {
+    "number": 91,
+    "question": "According to the 'Gamesmanship' rules, if a test writer uses Latin or French sounding names for veins, the chance of it being on the test is:",
+    "choices": ["A. Decreased", "B. Increased", "C. Zero", "D. Dependent on the year of the test", "E. Unaffected"],
+    "answer": "B",
+    "detail": "Fancy anatomical names are a hallmark of radiology board questions."
+  },
+  {
+    "number": 92,
+    "question": "In 'First Order Trivia' for neuroanatomy, which type of imaging study is the most likely to be shown for an anatomy question?",
+    "choices": ["A. MRI with Gadolinium", "B. Non-contrast CT", "C. Angiograms", "D. Ultrasound", "E. PET/CT"],
+    "answer": "C",
+    "detail": "Historical board questions heavily favor angiography for anatomy identification."
+  },
+  {
+    "number": 93,
+    "question": "Which two cranial nerves do NOT pass through the cavernous sinus?",
+    "choices": ["A. CN 3 and 4", "B. CN 6 and V1", "C. CN 2 and CN V3", "D. CN V1 and V2", "E. CN 3 and 6"],
+    "answer": "C",
+    "detail": "CN 2 and CN V3 do not enter the cavernous sinus."
+  },
+  {
+    "number": 94,
+    "question": "A CN 6 (Abducens) palsy is a classic clinical 'Second Order Trivia' sign for:",
+    "choices": ["A. PCOM aneurysm", "B. Increased intracranial pressure (ICP)", "C. Pituitary adenoma", "D. Multiple Sclerosis", "E. Chiari I malformation"],
+    "answer": "B",
+    "detail": "CN 6 palsy is a classic false-localizing sign for increased ICP."
+  },
+  {
+    "number": 95,
+    "question": "Why does increased ICP cause a CN 6 palsy?",
+    "choices": ["A. The nerve is directly crushed by the pituitary", "B. The brain stem herniates inferiorly, stretching the nerve", "C. The nerve is sensitive to low glucose", "D. The nerve is infarcted by MCA pressure", "E. CN 6 has no secondary blood supply"],
+    "answer": "B",
+    "detail": "Increased ICP pushes the brainstem down, stretching the abducens nerve over the sharp petrous ridge."
+  },
+  {
+    "number": 96,
+    "question": "Cavum Septum Pellucidum is a common variant found in what percentage of adults?",
+    "choices": ["A. 1%", "B. 15%", "C. 50%", "D. 100%", "E. 0%"],
+    "answer": "B",
+    "detail": "While nearly 100% of preterm infants have it, it persists in about 15% of adults."
+  },
+  {
+    "number": 97,
+    "question": "The 'Cavum Vergae' is a posterior continuation of the cavum septum pellucidum and is located:",
+    "choices": ["A. Anterior to the foramen of Monro", "B. Posterior to the foramen of Monro", "C. Above the 3rd ventricle", "D. Within the 4th ventricle", "E. In the cisterna magna"],
+    "answer": "B",
+    "detail": "The Cavum Vergae sits between the lateral ventricles, posterior to the foramen of Monro."
+  },
+  {
+    "number": 98,
+    "question": "The 'Cavum Velum Interpositum' is an extension of the quadrigeminal plate cistern and is seen:",
+    "choices": ["A. Between the frontal horns", "B. Above the 3rd ventricle and below the fornices", "C. Behind the cerebellum", "D. In the spinal canal", "E. Within the sella turcica"],
+    "answer": "B",
+    "detail": "This variant is an extension of the cistern above the third ventricle."
+  },
+  {
+    "number": 99,
+    "question": "Which cavum variant is present in 100% of preterm infants?",
+    "choices": ["A. Cavum Vergae", "B. Cavum Septum Pellucidum", "C. Cavum Velum Interpositum", "D. Cavum Septum Cartilagineum", "E. None are present in infants"],
+    "answer": "B",
+    "detail": "Cavum Septum Pellucidum is present in all preterm infants."
+  },
+  {
+    "number": 100,
+    "question": "A 'Pseudo-Hill Sachs' lesion is a normal flat spot on the humeral head seen at which level?",
+    "choices": ["A. Above the coracoid process", "B. Below the level of the coracoid", "C. At the level of the acromion", "D. At the glenoid rim", "E. Within the bicipital groove"],
+    "answer": "B",
+    "detail": "The pseudo-Hill Sachs lesion is a normal finding seen below the coracoid on radiographs."
+  },
+  {
+    "number": 101,
+    "question": "Which specific segment of the Internal Carotid Artery (ICA) is most commonly affected by atherosclerosis at its origin?",
+    "choices": ["A. C1 (Cervical)", "B. C2 (Petrous)", "C. C4 (Cavernous)", "D. C6 (Ophthalmic)", "E. C7 (Communicating)"],
+    "answer": "A",
+    "detail": "The origin of the C1 (cervical) segment is the most common site for atherosclerotic disease."
+  },
+  {
+    "number": 102,
+    "question": "A 35-year-old female presents with a 'partial Horner’s syndrome' (ptosis and miosis) following a minor neck trauma. Which vascular injury should be immediately suspected?",
+    "choices": ["A. ICA aneurysm at C4", "B. Vertebral artery dissection", "C. ICA dissection of the C1 segment", "D. Basilar artery thrombosis", "E. ECA transection"],
+    "answer": "C",
+    "detail": "ICA dissection of the cervical segment is a classic cause of partial Horner's syndrome."
+  },
+  {
+    "number": 103,
+    "question": "Which segment of the Internal Carotid Artery is typically 'drained' accidentally by surgeons during retropharyngeal procedures?",
+    "choices": ["A. C1", "B. C2", "C. C3", "D. C5", "E. C6"],
+    "answer": "A",
+    "detail": "The cervical segment (C1) is at risk during posterior pharyngeal surgeries."
+  },
+  {
+    "number": 104,
+    "question": "An aneurysm in which ICA segment could cause 'blindness' by compressing the optic nerve?",
+    "choices": ["A. C2", "B. C4", "C. C5", "D. C7", "E. C1"],
+    "answer": "C",
+    "detail": "Aneurysms in the C5 (clinoid) segment are in close proximity to the optic nerve."
+  },
+  {
+    "number": 105,
+    "question": "The 'dural ring' serves as a landmark for the origin of which ICA segment?",
+    "choices": ["A. C1", "B. C4", "C. C6", "D. C7", "E. C2"],
+    "answer": "C",
+    "detail": "The distal dural ring marks the origin of the supraclinoid (C6) segment."
+  },
+  {
+    "number": 106,
+    "question": "In normal neurovascular anatomy, the Posterior Communicating Artery (PCOM) is typically located in which orientation relative to Cranial Nerve 3 (CN3)?",
+    "choices": ["A. Superior and Medial", "B. Superior and Lateral", "C. Inferior and Medial", "D. Inferior and Lateral", "E. Directly Posterior"],
+    "answer": "A",
+    "detail": "The PCOM is characteristically superior and medial to CN 3."
+  },
+  {
+    "number": 107,
+    "question": "In the presence of a 'Fetal PCA' variant, how does the orientation of the PCOM change relative to CN3?",
+    "choices": ["A. It remains superior and medial", "B. It becomes superior and lateral", "C. It moves inferior to the nerve", "D. It moves medial to the nerve", "E. It is always absent"],
+    "answer": "B",
+    "detail": "With a fetal origin of the PCA, the large PCOM shifts superior and lateral to the nerve."
+  },
+  {
+    "number": 108,
+    "question": "A 'Fetal Origin of the PCA' is a common vascular variant seen in what percentage of the general population?",
+    "choices": ["A. 5%", "B. 10%", "C. 15%", "D. 30%", "E. 50%"],
+    "answer": "D",
+    "detail": "This variant is identified in approximately 30% of people."
+  },
+  {
+    "number": 109,
+    "question": "Which vessel is considered 'large' by definition in a patient with a Fetal PCA?",
+    "choices": ["A. A1 ACA", "B. M1 MCA", "C. PCOM", "D. P1 PCA", "E. SCA"],
+    "answer": "C",
+    "detail": "A fetal PCA means the PCOM is the primary feeder for the PCA, making the PCOM large."
+  },
+  {
+    "number": 110,
+    "question": "A 'Persistent Trigeminal Artery' connects which two specific vascular segments?",
+    "choices": ["A. Cervical ICA and Vertebral", "B. Petrous ICA and Basilar", "C. Cavernous ICA and Basilar", "D. Supraclinoid ICA and PCA", "E. ECA and ICA"],
+    "answer": "C",
+    "detail": "It is a fetal connection between the cavernous ICA and the basilar artery."
+  },
+  {
+    "number": 111,
+    "question": "On a sagittal MRI, the Persistent Trigeminal Artery has a characteristic appearance resembling which Greek letter?",
+    "choices": ["A. Alpha", "B. Delta", "C. Tau", "D. Omega", "E. Gamma"],
+    "answer": "C",
+    "detail": "The 'Tau' shape is created by the vessel's course toward the basilar artery."
+  },
+  {
+    "number": 112,
+    "question": "The 'Tau sign' of a Persistent Trigeminal Artery is best visualized on which MRI plane?",
+    "choices": ["A. Axial", "B. Coronal", "C. Sagittal", "D. 3D Volume Rendered", "E. It is only seen on CT"],
+    "answer": "C",
+    "detail": "The sagittal plane is required to see the Tau configuration."
+  },
+  {
+    "number": 113,
+    "question": "What is the most significant clinical risk associated with a Persistent Trigeminal Artery due to the presence of extra branch points?",
+    "choices": ["A. Chronic migraines", "B. Increased risk of aneurysm", "C. Hearing loss", "D. Vision loss", "E. Glioblastoma"],
+    "answer": "B",
+    "detail": "The branch points are sites of high wall stress, increasing aneurysm risk."
+  },
+  {
+    "number": 114,
+    "question": "The cerebral venous system is divided into superficial and deep systems. Which of the following is a component of the DEEP venous system?",
+    "choices": ["A. Vein of Trolard", "B. Vein of Labbe", "C. Internal Cerebral Vein", "D. Superior Sagittal Sinus", "E. Superficial Middle Cerebral Vein"],
+    "answer": "C",
+    "detail": "The internal cerebral veins are key members of the deep venous system."
+  },
+  {
+    "number": 115,
+    "question": "Which deep vein is formed by the union of the two internal cerebral veins and two basal veins of Rosenthal?",
+    "choices": ["A. Straight Sinus", "B. Vein of Galen", "C. Jugular Bulb", "D. Sigmoid Sinus", "E. Cavernous Sinus"],
+    "answer": "B",
+    "detail": "These vessels merge to form the Great Cerebral Vein (Vein of Galen)."
+  },
+  {
+    "number": 116,
+    "question": "The Vein of Labbe connects the superficial middle cerebral vein to which dural sinus?",
+    "choices": ["A. Superior Sagittal Sinus", "B. Straight Sinus", "C. Transverse Sinus", "D. Cavernous Sinus", "E. Inferior Petrosal Sinus"],
+    "answer": "C",
+    "detail": "The Vein of Labbe drains into the transverse sinus ('Labbe = Lower')."
+  },
+  {
+    "number": 117,
+    "question": "The Vein of Trolard connects the superficial middle cerebral vein to which dural sinus?",
+    "choices": ["A. Transverse Sinus", "B. Superior Sagittal Sinus", "C. Sigmoid Sinus", "D. Occipital Sinus", "E. Lacerum segment"],
+    "answer": "B",
+    "detail": "The Vein of Trolard drains into the superior sagittal sinus ('Trolard = Top')."
+  },
+  {
+    "number": 118,
+    "question": "Which principle describes the volumetric relationship between the Vein of Trolard and the Vein of Labbe?",
+    "choices": ["A. They are always perfectly symmetric", "B. If one is large, the other is typically small", "C. They are both absent in 30% of people", "D. They never communicate", "E. They only drain the cerebellum"],
+    "answer": "B",
+    "detail": "These veins balance the drainage of the middle cerebral vein territory."
+  },
+  {
+    "number": 119,
+    "question": "Which deep vein travels lateral to the midbrain within the ambient cistern?",
+    "choices": ["A. Internal Cerebral Vein", "B. Basal Vein of Rosenthal", "C. Vein of Labbe", "D. Vein of Trolard", "E. Vein of Galen"],
+    "answer": "B",
+    "detail": "The Basal Vein of Rosenthal is the lateral deep vein of the midbrain."
+  },
+  {
+    "number": 120,
+    "question": "Which cranial nerves do NOT pass through the cavernous sinus?",
+    "choices": ["A. CN 3 and 4", "B. CN 6 and V1", "C. CN 2 and V3", "D. CN V1 and V2", "E. CN 3 and 6"],
+    "answer": "C",
+    "detail": "CN 2 (optic) and CN V3 (mandibular) never enter the cavernous sinus."
+  },
+  {
+    "number": 121,
+    "question": "In the cavernous sinus, which nerve runs immediately adjacent to the carotid artery, making it the most vulnerable to early compression?",
+    "choices": ["A. CN 3", "B. CN 4", "C. CN 6", "D. CN V1", "E. CN V2"],
+    "answer": "C",
+    "detail": "CN 6 sits medially with the ICA, while other nerves are in the dural wall."
+  },
+  {
+    "number": 122,
+    "question": "A patient presenting with an isolated lateral rectus palsy may have early pathology in which structure?",
+    "choices": ["A. Optic canal", "B. Internal Auditory Canal", "C. Cavernous Sinus", "D. Foramen Rotundum", "E. Foramen Ovale"],
+    "answer": "C",
+    "detail": "Lateral rectus palsy (CN 6) is the first sign of cavernous sinus disease."
+  },
+  {
+    "number": 123,
+    "question": "Why does increased intracranial pressure (ICP) classically lead to a CN 6 (Abducens) palsy?",
+    "choices": ["A. Direct compression by the pituitary", "B. The nerve is stretched as the brainstem herniates inferiorly", "C. Infarction by PCA pressure", "D. Long course through the orbits", "E. Sensitivity to low CSF glucose"],
+    "answer": "B",
+    "detail": "Brainstem downward displacement stretches the long intracranial course of CN 6."
+  },
+  {
+    "number": 124,
+    "question": "The Internal Auditory Canal (IAC) contains four major nerve components. Which mnemonic helps remember their spatial orientation?",
+    "choices": ["A. Some Anatomists...", "B. 7-up, COKE down", "C. R2V2", "D. MALE", "E. NAVEL"],
+    "answer": "B",
+    "detail": "This mnemonic describes the superior-to-inferior positioning of the nerves."
+  },
+  {
+    "number": 125,
+    "question": "In the '7-up, COKE down' mnemonic for the IAC, which nerve is represented by '7-up'?",
+    "choices": ["A. Vestibular nerve", "B. Cochlear nerve", "C. Facial nerve", "D. Trigeminal nerve", "E. Abducens nerve"],
+    "answer": "C",
+    "detail": "The facial nerve (CN 7) is superior in the IAC."
+  },
+  {
+    "number": 126,
+    "question": "In the IAC, the '7-up' (Facial nerve) is located ________ to the 'COKE' (Cochlear nerve).",
+    "choices": ["A. Posterior", "B. Inferior", "C. Superior", "D. Medial", "E. Lateral"],
+    "answer": "C",
+    "detail": "Facial nerve is superior to the cochlear nerve."
+  },
+  {
+    "number": 127,
+    "question": "Which branch of the vestibular nerve is the most superior in the IAC?",
+    "choices": ["A. Inferior vestibular", "B. Superior vestibular", "C. Lateral vestibular", "D. Medial vestibular", "E. They are side-by-side"],
+    "answer": "B",
+    "detail": "The superior vestibular branch is in the superior/posterior quadrant."
+  },
+  {
+    "number": 128,
+    "question": "What is the ideal MRI sequence for visualizing the individual nerve bundles within the Internal Auditory Canal?",
+    "choices": ["A. T1 without contrast", "B. Axial FLAIR", "C. Heavily T2-weighted sequence", "D. DWI", "E. T2* Gradient Echo"],
+    "answer": "C",
+    "detail": "Thin-slice heavily T2-weighted images provide anatomical detail of the cranial nerves."
+  },
+  {
+    "number": 129,
+    "question": "Dorello’s Canal is the specific anatomic transit point for which nerve?",
+    "choices": ["A. CN 5", "B. CN 6", "C. CN 7", "D. CN 3", "E. CN 4"],
+    "answer": "B",
+    "detail": "The abducens nerve (CN 6) uses Dorello’s canal to enter the cavernous sinus."
+  },
+  {
+    "number": 130,
+    "question": "Dorello's Canal is located at the most medial point of the petrous ridge and also contains which venous structure?",
+    "choices": ["A. Superior petrosal sinus", "B. Inferior petrosal sinus", "C. Sigmoid sinus", "D. Transverse sinus", "E. Cavernous sinus"],
+    "answer": "B",
+    "detail": "The inferior petrosal sinus also traverses this canal."
+  },
+  {
+    "number": 131,
+    "question": "Meckel’s Cave is a CSF-filled space that serves as the home for which structure?",
+    "choices": ["A. Pituitary gland", "B. Trigeminal (Gasserian) ganglion", "C. Geniculate ganglion", "D. Pineal body", "E. Optic chiasm"],
+    "answer": "B",
+    "detail": "The trigeminal ganglion is the primary content of Meckel’s Cave."
+  },
+  {
+    "number": 132,
+    "question": "The External Carotid Artery (ECA) typically has how many major branches?",
+    "choices": ["A. 3", "B. 5", "C. 8", "D. 10", "E. 12"],
+    "answer": "C",
+    "detail": "The ECA has 8 recognized branches (Thyroid, Pharyngeal, Lingual, Facial, Occipital, Auricular, Maxillary, Temporal)."
+  },
+  {
+    "number": 133,
+    "question": "Which mnemonic is suggested to remember the branches of the External Carotid Artery?",
+    "choices": ["A. Some Anatomists Like Fornicating...", "B. All Physicians...", "C. Never Eat Sour Watermelon", "D. 7-up, Coke Down", "E. R2V2"],
+    "answer": "A",
+    "detail": "This is a classic medical mnemonic for the 8 ECA branches."
+  },
+  {
+    "number": 134,
+    "question": "Which branch of the External Carotid Artery is usually the FIRST to arise?",
+    "choices": ["A. Lingual", "B. Facial", "C. Superior Thyroid", "D. Maxillary", "E. Occipital"],
+    "answer": "C",
+    "detail": "The Superior Thyroid is the first/lowest branch."
+  },
+  {
+    "number": 135,
+    "question": "On ultrasound, what is the most reliable way to distinguish the Internal Carotid Artery (ICA) from the External Carotid Artery (ECA)?",
+    "choices": ["A. ICA has high-resistance", "B. ECA is posterior", "C. ICA has no branches in the neck", "D. ECA has low-resistance", "E. ICA reacts to a temporal tap"],
+    "answer": "C",
+    "detail": "The lack of cervical branches is a definitive feature of the ICA."
+  },
+  {
+    "number": 136,
+    "question": "When performing a 'Temporal Tap' during carotid ultrasound, which vessel's waveform should show a 'ripple' or reaction?",
+    "choices": ["A. ICA", "B. ECA", "C. Vertebral", "D. Subclavian", "E. Common Carotid"],
+    "answer": "B",
+    "detail": "Ripples in the ECA waveform confirm it is the vessel feeding the facial/temporal tissues."
+  },
+  {
+    "number": 137,
+    "question": "Which carotid artery segment has a low-resistance waveform with continuous forward flow during diastole?",
+    "choices": ["A. External Carotid", "B. Internal Carotid", "C. Both", "D. Neither", "E. Only petrous"],
+    "answer": "B",
+    "detail": "The ICA has high diastolic flow to meet the brain's metabolic demand."
+  },
+  {
+    "number": 138,
+    "question": "The bifurcation of the Common Carotid Artery (CCA) into the ICA and ECA usually occurs at which vertebral level?",
+    "choices": ["A. C1-C2", "B. C3-C4", "C. C5-C6", "D. C7-T1", "E. T1-T2"],
+    "answer": "B",
+    "detail": "Bifurcation typically happens at the C3–C4 level."
+  },
+  {
+    "number": 139,
+    "question": "In a standard ICA angiographic run, the petrous bones should be projected at what level to avoid obscuring the vessels of interest?",
+    "choices": ["A. Superior to orbits", "B. Mid to lower orbits", "C. Below orbits", "D. Over maxilla", "E. Level with vertex"],
+    "answer": "B",
+    "detail": "Optimizing projection places petrous bones mid-orbit."
+  },
+  {
+    "number": 140,
+    "question": "What is the standard contrast injection rate for a diagnostic Vertebral Artery angiographic run?",
+    "choices": ["A. 1-2 mL/s", "B. 3-5 mL/s", "C. 6-7 mL/s", "D. 10-12 mL/s", "E. 20 mL/s"],
+    "answer": "B",
+    "detail": "The Vertebral artery rate is 3–5 mL/s (lower than ICA)."
+  },
+  {
+    "number": 141,
+    "question": "What is the total volume of contrast typically used for a diagnostic ICA angiographic run?",
+    "choices": ["A. 5 mL", "B. 8 mL", "C. 10 mL", "D. 15 mL", "E. 20 mL"],
+    "answer": "C",
+    "detail": "A 10 mL bolus is typical for the ICA."
+  },
+  {
+    "number": 142,
+    "question": "Standard diagnostic neuro-angiography is typically imaged at how many frames per second (fps)?",
+    "choices": ["A. 1 fps", "B. 2–4 fps", "C. 10 fps", "D. 30 fps", "E. 60 fps"],
+    "answer": "B",
+    "detail": "2–4 fps captures arterial/venous flow without excessive radiation."
+  },
+  {
+    "number": 143,
+    "question": "On a lateral ICA angiographic run, the 'PCB' refers to which vessel?",
+    "choices": ["A. Posterior Cerebral Branch", "B. Pericallosal Branch", "C. Pre-communicating", "D. Posterior Choroidal", "E. Pontine Communicating"],
+    "answer": "B",
+    "detail": "PCB is the Pericallosal Branch of the ACA."
+  },
+  {
+    "number": 144,
+    "question": "The 'CMB' is a terminal branch of the ACA known as the:",
+    "choices": ["A. Central Meningeal Branch", "B. Callosomarginal Branch", "C. Coronal Midbrain Branch", "D. Cavernous Maxillary Branch", "E. Cerebellar Medullary Branch"],
+    "answer": "B",
+    "detail": "CMB is the Callosomarginal Branch."
+  },
+  {
+    "number": 145,
+    "question": "When viewing an AP ICA angiographic run (Towne’s view), which statement regarding the vessels is correct?",
+    "choices": ["A. ACA is lateral, MCA is medial", "B. MCA is lateral, ACA is medial", "C. Both are midline", "D. Only PCA is visible", "E. Usually symmetrical"],
+    "answer": "B",
+    "detail": "The MCA heads laterally; the ACA stays medial."
+  },
+  {
+    "number": 146,
+    "question": "Why does an AP ICA angiographic run often appear 'relatively blank' on one half of the image?",
+    "choices": ["A. Pretzel principle", "B. Because only one ICA is getting injected at a time", "C. MCA is too small", "D. Petrous bones block signal", "E. Venous phase hasn't started"],
+    "answer": "B",
+    "detail": "Diagnostic runs are unilateral and selective."
+  },
+  {
+    "number": 147,
+    "question": "The A1 segment of the Anterior Cerebral Artery (ACA) extends from the ICA bifurcation to the origin of the:",
+    "choices": ["A. Pericallosal artery", "B. Callosomarginal artery", "C. Anterior Communicating Artery (ACOM)", "D. Ophthalmic artery", "E. Recurrent artery of Heubner"],
+    "answer": "C",
+    "detail": "A1 is the segment before the ACOM connection."
+  },
+  {
+    "number": 148,
+    "question": "The M1 segment of the Middle Cerebral Artery (MCA) extends from its origin up to the:",
+    "choices": ["A. Surface of the brain", "B. Insula", "C. Temporal horn", "D. Foramen of Monro", "E. Sylvian fissure"],
+    "answer": "B",
+    "detail": "M1 is the horizontal segment terminating at the insula."
+  },
+  {
+    "number": 149,
+    "question": "An acute CN 3 palsy presenting with a dilated pupil is 'classic trivia' for which neurovascular emergency?",
+    "choices": ["A. MCA stroke", "B. ACA aneurysm", "C. PCOM aneurysm", "D. PICA dissection", "E. Pituitary adenoma"],
+    "answer": "C",
+    "detail": "CN 3 palsy is a surgical emergency indicating a PCOM aneurysm."
+  },
+  {
+    "number": 150,
+    "question": "Besides a PCOM aneurysm, which other location for an aneurysm can cause an acute CN 3 palsy due to its relationship with the nerve?",
+    "choices": ["A. Ophthalmic origin", "B. Apex of the basilar artery", "C. A1-A2 junction", "D. Distal MCA branches", "E. Sagittal Sinus"],
+    "answer": "B",
+    "detail": "The basilar tip sits right between the oculomotor nerves."
+  },
+  {
+    "number": 151,
+    "question": "In approximately 70% of the population, the Posterior Inferior Cerebellar Artery (PICA) originates from the:",
+    "choices": ["A. Basilar artery", "B. Vertebral artery", "C. PCA", "D. SCA", "E. AICA"],
+    "answer": "B",
+    "detail": "The vertebral artery is the primary origin of PICA."
+  },
+  {
+    "number": 152,
+    "question": "Which foramen is unique for being located very posteriorly and inferiorly in the skull base?",
+    "choices": ["A. Foramen Rotundum", "B. Foramen Ovale", "C. Foramen Spinosum", "D. Hypoglossal Canal", "E. Foramen Lacerum"],
+    "answer": "D",
+    "detail": "The hypoglossal canal is in the posterior fossa at the clivus base."
+  },
+  {
+    "number": 153,
+    "question": "Which cranial nerve passes through the Hypoglossal Canal?",
+    "choices": ["A. CN 9", "B. CN 10", "C. CN 11", "D. CN 12", "E. CN 7"],
+    "answer": "D",
+    "detail": "CN 12 is the only content."
+  },
+  {
+    "number": 154,
+    "question": "The Jugular Foramen is divided into two parts by the:",
+    "choices": ["A. Petrous apex", "B. Jugular spine", "C. Clivus", "D. Scutum", "E. Dorsum sella"],
+    "answer": "B",
+    "detail": "The jugular spine is the anatomical divider."
+  },
+  {
+    "number": 155,
+    "question": "The 'Pars Nervosa' is the anterior portion of the jugular foramen and contains which specific nerve?",
+    "choices": ["A. Vagus", "B. Glossopharyngeal (CN 9)", "C. Spinal Accessory", "D. Facial", "E. Trigeminal"],
+    "answer": "B",
+    "detail": "CN 9 is in the 'nervosa' portion."
+  },
+  {
+    "number": 156,
+    "question": "The 'Pars Vascularis' of the jugular foramen contains the jugular bulb and which two cranial nerves?",
+    "choices": ["A. CN 9 and 10", "B. CN 10 and 11", "C. CN 11 and 12", "D. CN 7 and 8", "E. CN 3 and 4"],
+    "answer": "B",
+    "detail": "CN 10 and 11 accompany the jugular bulb."
+  },
+  {
+    "number": 157,
+    "question": "Jacobson’s nerve is a branch of which cranial nerve?",
+    "choices": ["A. CN 7", "B. CN 9", "C. CN 10", "D. CN 11", "E. CN 12"],
+    "answer": "B",
+    "detail": "Jacobson’s is a branch of CN 9."
+  },
+  {
+    "number": 158,
+    "question": "Arnold’s nerve is the auricular branch of which cranial nerve?",
+    "choices": ["A. CN 7", "B. CN 9", "C. CN 10", "D. CN 11", "E. CN 5"],
+    "answer": "C",
+    "detail": "Arnold’s is a branch of CN 10."
+  },
+  {
+    "number": 159,
+    "question": "Which structures pass through the Superior Orbital Fissure (SOF)?",
+    "choices": ["A. CN 2 and Ophthalmic artery", "B. CN 3, 4, V1, and 6", "C. CN V2 and Ophthalmic vein", "D. CN 2 and V3", "E. ICA"],
+    "answer": "B",
+    "detail": "CN 3, 4, V1, and 6 pass through the SOF."
+  },
+  {
+    "number": 160,
+    "question": "Which structure passes through the Inferior Orbital Fissure (IOF)?",
+    "choices": ["A. CN 3", "B. CN V2", "C. CN 6", "D. Ophthalmic artery", "E. Lacrimal nerve"],
+    "answer": "B",
+    "detail": "CN V2 passes through the IOF."
+  },
+  {
+    "number": 161,
+    "question": "The Optic Canal is the transit point for which two structures?",
+    "choices": ["A. CN 2 and Ophthalmic artery", "B. CN 3 and Ophthalmic vein", "C. CN V1 and ICA", "D. CN 2 and Middle Meningeal", "E. CN 1 and Ethmoidal"],
+    "answer": "A",
+    "detail": "CN 2 and the ophthalmic artery use the optic canal."
+  },
+  {
+    "number": 162,
+    "question": "Foramen Rotundum (FR) is a vertical oval on coronal CT that contains which nerve?",
+    "choices": ["A. CN V1", "B. CN V2", "C. CN V3", "D. CN 7", "E. CN 3"],
+    "answer": "B",
+    "detail": "FR contains CN V2 ('R2V2')."
+  },
+  {
+    "number": 163,
+    "question": "The Foramen Ovale contains which specific nerve branch?",
+    "choices": ["A. CN V1", "B. CN V2", "C. CN V3", "D. CN 6", "E. CN 10"],
+    "answer": "C",
+    "detail": "FO contains CN V3 ('O3')."
+  },
+  {
+    "number": 164,
+    "question": "The Foramen Spinosum is the transit point for which important clinical artery?",
+    "choices": ["A. Accessory Meningeal", "B. Middle Meningeal Artery", "C. ICA", "D. Vertebral", "E. Ophthalmic"],
+    "answer": "B",
+    "detail": "The middle meningeal artery passes through FO."
+  },
+  {
+    "number": 165,
+    "question": "When comparing Foramen Ovale (FO) and Foramen Spinosum (FS), which one represents the 'pointy heel'?",
+    "choices": ["A. FO", "B. FS", "C. FR", "D. Lacerum", "E. Hypoglossal"],
+    "answer": "B",
+    "detail": "FS is the posterior/lateral pointy part of the footprint."
+  },
+  {
+    "number": 166,
+    "question": "Which intracranial space is described as a 'star' shape on axial imaging?",
+    "choices": ["A. Quadrigeminal", "B. Suprasellar cistern", "C. Prepontine", "D. Cisterna magna", "E. Interpeduncular"],
+    "answer": "B",
+    "detail": "The suprasellar cistern is 'the star'."
+  },
+  {
+    "number": 167,
+    "question": "Which specific points of the 'suprasellar star' correspond to the Sylvian cisterns?",
+    "choices": ["A. Top point", "B. Lateral points", "C. Posterior points", "D. Center point", "E. Inferior points"],
+    "answer": "B",
+    "detail": "The lateral 'arms' are the Sylvian cisterns."
+  },
+  {
+    "number": 168,
+    "question": "The 'top' point of the suprasellar star represents which anatomic space?",
+    "choices": ["A. Interpeduncular", "B. Anterior interhemispheric fissure", "C. Ambient", "D. Carotid canal", "E. Meckel's cave"],
+    "answer": "B",
+    "detail": "The anterior point is the interhemispheric fissure."
+  },
+  {
+    "number": 169,
+    "question": "The Ambient Cistern is an anatomical bridge between which two cisterns?",
+    "choices": ["A. Prepontine and Sylvian", "B. Interpeduncular and Quadrigeminal", "C. Suprasellar and Chiasmatic", "D. Carotid and Crural", "E. Cisterna magna and 4th ventricle"],
+    "answer": "B",
+    "detail": "It bridges the interpeduncular and quadrigeminal spaces."
+  },
+  {
+    "number": 170,
+    "question": "On axial imaging, the Quadrigeminal Plate cistern is often described as having which shape?",
+    "choices": ["A. A star", "B. A 'smile' or sideways moon", "C. A 'frown'", "D. A target", "E. Mickey Mouse face"],
+    "answer": "B",
+    "detail": "The cistern has a characteristic 'smile' look."
+  },
+  {
+    "number": 171,
+    "question": "The 'Mickey Mouse' face appearance on axial imaging is classic for which part of the brain?",
+    "choices": ["A. Pons", "B. Medulla", "C. Midbrain", "D. Thalamus", "E. Hypothalamus"],
+    "answer": "C",
+    "detail": "The midbrain tegmentum and peduncles create the Mickey Mouse appearance."
+  },
+  {
+    "number": 172,
+    "question": "In the 'Mickey Mouse' midbrain, the 'eyes' represent which structures?",
+    "choices": ["A. Substantia nigra", "B. Red nuclei", "C. Cerebral peduncles", "D. Mammillary bodies", "E. Optic tracts"],
+    "answer": "B",
+    "detail": "The red nuclei are the 'eyes'."
+  },
+  {
+    "number": 173,
+    "question": "The 'Panda Face' sign is a classic neurodegenerative marker found in the:",
+    "choices": ["A. Midbrain", "B. Pons", "C. Cerebellum", "D. Medulla", "E. Basal ganglia"],
+    "answer": "A",
+    "detail": "The Panda Face of Wilson's Disease is in the midbrain."
+  },
+  {
+    "number": 174,
+    "question": "In the midbrain, the 'tectum' is located ________ to the 'tegmentum.'",
+    "choices": ["A. Anterior", "B. Posterior", "C. Medial", "D. Lateral", "E. Inferior"],
+    "answer": "B",
+    "detail": "The tectum (quadrigeminal plate) is posterior."
+  },
+  {
+    "number": 175,
+    "question": "Arachnoid granulations are projections of arachnoid into the venous sinuses. On CT, they are typically:",
+    "choices": ["A. Hyperdense", "B. Isoattenuating", "C. Hypodense (CSF-like)", "D. Bright after contrast", "E. Air-filled"],
+    "answer": "C",
+    "detail": "They follow CSF signal/density."
+  },
+  {
+    "number": 176,
+    "question": "How can an arachnoid granulation be distinguished from a venous sinus thrombus on MRI?",
+    "choices": ["A. Thrombus is T2 bright", "B. Granulations are round/oval; thrombus is linear", "C. Thrombus enhances", "D. Granulations only in jugular bulb", "E. No way"],
+    "answer": "B",
+    "detail": "Oval filling defects in a sinus are almost always benign granulations."
+  },
+  {
+    "number": 177,
+    "question": "Arachnoid granulations can sometimes cause which change to the inner table of the skull?",
+    "choices": ["A. Hyperostosis", "B. Scalloping (sculpting)", "C. Permeative destruction", "D. Sunburst reaction", "E. Wormian bones"],
+    "answer": "B",
+    "detail": "Large ones benignly erode the inner table."
+  },
+  {
+    "number": 178,
+    "question": "Dilated Perivascular Spaces (Virchow-Robins) are normal anatomical spaces that contain:",
+    "choices": ["A. CSF", "B. Interstitial fluid", "C. Venous blood", "D. Lymph", "E. Air"],
+    "answer": "B",
+    "detail": "They contain interstitial fluid, not CSF."
+  },
+  {
+    "number": 179,
+    "question": "In the setting of Cryptococcal Meningitis, enlarged perivascular spaces are often referred to as:",
+    "choices": ["A. Abscesses", "B. Gelatinous pseudocysts", "C. Colloid cysts", "D. Arachnoid cysts", "E. Schizencephaly"],
+    "answer": "B",
+    "detail": "Fungal material pathologically dilates these spaces into gelatinous cysts."
+  },
+  {
+    "number": 180,
+    "question": "Where is the most common location for dilated perivascular spaces?",
+    "choices": ["A. Lower third of the basal ganglia", "B. Medulla", "C. Corpus callosum", "D. Optic nerves", "E. Spinal cord"],
+    "answer": "A",
+    "detail": "The basal ganglia (lower 1/3) is the classic site."
+  },
+  {
+    "number": 181,
+    "question": "Metabolic conditions such as Mucopolysaccharidoses (Hurler’s/Hunter’s) are associated with:",
+    "choices": ["A. Small ventricles", "B. Markedly enlarged perivascular spaces", "C. Brain tumors", "D. Premature sinus closure", "E. AVN"],
+    "answer": "B",
+    "detail": "Markedly enlarged perivascular spaces are a hallmark of Hurler/Hunter."
+  },
+  {
+    "number": 182,
+    "question": "On FLAIR imaging, the hippocampus can appear slightly brighter than other cortical areas. This is because it is composed of only how many neuronal layers?",
+    "choices": ["A. 1", "B. 3", "C. 6", "D. 9", "E. 12"],
+    "answer": "B",
+    "detail": "The 3-layered hippocampus is intrinsically T2 bright."
+  },
+  {
+    "number": 183,
+    "question": "Most of the cerebral cortex is composed of how many neuronal layers?",
+    "choices": ["A. 1", "B. 3", "C. 6", "D. 10", "E. 20"],
+    "answer": "C",
+    "detail": "The standard neocortex has 6 layers."
+  },
+  {
+    "number": 184,
+    "question": "In the functional homunculus, which vascular territory is responsible for motor and sensory control of the LEGS?",
+    "choices": ["A. MCA", "B. PCA", "C. ACA", "D. Basilar", "E. Vertebral"],
+    "answer": "C",
+    "detail": "The ACA supplies the 'legs' area."
+  },
+  {
+    "number": 185,
+    "question": "The majority of the functional homunculus (Hand, Face, Speech) is supplied by which artery?",
+    "choices": ["A. ACA", "B. MCA", "C. PCA", "D. PCOM", "E. ICA"],
+    "answer": "B",
+    "detail": "The MCA territory covers most of the homunculus."
+  },
+  {
+    "number": 186,
+    "question": "To identify the 'central sulcus' on high-axial images, you look for the 'pars bracket sign.' This bracket is located:",
+    "choices": ["A. Immediately anterior to the sulcus", "B. Immediately posterior to the sulcus", "C. Directly on the sulcus", "D. Inside the lateral ventricle", "E. In the cerebellum"],
+    "answer": "B",
+    "detail": "The bracket is formed by the pars marginalis, which is immediately posterior to the central sulcus."
+  },
+  {
+    "number": 187,
+    "question": "The 'pars bracket sign' is formed by which specific sulcus?",
+    "choices": ["A. Pre-central", "B. Pars marginalis", "C. Intraparietal", "D. Superior frontal", "E. Sylvian"],
+    "answer": "B",
+    "detail": "The pars marginalis forms the 'bracket'."
+  },
+  {
+    "number": 188,
+    "question": "On axial imaging, the 'inverted omega' or 'sigmoid hook' corresponds to which functional area?",
+    "choices": ["A. Motor leg", "B. Motor hand", "C. Sensory foot", "D. Speech center", "E. Vision center"],
+    "answer": "B",
+    "detail": "The 'inverted omega' sign identifies the motor hand."
+  },
+  {
+    "number": 189,
+    "question": "When comparing the gyri on either side of the central sulcus, which is usually thicker?",
+    "choices": ["A. Post-central", "B. Pre-central", "C. Identical", "D. Post-central is 3x thicker", "E. Pre-central is bifid"],
+    "answer": "B",
+    "detail": "The pre-central gyrus is thicker (1.5:1 ratio)."
+  },
+  {
+    "number": 190,
+    "question": "Cavum Septum Pellucidum is a common anatomical variant present in what percentage of preterm infants?",
+    "choices": ["A. 1%", "B. 15%", "C. 50%", "D. 100%", "E. 0%"],
+    "answer": "D",
+    "detail": "It is present in all (100%) preterm infants."
+  },
+  {
+    "number": 191,
+    "question": "The 'Cavum Vergae' is a posterior continuation of the cavum septum pellucidum and is located:",
+    "choices": ["A. Anterior to foramen of Monro", "B. Posterior to foramen of Monro", "C. Within 4th ventricle", "D. Inside pituitary", "E. In spinal canal"],
+    "answer": "B",
+    "detail": "Cavum Vergae is the posterior 'continuation' variant."
+  },
+  {
+    "number": 192,
+    "question": "Which cavum variant is an extension of the quadrigeminal plate cistern and is seen above the 3rd ventricle?",
+    "choices": ["A. Cavum Vergae", "B. Cavum Septum Pellucidum", "C. Cavum Velum Interpositum", "D. Cavum Septum Cartilagineum", "E. None"],
+    "answer": "C",
+    "detail": "Cavum Velum Interpositum is the extension above the 3rd ventricle."
+  },
+  {
+    "number": 193,
+    "question": "The 'Azygos Anterior Cerebral Artery' is a rare vascular variant characterized by:",
+    "choices": ["A. Multiple ACAs", "B. A single common trunk of the ACAs", "C. Absence of ACA", "D. Origin from ECA", "E. Connection to Vein of Galen"],
+    "answer": "B",
+    "detail": "A single shared ACA trunk instead of two separate A1/A2 segments."
+  },
+  {
+    "number": 194,
+    "question": "The Azygos ACA variant is frequently associated with which other condition?",
+    "choices": ["A. Dandy-Walker", "B. Septo-optic Dysplasia (SOD) or Holoprosencephaly (HPE)", "C. Chiari I", "D. Multiple Sclerosis", "E. Glioblastoma"],
+    "answer": "B",
+    "detail": "Midline defects like SOD and HPE are highly associated with Azygos ACA."
+  },
+  {
+    "number": 195,
+    "question": "Which imaging study is a test writer most likely to show for an anatomy-focused question?",
+    "choices": ["A. MRI", "B. Non-contrast CT", "C. Angiogram", "D. PET/CT", "E. Ultrasound"],
+    "answer": "C",
+    "detail": "Board examiners historically favor angiography for anatomy identification questions."
+  },
+  {
+    "number": 196,
+    "question": "The '7UP, COKE down' mnemonic for the IAC is useful when viewing the canal in which plane?",
+    "choices": ["A. Axial", "B. Sagittal", "C. Coronal", "D. Orthogonal", "E. Only angiograms"],
+    "answer": "B",
+    "detail": "Sagittal views show the four-quadrant distribution best."
+  },
+  {
+    "number": 197,
+    "question": "Which artery segment is also known as the 'Supraclinoid' ICA?",
+    "choices": ["A. C1", "B. C4", "C. C6", "D. C7", "E. C2"],
+    "answer": "C",
+    "detail": "C6 is the supraclinoid (ophthalmic) segment."
+  },
+  {
+    "number": 198,
+    "question": "A 'Crescent sign' on T1-weighted imaging of the neck is a hallmark for:",
+    "choices": ["A. ICA aneurysm", "B. ICA dissection", "C. Septic thrombosis", "D. Normal fat", "E. AVM"],
+    "answer": "B",
+    "detail": "Intramural blood in a dissection appears as a T1 bright crescent sign."
+  },
+  {
+    "number": 199,
+    "question": "'Maldifferentiation of the Meninx Primitiva' is a French-sounding explanation for which congenital finding?",
+    "choices": ["A. Meningioma", "B. Pericallosal Lipoma", "C. Chiari II", "D. Arachnoid cyst", "E. Encephalocele"],
+    "answer": "B",
+    "detail": "This is the embryological explanation provided for pericallosal lipomas."
+  },
+  {
+    "number": 200,
+    "question": "Pericallosal lipomas are most commonly associated with which other malformation?",
+    "choices": ["A. Agenesis of the corpus callosum", "B. Dandy-Walker", "C. Schizencephaly", "D. Hydrocephalus", "E. Pituitary adenoma"],
+    "answer": "A",
+    "detail": "Pericallosal lipomas are seen with CC agenesis in approximately 50% of cases."
+  }
+]
+
+}

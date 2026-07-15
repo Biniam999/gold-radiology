@@ -1,0 +1,707 @@
+{
+    "questions": 
+   
+[
+  {
+    "number": 1,
+    "question": "Arthritis can be broadly categorized into three main groups for board examinations. Which of the following is NOT one of those primary categories?",
+    "choices": ["A. Degenerative", "B. Inflammatory", "C. Metabolic", "D. Neoplastic", "E. Infectious"],
+    "answer": "D",
+    "detail": "The three primary categories for boards are Degenerative, Inflammatory, and Metabolic."
+  },
+  {
+    "number": 2,
+    "question": "What is the most common cause of arthritis?",
+    "choices": ["A. Rheumatoid Arthritis", "B. Osteoarthritis", "C. Gout", "D. Psoriatic Arthritis", "E. CPPD"],
+    "answer": "B",
+    "detail": "Osteoarthritis (OA) is the most frequent cause of joint disease."
+  },
+  {
+    "number": 3,
+    "question": "Which of the following is considered the 'poster boy' radiographic finding for Osteoarthritis (OA)?",
+    "choices": ["A. Marginal erosion", "B. The osteophyte", "C. Subperiosteal resorption", "D. Uniform joint space narrowing", "E. Syndesmophyte"],
+    "answer": "B",
+    "detail": "The osteophyte is the classic hallmark of degenerative joint disease."
+  },
+  {
+    "number": 4,
+    "question": "The pathogenesis of Osteoarthritis is best described as:",
+    "choices": ["A. Synovial proliferation", "B. Mechanical breakdown (hard work)", "C. Crystal deposition", "D. Autoimmune destruction", "E. Epiphyseal overgrowth"],
+    "answer": "B",
+    "detail": "OA is fundamentally a mechanical breakdown of the joint."
+  },
+  {
+    "number": 5,
+    "question": "Which radiographic finding helps distinguish Osteoarthritis from Rheumatoid Arthritis in the weight-bearing joints?",
+    "choices": ["A. Subchondral cysts", "B. Subchondral sclerosis", "C. Asymmetric joint space narrowing", "D. Osteophyte formation", "E. All of the above"],
+    "answer": "E",
+    "detail": "OA features sclerosis, asymmetric narrowing, and osteophytes, while RA typically shows uniform narrowing and lacks sclerosis."
+  },
+  {
+    "number": 6,
+    "question": "A 'Neuropathic Joint' is often described using which testable buzzword regarding its appearance?",
+    "choices": ["A. Gull-wing", "B. Pencil-in-cup", "C. Surgical-like margins", "D. Bamboo spine", "E. Mouse ears"],
+    "answer": "C",
+    "detail": "Neuropathic joints often show extreme destruction with sharp, 'surgical-like' margins."
+  },
+  {
+    "number": 7,
+    "question": "Which clinical scenario is the classic association for a neuropathic shoulder?",
+    "choices": ["A. Diabetes Mellitus", "B. Syringomyelia (Syrinx)", "C. Spinal cord injury", "D. Tabes dorsalis", "E. Chronic alcoholism"],
+    "answer": "B",
+    "detail": "A neuropathic shoulder is the classic 'Aunt Minnie' for Syringomyelia."
+  },
+  {
+    "number": 8,
+    "question": "The '6 D's' (Deformity, Debris, Dislocation, Dense bone, Destruction, Distension) are the hallmark of which condition?",
+    "choices": ["A. Rheumatoid Arthritis", "B. Psoriatic Arthritis", "C. Neuropathic (Charcot) joint", "D. Erosive Osteoarthritis", "E. Gout"],
+    "answer": "C",
+    "detail": "The '6 D's' describe the radiographic features of a Charcot/Neuropathic joint."
+  },
+  {
+    "number": 9,
+    "question": "A 'Rocker-bottom deformity' of the foot in a diabetic patient is a result of the collapse of the longitudinal arch in which condition?",
+    "choices": ["A. Plantar fasciitis", "B. Morton’s neuroma", "C. Charcot Foot", "D. Posterior tibial tendon tear", "E. Lisfranc injury"],
+    "answer": "C",
+    "detail": "Midfoot collapse in Charcot foot leads to the classic rocker-bottom deformity."
+  },
+  {
+    "number": 10,
+    "question": "How can a radiologist distinguish Charcot foot from Osteomyelitis on imaging?",
+    "choices": ["A. Charcot never has soft tissue swelling", "B. Osteomyelitis prefers the midfoot", "C. Presence of an ulcer or sinus tract favors infection", "D. Charcot has normal bone density", "E. They cannot be distinguished"],
+    "answer": "C",
+    "detail": "Clinical signs like an ulcer or sinus tract are the best indicators for infection over neuropathic change."
+  },
+  {
+    "number": 11,
+    "question": "Erosive Osteoarthritis is an inflammatory form of OA that typically favors which patient demographic?",
+    "choices": ["A. Young athletic males", "B. Infants", "C. Postmenopausal women", "D. Elderly men with gout", "E. Diabetics"],
+    "answer": "C",
+    "detail": "Erosive OA characteristically affects postmenopausal women."
+  },
+  {
+    "number": 12,
+    "question": "What is the classic radiographic buzzword for the central erosions seen in Erosive OA?",
+    "choices": ["A. Pencil-in-cup", "B. Gull-wing", "C. Apple core", "D. Picture frame", "E. H-shape"],
+    "answer": "B",
+    "detail": "Central erosions combined with marginal osteophytes create the 'Gull-wing' appearance."
+  },
+  {
+    "number": 13,
+    "question": "Erosive Osteoarthritis classically involves which joints of the hand?",
+    "choices": ["A. MCP joints", "B. PIP joints", "C. DIP joints", "D. First CMC joint", "E. Carpal bones"],
+    "answer": "C",
+    "detail": "Erosive OA favors the DIP and PIP joints while sparing the MCPs."
+  },
+  {
+    "number": 14,
+    "question": "Rheumatoid Arthritis (RA) is characterized by which of the following regarding joint space narrowing?",
+    "choices": ["A. Asymmetric narrowing", "B. Uniform joint space narrowing", "C. Widening of the joint space", "D. Preservation of the joint space until end-stage", "E. Narrowing only on the medial side"],
+    "answer": "B",
+    "detail": "Uniform narrowing is a hallmark of RA, distinguishing it from OA."
+  },
+  {
+    "number": 15,
+    "question": "Which hand joints are typically spared in classic Rheumatoid Arthritis?",
+    "choices": ["A. MCP joints", "B. PIP joints", "C. DIP joints", "D. Carpals", "E. Ulnar styloid"],
+    "answer": "C",
+    "detail": "Classic RA involves the MCPs and PIPs but spares the DIPs."
+  },
+  {
+    "number": 16,
+    "question": "In the foot, where is the 'first spot' typically involved by Rheumatoid Arthritis?",
+    "choices": ["A. 1st MTP head", "B. 5th Metatarsal head", "C. Calcaneal tuberosity", "D. Tarsal navicular", "E. Sesmoids"],
+    "answer": "B",
+    "detail": "The lateral aspect of the 5th metatarsal head is often the earliest site of RA erosions."
+  },
+  {
+    "number": 17,
+    "question": "'Felty Syndrome' is a complication of long-standing RA characterized by RA, Neutropenia, and:",
+    "choices": ["A. Pneumoconiosis", "B. Splenomegaly", "C. Psoriasis", "D. Urethritis", "E. Aortic regurgitation"],
+    "answer": "B",
+    "detail": "Felty Syndrome is defined by the triad of RA, splenomegaly, and neutropenia."
+  },
+  {
+    "number": 18,
+    "question": "'Caplan Syndrome' refers to the association of Rheumatoid Arthritis with:",
+    "choices": ["A. Splenomegaly", "B. Pneumoconiosis", "C. Conjunctivitis", "D. Inflammatory Bowel Disease", "E. Sacroiliitis"],
+    "answer": "B",
+    "detail": "Caplan Syndrome involves RA in the setting of coal worker's pneumoconiosis."
+  },
+  {
+    "number": 19,
+    "question": "Regarding the distribution of RA in the hand, the PIP joints are typically involved:",
+    "choices": ["A. Before the MCP joints", "B. Simultaneously with the MCP joints", "C. After the MCP joints", "D. Only if the DIP joints are involved", "E. Never"],
+    "answer": "C",
+    "detail": "In RA, MCP involvement typically precedes PIP involvement."
+  },
+  {
+    "number": 20,
+    "question": "Which carpal joint is classically 'spared' or involved last in Rheumatoid Arthritis?",
+    "choices": ["A. Scapholunate", "B. Luno-triquetral", "C. First CMC", "D. Pisi-triquetral", "E. Mid-carpal joint"],
+    "answer": "C",
+    "detail": "The first CMC joint is usually spared in RA, whereas it is heavily involved in OA."
+  },
+  {
+    "number": 21,
+    "question": "Psoriatic Arthritis is an inflammatory arthritis that classically presents with which distribution?",
+    "choices": ["A. Symmetric proximal", "B. Asymmetric distal", "C. Symmetric distal", "D. Asymmetric proximal", "E. Midline only"],
+    "answer": "B",
+    "detail": "Psoriatic arthritis is classically asymmetric and involves the distal joints."
+  },
+  {
+    "number": 22,
+    "question": "A 'Sausage Digit' is a clinical and radiographic finding associated with:",
+    "choices": ["A. Rheumatoid Arthritis", "B. Osteoarthritis", "C. Psoriatic Arthritis", "D. SLE", "E. CPPD"],
+    "answer": "C",
+    "detail": "Sausage digits from diffuse soft tissue swelling are characteristic of Psoriatic arthritis."
+  },
+  {
+    "number": 23,
+    "question": "Which 'buzzword' describes the periosteal bone proliferation seen in Psoriatic Arthritis?",
+    "choices": ["A. Gull-wing", "B. Mouse ears", "C. Bamboo spine", "D. H-shape", "E. Picture frame"],
+    "answer": "B",
+    "detail": "Periosteal 'fluffy' bone proliferation at the margins is called 'mouse ears'."
+  },
+  {
+    "number": 24,
+    "question": "'Pencil-in-cup' deformities are a hallmark of advanced:",
+    "choices": ["A. Rheumatoid Arthritis", "B. Psoriatic Arthritis", "C. Gout", "D. Osteoarthritis", "E. Neuropathic joint"],
+    "answer": "B",
+    "detail": "Advanced bone resorption in Psoriatic arthritis leads to the pencil-in-cup look."
+  },
+  {
+    "number": 25,
+    "question": "'Ivory Phalanx' refers to sclerosis and bone proliferation, most commonly seen in the great toe of patients with:",
+    "choices": ["A. RA", "B. OA", "C. Psoriatic Arthritis", "D. Reactive Arthritis", "E. Gout"],
+    "answer": "C",
+    "detail": "Marked sclerosis of a terminal phalanx is a classic feature of Psoriatic arthritis."
+  },
+  {
+    "number": 26,
+    "question": "Severe bone resorption leading to soft tissue 'telescoping' collapse is known as:",
+    "choices": ["A. Osteopetrosis", "B. Arthritis Mutilans", "C. Acro-osteolysis", "D. Ankylosis", "E. Spondylosis"],
+    "answer": "B",
+    "detail": "Arthritis Mutilans involves 'telescoping' of the fingers due to massive bone loss."
+  },
+  {
+    "number": 27,
+    "question": "If a patient’s fingers could be lengthened by pulling on them, what is the underlying radiographic diagnosis?",
+    "choices": ["A. RA", "B. Psoriasis", "C. Arthritis Mutilans", "D. OA", "E. SLE"],
+    "answer": "C",
+    "detail": "The 'telescoping' of Arthritis Mutilans allows the finger to be physically pulled longer."
+  },
+  {
+    "number": 28,
+    "question": "'Reiter’s Arthritis' is now more commonly referred to as:",
+    "choices": ["A. Psoriatic Arthritis", "B. Reactive Arthritis", "C. Ankylosing Spondylitis", "D. Enteropathic Arthritis", "E. Juvenile RA"],
+    "answer": "B",
+    "detail": "Reiter’s is the historical name for Reactive arthritis."
+  },
+  {
+    "number": 29,
+    "question": "The triad for Reactive Arthritis includes Urethritis, Conjunctivitis, and:",
+    "choices": ["A. Splenomegaly", "B. Arthritis", "C. Pneumoconiosis", "D. Psoriasis", "E. Uveitis"],
+    "answer": "B",
+    "detail": "The classic triad is 'can't see, can't pee, can't climb a tree' (conjunctivitis, urethritis, arthritis)."
+  },
+  {
+    "number": 30,
+    "question": "Reactive Arthritis typically favors joints in which region of the body?",
+    "choices": ["A. Above the waist (Hands, Shoulders)", "B. Below the waist (Feet, SI joints)", "C. Midline spine only", "D. Cervical spine", "E. Skull base"],
+    "answer": "B",
+    "detail": "Reactive arthritis characteristically affects joints 'below the waist'."
+  },
+  {
+    "number": 31,
+    "question": "Both Psoriatic and Reactive arthritis are associated with which HLA marker?",
+    "choices": ["A. HLA-DR4", "B. HLA-B27", "C. HLA-B51", "D. HLA-A3", "E. HLA-DQ8"],
+    "answer": "B",
+    "detail": "The seronegative spondyloarthropathies (Psoriatic, Reactive, AS, Enteropathic) are all associated with HLA-B27."
+  },
+  {
+    "number": 32,
+    "question": "In Ankylosing Spondylitis (AS), which site is typically the FIRST to be involved?",
+    "choices": ["A. Cervical spine", "B. Lumbar spine", "C. Sacroiliac (SI) joints (symmetrically)", "D. Hips", "E. Shoulders"],
+    "answer": "C",
+    "detail": "AS classically initiates with symmetric sacroiliitis."
+  },
+  {
+    "number": 33,
+    "question": "The 'Bamboo Spine' appearance in AS is caused by:",
+    "choices": ["A. Marginal osteophytes", "B. Flowing syndesmophytes", "C. Bulky paravertebral ossifications", "D. Diffuse idiopathic skeletal hyperostosis", "E. Schmorl's nodes"],
+    "answer": "B",
+    "detail": "Thin, symmetric, vertical ossifications (syndesmophytes) create the bamboo spine."
+  },
+  {
+    "number": 34,
+    "question": "'Shiny Corners' are a radiographic buzzword for early involvement of:",
+    "choices": ["A. OA", "B. DISH", "C. Ankylosing Spondylitis", "D. Psoriatic Arthritis", "E. Gout"],
+    "answer": "C",
+    "detail": "Early AS involves inflammation at the corners of vertebrae, appearing sclerotic or 'shiny'."
+  },
+  {
+    "number": 35,
+    "question": "If a patient with Ankylosing Spondylitis or DISH experiences even minor trauma, what is the recommended 'Next Step' in imaging?",
+    "choices": ["A. Comparison radiographs", "B. Ultrasound of the paraspinal muscles", "C. Whole spine CT", "D. Nuclear medicine bone scan", "E. Bedrest without imaging"],
+    "answer": "C",
+    "detail": "The fused, brittle spine is prone to fractures that are hard to see on plain film; CT is required."
+  },
+  {
+    "number": 36,
+    "question": "Heterotopic Ossification is a common post-operative complication in Ankylosing Spondylitis patients undergoing:",
+    "choices": ["A. Shoulder arthroplasty", "B. Knee replacement", "C. Total Hip Arthroplasty (THA)", "D. Spinal fusion", "E. Carpal tunnel release"],
+    "answer": "C",
+    "detail": "AS patients are at high risk for HO following hip replacement."
+  },
+  {
+    "number": 37,
+    "question": "'Enteropathic Arthritis' is a chronic inflammatory arthritis associated with:",
+    "choices": ["A. Psoriasis", "B. Crohn's or Ulcerative Colitis", "C. Chronic pancreatitis", "D. Celiac disease", "E. Whipple's disease"],
+    "answer": "B",
+    "detail": "Enteropathic arthritis is associated with inflammatory bowel disease."
+  },
+  {
+    "number": 38,
+    "question": "Gout is a crystal arthropathy resulting from the deposition of:",
+    "choices": ["A. Calcium pyrophosphate", "B. Uric acid crystals", "C. Calcium hydroxyapatite", "D. Cholesterol", "E. Hemosiderin"],
+    "answer": "B",
+    "detail": "Gout is caused by monosodium urate (uric acid) crystals."
+  },
+  {
+    "number": 39,
+    "question": "What is the 'earliest' radiographic sign of Gout?",
+    "choices": ["A. Marginal erosion", "B. Joint effusion", "C. Tophi", "D. Sclerosis", "E. Joint space narrowing"],
+    "answer": "B",
+    "detail": "Joint effusion is the first sign, followed much later by erosions."
+  },
+  {
+    "number": 40,
+    "question": "Gout is unique among inflammatory arthritides because it classically ________ the joint space until late in the disease.",
+    "choices": ["A. Narrows", "B. Widens", "C. Spares", "D. Obliterates", "E. Ankyloses"],
+    "answer": "C",
+    "detail": "A classic board clue for gout is joint space preservation despite severe erosions."
+  },
+  {
+    "number": 41,
+    "question": "An 'Overhanging edge' of an erosion is a pathognomonic feature of:",
+    "choices": ["A. RA", "B. Psoriasis", "C. Gout", "D. OA", "E. CPPD"],
+    "answer": "C",
+    "detail": "The 'overhanging edge' is a pathognomonic radiographic sign for gouty erosions."
+  },
+  {
+    "number": 42,
+    "question": "Which of the following describes the 'Tophi' of gout on MRI?",
+    "choices": ["A. T1 bright, T2 bright", "B. T1 bright, T2 dark", "C. T1 dark, T2 dark", "D. T1 dark, T2 bright", "E. Isointense to fat on all sequences"],
+    "answer": "C",
+    "detail": "Gouty tophi are characteristically dark on both T1 and T2."
+  },
+  {
+    "number": 43,
+    "question": "CPPD (Calcium Pyrophosphate Deposition Disease) is also known as:",
+    "choices": ["A. 'OA with a vengeance'", "B. Pseudogout", "C. 'Mommy Thumb'", "D. 'Tennis Elbow'", "E. 'Washer Woman's Sprain'"],
+    "answer": "B",
+    "detail": "CPPD is clinically commonly called 'pseudogout'."
+  },
+  {
+    "number": 44,
+    "question": "'Hooked' MCP osteophytes and chondrocalcinosis in the TFCC is a classic appearance for:",
+    "choices": ["A. Gout", "B. CPPD", "C. Hemochromatosis", "D. RA", "E. B and C"],
+    "answer": "E",
+    "detail": "Hooked osteophytes in the MCPs are classic for both CPPD and Hemochromatosis."
+  },
+  {
+    "number": 45,
+    "question": "CPPD can cause 'SLAC wrist' by degenerating which structure?",
+    "choices": ["A. Scapholunate (SL) ligament", "B. Ulnar collateral ligament", "C. TFCC", "D. Luno-triquetral ligament", "E. Radial styloid"],
+    "answer": "A",
+    "detail": "CPPD often targets and degenerates the SL ligament, leading to SLAC wrist."
+  },
+  {
+    "number": 46,
+    "question": "Which joint distribution is considered 'atypical' and suggestive of CPPD over standard OA?",
+    "choices": ["A. Medial compartment of the knee", "B. Patellofemoral or Radiocarpal compartments", "C. DIP joints of the hand", "D. First CMC joint", "E. Hip joint"],
+    "answer": "B",
+    "detail": "Isolated patellofemoral or radiocarpal narrowing should trigger the diagnosis of CPPD."
+  },
+  {
+    "number": 47,
+    "question": "'Milwaukee Shoulder' is an apocalyptic destruction of the joint caused by the deposition of:",
+    "choices": ["A. Urate crystals", "B. Calcium Pyrophosphate", "C. Hydroxyapatite", "D. Hemosiderin", "E. Amyloid"],
+    "answer": "C",
+    "detail": "Milwaukee shoulder is a destructive arthropathy from hydroxyapatite crystals."
+  },
+  {
+    "number": 48,
+    "question": "Milwaukee shoulder classically affects which patient population?",
+    "choices": ["A. Young male athletes", "B. Infants with birth trauma", "C. Old women with a history of trauma to that joint", "D. Diabetic men", "E. Patients with chronic RA"],
+    "answer": "C",
+    "detail": "Old women with a prior history of joint trauma are the classic demographic for Milwaukee shoulder."
+  },
+  {
+    "number": 49,
+    "question": "Which radiographic finding is the 'Multiple Choice Key' for identifying Hyperparathyroidism (Hyper-PTH) in the hand?",
+    "choices": ["A. Marginal erosions", "B. Subperiosteal bone resorption of the radial aspect of the 2nd/3rd fingers", "C. Gull-wing erosions", "D. Pencil-in-cup deformities", "E. Hooked osteophytes"],
+    "answer": "B",
+    "detail": "Radial-sided subperiosteal resorption is the 'Multiple Choice Key' for Hyper-PTH."
+  },
+  {
+    "number": 50,
+    "question": "'Terminal tuft erosions' are a feature of:",
+    "choices": ["A. Gout", "B. Hyperparathyroidism", "C. SLE", "D. OA", "E. Jaccoud's"],
+    "answer": "B",
+    "detail": "Tuft resorption (acro-osteolysis) is seen in Hyper-PTH, along with scleroderma and others."
+  },
+  {
+    "number": 51,
+    "question": "'Rugger Jersey Spine' is a hallmark of Hyperparathyroidism. What does it look like?",
+    "choices": ["A. Uniformly sclerotic vertebral bodies", "B. Sclerosis of the superior and inferior endplates", "C. Anterior flowing syndesmophytes", "D. Pancake flat vertebral bodies", "E. H-shaped vertebral bodies"],
+    "answer": "B",
+    "detail": "Rugger Jersey spine describes the bands of sclerosis at the top and bottom of the vertebrae."
+  },
+  {
+    "number": 52,
+    "question": "In the pelvis, Hyperparathyroidism can cause narrowing or 'constricting' of:",
+    "choices": ["A. The SI joints", "B. The pubic symphysis", "C. The femoral necks", "D. The iliac wings", "E. The ischial tuberosities"],
+    "answer": "C",
+    "detail": "Constricting/narrowing of the femoral necks is a testable feature of Hyper-PTH."
+  },
+  {
+    "number": 53,
+    "question": "According to the 'Problem Solving' trees, if an arthritis is inflammatory and involves multiple joints with 'no bony proliferation' and a 'proximal distribution,' it is most likely:",
+    "choices": ["A. Psoriasis", "B. AS", "C. RA", "D. OA", "E. Infection"],
+    "answer": "C",
+    "detail": "Inflammatory + Proximal + No Bone Proliferation = RA."
+  },
+  {
+    "number": 54,
+    "question": "If an arthritis is degenerative and presents in 'atypical joints' at an 'atypical age' with 'severe or surgical destruction,' it is:",
+    "choices": ["A. OA", "B. Gout", "C. CPPD", "D. Neuropathic", "E. Post-traumatic"],
+    "answer": "D",
+    "detail": "Atypical location/age + surgical-like margins = Neuropathic/Charcot."
+  },
+  {
+    "number": 55,
+    "question": "'Spondylosis Deformans' is a spine degenerative change characterized by:",
+    "choices": ["A. Deteriorated discs", "B. Osteophyte formation", "C. Syndesmophyte formation", "D. Endplate sclerosis", "E. Vertebral body wedging"],
+    "answer": "B",
+    "detail": "Spondylosis deformans refers specifically to osteophyte formation without severe disc height loss."
+  },
+  {
+    "number": 56,
+    "question": "'Intervertebral Osteochondrosis' is a spine degenerative process that favors:",
+    "choices": ["A. The vertebral margins", "B. The nucleus pulposus and vertebral body endplates", "C. The facet joints", "D. The spinous processes", "E. The posterior longitudinal ligament"],
+    "answer": "B",
+    "detail": "This term refers to nucleus deterioration with disc narrowing and endplate sclerosis."
+  },
+  {
+    "number": 57,
+    "question": "How do 'Syndesmophytes' (seen in AS) differ from 'Osteophytes' (seen in DJD)?",
+    "choices": ["A. Syndesmophytes are more horizontal", "B. Osteophytes are more vertical and thinner", "C. Syndesmophytes are more vertical, symmetric, and thinner", "D. Osteophytes represent ossification of the annulus fibrosis", "E. There is no difference"],
+    "answer": "C",
+    "detail": "Syndesmophytes in AS are vertical, symmetric, and involve the outer fibers of the annulus."
+  },
+  {
+    "number": 58,
+    "question": "DISH (Diffuse Idiopathic Skeletal Hyperostosis) is defined by ossification of the ALL involving how many levels?",
+    "choices": ["A. At least 2", "B. At least 3", "C. More than 4", "D. Exactly 5", "E. The entire spine"],
+    "answer": "C",
+    "detail": "The criteria for DISH requires continuous ossification over > 4 vertebral levels."
+  },
+  {
+    "number": 59,
+    "question": "A key differentiator between DISH and Ankylosing Spondylitis (AS) is:",
+    "choices": ["A. DISH has severe sacroiliitis; AS does not", "B. AS has sacroiliitis; DISH does not", "C. DISH involves the disc spaces; AS spares them", "D. AS only involves the C-spine", "E. DISH is seen only in children"],
+    "answer": "B",
+    "detail": "AS involves the SI joints; DISH classically spares them."
+  },
+  {
+    "number": 60,
+    "question": "OPLL (Ossification of the Posterior Longitudinal Ligament) is 'bad news' in which part of the spine?",
+    "choices": ["A. Thoracic spine", "B. Lumbar spine", "C. Cervical spine", "D. Sacrum", "E. Coccyx"],
+    "answer": "C",
+    "detail": "OPLL in the cervical spine can cause significant spinal stenosis and cord compression."
+  },
+  {
+    "number": 61,
+    "question": "OPLL is a high-yield diagnosis classically associated with which patient group?",
+    "choices": ["A. Young Caucasian women", "B. Old Asian men", "C. Infants with Down syndrome", "D. Pregnant women", "E. Heavy smokers"],
+    "answer": "B",
+    "detail": "OPLL is characteristically seen in older Asian males."
+  },
+  {
+    "number": 62,
+    "question": "'Destructive Spondyloarthropathy' is seen in patients on renal dialysis for at least:",
+    "choices": ["A. 6 months", "B. 1 year", "C. 2 years", "D. 5 years", "E. 10 years"],
+    "answer": "C",
+    "detail": "It typically develops after approximately 2 years of dialysis."
+  },
+  {
+    "number": 63,
+    "question": "The underlying cause of Destructive Spondyloarthropathy in dialysis patients is thought to be:",
+    "choices": ["A. Uric acid crystals", "B. Calcium pyrophosphate", "C. Amyloid deposition", "D. Bacterial infection", "E. Vitamin D deficiency"],
+    "answer": "C",
+    "detail": "Beta-2 microglobulin amyloid deposition is the cause of this destructive process."
+  },
+  {
+    "number": 64,
+    "question": "The 'Aunt Minnie' look for Systemic Lupus Erythematosus (SLE) in the hands is:",
+    "choices": ["A. Severe marginal erosions", "B. Reducible deformity of joints without articular erosions", "C. 'Gull-wing' central erosions", "D. 'Pencil-in-cup' deformities", "E. Sausage digits"],
+    "answer": "B",
+    "detail": "SLE causes ligamentous laxity and reducible deformities without the joint surface erosions seen in RA."
+  },
+  {
+    "number": 65,
+    "question": "Which radiographic view can demonstrate the 'reduction' of ulnar subluxations in an SLE patient?",
+    "choices": ["A. PA view", "B. Norgaard (Ball-catcher) view", "C. Lateral view", "D. Oblique view", "E. Brewerton view"],
+    "answer": "A",
+    "detail": "Subluxations typically reduce on the standard PA view when the hand is pressed flat."
+  },
+  {
+    "number": 66,
+    "question": "'Jaccoud’s Arthropathy' is very similar to SLE and often occurs after which condition?",
+    "choices": ["A. Psoriasis", "B. Rheumatic fever", "C. Lyme disease", "D. COVID-19", "E. Tuberculosis"],
+    "answer": "B",
+    "detail": "Jaccoud’s is a non-erosive arthritis that classically follows rheumatic fever."
+  },
+  {
+    "number": 67,
+    "question": "Mixed Connective Tissue Disease (MCTD) is unique because it is positive for which specific antibody?",
+    "choices": ["A. Anti-dsDNA", "B. Rheumatoid Factor (RF)", "C. Ribonucleoprotein (RNP)", "D. Anti-CCP", "E. ANA"],
+    "answer": "C",
+    "detail": "MCTD is characteristically positive for the anti-RNP antibody."
+  },
+  {
+    "number": 68,
+    "question": "Juvenile Idiopathic Arthritis (JRA) is characterized by which radiographic 'buzzword'?",
+    "choices": ["A. Epiphyseal Overgrowth", "B. Ballooned vertebrae", "C. H-shaped vertebra", "D. Picture frame vertebra", "E. Apple core lesion"],
+    "answer": "A",
+    "detail": "Chronic hyperemia in JRA leads to epiphyseal overgrowth."
+  },
+  {
+    "number": 69,
+    "question": "JRA in the knee can show findings similar to Hemophilia, including:",
+    "choices": ["A. Widened intercondylar notch", "B. Sclerosis of the patella", "C. Joint space widening", "D. Chondrocalcinosis", "E. Tophi"],
+    "answer": "A",
+    "detail": "Both conditions cause hyperemia that results in a widened intercondylar notch."
+  },
+  {
+    "number": 70,
+    "question": "'Amyloid Arthropathy' is seen in dialysis patients and typically involves which joints?",
+    "choices": ["A. Small joints of the hands only", "B. Large joints like shoulders, hips, and knees", "C. Only the spine", "D. Only the SI joints", "E. DIP joints"],
+    "answer": "B",
+    "detail": "Dialysis-related amyloid arthropathy favors larger joints."
+  },
+  {
+    "number": 71,
+    "question": "In Amyloid Arthropathy, the joint space is typically ________ until later in the disease.",
+    "choices": ["A. Narrowed", "B. Widened", "C. Preserved", "D. Ankylosed", "E. Sclerotic"],
+    "answer": "C",
+    "detail": "Joint space preservation despite bone erosions is a clue for Amyloid."
+  },
+  {
+    "number": 72,
+    "question": "'Pituitary Gigantism' can cause a classic MSK 'buzzword' finding in the hip:",
+    "choices": ["A. Narrowing of the joint space", "B. Widening of the joint space in an adult hip", "C. Femoral neck fracture", "D. AVN", "E. Legg-Calve-Perthes"],
+    "answer": "B",
+    "detail": "Widening of the joint space in an adult hip is a classic sign of gigantism."
+  },
+  {
+    "number": 73,
+    "question": "In Gigantism, the formation of endochondral bone at chondro-osseous junctions results in:",
+    "choices": ["A. Bone resorption", "B. Narrowing of osseous structures", "C. Widening of osseous structures", "D. Lytic lesions", "E. Osteoporosis"],
+    "answer": "C",
+    "detail": "Hormone excess leads to widening of the bones and joint spaces."
+  },
+  {
+    "number": 74,
+    "question": "According to the 'Hand Arthritis' pearls, when you see 'Ankylosis in the hand,' you should say:",
+    "choices": ["A. RA or SLE", "B. Erosive OA or Psoriasis", "C. OA or Gout", "D. CPPD or Hemochromatosis", "E. AS or Reactive"],
+    "answer": "B",
+    "detail": "Hand ankylosis is a classic feature of Psoriatic or Erosive arthritis."
+  },
+  {
+    "number": 75,
+    "question": "'Modic Changes' refer to characteristic MRI signal changes in:",
+    "choices": ["A. The spinal cord", "B. The intervertebral disc", "C. The vertebral body endplates", "D. The facet joints", "E. The paraspinal muscles"],
+    "answer": "C",
+    "detail": "Modic changes describe degenerative signal in the vertebral endplates."
+  },
+  {
+    "number": 76,
+    "question": "Modic Type 1 endplate changes represent 'Edema' and appear:",
+    "choices": ["A. T1 dark, T2 bright", "B. T1 bright, T2 bright", "C. T1 dark, T2 dark", "D. T1 bright, T2 dark", "E. Isointense on all sequences"],
+    "answer": "A",
+    "detail": "Type 1 is edema: dark on T1 and bright on T2."
+  },
+  {
+    "number": 77,
+    "question": "Modic Type 2 endplate changes represent 'Fat' and appear:",
+    "choices": ["A. T1 dark, T2 bright", "B. T1 bright, T2 bright", "C. T1 dark, T2 dark", "D. T1 bright, T2 dark", "E. Darker than muscle"],
+    "answer": "B",
+    "detail": "Type 2 is fat: bright on T1 and also bright on T2."
+  },
+  {
+    "number": 78,
+    "question": "Modic Type 3 endplate changes represent 'Scar/Fibrosis' and appear:",
+    "choices": ["A. T1 dark, T2 bright", "B. T1 bright, T2 bright", "C. T1 dark, T2 dark", "D. T1 bright, T2 dark", "E. Bright on STIR"],
+    "answer": "C",
+    "detail": "Type 3 is sclerosis/scar: dark on both T1 and T2."
+  },
+  {
+    "number": 79,
+    "question": "A 'High Intensity Zone' (HIZ) on a spine MRI refers to fluid signal in:",
+    "choices": ["A. The nucleus pulposus", "B. An annular fissure (tear)", "C. A Schmorl's node", "D. The epidural space", "E. The spinal canal"],
+    "answer": "B",
+    "detail": "HIZ describes T2-bright fluid within an annular tear."
+  },
+  {
+    "number": 80,
+    "question": "A 'Schmorl Node' is defined as:",
+    "choices": ["A. Anterior herniation of the disc", "B. Intravertebral herniation of disc material through the endplate", "C. Retropulsion of a fracture fragment", "D. Calcification of the ALL", "E. Degeneration of the facet joint"],
+    "answer": "B",
+    "detail": "A Schmorl node is an intravertebral herniation of the disc."
+  },
+  {
+    "number": 81,
+    "question": "Scheuermann’s disease requires wedging of at least 3 adjacent vertebral bodies and a thoracic kyphosis of at least:",
+    "choices": ["A. 11 degrees", "B. 20 degrees", "C. 30 degrees", "D. 40 degrees", "E. 60 degrees"],
+    "answer": "D",
+    "detail": "Diagnosis requires > 40 degrees kyphosis and 3 levels of adjacent wedging."
+  },
+  {
+    "number": 82,
+    "question": "A 'Limbus Vertebra' is a fracture mimic caused by herniated disc material between:",
+    "choices": ["A. Two adjacent endplates", "B. The non-fused apophysis and the vertebral body", "C. The pars interarticularis", "D. The spinous process and lamina", "E. The disc and the PLL"],
+    "answer": "B",
+    "detail": "A limbus vertebra is caused by disc material herniating through the apophyseal ring."
+  },
+  {
+    "number": 83,
+    "question": "In disc nomenclature, a 'Herniation' involves displacement of ________ of the disc material beyond the disc space.",
+    "choices": ["A. Less than 25%", "B. More than 25%", "C. Exactly 50%", "D. 100%", "E. Any amount"],
+    "answer": "A",
+    "detail": "Herniation involves < 25% of the disc circumference; > 25% is a bulge."
+  },
+  {
+    "number": 84,
+    "question": "A 'Bulge' is defined as displacement of ________ of the disc circumference.",
+    "choices": ["A. Less than 25%", "B. More than 25%", "C. Exactly 10%", "D. 100%", "E. None"],
+    "answer": "B",
+    "detail": "A bulge involves more than 25% of the disc circumference."
+  },
+  {
+    "number": 85,
+    "question": "In the lumbar spine, a 'Foraminal Disc' will typically compress which nerve?",
+    "choices": ["A. The descending nerve", "B. The exiting nerve", "C. The nerve two levels below", "D. The femoral nerve", "E. The obturator nerve"],
+    "answer": "B",
+    "detail": "Foraminal discs hit the exiting nerve; central discs hit the descending nerve."
+  },
+  {
+    "number": 86,
+    "question": "A 'Central or Sub-Articular Disc' in the lumbar spine will typically smash which nerve?",
+    "choices": ["A. The exiting nerve", "B. The descending nerve", "C. The sciatic nerve", "D. The axillary nerve", "E. No nerve"],
+    "answer": "B",
+    "detail": "Central discs smash the descending nerve roots."
+  },
+  {
+    "number": 87,
+    "question": "In a patient with 'Failed Back Surgery Syndrome,' how can post-operative scar be distinguished from residual disc on MRI?",
+    "choices": ["A. Scar is T1 bright; disc is T1 dark", "B. Scar enhances with Gadolinium; disc does not", "C. Disc enhances; scar does not", "D. Disc is T2 dark; scar is T2 bright", "E. They look identical post-contrast"],
+    "answer": "B",
+    "detail": "Post-operative scar enhances immediately, while disc material does not."
+  },
+  {
+    "number": 88,
+    "question": "'Diffuse Paravertebral Ossifications' is the radiographic description for:",
+    "choices": ["A. AS", "B. DISH", "C. Psoriatic Arthritis", "D. Spondylosis", "E. OPLL"],
+    "answer": "B",
+    "detail": "DISH is described as flowing paravertebral ossifications."
+  },
+  {
+    "number": 89,
+    "question": "'Focal Lateral Paravertebral Ossification' (the big bridging lateral osteophyte) is classic for:",
+    "choices": ["A. AS", "B. DISH", "C. Psoriatic Arthritis", "D. OA", "E. SLE"],
+    "answer": "C",
+    "detail": "Focal, bulky, and asymmetric lateral ossifications are hallmarks of Psoriatic or Reactive arthritis."
+  },
+  {
+    "number": 90,
+    "question": "Erosion of the Dens is a feature seen in which two conditions?",
+    "choices": ["A. OA and Gout", "B. CPPD and RA", "C. SLE and JRA", "D. DISH and AS", "E. Psoriasis and Reiter's"],
+    "answer": "B",
+    "detail": "Both RA and CPPD can cause erosion of the dens."
+  },
+  {
+    "number": 91,
+    "question": "'Subligamentous spread of infection' is a classic radiographic buzzword for:",
+    "choices": ["A. Staph aureus", "B. Tuberculosis (TB/Pott's)", "C. Brucellosis", "D. MRSA", "E. IV drug user"],
+    "answer": "B",
+    "detail": "TB infection in the spine characteristically spreads underneath the longitudinal ligaments."
+  },
+  {
+    "number": 92,
+    "question": "'Rice bodies' in a joint represent sloughed, infarcted synovium seen in end-stage RA and:",
+    "choices": ["A. Gout", "B. TB infection of joints", "C. Psoriasis", "D. OA", "E. CPPD"],
+    "answer": "B",
+    "detail": "Rice bodies are a classic buzzword for TB or late RA."
+  },
+  {
+    "number": 93,
+    "question": "'Unilateral RA with preserved joint spaces' is a way people describe the look of:",
+    "choices": ["A. Psoriatic Arthritis", "B. Reflex Sympathetic Dystrophy (RSD)", "C. Neuropathic joint", "D. Erosive OA", "E. Septic arthritis"],
+    "answer": "B",
+    "detail": "Severe osteopenia and erosions with preserved spaces is the look of RSD/Sudeck Atrophy."
+  },
+  {
+    "number": 94,
+    "question": "'Hooked' MCP osteophytes are a multiple choice key for:",
+    "choices": ["A. Gout", "B. CPPD or Hemochromatosis", "C. RA", "D. OA", "E. SLE"],
+    "answer": "B",
+    "detail": "Hooked osteophytes at the 2nd/3rd MCPs are keys for CPPD/Hemochromatosis."
+  },
+  {
+    "number": 95,
+    "question": "A 'T2 bright tumor in the finger' should make you think of:",
+    "choices": ["A. GCT of the tendon sheath", "B. Glomus tumor", "C. Enchondroma", "D. Osteoid osteoma", "E. Epidermoid"],
+    "answer": "B",
+    "detail": "A small, painful, T2-bright tumor in the fingertip is a Glomus tumor."
+  },
+  {
+    "number": 96,
+    "question": "'Blooming in a tumor in the finger' suggests hemosiderin and points toward:",
+    "choices": ["A. Glomus tumor", "B. Giant Cell Tumor of the Tendon Sheath (PVNS)", "C. Hemangioma", "D. Rheumatoid nodule", "E. Gouty tophus"],
+    "answer": "B",
+    "detail": "GCT of the tendon sheath contains hemosiderin and will bloom on GRE."
+  },
+  {
+    "number": 97,
+    "question": "'Scoliosis curvature points AWAY' from which painful lesion?",
+    "choices": ["A. ABC", "B. Osteoblastoma", "C. Osteoid Osteoma", "D. Osteosarcoma", "E. Metastasis"],
+    "answer": "C",
+    "detail": "Painful scoliosis from an OO has the lesion at the center of the concavity (pointing away)."
+  },
+  {
+    "number": 98,
+    "question": "'Medullary Bone Infarct' is distinguished from other lesions on MRI because it will have ________ in the middle.",
+    "choices": ["A. Fluid", "B. Blood", "C. Fat", "D. Air", "E. Contrast"],
+    "answer": "C",
+    "detail": "A bone infarct retains a core of central fat signal on MRI."
+  },
+  {
+    "number": 99,
+    "question": "Which of the following conditions is associated with 'Acro-osteolysis'?",
+    "choices": ["A. RA", "B. Psoriasis", "C. Hyperparathyroidism", "D. All of the above", "E. None of the above"],
+    "answer": "D",
+    "detail": "Acro-osteolysis (tuft resorption) is associated with Psoriasis, Hyper-PTH, and many others."
+  },
+  {
+    "number": 100,
+    "question": "'Widened disc space' is a tricky way for board examiners to describe the 'H-shape' seen in:",
+    "choices": ["A. Paget disease", "B. Sickle Cell Anemia", "C. Osteopetrosis", "D. Multiple Myeloma", "E. Leukemia"],
+    "answer": "B",
+    "detail": "Microvascular endplate infarcts cause the 'H-shape' and relative disc widening in Sickle Cell."
+  }
+]
+
+}

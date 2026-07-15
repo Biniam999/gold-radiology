@@ -1,0 +1,706 @@
+{
+    "questions": 
+
+[
+  {
+    "number": 1,
+    "question": "In what order do the paranasal sinuses typically develop and become visible on CT?",
+    "choices": ["A. Ethmoid, Maxillary, Sphenoid, Frontal", "B. Maxillary (birth), Ethmoid (1 year), Sphenoid (4 years), Frontal (6 years)", "C. Frontal, Maxillary, Ethmoid, Sphenoid", "D. Maxillary, Sphenoid, Ethmoid, Frontal", "E. They all develop simultaneously by birth"],
+    "answer": "B",
+    "detail": "The sinuses form in a specific sequence: Maxillary is present at birth, followed by Ethmoid, Sphenoid, and finally the Frontal sinuses around age 6."
+  },
+  {
+    "number": 2,
+    "question": "At what age is the development of the paranasal sinuses typically finished?",
+    "choices": ["A. 5 years", "B. 10 years", "C. 15 years", "D. 21 years", "E. 40 years"],
+    "answer": "C",
+    "detail": "Most paranasal sinuses are finished forming by approximately 15 years of age."
+  },
+  {
+    "number": 3,
+    "question": "\"Osteolysis circumscripta\" is a buzzword describing the lytic phase of which skull base condition?",
+    "choices": ["A. Fibrous Dysplasia", "B. Paget’s Disease", "C. Chordoma", "D. Langerhans Cell Histiocytosis", "E. Metastatic Neuroblastoma"],
+    "answer": "B",
+    "detail": "Osteolysis circumscripta refers to large radiolucent regions, typically in the frontal and occipital bones, seen during the lytic phase of Paget’s disease."
+  },
+  {
+    "number": 4,
+    "question": "What is the most common complication of Paget’s disease involving the skull?",
+    "choices": ["A. Blindness", "B. Deafness", "C. Tooth loss", "D. Meningitis", "E. Epistaxis"],
+    "answer": "B",
+    "detail": "Hearing loss is the most frequent complication associated with Paget's disease of the skull."
+  },
+  {
+    "number": 5,
+    "question": "How can Paget’s disease be distinguished from Fibrous Dysplasia of the skull based on age?",
+    "choices": ["A. Paget’s is in kids; FD is in adults", "B. Paget’s is in the elderly (8% at age 80); FD is typically in those under 30", "C. Both occur only in the 3rd decade", "D. FD is only in neonates", "E. Age does not help differentiate them"],
+    "answer": "B",
+    "detail": "Paget’s disease is a condition of the elderly, while Fibrous Dysplasia characteristically affects patients younger than 30."
+  },
+  {
+    "number": 6,
+    "question": "Which structure is characteristically SPARED by Fibrous Dysplasia of the skull?",
+    "choices": ["A. Mandible", "B. Otic Capsule", "C. Frontal bone", "D. Zygoma", "E. Maxilla"],
+    "answer": "B",
+    "detail": "Sparing of the otic capsule is a classic imaging feature that helps distinguish Fibrous Dysplasia from other pathologies like Paget’s."
+  },
+  {
+    "number": 7,
+    "question": "\"McCune Albright Syndrome\" features multifocal fibrous dysplasia, precocious puberty, and:",
+    "choices": ["A. Cafe-au-lait spots", "B. Spleen cysts", "C. Biliary atresia", "D. Renal AMLs", "E. Retinal hamartomas"],
+    "answer": "A",
+    "detail": "McCune Albright Syndrome is defined by the clinical triad of multifocal fibrous dysplasia, cafe-au-lait spots, and precocious puberty."
+  },
+  {
+    "number": 8,
+    "question": "In the evaluation of sinus disease, which modality is superior for evaluating the orbital apex or cavernous sinus?",
+    "choices": ["A. CT without contrast", "B. MRI", "C. Non-contrast Plain film", "D. Ultrasound", "E. PET/CT"],
+    "answer": "B",
+    "detail": "MRI provides superior soft tissue resolution for evaluating intracranial extension into the cavernous sinus or orbital apex."
+  },
+  {
+    "number": 9,
+    "question": "\"Allergic Fungal Sinusitis\" (AFS) characteristically presents on CT as:",
+    "choices": ["A. Completely air-filled sinuses", "B. Hyperdense material centrally within multiple opacified sinuses", "C. Total bone destruction", "D. Macroscopic fat", "E. Large air-fluid levels"],
+    "answer": "B",
+    "detail": "CT typically shows central hyperdense material within opacified sinuses, representing fungal elements and heavy metals."
+  },
+  {
+    "number": 10,
+    "question": "On MRI, the glob of \"fungus snot\" in AFS will appear:",
+    "choices": ["A. T1 bright and T2 bright", "B. T1 and T2 DARK (due to high protein and heavy metals)", "C. Enhancing intensely", "D. Restricted on diffusion", "E. Purely cystic"],
+    "answer": "B",
+    "detail": "Fungal material in AFS is characteristically T1 and T2 dark and does not enhance, helping differentiate it from a tumor."
+  },
+  {
+    "number": 11,
+    "question": "\"Acute Invasive Fungal Sinusitis\" is a life-threatening emergency typically seen in:",
+    "choices": ["A. Healthy athletes", "B. Diabetics in DKA or the Immunocompromised (Neutropenic)", "C. Pregnant women", "D. Professional swimmers", "E. Children with asthma"],
+    "answer": "B",
+    "detail": "This aggressive infection targets immunocompromised individuals or those in diabetic ketoacidosis."
+  },
+  {
+    "number": 12,
+    "question": "The key imaging finding for \"Invasive\" fungal sinusitis is:",
+    "choices": ["A. Thickened mucosa only", "B. Extension of disease into the fat around the sinuses (orbit, masticator, or PPF)", "C. A \"snowstorm\" appearance", "D. \"Onion skin\" calcifications", "E. High T1 signal throughout"],
+    "answer": "B",
+    "detail": "The hallmark of invasion is the extension of the process beyond the sinus walls into adjacent fat planes."
+  },
+  {
+    "number": 13,
+    "question": "A patient with chronic sinonasal disease who develops an \"expanded airless sinus\" likely has a:",
+    "choices": ["A. Simple polyp", "B. Mucocele", "C. Squamous cell carcinoma", "D. Hemangioma", "E. Osteoma"],
+    "answer": "B",
+    "detail": "A mucocele is defined by an expanded, airless sinus, most frequently occurring in the frontal sinus due to outflow obstruction."
+  },
+  {
+    "number": 14,
+    "question": "What is the classic clinical presentation for a Juvenile Nasal Angiofibroma (JNA)?",
+    "choices": ["A. Older woman with a headache", "B. Male teenager with nosebleeds (epistaxis)", "C. Neonate with respiratory distress", "D. Middle-aged man with facial pain", "E. Elderly smoker with hoarseness"],
+    "answer": "B",
+    "detail": "JNA is a highly vascular tumor seen almost exclusively in adolescent males presenting with epistaxis."
+  },
+  {
+    "number": 15,
+    "question": "Where is a JNA characteristically centered?",
+    "choices": ["A. Cribriform plate", "B. Sphenopalatine Foramen (SPF)", "C. Maxillary ostium", "D. Foramen magnum", "E. Fossa of Rosenmuller"],
+    "answer": "B",
+    "detail": "The origin of a JNA at the Sphenopalatine Foramen is a classic imaging finding."
+  },
+  {
+    "number": 16,
+    "question": "JNAs are extremely vascular and demonstrate which MRI finding?",
+    "choices": ["A. T2 darkness throughout", "B. Intratumoral flow voids", "C. Absence of enhancement", "D. Bulk fat", "E. Restricted diffusion"],
+    "answer": "B",
+    "detail": "Because they are hypervascular, JNAs characteristically show multiple internal flow voids and avid enhancement."
+  },
+  {
+    "number": 17,
+    "question": "\"Inverted Papilloma\" is an uncommon tumor characteristically located in the:",
+    "choices": ["A. Frontal sinus", "B. Lateral wall of the nasal cavity (middle turbinate area)", "C. Midline clivus", "D. Tongue base", "E. Orbit"],
+    "answer": "B",
+    "detail": "The classic location for an inverted papilloma is the lateral wall of the nasal cavity."
+  },
+  {
+    "number": 18,
+    "question": "What is the classic MRI appearance of an Inverted Papilloma?",
+    "choices": ["A. \"Target sign\"", "B. \"Cerebriform pattern\" (looks like brain)", "C. \"Popcorn\" calcifications", "D. \"Snowstorm\" appearance", "E. \"Salt and pepper\""],
+    "answer": "B",
+    "detail": "Inverted papillomas show a distinctive convoluted 'cerebriform' pattern on MRI."
+  },
+  {
+    "number": 19,
+    "question": "What percentage of Inverted Papillomas harbor synchronous Squamous Cell Carcinoma?",
+    "choices": ["A. 1%", "B. 10%", "C. 50%", "D. 90%", "E. 0%"],
+    "answer": "B",
+    "detail": "Approximately 10% of inverted papillomas are associated with an underlying squamous cell carcinoma."
+  },
+  {
+    "number": 20,
+    "question": "An \"Esthesioneuroblastoma\" is a tumor that originates from the:",
+    "choices": ["A. Sphenopalatine foramen", "B. Cribriform plate (olfactory cells)", "C. Maxillary antrum", "D. Carotid canal", "E. External ear"],
+    "answer": "B",
+    "detail": "This tumor arises from the olfactory neuroepithelium at the level of the cribriform plate."
+  },
+  {
+    "number": 21,
+    "question": "Esthesioneuroblastoma classically has a dumbbell appearance and a \"diagnostic\" look on MRI featuring:",
+    "choices": ["A. Bulk fat", "B. Peripheral intracranial cysts at the tumor margin", "C. Total absence of enhancement", "D. Air-fluid levels", "E. High T1 signal"],
+    "answer": "B",
+    "detail": "The presence of intracranial cysts at the superior margin of the tumor is highly suggestive of esthesioneuroblastoma."
+  },
+  {
+    "number": 22,
+    "question": "Which nuclear medicine scan will be POSITIVE for Esthesioneuroblastoma?",
+    "choices": ["A. Bone scan", "B. Octreotide scan (neural crest origin)", "C. Sulfur colloid", "D. Xenon ventilation", "E. Sestamibi"],
+    "answer": "B",
+    "detail": "Because it is a tumor of neural crest origin, esthesioneuroblastomas are typically octreotide-avid."
+  },
+  {
+    "number": 23,
+    "question": "What is the most common malignancy of the sino-nasal tract?",
+    "choices": ["A. Adenocarcinoma", "B. Squamous Cell Carcinoma (SCC)", "C. Lymphoma", "D. Melanoma", "E. SNUC"],
+    "answer": "B",
+    "detail": "Squamous Cell Carcinoma is the most frequent malignancy found in the head and neck, including the sinuses."
+  },
+  {
+    "number": 24,
+    "question": "The Maxillary Antrum is the site of involvement for what percentage of sinus SCC?",
+    "choices": ["A. 10%", "B. 25%", "C. 50%", "D. 80%", "E. 95%"],
+    "answer": "D",
+    "detail": "The maxillary antrum is the primary site of involvement in the vast majority (80%) of sinus SCC cases."
+  },
+  {
+    "number": 25,
+    "question": "\"SNUC\" (Sinonasal Undifferentiated Carcinoma) is distinguished from regular SCC because it is:",
+    "choices": ["A. Smaller and benign", "B. Large (typically > 4 cm), aggressive, and often in the ethmoids", "C. Fatty", "D. Only seen in kids", "E. T2 bright"],
+    "answer": "B",
+    "detail": "SNUC is a highly aggressive, poorly differentiated malignancy that is usually very large at presentation."
+  },
+  {
+    "number": 26,
+    "question": "Sinonasal Lymphoma is usually of which cell type?",
+    "choices": ["A. Hodgkin", "B. Non-Hodgkin (Large B-cell or T-cell)", "C. Small cell", "D. Clear cell", "E. Myeloid"],
+    "answer": "B",
+    "detail": "Non-Hodgkin lymphoma is the most common histological type of sinonasal lymphoma."
+  },
+  {
+    "number": 27,
+    "question": "\"Antrochoanal Polyps\" originate in the maxillary sinus and are known for:",
+    "choices": ["A. Being bilateral", "B. Widening the maxillary ostium as they extend into the nasal cavity", "C. Containing macroscopic fat", "D. Being hot on PET", "E. Only occurring in the elderly"],
+    "answer": "B",
+    "detail": "A classic imaging feature of antrochoanal polyps is the expansion of the maxillary ostium."
+  },
+  {
+    "number": 28,
+    "question": "What is the most common fracture site to result in a CSF leak?",
+    "choices": ["A. Frontal bone", "B. Anterior skull base (cribriform plate)", "C. Sphenoid wing", "D. Foramen magnum", "E. Temporal bone"],
+    "answer": "B",
+    "detail": "Anterior skull base fractures, particularly involving the cribriform plate, are the leading cause of post-traumatic CSF rhinorrhea."
+  },
+  {
+    "number": 29,
+    "question": "Recurrent bacterial meningitis is a known association with which condition?",
+    "choices": ["A. JNA", "B. CSF Leak", "C. Sinus mucocele", "D. Inverted papilloma", "E. Torus palatinus"],
+    "answer": "B",
+    "detail": "A persistent CSF leak creates a communication pathway that leads to repeated episodes of meningitis."
+  },
+  {
+    "number": 30,
+    "question": "The \"Main vascular supply\" to the posterior nose is the:",
+    "choices": ["A. Lingual artery", "B. Sphenopalatine artery (terminal internal maxillary)", "C. Superior thyroid artery", "D. Facial artery", "E. Vertebral artery"],
+    "answer": "B",
+    "detail": "The sphenopalatine artery is the primary arterial supply to the posterior nasal cavity."
+  },
+  {
+    "number": 31,
+    "question": "\"Sialolithiasis\" (salivary stones) is most commonly found in which duct?",
+    "choices": ["A. Stenson’s (Parotid)", "B. Wharton’s (Submandibular)", "C. Rivinus (Sublingual)", "D. Eustachian", "E. Nasolacrimal"],
+    "answer": "B",
+    "detail": "Salivary stones are most frequent in Wharton's duct of the submandibular gland."
+  },
+  {
+    "number": 32,
+    "question": "Chronic obstruction from a salivary stone can lead to:",
+    "choices": ["A. Gland hypertrophy", "B. Gland fatty atrophy", "C. Thyroid cancer", "D. Brain death", "E. Precocious puberty"],
+    "answer": "B",
+    "detail": "Long-standing ductal obstruction results in chronic inflammation and subsequent fatty replacement of the gland."
+  },
+  {
+    "number": 33,
+    "question": "Odontogenic infections are more commonly associated with which scenario?",
+    "choices": ["A. Intact healthy tooth", "B. An extracted tooth", "C. Drinking too much juice", "D. Multiple piercings", "E. Normal aging"],
+    "answer": "B",
+    "detail": "Infections are more likely to develop following tooth extraction than from a healthy, intact tooth."
+  },
+  {
+    "number": 34,
+    "question": "The spread of odontogenic infection to the sublingual vs. submandibular space is dictated by:",
+    "choices": ["A. The carotid artery", "B. The attachment of the mylohyoid muscle to the mylohyoid ridge", "C. The patient's blood type", "D. The volume of saliva", "E. Gravity only"],
+    "answer": "B",
+    "detail": "The mylohyoid muscle's attachment to the mandible acts as a barrier that directs the spread of infection."
+  },
+  {
+    "number": 35,
+    "question": "Infections from the anterior mandibular teeth (above the mylohyoid line) spread to the:",
+    "choices": ["A. Carotid space", "B. Sublingual space", "C. Submandibular space", "D. Parotid space", "E. Orbit"],
+    "answer": "B",
+    "detail": "Teeth located above the mylohyoid line drain into the sublingual space."
+  },
+  {
+    "number": 36,
+    "question": "Infections from the second and third molars (below the mylohyoid line) spread to the:",
+    "choices": ["A. Sublingual space", "B. Submandibular space", "C. Brain", "D. Eustachian tube", "E. Nasal cavity"],
+    "answer": "B",
+    "detail": "Lower molars are located below the mylohyoid attachment, so infection spreads to the submandibular space."
+  },
+  {
+    "number": 37,
+    "question": "What is the most common masticator space \"mass\" in an adult?",
+    "choices": ["A. Rhabdomyosarcoma", "B. Odontogenic abscess", "C. Schwannoma", "D. Pleomorphic adenoma", "E. Lymphoma"],
+    "answer": "B",
+    "detail": "In adults, odontogenic abscesses are the most frequent reason for a mass-like presentation in the masticator space."
+  },
+  {
+    "number": 38,
+    "question": "\"Ludwig’s Angina\" is defined as a super aggressive cellulitis in the:",
+    "choices": ["A. Lung", "B. Floor of the mouth", "C. Sigmoid sinus", "D. Subclavian vein", "E. Vertebral body"],
+    "answer": "B",
+    "detail": "Ludwig’s Angina is a life-threatening, gas-forming cellulitis of the floor of the mouth."
+  },
+  {
+    "number": 39,
+    "question": "The classic imaging finding for Ludwig’s Angina is the presence of:",
+    "choices": ["A. Bulk fat", "B. Gas everywhere in the submandibular and sublingual spaces", "C. \"Salt and pepper\" flow voids", "D. Intense T2 darkness", "E. \"Onion skin\" bone"],
+    "answer": "B",
+    "detail": "Extensive gas within the sublingual and submandibular spaces is the hallmark imaging finding."
+  },
+  {
+    "number": 40,
+    "question": "A \"Torus Palatinus\" is a normal variant described as a:",
+    "choices": ["A. Malignant mass", "B. Midline bony exostosis of the hard palate", "C. Cyst in the salivary gland", "D. Type of brain hernia", "E. Infected tooth"],
+    "answer": "B",
+    "detail": "Torus palatinus is a common, benign bony overgrowth occurring at the midline of the hard palate."
+  },
+  {
+    "number": 41,
+    "question": "What is a characteristic clinical \"complaint\" for Torus Palatinus?",
+    "choices": ["A. Sudden blindness", "B. \"Grandma’s dentures won’t stay in\"", "C. Constant nosebleeds", "D. Hoarseness", "E. Ear pain"],
+    "answer": "B",
+    "detail": "The bony protuberance on the palate can interfere with the proper fitting of dentures."
+  },
+  {
+    "number": 42,
+    "question": "Osteonecrosis of the Mandible is most commonly associated with:",
+    "choices": ["A. Smoking", "B. Prior radiation or bisphosphonate treatment", "C. High protein diet", "D. Common cold", "E. Turner Syndrome"],
+    "answer": "B",
+    "detail": "Mandibular osteonecrosis is a known side effect of radiation therapy or bisphosphonate use."
+  },
+  {
+    "number": 43,
+    "question": "A \"Ranula\" is a mucous retention cyst that arises from the:",
+    "choices": ["A. Parotid gland", "B. Sublingual gland or minor salivary glands", "C. Thyroid", "D. Lacrimal sac", "E. Pituitary"],
+    "answer": "B",
+    "detail": "Ranulas are retention cysts specifically originating from the sublingual space."
+  },
+  {
+    "number": 44,
+    "question": "A Ranula is classified as \"Plunging\" (or diving/cervical) when it extends:",
+    "choices": ["A. Into the brain stem", "B. Under the mylohyoid muscle into the submandibular space", "C. Into the orbit", "D. Into the ear canal", "E. Behind the esophagus"],
+    "answer": "B",
+    "detail": "Once a ranula passes the mylohyoid muscle into the submandibular space, it is termed 'plunging'."
+  },
+  {
+    "number": 45,
+    "question": "Floor of the mouth Dermoid/Epidermoid cysts have which characteristic look?",
+    "choices": ["A. \"Target sign\"", "B. \"Sack of marbles\" (globules of fat in fluid)", "C. \"Cerebriform pattern\"", "D. \"Snowstorm\"", "E. \"Water lily\" sign"],
+    "answer": "B",
+    "detail": "Globules of fat floating within the fluid create the 'sack of marbles' appearance."
+  },
+  {
+    "number": 46,
+    "question": "Floor of the mouth SCC in a YOUNGER person is strongly associated with:",
+    "choices": ["A. Smoking", "B. HPV", "C. High Vitamin C", "D. Birth trauma", "E. Drinking red wine"],
+    "answer": "B",
+    "detail": "In younger patients without typical risk factors, HPV infection is strongly linked to floor of mouth SCC."
+  },
+  {
+    "number": 47,
+    "question": "HPV-related SCCs in young adults often present with:",
+    "choices": ["A. Large necrotic level 2a nodes", "B. \"Sack of marbles\" look", "C. Bony exostosis", "D. \"Diving\" ranula", "E. \"Puff of smoke\" angiogram"],
+    "answer": "A",
+    "detail": "A new, large necrotic Level II node in a young adult is a classic clinical scenario for HPV-related SCC."
+  },
+  {
+    "number": 48,
+    "question": "Which odontogenic cyst is located at the APEX of a non-vital tooth?",
+    "choices": ["A. Dentigerous Cyst", "B. Periapical (Radicular) Cyst", "C. Ameloblastoma", "D. Keratocyst", "E. Simple bone cyst"],
+    "answer": "B",
+    "detail": "The periapical cyst is the most common odontogenic cyst and is found at the tooth apex."
+  },
+  {
+    "number": 49,
+    "question": "Which odontogenic cyst forms around the CROWN of an un-erupted tooth?",
+    "choices": ["A. Periapical Cyst", "B. Dentigerous (Follicular) Cyst", "C. Torus Palatinus", "D. Ranula", "E. Osteoma"],
+    "answer": "B",
+    "detail": "Dentigerous cysts characteristically surround the crown of an impacted tooth."
+  },
+  {
+    "number": 50,
+    "question": "Osteosarcoma of the face in a child is a risk following radiation treatment for:",
+    "choices": ["A. Acne", "B. Retinoblastoma", "C. JNA", "D. Tonsillitis", "E. Otitis media"],
+    "answer": "B",
+    "detail": "Facial osteosarcoma can occur as a secondary malignancy years after radiation for retinoblastoma."
+  },
+  {
+    "number": 51,
+    "question": "Which salivary gland is the ONLY one to normally contain lymph nodes?",
+    "choices": ["A. Submandibular", "B. Parotid", "C. Sublingual", "D. Minor salivary glands", "E. Thyroid"],
+    "answer": "B",
+    "detail": "The parotid is unique among salivary glands because it normally contains intra-glandular lymph nodes."
+  },
+  {
+    "number": 52,
+    "question": "What is the most common major and minor salivary gland tumor?",
+    "choices": ["A. Warthin’s Tumor", "B. Pleomorphic Adenoma (benign mixed tumor)", "C. Mucoepidermoid Carcinoma", "D. Adenoid Cystic Carcinoma", "E. Lymphoma"],
+    "answer": "B",
+    "detail": "Pleomorphic adenoma is the leading tumor type in both major and minor salivary glands."
+  },
+  {
+    "number": 53,
+    "question": "On MRI, a Pleomorphic Adenoma typically appears:",
+    "choices": ["A. T2 dark", "B. T2 bright with a rim of low signal", "C. T1 bright", "D. Non-enhancing", "E. Calcified"],
+    "answer": "B",
+    "detail": "These benign tumors are characteristically bright on T2 and often have a thin, dark fibrous rim."
+  },
+  {
+    "number": 54,
+    "question": "\"Warthin’s Tumor\" of the parotid characteristically occurs in which demographic?",
+    "choices": ["A. Young women", "B. Males and Smokers", "C. Neonates", "D. Pregnant women", "E. Healthy teenagers"],
+    "answer": "B",
+    "detail": "Warthin's tumor is the second most common benign parotid tumor, strongly associated with male smokers."
+  },
+  {
+    "number": 55,
+    "question": "Which nuclear medicine tracer do Warthin’s tumors \"drink\" (take up)?",
+    "choices": ["A. Octreotide", "B. Pertechnetate", "C. Sulfur Colloid", "D. Thallium", "E. Gallium"],
+    "answer": "B",
+    "detail": "Warthin's tumors characteristically concentrate technetium pertechnetate."
+  },
+  {
+    "number": 56,
+    "question": "Warthin’s tumors are bilateral in what percentage of cases?",
+    "choices": ["A. 1%", "B. 5%", "C. 15%", "D. 50%", "E. 95%"],
+    "answer": "C",
+    "detail": "Bilateral involvement occurs in approximately 15% of Warthin's tumor cases."
+  },
+  {
+    "number": 57,
+    "question": "What is the most common malignant salivary gland tumor of the parotid?",
+    "choices": ["A. Adenoid Cystic", "B. Mucoepidermoid Carcinoma", "C. Squamous Cell", "D. Lymphoma", "E. Fibrosarcoma"],
+    "answer": "B",
+    "detail": "Mucoepidermoid carcinoma is the most frequent histological type of parotid malignancy."
+  },
+  {
+    "number": 58,
+    "question": "\"Adenoid Cystic Carcinoma\" of the salivary glands is famous for:",
+    "choices": ["A. Containing fat", "B. Perineural spread", "C. Being T2 bright", "D. Always being cystic", "E. Spontaneous regression"],
+    "answer": "B",
+    "detail": "Adenoid cystic carcinoma has a notorious propensity for spreading along nerves."
+  },
+  {
+    "number": 59,
+    "question": "If you see BILATERAL homogeneous parotid masses, you should consider:",
+    "choices": ["A. Mucoepidermoid CA", "B. Lymphoma (specifically with Sjogren's risk)", "C. JNA", "D. Inverted papilloma", "E. Abscess"],
+    "answer": "B",
+    "detail": "Sjogren's syndrome patients have a massively increased risk for developing parotid lymphoma."
+  },
+  {
+    "number": 60,
+    "question": "Bilateral mixed solid and cystic parotid lesions in an adult are classic for:",
+    "choices": ["A. Normal aging", "B. HIV (Benign Lymphoepithelial Lesions)", "C. Leukemia", "D. Diabetes", "E. Radiation exposure"],
+    "answer": "B",
+    "detail": "Benign Lymphoepithelial Lesions (BLEL) present as painless parotid swelling in patients with HIV."
+  },
+  {
+    "number": 61,
+    "question": "Parapharyngeal Fat (PPF) displacement is a \"Battle Tactic\" to locate neck masses. Anterior displacement of PPF means the mass is in the:",
+    "choices": ["A. Parotid space", "B. Carotid space", "C. Masticator space", "D. Mucosal space", "E. Thyroid"],
+    "answer": "B",
+    "detail": "Lesions arising from the carotid space characteristically displace the parapharyngeal fat anteriorly."
+  },
+  {
+    "number": 62,
+    "question": "Medial displacement of PPF indicates a mass in the:",
+    "choices": ["A. Carotid space", "B. Parotid space", "C. Retropharyngeal space", "D. Masticator space", "E. Cervical spine"],
+    "answer": "B",
+    "detail": "Parotid space masses push the parapharyngeal fat medially."
+  },
+  {
+    "number": 63,
+    "question": "Posterior-medial displacement of PPF indicates a mass in the:",
+    "choices": ["A. Carotid space", "B. Masticator space", "C. Sublingual space", "D. Prevertebral space", "E. Tongue"],
+    "answer": "B",
+    "detail": "Masticator space lesions displace the parapharyngeal fat posteriorly and medially."
+  },
+  {
+    "number": 64,
+    "question": "What are the three classic tumors found in the Carotid Space?",
+    "choices": ["A. Pleomorphic adenoma, SCC, and JNA", "B. Paraganglioma, Schwannoma, and Neurofibroma", "C. Warthin’s, Mucoepidermoid, and Lymphoma", "D. Thyroid cancer, Teratoma, and Lipoma", "E. Sarcoma, Meningioma, and Chordoma"],
+    "answer": "B",
+    "detail": "Paragangliomas, schwannomas, and neurofibromas are the classic primary tumors of the carotid space."
+  },
+  {
+    "number": 65,
+    "question": "Paragangliomas in the neck are hypervascular and show which MRI appearance?",
+    "choices": ["A. Uniformly dark", "B. \"Salt and Pepper\" (due to flow voids)", "C. \"Target sign\"", "D. \"Snowstorm\"", "E. \"Onion skin\""],
+    "answer": "B",
+    "detail": "High-velocity flow voids within these vascular masses create the distinctive 'salt and pepper' look."
+  },
+  {
+    "number": 66,
+    "question": "Which nuclear medicine agent accumulates in paragangliomas due to somatostatin receptors?",
+    "choices": ["A. Tc-MDP", "B. In-111 Octreotide", "C. I-131", "D. Xenon", "E. Pertechnetate"],
+    "answer": "B",
+    "detail": "Indium-111 Octreotide is highly sensitive for identifying somatostatin-receptor-positive paragangliomas."
+  },
+  {
+    "number": 67,
+    "question": "A \"Carotid Body Tumor\" is a paraganglioma at the carotid bifurcation that:",
+    "choices": ["A. Compresses the ICA and ECA", "B. Splays the ICA and ECA", "C. Is dark on T2", "D. Is not vascular", "E. Occurs only in children"],
+    "answer": "B",
+    "detail": "This tumor typically arises at the carotid bifurcation and splays the internal and external carotid arteries apart."
+  },
+  {
+    "number": 68,
+    "question": "A \"Glomus Jugulare\" is a paraganglioma that characteristically involves:",
+    "choices": ["A. The carotid bifurcation", "B. The skull base (often with jugular foramen destruction)", "C. The middle ear only", "D. The thyroid gland", "E. The orbit"],
+    "answer": "B",
+    "detail": "Glomus jugulare tumors occur at the skull base and often cause bony destruction of the jugular foramen."
+  },
+  {
+    "number": 69,
+    "question": "A \"Glomus Tympanicum\" is confined to the middle ear and described as:",
+    "choices": ["A. Splaying the carotids", "B. \"Overlying the cochlear promontory\" with an intact middle ear floor", "C. Invading the brain stem", "D. T1 bright", "E. Containing teeth"],
+    "answer": "B",
+    "detail": "This paraganglioma is restricted to the middle ear and leaves the floor of the ear intact."
+  },
+  {
+    "number": 70,
+    "question": "A \"Glomus Vagale\" is located:",
+    "choices": ["A. At the carotid bifurcation", "B. Above the carotid bifurcation but below the jugular foramen", "C. Inside the parotid gland", "D. Midline in the tongue", "E. In the orbit"],
+    "answer": "B",
+    "detail": "Glomus vagale is typically located in the carotid space superior to the carotid bifurcation but inferior to the skull base."
+  },
+  {
+    "number": 71,
+    "question": "Schwannomas in the carotid space most commonly arise from which nerve?",
+    "choices": ["A. CN 7", "B. CN 10 (Vagus)", "C. CN 12", "D. Sympathetic trunk", "E. Phrenic nerve"],
+    "answer": "B",
+    "detail": "The vagus nerve is the most frequent source of carotid space schwannomas."
+  },
+  {
+    "number": 72,
+    "question": "Neurofibromas differ from schwannomas because they demonstrate the classic:",
+    "choices": ["A. \"Salt and pepper\" look", "B. \"Target sign\" on T2 (bright rim, dark middle)", "C. Flow voids on Angio", "D. \"Onion skin\" appearance", "E. \"Water lily\" sign"],
+    "answer": "B",
+    "detail": "The 'target sign' on T2-weighted images is characteristic of neurofibromas."
+  },
+  {
+    "number": 73,
+    "question": "Neurofibromas have a strong association with which syndrome?",
+    "choices": ["A. NF-1", "B. NF-2", "C. VHL", "D. Tuberous Sclerosis", "E. Gorlin"],
+    "answer": "A",
+    "detail": "Neurofibromas, particularly the plexiform variety, are a hallmark of Neurofibromatosis Type 1."
+  },
+  {
+    "number": 74,
+    "question": "Carotid space schwannomas are associated with:",
+    "choices": ["A. NF-1", "B. NF-2", "C. VHL", "D. Turner", "E. PHACES"],
+    "answer": "B",
+    "detail": "Schwannomas are primary manifestations of Neurofibromatosis Type 2."
+  },
+  {
+    "number": 75,
+    "question": "\"Lemierre’s Syndrome\" is a thrombophlebitis of the jugular vein associated with:",
+    "choices": ["A. Septic emboli to the lungs after oropharyngeal infection", "B. Brain death", "C. Thyroid cancer", "D. Retinoblastoma", "E. Turner Syndrome"],
+    "answer": "A",
+    "detail": "Lemierre's syndrome involves jugular vein thrombosis and distal septic lung emboli, usually following pharyngitis."
+  },
+  {
+    "number": 76,
+    "question": "Which bacteria is responsible for the majority of Lemierre’s cases?",
+    "choices": ["A. E. coli", "B. Fusobacterium Necrophorum", "C. Staph aureus", "D. TB", "E. Pseudomonas"],
+    "answer": "B",
+    "detail": "Fusobacterium necrophorum is the standard causative organism identified in Lemierre's cases."
+  },
+  {
+    "number": 77,
+    "question": "\"Grisel’s Syndrome\" is defined as torticollis with atlanto-axial joint inflammation seen after:",
+    "choices": ["A. H&N surgery or retropharyngeal abscess", "B. Birth trauma", "C. Smoking", "D. Drinking red wine", "E. Exercise"],
+    "answer": "A",
+    "detail": "Grisel’s is an inflammatory subluxation of the C1-C2 joint following neck infection or procedures."
+  },
+  {
+    "number": 78,
+    "question": "The \"Masticator Space\" contains which muscles?",
+    "choices": ["A. Sternocleidomastoid", "B. Masticator, Temporalis, Medial and Lateral Pterygoids", "C. Geniohyoid", "D. Mylohyoid", "E. Trapezius"],
+    "answer": "B",
+    "detail": "The masticator space houses the muscles responsible for chewing, including the masseter and pterygoids."
+  },
+  {
+    "number": 79,
+    "question": "Which nerve branch is found within the Masticator Space?",
+    "choices": ["A. V1", "B. V2", "C. V3 (Mandibular branch of Trigeminal)", "D. CN 7", "E. CN 12"],
+    "answer": "C",
+    "detail": "The mandibular branch of the trigeminal nerve (V3) travels through the masticator space."
+  },
+  {
+    "number": 80,
+    "question": "Perineural spread along V3 from a head and neck primary should make you think of:",
+    "choices": ["A. Adenoid Cystic Carcinoma or Melanoma", "B. Simple abscess", "C. JNA", "D. Lipoma", "E. Thyroid cyst"],
+    "answer": "A",
+    "detail": "Adenoid cystic carcinoma is the most common tumor associated with extensive perineural tumor spread."
+  },
+  {
+    "number": 81,
+    "question": "The \"Retropharyngeal Space\" extends caudal to the level of:",
+    "choices": ["A. C1", "B. C6-C7", "C. T10", "D. The sacrum", "E. The diaphragm"],
+    "answer": "B",
+    "detail": "The true retropharyngeal space terminates at the level of the lower cervical spine (C6-C7)."
+  },
+  {
+    "number": 82,
+    "question": "The \"Danger Space\" is located posterior to the retropharyngeal space and extends into the:",
+    "choices": ["A. Brain stem", "B. Mediastinum", "C. Pelvis", "D. Orbit", "E. Sigmoid sinus"],
+    "answer": "B",
+    "detail": "The danger space allows for the rapid spread of infection from the neck directly into the mediastinum."
+  },
+  {
+    "number": 83,
+    "question": "\"Nodes of Rouviere\" (lateral retropharyngeal nodes) typically regress by which age?",
+    "choices": ["A. Birth", "B. Age 4", "C. Age 20", "D. They never regress", "E. Only in females"],
+    "answer": "B",
+    "detail": "These nodes are common sites of pediatric infection but usually regress by age 4."
+  },
+  {
+    "number": 84,
+    "question": "A suppurative lateral retropharyngeal node in an ADULT is most likely:",
+    "choices": ["A. Normal", "B. A metastasis (e.g., Squamous cell or Papillary Thyroid)", "C. A primary brain tumor", "D. A simple cold", "E. A variant of JNA"],
+    "answer": "B",
+    "detail": "In adults, a pathological retropharyngeal node is highly suspicious for metastatic disease."
+  },
+  {
+    "number": 85,
+    "question": "Lymph Node Level 2A is distinguished from 2B by its relationship to the:",
+    "choices": ["A. Carotid artery", "B. Internal Jugular Vein (2B is posterior with a fat plane)", "C. Mylohyoid muscle", "D. Tongue base", "E. Clivus"],
+    "answer": "B",
+    "detail": "Level 2B nodes are located posterior to the internal jugular vein and are separated by a fat plane."
+  },
+  {
+    "number": 86,
+    "question": "What is the most common location for Nasopharyngeal Cancer?",
+    "choices": ["A. Cribriform plate", "B. Fossa of Rosenmuller (FOR)", "C. Maxillary sinus", "D. Palatine tonsil", "E. Uvula"],
+    "answer": "B",
+    "detail": "The Fossa of Rosenmuller is the most frequent site of origin for nasopharyngeal SCC."
+  },
+  {
+    "number": 87,
+    "question": "The \"Earliest Sign\" of nasopharyngeal SCC on imaging is:",
+    "choices": ["A. Bony destruction", "B. Effacement of the fat within the Fossa of Rosenmuller", "C. Metastasis to the liver", "D. Blindness", "E. A \"snowstorm\" appearance"],
+    "answer": "B",
+    "detail": "The earliest radiographic sign is the loss of the normal fat plane within the Fossa of Rosenmuller."
+  },
+  {
+    "number": 88,
+    "question": "Nodal metastases are present in what percentage of nasopharyngeal tumors?",
+    "choices": ["A. 10%", "B. 50%", "C. 75%", "D. 90%", "E. 100%"],
+    "answer": "D",
+    "detail": "90% of patients with nasopharyngeal carcinoma already have nodal metastases at the time of diagnosis."
+  },
+  {
+    "number": 89,
+    "question": "Unilateral mastoid effusion or a pathologic retropharyngeal node should prompt you to look at:",
+    "choices": ["A. The orbit", "B. The Fossa of Rosenmuller (for cancer)", "C. The thyroid", "D. The heart", "E. The kidney"],
+    "answer": "B",
+    "detail": "Obstruction of the Eustachian tube by a nasopharyngeal mass can cause a unilateral mastoid effusion."
+  },
+  {
+    "number": 90,
+    "question": "About 30% of patients with nasopharyngeal tumors have erosion of the:",
+    "choices": ["A. Mandible", "B. Skull base (Clivus)", "C. C7 vertebra", "D. First rib", "E. Orbital floor"],
+    "answer": "B",
+    "detail": "Skull base invasion, particularly of the clivus, is common with aggressive nasopharyngeal cancers."
+  },
+  {
+    "number": 91,
+    "question": "\"Hoarseness\" is a classic buzzword that should prompt evaluation of the:",
+    "choices": ["A. Larynx (Cancer) and the AP Window (Recurrent Laryngeal Nerve)", "B. Internal auditory canal", "C. Maxillary sinus", "D. Pituitary gland", "E. Sublingual space"],
+    "answer": "A",
+    "detail": "Hoarseness can result from a primary laryngeal cancer or compression of the recurrent laryngeal nerve."
+  },
+  {
+    "number": 92,
+    "question": "If you see left vocal cord paralysis, you MUST look at the:",
+    "choices": ["A. Right ear", "B. Chest/AP Window (for mass or aortic path)", "C. Sigmoid colon", "D. Pelvis", "E. Liver"],
+    "answer": "B",
+    "detail": "The left recurrent laryngeal nerve loops through the AP window, making it vulnerable to thoracic pathology."
+  },
+  {
+    "number": 93,
+    "question": "\"Retinoblastoma\" is the most common primary malignancy of the globe; its hallmark on CT is:",
+    "choices": ["A. Macroscopic fat", "B. Calcification in the globe of a child", "C. Purely cystic appearance", "D. High T1 signal", "E. Air-fluid levels"],
+    "answer": "B",
+    "detail": "Intra-ocular calcification in a child is diagnostic for retinoblastoma until proven otherwise."
+  },
+  {
+    "number": 94,
+    "question": "\"Trilateral\" retinoblastoma involves both eyes and the:",
+    "choices": ["A. Spleen", "B. Pineal gland", "C. Liver", "D. Kidney", "E. Thyroid"],
+    "answer": "B",
+    "detail": "Trilateral disease is defined as bilateral retinoblastomas plus a pineal gland tumor."
+  },
+  {
+    "number": 95,
+    "question": "\"Coats’ Disease\" is a differential for retinoblastoma but is distinguished by:",
+    "choices": ["A. Large calcifications", "B. A smaller globe and NO calcification", "C. Being bilateral 90% of the time", "D. Being found only in adults", "E. Fat content"],
+    "answer": "B",
+    "detail": "Unlike retinoblastoma, Coats' disease typically results in a small eye and lacks calcification."
+  },
+  {
+    "number": 96,
+    "question": "What is the most common intra-ocular lesion in an adult?",
+    "choices": ["A. Retinoblastoma", "B. Melanoma", "C. Metastasis from lung", "D. Optic nerve glioma", "E. Hemangioma"],
+    "answer": "B",
+    "detail": "Uveal melanoma is the leading primary intra-ocular malignancy in the adult population."
+  },
+  {
+    "number": 97,
+    "question": "Adult ocular melanomas have a strong predilection for metastases to the:",
+    "choices": ["A. Brain", "B. Liver (Next Step = Liver MRI)", "C. Bone", "D. Lung", "E. Breast"],
+    "answer": "B",
+    "detail": "Ocular melanoma spreads hematogenously, favoring the liver over other organs."
+  },
+  {
+    "number": 98,
+    "question": "Bilateral optic nerve gliomas are a \"reflex\" diagnosis for:",
+    "choices": ["A. NF-1", "B. NF-2", "C. VHL", "D. Tuberous Sclerosis", "E. McCune Albright"],
+    "answer": "A",
+    "detail": "Bilateral optic pathway gliomas are a hallmark finding of Neurofibromatosis Type 1."
+  },
+  {
+    "number": 99,
+    "question": "\"Tram-track\" calcifications along the optic nerve are the buzzword for:",
+    "choices": ["A. Optic nerve glioma", "B. Optic Nerve Sheath Meningioma", "C. Ocular melanoma", "D. Retinoblastoma", "E. Dermoid"],
+    "answer": "B",
+    "detail": "Meningioma of the optic nerve sheath characteristically shows tram-track calcification on CT."
+  },
+  {
+    "number": 100,
+    "question": "\"Coloboma\" of the globe, when bilateral, is a part of which syndrome?",
+    "choices": ["A. VHL", "B. CHARGE", "C. NF-1", "D. NF-2", "E. PHACES"],
+    "answer": "B",
+    "detail": "Coloboma is the 'C' in CHARGE syndrome, often associated with other midline anomalies."
+  }
+]
+}

@@ -1,0 +1,707 @@
+{
+    "questions": 
+  
+[
+  {
+    "number": 1,
+    "question": "A geographic lytic lesion with a sclerotic margin is identified at the intertrochanteric region of the femur. If this is a Liposclerosing Myxofibroma (LSMF), what is the risk of malignant degeneration?",
+    "choices": ["A. < 1%", "B. 5%", "C. 10%", "D. 25%", "E. 50%"],
+    "answer": "C",
+    "detail": "Liposclerosing Myxofibroma (LSMF) has a roughly 10% risk of malignant transformation."
+  },
+  {
+    "number": 2,
+    "question": "Where is the most characteristic location for a Liposclerosing Myxofibroma?",
+    "choices": ["A. Proximal humerus", "B. Intertrochanteric region of the femur", "C. Distal femoral metaphysis", "D. Calcaneal tuberosity", "E. Tibial diaphysis"],
+    "answer": "B",
+    "detail": "The intertrochanteric region of the femur is the classic and most common site for LSMF."
+  },
+  {
+    "number": 3,
+    "question": "Which of the following is true regarding Osteochondromas?",
+    "choices": ["A. They are the only benign skeletal tumor associated with radiation", "B. They typically point toward the joint", "C. Marrow does not communicate with the lesion", "D. They occur most commonly in the spine", "E. They are always symptomatic"],
+    "answer": "A",
+    "detail": "Osteochondroma is the only benign skeletal tumor that is characteristically radiation-induced."
+  },
+  {
+    "number": 4,
+    "question": "A cartilage cap thickness greater than what threshold is considered concerning for malignant transformation of an osteochondroma?",
+    "choices": ["A. 0.5 cm", "B. 1.0 cm", "C. 1.5 cm", "D. 2.0 cm", "E. 5.0 cm"],
+    "answer": "C",
+    "detail": "A cartilage cap thickness exceeding 1.5 cm is a recognized imaging threshold for suspected malignant transformation."
+  },
+  {
+    "number": 5,
+    "question": "Which vascular complication is classically associated with an osteochondroma poking a nearby vessel?",
+    "choices": ["A. Aneurysm of the femoral artery", "B. Pseudoaneurysm of the popliteal artery", "C. Thrombosis of the tibial vein", "D. AV fistula of the brachial artery", "E. Dissection of the iliac artery"],
+    "answer": "B",
+    "detail": "Osteochondromas in the knee region can irritate adjacent vessels, classically causing a popliteal artery pseudoaneurysm."
+  },
+  {
+    "number": 6,
+    "question": "Trevor Disease (Dysplasia Epiphysealis Hemimelica) is characterized by osteochondromas that:",
+    "choices": ["A. Point away from the joint", "B. Originate from the diaphysis", "C. Point into the joint", "D. Are most common in the spine", "E. Never cause joint deformity"],
+    "answer": "C",
+    "detail": "Unlike classic osteochondromas, those in Trevor disease (DEH) point into the joint space."
+  },
+  {
+    "number": 7,
+    "question": "Where is Trevor Disease (DEH) most commonly located?",
+    "choices": ["A. Shoulder and Elbow", "B. Ankle and Knee", "C. Wrist and Hand", "D. Hip and Pelvis", "E. Cervical spine"],
+    "answer": "B",
+    "detail": "The ankle and knee are the most frequent sites involved in Trevor disease."
+  },
+  {
+    "number": 8,
+    "question": "A Supracondylar Spur (Avian Spur) points toward the joint. Which structure can 'smash' the median nerve against this spur?",
+    "choices": ["A. Ligament of Struthers", "B. Arcade of Frohse", "C. Lacertus fibrosis", "D. Transverse carpal ligament", "E. Osborne’s ligament"],
+    "answer": "A",
+    "detail": "The Ligament of Struthers connects the avian spur to the medial epicondyle, potentially compressing the median nerve."
+  },
+  {
+    "number": 9,
+    "question": "A 10-year-old child presents with a cartilaginous lesion in the finger showing 'saucerization' of the adjacent cortex. What is the most likely diagnosis?",
+    "choices": ["A. Osteoid osteoma", "B. Enchondroma", "C. Periosteal Chondroma", "D. Non-ossifying fibroma", "E. Giant cell tumor"],
+    "answer": "C",
+    "detail": "Periosteal chondroma is a classic childhood cartilaginous lesion that causes saucerization of the underlying cortex."
+  },
+  {
+    "number": 10,
+    "question": "Which lesion is found exclusively in the tibia or fibula of children (<10) and is associated with anterior tibial bowing?",
+    "choices": ["A. Fibrous dysplasia", "B. Osteofibrous Dysplasia", "C. Adamantinoma", "D. Simple bone cyst", "E. Cortical desmoid"],
+    "answer": "B",
+    "detail": "Osteofibrous Dysplasia is localized to the tibia/fibula in young children and characteristically presents with anterior bowing."
+  },
+  {
+    "number": 11,
+    "question": "Osteofibrous Dysplasia cannot be reliably differentiated on imaging from which potentially malignant lesion?",
+    "choices": ["A. Osteosarcoma", "B. Ewing Sarcoma", "C. Adamantinoma", "D. Chondrosarcoma", "E. Lymphoma"],
+    "answer": "C",
+    "detail": "Adamantinoma and Osteofibrous Dysplasia are often indistinguishable by imaging alone."
+  },
+  {
+    "number": 12,
+    "question": "A 'Scoop-like defect' with an irregular but intact cortex along the posterior medial distal femoral metaphysis is a:",
+    "choices": ["A. Pitt’s Pit", "B. Cortical Desmoid", "C. Osteoid osteoma", "D. Fibrous cortical defect", "E. Brodie abscess"],
+    "answer": "B",
+    "detail": "A cortical desmoid is a scoop-like defect at the posterior medial distal femoral metaphysis."
+  },
+  {
+    "number": 13,
+    "question": "What is the appropriate management for a classic Cortical Desmoid identified on a lateral knee radiograph?",
+    "choices": ["A. MRI with contrast", "B. Percutaneous biopsy", "C. Surgical resection", "D. 'Don’t touch' / Leave it alone", "E. 3-month follow-up radiographs"],
+    "answer": "D",
+    "detail": "The cortical desmoid is a classic 'Don’t Touch' lesion and requires no further intervention."
+  },
+  {
+    "number": 14,
+    "question": "A Cortical Desmoid is thought to be a chronic 'tug lesion' from which muscle?",
+    "choices": ["A. Sartorius", "B. Rectus femoris", "C. Adductor magnus or medial gastrocnemius", "D. Iliopsoas", "E. Biceps femoris"],
+    "answer": "C",
+    "detail": "It is an avulsive 'tug lesion' resulting from repetitive stress of the adductor magnus or medial gastrocnemius."
+  },
+  {
+    "number": 15,
+    "question": "What is the most abundant form of calcium in bone and the cause of 'Calcific Tendinitis'?",
+    "choices": ["A. Calcium pyrophosphate", "B. Calcium Hydroxyapatite", "C. Urate", "D. Calcium oxalate", "E. Monosodium urate"],
+    "answer": "B",
+    "detail": "Calcium Hydroxyapatite is the mineral involved in hydroxyapatite deposition disease (HADD)."
+  },
+  {
+    "number": 16,
+    "question": "Where is the most frequent site of calcification in Calcium Hydroxyapatite Deposition Disease (HADD)?",
+    "choices": ["A. Achilles tendon", "B. Supraspinatus tendon", "C. Patellar tendon", "D. Plantar fascia", "E. Common flexor tendon"],
+    "answer": "B",
+    "detail": "The supraspinatus tendon is the most frequent site for HADD."
+  },
+  {
+    "number": 17,
+    "question": "Calcific tendinitis of the Longus Colli muscle occurs at which level?",
+    "choices": ["A. C1-C2", "B. Anterior to Atlas -> T3", "C. C7-T1", "D. Posterior elements of C2", "E. Inferior to the hyoid"],
+    "answer": "B",
+    "detail": "Longus Colli calcification typically occurs at the C1-C2 level, anterior to the atlas/axis."
+  },
+  {
+    "number": 18,
+    "question": "Which of the following is NOT a known secondary cause of HADD?",
+    "choices": ["A. Chronic renal disease", "B. Collagen-vascular disease", "C. Tumoral calcinosis", "D. Hypervitaminosis D", "E. Hypoparathyroidism"],
+    "answer": "E",
+    "detail": "Secondary HADD is associated with renal disease and hypercalcemic states; hypoparathyroidism is not a known cause."
+  },
+  {
+    "number": 19,
+    "question": "Osteopoikilosis is characterized by 'bone islands' that are typically:",
+    "choices": ["A. Diaphyseal-centered", "B. Joint-centered (clustered around epiphyses)", "C. Diffuse throughout the medullary canal", "D. Midline only", "E. Limited to the skull"],
+    "answer": "B",
+    "detail": "Osteopoikilosis consists of multiple bone islands clustered near the joints and epiphyses."
+  },
+  {
+    "number": 20,
+    "question": "Patients with Osteopoikilosis are testably known to be:",
+    "choices": ["A. Prone to deafness", "B. Keloid formers", "C. Diabetic", "D. High risk for osteosarcoma", "E. Prone to optic nerve compression"],
+    "answer": "B",
+    "detail": "There is a testable clinical association between osteopoikilosis and the formation of keloids."
+  },
+  {
+    "number": 21,
+    "question": "'Osteopathia Striata' is characterized by linear, parallel, and longitudinal lines in which part of the bone?",
+    "choices": ["A. Epiphysis", "B. Metaphysis", "C. Diaphysis", "D. Cortex", "E. Apophysis"],
+    "answer": "B",
+    "detail": "Osteopathia striata presents as longitudinal striations in the metaphyses."
+  },
+  {
+    "number": 22,
+    "question": "Engelmann’s Disease (Progressive Diaphyseal Dysplasia) shows fusiform bony enlargement and sclerosis of the:",
+    "choices": ["A. Metaphyses", "B. Diaphyses", "C. Epiphyses", "D. Carpals", "E. Tarsals"],
+    "answer": "B",
+    "detail": "Engelmann’s involves fusiform enlargement and sclerosis of the diaphyses."
+  },
+  {
+    "number": 23,
+    "question": "Which statement is true regarding Engelmann’s Disease?",
+    "choices": ["A. It is unilateral and asymmetric", "B. It is cold on bone scan", "C. It can involve the skull and cause optic nerve compression", "D. It begins in late adulthood", "E. It favors the small bones of the hands"],
+    "answer": "C",
+    "detail": "Engelmann’s can involve the skull, leading to severe complications like optic nerve compression."
+  },
+  {
+    "number": 24,
+    "question": "In the setting of MSK soft tissue masses, what percentage can be accurately diagnosed on MRI alone?",
+    "choices": ["A. 5-10%", "B. 20-30%", "C. 50%", "D. 75%", "E. 95%"],
+    "answer": "B",
+    "detail": "Only about 20-30% of MSK soft tissue masses can be accurately diagnosed based solely on MRI."
+  },
+  {
+    "number": 25,
+    "question": "Malignant Fibrous Histiocytoma (MFH), now called Pleomorphic Undifferentiated Sarcoma, is classically seen in which patient population?",
+    "choices": ["A. Infants", "B. Children", "C. Young adults", "D. Old people", "E. Pregnant women"],
+    "answer": "D",
+    "detail": "MFH/PUS is a common primary soft tissue sarcoma in the elderly."
+  },
+  {
+    "number": 26,
+    "question": "Half of the time, MFH/PUS is described as being _________ on T2-weighted MRI.",
+    "choices": ["A. Extremely bright", "B. Dark to intermediate (fibrous)", "C. Isointense to fat", "D. Bright as water", "E. Completely signal-void"],
+    "answer": "B",
+    "detail": "MFH often has a dark to intermediate signal on T2 because of its high fibrous content."
+  },
+  {
+    "number": 27,
+    "question": "A 70-year-old female presents with a large hematoma in the thigh after simply standing up from a chair. A underlying mass is suspected. What is the most likely diagnosis?",
+    "choices": ["A. Hemangioma", "B. Synovial Sarcoma", "C. Malignant Fibrous Histiocytoma (MFH/PUS)", "D. Lipoma", "E. Myxoma"],
+    "answer": "C",
+    "detail": "Spontaneous hematomas in elderly patients should raise suspicion for an underlying MFH/PUS."
+  },
+  {
+    "number": 28,
+    "question": "Which of the following is a risk factor for MFH/PUS?",
+    "choices": ["A. Diabetes", "B. Prior radiation", "C. High cholesterol", "D. Smoking", "E. Vitamin D deficiency"],
+    "answer": "B",
+    "detail": "Prior radiation is a well-documented risk factor for the development of MFH/PUS."
+  },
+  {
+    "number": 29,
+    "question": "Synovial Sarcoma is most commonly found in which location?",
+    "choices": ["A. Central (Proximal arms and legs)", "B. Peripheral lower extremities (Foot, Knee)", "C. Midline spine", "D. Retroperitoneum", "E. Skull base"],
+    "answer": "B",
+    "detail": "Synovial Sarcoma classically presents in the peripheral lower extremities, particularly the foot and knee."
+  },
+  {
+    "number": 30,
+    "question": "Which 'gamesmanship' point regarding Synovial Sarcoma is frequently tested on multiple choice exams?",
+    "choices": ["A. They always involve the joint", "B. For the purpose of the test, they 'never involve the joint'", "C. They are always painless", "D. They never attack bones", "E. They are always larger than 10 cm"],
+    "answer": "B",
+    "detail": "A common board trick is that despite its name, synovial sarcoma rarely arises within the joint itself."
+  },
+  {
+    "number": 31,
+    "question": "A 'Triple Sign' on T2-weighted MRI (high, medium, and low signal in the same mass) is suggestive of:",
+    "choices": ["A. MFH", "B. Synovial Sarcoma", "C. Liposarcoma", "D. Hemangioma", "E. Myxoma"],
+    "answer": "B",
+    "detail": "The 'Triple Sign' of mixed T2 signal intensities is a hallmark of Synovial Sarcoma."
+  },
+  {
+    "number": 32,
+    "question": "The 'Bowl of Grapes' sign on MRI refers to a bunch of fluid-fluid levels in which mass?",
+    "choices": ["A. Aneurysmal Bone Cyst", "B. Synovial Sarcoma", "C. Giant Cell Tumor", "D. Telangiectatic Osteosarcoma", "E. All of the above"],
+    "answer": "E",
+    "detail": "Multiple fluid-fluid levels ('bowl of grapes') are seen in several aggressive lesions including Synovial Sarcoma and Telangiectatic OS."
+  },
+  {
+    "number": 33,
+    "question": "What percentage of Synovial Sarcomas have a translocation of X-18?",
+    "choices": ["A. 10%", "B. 25%", "C. 50%", "D. 75%", "E. 90%"],
+    "answer": "E",
+    "detail": "Roughly 90% of Synovial Sarcomas demonstrate an X-18 translocation."
+  },
+  {
+    "number": 34,
+    "question": "Which is the most common malignancy in teens and young adults of the foot and ankle?",
+    "choices": ["A. Osteosarcoma", "B. Ewing Sarcoma", "C. Synovial Sarcoma", "D. Liposarcoma", "E. Rhabdomyosarcoma"],
+    "answer": "C",
+    "detail": "Synovial Sarcoma is the #1 malignancy for teens and young adults in the foot/ankle."
+  },
+  {
+    "number": 35,
+    "question": "A Baker’s Cyst MUST be located between which two structures?",
+    "choices": ["A. Biceps femoris and Lateral head of gastrocnemius", "B. Medial head of the gastrocnemius and semimembranosus", "C. Sartorius and Gracilis", "D. ACL and PCL", "E. Quadriceps and Patellar tendons"],
+    "answer": "B",
+    "detail": "A true Baker’s cyst is always between the medial gastrocnemius and semimembranosus."
+  },
+  {
+    "number": 36,
+    "question": "If a popliteal fossa mass is NOT located between the gastrocnemius and semimembranosus, what should you suspect?",
+    "choices": ["A. Normal variant", "B. Synovial Sarcoma", "C. Ganglion cyst", "D. Lipoma", "E. Abscess"],
+    "answer": "B",
+    "detail": "If a mass is in the 'wrong spot' for a Baker's cyst, radiologists must suspect a Synovial Sarcoma."
+  },
+  {
+    "number": 37,
+    "question": "Liposarcomas tend to be:",
+    "choices": ["A. Superficial and Small", "B. Deep (retroperitoneum) and BIG", "C. Found in the fingers and toes", "D. Always T2 dark", "E. Associated with high cholesterol"],
+    "answer": "B",
+    "detail": "Liposarcomas are typically deep-seated and significantly larger than benign lipomas."
+  },
+  {
+    "number": 38,
+    "question": "Which type of Liposarcoma is most common in patients under age 20 and can be T1 dark (mimicking a cyst)?",
+    "choices": ["A. Well-differentiated", "B. Pleomorphic", "C. Myxoid Liposarcoma", "D. Dedifferentiated", "E. Round cell"],
+    "answer": "C",
+    "detail": "Myxoid liposarcoma is the most common subtype in young patients and can mimic a cyst on T1."
+  },
+  {
+    "number": 39,
+    "question": "Hemangiomas are common and can be identified on MRI by the presence of:",
+    "choices": ["A. 'Bowl of grapes'", "B. Flow voids and Fat", "C. 'Triple sign'", "D. 'Yo-yo' appearance", "E. 'Celery stalk' appearance"],
+    "answer": "B",
+    "detail": "Intralesional fat and flow voids are the identifying MRI characteristics of soft tissue hemangiomas."
+  },
+  {
+    "number": 40,
+    "question": "If a test writer asks for a 'Next Step' to confirm a diagnosis of soft tissue hemangioma, which imaging should be ordered?",
+    "choices": ["A. Ultrasound", "B. CT with IV contrast", "C. Plain film to look for phleboliths", "D. Bone scan", "E. PET/CT"],
+    "answer": "C",
+    "detail": "Finding phleboliths on a plain radiograph is diagnostic for a soft tissue hemangioma."
+  },
+  {
+    "number": 41,
+    "question": "Mazabraud Syndrome consists of Polyostotic Fibrous Dysplasia and:",
+    "choices": ["A. Precocious puberty", "B. Multiple Soft Tissue Myxomas", "C. Multiple hemangiomas", "D. Osteochondromas", "E. Optic nerve compression"],
+    "answer": "B",
+    "detail": "Mazabraud Syndrome is the association of polyostotic FD and multiple soft tissue myxomas."
+  },
+  {
+    "number": 42,
+    "question": "Myxomas on MRI are T2 bright but are unique because on T1-weighted images they are:",
+    "choices": ["A. Brighter than fat", "B. Lower signal than muscle", "C. Signal-void", "D. Isointense to yellow marrow", "E. Heterogeneously T1 bright"],
+    "answer": "B",
+    "detail": "Myxomas have a uniquely low T1 signal, typically lower than that of muscle."
+  },
+  {
+    "number": 43,
+    "question": "Pigmented Villonodular Synovitis (PVNS) is characterized by synovial proliferation and deposition of:",
+    "choices": ["A. Calcium hydroxyapatite", "B. Hemosiderin", "C. Uric acid", "D. Fat", "E. Cartilage"],
+    "answer": "B",
+    "detail": "PVNS involves neoplastic synovial proliferation and deposition of hemosiderin."
+  },
+  {
+    "number": 44,
+    "question": "Which MRI sequence is pathognomonic for identifying PVNS?",
+    "choices": ["A. T1-weighted", "B. T2-weighted fat-saturated", "C. Gradient Echo (showing blooming)", "D. STIR", "E. DWI"],
+    "answer": "C",
+    "detail": "Hemosiderin deposition causes characteristic blooming on gradient echo sequences."
+  },
+  {
+    "number": 45,
+    "question": "Giant Cell Tumor of the Tendon Sheath (PVNS of the tendon) is typically found in the hand and is ________ on both T1 and T2 images.",
+    "choices": ["A. Bright", "B. Dark", "C. Isointense to fat", "D. Fluid-signal", "E. Target-like"],
+    "answer": "B",
+    "detail": "GCT of the tendon sheath appears characteristically dark on both T1 and T2 images."
+  },
+  {
+    "number": 46,
+    "question": "How does Primary Synovial Chondromatosis differ from the secondary type?",
+    "choices": ["A. Primary is monoarticular; secondary is polyarticular", "B. Primary bodies are multiple, small, and uniform in size", "C. Secondary occurs in children; primary in adults", "D. Primary is caused by trauma; secondary by metaplasia", "E. There is no imaging difference"],
+    "answer": "B",
+    "detail": "Primary synovial chondromatosis bodies are numerous, small, and uniform; secondary bodies are fewer and varying sizes."
+  },
+  {
+    "number": 47,
+    "question": "Which joint is most commonly affected by Primary Synovial Chondromatosis?",
+    "choices": ["A. Hip", "B. Shoulder", "C. Knee (70%)", "D. Elbow", "E. Wrist"],
+    "answer": "C",
+    "detail": "The knee is the #1 joint involved in primary synovial chondromatosis (70% of cases)."
+  },
+  {
+    "number": 48,
+    "question": "Diabetic Myonecrosis most commonly involves which muscle group?",
+    "choices": ["A. Biceps", "B. Calf", "C. Thigh (80%)", "D. Paraspinals", "E. Forearm"],
+    "answer": "C",
+    "detail": "Diabetic myonecrosis characteristically targets the thigh muscles in 80% of cases."
+  },
+  {
+    "number": 49,
+    "question": "What is the recommended 'Next Step' when Diabetic Myonecrosis is suspected on MRI?",
+    "choices": ["A. Biopsy to confirm infarction", "B. Surgical debridement", "C. Do NOT biopsy (it delays recovery/increases complications)", "D. Emergent MRI with Gadolinium", "E. PET scan to rule out infection"],
+    "answer": "C",
+    "detail": "Biopsy is contraindicated in suspected diabetic myonecrosis as it significantly delays healing."
+  },
+  {
+    "number": 50,
+    "question": "'Lipoma Arborescens' is characterized by 'frond-like' deposition of fatty tissue in the:",
+    "choices": ["A. Acetabular labrum", "B. Bicipital groove", "C. Suprapatellar bursa of the knee", "D. Tarsal tunnel", "E. Subacromial bursa"],
+    "answer": "C",
+    "detail": "Lipoma Arborescens is pathognomonic when seen as fatty fronds in the suprapatellar bursa."
+  },
+  {
+    "number": 51,
+    "question": "Lipoma Arborescens is frequently associated with which chronic condition?",
+    "choices": ["A. Diabetes", "B. Osteoarthritis", "C. Gout", "D. Scurvy", "E. Hypercalcemia"],
+    "answer": "B",
+    "detail": "Lipoma Arborescens is frequently identified in the setting of chronic Osteoarthritis."
+  },
+  {
+    "number": 52,
+    "question": "'Laying Fluid-Calcium levels' on CT near a joint (Hip, Elbow, Shoulder) suggests:",
+    "choices": ["A. Metastatic calcification", "B. Tumoral Calcinosis", "C. Synovial Sarcoma", "D. Gout", "E. PVNS"],
+    "answer": "B",
+    "detail": "Sedimented fluid-calcium levels on CT near a large joint are diagnostic for Tumoral Calcinosis."
+  },
+  {
+    "number": 53,
+    "question": "Tumoral Calcinosis is caused by a hereditary problem in the metabolism of:",
+    "choices": ["A. Calcium", "B. Phosphate", "C. Uric acid", "D. Vitamin D", "E. Iron"],
+    "answer": "B",
+    "detail": "Tumoral Calcinosis results from an inherited defect in phosphate metabolism."
+  },
+  {
+    "number": 54,
+    "question": "Metastatic Calcification differs from Tumoral Calcinosis because it involves:",
+    "choices": ["A. Patients with hypercalcemia (Renal failure/Hyper-PTH)", "B. Intra-articular nodules", "C. Only the knee", "D. A 'bowl of grapes' look", "E. A 'triple sign' on T2"],
+    "answer": "A",
+    "detail": "Metastatic calcification occurs in states of hypercalcemia, whereas tumoral calcinosis occurs with normal serum calcium."
+  },
+  {
+    "number": 55,
+    "question": "Which 'Don’t Touch' lesion can look scary on MRI early on due to edema but eventually shows circumferential calcification?",
+    "choices": ["A. Cortical desmoid", "B. Myositis Ossificans", "C. Avulsion injury", "D. Pitt’s Pit", "E. Osteoid osteoma"],
+    "answer": "B",
+    "detail": "Myositis Ossificans classically demonstrates circumferential 'zoning' calcification with a lucent center."
+  },
+  {
+    "number": 56,
+    "question": "A 'Pitt’s Pit' (synovial herniation pit) is found in the anterosuperior femoral neck and is associated with:",
+    "choices": ["A. Perthes disease", "B. Femoroacetabular Impingement (FAI)", "C. Avascular necrosis", "D. Osteomyelitis", "E. RA"],
+    "answer": "B",
+    "detail": "Pitt’s Pits in the femoral neck are commonly associated with Femoroacetabular Impingement (FAI)."
+  },
+  {
+    "number": 57,
+    "question": "When performing a bone biopsy of the pelvis, which muscle should be avoided to preserve it for reconstruction?",
+    "choices": ["A. Iliopsoas", "B. Gluteal muscles", "C. Adductors", "D. Hamstrings", "E. Rectus femoris"],
+    "answer": "B",
+    "detail": "The gluteal muscles must not be crossed during biopsy to preserve them for surgical reconstruction."
+  },
+  {
+    "number": 58,
+    "question": "In a shoulder biopsy, why is the posterior 2/3rd of the joint avoided?",
+    "choices": ["A. Seeding the rotator cuff", "B. Axillary nerve injury (denervating the anterior 1/3)", "C. Pneumothorax risk", "D. Tearing the posterior labrum", "E. Hitting the brachial artery"],
+    "answer": "B",
+    "detail": "The axillary nerve is at risk in the posterior 2/3rds; injury will denervate the anterior shoulder."
+  },
+  {
+    "number": 59,
+    "question": "In a knee biopsy, which structure should you avoid crossing?",
+    "choices": ["A. Patellar tendon", "B. Quadriceps tendon (unless involved)", "C. ACL", "D. MCL", "E. Popliteus"],
+    "answer": "B",
+    "detail": "Avoid crossing the quadriceps tendon during a knee biopsy."
+  },
+  {
+    "number": 60,
+    "question": "A patient presents with 'Hair-on-end' skull and 'rodent faces.' This is classic for:",
+    "choices": ["A. Sickle Cell Disease", "B. Thalassemia", "C. Paget Disease", "D. Osteopetrosis", "E. Hyperparathyroidism"],
+    "answer": "B",
+    "detail": "The 'rodent face' appearance due to marrow expansion is a classic feature of Thalassemia."
+  },
+  {
+    "number": 61,
+    "question": "Thalassemia can be distinguished from Sickle Cell on skull films because it:",
+    "choices": ["A. Sparaes the sinuses", "B. Obliterates the sinuses", "C. Involves the mandible", "D. Is only seen in women", "E. Causes 'H-shaped' vertebrae"],
+    "answer": "B",
+    "detail": "Unlike Sickle Cell, Thalassemia-related marrow expansion characteristically obliterates the paranasal sinuses."
+  },
+  {
+    "number": 62,
+    "question": "On MRI, the 'Double Line Sign' of AVN of the hip is best seen on which sequence?",
+    "choices": ["A. T1", "B. T2-weighted", "C. STIR", "D. GRE", "E. Post-contrast T1"],
+    "answer": "B",
+    "detail": "The 'Double Line Sign' of hip AVN is a classic T2-weighted MRI finding."
+  },
+  {
+    "number": 63,
+    "question": "A 'Crescent Sign' on a frog-leg lateral hip radiograph indicates:",
+    "choices": ["A. Normal variant", "B. Imminent collapse", "C. Early stage edema", "D. Septic arthritis", "E. Healed infarct"],
+    "answer": "B",
+    "detail": "The subchondral lucency (crescent sign) indicates imminent articular collapse in AVN."
+  },
+  {
+    "number": 64,
+    "question": "Which phrase should 'immediately' make a radiologist say Paget disease?",
+    "choices": ["A. 'Fallen fragment'", "B. 'Wide bones with thick trabecula'", "C. 'Ground glass matrix'", "D. 'Double line sign'", "E. 'Sunburst periosteal reaction'"],
+    "answer": "B",
+    "detail": "'Wide bones with thick trabeculae' is the hallmark radiographic phrase for Paget Disease."
+  },
+  {
+    "number": 65,
+    "question": "What is the most common complication of Paget disease?",
+    "choices": ["A. High output CHF", "B. Osteosarcoma", "C. Deafness", "D. Spinal stenosis", "E. Pathologic fracture"],
+    "answer": "C",
+    "detail": "Deafness is the most frequent complication of Paget’s due to bone overgrowth in the skull."
+  },
+  {
+    "number": 66,
+    "question": "'Blade of Grass' or 'Flame Sign' describes Paget disease in:",
+    "choices": ["A. The skull", "B. Long bones", "C. The spine", "D. The pelvis", "E. Small bones of the hand"],
+    "answer": "B",
+    "detail": "The 'blade of grass' sign describes the advancing lytic margin in long bones."
+  },
+  {
+    "number": 67,
+    "question": "'Osteoporosis Circumscripta' describes Paget in:",
+    "choices": ["A. The Femur", "B. The Skull", "C. The Spine", "D. The Tibia", "E. The Scapula"],
+    "answer": "B",
+    "detail": "'Osteoporosis circumscripta' is the specific term for the lytic phase of Paget’s involving the skull."
+  },
+  {
+    "number": 68,
+    "question": "A 'Picture Frame Vertebra' is caused by cortical thickening on all 4 sides and is seen in:",
+    "choices": ["A. Renal Osteodystrophy", "B. Paget and Osteopetrosis", "C. Sickle Cell Anemia", "D. Multiple Myeloma", "E. Leukemia"],
+    "answer": "B",
+    "detail": "Both Paget and Osteopetrosis produce the characteristic picture-frame vertebral body."
+  },
+  {
+    "number": 69,
+    "question": "'Rugger Jersey Spine' (sclerosis of top and bottom only) is characteristic of:",
+    "choices": ["A. Paget disease", "B. Renal Osteodystrophy", "C. Thalassemia", "D. Sickle Cell", "E. Ankylosing Spondylitis"],
+    "answer": "B",
+    "detail": "'Rugger Jersey' spine is pathognomonic for Renal Osteodystrophy."
+  },
+  {
+    "number": 70,
+    "question": "'H-Shaped Vertebra' is a buzzword for:",
+    "choices": ["A. Paget", "B. Sickle Cell Anemia", "C. Thalassemia", "D. Gauchers", "E. B and D"],
+    "answer": "E",
+    "detail": "H-shaped vertebrae from microvascular endplate infarcts are classic for Sickle Cell and Gaucher's disease."
+  },
+  {
+    "number": 71,
+    "question": "On MRI, the best sequence for distinguishing Malignant Transformation from Active Paget is:",
+    "choices": ["A. STIR", "B. T2", "C. T1 Pre-contrast", "D. Post-contrast T1", "E. DWI"],
+    "answer": "C",
+    "detail": "The loss of normal T1 fatty marrow signal is the key to identifying malignant transformation in Paget’s."
+  },
+  {
+    "number": 72,
+    "question": "What is the most common bone involved in Paget disease?",
+    "choices": ["A. Skull", "B. Spine", "C. Pelvis", "D. Femur", "E. Clavicle"],
+    "answer": "C",
+    "detail": "The pelvis is the #1 most common site of involvement in Paget disease."
+  },
+  {
+    "number": 73,
+    "question": "In the spine, Paget disease often presents as:",
+    "choices": ["A. Syndesmophytes", "B. An enlarged 'ivory vertebrae'", "C. Isolated discitis", "D. Gibbus deformity", "E. Schmorl nodes"],
+    "answer": "B",
+    "detail": "Paget’s in the spine classically presents as an enlarged, sclerotic 'ivory' vertebra."
+  },
+  {
+    "number": 74,
+    "question": "Physiologic Bowing of the tibia is smooth, lateral, and symmetric, occurring between:",
+    "choices": ["A. Birth and 6 months", "B. 18 months and 2 years", "C. 5 and 7 years", "D. Puberty", "E. Never (it is always abnormal)"],
+    "answer": "B",
+    "detail": "Symmetric, lateral bowing is considered physiologic between 18 months and 2 years of age."
+  },
+  {
+    "number": 75,
+    "question": "'Lead Sinks, Muffins Rise' is a mnemonic used to localize lesions seen only on which view?",
+    "choices": ["A. CC", "B. MLO", "C. True Lateral", "D. XCCL", "E. LMO"],
+    "answer": "B",
+    "detail": "This is a mammography mnemonic for localizing lesions seen only on the MLO view."
+  },
+  {
+    "number": 76,
+    "question": "In a patient with known breast cancer, how often is contralateral cancer found by MRI?",
+    "choices": ["A. 0.1-2%", "B. 3-5%", "C. 10%", "D. 25%", "E. 50%"],
+    "answer": "B",
+    "detail": "Contralateral breast cancer is identified in 3-5% of cases using MRI."
+  },
+  {
+    "number": 77,
+    "question": "'Spiculated margins' in a breast mass carry what probability of malignancy?",
+    "choices": ["A. 20%", "B. 40%", "C. 60%", "D. 80%", "E. 99%"],
+    "answer": "D",
+    "detail": "The predictive value for malignancy in a spiculated breast mass is approximately 80%."
+  },
+  {
+    "number": 78,
+    "question": "'Mutilans' refers to severe bone resorption leading to soft tissue 'telescoping,' seen in:",
+    "choices": ["A. RA", "B. Psoriasis", "C. Gout", "D. Lupus", "E. A and B"],
+    "answer": "E",
+    "detail": "Arthritis mutilans can occur in severe cases of either Rheumatoid or Psoriatic arthritis."
+  },
+  {
+    "number": 79,
+    "question": "Ankylosing Spondylitis usually hits which joint FIRST?",
+    "choices": ["A. C-spine", "B. SI joints (symmetrically)", "C. Hip", "D. Shoulder", "E. Manubriosternal"],
+    "answer": "B",
+    "detail": "AS typically initiates with symmetric involvement of the sacroiliac (SI) joints."
+  },
+  {
+    "number": 80,
+    "question": "'Milwaukee Shoulder' is destructive and secondary to the deposition of:",
+    "choices": ["A. Urate", "B. Calcium Hydroxyapatite", "C. CPPD", "D. Amyloid", "E. Hemosiderin"],
+    "answer": "B",
+    "detail": "Milwaukee shoulder is a destructive arthropathy caused by Calcium Hydroxyapatite crystals."
+  },
+  {
+    "number": 81,
+    "question": "Which finding on a hand radiograph is a 'Multiple Choice Key' for Hyperparathyroidism?",
+    "choices": ["A. Marginal erosions", "B. Subperiosteal bone resorption of the radial aspect of 2nd/3rd fingers", "C. Gull-wing erosions", "D. Pencil-in-cup", "E. Hooked osteophytes"],
+    "answer": "B",
+    "detail": "Radial-sided subperiosteal bone resorption is pathognomonic for Hyperparathyroidism."
+  },
+  {
+    "number": 82,
+    "question": "'Flowing Syndesmophytes' are characteristic of:",
+    "choices": ["A. DISH", "B. Ankylosing Spondylitis", "C. Psoriatic Arthritis", "D. Degenerative Spondylosis", "E. Osteopetrosis"],
+    "answer": "B",
+    "detail": "Ankylosing Spondylitis is characterized by thin, symmetric, vertical 'flowing' syndesmophytes."
+  },
+  {
+    "number": 83,
+    "question": "DISH (Diffuse Idiopathic Skeletal Hyperostosis) involves ossification of the ALL over how many levels?",
+    "choices": ["A. Exactly 2", "B. More than 4", "C. The entire spine", "D. Only the C-spine", "E. Exactly 3"],
+    "answer": "B",
+    "detail": "The diagnosis of DISH requires continuous ossification over more than 4 vertebral levels."
+  },
+  {
+    "number": 84,
+    "question": "'Widening of the joint space in an adult hip' is a classic buzzword for:",
+    "choices": ["A. RA", "B. CPPD", "C. Pituitary Gigantism", "D. AVN", "E. Scurvy"],
+    "answer": "C",
+    "detail": "Widening of the joint space in an adult is a classic radiographic sign of Pituitary Gigantism."
+  },
+  {
+    "number": 85,
+    "question": "What is the 'money sequence' for bone marrow evaluation?",
+    "choices": ["A. T1", "B. T2", "C. STIR", "D. GRE", "E. DWI"],
+    "answer": "A",
+    "detail": "T1-weighted MRI is the primary sequence for evaluating bone marrow signal."
+  },
+  {
+    "number": 86,
+    "question": "Normal red marrow should NEVER be darker than which internal control on T1?",
+    "choices": ["A. Yellow marrow", "B. Normal disk or muscle", "C. Subcutaneous fat", "D. Cortical bone", "E. Joint fluid"],
+    "answer": "B",
+    "detail": "Red marrow should always have a signal intensity equal to or higher than that of intervertebral discs or muscle on T1."
+  },
+  {
+    "number": 87,
+    "question": "In the normal pattern of marrow conversion, in which part of a long bone does it occur FIRST?",
+    "choices": ["A. Diaphysis", "B. Metaphysis", "C. Epiphysis / Apophysis", "D. Cortex", "E. It is random"],
+    "answer": "C",
+    "detail": "Marrow conversion begins in the epiphyses and apophyses shortly after they ossify."
+  },
+  {
+    "number": 88,
+    "question": "Marrow reconversion occurs in the exact reverse order of normal conversion, beginning in the:",
+    "choices": ["A. Hands and feet", "B. Axial skeleton (Spine/Flat bones)", "C. Diaphysis of the femur", "D. Epiphyses of long bones", "E. Skull"],
+    "answer": "B",
+    "detail": "Reconversion starts centrally in the axial skeleton and moves peripherally."
+  },
+  {
+    "number": 89,
+    "question": "Marrow that is darker than adjacent disks and muscle on T1 is suspicious for:",
+    "choices": ["A. Normal aging", "B. Leukemia", "C. Osteoporosis", "D. Marrow reconversion", "E. Hemangioma"],
+    "answer": "B",
+    "detail": "Infiltrative processes like leukemia replace fatty marrow, making it darker than muscle or discs on T1."
+  },
+  {
+    "number": 90,
+    "question": "'Lucent metaphyseal bands' in a kid is a radiographic sign for:",
+    "choices": ["A. Scurvy", "B. Leukemia", "C. Rickets", "D. Neuroblastoma mets", "E. Syphilis"],
+    "answer": "B",
+    "detail": "Lucent metaphyseal bands in children are a classic indicator for Leukemia."
+  },
+  {
+    "number": 91,
+    "question": "A 'Chloroma' (Granulocytic Sarcoma) is a destructive mass in a bone of a patient with:",
+    "choices": ["A. Myeloma", "B. Leukemia", "C. Thalassemia", "D. Lymphoma", "E. Paget"],
+    "answer": "B",
+    "detail": "Chloromas are solid masses of leukemic cells occurring in bone or soft tissue."
+  },
+  {
+    "number": 92,
+    "question": "In ultrasound of tendons, 'Anisotropy' occurs when the sound beam is:",
+    "choices": ["A. Perpendicular to the tendon", "B. NOT perpendicular to the sound beam", "C. Parallel to the tendon", "D. In a fat-fluid interface", "E. Blocked by calcium"],
+    "answer": "B",
+    "detail": "Anisotropy occurs when the ultrasound beam is not perpendicular to the tendon's fiber orientation."
+  },
+  {
+    "number": 93,
+    "question": "Thickening of the plantar fascia greater than _________ is diagnostic of Plantar Fasciitis on US.",
+    "choices": ["A. 1 mm", "B. 2 mm", "C. 4 mm", "D. 10 mm", "E. 15 mm"],
+    "answer": "C",
+    "detail": "Thickness > 4 mm is the ultrasound threshold for diagnosing plantar fasciitis."
+  },
+  {
+    "number": 94,
+    "question": "When injecting a joint for an arthrogram, the radiologist should avoid putting ______ in the joint as it causes susceptibility artifact.",
+    "choices": ["A. Contrast", "B. Lidocaine", "C. Air", "D. Gadolinium", "E. Saline"],
+    "answer": "C",
+    "detail": "Intra-articular air causes significant blooming susceptibility artifact on MRI."
+  },
+  {
+    "number": 95,
+    "question": "For a shoulder arthrogram, the needle should be advanced into the junction of which portion of the humeral head?",
+    "choices": ["A. Upper and middle third", "B. Middle and inferior third", "C. Directly into the bicipital groove", "D. Posterior neck", "E. Anatomical neck"],
+    "answer": "B",
+    "detail": "The middle-inferior third of the humeral head is the preferred target for shoulder injections."
+  },
+  {
+    "number": 96,
+    "question": "A 'cervical kyphosis' should make you think of which syndrome?",
+    "choices": ["A. Down Syndrome", "B. NF-1", "C. NF-2", "D. VHL", "E. TS"],
+    "answer": "B",
+    "detail": "Cervical kyphosis is a known musculoskeletal association of NF-1."
+  },
+  {
+    "number": 97,
+    "question": "'Subligamentous spread of infection' is a classic buzzword for:",
+    "choices": ["A. Staph aureus", "B. Tuberculosis (TB)", "C. Brucellosis", "D. IV drug user", "E. Fungal infection"],
+    "answer": "B",
+    "detail": "Subligamentous spread in the spine is a classic radiographic feature of Tuberculosis (Pott’s Disease)."
+  },
+  {
+    "number": 98,
+    "question": "'Posterior elbow dislocation' is classically associated with which fracture?",
+    "choices": ["A. Radial head", "B. Coronoid process", "C. Capitellum fracture", "D. Olecranon", "E. Supracondylar"],
+    "answer": "C",
+    "detail": "Capitellum fractures are frequently identified following posterior elbow dislocations."
+  },
+  {
+    "number": 99,
+    "question": "A 'Lytic T2 DARK lesion' is most likely which of the following?",
+    "choices": ["A. GCT", "B. Fibrosarcoma", "C. Hemangioma", "D. Osteoblastoma", "E. Chordoma"],
+    "answer": "B",
+    "detail": "Fibrosarcoma is a classic differential for a lytic bone lesion that is dark on T2-weighted MRI."
+  },
+  {
+    "number": 100,
+    "question": "'Calcifications more dense in the center' than the periphery (reverse zoning) is characteristic of:",
+    "choices": ["A. Myositis Ossificans", "B. Osteosarcoma", "C. Cortical desmoid", "D. HADD", "E. Tumoral Calcinosis"],
+    "answer": "B",
+    "detail": "'Reverse zoning' (dense center, lucent periphery) is characteristic of Osteosarcoma, whereas Myositis Ossificans calcifies from the outside in."
+  }
+]
+
+}

@@ -1,0 +1,1307 @@
+{
+    "questions": 
+    
+[
+  {
+    "number": 1,
+    "question": "Dilated Cardiomyopathy (DCM) is defined as cardiac dilatation with an end-diastolic diameter greater than:",
+    "choices": [
+      "45 mm",
+      "50 mm",
+      "55 mm",
+      "60 mm",
+      "70 mm"
+    ],
+    "answer": "C",
+    "detail": "DCM is defined by dilatation with an end-diastolic diameter greater than 55 mm."
+  },
+  {
+    "number": 2,
+    "question": "Which finding on Cardiac MRI is characteristic of the 'idiopathic' variety of Dilated Cardiomyopathy?",
+    "choices": [
+      "Subendocardial enhancement",
+      "Transmural enhancement",
+      "Linear mid-myocardial enhancement",
+      "Epicardial enhancement only",
+      "No enhancement is ever seen"
+    ],
+    "answer": "C",
+    "detail": "The idiopathic variety of DCM typically shows either no enhancement or linear mid-myocardial enhancement."
+  },
+  {
+    "number": 3,
+    "question": "In cases of DCM, there is often an associated valvular pathology due to ring dilation. Which valve is most commonly affected?",
+    "choices": [
+      "Aortic",
+      "Pulmonic",
+      "Mitral",
+      "Tricuspid",
+      "Eustachian"
+    ],
+    "answer": "C",
+    "detail": "Dilation of the mitral ring in DCM commonly leads to mitral regurgitation."
+  },
+  {
+    "number": 4,
+    "question": "Restrictive Cardiomyopathy is primarily characterized by a decrease in:",
+    "choices": [
+      "Systolic function (ejection fraction)",
+      "Diastolic function (inability to 'fill')",
+      "Myocardial thickness",
+      "Coronary artery diameter",
+      "Heart rate"
+    ],
+    "answer": "B",
+    "detail": "Restrictive cardiomyopathy is fundamentally characterized by decreased diastolic function."
+  },
+  {
+    "number": 5,
+    "question": "What is the most common cause of Restrictive Cardiomyopathy according to the text?",
+    "choices": [
+      "Hemochromatosis",
+      "Endocardial fibroelastosis",
+      "Amyloidosis",
+      "Sarcoidosis",
+      "Myocarditis"
+    ],
+    "answer": "C",
+    "detail": "Amyloidosis is identified as the most common cause of restrictive cardiomyopathy."
+  },
+  {
+    "number": 6,
+    "question": "Which condition is associated with biatrial enlargement, concentric thickening of the LV, and reduced systolic function of both ventricles?",
+    "choices": [
+      "Tako-Tsubo",
+      "DCM",
+      "Amyloidosis",
+      "ARVC",
+      "Mitral Stenosis"
+    ],
+    "answer": "C",
+    "detail": "Cardiac amyloidosis causes these changes, often featuring biatrial enlargement."
+  },
+  {
+    "number": 7,
+    "question": "On Cardiac MRI, what specific technical parameter must be adjusted to properly evaluate Cardiac Amyloidosis?",
+    "choices": [
+      "Higher flip angle",
+      "Shorter Echo Time (TE)",
+      "A long Inversion Time (TI) (e.g., 350 ms)",
+      "Non-gated acquisition",
+      "Use of Gadoxetate Disodium (Eovist)"
+    ],
+    "answer": "C",
+    "detail": "A long Inversion Time (around 350 ms compared to 200 ms normally) is necessary for evaluating amyloid."
+  },
+  {
+    "number": 8,
+    "question": "In Amyloidosis, the myocardium is described by which high-yield buzzword on MRI?",
+    "choices": [
+      "'Sun-ray' appearance",
+      "'Difficult to suppress'",
+      "'Spongy' appearance",
+      "'Oreo cookie' sign",
+      "'Tramline' sign"
+    ],
+    "answer": "B",
+    "detail": "'Difficult to suppress' is a specific buzzword for the amyloid myocardium on MRI."
+  },
+  {
+    "number": 9,
+    "question": "In a patient with Cardiac Amyloidosis, what is the expected appearance of the blood pool on delayed enhancement images when the TI is set correctly?",
+    "choices": [
+      "Bright white",
+      "Darker than the myocardium",
+      "Isointense to the liver",
+      "'Flame-shaped'",
+      "'Hot' on first-pass perfusion"
+    ],
+    "answer": "B",
+    "detail": "With a long TI, the blood pool in Amyloidosis may appear darker than the myocardium."
+  },
+  {
+    "number": 10,
+    "question": "Which type of Amyloid is associated with the buzzword 'Abnormal urinary light chains (AL)'?",
+    "choices": [
+      "Primary Amyloid",
+      "Secondary Amyloid",
+      "Senile Amyloid",
+      "Familial Amyloid",
+      "Dialysis-associated Amyloid"
+    ],
+    "answer": "A",
+    "detail": "Primary amyloid is linked to the 'Abnormal urinary light chains (AL)' buzzword."
+  },
+  {
+    "number": 11,
+    "question": "Eosinophilic Cardiomyopathy (Loeffler) is classically associated with which finding?",
+    "choices": [
+      "Asymmetric septal hypertrophy",
+      "Bilateral Ventricular thrombus",
+      "Pericardial calcification",
+      "Spontaneous coronary dissection",
+      "Right atrial myxoma"
+    ],
+    "answer": "B",
+    "detail": "Bilateral ventricular thrombus is the classic phrase associated with Loeffler cardiomyopathy."
+  },
+  {
+    "number": 12,
+    "question": "To visualize the thrombus in Loeffler cardiomyopathy on MRI, what adjustment is often necessary?",
+    "choices": [
+      "Short TI",
+      "Long TI",
+      "Fat saturation",
+      "Cine imaging only",
+      "T2* imaging"
+    ],
+    "answer": "B",
+    "detail": "A long TI is required to properly visualize the thrombus in Eosinophilic (Loeffler) CM."
+  },
+  {
+    "number": 13,
+    "question": "Constrictive Pericarditis is a pericardial process, whereas Restrictive Cardiomyopathy is a:",
+    "choices": [
+      "Valvular process",
+      "Myocardial process",
+      "Electrical process",
+      "Congenital malformation",
+      "Malignant process"
+    ],
+    "answer": "B",
+    "detail": "Restrictive CM is a myocardial process, while constrictive is a pericardial process."
+  },
+  {
+    "number": 14,
+    "question": "What is the most common cause of Constrictive Pericarditis in the developed world?",
+    "choices": [
+      "Tuberculosis",
+      "Viral infection",
+      "Iatrogenic (secondary to CABG)",
+      "Radiation therapy",
+      "Sarcoidosis"
+    ],
+    "answer": "C",
+    "detail": "Post-CABG iatrogenic causes or viral infections are now the most common causes in the developed world."
+  },
+  {
+    "number": 15,
+    "question": "On CT, a pericardium is considered 'too thick' if it measures greater than:",
+    "choices": [
+      "0.1 cm",
+      "0.2 cm",
+      "0.4 cm",
+      "1.0 cm",
+      "2.0 cm"
+    ],
+    "answer": "C",
+    "detail": "The pericardium is considered abnormally thick if it measures > 0.4 cm."
+  },
+  {
+    "number": 16,
+    "question": "Which imaging finding is considered diagnostic for Constrictive Pericarditis on CT or CXR?",
+    "choices": [
+      "Pericardial effusion",
+      "Myocardial thinning",
+      "Pericardial calcification",
+      "Enlarged left atrium",
+      "Dilated SVC"
+    ],
+    "answer": "C",
+    "detail": "Pericardial calcification in the setting of a thick pericardium is diagnostic for constriction."
+  },
+  {
+    "number": 17,
+    "question": "'Sigmoidization' of the septum and a 'Diastolic Bounce' on cine MRI are hallmarks of:",
+    "choices": [
+      "Restrictive CM",
+      "Constrictive Pericarditis",
+      "Hypertrophic CM",
+      "Myocarditis",
+      "Tako-Tsubo"
+    ],
+    "answer": "B",
+    "detail": "Septal 'sigmoidization' and a 'diastolic bounce' are characteristic MRI findings for constrictive disease."
+  },
+  {
+    "number": 18,
+    "question": "The 'Diastolic Bounce' in constrictive disease is most pronounced during which phase of respiration?",
+    "choices": [
+      "Expiration",
+      "Deep inspiration",
+      "It is independent of respiration",
+      "Breath-hold",
+      "Valsalva maneuver"
+    ],
+    "answer": "B",
+    "detail": "The bounce is most pronounced during inspiration because of ventricular interdependence."
+  },
+  {
+    "number": 19,
+    "question": "Myocarditis, often caused by Coxsackie virus, typically demonstrates Late Gadolinium Enhancement (LGE) in which distribution?",
+    "choices": [
+      "Subendocardial",
+      "Transmural",
+      "Epicardial or mid-wall",
+      "Involving the septum only",
+      "Restricted to the papillary muscles"
+    ],
+    "answer": "C",
+    "detail": "Late Gadolinium Enhancement in myocarditis is epicardial or mid-wall, rather than subendocardial."
+  },
+  {
+    "number": 20,
+    "question": "Which wall of the heart is the 'preferred' location for LGE in Myocarditis?",
+    "choices": [
+      "Septal wall",
+      "Anterior wall",
+      "Lateral free wall",
+      "Apex",
+      "Right ventricular free wall"
+    ],
+    "answer": "C",
+    "detail": "Late Gadolinium Enhancement in myocarditis prefers the lateral free wall."
+  },
+  {
+    "number": 21,
+    "question": "In Cardiac Sarcoidosis, which part of the heart is frequently involved?",
+    "choices": [
+      "Mitral valve",
+      "Left atrial appendage",
+      "Intraventricular septum",
+      "Pulmonary veins",
+      "Fossa ovalis"
+    ],
+    "answer": "C",
+    "detail": "Cardiac sarcoidosis commonly involves the intraventricular septum."
+  },
+  {
+    "number": 22,
+    "question": "How does Cardiac Sarcoidosis mimic Hypertrophic Cardiomyopathy on imaging?",
+    "choices": [
+      "By causing global dilation",
+      "Through focal wall thickening from edema",
+      "By causing systemic emboli",
+      "By demonstrating a 'sun-ray' sign",
+      "It doesn't look like HCM"
+    ],
+    "answer": "B",
+    "detail": "Sarcoidosis can mimic HCM through focal wall thickening caused by edema."
+  },
+  {
+    "number": 23,
+    "question": "'Ballooning of the left ventricular apex' in a post-menopausal woman following a stressful event is the buzzword for:",
+    "choices": [
+      "Myocarditis",
+      "Tako-Tsubo Cardiomyopathy",
+      "Loeffler Syndrome",
+      "ARVC",
+      "Endocardial Fibroelastosis"
+    ],
+    "answer": "B",
+    "detail": "This apical ballooning pattern in post-menopausal women is the classic description for Tako-Tsubo."
+  },
+  {
+    "number": 24,
+    "question": "What is the characteristic LGE pattern for Tako-Tsubo Cardiomyopathy?",
+    "choices": [
+      "Subendocardial apex",
+      "Transmural apex",
+      "Mid-wall septal",
+      "No delayed enhancement",
+      "Diffuse subendocardial circumferential"
+    ],
+    "answer": "D",
+    "detail": "Tako-Tsubo Cardiomyopathy is notable for having NO delayed enhancement."
+  },
+  {
+    "number": 25,
+    "question": "Which sequence is most useful for distinguishing between Acute and Chronic Myocardial Infarction?",
+    "choices": [
+      "LGE (both are bright)",
+      "T2 (Acute is bright, Chronic is dark)",
+      "MUGA",
+      "Coronary CTA",
+      "SSFP Cine"
+    ],
+    "answer": "B",
+    "detail": "T2 weighted imaging helps distinguish acute (bright/edema) from chronic (dark/scar) MI."
+  },
+  {
+    "number": 26,
+    "question": "Arrhythmogenic Right Ventricular Cardiomyopathy (ARVC) is characterized by which histological change?",
+    "choices": [
+      "Myofibril disarray",
+      "Fibrofatty replacement of the RV myocardium",
+      "Surfactant accumulation",
+      "Amyloid deposition",
+      "Iron overload"
+    ],
+    "answer": "B",
+    "detail": "Fibrofatty replacement of the RV myocardium is the defining histological change of ARVC."
+  },
+  {
+    "number": 27,
+    "question": "Which imaging sequence is 'watched out for' on tests to demonstrate fat in the RV wall in ARVC?",
+    "choices": [
+      "T2 weighted",
+      "First-pass perfusion",
+      "Fat saturation",
+      "Phase contrast",
+      "LGE"
+    ],
+    "answer": "C",
+    "detail": "Fat saturation sequences are used on exams to demonstrate the fat in the RV wall for ARVC."
+  },
+  {
+    "number": 28,
+    "question": "Hypertrophic Cardiomyopathy (HCM) results from abnormal hypertrophy caused by:",
+    "choices": [
+      "Viral infection",
+      "Disarray of myofibrils",
+      "Chronic hypertension",
+      "Surfactant deficiency",
+      "Alcohol abuse"
+    ],
+    "answer": "B",
+    "detail": "HCM is characterized by abnormal hypertrophy resulting from myofibril disarray."
+  },
+  {
+    "number": 29,
+    "question": "Which specific type of hypertrophy is typically shown on exams for HCM?",
+    "choices": [
+      "Concentric LV hypertrophy",
+      "Asymmetric hypertrophy of the intraventricular septum",
+      "RV free wall hypertrophy",
+      "Bi-atrial wall thickening",
+      "Papillary muscle hypertrophy only"
+    ],
+    "answer": "B",
+    "detail": "Asymmetric hypertrophy of the intraventricular septum is the classic type of HCM shown on exams."
+  },
+  {
+    "number": 30,
+    "question": "'Systolic Anterior Motion' (SAM) of the mitral valve in HCM is caused by:",
+    "choices": [
+      "Papillary muscle rupture",
+      "Venturi forces pulling the valve into the LVOT",
+      "Thrombus on the valve leaflets",
+      "Bacterial endocarditis",
+      "Chordal shortening"
+    ],
+    "answer": "B",
+    "detail": "SAM is caused by Venturi forces pulling the mitral valve into the LVOT during systole."
+  },
+  {
+    "number": 31,
+    "question": "In HCM, the presence of patchy midwall delayed enhancement in the hypertrophied muscle is an independent risk factor for:",
+    "choices": [
+      "Mitral regurgitation",
+      "Sudden death",
+      "Aortic dissection",
+      "Pulmonary hypertension",
+      "Renal failure"
+    ],
+    "answer": "B",
+    "detail": "Midwall enhancement in HCM serves as an independent risk factor for sudden death."
+  },
+  {
+    "number": 32,
+    "question": "Left Ventricular Noncompaction is a congenital cardiomyopathy characterized by:",
+    "choices": [
+      "Excessive myocardial fat",
+      "Loosely packed myocardium with a spongy appearance",
+      "Diffuse subendocardial fibrosis",
+      "Transmural necrosis",
+      "Absence of the moderator band"
+    ],
+    "answer": "B",
+    "detail": "Noncompaction is defined by a loosely packed myocardium with a spongy appearance."
+  },
+  {
+    "number": 33,
+    "question": "What is the diagnostic ratio for non-compacted to compacted end-diastolic myocardium in Noncompaction?",
+    "choices": [
+      " > 1.1:1",
+      " > 1.5:1",
+      " > 2.0:1",
+      " > 2.3:1",
+      " > 5.0:1"
+    ],
+    "answer": "D",
+    "detail": "A ratio of more than 2.3:1 between non-compacted and compacted myocardium is diagnostic."
+  },
+  {
+    "number": 34,
+    "question": "What is the high-yield buzzword for Noncompaction?",
+    "choices": [
+      "'Prominent Ventricular Trabeculation'",
+      "'Swiss Cheese Septum'",
+      "'Sun-ray' enhancement",
+      "'Oreo cookie' heart",
+      "'Snowman' heart"
+    ],
+    "answer": "A",
+    "detail": "'Prominent Ventricular Trabeculation' is the high-yield buzzword for LV noncompaction."
+  },
+  {
+    "number": 35,
+    "question": "Becker and Duchenne muscular dystrophies are inherited in which fashion?",
+    "choices": [
+      "Autosomal Dominant",
+      "Autosomal Recessive",
+      "X-linked",
+      "Mitochondrial",
+      "Sporadic only"
+    ],
+    "answer": "C",
+    "detail": "These muscular dystrophies are inherited in an X-linked fashion."
+  },
+  {
+    "number": 36,
+    "question": "The imaging hallmark of Muscular Dystrophy in the heart is a dilated heart with:",
+    "choices": [
+      "Subendocardial LGE",
+      "Mid-wall delayed enhancement (connective tissue/fat replacement)",
+      "Pericardial calcification",
+      "'Box-shaped' appearance",
+      "Small heart volumes"
+    ],
+    "answer": "B",
+    "detail": "The hallmark is a dilated heart featuring mid-wall delayed enhancement."
+  },
+  {
+    "number": 37,
+    "question": "Jaffe-Campanacci Syndrome includes multiple Non-Ossifying Fibromas (NOFs) and which of the following?",
+    "choices": [
+      "Right-sided aortic arch",
+      "Cardiac malformations",
+      "Situs inversus",
+      "Polysplenia",
+      "Bicuspid aortic valve"
+    ],
+    "answer": "B",
+    "detail": "Jaffe-Campanacci is a syndrome consisting of NOFs and cardiac malformations."
+  },
+  {
+    "number": 38,
+    "question": "Which syndrome combines polyostotic fibrous dysplasia and multiple soft tissue myxomas?",
+    "choices": [
+      "Carney Complex",
+      "Mazabraud Syndrome",
+      "Holt-Oram Syndrome",
+      "Turner Syndrome",
+      "Klinefelter Syndrome"
+    ],
+    "answer": "B",
+    "detail": "Mazabraud Syndrome is the combination of polyostotic fibrous dysplasia and multiple soft tissue myxomas."
+  },
+  {
+    "number": 39,
+    "question": "If you see 'tumors EVERYWHERE' in the head and neck (MSME), you should suspect:",
+    "choices": [
+      "NF-1",
+      "NF-2",
+      "VHL",
+      "Tuberous Sclerosis",
+      "Sarcoidosis"
+    ],
+    "answer": "B",
+    "detail": "The MSME (Multiple Schwannomas, Meningiomas, Ependymomas) triad signifies NF-2."
+  },
+  {
+    "number": 40,
+    "question": "Klinefelter Syndrome (47 XXY) is associated with a 300x increased risk for which thoracic pathology?",
+    "choices": [
+      "Thymoma",
+      "Germ Cell Tumors (specifically NSGCT)",
+      "Lymphoma",
+      "Lung Adenocarcinoma",
+      "Bronchogenic cysts"
+    ],
+    "answer": "B",
+    "detail": "Klinefelter patients have a 300-fold increased risk for extragonadal germ cell tumors in the chest."
+  },
+  {
+    "number": 41,
+    "question": "Metastatic disease to the heart and pericardium is approximately how much more common than primary cardiac tumors?",
+    "choices": [
+      "2x",
+      "5x",
+      "10x",
+      "30x",
+      "100x"
+    ],
+    "answer": "D",
+    "detail": "Cardiac metastases are 30 times more common than primary tumors of the heart."
+  },
+  {
+    "number": 42,
+    "question": "Which site is 'by far' the most common affected by cardiac metastases?",
+    "choices": [
+      "Myocardium",
+      "Endocardium",
+      "Pericardium",
+      "Left Atrium",
+      "Right Ventricle"
+    ],
+    "answer": "C",
+    "detail": "The pericardium is the most common cardiac site for metastatic involvement."
+  },
+  {
+    "number": 43,
+    "question": "What is the most common manifestation of metastatic disease to the heart?",
+    "choices": [
+      "Intracavitary mass",
+      "Pericardial effusion",
+      "Myocardial rupture",
+      "Valvular vegetation",
+      "Nodal enlargement"
+    ],
+    "answer": "B",
+    "detail": "Pericardial effusion is the most frequent manifestation of cardiac metastases."
+  },
+  {
+    "number": 44,
+    "question": "Statistically, which cancer is the most common primary to metastasize to the heart?",
+    "choices": [
+      "Lung cancer",
+      "Melanoma",
+      "Breast cancer",
+      "Renal cell carcinoma",
+      "Lymphoma"
+    ],
+    "answer": "A",
+    "detail": "Lung cancer is the most common primary source due to its high overall prevalence."
+  },
+  {
+    "number": 45,
+    "question": "Which cancer has the highest percentage of cases that involve the heart, despite having a lower overall prevalence than lung cancer?",
+    "choices": [
+      "Breast cancer",
+      "Colon cancer",
+      "Melanoma",
+      "Prostate cancer",
+      "Thyroid cancer"
+    ],
+    "answer": "C",
+    "detail": "Melanoma has the highest percentage of cases that involve the heart among cancers."
+  },
+  {
+    "number": 46,
+    "question": "What is the most common primary malignant tumor of the heart in adults?",
+    "choices": [
+      "Myxoma",
+      "Rhabdomyosarcoma",
+      "Angiosarcoma",
+      "Lipoma",
+      "Fibroelastoma"
+    ],
+    "answer": "C",
+    "detail": "Angiosarcoma is the most common primary malignant cardiac tumor in adults."
+  },
+  {
+    "number": 47,
+    "question": "Angiosarcomas classically favor which cardiac chamber?",
+    "choices": [
+      "Left Atrium",
+      "Left Ventricle",
+      "Right Atrium",
+      "Right Ventricle",
+      "Interatrial septum"
+    ],
+    "answer": "C",
+    "detail": "Angiosarcomas classically favor the Right Atrium."
+  },
+  {
+    "number": 48,
+    "question": "The 'sun-ray' appearance on MRI, representing enhancement along perivascular spaces of epicardial vessels, is the buzzword for:",
+    "choices": [
+      "Myxoma",
+      "Fibroelastoma",
+      "Angiosarcoma",
+      "Sarcoidosis",
+      "Metastatic lung cancer"
+    ],
+    "answer": "C",
+    "detail": "The 'sun-ray' appearance describes the enhancement of the diffuse subtype of angiosarcoma."
+  },
+  {
+    "number": 49,
+    "question": "What is the most common primary cardiac tumor in adults (typically benign)?",
+    "choices": [
+      "Lipoma",
+      "Myxoma",
+      "Rhabdomyoma",
+      "Fibroma",
+      "Mesothelioma"
+    ],
+    "answer": "B",
+    "detail": "Myxoma is the most common adult primary cardiac tumor."
+  },
+  {
+    "number": 50,
+    "question": "Left Atrial Myxomas are characteristically attached to which structure?",
+    "choices": [
+      "Tricuspid valve leaflets",
+      "Fossa ovalis (interatrial septum)",
+      "Papillary muscles",
+      "Apex of the LV",
+      "SVC entrance"
+    ],
+    "answer": "B",
+    "detail": "Myxomas arise from the interatrial septum, typically near the fossa ovalis."
+  },
+  {
+    "number": 51,
+    "question": "Carney Complex is associated with which cardiac tumor?",
+    "choices": [
+      "Rhabdomyoma",
+      "Fibroelastoma",
+      "Myxoma",
+      "Angiosarcoma",
+      "Lipoma"
+    ],
+    "answer": "C",
+    "detail": "Carney Complex is associated with cardiac myxomas and skin pigmentation."
+  },
+  {
+    "number": 52,
+    "question": "What is the 'important discriminator' to distinguish a cardiac tumor from a thrombus on MRI?",
+    "choices": [
+      "Size (tumors are > 2 cm)",
+      "Location (thrombus is only in the appendage)",
+      "Enhancement with Gadolinium (tumors enhance, thrombus does not)",
+      "T2 signal intensity",
+      "Mobile vs fixed on cine"
+    ],
+    "answer": "C",
+    "detail": "Tumors enhance with gadolinium while thrombi do not."
+  },
+  {
+    "number": 53,
+    "question": "Which tumor is the most common fetal cardiac tumor and is considered a hamartoma?",
+    "choices": [
+      "Myxoma",
+      "Fibroma",
+      "Rhabdomyoma",
+      "Teratoma",
+      "Osteosarcoma"
+    ],
+    "answer": "C",
+    "detail": "Rhabdomyoma is a hamartoma and the most common fetal cardiac tumor."
+  },
+  {
+    "number": 54,
+    "question": "Cardiac Rhabdomyomas have a very strong (and testable) association with:",
+    "choices": [
+      "Downs Syndrome",
+      "Williams Syndrome",
+      "Tuberous Sclerosis",
+      "Marfan Syndrome",
+      "NF-1"
+    ],
+    "answer": "C",
+    "detail": "Rhabdomyomas are strongly associated with Tuberous Sclerosis."
+  },
+  {
+    "number": 55,
+    "question": "What is the typical clinical course for Rhabdomyomas associated with Tuberous Sclerosis?",
+    "choices": [
+      "Rapid malignant transformation",
+      "Spontaneous regression",
+      "Always requires surgical resection",
+      "Causes valvular stenosis in adulthood",
+      "Never seen after birth"
+    ],
+    "answer": "B",
+    "detail": "Most of these tumors undergo spontaneous regression."
+  },
+  {
+    "number": 56,
+    "question": "Which tumor is the second most common cardiac tumor in childhood and favors the interventricular septum?",
+    "choices": [
+      "Myxoma",
+      "Rhabdomyoma",
+      "Fibroma",
+      "Fibroelastoma",
+      "Angiosarcoma"
+    ],
+    "answer": "C",
+    "detail": "Fibroma is the second most common childhood cardiac tumor and favors the IV septum."
+  },
+  {
+    "number": 57,
+    "question": "How do Cardiac Fibromas typically appear on T1 and T2 weighted MRI?",
+    "choices": [
+      "Bright / Bright",
+      "Bright / Dark",
+      "Dark / Dark",
+      "Dark / Bright",
+      "Isointense to myocardium"
+    ],
+    "answer": "C",
+    "detail": "Cardiac fibromas are dark on both T1 and T2 weighted MRI."
+  },
+  {
+    "number": 58,
+    "question": "What is the most common neoplasm to involve the cardiac valves?",
+    "choices": [
+      "Myxoma",
+      "Fibroelastoma",
+      "Vegetations",
+      "Rhabdomyoma",
+      "Lipoma"
+    ],
+    "answer": "B",
+    "detail": "Fibroelastoma is the most common neoplasm involving the heart valves."
+  },
+  {
+    "number": 59,
+    "question": "Fibroelastomas are described as being 'highly mobile' on which sequence?",
+    "choices": [
+      "First-pass perfusion",
+      "SSFP Cine",
+      "T2 weighted",
+      "Phase contrast",
+      "LGE"
+    ],
+    "answer": "B",
+    "detail": "Fibroelastomas are described as being highly mobile on SSFP Cine imaging."
+  },
+  {
+    "number": 60,
+    "question": "To distinguish a Fibroelastoma from a vegetation, one should know that vegetations tend to involve the:",
+    "choices": [
+      "Valve free edges",
+      "Aortic side of the cusp only",
+      "Interatrial septum",
+      "Papillary muscles",
+      "Chordae tendineae"
+    ],
+    "answer": "A",
+    "detail": "Vegetations involve the valve free edges, whereas fibroelastomas do not."
+  },
+  {
+    "number": 61,
+    "question": "The normal pericardium contains approximately how much fluid?",
+    "choices": [
+      "10 cc",
+      "50 cc",
+      "100 cc",
+      "175 cc",
+      "500 cc"
+    ],
+    "answer": "B",
+    "detail": "Normally, there is about 50 cc of fluid between the pericardial layers."
+  },
+  {
+    "number": 62,
+    "question": "A 'pericardial effusion' is defined when the fluid volume between the visceral and parietal layers exceeds:",
+    "choices": [
+      "25 cc",
+      "50 cc",
+      "75 cc",
+      "150 cc",
+      "200 cc"
+    ],
+    "answer": "B",
+    "detail": "An effusion is defined when the volume of fluid exceeds 50 cc."
+  },
+  {
+    "number": 63,
+    "question": "According to the text, which condition is a common cause of uremic pericardial effusion?",
+    "choices": [
+      "Liver failure",
+      "Renal failure",
+      "Chronic smoking",
+      "Pregnancy",
+      "Sjogren Syndrome"
+    ],
+    "answer": "B",
+    "detail": "Renal failure (uremia) is identified as a common cause of pericardial effusion."
+  },
+  {
+    "number": 64,
+    "question": "For multiple choice tests, which autoimmune disease should you associate with an inflammatory pericardial effusion?",
+    "choices": [
+      "Rheumatoid Arthritis",
+      "Scleroderma",
+      "Systemic Lupus Erythematosus (SLE)",
+      "Ankylosing Spondylitis",
+      "Crohn's Disease"
+    ],
+    "answer": "C",
+    "detail": "SLE is the 'for the purpose of multiple choice' autoimmune cause for inflammatory effusions."
+  },
+  {
+    "number": 65,
+    "question": "'Dressler Syndrome' refers to an inflammatory pericardial effusion occurring after:",
+    "choices": [
+      "Cardiac transplant",
+      "Myocardial Infarction (MI)",
+      "Chest wall trauma",
+      "Asbestos exposure",
+      "Viral pneumonia"
+    ],
+    "answer": "B",
+    "detail": "Dressler syndrome is an inflammatory effusion occurring post-MI."
+  },
+  {
+    "number": 66,
+    "question": "On a frontal chest radiograph, a massive pericardial effusion is often described as having which shape?",
+    "choices": [
+      "Boot-shaped",
+      "Snowman-shaped",
+      "Giant Water Bottle heart",
+      "Figure 3 sign",
+      "Scimitar sword"
+    ],
+    "answer": "C",
+    "detail": "The 'Giant Water Bottle heart' is the classic CXR description for massive pericardial effusion."
+  },
+  {
+    "number": 67,
+    "question": "The 'Oreo Cookie Sign' on a lateral chest X-ray consists of a central opaque line (fluid) between two lucent lines of:",
+    "choices": [
+      "Air",
+      "Lung parenchyma",
+      "Fat (epicardial and pericardial)",
+      "Calcification",
+      "Pleural thickening"
+    ],
+    "answer": "C",
+    "detail": "The sign is formed by two lucent fat lines with central opaque fluid."
+  },
+  {
+    "number": 68,
+    "question": "Cardiac Tamponade occurs when pericardial pressure compromises the filling of chambers, starting with the:",
+    "choices": [
+      "Ventricles",
+      "Left Atrium",
+      "Atria (first)",
+      "Aorta",
+      "Pulmonary Artery"
+    ],
+    "answer": "C",
+    "detail": "Tamponade compromises the filling of the atria first, then the ventricles."
+  },
+  {
+    "number": 69,
+    "question": "Tamponade can occur with as little as 100 cc of fluid if:",
+    "choices": [
+      "The fluid is hemorrhagic",
+      "The rate of accumulation is very fast",
+      "The patient has pulmonary fibrosis",
+      "The fluid is infected",
+      "The pericardium is calcified"
+    ],
+    "answer": "B",
+    "detail": "The rate of accumulation is key; even 100 cc can cause tamponade if it accumulates quickly."
+  },
+  {
+    "number": 70,
+    "question": "On short-axis MRI during deep inspiration, a sign of tamponade is the flattening or inversion of the:",
+    "choices": [
+      "LV free wall",
+      "Intraventricular septum (toward the LV)",
+      "Tricuspid valve",
+      "Mitral valve",
+      "Apex"
+    ],
+    "answer": "B",
+    "detail": "Inversion of the septum toward the LV during deep inspiration is a sign of tamponade."
+  },
+  {
+    "number": 71,
+    "question": "An indirect sign of Cardiac Tamponade that can be seen on CT is the reflux of contrast into the:",
+    "choices": [
+      "Pulmonary veins",
+      "Aorta",
+      "IVC and azygos system",
+      "Left atrium",
+      "Coronary arteries"
+    ],
+    "answer": "C",
+    "detail": "Reflux of contrast into the IVC and azygos system is an indirect CT sign of tamponade."
+  },
+  {
+    "number": 72,
+    "question": "Pericardial cysts are benign incidental findings most commonly located at the:",
+    "choices": [
+      "Apex",
+      "Subcarinal space",
+      "Right anterior cardiophrenic angle/sulcus",
+      "AP window",
+      "Posterior to the heart"
+    ],
+    "answer": "C",
+    "detail": "The right anterior cardiophrenic angle is the classic location for pericardial cysts."
+  },
+  {
+    "number": 73,
+    "question": "What is the typical imaging characteristic of a pericardial cyst on CT?",
+    "choices": [
+      "Fat density",
+      "ROI measuring water density",
+      "Intense enhancement",
+      "Popcorn calcification",
+      "'Sun-ray' appearance"
+    ],
+    "answer": "B",
+    "detail": "On CT, pericardial cysts characteristically measure as water density."
+  },
+  {
+    "number": 74,
+    "question": "Regarding the pericardium, do pericardial cysts communicate with the pericardial space?",
+    "choices": [
+      "Always",
+      "Usually",
+      "They do NOT communicate",
+      "Only during tamponade",
+      "Only in children"
+    ],
+    "answer": "C",
+    "detail": "Pericardial cysts are benign incidental findings that do not communicate with the pericardium."
+  },
+  {
+    "number": 75,
+    "question": "What is the most common clinical scenario for partial absence of the pericardium?",
+    "choices": [
+      "Absence over the Right Atrium",
+      "Absence over the Left Atrium and adjacent pulmonary artery",
+      "Absence of the entire parietal layer",
+      "Absence only in the posterior mediastinum",
+      "It is always a total absence"
+    ],
+    "answer": "B",
+    "detail": "The most common scenario is absence over the Left Atrium and the adjacent pulmonary artery."
+  },
+  {
+    "number": 76,
+    "question": "When the left pericardium is absent, the heart typically shifts toward the:",
+    "choices": [
+      "Right",
+      "Left",
+      "Front (sternum)",
+      "Back (spine)",
+      "Superiorly"
+    ],
+    "answer": "B",
+    "detail": "The heart typically shifts toward the left when the left pericardium is absent."
+  },
+  {
+    "number": 77,
+    "question": "Which structure is 'most at risk for strangulation' in the setting of partial pericardial absence?",
+    "choices": [
+      "SVC",
+      "Left atrial appendage",
+      "Right ventricle",
+      "Aorta",
+      "Mitral valve"
+    ],
+    "answer": "B",
+    "detail": "The left atrial appendage is the structure most at risk for strangulation."
+  },
+  {
+    "number": 78,
+    "question": "Cardiac herniation and volvulus can occur following which surgical procedure?",
+    "choices": [
+      "Lung transplant",
+      "Extrapleural pneumonectomy",
+      "CABG",
+      "Glenn shunt",
+      "Ross procedure"
+    ],
+    "answer": "B",
+    "detail": "Herniation can occur after extrapleural pneumonectomy."
+  },
+  {
+    "number": 79,
+    "question": "Pericardial calcification that is largest over the AV groove is a diagnostic finding for:",
+    "choices": [
+      "Acute MI",
+      "Amyloidosis",
+      "Constrictive Pericarditis",
+      "Cardiac tamponade",
+      "Myxoma"
+    ],
+    "answer": "C",
+    "detail": "Calcification over the AV groove is characteristic for constrictive pericarditis."
+  },
+  {
+    "number": 80,
+    "question": "For 'gamesmanship,' if you see a 30-year-old female with an ugly rash on her face and a 'Really Big Heart' on CXR, you should suspect:",
+    "choices": [
+      "Sarcoidosis",
+      "Lupus (pericardial effusion)",
+      "Scleroderma",
+      "Tako-Tsubo",
+      "DCM"
+    ],
+    "answer": "B",
+    "detail": "This combination suggests an SLE-related pericardial effusion."
+  },
+  {
+    "number": 81,
+    "question": "The Bentall Procedure involves a composite graft replacement of the aortic valve, aortic root, and ascending aorta, along with:",
+    "choices": [
+      "Mitral valve repair",
+      "Re-implantation of the coronary arteries into the graft",
+      "SVC to pulmonary artery shunt",
+      "Creation of an ASD",
+      "Removal of the pericardium"
+    ],
+    "answer": "B",
+    "detail": "Coronary arteries must be re-implanted into the graft during a Bentall procedure."
+  },
+  {
+    "number": 82,
+    "question": "The Bentall Procedure is classically used to treat lesions associated with which syndrome?",
+    "choices": [
+      "Downs",
+      "Turner",
+      "Marfan",
+      "Williams",
+      "Noonan"
+    ],
+    "answer": "C",
+    "detail": "The procedure is classically used for aortic root and valve disease in Marfan syndrome."
+  },
+  {
+    "number": 83,
+    "question": "The Glenn Shunt is a 'Vein to Artery' procedure that connects the:",
+    "choices": [
+      "IVC to the aorta",
+      "SVC to the pulmonary artery",
+      "Subclavian artery to the pulmonary artery",
+      "Left atrium to the right atrium",
+      "Carotid to the jugular"
+    ],
+    "answer": "B",
+    "detail": "The Glenn shunt connects the SVC to the pulmonary artery."
+  },
+  {
+    "number": 84,
+    "question": "What is the primary purpose of the Glenn shunt?",
+    "choices": [
+      "Increase systemic blood pressure",
+      "Increase pulmonary blood flow by bypassing the right heart",
+      "Close a large VSD",
+      "Repair a coarctation",
+      "Provide blood to a transplanted heart"
+    ],
+    "answer": "B",
+    "detail": "The primary purpose is to increase pulmonary blood flow by bypassing the right heart."
+  },
+  {
+    "number": 85,
+    "question": "A 'testable complication' of the Glenn procedure is the development of:",
+    "choices": [
+      "Plastic bronchitis",
+      "SVC Syndrome or Pulmonary Artery Aneurysms",
+      "Mitral stenosis",
+      "Sudden cardiac death",
+      "Aortic dissection"
+    ],
+    "answer": "B",
+    "detail": "SVC Syndrome and PA Aneurysms are testable complications of the Glenn procedure."
+  },
+  {
+    "number": 86,
+    "question": "The Blalock-Taussig (BT) Shunt is an 'Artery to Artery' procedure connecting the:",
+    "choices": [
+      "Aorta to the IVC",
+      "Subclavian artery to the pulmonary artery",
+      "SVC to the RA",
+      "Pulmonary vein to the LA",
+      "Internal mammary to the LAD"
+    ],
+    "answer": "B",
+    "detail": "The BT shunt connects the subclavian artery to the pulmonary artery."
+  },
+  {
+    "number": 87,
+    "question": "The primary purpose of a Blalock-Taussig shunt is to:",
+    "choices": [
+      "Decrease pulmonary blood flow",
+      "Increase pulmonary blood flow",
+      "Bypass the left ventricle",
+      "Replace the tricuspid valve",
+      "Fix a transposition"
+    ],
+    "answer": "B",
+    "detail": "The primary purpose of the BT shunt is to increase pulmonary blood flow."
+  },
+  {
+    "number": 88,
+    "question": "A major testable complication of the Blalock-Taussig shunt is:",
+    "choices": [
+      "Plastic bronchitis",
+      "Stenosis at the shunt’s pulmonary insertion site",
+      "Myocardial rupture",
+      "SVC syndrome",
+      "Right heart failure"
+    ],
+    "answer": "B",
+    "detail": "Stenosis at the insertion site is a major testable complication."
+  },
+  {
+    "number": 89,
+    "question": "The Fontan Procedure is used to:",
+    "choices": [
+      "Fix an aortic aneurysm",
+      "Bypass the right ventricle by directing systemic circulation into the PAs",
+      "Replace a diseased aortic valve in kids",
+      "Switch the great arteries",
+      "Create a double heart"
+    ],
+    "answer": "B",
+    "detail": "The Fontan procedure bypasses the RV by directing systemic circulation into the PAs."
+  },
+  {
+    "number": 90,
+    "question": "Which of the following is a 'unique and testable' complication of the Fontan procedure?",
+    "choices": [
+      "Aortic insufficiency",
+      "Plastic Bronchitis (coughing up bronchial casts)",
+      "Coronary aneurysm",
+      "SVC syndrome",
+      "Pulmonary hypoplasia"
+    ],
+    "answer": "B",
+    "detail": "Plastic Bronchitis is a unique and testable Fontan complication."
+  },
+  {
+    "number": 91,
+    "question": "Another complication of the Fontan procedure is arrhythmia caused by an:",
+    "choices": [
+      "Enlarged Left Atrium",
+      "Enlarged Right Atrium",
+      "Small RV",
+      "Calcified pericardium",
+      "Infarcted septum"
+    ],
+    "answer": "B",
+    "detail": "RA enlargement after Fontan can cause arrhythmia."
+  },
+  {
+    "number": 92,
+    "question": "In an Orthotopic Heart Transplant:",
+    "choices": [
+      "All of the heart is removed except the circular part of the left atrium",
+      "The recipient heart remains in place and the donor heart is added on top",
+      "Only the valves are replaced",
+      "It creates a 'double heart'",
+      "It gives the native heart a chance to recover"
+    ],
+    "answer": "A",
+    "detail": "In orthotopic transplant, the whole heart is removed except for part of the left atrium."
+  },
+  {
+    "number": 93,
+    "question": "A Heterotopic Heart Transplant:",
+    "choices": [
+      "Involves removing the whole native heart",
+      "Adds a donor heart on top of the native heart",
+      "Is the most common type of transplant",
+      "Requires re-implantation of the coronaries",
+      "Is only done for children"
+    ],
+    "answer": "B",
+    "detail": "Heterotopic transplant ('double heart') adds a donor heart on top of the native heart."
+  },
+  {
+    "number": 94,
+    "question": "The 'Ross Procedure' replaces a diseased aortic valve with which structure?",
+    "choices": [
+      "A synthetic graft",
+      "The patient's own pulmonary valve",
+      "A donor tricuspid valve",
+      "The patient's own mitral valve",
+      "A pericardial patch"
+    ],
+    "answer": "B",
+    "detail": "Replacing the aortic valve with the patient's own pulmonary valve is the Ross procedure."
+  },
+  {
+    "number": 95,
+    "question": "For whom is the Ross Procedure typically performed?",
+    "choices": [
+      "Elderly patients with atherosclerosis",
+      "Children with diseased aortic valves",
+      "Patients with Marfan syndrome",
+      "Smokers with COPD",
+      "Patients after an acute MI"
+    ],
+    "answer": "B",
+    "detail": "The Ross procedure is typically done for diseased aortic valves in children."
+  },
+  {
+    "number": 96,
+    "question": "The Jatene Procedure is a type of arterial switch used to treat:",
+    "choices": [
+      "Tetralogy of Fallot",
+      "Transposition of the Great Arteries",
+      "Ebstein Anomaly",
+      "Coarctation",
+      "HLHS"
+    ],
+    "answer": "B",
+    "detail": "The Jatene switch is used for D-Transposition."
+  },
+  {
+    "number": 97,
+    "question": "The 'LeCompte Maneuver,' where the PA is draped over the aorta, is part of which procedure?",
+    "choices": [
+      "Glenn",
+      "Fontan",
+      "Jatene (Arterial Switch)",
+      "Ross",
+      "Bentall"
+    ],
+    "answer": "C",
+    "detail": "The LeCompte maneuver is a high-yield buzzword for the Jatene arterial switch."
+  },
+  {
+    "number": 98,
+    "question": "The Rastelli Procedure involves a 'RV Baffle' and is indicated for:",
+    "choices": [
+      "Coarctation",
+      "Transposition with pulmonary outflow obstruction",
+      "Simple VSD",
+      "Mitral stenosis",
+      "Pericarditis"
+    ],
+    "answer": "B",
+    "detail": "The Rastelli RV Baffle is indicated for transposition with pulmonary outflow obstruction."
+  },
+  {
+    "number": 99,
+    "question": "Pulmonary Artery Banding is used to treat:",
+    "choices": [
+      "Aortic stenosis",
+      "CHF in infancy or Single Ventricle",
+      "Pulmonary regurgitation",
+      "SVC syndrome",
+      "Ebstein Anomaly"
+    ],
+    "answer": "B",
+    "detail": "P-Artery Banding is used to manage flow in infancy CHF or Single Ventricle."
+  },
+  {
+    "number": 100,
+    "question": "'Arterial Switch' procedures like the Senning and Mustard were used for:",
+    "choices": [
+      "Coarctation",
+      "Transposition of the Great Arteries",
+      "TAPVR",
+      "Tetralogy of Fallot",
+      "Truncus Arteriosus"
+    ],
+    "answer": "B",
+    "detail": "Senning and Mustard switches are used for Transposition of the Great Arteries."
+  }
+]
+
+}

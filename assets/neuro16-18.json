@@ -1,0 +1,1306 @@
+{
+    "questions": 
+
+[
+  {
+    "number": 1,
+    "question": "When discussing head and neck cancer, which histological type accounts for the vast majority (~85–90%) of cases?",
+    "choices": [
+      "A. Adenocarcinoma",
+      "B. Squamous Cell Carcinoma (SCC)",
+      "C. Lymphoma",
+      "D. Melanoma",
+      "E. Sarcoma"
+    ],
+    "answer": "B",
+    "detail": "Head and neck cancer is overwhelmingly dominated by Squamous Cell Carcinoma."
+  },
+  {
+    "number": 2,
+    "question": "Which anatomical structure separates Lymph Node Level 1A from Level 1B?",
+    "choices": [
+      "A. Stylohyoid muscle",
+      "B. Internal Jugular Vein",
+      "C. Anterior Belly of the Digastric muscle",
+      "D. Hyoid bone",
+      "E. Cricoid cartilage"
+    ],
+    "answer": "C",
+    "detail": "The anterior belly of the digastric muscle serves as the anatomical boundary between nodal levels 1A and 1B."
+  },
+  {
+    "number": 3,
+    "question": "Lymph Node Level 1B is separated from Level 2A by which structure?",
+    "choices": [
+      "A. Stylohyoid muscle",
+      "B. Mylohyoid muscle",
+      "C. Anterior belly of the digastric",
+      "D. Posterior belly of the digastric",
+      "E. Thyroid cartilage"
+    ],
+    "answer": "A",
+    "detail": "The stylohyoid muscle, which is associated with the posterior aspect of the submandibular gland, separates level 1B from 2A."
+  },
+  {
+    "number": 4,
+    "question": "Level 2A nodes are distinguished from Level 2B nodes by their relationship to the:",
+    "choices": [
+      "A. Carotid artery",
+      "B. Internal Jugular (IJ) Vein",
+      "C. Sternocleidomastoid muscle",
+      "D. Hyoid bone",
+      "E. Spinal accessory nerve"
+    ],
+    "answer": "B",
+    "detail": "The Internal Jugular vein is the landmark; 2B nodes are characteristically located posterior to the IJ, separated by a clear fat plane."
+  },
+  {
+    "number": 5,
+    "question": "The vertical boundary between Lymph Node Levels 2 and 3 is defined by the:",
+    "choices": [
+      "A. Lower border of the Hyoid bone",
+      "B. Upper border of the Hyoid bone",
+      "C. Lower border of the Cricoid cartilage",
+      "D. Jugular fossa",
+      "E. Clivus"
+    ],
+    "answer": "A",
+    "detail": "The lower border of the hyoid bone marks the anatomical transition from Level 2 to Level 3 nodes."
+  },
+  {
+    "number": 6,
+    "question": "The vertical boundary between Lymph Node Levels 3 and 4 is defined by the:",
+    "choices": [
+      "A. Hyoid bone",
+      "B. Lower border of the Cricoid cartilage",
+      "C. Sternal notch",
+      "D. Thyroid notch",
+      "E. Base of tongue"
+    ],
+    "answer": "B",
+    "detail": "The lower border of the cricoid cartilage serves as the divider between Level 3 and Level 4 nodes."
+  },
+  {
+    "number": 7,
+    "question": "In an older patient, Floor of the Mouth SCC is typically associated with smoking and drinking, while in a younger patient, it is strongly linked to:",
+    "choices": [
+      "A. EBV",
+      "B. HPV",
+      "C. HIV",
+      "D. Trauma",
+      "E. Radiation"
+    ],
+    "answer": "B",
+    "detail": "HPV is the classic association for mouth and oropharyngeal cancer in younger adults who may lack traditional risk factors."
+  },
+  {
+    "number": 8,
+    "question": "A young adult presenting with a 'new' Level II neck mass that appears necrotic is most likely to have:",
+    "choices": [
+      "A. A branchial cleft cyst",
+      "B. A thyroglossal duct cyst",
+      "C. HPV-related SCC",
+      "D. Lymphoma",
+      "E. Cat scratch disease"
+    ],
+    "answer": "C",
+    "detail": "A necrotic Level II node in a young adult is a 'classic scenario' for HPV-related SCC."
+  },
+  {
+    "number": 9,
+    "question": "What is the most common location for Nasopharyngeal Carcinoma?",
+    "choices": [
+      "A. Cribriform plate",
+      "B. Fossa of Rosenmüller (FOR)",
+      "C. Maxillary sinus",
+      "D. Palatine tonsil",
+      "E. Uvula"
+    ],
+    "answer": "B",
+    "detail": "The Fossa of Rosenmüller is the most frequent primary site for nasopharyngeal carcinoma."
+  },
+  {
+    "number": 10,
+    "question": "What is considered the 'Earliest Sign' of nasopharyngeal SCC on imaging?",
+    "choices": [
+      "A. Clivus destruction",
+      "B. Effacement of the fat within the Fossa of Rosenmüller",
+      "C. Unilateral mastoid effusion",
+      "D. Pathologic retropharyngeal node",
+      "E. Carotid encasement"
+    ],
+    "answer": "B",
+    "detail": "Loss or effacement of the normal fat plane in the FOR is the earliest radiographic sign of tumor."
+  },
+  {
+    "number": 11,
+    "question": "Nodal metastases are present at the time of diagnosis in what percentage of nasopharyngeal tumors?",
+    "choices": [
+      "A. 10%",
+      "B. 25%",
+      "C. 50%",
+      "D. 90%",
+      "E. 100%"
+    ],
+    "answer": "D",
+    "detail": "90% of patients with nasopharyngeal tumors already have nodal involvement at the time of presentation."
+  },
+  {
+    "number": 12,
+    "question": "Which nodes are typically the 'first involved' in nasopharyngeal cancer spread?",
+    "choices": [
+      "A. Level 1A",
+      "B. Retropharyngeal nodes",
+      "C. Supraclavicular nodes",
+      "D. Level 6 (Delphian) nodes",
+      "E. Axillary nodes"
+    ],
+    "answer": "B",
+    "detail": "The retropharyngeal nodes are usually the first destination for lymphatic spread from the nasopharynx."
+  },
+  {
+    "number": 13,
+    "question": "Which imaging modality is superior for detecting skull base (Clivus) invasion by a nasopharyngeal tumor?",
+    "choices": [
+      "A. CT",
+      "B. MRI",
+      "C. PET/CT",
+      "D. Ultrasound",
+      "E. Plain film"
+    ],
+    "answer": "B",
+    "detail": "MRI provides better sensitivity than CT for identifying marrow replacement and skull base invasion."
+  },
+  {
+    "number": 14,
+    "question": "The 'Para-Epiglottic Space' communicates superiorly with the:",
+    "choices": [
+      "A. Subglottic region",
+      "B. Pre-Epiglottic Space/Fat",
+      "C. Fossa of Rosenmüller",
+      "D. Carotid space",
+      "E. Masticator space"
+    ],
+    "answer": "B",
+    "detail": "The para-epiglottic space is continuous with the pre-epiglottic fat superiorly."
+  },
+  {
+    "number": 15,
+    "question": "Why is tumor invasion of the pre-epiglottic fat clinically significant?",
+    "choices": [
+      "A. It causes immediate airway collapse.",
+      "B. The space is rich in lymphatics, which is important for staging.",
+      "C. It leads to vocal cord paralysis.",
+      "D. It indicates an HPV-related origin.",
+      "E. It prevents the use of MRI."
+    ],
+    "answer": "B",
+    "detail": "Invasion of this lymphatic-rich space is a critical factor for tumor staging."
+  },
+  {
+    "number": 16,
+    "question": "'Hoarseness' is a classic clinical buzzword that should prompt evaluation of the larynx and the:",
+    "choices": [
+      "A. AP Window in the chest (Recurrent Laryngeal Nerve)",
+      "B. Internal auditory canal",
+      "C. Sphenoid sinus",
+      "D. Foramen magnum",
+      "E. Sella turcica"
+    ],
+    "answer": "A",
+    "detail": "Hoarseness often results from compression of the recurrent laryngeal nerve, which loops through the AP window in the chest."
+  },
+  {
+    "number": 17,
+    "question": "Left-sided vocal cord paralysis is identified on imaging by an expanded laryngeal ventricle; the 'Next Step' is to:",
+    "choices": [
+      "A. Biopsy the larynx",
+      "B. Look in the AP window of the chest",
+      "C. Perform an MRI of the brain",
+      "D. Order a thyroid ultrasound",
+      "E. Check for HPV titers"
+    ],
+    "answer": "B",
+    "detail": "Identifying vocal cord paralysis should trigger a search for a mass at the AP window compressing the nerve."
+  },
+  {
+    "number": 18,
+    "question": "Which type of laryngeal cancer is the most common and typically has the best outcome?",
+    "choices": [
+      "A. Supraglottic",
+      "B. Glottic",
+      "C. Subglottic",
+      "D. Transglottic",
+      "E. Epiglottic-centered"
+    ],
+    "answer": "B",
+    "detail": "Glottic cancer is the most frequent laryngeal malignancy and generally carries the best prognosis."
+  },
+  {
+    "number": 19,
+    "question": "A 'Transglottic' cancer is defined as an aggressive tumor that:",
+    "choices": [
+      "A. Crosses the laryngeal ventricle",
+      "B. Involves only the true cords",
+      "C. Remains in the subglottic region",
+      "D. Spreads to the lungs",
+      "E. Is only seen in non-smokers"
+    ],
+    "answer": "A",
+    "detail": "Transglottic tumors are defined by their ability to cross the laryngeal ventricle, involving multiple levels."
+  },
+  {
+    "number": 20,
+    "question": "Which finding is the 'only reliable sign' of cricoid cartilage invasion on imaging?",
+    "choices": [
+      "A. Sclerosis of the cartilage",
+      "B. Irregularity of the cartilage margin",
+      "C. Tumor on BOTH sides of the cartilage",
+      "D. Vocal cord paralysis",
+      "E. Presence of a Level 6 node"
+    ],
+    "answer": "C",
+    "detail": "Identifying tumor on both sides of the cartilage is the only definitive radiographic sign of invasion."
+  },
+  {
+    "number": 21,
+    "question": "Invasion of the cricoid cartilage is a contraindication to:",
+    "choices": [
+      "A. Laryngeal conservation surgery",
+      "B. Chemotherapy",
+      "C. Radiation",
+      "D. Tracheostomy",
+      "E. Biopsy"
+    ],
+    "answer": "A",
+    "detail": "The cricoid cartilage is essential for laryngeal stability; its invasion precludes conservation surgery."
+  },
+  {
+    "number": 22,
+    "question": "Which sub-type of laryngeal cancer is 'least common' but often features bilateral nodal disease?",
+    "choices": [
+      "A. Glottic",
+      "B. Sub-glottic",
+      "C. Supraglottic",
+      "D. Epiglottic",
+      "E. Transglottic"
+    ],
+    "answer": "B",
+    "detail": "Sub-glottic cancer is the least common variant but is known for a high burden of bilateral nodal metastases."
+  },
+  {
+    "number": 23,
+    "question": "'Delphian Nodes' are pathologic Level 6 nodes that classically represent a metastasis from which primary?",
+    "choices": [
+      "A. Thyroid",
+      "B. Larynx (Laryngeal Cancer)",
+      "C. Nasopharynx",
+      "D. Breast",
+      "E. Lung"
+    ],
+    "answer": "B",
+    "detail": "Pathological Level 6 (Delphian) nodes are considered metastatic from laryngeal cancer."
+  },
+  {
+    "number": 24,
+    "question": "In the staging of cervical nodes, Level 1 and Level 2 nodes are treated the same, and 'Rotter nodes' are categorized as:",
+    "choices": [
+      "A. Level 1",
+      "B. Level 2",
+      "C. Level 3",
+      "D. Supraclavicular",
+      "E. Submental"
+    ],
+    "answer": "B",
+    "detail": "Rotter nodes are staged and treated identically to Level 2 nodes."
+  },
+  {
+    "number": 25,
+    "question": "Nodal staging for head and neck SCC: Level 3 and which other nodes are treated identically?",
+    "choices": [
+      "A. Level 1",
+      "B. Level 2",
+      "C. Supraclavicular nodes",
+      "D. Retropharyngeal nodes",
+      "E. Delphian nodes"
+    ],
+    "answer": "C",
+    "detail": "Level 3 and supraclavicular nodes are grouped together for staging and treatment purposes."
+  },
+  {
+    "number": 26,
+    "question": "What is the most common primary malignancy of the globe?",
+    "choices": [
+      "A. Melanoma",
+      "B. Retinoblastoma",
+      "C. Lymphoma",
+      "D. PHPV",
+      "E. Sarcoma"
+    ],
+    "answer": "B",
+    "detail": "Retinoblastoma is the leading primary malignancy of the ocular globe."
+  },
+  {
+    "number": 27,
+    "question": "If you see calcification within the globe of a child, the 'reflex' diagnosis is:",
+    "choices": [
+      "A. Coats' Disease",
+      "B. Retinoblastoma",
+      "C. PHPV",
+      "D. Ocular Toxocariasis",
+      "E. Drusen"
+    ],
+    "answer": "B",
+    "detail": "Intraocular calcification in a child is pathognomonic for retinoblastoma until proven otherwise."
+  },
+  {
+    "number": 28,
+    "question": "Retinoblastoma is associated with a mutation in a suppressor gene located on which chromosome?",
+    "choices": [
+      "A. 11",
+      "B. 13 ('unlucky 13')",
+      "C. 17",
+      "D. 21",
+      "E. 22"
+    ],
+    "answer": "B",
+    "detail": "Retinoblastoma is linked to the RB1 tumor suppressor gene on chromosome 13."
+  },
+  {
+    "number": 29,
+    "question": "A 'Trilateral' retinoblastoma involves both eyes and which other structure?",
+    "choices": [
+      "A. Pineal gland",
+      "B. Suprasellar region",
+      "C. Spleen",
+      "D. Liver",
+      "E. Kidney"
+    ],
+    "answer": "A",
+    "detail": "Trilateral disease is defined as bilateral retinoblastomas plus a pineal gland tumor."
+  },
+  {
+    "number": 30,
+    "question": "'Coats’ Disease' is a differential for retinoblastoma but is distinguished by having a globe that is:",
+    "choices": [
+      "A. Larger than normal",
+      "B. SMALLER than normal and NOT calcified",
+      "C. Calcified but in a girl",
+      "D. Always bilateral",
+      "E. High T1 signal"
+    ],
+    "answer": "B",
+    "detail": "Coats' disease characteristically features a small eye and an absence of calcification."
+  },
+  {
+    "number": 31,
+    "question": "Persistent Hyperplastic Primary Vitreous (PHPV) is characterized by failure of the ocular blood supply to regress and a:",
+    "choices": [
+      "A. Large calcified eye",
+      "B. Small eye (microphthalmia) with increased vitreous density",
+      "C. Normal sized eye with a 'V' shaped detachment",
+      "D. High risk for liver mets",
+      "E. Predilection for older adults"
+    ],
+    "answer": "B",
+    "detail": "The hallmark of PHPV is microphthalmia (a small eye) without calcification."
+  },
+  {
+    "number": 32,
+    "question": "What is the 'most common' intra-ocular lesion in an adult?",
+    "choices": [
+      "A. Retinoblastoma",
+      "B. Melanoma",
+      "C. Metastasis from lung",
+      "D. Optic nerve glioma",
+      "E. Hemangioma"
+    ],
+    "answer": "B",
+    "detail": "Uveal melanoma is the most frequent primary globe malignancy in adults."
+  },
+  {
+    "number": 33,
+    "question": "What is the classic buzzword for the shape of an adult ocular melanoma on imaging?",
+    "choices": [
+      "A. Collar button shaped",
+      "B. Tram-track",
+      "C. Doughnut",
+      "D. Snowstorm",
+      "E. Popcorn-like"
+    ],
+    "answer": "A",
+    "detail": "Ocular melanomas are often described as collar-button shaped due to the restrictive effect of Bruch's membrane."
+  },
+  {
+    "number": 34,
+    "question": "Adult ocular melanomas have a strong predilection for metastases to which organ?",
+    "choices": [
+      "A. Brain",
+      "B. Liver (Next Step = Liver MRI)",
+      "C. Lung",
+      "D. Bone",
+      "E. Spleen"
+    ],
+    "answer": "B",
+    "detail": "Ocular melanoma spreads hematogenously, favoring the liver."
+  },
+  {
+    "number": 35,
+    "question": "Bilateral Optic Nerve Gliomas are a 'reflex' diagnosis for which syndrome?",
+    "choices": [
+      "A. NF-1",
+      "B. NF-2",
+      "C. VHL",
+      "D. Tuberous Sclerosis",
+      "E. Cowden"
+    ],
+    "answer": "A",
+    "detail": "Bilateral involvement of the optic nerves is a hallmark sign of Neurofibromatosis Type 1."
+  },
+  {
+    "number": 36,
+    "question": "Most optic nerve gliomas are which WHO grade?",
+    "choices": [
+      "A. Grade 1 (Pilocytic Astrocytoma)",
+      "B. Grade 2 (Diffuse)",
+      "C. Grade 3 (Anaplastic)",
+      "D. Grade 4 (GBM)",
+      "E. Grade 0"
+    ],
+    "answer": "A",
+    "detail": "Optic pathway gliomas are typically low-grade WHO Grade 1 Pilocytic Astrocytomas."
+  },
+  {
+    "number": 37,
+    "question": "'Tram-track' calcifications along the optic nerve are the hallmark for:",
+    "choices": [
+      "A. Optic nerve glioma",
+      "B. Optic Nerve Sheath Meningioma",
+      "C. Ocular melanoma",
+      "D. Retinoblastoma",
+      "E. Coats' disease"
+    ],
+    "answer": "B",
+    "detail": "Tram-track calcification on CT is characteristic of optic nerve sheath meningiomas."
+  },
+  {
+    "number": 38,
+    "question": "What is the classic 'Doughnut' appearance in the orbit?",
+    "choices": [
+      "A. Retinoblastoma",
+      "B. Circumferential enhancement around the optic nerve (Meningioma)",
+      "C. A ruptured dermoid",
+      "D. Graves disease",
+      "E. Carotid-cavernous fistula"
+    ],
+    "answer": "B",
+    "detail": "The 'doughnut' appearance refers to the pattern of enhancement seen with optic nerve sheath meningiomas."
+  },
+  {
+    "number": 39,
+    "question": "What is the most common benign congenital orbital mass?",
+    "choices": [
+      "A. Hemangioma",
+      "B. Dermoid",
+      "C. Optic glioma",
+      "D. Schwannoma",
+      "E. Lipoma"
+    ],
+    "answer": "B",
+    "detail": "Dermoid cysts are the most frequent benign congenital orbital masses in children."
+  },
+  {
+    "number": 40,
+    "question": "Orbital dermoids are characteristically located:",
+    "choices": [
+      "A. Superior and Lateral",
+      "B. Inferior and Medial",
+      "C. Midline behind the globe",
+      "D. In the lacrimal sac",
+      "E. Only in adults"
+    ],
+    "answer": "A",
+    "detail": "Dermoids are typically found superior and lateral, near the frontozygomatic suture."
+  },
+  {
+    "number": 41,
+    "question": "What is the most common extra-ocular orbital malignancy in children?",
+    "choices": [
+      "A. Lymphoma",
+      "B. Rhabdomyosarcoma",
+      "C. Neuroblastoma metastasis",
+      "D. Osteosarcoma",
+      "E. Optic glioma"
+    ],
+    "answer": "B",
+    "detail": "Rhabdomyosarcoma is the top primary extra-ocular malignancy in the pediatric population."
+  },
+  {
+    "number": 42,
+    "question": "Which orbital mass is associated with 'Chlamydia Psittaci' (bird fever)?",
+    "choices": [
+      "A. Melanoma",
+      "B. MALT Lymphoma",
+      "C. Pseudotumor",
+      "D. Graves disease",
+      "E. Sarcoidosis"
+    ],
+    "answer": "B",
+    "detail": "Orbital lymphoma has a documented association with Chlamydia Psittaci infection."
+  },
+  {
+    "number": 43,
+    "question": "'Raccoon Eyes' on physical exam is a classic sign of which orbital pathology?",
+    "choices": [
+      "A. Optic nerve glioma",
+      "B. Metastatic Neuroblastoma",
+      "C. Graves ophthalmopathy",
+      "D. Dermoid rupture",
+      "E. Melanoma"
+    ],
+    "answer": "B",
+    "detail": "Metastatic neuroblastoma to the orbit characteristically causes periorbital ecchymosis ('raccoon eyes')."
+  },
+  {
+    "number": 44,
+    "question": "Unlike most orbital tumors that cause proptosis, a metastasis from which primary classically causes 'enophthalmos' (posterior displacement)?",
+    "choices": [
+      "A. Lung cancer",
+      "B. Scirrhous Breast Cancer",
+      "C. Renal cell carcinoma",
+      "D. Prostate cancer",
+      "E. Thyroid cancer"
+    ],
+    "answer": "B",
+    "detail": "Scirrhous breast cancer causes a desmoplastic reaction that pulls the globe posteriorly (enophthalmos)."
+  },
+  {
+    "number": 45,
+    "question": "Orbital Pseudotumor is painful, unilateral, and characteristically involves the lateral rectus while:",
+    "choices": [
+      "A. Sparing the tendons",
+      "B. NOT sparing the myotendinous insertions",
+      "C. Calcifying intensely",
+      "D. Showing fat-fluid levels",
+      "E. Always being bilateral"
+    ],
+    "answer": "B",
+    "detail": "Orbital pseudotumor involves the muscle tendons, which distinguishes it from Graves disease."
+  },
+  {
+    "number": 46,
+    "question": "Which orbital condition is painless, spares the myotendinous insertions, and is associated with 'hot' thyroid tests?",
+    "choices": [
+      "A. Orbital pseudotumor",
+      "B. Graves Disease",
+      "C. Tolosa Hunt",
+      "D. Lymphoma",
+      "E. CC-Fistula"
+    ],
+    "answer": "B",
+    "detail": "Graves ophthalmopathy is painless and characteristically spares the muscle tendons."
+  },
+  {
+    "number": 47,
+    "question": "'Tolosa Hunt Syndrome' is histologically identical to orbital pseudotumor but involves the:",
+    "choices": [
+      "A. Optic nerve",
+      "B. Cavernous Sinus",
+      "C. Lacrimal gland",
+      "D. Pituitary stalk",
+      "E. Globe"
+    ],
+    "answer": "B",
+    "detail": "Tolosa Hunt is essentially pseudotumor extending into the cavernous sinus."
+  },
+  {
+    "number": 48,
+    "question": "Lymphocytic Hypophysitis classically presents as an enlarged pituitary stalk in a postpartum woman with a:",
+    "choices": [
+      "A. T1 bright signal",
+      "B. T2 dark rim",
+      "C. Calcified base",
+      "D. 'Swiss cheese' look",
+      "E. Empty sella"
+    ],
+    "answer": "B",
+    "detail": "The presence of a T2 dark rim is a classic imaging feature of hypophysitis."
+  },
+  {
+    "number": 49,
+    "question": "An 'Indirect' Carotid-Cavernous Fistula is a dural shunt typically seen in:",
+    "choices": [
+      "A. Young men after trauma",
+      "B. Post-menopausal women (spontaneous)",
+      "C. Infants with NF-1",
+      "D. Patients with bird fever",
+      "E. Diabetics in DKA"
+    ],
+    "answer": "B",
+    "detail": "Indirect CCFs occur spontaneously, typically in post-menopausal women."
+  },
+  {
+    "number": 50,
+    "question": "'Pulsatile Exophthalmos' is a buzzword for both CC-Fistula and:",
+    "choices": [
+      "A. Graves disease",
+      "B. NF-1 (in the setting of sphenoid wing dysplasia)",
+      "C. Retinoblastoma",
+      "D. Orbital lymphoma",
+      "E. Tolosa Hunt"
+    ],
+    "answer": "B",
+    "detail": "Sphenoid wing dysplasia in NF-1 allows CSF pulsations to be transmitted to the globe, causing pulsatile exophthalmos."
+  },
+  {
+    "number": 51,
+    "question": "At what level does the Conus Medullaris typically terminate in an adult?",
+    "choices": [
+      "A. T10",
+      "B. T12",
+      "C. L1",
+      "D. L3",
+      "E. S1"
+    ],
+    "answer": "C",
+    "detail": "In the vast majority of adults, the conus ends at the level of L1."
+  },
+  {
+    "number": 52,
+    "question": "A conus terminating below the inferior endplate of L2 should make you think of:",
+    "choices": [
+      "A. Normal variant",
+      "B. Tethered Cord",
+      "C. Spinal cord infarct",
+      "D. SCD",
+      "E. MS"
+    ],
+    "answer": "B",
+    "detail": "A low-lying conus medullaris is a primary imaging marker for a tethered spinal cord."
+  },
+  {
+    "number": 53,
+    "question": "The 'Artery of Adamkiewicz' is the most notable reinforcer of the anterior spinal artery; in 75% of people, it originates from the:",
+    "choices": [
+      "A. Right side, T5–T8",
+      "B. Left side of the aorta, T8–T11",
+      "C. Celiac axis",
+      "D. Internal iliac artery",
+      "E. Vertebral artery"
+    ],
+    "answer": "B",
+    "detail": "It typically arises from the left side of the aorta between T8 and T11."
+  },
+  {
+    "number": 54,
+    "question": "'Epidural Lipomatosis' is an overgrowth of epidural fat that occurs almost exclusively in patients:",
+    "choices": [
+      "A. With diabetes",
+      "B. On steroids (corticosteroids)",
+      "C. Who are professional athletes",
+      "D. With scoliosis",
+      "E. With a history of meningitis"
+    ],
+    "answer": "B",
+    "detail": "Exogenous steroid use is the primary clinical risk factor for epidural lipomatosis."
+  },
+  {
+    "number": 55,
+    "question": "The Torg-Pavlov ratio is used to identify spinal stenosis; a ratio below what threshold is diagnostic?",
+    "choices": [
+      "A. 1.0",
+      "B. < 0.85",
+      "C. < 0.5",
+      "D. 2.0",
+      "E. 0.1"
+    ],
+    "answer": "B",
+    "detail": "A Torg-Pavlov ratio of less than 0.85 indicates cervical spinal stenosis."
+  },
+  {
+    "number": 56,
+    "question": "A 'Schmorl Node' is defined as:",
+    "choices": [
+      "A. A vertebral body fracture",
+      "B. Intravertebral herniation of disc material through the endplate",
+      "C. A calcified nerve root",
+      "D. A spinal cord tumor",
+      "E. An epidural abscess"
+    ],
+    "answer": "B",
+    "detail": "Schmorl nodes are intravertebral herniations of the nucleus pulposus through the vertebral endplate."
+  },
+  {
+    "number": 57,
+    "question": "Scheuermann’s Disease is defined by at least three levels of wedged vertebral bodies and associated:",
+    "choices": [
+      "A. Fat necrosis",
+      "B. Schmorl's nodes",
+      "C. Osteopetrosis",
+      "D. Scoliosis only",
+      "E. C2 fractures"
+    ],
+    "answer": "B",
+    "detail": "The presence of multiple Schmorl nodes and anterior vertebral wedging is diagnostic for Scheuermann’s."
+  },
+  {
+    "number": 58,
+    "question": "To distinguish a postoperative 'Scar' from a 'Residual Disc' on MRI, you should look at:",
+    "choices": [
+      "A. T1 pre-contrast",
+      "B. T2 signal only",
+      "C. T1 post-contrast (Scar enhances, Disc does not)",
+      "D. DWI restriction",
+      "E. The Torg-Pavlov ratio"
+    ],
+    "answer": "C",
+    "detail": "Fibrous scar tissue enhances with Gadolinium, whereas free disc fragments typically do not."
+  },
+  {
+    "number": 59,
+    "question": "In the classification of Odontoid (C2) fractures, which type is 'most common'?",
+    "choices": [
+      "A. Type 1",
+      "B. Type 2",
+      "C. Type 3",
+      "D. Type 4",
+      "E. Jefferson fracture"
+    ],
+    "answer": "B",
+    "detail": "Type 2 fractures at the base of the dens are the most frequent odontoid injuries."
+  },
+  {
+    "number": 60,
+    "question": "Which odontoid fracture has the 'best prognosis for healing'?",
+    "choices": [
+      "A. Type 1",
+      "B. Type 2",
+      "C. Type 3 (fracture through the dens into the C2 body)",
+      "D. Jefferson",
+      "E. Hangman's"
+    ],
+    "answer": "C",
+    "detail": "Type 3 fractures involving the C2 body have the best rate of successful healing."
+  },
+  {
+    "number": 61,
+    "question": "A 'Jefferson Fracture' is an axial loading injury characterized by:",
+    "choices": [
+      "A. Anterior and posterior arches of C1 blowing out laterally",
+      "B. Fracture of the bilateral pars of C2",
+      "C. Avulsion of the alar ligament",
+      "D. Widening of the disc space",
+      "E. Vertebra plana"
+    ],
+    "answer": "A",
+    "detail": "Jefferson fracture refers to a burst fracture of the C1 ring."
+  },
+  {
+    "number": 62,
+    "question": "A 'Hangman’s Fracture' occurs when there is a fracture through the:",
+    "choices": [
+      "A. C1 lateral masses",
+      "B. Bilateral pars of C2 (or pedicles)",
+      "C. Dens apex",
+      "D. C7 spinous process",
+      "E. T1 vertebral body"
+    ],
+    "answer": "B",
+    "detail": "Hangman's fracture is defined by bilateral fractures of the C2 pars interarticularis."
+  },
+  {
+    "number": 63,
+    "question": "What is the most common type of spinal vascular malformation (85%)?",
+    "choices": [
+      "A. Type 1 Intramedullary AVM",
+      "B. Type 1 Dural AVF",
+      "C. Type 3 Juvenile AVM",
+      "D. Type 4 Perimedullary fistula",
+      "E. Glomus tumor"
+    ],
+    "answer": "B",
+    "detail": "Type 1 Dural AVFs are the overwhelming majority of spinal vascular malformations."
+  },
+  {
+    "number": 64,
+    "question": "Dural AVFs are acquired lesions typically seen in older patients; what is the 'gold standard' for diagnosis?",
+    "choices": [
+      "A. CTA",
+      "B. MRA",
+      "C. Angiography",
+      "D. T2 MRI",
+      "E. CT Spine"
+    ],
+    "answer": "C",
+    "detail": "Catheter angiography is the definitive 'gold standard' for diagnosing spinal shunts."
+  },
+  {
+    "number": 65,
+    "question": "'Foix-Alajouanine Syndrome' is a congestive myelopathy associated with:",
+    "choices": [
+      "A. Spinal cord tumor",
+      "B. A Dural AVF (venous hypertension)",
+      "C. SCD",
+      "D. Vitamin B12 deficiency",
+      "E. Multiple Sclerosis"
+    ],
+    "answer": "B",
+    "detail": "This syndrome is the result of chronic spinal cord congestion due to venous hypertension from an AVF."
+  },
+  {
+    "number": 66,
+    "question": "The 'Owl’s Eye' sign on T2 axial MRI is a pathognomonic buzzword for:",
+    "choices": [
+      "A. Spinal Cord Infarct (Anterior Spinal Artery)",
+      "B. Multiple Sclerosis",
+      "C. Transverse Myelitis",
+      "D. SCD",
+      "E. NMO"
+    ],
+    "answer": "A",
+    "detail": "The 'Owl's Eye' describes restricted diffusion/high T2 in the anterior horns during a cord infarct."
+  },
+  {
+    "number": 67,
+    "question": "In a spinal cord infarct, why is high T2 signal localized to the anterior horns/central cord?",
+    "choices": [
+      "A. It’s an inflammatory process.",
+      "B. Gray matter is more vulnerable to ischemia.",
+      "C. The posterior cord has no blood supply.",
+      "D. It represents a tumor.",
+      "E. It is caused by bird fever."
+    ],
+    "answer": "B",
+    "detail": "Gray matter has higher metabolic requirements and is the first to suffer from ischemia."
+  },
+  {
+    "number": 68,
+    "question": "Multiple Sclerosis (MS) in the spinal cord typically features lesions that are:",
+    "choices": [
+      "A. Long segment (> 3 segments)",
+      "B. Short segment (< 2 segments) and involve less than half the cord width",
+      "C. Always symmetric",
+      "D. Only in the lumbar spine",
+      "E. Calcified"
+    ],
+    "answer": "B",
+    "detail": "MS plaques in the cord are characteristically short and eccentric."
+  },
+  {
+    "number": 69,
+    "question": "'Neuromyelitis Optica' (NMO or Devics) is distinguished from MS by involving the spinal cord and:",
+    "choices": [
+      "A. The thyroid",
+      "B. The Optic Nerves",
+      "C. The cerebellum",
+      "D. The ears",
+      "E. The feet"
+    ],
+    "answer": "B",
+    "detail": "NMO is defined by the clinical association of Transverse Myelitis and Optic Neuritis."
+  },
+  {
+    "number": 70,
+    "question": "NMO lesions in the cord differ from MS because they are typically:",
+    "choices": [
+      "A. Short segment",
+      "B. Long segment and involve the full transverse diameter",
+      "C. Sclerotic on CT",
+      "D. Found in infants",
+      "E. Painless"
+    ],
+    "answer": "B",
+    "detail": "NMO lesions are typically long-segment (>3 segments) and involve the entire cross-section of the cord."
+  },
+  {
+    "number": 71,
+    "question": "'Subacute Combined Degeneration' (SCD) is caused by a deficiency in:",
+    "choices": [
+      "A. Vitamin A",
+      "B. Vitamin B12 (Cobalamin)",
+      "C. Vitamin D",
+      "D. Iron",
+      "E. Calcium"
+    ],
+    "answer": "B",
+    "detail": "Vitamin B12 deficiency leads to the characteristic degeneration of the spinal cord."
+  },
+  {
+    "number": 72,
+    "question": "The classic imaging finding for SCD on T2 axial MRI is:",
+    "choices": [
+      "A. Owl's eye sign",
+      "B. Bilateral symmetric increased signal in the DORSAL columns ('Inverted V sign')",
+      "C. Complete cord transection",
+      "D. Enhancement of the cauda equina",
+      "E. Vertebra plana"
+    ],
+    "answer": "B",
+    "detail": "Bilateral dorsal column high T2 signal creates the diagnostic 'inverted V' sign."
+  },
+  {
+    "number": 73,
+    "question": "Which condition in untreated AIDS patients can perfectly mimic the imaging of Vitamin B12 deficiency?",
+    "choices": [
+      "A. PML",
+      "B. HIV Vacuolar Myelopathy",
+      "C. CMV ependymitis",
+      "D. Cryptococcus",
+      "E. Toxoplasmosis"
+    ],
+    "answer": "B",
+    "detail": "HIV Vacuolar Myelopathy presents with the same 'inverted V' dorsal column signal as SCD."
+  },
+  {
+    "number": 74,
+    "question": "'Arachnoiditis' is a late complication of spine surgery or infection characterized on MRI by:",
+    "choices": [
+      "A. A single large mass",
+      "B. 'Empty Thecal Sac Sign' or 'Central Nerve Root Clumping'",
+      "C. Vertebral body destruction",
+      "D. Owl's eye sign",
+      "E. Dural tail"
+    ],
+    "answer": "B",
+    "detail": "Clumped or peripherally adherent nerve roots are the hallmarks of arachnoiditis."
+  },
+  {
+    "number": 75,
+    "question": "'Guillain-Barré Syndrome' (GBS) features a 'thing to know' on MRI, which is:",
+    "choices": [
+      "A. Chordoma of the sacrum",
+      "B. Enhancement of the nerve roots of the cauda equina",
+      "C. High T2 signal in the dorsal columns",
+      "D. Vertebra plana",
+      "E. Tram-track calcification"
+    ],
+    "answer": "B",
+    "detail": "Nerve root enhancement in the cauda equina is the primary MRI finding for GBS."
+  },
+  {
+    "number": 76,
+    "question": "'Chronic Inflammatory Demyelinating Polyneuropathy' (CIDP) is the chronic counterpart to GBS and features which buzzword appearance of nerve roots?",
+    "choices": [
+      "A. 'Onion bulb' or 'Dreadlocks'",
+      "B. Owl's eye",
+      "C. Inverted V",
+      "D. Target sign",
+      "E. Snowstorm"
+    ],
+    "answer": "A",
+    "detail": "In CIDP, nerve roots become hypertrophied and look like 'onion bulbs' or 'dreadlocks'."
+  },
+  {
+    "number": 77,
+    "question": "What is the 'most common' intramedullary tumor in the pediatric population?",
+    "choices": [
+      "A. Ependymoma",
+      "B. Astrocytoma",
+      "C. Hemangioblastoma",
+      "D. Schwannoma",
+      "E. Meningioma"
+    ],
+    "answer": "B",
+    "detail": "Astrocytomas are the most frequent primary intramedullary cord tumors in children."
+  },
+  {
+    "number": 78,
+    "question": "Spinal Astrocytomas differ from Ependymomas because they are typically:",
+    "choices": [
+      "A. Central",
+      "B. Eccentric and show heterogeneous enhancement",
+      "C. Calcified",
+      "D. Hemorrhagic",
+      "E. Only in the lumbar spine"
+    ],
+    "answer": "B",
+    "detail": "Astrocytomas are typically eccentric, while ependymomas are more likely to be central."
+  },
+  {
+    "number": 79,
+    "question": "What is the 'most common' intramedullary mass in adults?",
+    "choices": [
+      "A. Astrocytoma",
+      "B. Ependymoma",
+      "C. Hemangioblastoma",
+      "D. Lymphoma",
+      "E. Dermoid"
+    ],
+    "answer": "B",
+    "detail": "Ependymoma is the most common primary intramedullary tumor in the adult population."
+  },
+  {
+    "number": 80,
+    "question": "The 'Myxopapillary' subtype of Ependymoma is unique because it is exclusively found in the:",
+    "choices": [
+      "A. Cervical cord",
+      "B. Conus or Filum Terminale (Lumbar spine)",
+      "C. Brain stem",
+      "D. AP window",
+      "E. Foramen magnum"
+    ],
+    "answer": "B",
+    "detail": "Myxopapillary ependymomas characteristically occur in the conus and filum terminale."
+  },
+  {
+    "number": 81,
+    "question": "On T2 MRI, a spinal ependymoma may feature a 'dark cap' representing:",
+    "choices": [
+      "A. Fat",
+      "B. Hemorrhage (hemosiderin)",
+      "C. Calcium",
+      "D. Air",
+      "E. Fast-moving blood"
+    ],
+    "answer": "B",
+    "detail": "A cap of low T2 signal (hemosiderin) from old hemorrhage is a classic ependymoma clue."
+  },
+  {
+    "number": 82,
+    "question": "Spinal Hemangioblastomas are associated with Von Hippel-Lindau (VHL) in what percentage of cases?",
+    "choices": [
+      "A. 1%",
+      "B. 10%",
+      "C. 30%",
+      "D. 90%",
+      "E. 100%"
+    ],
+    "answer": "C",
+    "detail": "30% of patients presenting with spinal hemangioblastoma will have VHL."
+  },
+  {
+    "number": 83,
+    "question": "What is the 'most common' primary tumor to occur in the Extramedullary Intradural location?",
+    "choices": [
+      "A. Ependymoma",
+      "B. Schwannoma",
+      "C. Meningioma",
+      "D. Neurofibroma",
+      "E. Chordoma"
+    ],
+    "answer": "B",
+    "detail": "Schwannomas are the leading primary tumor in the extramedullary intradural compartment."
+  },
+  {
+    "number": 84,
+    "question": "A spinal Schwannoma characteristically has which appearance?",
+    "choices": [
+      "A. Dumbbell-shaped with an intraforaminal component",
+      "B. Inverted V sign",
+      "C. Tram-track calcification",
+      "D. Tiger-stripe",
+      "E. 'Mini brain'"
+    ],
+    "answer": "A",
+    "detail": "A dumbbell shape extending through the neuroforamen is classic for spinal schwannomas."
+  },
+  {
+    "number": 85,
+    "question": "'Plexiform Neurofibroma' is a multilevel bulky nerve enlargement that is pathognomonic for:",
+    "choices": [
+      "A. NF-1",
+      "B. NF-2",
+      "C. VHL",
+      "D. Tuberous Sclerosis",
+      "E. Gorlin"
+    ],
+    "answer": "A",
+    "detail": "Plexiform neurofibromas are characteristic of and diagnostic for Neurofibromatosis Type 1."
+  },
+  {
+    "number": 86,
+    "question": "Neurofibromas often demonstrate a 'target sign' on T2, which is defined as:",
+    "choices": [
+      "A. Dark rim, bright middle",
+      "B. Bright T2 rim with a central area of low signal",
+      "C. Sclerotic border on CT",
+      "D. 'Puff of smoke' enhancement",
+      "E. Air-fluid levels"
+    ],
+    "answer": "B",
+    "detail": "The T2 target sign (bright rim, dark center) is a classic imaging feature of neurofibromas."
+  },
+  {
+    "number": 87,
+    "question": "Spinal Meningiomas are much more common in women (70%) and typically favor which location?",
+    "choices": [
+      "A. Anterior cervical spine",
+      "B. Posterior lateral thoracic spine",
+      "C. Midline sacrum",
+      "D. C2 body",
+      "E. Lumbar roots"
+    ],
+    "answer": "B",
+    "detail": "Spinal meningiomas most frequently involve the thoracic region in female patients."
+  },
+  {
+    "number": 88,
+    "question": "'Drop Metastases' to the spine most commonly originate from which primary brain tumor?",
+    "choices": [
+      "A. Glioblastoma",
+      "B. Medulloblastoma",
+      "C. Ependymoma",
+      "D. JPA",
+      "E. Meningioma"
+    ],
+    "answer": "B",
+    "detail": "Medulloblastoma is the most frequent brain malignancy to seed the spinal axis."
+  },
+  {
+    "number": 89,
+    "question": "What is the 'most common' systemic tumor to produce drop metastases (Zuckerguss) to the spine?",
+    "choices": [
+      "A. Lung",
+      "B. Breast Cancer",
+      "C. Melanoma",
+      "D. Renal cell",
+      "E. Prostate"
+    ],
+    "answer": "B",
+    "detail": "Breast cancer is the leading systemic source for leptomeningeal drop metastases."
+  },
+  {
+    "number": 90,
+    "question": "'Vertebral Hemangiomas' are common (seen in 10% of people) and feature which classic appearance on imaging?",
+    "choices": [
+      "A. 'Mini brain'",
+      "B. 'Jail bar' or 'Corduroy' trabeculae",
+      "C. Vertebra plana",
+      "D. H-shaped vertebra",
+      "E. Inverted V sign"
+    ],
+    "answer": "B",
+    "detail": "Benign hemangiomas show thickened vertical trabeculae, creating a 'jail bar' or 'corduroy' look."
+  },
+  {
+    "number": 91,
+    "question": "Vertebral hemangiomas are typically:",
+    "choices": [
+      "A. T1 dark, T2 dark",
+      "B. T1 and T2 BRIGHT (due to fat content)",
+      "C. Hot on PET",
+      "D. Purely lytic with no matrix",
+      "E. Only in children"
+    ],
+    "answer": "B",
+    "detail": "Because they contain fatty marrow, hemangiomas are characteristically bright on T1 and T2."
+  },
+  {
+    "number": 92,
+    "question": "Giant Cell Tumors of the spine are almost exclusively found in which location?",
+    "choices": [
+      "A. C2 body",
+      "B. Sacrum (lytic expansile lesion)",
+      "C. Thoracic posterior elements",
+      "D. Dens apex",
+      "E. Intervertebral disc"
+    ],
+    "answer": "B",
+    "detail": "Sacral GCTs appear as lytic, expansile lesions that typically lack a sclerotic border."
+  },
+  {
+    "number": 93,
+    "question": "What is the 'most common' primary malignancy of the spine and sacrum?",
+    "choices": [
+      "A. Plasmacytoma",
+      "B. Chordoma",
+      "C. Osteosarcoma",
+      "D. Ewing Sarcoma",
+      "E. Lymphoma"
+    ],
+    "answer": "B",
+    "detail": "Chordoma is the most frequent primary malignant neoplasm of the sacrum and clivus."
+  },
+  {
+    "number": 94,
+    "question": "Chordomas are characteristically:",
+    "choices": [
+      "A. Very T2 bright and strictly MIDLINE",
+      "B. T2 dark and lateral",
+      "C. Only in infants",
+      "D. Replaced by fat",
+      "E. Sclerotic on CT"
+    ],
+    "answer": "A",
+    "detail": "A very high T2 signal and strict midline location are hallmarks of chordoma."
+  },
+  {
+    "number": 95,
+    "question": "A Benign Notochordal Cell Tumor differs from a Chordoma because it is:",
+    "choices": [
+      "A. Lateral to midline",
+      "B. Sclerotic on CT and does NOT usually enhance",
+      "C. Lytic and aggressive",
+      "D. T1 bright",
+      "E. Associated with bird fever"
+    ],
+    "answer": "B",
+    "detail": "Benign variants of notochordal tissue are sclerotic and lack significant enhancement."
+  },
+  {
+    "number": 96,
+    "question": "Plasmacytoma in a vertebral body can feature a characteristic imaging appearance nicknamed:",
+    "choices": [
+      "A. Owl's eye",
+      "B. 'Mini Brain' appearance",
+      "C. Target sign",
+      "D. 'Puff of smoke'",
+      "E. Inverted V"
+    ],
+    "answer": "B",
+    "detail": "'Mini brain' is the classic radiographic nickname for a spinal plasmacytoma."
+  },
+  {
+    "number": 97,
+    "question": "Multiple spinal lesions with 'low T1 signal' (darker than the disc) in an adult is highly suspicious for:",
+    "choices": [
+      "A. Osteoporotic fractures",
+      "B. Metastases or Myeloma",
+      "C. Vertebral hemangiomas",
+      "D. Normal red marrow",
+      "E. Epidural lipomatosis"
+    ],
+    "answer": "B",
+    "detail": "Replacement of marrow fat by tumor causes T1 signal to drop below that of the disc."
+  },
+  {
+    "number": 98,
+    "question": "'Vertebra Plana' (a pancake flat vertebral body) in a kid should make you first think of:",
+    "choices": [
+      "A. Osteomyelitis",
+      "B. Eosinophilic Granuloma (EG) or Neuroblastoma met",
+      "C. Multiple Sclerosis",
+      "D. Jefferson fracture",
+      "E. Vitamin B12 deficiency"
+    ],
+    "answer": "B",
+    "detail": "Vertebra plana in a child is diagnostic for EG until proven otherwise."
+  },
+  {
+    "number": 99,
+    "question": "If you see a 'saccular aneurysm' of the abdominal aorta, the strategy says you should first suspect:",
+    "choices": [
+      "A. Atherosclerosis",
+      "B. Infection (Mycotic Aneurysm)",
+      "C. Marfan syndrome",
+      "D. Turner syndrome",
+      "E. VHL"
+    ],
+    "answer": "B",
+    "detail": "Saccular aneurysms in the aorta should trigger a search for underlying infection."
+  },
+  {
+    "number": 100,
+    "question": "'Orificial renal artery stenosis' in a child or teenager with hypertension is a classic vascular finding for:",
+    "choices": [
+      "A. NF-1 (Arterial Dysplasia)",
+      "B. NF-2",
+      "C. VHL",
+      "D. Tuberous Sclerosis",
+      "E. Takayasu arteritis"
+    ],
+    "answer": "A",
+    "detail": "Arterial wall dysplasia in NF-1 can result in childhood hypertension due to renal artery stenosis."
+  }
+]
+}

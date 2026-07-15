@@ -1,0 +1,525 @@
+{
+    "questions": 
+    [
+    {
+      "number": 1,
+      "question": "By what age does the human spleen typically reach its normal adult size?",
+      "choices": [
+        "2 years",
+        "5 years",
+        "10 years",
+        "15 years",
+        "21 years"
+      ],
+      "answer": "D",
+      "detail": "The spleen typically reaches its normal adult size by the age of 15."
+    },
+    {
+      "number": 2,
+      "question": "The characteristic 'tiger striped' appearance of the spleen on arterial phase CT imaging is due to the presence of:",
+      "choices": [
+        "Multiple small hemangiomas",
+        "Red and white pulp",
+        "Infarcts and fibrosis",
+        "Gamna-Gandy bodies",
+        "Lymphoma nodules"
+      ],
+      "answer": "B",
+      "detail": "The interdigitation of red and white pulp creates the classic tiger striped (mottled) appearance on arterial phase imaging."
+    },
+    {
+      "number": 3,
+      "question": "In a normal patient, the spleen is typically how many Hounsfield Units (HU) less dense than the liver?",
+      "choices": [
+        "5 HU",
+        "10 HU",
+        "20 HU",
+        "50 HU",
+        "It is denser than the liver"
+      ],
+      "answer": "C",
+      "detail": "On a standard non-contrast CT, the spleen is generally about 20 HU less dense than the liver."
+    },
+    {
+      "number": 4,
+      "question": "Occlusion of the splenic artery typically results in infarction because the vessel is:",
+      "choices": [
+        "Highly collateralized",
+        "Derived from the SMA",
+        "An end vessel with minimal collaterals",
+        "Prone to standing waves",
+        "Subject to the 'Bernoulli effect'"
+      ],
+      "answer": "C",
+      "detail": "The splenic artery is an end vessel, meaning its occlusion leads to infarction because there is minimal collateral supply."
+    },
+    {
+      "number": 5,
+      "question": "On MRI, the normal signal characteristics of the spleen are best described as:",
+      "choices": [
+        "T1 bright and T2 dark",
+        "Bright on T2 and Dark on T1 (relative to the liver)",
+        "Isointense on all sequences",
+        "Bright on both T1 and T2",
+        "Dark on both T1 and T2"
+      ],
+      "answer": "B",
+      "detail": "Because it is essentially a 'bag of water and blood,' the spleen is T2 bright and T1 dark compared to the liver."
+    },
+    {
+      "number": 6,
+      "question": "Just like a lymph node, the normal spleen on MRI will:",
+      "choices": [
+        "Drop signal on out-of-phase imaging",
+        "Enhance uniformly on the arterial phase",
+        "Restrict diffusion",
+        "Show 'onion skin' calcification",
+        "Appear as a 'stealth lesion'"
+      ],
+      "answer": "C",
+      "detail": "The spleen behaves like a large watery lymph node and characteristically restricts diffusion."
+    },
+    {
+      "number": 7,
+      "question": "In a patient with chronic hemolytic anemia, hypertrophy of an accessory spleen following a splenectomy can lead to:",
+      "choices": [
+        "Spontaneous rupture",
+        "Recurrence of the original hematologic disease",
+        "Isolated gastric varices",
+        "Peliosis",
+        "Portal hypertension"
+      ],
+      "answer": "B",
+      "detail": "If splenic tissue is needed to maintain a disease process (like hemolytic anemia), an accessory spleen can hypertrophy and cause the disease to recur after surgery."
+    },
+    {
+      "number": 8,
+      "question": "A 'Wandering Spleen' is most commonly associated with which other abdominal anomaly?",
+      "choices": [
+        "Pyloric stenosis",
+        "Abnormalities of intestinal rotation (Malrotation)",
+        "Horseshoe kidney",
+        "Pancreatic divisum",
+        "Meckel's diverticulum"
+      ],
+      "answer": "B",
+      "detail": "Laxity in the peritoneal ligaments that normally hold the spleen in place is associated with intestinal malrotation."
+    },
+    {
+      "number": 9,
+      "question": "Chronic partial torsion of a wandering spleen can lead to the development of:",
+      "choices": [
+        "Gastric varices",
+        "Jaundice",
+        "Appendicitis",
+        "Gallstones",
+        "Renal failure"
+      ],
+      "answer": "A",
+      "detail": "Twisting of the splenic pedicle can obstruct venous outflow, leading to the formation of gastric varices."
+    },
+    {
+      "number": 10,
+      "question": "When trying to distinguish 'Splenosis' (auto-transplantation of splenic tissue) from metastatic disease, the most important imaging clue is:",
+      "choices": [
+        "Presence of ascites",
+        "The absence of a normal spleen (or history of trauma)",
+        "Enhancement on PET/CT",
+        "Size of the masses",
+        "Calcification"
+      ],
+      "answer": "B",
+      "detail": "Splenosis follows splenic trauma or surgery; the absence of the primary spleen is the key discriminator from metastatic disease."
+    },
+    {
+      "number": 11,
+      "question": "What is the most common imaging sign of splenic involvement in Sarcoidosis?",
+      "choices": [
+        "Multiple 'bull's eye' lesions",
+        "Splenomegaly",
+        "Spontaneous hemorrhage",
+        "Sclerotic vertebrae",
+        "'Water lily' sign"
+      ],
+      "answer": "B",
+      "detail": "While it can occasionally present with granulomas, splenomegaly is the most common finding in splenic sarcoidosis."
+    },
+    {
+      "number": 12,
+      "question": "Gamna-Gandy bodies (siderotic nodules) are small parenchymal hemorrhages in the spleen most commonly associated with:",
+      "choices": [
+        "Sickle cell disease",
+        "Portal Hypertension",
+        "Tuberculosis",
+        "Leukemia",
+        "Trauma"
+      ],
+      "answer": "B",
+      "detail": "These siderotic nodules result from portal hypertension-induced congestion and hemorrhage."
+    },
+    {
+      "number": 13,
+      "question": "Which MRI sequence is the MOST sensitive for detecting Gamna-Gandy bodies?",
+      "choices": [
+        "T1 Post-contrast",
+        "T2 STIR",
+        "Gradient Echo (GRE)",
+        "Diffusion Weighted (DWI)",
+        "In-Phase T1"
+      ],
+      "answer": "C",
+      "detail": "Gradient echo is highly sensitive to the susceptibility effects of the iron in Gamna-Gandy bodies, making them appear as dark spots."
+    },
+    {
+      "number": 14,
+      "question": "Splenic Peliosis is characterized by multiple blood-filled cystic spaces and is associated with the use of:",
+      "choices": [
+        "Aspirin",
+        "Oral contraceptives (OCPs) and Anabolic steroids",
+        "Beta-blockers",
+        "PPIs",
+        "Statins"
+      ],
+      "answer": "B",
+      "detail": "Peliosis occurs in the setting of OCP or anabolic steroid use, as well as in AIDS and renal transplant patients."
+    },
+    {
+      "number": 15,
+      "question": "What is the most common visceral arterial aneurysm?",
+      "choices": [
+        "Hepatic artery",
+        "SMA",
+        "Splenic artery",
+        "Renal artery",
+        "Celiac axis"
+      ],
+      "answer": "C",
+      "detail": "Splenic artery aneurysms are the most common visceral artery aneurysms."
+    },
+    {
+      "number": 16,
+      "question": "Splenic artery aneurysms are 4x more common and 3x more likely to rupture in which population?",
+      "choices": [
+        "Elderly smokers",
+        "Women of childbearing age with multiple pregnancies",
+        "Young male athletes",
+        "Patients with CF",
+        "Diabetics"
+      ],
+      "answer": "B",
+      "detail": "The risk is significantly higher in women who have had two or more pregnancies."
+    },
+    {
+      "number": 17,
+      "question": "At what size threshold is a splenic artery aneurysm typically recommended for treatment?",
+      "choices": [
+        "0.5 cm",
+        "1.0 cm",
+        "2.0–3.0 cm",
+        "5.0 cm",
+        "10.0 cm"
+      ],
+      "answer": "C",
+      "detail": "Most guidelines recommend treating these aneurysms when they reach 2.0 to 3.0 cm."
+    },
+    {
+      "number": 18,
+      "question": "Splenic Vein Thrombosis, often resulting from pancreatitis, can lead to which classic clinical finding?",
+      "choices": [
+        "Esophageal varices",
+        "Isolated gastric varices",
+        "Caput medusae",
+        "Rectal hemorrhoids",
+        "Budd-Chiari"
+      ],
+      "answer": "B",
+      "detail": "Obstruction of the splenic vein forces blood through short gastric veins, resulting in isolated gastric varices in the fundus."
+    },
+    {
+      "number": 19,
+      "question": "On a multiple-choice exam, if the answer is 'Sickle Cell Disease,' what is the most likely splenic imaging finding described?",
+      "choices": [
+        "Massive splenomegaly",
+        "Splenic Infarction (wedge-shaped, peripheral, low attenuation)",
+        "Multiple hemangiomas",
+        "Cystic peliosis",
+        "Diffuse sarcoidosis"
+      ],
+      "answer": "B",
+      "detail": "Wedge-shaped peripheral low-attenuation areas represent splenic infarction, a hallmark of Sickle Cell Disease."
+    },
+    {
+      "number": 20,
+      "question": "Which splenic infection is characterized by multiple round calcifications?",
+      "choices": [
+        "Histoplasmosis",
+        "Brucellosis",
+        "Salmonella",
+        "Candida",
+        "Malaria"
+      ],
+      "answer": "A",
+      "detail": "Histoplasmosis is the most common cause of multiple small, round splenic calcifications seen on imaging."
+    },
+    {
+      "number": 21,
+      "question": "A 'bull's eye' appearance (low density center with a calcified ring) in the spleen of a patient with chronic fever suggests:",
+      "choices": [
+        "Histoplasmosis",
+        "Brucellosis",
+        "Splenic lymphoma",
+        "Echinococcal cyst",
+        "Metastatic melanoma"
+      ],
+      "answer": "B",
+      "detail": "Brucellosis typically presents as larger, solitary calcified granulomas with a bull's eye look."
+    },
+    {
+      "number": 22,
+      "question": "Salmonella is the 'classic bug' for a splenic abscess in which clinical scenario?",
+      "choices": [
+        "Fasting neonates",
+        "Underlying splenic damage (trauma or sickle cell)",
+        "Chronic steroid use",
+        "Post-Whipple patients",
+        "Elderly smokers"
+      ],
+      "answer": "B",
+      "detail": "In the setting of trauma or Sickle Cell, Salmonella is the most likely pathogen for a splenic abscess."
+    },
+    {
+      "number": 23,
+      "question": "Which of the following is part of the differential for a 'Small Spleen'?",
+      "choices": [
+        "Gaucher's",
+        "Post Radiation or Post Thorotrast",
+        "Portal HTN",
+        "Leukemia",
+        "Passive congestion"
+      ],
+      "answer": "B",
+      "detail": "Radiation and historical Thorotrast exposure are recognized causes of splenic atrophy (small spleen)."
+    },
+    {
+      "number": 24,
+      "question": "In patients with malabsorption syndromes, which condition is more likely to be associated with a small spleen?",
+      "choices": [
+        "Ulcerative Colitis",
+        "Crohn's Disease",
+        "Whipple's Disease",
+        "Celiac Sprue",
+        "Tropical Sprue"
+      ],
+      "answer": "A",
+      "detail": "Among IBD/malabsorption conditions, Ulcerative Colitis (and Celiac) are more commonly linked with a small spleen."
+    },
+    {
+      "number": 25,
+      "question": "'Felty’s Syndrome' is defined by which clinical triad?",
+      "choices": [
+        "Splenomegaly, anemia, and jaundice",
+        "Splenomegaly, Rheumatoid Arthritis, and Neutropenia",
+        "Small spleen, heart failure, and edema",
+        "Spleen trauma, high HR, and low BP",
+        "Lung cysts, renal mass, and skin nodules"
+      ],
+      "answer": "B",
+      "detail": "Felty's syndrome is the specific association of splenomegaly, RA, and a low white cell count."
+    },
+    {
+      "number": 26,
+      "question": "What is the most common cystic lesion in the spleen?",
+      "choices": [
+        "Epidermoid cyst",
+        "Post-traumatic cyst (pseudocyst)",
+        "Hydatid cyst",
+        "Lymphangioma",
+        "Abscess"
+      ],
+      "answer": "B",
+      "detail": "Pseudocysts resulting from trauma are the most frequent cystic lesions found in the spleen."
+    },
+    {
+      "number": 27,
+      "question": "How can you distinguish a splenic 'Pseudocyst' from an 'Epidermoid Cyst' on histology?",
+      "choices": [
+        "Pseudocysts have fat; Epidermoids don't",
+        "Epidermoid cysts have an epithelial lining (true cyst); Pseudocysts don't",
+        "Pseudocysts are always solitary",
+        "Epidermoids are always calcified",
+        "There is no difference"
+      ],
+      "answer": "B",
+      "detail": "An epidermoid is a 'true' cyst because it has an epithelial lining, which the post-traumatic pseudocyst lacks."
+    },
+    {
+      "number": 28,
+      "question": "The 'Water Lily' sign (floating debris) and 'Daughter Cysts' are characteristic of which splenic pathology?",
+      "choices": [
+        "Post-traumatic cyst",
+        "Epidermoid cyst",
+        "Hydatid (Echinococcal) cyst",
+        "Lymphangioma",
+        "Abscess"
+      ],
+      "answer": "C",
+      "detail": "These are the pathognomonic imaging signs for a Hydatid infection."
+    },
+    {
+      "number": 29,
+      "question": "Splenic Hemangiomas differ from liver hemangiomas because they:",
+      "choices": [
+        "Are always T2 dark",
+        "May NOT show peripheral nodular discontinuous enhancement (especially if < 2 cm)",
+        "Always washout rapidly",
+        "Shadow on ultrasound",
+        "Are only seen in children"
+      ],
+      "answer": "B",
+      "detail": "Unlike in the liver, small splenic hemangiomas frequently lack the classic peripheral nodular enhancement pattern."
+    },
+    {
+      "number": 30,
+      "question": "Which splenic entity is a 'zebra' associated with hypersplenism and hemosiderin deposition (low signal on T1 and T2)?",
+      "choices": [
+        "Hemangioma",
+        "Littoral Cell Angioma",
+        "Hamartoma",
+        "Lymphangioma",
+        "Angiosarcoma"
+      ],
+      "answer": "B",
+      "detail": "Littoral cell angioma is a rare vascular tumor that often causes hypersplenism and exhibits hemosiderin deposition on MRI."
+    },
+    {
+      "number": 31,
+      "question": "Splenic Angiosarcoma is rare but highly aggressive, with spontaneous rupture occurring in what percentage of cases?",
+      "choices": [
+        "5%",
+        "10%",
+        "30%",
+        "50%",
+        "90%"
+      ],
+      "answer": "C",
+      "detail": "Spontaneous rupture and massive hemorrhage occur in roughly 30% of splenic angiosarcoma cases."
+    },
+    {
+      "number": 32,
+      "question": "What is the most common malignant tumor of the spleen?",
+      "choices": [
+        "Angiosarcoma",
+        "Lymphoma",
+        "Metastatic melanoma",
+        "Metastatic breast cancer",
+        "GIST"
+      ],
+      "answer": "B",
+      "detail": "Lymphoma is the most common malignancy found involving the spleen."
+    },
+    {
+      "number": 33,
+      "question": "Hodgkin lymphoma involves the liver in 60% of cases; what percentage of the time does it involve the spleen?",
+      "choices": [
+        "10%",
+        "25%",
+        "50%",
+        "Unknown (but the spleen is the most common site of systemic involvement)",
+        "100%"
+      ],
+      "answer": "B",
+      "detail": "The spleen is frequently involved in both types of lymphoma as part of systemic disease spread."
+    },
+    {
+      "number": 34,
+      "question": "Which primary neoplasm is the most common to metastasize to the spleen?",
+      "choices": [
+        "Breast",
+        "Lung",
+        "Melanoma",
+        "Colon",
+        "Kidney"
+      ],
+      "answer": "C",
+      "detail": "Melanoma is the primary tumor most likely to spread metastatically to the spleen."
+    },
+    {
+      "number": 35,
+      "question": "In the setting of splenic trauma, 'Sandwich Technique' embolization refers to:",
+      "choices": [
+        "Embolizing the SMA and IMA",
+        "Occluding both the distal and proximal parent vessel of an injury",
+        "Placing coils directly inside a pseudoaneurysm sac",
+        "Using Gelfoam only",
+        "A specialized surgical closure"
+      ],
+      "answer": "B",
+      "detail": "To prevent collateral 'back-bleeding,' the parent vessel must be occluded on both sides of the injured segment."
+    },
+    {
+      "number": 36,
+      "question": "Why should coils NOT be placed directly into a splenic pseudoaneurysm sac?",
+      "choices": [
+        "They will dissolve",
+        "It can lead to a late rupture",
+        "It causes immediate heart failure",
+        "They are too small to see",
+        "It prevents future CT scans"
+      ],
+      "answer": "B",
+      "detail": "Placing coils inside the sac rather than the parent vessel increases the risk of subsequent rupture."
+    },
+    {
+      "number": 37,
+      "question": "If the splenic surface is bleeding from more than one spot (diffuse), what is the 'Next Step' for embolization?",
+      "choices": [
+        "Use large coils",
+        "Gelfoam or particles",
+        "Sandwich technique",
+        "Call for emergent surgery only",
+        "Do nothing"
+      ],
+      "answer": "B",
+      "detail": "Diffuse bleeding across multiple sites is best managed with distal agents like Gelfoam or particles."
+    },
+    {
+      "number": 38,
+      "question": "The 'most accepted contraindication' for sending a splenic trauma patient to angiography is:",
+      "choices": [
+        "Age > 80",
+        "Being a 'busted-up unstable dude' who needs emergent laparotomy",
+        "Pregnancy",
+        "Prior contrast allergy",
+        "Left-sided varicocele"
+      ],
+      "answer": "B",
+      "detail": "An hemodynamically unstable patient belongs in the operating room, not the IR suite."
+    },
+    {
+      "number": 39,
+      "question": "A 'big box' heart on a pediatric chest X-ray can be caused by non-cardiac high-output failure from:",
+      "choices": [
+        "Infantile Hemangioma of the liver",
+        "Biliary atresia",
+        "Splenic infarct",
+        "Hirschsprung disease",
+        "Malrotation"
+      ],
+      "answer": "A",
+      "detail": "Large vascular shunts in infantile hepatic hemangiomas can lead to high-output cardiac failure and cardiomegaly."
+    },
+    {
+      "number": 40,
+      "question": "When I say 'Infarcted Spleen' on a board exam, you reflexively say:",
+      "choices": [
+        "Sarcoidosis",
+        "Sickle Cell",
+        "Portal HTN",
+        "Hemangioma",
+        "Trauma"
+      ],
+      "answer": "B",
+      "detail": "Sickle Cell Disease is the classic 'Supreme Commander' association for splenic infarction on standardized exams."
+    }
+  ]
+}

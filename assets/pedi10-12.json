@@ -1,0 +1,1307 @@
+{
+    "questions": 
+    
+[
+  {
+    "number": 1,
+    "question": "When utilizing an age-based strategy for a solid renal mass, which diagnosis is most likely in a neonate?",
+    "choices": [
+      "Wilms Tumor",
+      "Mesoblastic Nephroma",
+      "Renal Cell Carcinoma",
+      "Multilocular Cystic Nephroma",
+      "Renal Lymphoma"
+    ],
+    "answer": "B",
+    "detail": "Mesoblastic nephroma is considered the \"solid tumor of infancy\" and is frequently diagnosed in the first month of life."
+  },
+  {
+    "number": 2,
+    "question": "Which finding on ultrasound is characteristic of nephroblastomatosis?",
+    "choices": [
+      "A solid ball invading the renal vein",
+      "A hypodense/hypoechoic rind around the kidney",
+      "Multiple communicating macroscopic cysts",
+      "A midline mass with machinery oil fluid",
+      "A \"blue dot\" on the cortex"
+    ],
+    "answer": "B",
+    "detail": "Nephroblastomatosis typically appears as a hypodense rind of persistent embryologic tissue."
+  },
+  {
+    "number": 3,
+    "question": "What is the recommended management for a child with nephroblastomatosis?",
+    "choices": [
+      "Immediate radical nephrectomy",
+      "Ultrasound screening every 3 months until age 7–8",
+      "Biopsy to confirm the absence of Wilms",
+      "Radiation therapy to the flank",
+      "No follow-up is necessary"
+    ],
+    "answer": "B",
+    "detail": "Frequent screening is necessary because nephroblastomatosis can transform into Wilms tumor."
+  },
+  {
+    "number": 4,
+    "question": "What is the peak age of incidence for Wilms tumor?",
+    "choices": [
+      "Neonatal period",
+      "1 year old",
+      "3 to 4 years old",
+      "12 years old",
+      "18 years old"
+    ],
+    "answer": "C",
+    "detail": "The average age for a Wilms tumor is 3 years old, and 95% of cases occur before age 10."
+  },
+  {
+    "number": 5,
+    "question": "According to the \"Wilms Nevers,\" a child can NEVER be:",
+    "choices": [
+      "Diagnosed with bilateral disease",
+      "Born with a Wilms tumor",
+      "Treated with chemotherapy before surgery",
+      "Diagnosed if they have Beckwith-Wiedemann",
+      "Cured if there are lung metastases"
+    ],
+    "answer": "B",
+    "detail": "Wilms tumor is NOT seen in newborns and never occurs before 2 months of age."
+  },
+  {
+    "number": 6,
+    "question": "Which statement regarding the growth pattern of Wilms tumor is correct?",
+    "choices": [
+      "It characteristically encases and narrows vessels without invading.",
+      "It is poorly marginated and often crosses the midline.",
+      "It grows like a solid ball and tends to invade vessels rather than encase them.",
+      "It always arises from the adrenal medulla.",
+      "It is primarily a cystic lesion."
+    ],
+    "answer": "C",
+    "detail": "Wilms tumor is a well-circumscribed ball that invades vessels."
+  },
+  {
+    "number": 7,
+    "question": "What is the most common site of metastatic spread for a Wilms tumor?",
+    "choices": [
+      "Bone",
+      "Lung",
+      "Brain",
+      "Liver",
+      "Skin"
+    ],
+    "answer": "B",
+    "detail": "Wilms tumor prefers spreading to the lungs."
+  },
+  {
+    "number": 8,
+    "question": "Which Wilms variant is known for metastasizing to the bones?",
+    "choices": [
+      "Conventional Wilms",
+      "Rhabdoid subtype",
+      "Clear Cell subtype",
+      "Nephroblastomatosis",
+      "Mesoblastic nephroma"
+    ],
+    "answer": "C",
+    "detail": "Clear cell Wilms is the variant that likes to go to bones."
+  },
+  {
+    "number": 9,
+    "question": "The Rhabdoid subtype of Wilms tumor is associated with an increased risk of:",
+    "choices": [
+      "Hemihypertrophy",
+      "Aggressive rhabdoid brain tumors",
+      "Aniridia",
+      "Horseshoe kidney",
+      "Hepatic hemangioma"
+    ],
+    "answer": "B",
+    "detail": "Rhabdoid Wilms is associated with brain tumors and carries a terrible prognosis."
+  },
+  {
+    "number": 10,
+    "question": "\"Beckwith-Wiedemann Syndrome\" features macroglossia, omphalocele, and which two high-yield tumors?",
+    "choices": [
+      "Neuroblastoma and Pheochromocytoma",
+      "Wilms tumor and Hepatoblastoma",
+      "RCC and Mesoblastic nephroma",
+      "Lymphoma and Teratoma",
+      "Lipoma and Fibroma"
+    ],
+    "answer": "B",
+    "detail": "This syndrome is a reflex generator for Wilms tumor, Omphalocele, and Hepatoblastoma."
+  },
+  {
+    "number": 11,
+    "question": "What does the \"W\" in WAGR syndrome stand for?",
+    "choices": [
+      "Williams Syndrome",
+      "Wilms tumor",
+      "Weight loss",
+      "Wide mandible",
+      "Wormian bones"
+    ],
+    "answer": "B",
+    "detail": "WAGR stands for Wilms, Aniridia, Genital, and Growth Retardation."
+  },
+  {
+    "number": 12,
+    "question": "Why is a biopsy generally avoided for a suspected Wilms tumor?",
+    "choices": [
+      "The tumor is too small to hit.",
+      "It is always benign, so a biopsy is unnecessary.",
+      "It can seed the biopsy tract and increase the tumor stage.",
+      "It always causes immediate renal failure.",
+      "It is 100% diagnostic on ultrasound alone."
+    ],
+    "answer": "C",
+    "detail": "You should NEVER biopsy a suspected Wilms because of the risk of seeding the tract."
+  },
+  {
+    "number": 13,
+    "question": "Which renal tumor is described as the \"Michael Jackson\" tumor?",
+    "choices": [
+      "Wilms tumor",
+      "Mesoblastic nephroma",
+      "Multilocular Cystic Nephroma (MLCN)",
+      "Renal Cell Carcinoma",
+      "Nephroblastomatosis"
+    ],
+    "answer": "C",
+    "detail": "MLCN is nicknamed for its bimodal occurrence in young boys and middle-aged women."
+  },
+  {
+    "number": 14,
+    "question": "A characteristic imaging finding for Multilocular Cystic Nephroma is that the cysts:",
+    "choices": [
+      "Communicate with the renal pelvis",
+      "Protrude (herniate) into the renal pelvis",
+      "Are only seen in the lower pole",
+      "Calcify in 90% of cases",
+      "Disappear with antibiotics"
+    ],
+    "answer": "B",
+    "detail": "The classic buzzword is that it \"protrudes into the renal pelvis\"."
+  },
+  {
+    "number": 15,
+    "question": "What is the most common renal malignancy in teenagers (ages 15–19)?",
+    "choices": [
+      "Wilms Tumor",
+      "Renal Cell Carcinoma (RCC)",
+      "Renal Lymphoma",
+      "Mesoblastic Nephroma",
+      "Angiomyolipoma"
+    ],
+    "answer": "B",
+    "detail": "RCC is the solid renal tumor of the adolescent."
+  },
+  {
+    "number": 16,
+    "question": "The most common subtype of Renal Cell Carcinoma in children is:",
+    "choices": [
+      "Clear Cell Carcinoma",
+      "Papillary Carcinoma",
+      "Translocation Carcinoma",
+      "Chromophobe Carcinoma",
+      "Medullary Carcinoma"
+    ],
+    "answer": "C",
+    "detail": "Translocation subtype is the #1 pediatric RCC and is often linked to prior chemotherapy."
+  },
+  {
+    "number": 17,
+    "question": "If a child is diagnosed with the \"Clear Cell\" subtype of RCC, they should be screened for:",
+    "choices": [
+      "Tuberous Sclerosis",
+      "Von Hippel-Lindau (VHL)",
+      "Neurofibromatosis Type 1",
+      "Sickle Cell Trait",
+      "DiGeorge Syndrome"
+    ],
+    "answer": "B",
+    "detail": "Clear cell RCC in a child is rare and suggests VHL."
+  },
+  {
+    "number": 18,
+    "question": "Which subtype of RCC is strongly associated with Sickle Cell Trait?",
+    "choices": [
+      "Translocation",
+      "Medullary Subtype",
+      "Clear Cell",
+      "Papillary",
+      "Chromophobe"
+    ],
+    "answer": "B",
+    "detail": "Medullary RCC is the specific association for Sickle Cell Trait."
+  },
+  {
+    "number": 19,
+    "question": "How can RCC be distinguished from Wilms tumor on imaging?",
+    "choices": [
+      "Wilms is more likely to calcify.",
+      "RCC is more likely to calcify and occurs in an older cohort.",
+      "RCC spreading is always via the lymphatics.",
+      "Wilms never invades the renal vein.",
+      "There is no imaging way to distinguish them."
+    ],
+    "answer": "B",
+    "detail": "RCC tends to be smaller, more calcified, and seen in older children."
+  },
+  {
+    "number": 20,
+    "question": "Renal Lymphoma in children is typically:",
+    "choices": [
+      "Hodgkin type",
+      "Non-Hodgkin type and multifocal",
+      "Always a single large mass",
+      "Only seen in neonates",
+      "Never involves the kidneys"
+    ],
+    "answer": "B",
+    "detail": "Pediatric renal lymphoma is usually Non-Hodgkin and multifocal."
+  },
+  {
+    "number": 21,
+    "question": "\"Synchronous Bilateral Wilms\" occurs in approximately what percentage of cases?",
+    "choices": [
+      "< 1%",
+      "5–10%",
+      "25%",
+      "50%",
+      "90%"
+    ],
+    "answer": "B",
+    "detail": "About 5–10% of patients have bilateral disease."
+  },
+  {
+    "number": 22,
+    "question": "Which renal mass occurs in kids < 1 year old and has a \"Wilms-like\" appearance?",
+    "choices": [
+      "RCC",
+      "Mesoblastic Nephroma",
+      "Multilocular Cystic Nephroma",
+      "Renal Lymphoma",
+      "Angiomyolipoma"
+    ],
+    "answer": "B",
+    "detail": "If it looks like Wilms but the kid is too young (< 1 year), call it mesoblastic nephroma."
+  },
+  {
+    "number": 23,
+    "question": "Multilocular Cystic Nephroma is defined by the ABSENCE of which feature?",
+    "choices": [
+      "Thick fibrous capsule",
+      "Fluid-filled locules",
+      "Solid components or necrosis",
+      "Septal enhancement",
+      "Occurrence in young boys"
+    ],
+    "answer": "C",
+    "detail": "By definition, MLCN lacks solid components or necrosis."
+  },
+  {
+    "number": 24,
+    "question": "In the \"age-based strategy\" for renal masses, a mass at age 6 is most likely:",
+    "choices": [
+      "Mesoblastic Nephroma",
+      "Wilms Tumor (or variants)",
+      "RCC",
+      "Angiomyolipoma",
+      "Nephroblastomatosis"
+    ],
+    "answer": "B",
+    "detail": "Wilms peaks at age 3–4 but remains the most common diagnosis around age 4–6."
+  },
+  {
+    "number": 25,
+    "question": "A \"Michael Jackson\" tumor in an older patient would most likely be a:",
+    "choices": [
+      "4-year-old boy",
+      "40-year-old woman",
+      "15-year-old girl",
+      "70-year-old man",
+      "Newborn male"
+    ],
+    "answer": "B",
+    "detail": "The bimodal distribution favors young boys and middle-aged women."
+  },
+  {
+    "number": 26,
+    "question": "What is the most common extra-cranial solid childhood malignancy?",
+    "choices": [
+      "Wilms Tumor",
+      "Neuroblastoma",
+      "Hepatoblastoma",
+      "Osteosarcoma",
+      "Rhabdomyosarcoma"
+    ],
+    "answer": "B",
+    "detail": "Neuroblastoma is the most common extra-cranial solid malignancy in kids."
+  },
+  {
+    "number": 27,
+    "question": "What percentage of Neuroblastoma cases calcify?",
+    "choices": [
+      "< 10%",
+      "25%",
+      "50%",
+      "75%",
+      "90%"
+    ],
+    "answer": "E",
+    "detail": "90% of neuroblastomas calcify, whereas less than 10% of Wilms tumors do."
+  },
+  {
+    "number": 28,
+    "question": "How does Neuroblastoma typically interact with adjacent major vessels?",
+    "choices": [
+      "It invades the vessel lumen.",
+      "It encases the vessels without invading them.",
+      "It always arises from the vessel wall.",
+      "It has no relationship with vessels.",
+      "It causes vessels to calcify."
+    ],
+    "answer": "B",
+    "detail": "A key discriminator is that Neuroblastoma encases vessels, while Wilms invades them."
+  },
+  {
+    "number": 29,
+    "question": "Which metastatic presentation of Neuroblastoma is known as \"Raccoon Eyes\"?",
+    "choices": [
+      "Bone marrow infiltration",
+      "Liver metastasis (Pepper Syndrome)",
+      "Orbital metastasis",
+      "Skin nodules (Blueberry muffin)",
+      "Lung nodules"
+    ],
+    "answer": "C",
+    "detail": "\"Raccoon Eyes\" refers to periorbital ecchymosis from orbital mets."
+  },
+  {
+    "number": 30,
+    "question": "Stage 4S Neuroblastoma is unique because it carries an \"Excellent Prognosis\" and occurs in children:",
+    "choices": [
+      "Over age 10",
+      "Under age 1",
+      "With bilateral disease",
+      "With cortical bone involvement",
+      "Only in the thorax"
+    ],
+    "answer": "B",
+    "detail": "Stage 4S is seen in infants < 1 year old."
+  },
+  {
+    "number": 31,
+    "question": "In Stage 4S Neuroblastoma, metastases are limited to the skin, liver, and:",
+    "choices": [
+      "Cortical bone",
+      "Bone marrow",
+      "Brain",
+      "Lungs",
+      "Kidneys"
+    ],
+    "answer": "B",
+    "detail": "A common distractor is cortical bone; 4S is limited to skin, liver, and bone marrow."
+  },
+  {
+    "number": 32,
+    "question": "\"Opsomyoclonus\" (dancing eyes, dancing feet) is a paraneoplastic syndrome associated with:",
+    "choices": [
+      "Wilms tumor",
+      "Neuroblastoma",
+      "Hepatoblastoma",
+      "Pheochromocytoma",
+      "RCC"
+    ],
+    "answer": "B",
+    "detail": "Dancing eyes and feet is a classic trivia association for neuroblastoma."
+  },
+  {
+    "number": 33,
+    "question": "What is the most common cause of an adrenal \"mass\" in a neonate?",
+    "choices": [
+      "Neuroblastoma",
+      "Adrenal Hemorrhage",
+      "Adrenal Hyperplasia",
+      "Pheochromocytoma",
+      "Cortical Adenoma"
+    ],
+    "answer": "B",
+    "detail": "Adrenal hemorrhage is the leading cause of a neonatal adrenal mass."
+  },
+  {
+    "number": 34,
+    "question": "Adrenal hemorrhage in a neonate is characteristically:",
+    "choices": [
+      "Highly vascular",
+      "Avascular and shrinks on serial follow-up",
+      "More common on the left side",
+      "Associated with elevated AFP",
+      "Treated with immediate surgery"
+    ],
+    "answer": "B",
+    "detail": "Hemorrhage is avascular and decreases in size over time."
+  },
+  {
+    "number": 35,
+    "question": "If a neonatal adrenal hemorrhage occurs on the LEFT side, you should also look for:",
+    "choices": [
+      "SVC syndrome",
+      "Renal vein thrombosis",
+      "Splenic sequestration",
+      "Intussusception",
+      "Gallstones"
+    ],
+    "answer": "B",
+    "detail": "Because the left adrenal vein drains into the renal vein, a thrombus there is a linked concern."
+  },
+  {
+    "number": 36,
+    "question": "Neonatal adrenal hemorrhage and renal vein thrombosis are more common in infants of:",
+    "choices": [
+      "Mothers who used Lithium",
+      "Diabetic mothers",
+      "Mothers with Rubella",
+      "Advanced maternal age",
+      "Mothers with Lupus"
+    ],
+    "answer": "B",
+    "detail": "Infants of diabetic mothers are at higher risk for these conditions."
+  },
+  {
+    "number": 37,
+    "question": "Which imaging finding describes the \"Oreo Cookie\" appearance of a normal neonatal adrenal?",
+    "choices": [
+      "A single hyperechoic stripe",
+      "Hypoechoic cortex, hyperechoic medulla, hypoechoic cortex",
+      "Thickened cortex with multiple cysts",
+      "A solid calcified ball",
+      "Diffuse central enhancement"
+    ],
+    "answer": "B",
+    "detail": "The normal neonatal adrenal on US looks like an Oreo (dark-bright-dark)."
+  },
+  {
+    "number": 38,
+    "question": "The \"Pancake (Discoid) Adrenal\" sign is seen in the setting of:",
+    "choices": [
+      "Adrenal hemorrhage",
+      "Congenital absence of the kidney",
+      "Neuroblastoma",
+      "Adrenal hyperplasia",
+      "Waterhouse-Friderichsen syndrome"
+    ],
+    "answer": "B",
+    "detail": "If the kidney is missing, the adrenal remains elongated and flat (pancake)."
+  },
+  {
+    "number": 39,
+    "question": "A horseshoe adrenal gland is characteristically associated with which heterotaxy syndrome?",
+    "choices": [
+      "Polysplenia",
+      "Asplenia (Right Isomerism)",
+      "Situs Inversus",
+      "Kartagener's",
+      "VACTERL"
+    ],
+    "answer": "B",
+    "detail": "Horseshoe adrenals go with asplenia."
+  },
+  {
+    "number": 40,
+    "question": "\"Waterhouse-Friderichsen Syndrome\" refers to adrenal hemorrhage in the setting of:",
+    "choices": [
+      "Birth trauma",
+      "Fulminant meningitis (Neisseria)",
+      "Chronic steroid use",
+      "Neuroblastoma mets",
+      "Renal failure"
+    ],
+    "answer": "B",
+    "detail": "This syndrome involves adrenal hemorrhage triggered by meningitis."
+  },
+  {
+    "number": 41,
+    "question": "Congenital Adrenal Hyperplasia typically shows an adrenal that is \"big\" and has a:",
+    "choices": [
+      "Saccular cystic look",
+      "Cerebriform pattern (wrinkled like a brain)",
+      "Triangle cord look",
+      "Solid calcified appearance",
+      "\"Oreo\" appearance"
+    ],
+    "answer": "B",
+    "detail": "Hyperplasia on ultrasound looks like a \"big brain\" (cerebriform pattern)."
+  },
+  {
+    "number": 42,
+    "question": "For multiple choice strategy, if a neonatal adrenal limb is thicker than how many millimeters, is it considered \"too big\"?",
+    "choices": [
+      "1 mm",
+      "2 mm",
+      "4 mm",
+      "10 mm",
+      "20 mm"
+    ],
+    "answer": "C",
+    "detail": "A limb thicker than 4 mm suggests hyperplasia."
+  },
+  {
+    "number": 43,
+    "question": "Which nuclear medicine scan is superior for identifying Neuroblastoma bone metastases?",
+    "choices": [
+      "Bone Scan (Tc-MDP)",
+      "MIBG scan",
+      "Gallium scan",
+      "Sulfur colloid",
+      "I-123 scan"
+    ],
+    "answer": "B",
+    "detail": "MIBG is superior to a conventional bone scan for neuroblastoma."
+  },
+  {
+    "number": 44,
+    "question": "Neuroblastoma bone metastases characteristically produce which radiographic finding?",
+    "choices": [
+      "Sclerotic lesions",
+      "Lucent metaphyseal bands",
+      "\"Sunburst\" periosteal reaction",
+      "\"Onion skin\" appearance",
+      "Soap bubble expansion"
+    ],
+    "answer": "B",
+    "detail": "Look for lucent metaphyseal bands."
+  },
+  {
+    "number": 45,
+    "question": "What percentage of neuroblastoma cases have elevated urine catecholamines?",
+    "choices": [
+      "10%",
+      "50%",
+      "75%",
+      "95%",
+      "100%"
+    ],
+    "answer": "D",
+    "detail": "Urine catecholamines are elevated in 95% of cases."
+  },
+  {
+    "number": 46,
+    "question": "Which location for a primary Neuroblastoma carries the best prognosis?",
+    "choices": [
+      "Adrenal gland",
+      "Retroperitoneum",
+      "Thorax (posterior mediastinum)",
+      "Neck",
+      "Pelvis"
+    ],
+    "answer": "C",
+    "detail": "Thoracic primaries generally have a better outcome than abdominal ones."
+  },
+  {
+    "number": 47,
+    "question": "A \"Raccoon Eye\" presentation in a 2-year-old child should make you immediately think:",
+    "choices": [
+      "Wilms",
+      "Neuroblastoma",
+      "LCH",
+      "Leukemia",
+      "Abuse"
+    ],
+    "answer": "B",
+    "detail": "\"Raccoon Eyes\" = Neuroblastoma."
+  },
+  {
+    "number": 48,
+    "question": "In the \"THIS vs THAT\" for neonatal adrenal masses, which entity is described as a \"complex cystic mass\"?",
+    "choices": [
+      "Adrenal hemorrhage",
+      "Neuroblastoma (sometimes)",
+      "Hyperplasia",
+      "Discoid adrenal",
+      "Normal variant"
+    ],
+    "answer": "B",
+    "detail": "While hemorrhage is anechoic, Neuroblastoma can be described as a \"complex cystic mass\" on US."
+  },
+  {
+    "number": 49,
+    "question": "If a child has \"Dancing Eyes, Dancing Feet,\" what is the mandatory next imaging step?",
+    "choices": [
+      "Brain MRI",
+      "Abdominal CT/MRI to look for Neuroblastoma",
+      "Echo",
+      "Skeletal survey",
+      "Thyroid scan"
+    ],
+    "answer": "B",
+    "detail": "You must search for the underlying neuroblastoma."
+  },
+  {
+    "number": 50,
+    "question": "What is the classic \"next step\" to differentiate neonatal adrenal hemorrhage from neuroblastoma?",
+    "choices": [
+      "Immediate biopsy",
+      "Serial ultrasounds",
+      "PET/CT",
+      "Urine catecholamine test",
+      "Bone marrow aspiration"
+    ],
+    "answer": "B",
+    "detail": "Serial ultrasounds will show the hemorrhage shrinking, while cancer stays the same or grows."
+  },
+  {
+    "number": 51,
+    "question": "A \"midline pelvic mass\" in a female neonate or a teenager with delayed menarche is the classic history for:",
+    "choices": [
+      "Ovarian torsion",
+      "Hydrometrocolpos",
+      "Rhabdomyosarcoma",
+      "Sacrococcygeal teratoma",
+      "Uterus didelphys"
+    ],
+    "answer": "B",
+    "detail": "Hydrometrocolpos is a fluid-expanded vagina/uterus from an obstruction (e.g., imperforate hymen)."
+  },
+  {
+    "number": 52,
+    "question": "Hydrometrocolpos is frequently associated with which uterine anomaly?",
+    "choices": [
+      "Bicornuate uterus",
+      "Uterus didelphys (with a transverse septum)",
+      "Septate uterus",
+      "Arcuate uterus",
+      "Unicornuate uterus"
+    ],
+    "answer": "B",
+    "detail": "It is often associated with Uterus Didelphys."
+  },
+  {
+    "number": 53,
+    "question": "In children, ovarian torsion can occur in a NORMAL ovary because of:",
+    "choices": [
+      "Hypertension",
+      "Excessive mobility of the ovary",
+      "Pelvic inflammatory disease",
+      "Early puberty",
+      "Constipation"
+    ],
+    "answer": "B",
+    "detail": "Unlike adults, kids can torse a normal ovary due to mobility."
+  },
+  {
+    "number": 54,
+    "question": "On ultrasound, what is the size criteria used to suspect ovarian torsion in a child?",
+    "choices": [
+      "Any ovary > 5 cc",
+      "Ovary at least 3 times the size of the contralateral side",
+      "Presence of a single large cyst",
+      "Lack of any peripheral follicles",
+      "Thickened endometrial stripe"
+    ],
+    "answer": "B",
+    "detail": "Suspect torsion if the ovary is 3x the size of the other side."
+  },
+  {
+    "number": 55,
+    "question": "What is the most common cause of acute scrotal pain in boys aged 7–14?",
+    "choices": [
+      "Testicular torsion",
+      "Torsion of the testicular appendage",
+      "Epididymo-orchitis",
+      "Inguinal hernia",
+      "Trauma"
+    ],
+    "answer": "B",
+    "detail": "Appendage torsion is the #1 cause of pain in this age group."
+  },
+  {
+    "number": 56,
+    "question": "A \"Blue Dot Sign\" on physical exam of the scrotum is pathognomonic for:",
+    "choices": [
+      "Testicular torsion",
+      "Torsion of the testicular appendage",
+      "Epididymitis",
+      "Varicocele",
+      "Scrotal abscess"
+    ],
+    "answer": "B",
+    "detail": "The \"Blue Dot\" is the classic clinical sign for a torsed appendage."
+  },
+  {
+    "number": 57,
+    "question": "What is the anatomical etiology of \"Testicular Torsion\"?",
+    "choices": [
+      "Failure of the omphalomesenteric duct",
+      "Bell Clapper Deformity",
+      "Patent processus vaginalis",
+      "Cryptorchidism",
+      "Mesonephric duct remnant"
+    ],
+    "answer": "B",
+    "detail": "The Bell Clapper deformity allows the testicle to rotate and torse."
+  },
+  {
+    "number": 58,
+    "question": "What is the most common cause of idiopathic scrotal edema in a child?",
+    "choices": [
+      "Torsion",
+      "Henoch-Schonlein Purpura (HSP)",
+      "Trauma",
+      "Leukemia",
+      "Mumps"
+    ],
+    "answer": "B",
+    "detail": "HSP is the classic cause and can cause massive skin edema."
+  },
+  {
+    "number": 59,
+    "question": "Epididymitis in children has two peak ages of incidence:",
+    "choices": [
+      "Newborn and 5 years",
+      "Under 2 and over 6",
+      "3 to 4 and 15 to 19",
+      "Always under 1 year",
+      "It only occurs in adolescents"
+    ],
+    "answer": "B",
+    "detail": "Peaks are under 2 and over 6."
+  },
+  {
+    "number": 60,
+    "question": "If a child has isolated \"Orchitis\" without epididymal involvement, the classic answer is:",
+    "choices": [
+      "Gonorrhea",
+      "Mumps",
+      "HSP",
+      "Trauma",
+      "Wilms met"
+    ],
+    "answer": "B",
+    "detail": "Mumps is the answer for isolated orchitis."
+  },
+  {
+    "number": 61,
+    "question": "What is the most common malignant tumor of the bladder and prostate in children?",
+    "choices": [
+      "Adenocarcinoma",
+      "Rhabdomyosarcoma",
+      "TCC",
+      "Wilms",
+      "Seminoma"
+    ],
+    "answer": "B",
+    "detail": "Rhabdomyosarcoma is the most common, often described as having a \"botryoid\" (grape-like) appearance."
+  },
+  {
+    "number": 62,
+    "question": "An \"extratesticular\" scrotal mass in a young boy is most likely:",
+    "choices": [
+      "Seminoma",
+      "Embryonal Rhabdomyosarcoma",
+      "Teratoma",
+      "Lipoma",
+      "Adrenal rest"
+    ],
+    "answer": "B",
+    "detail": "Paratesticular rhabdomyosarcoma is the \"Aunt Minnie\" for an extratesticular mass."
+  },
+  {
+    "number": 63,
+    "question": "\"Bilateral solid testicular masses\" in a child with Congenital Adrenal Hyperplasia are:",
+    "choices": [
+      "Lymphoma",
+      "Adrenal Rests",
+      "Metastases",
+      "Leydig cell tumors",
+      "Seminomas"
+    ],
+    "answer": "B",
+    "detail": "Adrenal rests are the high-yield association with CAH."
+  },
+  {
+    "number": 64,
+    "question": "Testicular calcifications that are described as \"BIG\" usually indicate a:",
+    "choices": [
+      "Seminoma",
+      "Germ Cell Tumor",
+      "Normal variant",
+      "Prior infection",
+      "Microlithiasis"
+    ],
+    "answer": "B",
+    "detail": "BIG calcifications favor a Germ Cell Tumor; tiny (micro) ones favor a seminoma."
+  },
+  {
+    "number": 65,
+    "question": "What is the most common tumor of the fetus or infant (often presenting in the pelvis)?",
+    "choices": [
+      "Neuroblastoma",
+      "Sacrococcygeal Teratoma",
+      "Wilms",
+      "Hepatoblastoma",
+      "Rhabdomyosarcoma"
+    ],
+    "answer": "B",
+    "detail": "Sacrococcygeal Teratoma is the #1 tumor in this age group."
+  },
+  {
+    "number": 66,
+    "question": "To prevent recurrence of a Sacrococcygeal Teratoma, surgeons must remove the tumor and the:",
+    "choices": [
+      "Rectum",
+      "Coccyx",
+      "Spleen",
+      "One kidney",
+      "Adrenal gland"
+    ],
+    "answer": "B",
+    "detail": "Failure to remove the coccyx leads to high recurrence rates."
+  },
+  {
+    "number": 67,
+    "question": "Which classification of Sacrococcygeal Teratoma has the highest rate of malignancy?",
+    "choices": [
+      "Type 1 (Totally extra-pelvic)",
+      "Type 2",
+      "Type 3",
+      "Type 4 (Totally inside abdomen)",
+      "Type 5"
+    ],
+    "answer": "D",
+    "detail": "Type 4 is entirely internal and has the highest malignancy rate."
+  },
+  {
+    "number": 68,
+    "question": "Cryptorchidism is most commonly seen in which group of infants?",
+    "choices": [
+      "Post-term",
+      "Premature (20%)",
+      "Diabetic mothers",
+      "Downs patients",
+      "Infants born via C-section"
+    ],
+    "answer": "B",
+    "detail": "It is very common in premature kids."
+  },
+  {
+    "number": 69,
+    "question": "Does surgical correction of cryptorchidism (orchiopexy) reduce the risk of cancer?",
+    "choices": [
+      "Yes, it eliminates the risk.",
+      "No, the risk remains increased in both testicles.",
+      "It only reduces risk in the corrected testicle.",
+      "It only reduces risk if done after age 10.",
+      "Cancer is not a complication of cryptorchidism."
+    ],
+    "answer": "B",
+    "detail": "Orchiopexy helps with detection but does NOT reduce the risk of cancer."
+  },
+  {
+    "number": 70,
+    "question": "A \"Right-sided varicocele\" in an adult is a red flag, but what does it suggest in a child?",
+    "choices": [
+      "Normal development",
+      "Abdominal pathology/retroperitoneal mass",
+      "Future infertility",
+      "Renal failure",
+      "Cystic Fibrosis"
+    ],
+    "answer": "B",
+    "detail": "An isolated right varicocele means something is compressing the right gonadal vein."
+  },
+  {
+    "number": 71,
+    "question": "\"Zinner Syndrome\" is a triad of renal agenesis, ipsilateral seminal vesicle cyst, and:",
+    "choices": [
+      "Bladder exstrophy",
+      "Ejaculatory duct obstruction",
+      "Cryptorchidism",
+      "Ovarian torsion",
+      "Horseshoe kidney"
+    ],
+    "answer": "B",
+    "detail": "This is a male infertility syndrome."
+  },
+  {
+    "number": 72,
+    "question": "What is the most common correctable cause of male infertility?",
+    "choices": [
+      "Cryptorchidism",
+      "Varicocele",
+      "Prostatic cysts",
+      "Steroid use",
+      "Mumps"
+    ],
+    "answer": "B",
+    "detail": "Varicocele is the #1 correctable cause."
+  },
+  {
+    "number": 73,
+    "question": "In the \"THIS vs THAT\" for testicular pain, which entity shows \"multiple hypoechoic masses\"?",
+    "choices": [
+      "Torsion",
+      "Lymphoma",
+      "Epididymitis",
+      "Hematoma",
+      "Adrenal rest"
+    ],
+    "answer": "B",
+    "detail": "Multiple hypoechoic masses is a buzzword for testicular lymphoma."
+  },
+  {
+    "number": 74,
+    "question": "The \"Blue Dot Sign\" is the best indicator of torsion if the appendage is larger than:",
+    "choices": [
+      "1 mm",
+      "2 mm",
+      "5 mm",
+      "10 mm",
+      "20 mm"
+    ],
+    "answer": "C",
+    "detail": "An appendage > 5 mm is suspicious for torsion."
+  },
+  {
+    "number": 75,
+    "question": "\"Hydro on Fetal MRI\" in a male fetus should make you think of:",
+    "choices": [
+      "UPJ obstruction",
+      "Posterior Urethral Valve (PUV)",
+      "VUR",
+      "Prune Belly",
+      "MCDK"
+    ],
+    "answer": "B",
+    "detail": "PUV is the classic cause of bilateral fetal hydro."
+  },
+  {
+    "number": 76,
+    "question": "On a neonatal spinal ultrasound, the \"Central Canal\" is easily identified because it is:",
+    "choices": [
+      "Anechoic",
+      "Echogenic",
+      "Shadowing",
+      "Pulsatile",
+      "Larger than the cord"
+    ],
+    "answer": "B",
+    "detail": "The central canal is echogenic because it represents the interface between the anterior median fissure and white matter commissure."
+  },
+  {
+    "number": 77,
+    "question": "At what vertebral level does the normal conus medullaris terminate in a newborn?",
+    "choices": [
+      "T12",
+      "L1 or L2",
+      "L3 or L4",
+      "S1",
+      "It is variable and depends on weight"
+    ],
+    "answer": "B",
+    "detail": "The conus usually terminates at around L1."
+  },
+  {
+    "number": 78,
+    "question": "A \"Low-lying cord\" (Tethered Cord) is defined by a conus below L2 and a filum terminale thicker than:",
+    "choices": [
+      "1 mm",
+      "2 mm",
+      "5 mm",
+      "10 mm",
+      "20 mm"
+    ],
+    "answer": "B",
+    "detail": "A filum > 2 mm is thickened and suggests tethering."
+  },
+  {
+    "number": 79,
+    "question": "Which of the following physical findings is closely linked with a tethered cord?",
+    "choices": [
+      "Port-wine stain on the face",
+      "Tufts of hair (Spina Bifida)",
+      "Fused fingers",
+      "Missing clavicles",
+      "Cleft palate"
+    ],
+    "answer": "B",
+    "detail": "Tufts of hair are a classic indicator for tethered cord."
+  },
+  {
+    "number": 80,
+    "question": "For screening purposes, which type of skin dimple does NOT require a spinal ultrasound?",
+    "choices": [
+      "Dimples above the gluteal crease",
+      "Low dimples (below the gluteal crease)",
+      "Dimples associated with a hairy patch",
+      "Dimples with a visible tract",
+      "All dimples require screening"
+    ],
+    "answer": "B",
+    "detail": "Low dimples below the \"butt crease\" don't get screened."
+  },
+  {
+    "number": 81,
+    "question": "Anal atresia is associated with a high risk for which occult problem?",
+    "choices": [
+      "Biliary atresia",
+      "Tethered cord",
+      "Ovarian torsion",
+      "Wilms tumor",
+      "Pyloric stenosis"
+    ],
+    "answer": "B",
+    "detail": "Kids with anal atresia should get a screening spinal US for tethering."
+  },
+  {
+    "number": 82,
+    "question": "A \"stupid looking cyst\" at the end of the spinal cord in a child is likely a:",
+    "choices": [
+      "Meningocele",
+      "Terminal Ventricle (Ventriculus Terminalis)",
+      "Myelocele",
+      "Syrinx",
+      "Neuroenteric cyst"
+    ],
+    "answer": "B",
+    "detail": "This is a developmental variant that is usually small and asymptomatic."
+  },
+  {
+    "number": 83,
+    "question": "\"Currarino Triad\" is a complex consisting of an anorectal malformation, a sacrococcygeal osseous defect, and a:",
+    "choices": [
+      "Wilms tumor",
+      "Anterior sacral meningocele",
+      "Tethered cord",
+      "Chiari II malformation",
+      "Neuroblastoma"
+    ],
+    "answer": "B",
+    "detail": "The triad includes Anterior Sacral Meningocele, anorectal malformation, and a scimitar-shaped sacrum."
+  },
+  {
+    "number": 84,
+    "question": "What is the most common intramedullary spinal cord tumor in the pediatric population?",
+    "choices": [
+      "Ependymoma",
+      "Astrocytoma",
+      "Ganglioglioma",
+      "Medulloblastoma",
+      "Hemangioblastoma"
+    ],
+    "answer": "B",
+    "detail": "Astrocytoma is the #1 intramedullary tumor in kids."
+  },
+  {
+    "number": 85,
+    "question": "In contrast to adults, where ependymomas are central, pediatric spinal astrocytomas are typically:",
+    "choices": [
+      "Always in the conus",
+      "Eccentric and favor the upper thoracic spine",
+      "Calcified in 90% of cases",
+      "T1 bright",
+      "Associated with VHL"
+    ],
+    "answer": "B",
+    "detail": "Pediatric astrocytomas are eccentric and often involve the upper thoracic cord."
+  },
+  {
+    "number": 86,
+    "question": "A \"pancake flat\" vertebral body (Vertebra Plana) in a child should make you think of:",
+    "choices": [
+      "Metastatic Breast Cancer",
+      "Eosinophilic Granuloma (LCH)",
+      "Osteopetrosis",
+      "Rickets",
+      "Osteogenesis Imperfecta"
+    ],
+    "answer": "B",
+    "detail": "Vertebra plana in a kid is LCH until proven otherwise."
+  },
+  {
+    "number": 87,
+    "question": "Which malformation is virtually ALWAYS associated with a myelomeningocele?",
+    "choices": [
+      "Chiari I",
+      "Chiari II",
+      "Dandy-Walker",
+      "Holoprosencephaly",
+      "Agenesis of the corpus callosum"
+    ],
+    "answer": "B",
+    "detail": "Chiari II and Open NTDs go together."
+  },
+  {
+    "number": 88,
+    "question": "Beaked tectum and low lying torcula are classic features of which malformation?",
+    "choices": [
+      "Chiari I",
+      "Chiari II",
+      "Chiari III",
+      "Chiari IV",
+      "Chiari 1.5"
+    ],
+    "answer": "B",
+    "detail": "Tectal beaking is a hallmark of Chiari II."
+  },
+  {
+    "number": 89,
+    "question": "A \"myelocele\" herniation sac is defined by containing:",
+    "choices": [
+      "Only CSF",
+      "CSF and Meninges",
+      "Spinal Cord",
+      "Brain and Ventricle",
+      "Fat and Hair"
+    ],
+    "answer": "C",
+    "detail": "A myelocele (or myelomeningocele) contains spinal cord."
+  },
+  {
+    "number": 90,
+    "question": "Which spinal condition presents with the \"cock-robin\" position (torticollis) in children without a fracture?",
+    "choices": [
+      "Tethered cord",
+      "Rotary Subluxation",
+      "Discitis",
+      "Spondylolysis",
+      "Vertebra plana"
+    ],
+    "answer": "B",
+    "detail": "Rotary subluxation causes the \"cock-robin\" head tilt."
+  },
+  {
+    "number": 91,
+    "question": "\"Pediatric Discitis\" often occurs after a URI and classically involves which region?",
+    "choices": [
+      "Cervical spine",
+      "Thoracic spine",
+      "Lumbar spine",
+      "Sacrum",
+      "It is always multi-level"
+    ],
+    "answer": "C",
+    "detail": "The classic scenario is a child < 4 years old with lumbar back pain."
+  },
+  {
+    "number": 92,
+    "question": "Unlike adults, children can get \"isolated discitis\" because they have:",
+    "choices": [
+      "No growth plates",
+      "Direct blood supply to the intervertebral disc",
+      "Stronger ligaments",
+      "Less bone marrow",
+      "No white matter"
+    ],
+    "answer": "B",
+    "detail": "Direct blood supply to the disc allows for isolated infection in kids."
+  },
+  {
+    "number": 93,
+    "question": "\"Spondylolysis\" (pars defect) in children is most common at which level?",
+    "choices": [
+      "L3",
+      "L4",
+      "L5 (90%)",
+      "S1",
+      "T12"
+    ],
+    "answer": "C",
+    "detail": "The defect is nearly always at L5."
+  },
+  {
+    "number": 94,
+    "question": "A \"collar on the scottie dog\" on an oblique plain film represents:",
+    "choices": [
+      "A normal variant",
+      "A pars interarticularis defect",
+      "A compression fracture",
+      "Spondylolisthesis",
+      "Vertebra plana"
+    ],
+    "answer": "B",
+    "detail": "The collar is the classic radiographic sign for spondylolysis."
+  },
+  {
+    "number": 95,
+    "question": "Which syndrome features congenital fusion of the cervical spine vertebral bodies?",
+    "choices": [
+      "Turner Syndrome",
+      "Klippel-Feil Syndrome",
+      "Williams Syndrome",
+      "DiGeorge Syndrome",
+      "Marfan Syndrome"
+    ],
+    "answer": "B",
+    "detail": "Klippel-Feil involves congenital fusion and tall, skinny vertebrae."
+  },
+  {
+    "number": 96,
+    "question": "A \"scimitar-shaped sacrum\" is the bone buzzword for:",
+    "choices": [
+      "Neuroblastoma met",
+      "Currarino Triad",
+      "Osteopetrosis",
+      "Rickets",
+      "LCH"
+    ],
+    "answer": "B",
+    "detail": "The scimitar sacrum is part of the Currarino Triad."
+  },
+  {
+    "number": 97,
+    "question": "\"Syrinx\" is a generic term for cord dilation; if it is lined by ependyma, it is technically:",
+    "choices": [
+      "Syringomyelia",
+      "Hydromyelia",
+      "Myelomalacia",
+      "Hematomyelia",
+      "Cord edema"
+    ],
+    "answer": "B",
+    "detail": "Hydromyelia is lined by ependyma."
+  },
+  {
+    "number": 98,
+    "question": "Myelomeningocele is associated with Chiari malformations, but which entity is NOT?",
+    "choices": [
+      "Meningocele",
+      "Lipomyelomeningocele",
+      "Myelocele",
+      "Encephalocele",
+      "All are associated"
+    ],
+    "answer": "B",
+    "detail": "Lipomyelomeningocele is characteristically NOT associated with Chiari."
+  },
+  {
+    "number": 99,
+    "question": "The \"most common\" primary spinal cord tumor in ADULTS (central) is:",
+    "choices": [
+      "Astrocytoma",
+      "Ependymoma",
+      "Ganglioglioma",
+      "Lymphoma",
+      "Chordoma"
+    ],
+    "answer": "B",
+    "detail": "Ependymoma is the adult #1, while Astrocytoma is the pediatric #1."
+  },
+  {
+    "number": 100,
+    "question": "For multiple choice strategy, \"H-shaped vertebrae\" on a lateral X-ray should make you think:",
+    "choices": [
+      "LCH",
+      "Sickle Cell Disease",
+      "Rickets",
+      "Osteopetrosis",
+      "Gaucher Disease"
+    ],
+    "answer": "B",
+    "detail": "H-shaped vertebrae (from central endplate infarcts) are classic for Sickle Cell."
+  }
+]
+
+}

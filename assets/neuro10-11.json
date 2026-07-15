@@ -1,0 +1,707 @@
+{
+    "questions": 
+
+[
+  {
+    "number": 1,
+    "question": "What percentage of strokes are classified as ischemic?",
+    "choices": ["A. 20%", "B. 50%", "C. 70%", "D. 80%", "E. 95%"],
+    "answer": "D",
+    "detail": "In the broad categorization of stroke, 80% are ischemic and 20% are hemorrhagic."
+  },
+  {
+    "number": 2,
+    "question": "The junction between different major vascular territories is referred to as a:",
+    "choices": ["A. Core zone", "B. Penumbra", "C. Watershed", "D. Collateral zone", "E. Silent region"],
+    "answer": "C",
+    "detail": "These border zones between territories are prone to ischemic injury."
+  },
+  {
+    "number": 3,
+    "question": "Which clinical scenario is most classic for watershed infarcts?",
+    "choices": ["A. Atrial fibrillation", "B. Endocarditis", "C. Severe hypotension or shock", "D. Uncontrolled hypertension", "E. Ruptured aneurysm"],
+    "answer": "C",
+    "detail": "Severe hypotension (shock/CPR) or severe carotid stenosis leads to low flow in these border zones."
+  },
+  {
+    "number": 4,
+    "question": "Watershed infarcts in a pediatric patient should raise suspicion for which condition?",
+    "choices": ["A. CADASIL", "B. Moyamoya", "C. MELAS", "D. Sickle Cell Disease", "E. B and D"],
+    "answer": "E",
+    "detail": "Moyamoya (idiopathic supraclinoid ICA occlusive disease) and Sickle Cell are classic gamesmanship for pediatric watershed infarcts."
+  },
+  {
+    "number": 5,
+    "question": "Which artery supplies the medial lenticulostriate territory?",
+    "choices": ["A. A1 segment of ACA", "B. M1 segment of MCA", "C. P1 segment of PCA", "D. Basilar artery", "E. Recurrent artery of Heubner"],
+    "answer": "A",
+    "detail": "The A1 segment of the ACA supplies the medial lenticulostriate region."
+  },
+  {
+    "number": 6,
+    "question": "The lateral lenticulostriate arteries arise from which vessel?",
+    "choices": ["A. A1 segment", "B. M1 segment", "C. M2 segment", "D. Internal Carotid", "E. PCOM"],
+    "answer": "B",
+    "detail": "The M1 segment of the MCA provides the lateral lenticulostriate branches."
+  },
+  {
+    "number": 7,
+    "question": "Which specific territory is supplied by penetrating branches of the PCA?",
+    "choices": ["A. Caudate head", "B. Putamen", "C. Thalamus", "D. Insula", "E. Hippocampus"],
+    "answer": "C",
+    "detail": "The thalamus is supplied by penetrating branches of the PCA."
+  },
+  {
+    "number": 8,
+    "question": "Which cerebellar artery is represented by 'grey arrows' in the vascular territory diagrams?",
+    "choices": ["A. PICA", "B. AICA", "C. SCA", "D. Basilar", "E. Vertebral"],
+    "answer": "C",
+    "detail": "The SCA (Superior Cerebellar Artery) is designated by grey arrows."
+  },
+  {
+    "number": 9,
+    "question": "In the cerebellum, which vessel is represented by 'black arrows'?",
+    "choices": ["A. SCA", "B. AICA", "C. PICA", "D. Anterior Spinal", "E. Posterior Spinal"],
+    "answer": "C",
+    "detail": "The PICA (Posterior Inferior Cerebellar Artery) is designated by black arrows."
+  },
+  {
+    "number": 10,
+    "question": "A 'Subacute Infarct' is unique because it demonstrates which imaging characteristic?",
+    "choices": ["A. Massive mass effect", "B. Enhancement with NO mass effect", "C. T1 bright signal in the first hour", "D. No restricted diffusion", "E. Spares the cortex"],
+    "answer": "B",
+    "detail": "Subacute infarcts are unique in that they enhance but create no mass effect."
+  },
+  {
+    "number": 11,
+    "question": "The 'Dense MCA Sign' on non-contrast CT indicates:",
+    "choices": ["A. Chronic calcification", "B. Intraluminal thrombus", "C. Atherosclerosis", "D. Normal variant", "E. High flow"],
+    "answer": "B",
+    "detail": "A dense MCA sign represents intraluminal thrombus, usually in the M1 or M2 segments."
+  },
+  {
+    "number": 12,
+    "question": "Loss of the normal high density of the insular cortex due to cytotoxic edema is called the:",
+    "choices": ["A. Dot sign", "B. Swirl sign", "C. Insular Ribbon Sign", "D. Mickey Mouse sign", "E. Pencil line sign"],
+    "answer": "C",
+    "detail": "This is a classic early CT sign of MCA territory ischemia."
+  },
+  {
+    "number": 13,
+    "question": "At what time frame does mass effect from a stroke typically peak?",
+    "choices": ["A. 1–2 hours", "B. 6–12 hours", "C. 3–5 days", "D. 2 weeks", "E. 1 month"],
+    "answer": "C",
+    "detail": "Mass effect from cytotoxic edema reaches its maximum at 3–5 days."
+  },
+  {
+    "number": 14,
+    "question": "According to the 'Rule of 3s' for stroke enhancement, when does enhancement typically START?",
+    "choices": ["A. 3 hours", "B. 3 days", "C. 3 weeks", "D. 3 months", "E. 3 years"],
+    "answer": "B",
+    "detail": "Stroke enhancement starts at 3 days."
+  },
+  {
+    "number": 15,
+    "question": "According to the 'Rule of 3s,' when does stroke enhancement typically PEAK?",
+    "choices": ["A. 3 days", "B. 3 weeks", "C. 3 months", "D. 3 years", "E. It does not peak"],
+    "answer": "B",
+    "detail": "Enhancement peaks at 3 weeks."
+  },
+  {
+    "number": 16,
+    "question": "According to the 'Rule of 3s,' when is stroke enhancement typically GONE?",
+    "choices": ["A. 3 days", "B. 3 weeks", "C. 3 months", "D. 3 years", "E. 1 year"],
+    "answer": "C",
+    "detail": "Enhancement typically disappears by 3 months."
+  },
+  {
+    "number": 17,
+    "question": "'Fogging' in the evolution of a stroke refers to the phase where:",
+    "choices": ["A. The brain becomes T1 bright", "B. Infarcted brain looks like normal tissue as edema improves", "C. The ventricles disappear", "D. Massive hemorrhage occurs", "E. The dense MCA sign vanishes"],
+    "answer": "B",
+    "detail": "Fogging occurs around 2–3 weeks post-infarct when the tissue density/signal transiently normalizes."
+  },
+  {
+    "number": 18,
+    "question": "A 'V-shaped' bilateral infarct of the paramedian thalami is pathognomonic for an infarct of the:",
+    "choices": ["A. Recurrent artery of Heubner", "B. Artery of Percheron", "C. Anterior Choroidal Artery", "D. Basilar Tip", "E. Medial Lenticulostriates"],
+    "answer": "B",
+    "detail": "The Artery of Percheron is a solitary trunk variant that feeds both rostral midbrain and thalami."
+  },
+  {
+    "number": 19,
+    "question": "Besides an Artery of Percheron infarct, what other condition can cause bilateral thalamic ischemia?",
+    "choices": ["A. Bilateral Internal Cerebral Vein Thrombus", "B. Basilar Tip Thromboembolic Occlusion", "C. Both A and B", "D. MCA stroke", "E. PCOM aneurysm"],
+    "answer": "C",
+    "detail": "Top of the basilar syndrome and internal cerebral vein thrombosis are both causes."
+  },
+  {
+    "number": 20,
+    "question": "A 'Classic Caudate Infarct' typically results from an occlusion of the:",
+    "choices": ["A. M1 segment", "B. Recurrent Artery of Heubner", "C. Anterior Communicating Artery", "D. Artery of Percheron", "E. Ophthalmic artery"],
+    "answer": "B",
+    "detail": "The Artery of Heubner is a deep branch of the proximal ACA that supplies the caudate."
+  },
+  {
+    "number": 21,
+    "question": "Which artery can be 'bagged' (accidentally occluded) during the clipping of an ACOM aneurysm?",
+    "choices": ["A. Anterior Choroidal", "B. Recurrent Artery of Heubner", "C. M1 segment", "D. P1 segment", "E. Basilar artery"],
+    "answer": "B",
+    "detail": "Its proximity to the ACOM makes the Artery of Heubner vulnerable during surgery."
+  },
+  {
+    "number": 22,
+    "question": "Multiple foci of restricted diffusion scattered bilaterally along multiple vascular territories suggests which etiology?",
+    "choices": ["A. Hypotension", "B. Small vessel disease", "C. Cardioembolic stroke", "D. Venous thrombosis", "E. Vasculitis"],
+    "answer": "C",
+    "detail": "A scattered, multi-territory pattern is classic for embolic sources like A-fib or endocarditis."
+  },
+  {
+    "number": 23,
+    "question": "A stroke pattern involving both the anterior and posterior circulation of the SAME hemisphere suggests:",
+    "choices": ["A. Basilar artery occlusion", "B. Azygos ACA", "C. Fetal PCOM variant", "D. Bilateral ICA stenosis", "E. Subclavian steal"],
+    "answer": "C",
+    "detail": "In a fetal PCOM variant, the PCA is fed primarily from the ICA, allowing a single ICA event to affect both circulations."
+  },
+  {
+    "number": 24,
+    "question": "Acute infarcts are typically bright on DWI from 30 minutes after the event up to approximately:",
+    "choices": ["A. 6 hours", "B. 24 hours", "C. 2 days", "D. 2 weeks", "E. 2 months"],
+    "answer": "D",
+    "detail": "DWI remains bright for about 2 weeks during the acute and early subacute phases."
+  },
+  {
+    "number": 25,
+    "question": "Restricted diffusion WITHOUT bright signal on FLAIR suggests the stroke is:",
+    "choices": ["A. Hyperacute (< 6 hours)", "B. Acute (24 hours)", "C. Subacute (1 week)", "D. Chronic (1 month)", "E. An old scar"],
+    "answer": "A",
+    "detail": "The 'DWI-FLAIR mismatch' indicates very early (hyperacute) ischemia."
+  },
+  {
+    "number": 26,
+    "question": "Which of the following 'Not a Stroke' entities can restrict on diffusion?",
+    "choices": ["A. Bacterial Abscess", "B. Epidermoid", "C. Herpes Encephalitis", "D. Hypercellular Brain Tumors (Lymphoma)", "E. All of the above"],
+    "answer": "E",
+    "detail": "All these entities are known 'diffusion restrictors' that can mimic stroke."
+  },
+  {
+    "number": 27,
+    "question": "In the evolution of an infarct, when does the T1 signal typically become 'dark'?",
+    "choices": ["A. 0–6 hours", "B. 6–24 hours", "C. 3 months", "D. Only after 1 year", "E. It stays bright"],
+    "answer": "B",
+    "detail": "T1 signal turns dark in the 6–24 hour window."
+  },
+  {
+    "number": 28,
+    "question": "Hemorrhagic transformation occurs in what percentage of infarcts?",
+    "choices": ["A. 5%", "B. 10%", "C. 25%", "D. 50%", "E. 90%"],
+    "answer": "D",
+    "detail": "Approximately half of all infarcts undergo some degree of hemorrhagic transformation."
+  },
+  {
+    "number": 29,
+    "question": "Which of the following is a predictor of hemorrhagic transformation in a patient getting TPA?",
+    "choices": ["A. Greater than 1/3 of the MCA territory involved", "B. Proximal MCA occlusion", "C. Absence of collateral flow", "D. Delay in treatment > 6 hours", "E. All of the above"],
+    "answer": "E",
+    "detail": "All these factors increase the risk of bleeding after thrombolysis."
+  },
+  {
+    "number": 30,
+    "question": "What is the most common site of dural venous sinus thrombosis?",
+    "choices": ["A. Cavernous sinus", "B. Straight sinus", "C. Superior sagittal sinus", "D. Sigmoid sinus", "E. Transverse sinus"],
+    "answer": "C",
+    "detail": "The superior sagittal sinus is the most common site, involved in 75% of cases."
+  },
+  {
+    "number": 31,
+    "question": "A 'Dense Sinus' on non-contrast CT and an 'Empty Delta' sign on contrast CT are signs of:",
+    "choices": ["A. Meningitis", "B. Venous Infarct / Thrombosis", "C. Arterial Stroke", "D. Normal anatomy", "E. Glioblastoma"],
+    "answer": "B",
+    "detail": "These are the hallmark CT signs of dural venous sinus thrombosis."
+  },
+  {
+    "number": 32,
+    "question": "How does the edema in a venous stroke differ from an arterial stroke?",
+    "choices": ["A. Venous is purely cytotoxic", "B. Venous is Vasogenic + Cytotoxic", "C. Venous is purely interstitial", "D. There is no edema in venous stroke", "E. Arterial is purely vasogenic"],
+    "answer": "B",
+    "detail": "Venous occlusion causes increased pressure (vasogenic) followed by failure of perfusion (cytotoxic)."
+  },
+  {
+    "number": 33,
+    "question": "Stigmata of 'chronic' venous thrombosis include:",
+    "choices": ["A. Development of a dural AVF", "B. Increased CSF pressure", "C. Massive brain atrophy", "D. A and B", "E. Sudden death"],
+    "answer": "D",
+    "detail": "Chronic impaired drainage can lead to dural shunts or pseudotumor-like pressure."
+  },
+  {
+    "number": 34,
+    "question": "The ASPECTS score was developed to provide a more specific guideline for giving TPA for which vascular territory?",
+    "choices": ["A. ACA", "B. PCA", "C. MCA", "D. Basilar", "E. SCA"],
+    "answer": "C",
+    "detail": "ASPECTS is specific for the MCA territory."
+  },
+  {
+    "number": 35,
+    "question": "A 'Perfect' ASPECTS score is:",
+    "choices": ["A. 0", "B. 5", "C. 7", "D. 10", "E. 15"],
+    "answer": "D",
+    "detail": "You start with 10 points and subtract one for each area of acute cytotoxic ischemia."
+  },
+  {
+    "number": 36,
+    "question": "An ASPECTS score of ______ or less may contraindicate TPA.",
+    "choices": ["A. 10", "B. 9", "C. 8", "D. 7", "E. 3"],
+    "answer": "D",
+    "detail": "A score of 7 or less indicates a large territory of ischemia and higher risk of poor outcome."
+  },
+  {
+    "number": 37,
+    "question": "In CT perfusion, which parameter represents the blood volume of the cerebral capillaries/venules per tissue volume?",
+    "choices": ["A. CBF", "B. CBV", "C. MTT", "D. TTP", "E. ROI"],
+    "answer": "B",
+    "detail": "CBV is Cerebral Blood Volume."
+  },
+  {
+    "number": 38,
+    "question": "The formula 'CBV divided by CBF' calculates which parameter?",
+    "choices": ["A. ROI", "B. Mean Transit Time (MTT)", "C. Time to Peak (TTP)", "D. Flow rate", "E. Perfusion pressure"],
+    "answer": "B",
+    "detail": "MTT is the average time blood stays in the capillary circulation."
+  },
+  {
+    "number": 39,
+    "question": "In the 'Infarct Core,' what happens to the CBV?",
+    "choices": ["A. It increases significantly", "B. It remains normal", "C. It decreases", "D. It fluctuates", "E. It is the same as the penumbra"],
+    "answer": "C",
+    "detail": "Dead tissue (core) shows decreased CBV because it can no longer auto-regulate."
+  },
+  {
+    "number": 40,
+    "question": "In the 'Ischemic Penumbra' (salvageable brain), what is the expected shift in parameters?",
+    "choices": ["A. Decreased CBF, Increased/Normal CBV, Increased MTT", "B. Increased CBF, Decreased CBV", "C. Normal CBF, Normal CBV", "D. Decreased CBF, Decreased CBV", "E. Perfusion is always normal in the penumbra"],
+    "answer": "A",
+    "detail": "In the penumbra, auto-regulation maintains CBV despite falling CBF, which increases MTT."
+  },
+  {
+    "number": 41,
+    "question": "Which of the following is the most common site for an intracranial aneurysm?",
+    "choices": ["A. MCA trifurcation", "B. ICA/PCOM junction", "C. Anterior Communicating Artery (ACOM)", "D. Basilar Tip", "E. PICA origin"],
+    "answer": "C",
+    "detail": "The ACOM is the most common site overall for saccular aneurysms."
+  },
+  {
+    "number": 42,
+    "question": "What percentage of aneurysms arise from the anterior circulation?",
+    "choices": ["A. 10%", "B. 30%", "C. 50%", "D. 75%", "E. 90%"],
+    "answer": "E",
+    "detail": "The vast majority (90%) of intracranial aneurysms are in the anterior circulation."
+  },
+  {
+    "number": 43,
+    "question": "'Murphy's tit' refers to:",
+    "choices": ["A. A specific cranial nerve palsy", "B. A focal out-pouching/irregularity on an aneurysm indicating the site of rupture", "C. A type of facial fracture", "D. A normal vascular variant", "E. A skull base foramen"],
+    "answer": "B",
+    "detail": "Irregularity or a focal bleb is a sign of recent rupture."
+  },
+  {
+    "number": 44,
+    "question": "Basilar artery dolichoectasia is associated with which complication?",
+    "choices": ["A. Compression of cranial nerves (hemi-facial spasm)", "B. Hydrocephalus", "C. Brainstem stroke", "D. All of the above", "E. None of the above"],
+    "answer": "D",
+    "detail": "Widened, elongated vessels can compress nerves, block CSF flow, or result in remodeling stroke."
+  },
+  {
+    "number": 45,
+    "question": "Which aneurysm type is characteristically found DISTAL to the branch points, often in the MCAs?",
+    "choices": ["A. Saccular", "B. Fusiform", "C. Mycotic", "D. Blister", "E. Pedicle"],
+    "answer": "C",
+    "detail": "Mycotic (infectious) aneurysms favor distal locations and have a history of endocarditis."
+  },
+  {
+    "number": 46,
+    "question": "A broad-based aneurysm at a non-branch point of the supraclinoid ICA is likely a:",
+    "choices": ["A. Berry aneurysm", "B. Mycotic aneurysm", "C. Blister Aneurysm", "D. DVA", "E. AVM"],
+    "answer": "C",
+    "detail": "Blister aneurysms are small, broad-based, and occur at non-branch points."
+  },
+  {
+    "number": 47,
+    "question": "A 'Pedicle Aneurysm' is an aneurysm found:",
+    "choices": ["A. In the spine", "B. On the artery feeding an AVM", "C. Only in neonates", "D. In the carotid canal", "E. At the MCA trifurcation"],
+    "answer": "B",
+    "detail": "Pedicle aneurysms are associated with AVMs and occur on the feeding artery 15% of the time."
+  },
+  {
+    "number": 48,
+    "question": "An 'Infundibular Widening' of the PCOM is NOT a true aneurysm if it is:",
+    "choices": ["A. Saccular in shape", "B. Greater than 5 mm", "C. Funnel-shaped and not greater than 3 mm", "D. Found in a kid", "E. Associated with hypertension"],
+    "answer": "C",
+    "detail": "Infundibular widening is a common benign finding if it is small (< 3mm) and funnel-shaped."
+  },
+  {
+    "number": 49,
+    "question": "An aneurysm at which location is most likely to cause maximum bleeding in the Interhemispheric Fissure?",
+    "choices": ["A. PCOM", "B. MCA", "C. ACOM", "D. Basilar Tip", "E. PICA"],
+    "answer": "C",
+    "detail": "ACOM aneurysms bleed into the interhemispheric fissure."
+  },
+  {
+    "number": 50,
+    "question": "An aneurysm at the MCA trifurcation classically bleeds into which space?",
+    "choices": ["A. Interhemispheric fissure", "B. Basal cisterns", "C. Sylvian Fissure", "D. Posterior fossa", "E. 4th ventricle"],
+    "answer": "C",
+    "detail": "MCA aneurysms typically bleed into the Sylvian fissure."
+  },
+  {
+    "number": 51,
+    "question": "Which vascular malformation is the most common type of HIGH FLOW lesion?",
+    "choices": ["A. DVA", "B. Cavernous Malformation", "C. AVM", "D. Capillary Telangiectasia", "E. Dural AVF"],
+    "answer": "C",
+    "detail": "AVMs (Arteriovenous Malformations) are the primary high-flow congenital malformation."
+  },
+  {
+    "number": 52,
+    "question": "What is the most common clinical complication of an AVM?",
+    "choices": ["A. Sudden death", "B. Tinnitus", "C. Bleeding (3% annual risk)", "D. Hearing loss", "E. Blindness"],
+    "answer": "C",
+    "detail": "Hemorrhage is the most significant risk, with headache and seizure being common symptoms."
+  },
+  {
+    "number": 53,
+    "question": "'Spinal AVFs' are actually the most common type of AVFs and typically present with:",
+    "choices": ["A. Sudden headache", "B. Gradual onset lower extremity weakness", "C. Tinnitus", "D. Vertigo", "E. Seizures"],
+    "answer": "B",
+    "detail": "This is the classic clinical history for a spinal dural AVF."
+  },
+  {
+    "number": 54,
+    "question": "A 'Caput Medusa' appearance (large tree with multiple small branches) is diagnostic for:",
+    "choices": ["A. AVM", "B. Dural AVF", "C. DVA (Developmental Venous Anomaly)", "D. Cavernous Malformation", "E. Glioblastoma"],
+    "answer": "C",
+    "detail": "A DVA is a variation in normal venous drainage and should NOT be resected."
+  },
+  {
+    "number": 55,
+    "question": "Which vascular malformation is highly associated with Cavernous Malformations?",
+    "choices": ["A. High flow AVM", "B. DVA", "C. Capillary Telangiectasia", "D. Dural AVF", "E. Aneurysm"],
+    "answer": "B",
+    "detail": "DVAs and Cavernomas are frequently seen together ('Mixed' malformations)."
+  },
+  {
+    "number": 56,
+    "question": "A 'Popcorn-like' lesion with a 'Peripheral Rim of Hemosiderin' on MRI is a:",
+    "choices": ["A. AVM", "B. DVA", "C. Cavernous Malformation (Cavernoma)", "D. Capillary Telangiectasia", "E. Hemangioma"],
+    "answer": "C",
+    "detail": "This is the classic 'Aunt Minnie' MRI appearance for a cavernoma."
+  },
+  {
+    "number": 57,
+    "question": "Which malformation has a classic 'Brush-like' or 'Stippled' pattern of enhancement and is often found in the PONS?",
+    "choices": ["A. Cavernoma", "B. DVA", "C. Capillary Telangiectasia", "D. Dural AVF", "E. AVM"],
+    "answer": "C",
+    "detail": "Capillary telangiectasias are low-flow lesions with intervening normal tissue, often incidental in the pons."
+  },
+  {
+    "number": 58,
+    "question": "Calcification in the 'Engulfed' pattern at the pineal gland in a child under 7 suggests:",
+    "choices": ["A. Normal pineal", "B. Germinoma", "C. Pineoblastoma", "D. Pineocytoma", "E. Teratoma"],
+    "answer": "B",
+    "detail": "Germinomas 'engulf' the pineal calcification; pineoblastomas 'expand' it."
+  },
+  {
+    "number": 59,
+    "question": "Curvilinear 'Tram track' or double-lined gyriform calcifications parallel to cerebral folds are seen in:",
+    "choices": ["A. Tuberous Sclerosis", "B. Neurocysticercosis", "C. Sturge-Weber Syndrome", "D. Fahr Disease", "E. Paget's"],
+    "answer": "C",
+    "detail": "This pattern is diagnostic for Sturge-Weber pial angiomatosis."
+  },
+  {
+    "number": 60,
+    "question": "Which brain tumor is the most common to show a 'ribbon' pattern of calcification on CT?",
+    "choices": ["A. Astrocytoma", "B. GBM", "C. Oligodendroglioma", "D. Ependymoma", "E. Medulloblastoma"],
+    "answer": "C",
+    "detail": "Oligodendrogliomas are famous for ribbon-like calcifications."
+  },
+  {
+    "number": 61,
+    "question": "Vasospasm typically occurs how many days AFTER a Subarachnoid Hemorrhage (SAH)?",
+    "choices": ["A. 0–24 hours", "B. 1–3 days", "C. 4–14 days (peaking at 7–10)", "D. 1 month", "E. 1 year"],
+    "answer": "C",
+    "detail": "Vasospasm is a delayed side effect, not an immediate one."
+  },
+  {
+    "number": 62,
+    "question": "A T1 bright 'Crescent Sign' (intramural hematoma) in the neck is indicative of:",
+    "choices": ["A. Atherosclerosis", "B. Aneurysm", "C. Vascular Dissection", "D. Normal fat", "E. Tumor"],
+    "answer": "C",
+    "detail": "The crescent sign represents blood within the wall of a dissected vessel."
+  },
+  {
+    "number": 63,
+    "question": "According to NASCET criteria, how do you calculate the percentage of carotid stenosis?",
+    "choices": ["A. [1 - Narrowest Segment (A) / Distal Normal Segment (B)] x 100", "B. [Narrowest Segment / Bulbar Segment] x 100", "C. Total vessel diameter - lumen diameter", "D. It is only qualitative", "E. [Narrowest Segment / Contralateral segment] x 100"],
+    "answer": "A",
+    "detail": "Stenosis is measured relative to a distal parallel segment."
+  },
+  {
+    "number": 64,
+    "question": "Carotid Endarterectomy (CEA) is often performed for symptomatic patients with what degree of stenosis?",
+    "choices": ["A. > 10%", "B. > 25%", "C. > 50%", "D. > 90%", "E. Only for 100% occlusion"],
+    "answer": "C",
+    "detail": "The threshold for intervention in symptomatic patients is typically > 50%."
+  },
+  {
+    "number": 65,
+    "question": "Which systemic vasculitis is the MOST COMMON to involve the CNS?",
+    "choices": ["A. Wegener's", "B. Temporal Arteritis", "C. Polyarteritis Nodosa (PAN)", "D. Takayasu", "E. SLE"],
+    "answer": "C",
+    "detail": "PAN is the leading systemic vasculitis affecting the CNS."
+  },
+  {
+    "number": 66,
+    "question": "Which condition is the MOST COMMON collagen vascular disease?",
+    "choices": ["A. RA", "B. SLE (Systemic Lupus Erythematosus)", "C. Sjogren's", "D. Scleroderma", "E. Sarcoid"],
+    "answer": "B",
+    "detail": "SLE is the most frequent collagen vascular disease mentioned."
+  },
+  {
+    "number": 67,
+    "question": "A 'Puff of Smoke' angiographic appearance of the basal perforating arteries is diagnostic for:",
+    "choices": ["A. Vasculitis", "B. AVM", "C. Moyamoya", "D. Arteriosclerosis", "E. Fibromuscular Dysplasia"],
+    "answer": "C",
+    "detail": "Moyamoya features progressive supraclinoid ICA stenosis with compensatory hypertrophied perforators."
+  },
+  {
+    "number": 68,
+    "question": "In a child with Moyamoya, which underlying condition should be considered?",
+    "choices": ["A. Diabetes", "B. Sickle Cell Disease", "C. Cystic Fibrosis", "D. Asthma", "E. Hemophilia"],
+    "answer": "B",
+    "detail": "Sickle cell is a frequent association for Moyamoya in children."
+  },
+  {
+    "number": 69,
+    "question": "Crossed Cerebellar Diaschisis (CCD) is characterized by:",
+    "choices": ["A. Bilateral cerebellar infarcts", "B. Depressed metabolism in a cerebellar hemisphere contralateral to a supratentorial insult", "C. Tumor spread to the cerebellum", "D. Midline vermian atrophy", "E. Hydrocephalus"],
+    "answer": "B",
+    "detail": "A cortical injury disrupts the corticopontine-cerebellar pathway, shutting down metabolism in the opposite cerebellum."
+  },
+  {
+    "number": 70,
+    "question": "The 'LeFort Fracture Pattern System' always involves a fracture of which specific component?",
+    "choices": ["A. Nasal bone", "B. Zygomatic arch", "C. Pterygoid process", "D. Mandible", "E. Ethmoid sinus"],
+    "answer": "C",
+    "detail": "All three LeFort fracture types share a pterygoid process fracture."
+  },
+  {
+    "number": 71,
+    "question": "A 'Floating Palate' (palate separated from the maxilla) is which LeFort type?",
+    "choices": ["A. LeFort 1", "B. LeFort 2", "C. LeFort 3", "D. LeFort 4", "E. It is not a LeFort"],
+    "answer": "A",
+    "detail": "LeFort 1 involves the anterolateral margin of the nasal fossa and separates the palate."
+  },
+  {
+    "number": 72,
+    "question": "A 'Pyramidal' fracture involving the maxilla and inferior orbital rim is which LeFort type?",
+    "choices": ["A. LeFort 1", "B. LeFort 2", "C. LeFort 3", "D. LeFort 4", "E. Tripod"],
+    "answer": "B",
+    "detail": "LeFort 2 is the pyramidal pattern."
+  },
+  {
+    "number": 73,
+    "question": "A 'Floating Face' (face separated from the cranium) involving the zygomatic arch is:",
+    "choices": ["A. LeFort 1", "B. LeFort 2", "C. LeFort 3", "D. LeFort 4", "E. Mandibular"],
+    "answer": "C",
+    "detail": "LeFort 3 involves the zygomatic arch and lateral orbital wall."
+  },
+  {
+    "number": 74,
+    "question": "An 'airless, expanded sinus' following a facial fracture is a buzzword for:",
+    "choices": ["A. Abscess", "B. Tumor", "C. Mucocele", "D. Normal blood", "E. Pneumocephalus"],
+    "answer": "C",
+    "detail": "Disruption of outflow (usually frontal sinus) leads to mucocele formation."
+  },
+  {
+    "number": 75,
+    "question": "What is the most common site for a facial fracture to result in a CSF leak?",
+    "choices": ["A. Sphenoid sinus", "B. Posterior fossa", "C. Anterior skull base", "D. Mandible", "E. Maxillary sinus"],
+    "answer": "C",
+    "detail": "Anterior skull base fractures are the primary cause of post-traumatic CSF rhinorrhea."
+  },
+  {
+    "number": 76,
+    "question": "Which condition is a known clinical association with a CSF leak?",
+    "choices": ["A. Sudden blindness", "B. Recurrent bacterial meningitis", "C. Hypertension", "D. Hyperthyroidism", "E. Seizures"],
+    "answer": "B",
+    "detail": "Communication between the sinuses and subarachnoid space allows repeated infection."
+  },
+  {
+    "number": 77,
+    "question": "'Longitudinal' temporal bone fractures (along the long axis) are:",
+    "choices": ["A. Less common than transverse", "B. Associated with more sensorineural hearing loss", "C. More common and associated with ossicular dislocation/conductive loss", "D. Always involve the facial nerve", "E. Never seen in MVAs"],
+    "answer": "C",
+    "detail": "Longitudinal fractures are the most common type and favor ossicular injury."
+  },
+  {
+    "number": 78,
+    "question": "'Transverse' temporal bone fractures are characterized by:",
+    "choices": ["A. Conductive hearing loss", "B. Violation of the otic capsule and sensorineural hearing loss", "C. Less facial nerve damage", "D. Respect for the bony labyrinth", "E. Multiple air bubbles"],
+    "answer": "B",
+    "detail": "Transverse fractures involve the short axis and are more likely to damage the nerve and inner ear."
+  },
+  {
+    "number": 79,
+    "question": "Which facial fracture is the MOST COMMON overall?",
+    "choices": ["A. Mandible", "B. Zygoma", "C. Nasal bone", "D. Ethmoid", "E. Orbit"],
+    "answer": "C",
+    "detail": "Nasal bone fractures are the most frequent facial injury."
+  },
+  {
+    "number": 80,
+    "question": "A 'Zygomaticomaxillary Complex Fracture' is also known as a:",
+    "choices": ["A. Blowout fracture", "B. Tripod Fracture", "C. LeFort 1", "D. Step-off", "E. Jump fracture"],
+    "answer": "B",
+    "detail": "It involves the zygoma, inferior orbit, and lateral orbit."
+  },
+  {
+    "number": 81,
+    "question": "In the anatomy of the middle ear, the 'Epitympanum' is also called:",
+    "choices": ["A. The Attic", "B. The Cellar", "C. The Scutum", "D. The Aditus", "E. The Vestibule"],
+    "answer": "A",
+    "detail": "The epitympanum is the superior portion of the middle ear."
+  },
+  {
+    "number": 82,
+    "question": "The 'Scutum' is an important anatomical landmark because its erosion is seen in:",
+    "choices": ["A. Otosclerosis", "B. Cholesteatomas", "C. Glomus tumors", "D. Facial nerve palsy", "E. Temporal bone fractures"],
+    "answer": "B",
+    "detail": "Erosion of the scutum (osseous spur) is a hallmark of cholesteatoma."
+  },
+  {
+    "number": 83,
+    "question": "Enhancement of the cochlea and semicircular canals on T1 post-contrast MRI indicates:",
+    "choices": ["A. Bell's Palsy", "B. Labyrinthitis", "C. Schwannoma", "D. Normal variant", "E. Otosclerosis"],
+    "answer": "B",
+    "detail": "Inflammation of the membranous labyrinth causes this enhancement."
+  },
+  {
+    "number": 84,
+    "question": "Which segment of the Facial Nerve (CN 7) is represented by the 'bend at the geniculate ganglion'?",
+    "choices": ["A. Cisternal", "B. Canalicular", "C. Anterior Genu", "D. Tympanic", "E. Mastoid"],
+    "answer": "C",
+    "detail": "The bend at the GG is the anterior genu."
+  },
+  {
+    "number": 85,
+    "question": "Which portions of the Facial Nerve can enhance NORMALLY?",
+    "choices": ["A. Cisternal and Canalicular", "B. Tympanic, Mastoid, and Geniculate Ganglion", "C. Extratemporal only", "D. The entire nerve enhances", "E. No part of the nerve enhances"],
+    "answer": "B",
+    "detail": "Portions of the distal segments can show normal enhancement."
+  },
+  {
+    "number": 86,
+    "question": "Abnormal enhancement in the 'Canalicular Segment' (within the IAC) is the most classic finding for:",
+    "choices": ["A. Ramsay Hunt", "B. Bell's Palsy", "C. Cancer spread", "D. Fracture", "E. Meningitis"],
+    "answer": "B",
+    "detail": "Bell's palsy typically shows enhancement in this specific segment."
+  },
+  {
+    "number": 87,
+    "question": "'Noise Induced Vertigo' or 'Tullio’s Phenomenon' is the clinical hallmark for:",
+    "choices": ["A. Large Vestibular Aqueduct Syndrome", "B. Superior Semicircular Canal Dehiscence", "C. Labyrinthitis", "D. Otosclerosis", "E. Meniere's Disease"],
+    "answer": "B",
+    "detail": "Absence of a bony roof over the superior canal causes symptoms with sound."
+  },
+  {
+    "number": 88,
+    "question": "What is the most common cause of congenital sensorineural hearing loss?",
+    "choices": ["A. Labyrinthitis", "B. Large Vestibular Aqueduct Syndrome", "C. Otosclerosis", "D. CMV", "E. Trauma"],
+    "answer": "B",
+    "detail": "An enlarged vestibular aqueduct (> 1.5 mm) has a classic 'Aunt Minnie' appearance."
+  },
+  {
+    "number": 89,
+    "question": "A 'Salt and Pepper' appearance on post-contrast MRI (from flow voids) in a vascular skull base mass is diagnostic of:",
+    "choices": ["A. Meningioma", "B. Schwannoma", "C. Paraganglioma (Glomus tumor)", "D. Metastasis", "E. Chordoma"],
+    "answer": "C",
+    "detail": "Hypervascularity in glomus tumors creates this distinctive look."
+  },
+  {
+    "number": 90,
+    "question": "Which Paraganglioma is located specifically at the 'Carotid Bifurcation,' splaying the ICA and ECA?",
+    "choices": ["A. Glomus Jugulare", "B. Glomus Vagale", "C. Carotid Body Tumor", "D. Glomus Tympanicum", "E. Pheochromocytoma"],
+    "answer": "C",
+    "detail": "This specific location identifies the carotid body tumor."
+  },
+  {
+    "number": 91,
+    "question": "A 'T1 and T2 bright' lesion in the petrous apex is likely a:",
+    "choices": ["A. Cholesteatoma", "B. Cholesterol Granuloma", "C. Apical Petrositis", "D. Meningioma", "E. Metastasis"],
+    "answer": "B",
+    "detail": "Cholesterol granulomas contain blood products (methemoglobin) and are bright on T1 and T2."
+  },
+  {
+    "number": 92,
+    "question": "How does a petrous apex Cholesteatoma differ from a Cholesterol Granuloma on MRI?",
+    "choices": ["A. It is T1 bright", "B. It is T1 dark, T2 bright, and RESTRICTS diffusion", "C. It does not restrict", "D. It is always bilateral", "E. It is purely calcified"],
+    "answer": "B",
+    "detail": "Restriction on DWI is the key differentiator for cholesteatoma."
+  },
+  {
+    "number": 93,
+    "question": "'Osteolysis circumscripta' refers to the well-defined radiolucent region seen in which disease?",
+    "choices": ["A. Fibrous Dysplasia", "B. Metastasis", "C. Paget's Disease (Lytic phase)", "D. Leukemia", "E. Osteoporosis"],
+    "answer": "C",
+    "detail": "This is the hallmark lytic appearance of Paget's in the skull."
+  },
+  {
+    "number": 94,
+    "question": "What is the most common complication of Paget's Disease involving the skull?",
+    "choices": ["A. Blindness", "B. Deafness", "C. Seizures", "D. Strokes", "E. Baldness"],
+    "answer": "B",
+    "detail": "Bony expansion can compress the auditory nerves."
+  },
+  {
+    "number": 95,
+    "question": "Fibrous Dysplasia of the skull typically presents in patients under age 30 and characteristically spares which structure?",
+    "choices": ["A. Outer table", "B. Clivus", "C. Otic capsule", "D. Frontal bone", "E. Orbit"],
+    "answer": "C",
+    "detail": "Sparing of the otic capsule is a classic feature of fibrous dysplasia."
+  },
+  {
+    "number": 96,
+    "question": "A 'Cerebriform pattern' on MRI in a lateral nasal wall tumor is a buzzword for:",
+    "choices": ["A. Squamous Cell CA", "B. Esthesioneuroblastoma", "C. Inverting Papilloma", "D. JNA", "E. Lymphoma"],
+    "answer": "C",
+    "detail": "The convoluted, brain-like appearance on MRI is distinctive for inverting papilloma."
+  },
+  {
+    "number": 97,
+    "question": "Which nasal tumor has a classic 'Dumbbell appearance' at the cribriform plate?",
+    "choices": ["A. JNA", "B. Inverting Papilloma", "C. Esthesioneuroblastoma", "D. SNUC", "E. Mucocele"],
+    "answer": "C",
+    "detail": "Growth through the cribriform plate with an intracranial waist is characteristic."
+  },
+  {
+    "number": 98,
+    "question": "Juvenile Nasopharyngeal Angiofibroma (JNA) is seen 'nearly exclusively' in which demographic?",
+    "choices": ["A. Middle aged women", "B. Elderly males", "C. Male teenagers", "D. Infants", "E. Post-menopausal women"],
+    "answer": "C",
+    "detail": "JNA is a highly vascular tumor of adolescent males."
+  },
+  {
+    "number": 99,
+    "question": "A 'Stones in the salivary ducts' condition is called:",
+    "choices": ["A. Sialoadenitis", "B. Sialolithiasis", "C. Ranula", "D. Sarcoidosis", "E. Mucocele"],
+    "answer": "B",
+    "detail": "Sialolithiasis refers to salivary stones, most common in Wharton's duct."
+  },
+  {
+    "number": 100,
+    "question": "A 'Plunging Ranula' extends under which muscle into the submandibular space?",
+    "choices": ["A. Masseter", "B. Digastric", "C. Mylohyoid", "D. Genioglossus", "E. Sternocleidomastoid"],
+    "answer": "C",
+    "detail": "Once a ranula passes the mylohyoid, it is 'plunging' or 'diving'."
+  }
+]
+
+}

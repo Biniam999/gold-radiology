@@ -1,0 +1,1308 @@
+{
+    "questions": 
+    
+} [
+   
+  {
+    "number": 1,
+    "question": "A 65-year-old male with a 40-pack-year smoking history is referred for lung cancer screening. According to current USPSTF guidelines, what is the age range and smoking history criteria for low-dose CT screening?",
+    "choices": [
+      "Age 55-80; 30 pack-years; quit within 15 years",
+      "Age 50-80; 20 pack-years; quit within 15 years",
+      "Age 50-75; 20 pack-years; currently smoke",
+      "Age 55-75; 30 pack-years; quit within 10 years",
+      "Age 40-80; 20 pack-years; quit within 15 years"
+    ],
+    "answer": "B",
+    "detail": "The current screening criteria for low-dose CT are age 50-80, a 20 pack-year history, and having quit within 15 years."
+  },
+  {
+    "number": 2,
+    "question": "Which of the following is defined as a solitary pulmonary nodule (SPN)?",
+    "choices": [
+      "A 4 cm round lesion surrounded by lung parenchyma",
+      "A 2.5 cm round lesion with associated hilar lymphadenopathy",
+      "A 2 cm round lesion surrounded by lung parenchyma with no pleural effusion",
+      "A 3.5 cm oval lesion in the right upper lobe",
+      "A 1 cm nodule in a patient with a malignant pleural effusion"
+    ],
+    "answer": "C",
+    "detail": "An SPN is defined as a lesion < 3 cm that is surrounded by lung parenchyma and has no associated adenopathy or effusion."
+  },
+  {
+    "number": 3,
+    "question": "Which calcification pattern in a solitary pulmonary nodule is considered the most suspicious for malignancy?",
+    "choices": [
+      "Popcorn",
+      "Laminated",
+      "Central",
+      "Eccentric",
+      "Solid/Diffuse"
+    ],
+    "answer": "D",
+    "detail": "While solid, laminated, central, and popcorn patterns are typically benign, eccentric and stippled patterns are considered suspicious for malignancy."
+  },
+  {
+    "number": 4,
+    "question": "A CT scan of a 60-year-old smoker reveals a 15 mm spiculated nodule. On an older CT from 10 months ago, the nodule was 8 mm. This represents 'growth' according to LUNG-RADS if it is at least:",
+    "choices": [
+      "0.5 mm in one year",
+      "1.0 mm in one year",
+      "1.5 mm in one year",
+      "2.0 mm in one year",
+      "5.0 mm in one year"
+    ],
+    "answer": "C",
+    "detail": "In the lung cancer screening program, 'growth' is defined as an increase of 1.5 mm or more within one year."
+  },
+  {
+    "number": 5,
+    "question": "Which histological subtype of lung cancer is most strongly associated with paraneoplastic SIADH and ACTH production?",
+    "choices": [
+      "Squamous Cell Carcinoma",
+      "Adenocarcinoma",
+      "Large Cell Carcinoma",
+      "Small Cell Carcinoma",
+      "Adenocarcinoma in-situ"
+    ],
+    "answer": "D",
+    "detail": "Small cell carcinoma is the most common subtype to cause paraneoplastic syndromes such as SIADH and ACTH production."
+  },
+  {
+    "number": 6,
+    "question": "For a solid nodule incidentally discovered on a non-screening CT in a 40-year-old low-risk patient, what is the Fleischner Society recommendation for a nodule measuring < 6 mm?",
+    "choices": [
+      "12-month repeat CT",
+      "6-12 month follow-up",
+      "No follow-up needed",
+      "3-6 month follow-up",
+      "PET/CT"
+    ],
+    "answer": "C",
+    "detail": "Under Fleischner guidelines, low-risk patients with incidental solid nodules < 6 mm (single or multiple) require no follow-up."
+  },
+  {
+    "number": 7,
+    "question": "A 55-year-old female presents with a 2.5 cm peripheral pulmonary nodule. PET/CT shows an SUV of 3.2. Which of the following statements regarding PET for SPNs is correct?",
+    "choices": [
+      "Any nodule smaller than 1 cm can be reliably evaluated with PET.",
+      "Lung cancer is typically considered 'hot' if the SUV is > 2.5.",
+      "A 'cold' ground glass nodule is always benign.",
+      "Infectious nodules are never 'hot' on PET.",
+      "Hamartomas are always 'cold' on PET."
+    ],
+    "answer": "B",
+    "detail": "An SUV > 2.5 is a standard cutoff for considering a nodule 'hot' and suspicious for malignancy, although infections can also show high uptake."
+  },
+  {
+    "number": 8,
+    "question": "Which of the following features makes a lung nodule more likely to be benign?",
+    "choices": [
+      "Air bronchograms through the nodule",
+      "Spiculated margins (Corona Radiata sign)",
+      "Doubling time of 20 days",
+      "Stability in size for 2 years",
+      "Partially solid morphology"
+    ],
+    "answer": "D",
+    "detail": "Stability in the size of a lesion for two years is a hallmark indicator that it is benign."
+  },
+  {
+    "number": 9,
+    "question": "What is the most common histological subtype of lung cancer to present as a solitary pulmonary nodule?",
+    "choices": [
+      "Adenocarcinoma in-situ",
+      "Squamous Cell",
+      "Adenocarcinoma",
+      "Large Cell",
+      "Small Cell"
+    ],
+    "answer": "C",
+    "detail": "Adenocarcinoma is the most common subtype (35%) and is the one that most frequently presents as an SPN."
+  },
+  {
+    "number": 10,
+    "question": "A 50-year-old male with a history of head and neck cancer presents with a new SPN. Statistically, this nodule is most likely to be:",
+    "choices": [
+      "A metastasis from the head and neck primary",
+      "A primary bronchogenic carcinoma",
+      "A post-inflammatory granuloma",
+      "A pulmonary hamartoma",
+      "A fungal infection"
+    ],
+    "answer": "B",
+    "detail": "Due to shared risk factors, an SPN in a patient with a history of head and neck cancer is statistically more likely to be a primary bronchogenic carcinoma than a metastasis."
+  },
+  {
+    "number": 11,
+    "question": "Which lung cancer subtype is classically associated with cavitation and arises centrally?",
+    "choices": [
+      "Adenocarcinoma",
+      "Small Cell",
+      "Squamous Cell",
+      "Large Cell",
+      "Minimally Invasive Adenocarcinoma"
+    ],
+    "answer": "C",
+    "detail": "Squamous cell carcinoma is typically central and frequently demonstrates cavitation."
+  },
+  {
+    "number": 12,
+    "question": " 'Lambert-Eaton' syndrome, a paraneoplastic syndrome causing proximal muscle weakness, is most commonly associated with which cancer?",
+    "choices": [
+      "Squamous Cell",
+      "Adenocarcinoma",
+      "Small Cell",
+      "Mesothelioma",
+      "Lymphoma"
+    ],
+    "answer": "C",
+    "detail": "Lambert-Eaton syndrome is a paraneoplastic condition classically linked to small cell lung cancer."
+  },
+  {
+    "number": 13,
+    "question": "In lung cancer staging (8th edition), a tumor measuring 4.5 cm in its greatest dimension is classified as:",
+    "choices": [
+      "T1a",
+      "T1c",
+      "T2a",
+      "T2b",
+      "E3"
+    ],
+    "answer": "C",
+    "detail": "A tumor size between 3-5 cm is classified as T2a."
+  },
+  {
+    "number": 14,
+    "question": "A Pancoast tumor that involves the C8 or higher nerve roots is classified as:",
+    "choices": [
+      "T1",
+      "T2",
+      "T3",
+      "T4",
+      "M1a"
+    ],
+    "answer": "D",
+    "detail": "Pancoast tumors are classified as T4 if they involve the C8 nerve root or higher."
+  },
+  {
+    "number": 15,
+    "question": "Which of the following nodal stages corresponds to a 'worse prognosis than N0' but typically does not change surgical management?",
+    "choices": [
+      "N1",
+      "N2",
+      "N3",
+      "Stage 3B",
+      "M1b"
+    ],
+    "answer": "A",
+    "detail": "N1 involves ipsilateral hilar nodes; while it has a worse prognosis than N0, the surgical management (resection) often remains the same."
+  },
+  {
+    "number": 16,
+    "question": "Which of the following is an absolute contraindication to a lobectomy for lung cancer?",
+    "choices": [
+      "Tumor measuring 6 cm (T3)",
+      "N1 nodal disease",
+      "Invasion of the visceral pleura",
+      "Invasion of the carina (T4)",
+      "Ipsilateral hilar node enlargement"
+    ],
+    "answer": "D",
+    "detail": "Invasion of the carina (T4) or N3 disease implies Stage 3B, which typically makes a tumor unresectable."
+  },
+  {
+    "number": 17,
+    "question": "A patient with lung cancer is found to have a separate satellite tumor nodule in a different lobe of the same lung. What is the T-stage?",
+    "choices": [
+      "T2",
+      "T3",
+      "T4",
+      "M1a",
+      "M1b"
+    ],
+    "answer": "C",
+    "detail": "A satellite nodule located in a different lobe within the same lung is staged as T4."
+  },
+  {
+    "number": 18,
+    "question": "What is the most common early presentation of lung cancer?",
+    "choices": [
+      "Hilar mass",
+      "Large pleural effusion",
+      "Solitary pulmonary nodule",
+      "Rib invasion",
+      "SVC syndrome"
+    ],
+    "answer": "C",
+    "detail": "The most common early manifestation of lung cancer is an SPN, which is most often found in the right upper lobe."
+  },
+  {
+    "number": 19,
+    "question": "Which of the following imaging findings post-resection is most concerning for recurrent disease?",
+    "choices": [
+      "Patchy ground-glass opacities in the radiation bed at 2 months",
+      "A round morphology of soft tissue growing at the resection line",
+      "Traction bronchiectasis within a region of volume loss",
+      "Bubbles seen within a lesion immediately after RFA treatment",
+      "Linear scarring that is decreasing in density over time"
+    ],
+    "answer": "B",
+    "detail": "A round morphology of soft tissue that grows at the resection line is highly suspicious for cancer recurrence."
+  },
+  {
+    "number": 20,
+    "question": "A 50-year-old patient has a 12 mm solid pulmonary nodule that is 'cold' on PET. The nodule is most likely to be:",
+    "choices": [
+      "Small cell carcinoma",
+      "Squamous cell carcinoma",
+      "Adenocarcinoma in-situ spectrum",
+      "Large cell carcinoma",
+      "A metastatic lesion"
+    ],
+    "answer": "C",
+    "detail": "Adenocarcinoma in-situ spectrum subtypes are classically 'cold' on PET."
+  },
+  {
+    "number": 21,
+    "question": "A 'perifissural lymph node' is typically category 2 in LUNG-RADS if it meets which criteria?",
+    "choices": [
+      "Spherical shape and 12 mm in size",
+      "Lentiform or triangular shape and < 10 mm in size",
+      "Spiculated margins and 5 mm in size",
+      "Round shape and < 6 mm in size",
+      "Any size as long as it touches a fissure"
+    ],
+    "answer": "B",
+    "detail": "Perifissural lymph nodes that are < 10 mm and have a lentiform or triangular shape are classified as LUNG-RADS 2."
+  },
+  {
+    "number": 22,
+    "question": "Which paraneoplastic syndrome is associated with ectopic parathyroid hormone (PTH) production in lung cancer?",
+    "choices": [
+      "SIADH",
+      "ACTH",
+      "Hypercalcemia (Squamous Cell)",
+      "Lambert-Eaton",
+      "Hypertrophic Osteoarthropathy"
+    ],
+    "answer": "C",
+    "detail": "Hypercalcemia resulting from ectopic PTH production is a paraneoplastic syndrome associated with squamous cell carcinoma."
+  },
+  {
+    "number": 23,
+    "question": "According to the 'C.R.A.Z.Y. Paving' mnemonic, what does the 'C' stand for in the differential?",
+    "choices": [
+      "COVID-19",
+      "COP / Cancer (BAC)",
+      "Congestive Heart Failure",
+      "Cryptococcus",
+      "Churg-Strauss"
+    ],
+    "answer": "B",
+    "detail": "In the 'C.R.A.Z.Y. Paving' mnemonic, 'C' stands for COP, Cancer (BAC), or COVID."
+  },
+  {
+    "number": 24,
+    "question": "A patient has a CT showing 'tramline' linear increased uptake along the periosteum of the long bones. This finding is seen in 10% of patients with:",
+    "choices": [
+      "Small cell lung cancer",
+      "Lung cancer (Hypertrophic Osteoarthropathy)",
+      "Sarcoidosis",
+      "Tuberculosis",
+      "Pulmonary fibrosis"
+    ],
+    "answer": "B",
+    "detail": "The 'tramline' sign of hypertrophic osteoarthropathy is observed in approximately 10% of patients with lung cancer."
+  },
+  {
+    "number": 25,
+    "question": "A 70-year-old male with a history of working in a shipyard presents with parietal pleural thickening and a lung pattern similar to UIP. This is most likely:",
+    "choices": [
+      "Silicosis",
+      "Asbestosis",
+      "Coal Worker’s Pneumoconiosis",
+      "Berylliosis",
+      "Talcosis"
+    ],
+    "answer": "B",
+    "detail": "Asbestosis presents as lung fibrosis similar to UIP and is associated with parietal pleural thickening from asbestos exposure."
+  },
+  {
+    "number": 26,
+    "question": "The 'Holly Leaf' appearance on a chest X-ray is a classic description for:",
+    "choices": [
+      "Progressive Massive Fibrosis (PMF)",
+      "Calcified pleural plaques in asbestosis",
+      "Miliary TB",
+      "Pulmonary hamartoma",
+      "Round atelectasis"
+    ],
+    "answer": "B",
+    "detail": "Calcified pleural plaques in asbestosis are classically described as having a 'Holly Leaf' appearance on CXR."
+  },
+  {
+    "number": 27,
+    "question": "In the setting of asbestos exposure, what is the 'earliest pleural-based phenomenon' to occur?",
+    "choices": [
+      "Pleural plaques",
+      "Pleural calcifications",
+      "Benign pleural effusion",
+      "Malignant mesothelioma",
+      "Round atelectasis"
+    ],
+    "answer": "C",
+    "detail": "Benign pleural effusions are the earliest pleural-based manifestation of asbestos exposure, typically occurring after a lag time of about 5 years."
+  },
+  {
+    "number": 28,
+    "question": "A mass-like opacity next to pleural thickening with a 'comet tail' convergence of bronchovascular structures is diagnostic for:",
+    "choices": [
+      "Lung cancer",
+      "Pleural mesothelioma",
+      "Round atelectasis",
+      "Pulmonary hamartoma",
+      "Solitary fibrous tumor of the pleura"
+    ],
+    "answer": "C",
+    "detail": "Round atelectasis, often called an 'asbestos pseudotumor,' is characterized by the 'comet tail' sign."
+  },
+  {
+    "number": 29,
+    "question": "Which statement regarding Malignant Mesothelioma is true?",
+    "choices": [
+      "It is strongly dose-dependent on asbestos exposure.",
+      "The lag time from exposure is usually 5-10 years.",
+      "It is the most common cancer of the pleura.",
+      "It never invades the chest wall or diaphragm.",
+      "It is usually cured with antibiotics."
+    ],
+    "answer": "C",
+    "detail": "Malignant mesothelioma is the most common cancer of the pleura. Its development is not dose-dependent on asbestos and has a long lag time of 30-40 years."
+  },
+  {
+    "number": 30,
+    "question": "Progressive Massive Fibrosis (PMF) is characterized by large upper lobe masses with radiating strands and is seen in:",
+    "choices": [
+      "Asbestosis",
+      "Silicosis or Coal Worker’s Pneumoconiosis",
+      "Sarcoidosis",
+      "Berylliosis",
+      "Hypersensitivity Pneumonitis"
+    ],
+    "answer": "B",
+    "detail": "PMF represents the complicated form of silicosis or coal worker's pneumoconiosis."
+  },
+  {
+    "number": 31,
+    "question": "A 'putty kidney' (autonephrectomized end-stage kidney) and 'Rasmussen aneurysm' are both complications of which infection?",
+    "choices": [
+      "Histoplasmosis",
+      "Tuberculosis",
+      "Nocardia",
+      "Actinomycosis",
+      "Staph Aureus"
+    ],
+    "answer": "B",
+    "detail": "Both 'putty kidney' and Rasmussen (pulmonary artery) aneurysms are classic sequelae of tuberculosis."
+  },
+  {
+    "number": 32,
+    "question": "In an AIDS patient, which finding on PET/CT is most likely to represent Lymphoma rather than Kaposi Sarcoma?",
+    "choices": [
+      "Thallium negative, Gallium negative",
+      "Thallium positive, Gallium positive",
+      "Thallium positive, Gallium negative",
+      "Thallium negative, Gallium positive",
+      "PET cold nodules"
+    ],
+    "answer": "B",
+    "detail": "Lymphoma typically shows high uptake of both Thallium and Gallium, whereas Kaposi Sarcoma is usually Gallium negative."
+  },
+  {
+    "number": 33,
+    "question": "Which condition presents with 'flame-shaped' perihilar opacities and is the most common lung tumor in AIDS patients?",
+    "choices": [
+      "PCP",
+      "Lymphoma",
+      "Kaposi Sarcoma",
+      "Invasive Aspergillus",
+      "Lung Adenocarcinoma"
+    ],
+    "answer": "C",
+    "detail": "Kaposi Sarcoma is the most common lung tumor in AIDS patients and is characterized by 'flame-shaped' perihilar opacities."
+  },
+  {
+    "number": 34,
+    "question": "'Cannonball Mets' (large, smooth, well-defined nodules) are most classically seen from which primary cancer?",
+    "choices": [
+      "Breast or Lung",
+      "Renal Cell or Choriocarcinoma",
+      "Thyroid or Colon",
+      "Squamous Cell of Head and Neck",
+      "Prostate"
+    ],
+    "answer": "B",
+    "detail": "Renal cell carcinoma and choriocarcinoma are classic primary sources for 'cannonball' hematogenous metastases."
+  },
+  {
+    "number": 35,
+    "question": "Unilateral lymphangitic carcinomatosis is most commonly caused by:",
+    "choices": [
+      "Breast cancer",
+      "Stomach cancer",
+      "Bronchogenic carcinoma (lung cancer) invading lymphatics",
+      "Prostate cancer",
+      "Pancreatic cancer"
+    ],
+    "answer": "C",
+    "detail": "The most common cause of unilateral lymphangitic carcinomatosis is bronchogenic carcinoma invading the lymphatics."
+  },
+  {
+    "number": 36,
+    "question": "A SPN with macroscopic fat and 'popcorn' calcification is an 'Aunt Minnie' for:",
+    "choices": [
+      "Lung cancer",
+      "Granuloma",
+      "Hamartoma",
+      "Metastatic osteosarcoma",
+      "Carcinoid tumor"
+    ],
+    "answer": "C",
+    "detail": "A pulmonary hamartoma is easily identified ('Aunt Minnie') by its characteristic popcorn calcification and macroscopic fat."
+  },
+  {
+    "number": 37,
+    "question": "Which of the following staging findings makes a lung tumor Stage 3B (unresectable)?",
+    "choices": [
+      "Ipsilateral hilar node involvement (N1)",
+      "Contralateral mediastinal node involvement (N3)",
+      "Invasion of the chest wall (T3)",
+      "Tumor size of 6 cm (T3)",
+      "Invasion of the phrenic nerve"
+    ],
+    "answer": "B",
+    "detail": "N3 (contralateral) nodal disease or T4 disease indicates Stage 3B, which is usually unresectable."
+  },
+  {
+    "number": 38,
+    "question": "PET-CT is considered superior to CT for which part of lung cancer staging?",
+    "choices": [
+      "T-staging (size)",
+      "N-staging (nodal disease)",
+      "Evaluating bronchial obstruction",
+      "Measuring pleural effusion volume",
+      "Identifying calcifications"
+    ],
+    "answer": "B",
+    "detail": "PET-CT has been shown to be far superior to standard CT for nodal (N) staging in lung cancer."
+  },
+  {
+    "number": 39,
+    "question": "Following a pneumonectomy, the post-surgical space normally fills with fluid. If it instead begins to fill with air on Day 3, you should suspect:",
+    "choices": [
+      "Normal post-op change",
+      "Bronchopleural fistula",
+      "Compensatory emphysema",
+      "Recurrent cancer",
+      "Radiation pneumonitis"
+    ],
+    "answer": "B",
+    "detail": "A post-pneumonectomy space that fills with air rather than fluid is a strong indicator of a bronchopleural fistula."
+  },
+  {
+    "number": 40,
+    "question": "Radiation pneumonitis appearing within 1-3 months of treatment typically manifests as:",
+    "choices": [
+      "Dense consolidation and traction bronchiectasis",
+      "Homogenous or patchy ground-glass opacities",
+      "Large lung cavities",
+      "Multiple pleural plaques",
+      "Spontaneous pneumothorax"
+    ],
+    "answer": "B",
+    "detail": "Early radiation pneumonitis (1-3 months post-treatment) typically appears as homogenous or patchy ground-glass opacities."
+  },
+  {
+    "number": 41,
+    "question": "Which cancer is noted for its 'shitty prognosis' and for having killed comedy legend Andy Kaufman in his 30s?",
+    "choices": [
+      "Small Cell Carcinoma",
+      "Non-Small Cell Large Cell",
+      "Adenocarcinoma",
+      "Squamous Cell",
+      "Mesothelioma"
+    ],
+    "answer": "B",
+    "detail": "Non-small cell large cell carcinoma is specifically noted in the text for its poor prognosis and for causing the death of Andy Kaufman."
+  },
+  {
+    "number": 42,
+    "question": "Lung cancer in a patient with pulmonary fibrosis most commonly favors which location?",
+    "choices": [
+      "The upper lobes",
+      "The hilum",
+      "The interface between fibrotic cysts and normal lung",
+      "The mediastinal pleura",
+      "The trachea"
+    ],
+    "answer": "C",
+    "detail": "In patients with fibrotic lungs, cancer most commonly arises at the interface between the normal lung and the fibrotic cysts."
+  },
+  {
+    "number": 43,
+    "question": "A 45-year-old female non-smoker is found to have an SPN. Which histological subtype is statistically most likely?",
+    "choices": [
+      "Squamous Cell",
+      "Small Cell",
+      "Adenocarcinoma",
+      "Large Cell",
+      "E. Carcinoid"
+    ],
+    "answer": "C",
+    "detail": "Adenocarcinoma is the most common subtype of lung cancer found in non-smokers."
+  },
+  {
+    "number": 44,
+    "question": "Which histological subtype does NOT express the tissue marker thyroid transcription factor 1 (TTF-1)?",
+    "choices": [
+      "Adenocarcinoma",
+      "Small Cell",
+      "Squamous Cell",
+      "Minimally Invasive Adenocarcinoma",
+      "Large Cell"
+    ],
+    "answer": "C",
+    "detail": "Squamous cell carcinoma is the histological subtype that does not express the TTF-1 marker."
+  },
+  {
+    "number": 45,
+    "question": "What is the most common manifestation of metastatic disease to the pleura?",
+    "choices": [
+      "Pleural rind",
+      "Pleural plaques",
+      "Pleural effusion",
+      "Rib erosions",
+      "Pneumothorax"
+    ],
+    "answer": "C",
+    "detail": "The most frequent sign of metastatic disease to the pleura is a pleural effusion."
+  },
+  {
+    "number": 46,
+    "question": "Solitary Fibrous Tumor of the Pleura (SFTP) is NOT associated with which of the following?",
+    "choices": [
+      "Chest pain",
+      "Asbestos or smoking",
+      "Doege-Potter syndrome (hypoglycemia)",
+      "Hypertrophic osteoarthropathy",
+      "Large size"
+    ],
+    "answer": "B",
+    "detail": "SFTP is explicitly not associated with a history of smoking or asbestos exposure."
+  },
+  {
+    "number": 47,
+    "question": "For the purpose of board exams, if you see a 'hot' ground glass nodule on PET, what is the most likely diagnosis?",
+    "choices": [
+      "Cancer",
+      "Infection",
+      "Fibrosis",
+      "Pulmonary hemorrhage",
+      "Pulmonary infarct"
+    ],
+    "answer": "B",
+    "detail": "A ground glass nodule that is 'hot' on PET is more likely to be an infection, whereas a 'cold' one is more likely to be an adenocarcinoma in-situ (AIS)."
+  },
+  {
+    "number": 48,
+    "question": "In lung cancer staging, invasion of which structure specifically classifies a tumor as T4?",
+    "choices": [
+      "Visceral pleura",
+      "Chest wall",
+      "Main bronchus",
+      "Diaphragm",
+      "Phrenic nerve"
+    ],
+    "answer": "D",
+    "detail": "Invasion of the diaphragm or great vessels results in a classification of T4."
+  },
+  {
+    "number": 49,
+    "question": "Nodal disease involving the scalene or supraclavicular nodes is classified as:",
+    "choices": [
+      "N1",
+      "N2",
+      "N3",
+      "M1a",
+      "M1b"
+    ],
+    "answer": "C",
+    "detail": "Nodal disease is classified as N3 if it involves supraclavicular, scalene, or contralateral nodes."
+  },
+  {
+    "number": 50,
+    "question": "'Synchronous' primary carcinomas are defined as two or more primaries that:",
+    "choices": [
+      "Develop at different time intervals",
+      "Coexist at the time of diagnosis",
+      "Are in different organs",
+      "Respond differently to chemotherapy",
+      "Are both found in the upper lobes"
+    ],
+    "answer": "B",
+    "detail": "Synchronous means the primaries coexist at the time of diagnosis; metachronous means they develop at different times."
+  },
+  {
+    "number": 51,
+    "question": "Poland Syndrome is characterized by the unilateral absence of which structure?",
+    "choices": [
+      "The lung",
+      "The pulmonary artery",
+      "The pectoral muscle",
+      "The diaphragm",
+      "The ribs"
+    ],
+    "answer": "C",
+    "detail": "Poland Syndrome involves the unilateral absence of the pectoral muscle."
+  },
+  {
+    "number": 52,
+    "question": "Bronchial Atresia most commonly involves which lung segment?",
+    "choices": [
+      "Right Upper Lobe apical segment",
+      "Left Upper Lobe apical-posterior segment",
+      "Right Middle Lobe medial segment",
+      "Left Lower Lobe superior segment",
+      "Right Lower Lobe posterior segment"
+    ],
+    "answer": "B",
+    "detail": "The most common site for bronchial atresia is the apical-posterior segment of the left upper lobe."
+  },
+  {
+    "number": 53,
+    "question": "On CT, Bronchial Atresia is characterized by a hyperlucent region of lung and a nearby 'nodule' or 'finger-in-glove' structure representing:",
+    "choices": [
+      "A primary tumor",
+      "A localized pneumonia",
+      "Mucoid impaction in the blind-ended bronchus",
+      "An AVM",
+      "A sequestration"
+    ],
+    "answer": "C",
+    "detail": "The 'finger-in-glove' appearance in bronchial atresia is caused by mucoid impaction within the blind-ended bronchus."
+  },
+  {
+    "number": 54,
+    "question": "When you see a pulmonary AVM, which syndrome should you immediately consider?",
+    "choices": [
+      "Marfan Syndrome",
+      "Williams Syndrome",
+      "HHT (Hereditary Hemorrhagic Telangiectasia)",
+      "Downs Syndrome",
+      "Turner Syndrome"
+    ],
+    "answer": "C",
+    "detail": "Pulmonary AVMs are highly associated with HHT (Hereditary Hemorrhagic Telangiectasia)."
+  },
+  {
+    "number": 55,
+    "question": "What is the classic clinical concern for a patient with a large pulmonary AVM due to right-to-left shunting?",
+    "choices": [
+      "Pulmonary hypertension",
+      "Stroke and brain abscess",
+      "Mesenteric ischemia",
+      "Renal failure",
+      "Hepatic cirrhosis"
+    ],
+    "answer": "B",
+    "detail": "Large pulmonary AVMs create a right-to-left shunt, which can lead to paradoxical emboli causing strokes or brain abscesses."
+  },
+  {
+    "number": 56,
+    "question": "The 'rule of thumb' for treating a pulmonary AVM is when the afferent (feeding) vessel reaches what size?",
+    "choices": [
+      "1 mm",
+      "2 mm",
+      "3 mm",
+      "5 mm",
+      "10 mm"
+    ],
+    "answer": "C",
+    "detail": "Treatment for a pulmonary AVM is recommended once the feeding (afferent) vessel reaches a size of 3 mm."
+  },
+  {
+    "number": 57,
+    "question": "What is the most common congenital venous anomaly of the chest?",
+    "choices": [
+      "Azygos continuation of the IVC",
+      "Persistent Left SVC",
+      "Common pulmonary vein ostia",
+      "Right-sided aortic arch",
+      "Scimitar vein"
+    ],
+    "answer": "B",
+    "detail": "Persistent left SVC is the most frequent congenital venous anomaly in the chest."
+  },
+  {
+    "number": 58,
+    "question": "Persistent Left SVC typically drains into which structure?",
+    "choices": [
+      "The Left Atrium",
+      "The Right Atrium directly",
+      "The Coronary Sinus",
+      "The Azygos vein",
+      "The Pulmonary Artery"
+    ],
+    "answer": "C",
+    "detail": "A persistent left SVC usually drains into the coronary sinus."
+  },
+  {
+    "number": 59,
+    "question": "Swyer-James syndrome is a classic 'unilateral lucent lung' that typically occurs following:",
+    "choices": [
+      "A vascular insult in utero",
+      "A viral lung infection in childhood (post-infectious obliterative bronchiolitis)",
+      "Inhalation of a foreign body in an adult",
+      "Chronic smoking",
+      "Alpha-1 antitrypsin deficiency"
+    ],
+    "answer": "B",
+    "detail": "Swyer-James syndrome results from post-infectious obliterative bronchiolitis following a childhood viral lung infection."
+  },
+  {
+    "number": 60,
+    "question": "Horseshoe Lung is defined by the fusion of the posterior basilar segments of the lower lobes and is closely associated with:",
+    "choices": [
+      "Poland Syndrome",
+      "Scimitar Syndrome",
+      "Holt-Oram Syndrome",
+      "DiGeorge Syndrome",
+      "VACTERL"
+    ],
+    "answer": "B",
+    "detail": "Horseshoe lung is a rare condition that is closely associated with Scimitar Syndrome."
+  },
+  {
+    "number": 61,
+    "question": "Which type of Bronchopulmonary Sequestration is more common (75%) and typically presents in adolescence with recurrent infections?",
+    "choices": [
+      "Extralobar",
+      "Intralobar",
+      "Subdiaphragmatic",
+      "Bronchogenic",
+      "Congenital Lobar"
+    ],
+    "answer": "B",
+    "detail": "Intralobar sequestration is the more common type (75%) and usually presents later in life with recurrent infections."
+  },
+  {
+    "number": 62,
+    "question": "In contrast to Intralobar, Extralobar Sequestration is characterized by:",
+    "choices": [
+      "Pulmonary venous drainage",
+      "Presentation in infancy with respiratory distress and associated anomalies",
+      "Lack of a pleural covering",
+      "Predilection for the upper lobes",
+      "Communication with the airway"
+    ],
+    "answer": "B",
+    "detail": "Extralobar sequestration typically presents in infancy with respiratory distress and is often associated with other congenital anomalies."
+  },
+  {
+    "number": 63,
+    "question": "'Systemic venous drainage' and a 'separate pleural covering' are features of:",
+    "choices": [
+      "Intralobar Sequestration",
+      "Extralobar Sequestration",
+      "Bronchial Atresia",
+      "CCAM Type 1",
+      "CLE"
+    ],
+    "answer": "B",
+    "detail": "Separate pleural covering and systemic venous drainage are features that distinguish extralobar from intralobar sequestration."
+  },
+  {
+    "number": 64,
+    "question": "Congenital Lobar Emphysema (CLE) most commonly involves which lobe?",
+    "choices": [
+      "Right Middle Lobe",
+      "Right Upper Lobe",
+      "Left Upper Lobe",
+      "Left Lower Lobe",
+      "Right Lower Lobe"
+    ],
+    "answer": "C",
+    "detail": "CLE most frequently affects the left upper lobe, occurring there in 40% of cases."
+  },
+  {
+    "number": 65,
+    "question": "CCAM (Congenital Cystic Adenomatoid Malformation) is now frequently referred to as:",
+    "choices": [
+      "CLE",
+      "CPAM",
+      "PPB",
+      "IMT",
+      "BPFM"
+    ],
+    "answer": "B",
+    "detail": "CCAM is now more commonly called CPAM (Congenital Pulmonary Airway Malformation)."
+  },
+  {
+    "number": 66,
+    "question": "What imaging feature distinguishes a Sequestration from a CCAM/CPAM?",
+    "choices": [
+      "Lobar preference",
+      "Presence of a systemic arterial feeder (e.g., from the aorta)",
+      "Communication with the airway",
+      "Presence of multiple small cysts",
+      "Spontaneous decrease in size in the third trimester"
+    ],
+    "answer": "B",
+    "detail": "The presence of a systemic arterial feeder, typically from the aorta, is the hallmark that distinguishes sequestration from CPAM."
+  },
+  {
+    "number": 67,
+    "question": "Pleuropulmonary Blastoma (PPB) is a primary lung malignancy in children that is typically:",
+    "choices": [
+      "Present on the mid-second trimester ultrasound",
+      "Associated with rib invasion",
+      "Absent on the mid-second trimester ultrasound",
+      "Found only in the upper lobes",
+      "Calcified in 90% of cases"
+    ],
+    "answer": "C",
+    "detail": "PPB is typically absent on mid-second trimester ultrasounds, which helps differentiate it from congenital malformations like CPAM."
+  },
+  {
+    "number": 68,
+    "question": "If a child under 8 presents with a solitary 'mass' in the posterior lower lobes, you should first consider:",
+    "choices": [
+      "Pleuropulmonary Blastoma",
+      "Round Pneumonia (S. Pneumonia)",
+      "Bronchogenic Cyst",
+      "Lung Adenocarcinoma",
+      "Metastatic Wilms tumor"
+    ],
+    "answer": "B",
+    "detail": "A solitary posterior lower lobe 'mass' in a child under 8 is likely to be round pneumonia caused by S. pneumoniae."
+  },
+  {
+    "number": 69,
+    "question": "Bronchial Foreign Body inhalation causes air trapping, which is best elicited by which type of film?",
+    "choices": [
+      "Normal inspiratory CXR",
+      "Post-contrast CT",
+      "Expiratory films (or affected side down)",
+      "High-resolution CT",
+      "Bone window CT"
+    ],
+    "answer": "C",
+    "detail": "Air trapping from a foreign body is best shown on expiratory films; the affected lung will remain hyperlucent (black)."
+  },
+  {
+    "number": 70,
+    "question": "Pulmonary Hypoplasia (Tiny Lung) can be caused by 'Potter Sequence,' which starts with:",
+    "choices": [
+      "Congenital heart disease",
+      "Renal problems/lack of amniotic fluid",
+      "Diaphragmatic hernia",
+      "Pectoral muscle absence",
+      "Skeletal dysplasia"
+    ],
+    "answer": "B",
+    "detail": "The Potter sequence begins with renal issues that lead to a lack of amniotic fluid, which subsequently results in hypoplastic lungs."
+  },
+  {
+    "number": 71,
+    "question": "In the 'Battle Tactics' for the neonatal chest, high lung volumes with perihilar streaky opacities and a history of C-section suggest:",
+    "choices": [
+      "Meconium Aspiration",
+      "Transient Tachypnea of the Newborn (TTN)",
+      "Surfactant-Deficient Disease (SDD)",
+      "Beta-Hemolytic Strep Pneumonia",
+      "Bronchopulmonary Dysplasia (BPD)"
+    ],
+    "answer": "B",
+    "detail": "TTN is characterized by high lung volumes, perihilar streaks, and is often associated with C-section deliveries."
+  },
+  {
+    "number": 72,
+    "question": "The presence of a 'ropy appearance' of asymmetric lung densities and hyperinflation in a post-term baby is the hallmark of:",
+    "choices": [
+      "TTN",
+      "Meconium Aspiration",
+      "PIE",
+      "LIP",
+      "BPD"
+    ],
+    "answer": "B",
+    "detail": "Meconium aspiration typically presents in post-term babies with hyperinflation and asymmetric 'ropy' lung densities."
+  },
+  {
+    "number": 73,
+    "question": "Surfactant-Deficient Disease (SDD/Hyaline Membrane Disease) typically demonstrates:",
+    "choices": [
+      "High lung volumes and pleural effusions",
+      "Low lung volumes and bilateral granular opacities",
+      "Asymmetric 'ropy' densities",
+      "Large subpleural cysts",
+      "Rapid resolution within 24 hours"
+    ],
+    "answer": "B",
+    "detail": "SDD presents with low lung volumes and a characteristic bilateral granular lung appearance."
+  },
+  {
+    "number": 74,
+    "question": "Pulmonary Interstitial Emphysema (PIE) appears as linear lucencies on CXR and is a consequence of:",
+    "choices": [
+      "Chronic smoking",
+      "Mechanical ventilation in a premature infant",
+      "Post-primary TB",
+      "Aspiration of mineral oil",
+      "Fungal infection"
+    ],
+    "answer": "B",
+    "detail": "PIE occurs in premature infants with surfactant deficiency as a result of mechanical ventilation."
+  },
+  {
+    "number": 75,
+    "question": "Chronic Lung Disease (CLD) or Bronchopulmonary Dysplasia (BPD) is defined as having cystic lucencies and 'band-like opacities' after what postnatal age?",
+    "choices": [
+      "1 week",
+      "2 weeks",
+      "3 to 4 weeks",
+      "6 months",
+      "1 year"
+    ],
+    "answer": "C",
+    "detail": "CLD/BPD is diagnosed when cystic lucencies and band-like opacities are present after 3 to 4 weeks of age."
+  },
+  {
+    "number": 76,
+    "question": "A 25-year-old male smoker presents with cough. CT shows centrilobular nodules and bizarre-shaped cysts with an upper lobe predominance, sparing the costophrenic angles. What is the diagnosis?",
+    "choices": [
+      "LAM",
+      "LCH (Langerhans Cell Histiocytosis)",
+      "BHD (Birt-Hogg-Dube)",
+      "LIP",
+      "PCP"
+    ],
+    "answer": "B",
+    "detail": "Bizarre upper-lobe cysts that spare the costophrenic angles in a smoker are pathognomonic for LCH."
+  },
+  {
+    "number": 77,
+    "question": "Lymphangiomyomatosis (LAM) is an estrogen-dependent disease that classically affects which demographic?",
+    "choices": [
+      "Young male smokers",
+      "Childbearing aged women",
+      "Elderly women with Sjogrens",
+      "Infants with HIV",
+      "Men over 60"
+    ],
+    "answer": "B",
+    "detail": "LAM is an estrogen-dependent disease that almost exclusively affects women of childbearing age."
+  },
+  {
+    "number": 78,
+    "question": "Which of the following is a high-yield clinical association with LAM?",
+    "choices": [
+      "Chylothorax",
+      "Recurrent PTH elevation",
+      "Nasal septum perforation",
+      "Pectoral muscle absence",
+      "Scleroderma"
+    ],
+    "answer": "A",
+    "detail": "The presence of a chylothorax is a high-yield clinical association mentioned for LAM."
+  },
+  {
+    "number": 79,
+    "question": "Birt-Hogg-Dube (BHD) syndrome is characterized by thin-walled oval 'floppy' cysts in the lower zones and which extrapulmonary finding?",
+    "choices": [
+      "Chylothorax",
+      "Bilateral renal masses (oncocytomas/chromophobe RCC)",
+      "Pectoral muscle absence",
+      "Sjogren syndrome",
+      "Alpha-1 antitrypsin deficiency"
+    ],
+    "answer": "B",
+    "detail": "BHD is associated with bilateral renal masses, specifically oncocytomas and chromophobe RCC."
+  },
+  {
+    "number": 80,
+    "question": "Which cystic lung disease is associated with Tuberous Sclerosis?",
+    "choices": [
+      "LCH",
+      "LAM",
+      "BHD",
+      "LIP",
+      "Vanishing Lung Syndrome"
+    ],
+    "answer": "B",
+    "detail": "Tuberous Sclerosis is a classic clinical association for LAM."
+  },
+  {
+    "number": 81,
+    "question": "Lymphocytic Interstitial Pneumonitis (LIP) has a strong association with which autoimmune disease?",
+    "choices": [
+      "Systemic Lupus Erythematosus (SLE)",
+      "Rheumatoid Arthritis",
+      "Sjogren Syndrome",
+      "Ankylosing Spondylitis",
+      "Scleroderma"
+    ],
+    "answer": "C",
+    "detail": "LIP is found in approximately 25% of patients with Sjogren Syndrome."
+  },
+  {
+    "number": 82,
+    "question": "In the pediatric population, LIP is most commonly associated with:",
+    "choices": [
+      "Smoking",
+      "HIV",
+      "Cystic Fibrosis",
+      "Asthma",
+      "Prematurity"
+    ],
+    "answer": "B",
+    "detail": "In children, LIP is the most common lung finding associated with HIV infection."
+  },
+  {
+    "number": 83,
+    "question": "'Perivascular cysts' (vessels coursing along the cysts) is a specific CT descriptor for:",
+    "choices": [
+      "LCH",
+      "LAM",
+      "LIP",
+      "PCP",
+      "CLE"
+    ],
+    "answer": "C",
+    "detail": "'Perivascular cysts' is a specific term used to describe the CT appearance of LIP."
+  },
+  {
+    "number": 84,
+    "question": "The cystic form of Pneumocystis Pneumonia (PCP) is more common in patients receiving:",
+    "choices": [
+      "High-dose steroids",
+      "Aerosolized pentamidine prophylaxis",
+      "HAART therapy",
+      "Broad-spectrum antibiotics",
+      "Bronchoalveolar lavage"
+    ],
+    "answer": "B",
+    "detail": "The cystic presentation of PCP occurs more frequently in patients using aerosolized pentamidine for prophylaxis."
+  },
+  {
+    "number": 85,
+    "question": "PCP cysts typically favor which distribution in the lungs?",
+    "choices": [
+      "Lower zone predominant",
+      "Uniform/Diffuse distribution",
+      "Upper lung predominant",
+      "Peripheral sparing",
+      "Subpleural only"
+    ],
+    "answer": "C",
+    "detail": "The thin-walled cysts in the cystic form of PCP typically show a predilection for the upper lungs."
+  },
+  {
+    "number": 86,
+    "question": "Vanishing Lung Syndrome (giant bullous emphysema) is defined as bullous disease occupying at least:",
+    "choices": [
+      "10% of a hemithorax",
+      "25% of a hemithorax",
+      "1/3 of a hemithorax",
+      "50% of a hemithorax",
+      "The entire lung"
+    ],
+    "answer": "C",
+    "detail": "Vanishing Lung Syndrome is defined as bullous disease that occupies at least one-third of a hemithorax."
+  },
+  {
+    "number": 87,
+    "question": "Approximately 20% of patients with Vanishing Lung Syndrome have which deficiency?",
+    "choices": [
+      "Vitamin D",
+      "ACE",
+      "Alpha-1 antitrypsin",
+      "TTF-1",
+      "Estrogen"
+    ],
+    "answer": "C",
+    "detail": "About 20% of patients with this syndrome are found to have alpha-1 antitrypsin deficiency."
+  },
+  {
+    "number": 88,
+    "question": "Centrilobular emphysema is the type dominant in smokers and favors which part of the lung?",
+    "choices": [
+      "The lower lobes",
+      "The upper zones of each lobe",
+      "The peripheral subpleural regions",
+      "The costophrenic angles",
+      "The lung bases uniformly"
+    ],
+    "answer": "B",
+    "detail": "Centrilobular emphysema in smokers typically favors the upper zones of each lobe."
+  },
+  {
+    "number": 89,
+    "question": "Panlobular emphysema favors the lower lobes and is classically associated with:",
+    "choices": [
+      "Smoking",
+      "Alpha-1 antitrypsin deficiency",
+      "IV Ritalin use ('Ritalin Lung')",
+      "Both B and C",
+      "Neither B nor C"
+    ],
+    "answer": "D",
+    "detail": "Lower lobe panlobular emphysema is associated with both alpha-1 antitrypsin deficiency and 'Ritalin Lung'."
+  },
+  {
+    "number": 90,
+    "question": "Paraseptal emphysema is found adjacent to the pleura and, when multiple rows of bubbles are present, it is called:",
+    "choices": [
+      "Honeycombing",
+      "Bizarre cysts",
+      "Floppy cysts",
+      "Perivascular cysts",
+      "Pneumatoceles"
+    ],
+    "answer": "A",
+    "detail": "Honeycombing is the term for multiple rows of paraseptal emphysema."
+  },
+  {
+    "number": 91,
+    "question": "'Saber Sheath Trachea' (coronal narrowing sparing the extrathoracic portion) is considered pathognomonic for:",
+    "choices": [
+      "Sarcoidosis",
+      "Wegener’s",
+      "COPD / Emphysema",
+      "Relapsing Polychondritis",
+      "Tracheobronchopathia Osteochondroplastica (TBO)"
+    ],
+    "answer": "C",
+    "detail": "The 'saber sheath' appearance of the trachea is pathognomonic for COPD."
+  },
+  {
+    "number": 92,
+    "question": "In cystic lung disease, which condition is noted for cysts that can spontaneously resolve if the patient stops smoking?",
+    "choices": [
+      "LCH",
+      "LAM",
+      "BHD",
+      "LIP",
+      "PCP"
+    ],
+    "answer": "A",
+    "detail": "In 50% of LCH cases, the cysts can resolve spontaneously if the patient quits smoking."
+  },
+  {
+    "number": 93,
+    "question": "A gallium-67 scan showing diffuse lung uptake with a negative thallium-201 scan in an AIDS patient is highly suggestive of:",
+    "choices": [
+      "Kaposi Sarcoma",
+      "Lymphoma",
+      "PCP",
+      "Tuberculosis",
+      "Fungal pneumonia"
+    ],
+    "answer": "C",
+    "detail": "A positive gallium scan with a negative thallium scan is the characteristic pattern for PCP."
+  },
+  {
+    "number": 94,
+    "question": "Which cystic lung disease distribution is described as 'Uniform or Diffuse'?",
+    "choices": [
+      "LCH",
+      "LAM",
+      "BHD",
+      "LIP",
+      "Vanishing Lung"
+    ],
+    "answer": "B",
+    "detail": "LAM is characterized by round cysts that are uniformly and diffusely distributed throughout the lungs."
+  },
+  {
+    "number": 95,
+    "question": "A 'central dot sign' within focal lucencies on CT represents the central bronchovascular bundle and is a buzzword for:",
+    "choices": [
+      "Panlobular emphysema",
+      "Centrilobular emphysema",
+      "Paraseptal emphysema",
+      "LCH",
+      "LAM"
+    ],
+    "answer": "B",
+    "detail": "The 'central dot sign' represents the central bronchovascular bundle seen in centrilobular emphysema."
+  },
+  {
+    "number": 96,
+    "question": "'Ritalin Lung' (panlobular emphysema in the lower lobes) results from:",
+    "choices": [
+      "Inhalation of drug particles",
+      "IV injection of crushed Ritalin tablets",
+      "Estrogen dependence",
+      "Chronic bronchitis",
+      "Autoimmune reaction"
+    ],
+    "answer": "B",
+    "detail": "'Ritalin Lung' is a lower lobe panlobular emphysema caused by the IV injection of crushed Ritalin tablets."
+  },
+  {
+    "number": 97,
+    "question": "The 'Panda Sign' (hot lacrimal and parotid glands) and 'Lambda Sign' (hot hilar and paratracheal nodes) on Gallium scan are associated with:",
+    "choices": [
+      "Sarcoidosis",
+      "Lymphoma",
+      "PCP",
+      "Tuberculosis",
+      "BHD"
+    ],
+    "answer": "A",
+    "detail": "Both the 'Panda Sign' and 'Lambda Sign' are classic Gallium-67 scan findings for sarcoidosis."
+  },
+  {
+    "number": 98,
+    "question": "Papillomatosis, caused by perinatal HPV transmission, presents with soft tissue masses in the airway and can result in multiple lung nodules that:",
+    "choices": [
+      "Never change in size",
+      "Classically cavitate into cysts",
+      "Always remain solid",
+      "Metastasize to the liver",
+      "Resolve with steroids"
+    ],
+    "answer": "B",
+    "detail": "The lung involvement in papillomatosis classically involves multiple nodules that cavitate into cysts."
+  },
+  {
+    "number": 99,
+    "question": "Which syndrome presents with 'bilateral, peripheral, lower zone multi-focal opacities' and has an 'acute stage' CT finding of 'crazy paving'?",
+    "choices": [
+      "PCP",
+      "COVID-19",
+      "PAP",
+      "COP",
+      "LCH"
+    ],
+    "answer": "B",
+    "detail": "Crazy paving is a classic CT finding seen in the acute stage of COVID-19 infection."
+  },
+  {
+    "number": 100,
+    "question": "In the 'CAVITY' mnemonic for lung cavities, what does the 'Y' stand for?",
+    "choices": [
+      "Yellow Nail Syndrome",
+      "Young - 'Congenital' (CCAMs, Sequestrations)",
+      "Yeast (Fungal)",
+      "Yersinia",
+      "Yogurt"
+    ],
+    "answer": "B",
+    "detail": "In the 'CAVITY' mnemonic, 'Y' stands for Young, which refers to congenital causes like CPAMs or sequestrations."
+  }
+]
+
+}

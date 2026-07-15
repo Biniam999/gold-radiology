@@ -1,0 +1,1259 @@
+{
+    "questions": 
+   [
+    {
+      "number": 1,
+      "question": "The nipple is defined as a circular smooth muscle structure typically overlying the:",
+      "choices": [
+        "2nd intercostal space",
+        "4th intercostal space",
+        "6th intercostal space",
+        "Pectoralis minor",
+        "Sternalis muscle"
+      ],
+      "answer": "B",
+      "detail": "The nipple overlies the 4th intercostal space and is composed of smooth muscle."
+    },
+    {
+      "number": 2,
+      "question": "How many ductal openings are typically found at the nipple?",
+      "choices": [
+        "1–2",
+        "5–10",
+        "15–20",
+        "30–40",
+        "Over 50"
+      ],
+      "answer": "B",
+      "detail": "There are typically 5 to 10 ductal openings present at the nipple surface."
+    },
+    {
+      "number": 3,
+      "question": "\"Nipple Inversion\" is defined as which of the following?",
+      "choices": [
+        "The nipple being pulled back slightly",
+        "The nipple invaginating into the breast",
+        "Normal darkening during puberty",
+        "Enhancement on contrast MRI",
+        "Scaling of the skin"
+      ],
+      "answer": "B",
+      "detail": "Inversion specifically refers to the nipple invaginating into the breast tissue."
+    },
+    {
+      "number": 4,
+      "question": "When is nipple retraction or inversion considered most suspicious for underlying cancer?",
+      "choices": [
+        "If it has been present since birth",
+        "If it is bilateral and chronic",
+        "If the change is new",
+        "If it occurs only during lactation",
+        "It is never suspicious"
+      ],
+      "answer": "C",
+      "detail": "New changes in nipple position should raise concern for underlying cancers causing structural distortion."
+    },
+    {
+      "number": 5,
+      "question": "On a contrast-enhanced breast MRI, enhancement of the nipple is considered:",
+      "choices": [
+        "A sign of Paget's disease",
+        "A sign of inflammatory cancer",
+        "A normal finding",
+        "An artifact of the breast coil",
+        "Always malignant"
+      ],
+      "answer": "C",
+      "detail": "Nipple enhancement is a normal physiological finding on breast MRI and should not be confused with Paget’s disease."
+    },
+    {
+      "number": 6,
+      "question": "The axillary extension of fibroglandular tissue is known as the:",
+      "choices": [
+        "Rotter Tail",
+        "Cooper Tail",
+        "Tail of Spence",
+        "Pectoral Wing",
+        "Axillary Disc"
+      ],
+      "answer": "C",
+      "detail": "The Tail of Spence refers to the extension of breast tissue into the axilla."
+    },
+    {
+      "number": 7,
+      "question": "In which quadrant of the breast do most cancers typically originate?",
+      "choices": [
+        "Lower Inner Quadrant (LIQ)",
+        "Lower Outer Quadrant (LOQ)",
+        "Upper Inner Quadrant (UIQ)",
+        "Upper Outer Quadrant (UOQ)",
+        "Subareolar region"
+      ],
+      "answer": "D",
+      "detail": "The UOQ contains the most fibroglandular tissue, making it the most common site for cancer."
+    },
+    {
+      "number": 8,
+      "question": "Breast \"Danger Zones\" are areas where cancer often hides because there is typically:",
+      "choices": [
+        "Too much fat",
+        "No dense fibroglandular tissue",
+        "No lymph nodes",
+        "Thick Cooper's ligaments",
+        "Heavy skin pigmentation"
+      ],
+      "answer": "B",
+      "detail": "The lack of dense tissue in these areas (medial, inferior, and retroglandular) allows cancers to hide."
+    },
+    {
+      "number": 9,
+      "question": "\"Architectural distortion\" on mammography is often caused by the straightening and tethering of:",
+      "choices": [
+        "Lactiferous sinuses",
+        "Cooper’s Ligaments",
+        "Pectoralis minor",
+        "Subcutaneous fat",
+        "Montgomery glands"
+      ],
+      "answer": "B",
+      "detail": "Distortion of Cooper's ligaments is a primary cause of architectural distortion on imaging."
+    },
+    {
+      "number": 10,
+      "question": "For multiple-choice exams, an asymmetric \"shrinking breast\" should prompt suspicion for:",
+      "choices": [
+        "Fibroadenoma",
+        "Fat necrosis",
+        "Invasive Lobular Breast Cancer (ILC)",
+        "Mastitis",
+        "Cystic changes"
+      ],
+      "answer": "C",
+      "detail": "An asymmetric, shrinking breast is a classic buzzword for invasive lobular carcinoma."
+    },
+    {
+      "number": 11,
+      "question": "The functional \"flower-shaped\" milk-making unit of the breast is the:",
+      "choices": [
+        "Lobule",
+        "Duct",
+        "Sinus",
+        "Aponeurosis",
+        "Areola"
+      ],
+      "answer": "A",
+      "detail": "Lobules are the actual milk-producing units of the breast tissue."
+    },
+    {
+      "number": 12,
+      "question": "The \"Terminal Duct Lobular Unit\" (TDLU) is clinically significant because it is:",
+      "choices": [
+        "The only site of milk storage",
+        "Where most breast cancers start",
+        "Only present during lactation",
+        "The attachment point for Cooper's ligaments",
+        "Found only in the axilla"
+      ],
+      "answer": "B",
+      "detail": "The TDLU is the site of origin for the vast majority of breast cancers."
+    },
+    {
+      "number": 13,
+      "question": "Calcifications are particularly worrisome for cancer if they appear to follow the ductal system in which pattern?",
+      "choices": [
+        "Circular or round",
+        "Scattered and bilateral",
+        "Linear or segmental",
+        "Popcorn-like",
+        "Egg-shell"
+      ],
+      "answer": "C",
+      "detail": "Ductal patterns like linear or segmental calcifications are highly suspicious for malignancy."
+    },
+    {
+      "number": 14,
+      "question": "What is the name of the dilated portion of the major duct located under the nipple?",
+      "choices": [
+        "TDLU",
+        "Lactiferous Sinus",
+        "Sternalis cavity",
+        "Tail of Spence",
+        "Rotter’s space"
+      ],
+      "answer": "B",
+      "detail": "The lactiferous sinus is a normal dilated ductal segment found just below the nipple."
+    },
+    {
+      "number": 15,
+      "question": "What percentage of the breast's blood supply is provided by the internal mammary artery?",
+      "choices": [
+        "10%",
+        "30%",
+        "60%",
+        "90%",
+        "97%"
+      ],
+      "answer": "C",
+      "detail": "The internal mammary artery provides 60% of the blood supply to the breast."
+    },
+    {
+      "number": 16,
+      "question": "Approximately what percentage of breast lymph typically drains to the axilla?",
+      "choices": [
+        "3%",
+        "50%",
+        "75%",
+        "97%",
+        "100%"
+      ],
+      "answer": "D",
+      "detail": "The vast majority (97%) of breast lymphatic drainage goes to the axillary nodes."
+    },
+    {
+      "number": 17,
+      "question": "Axillary lymph node Level 2 is defined as being located:",
+      "choices": [
+        "Lateral to the pectoralis minor",
+        "Deep to the pectoralis minor",
+        "Medial and above the pectoralis minor",
+        "Between the pectoralis minor and major",
+        "Inferior to the 1st rib"
+      ],
+      "answer": "B",
+      "detail": "Level 2 nodes are defined by their position deep to the pectoralis minor muscle."
+    },
+    {
+      "number": 18,
+      "question": "\"Rotter Nodes\" are found between which two muscles?",
+      "choices": [
+        "Pectoralis minor and Latissimus dorsi",
+        "Pectoralis minor and Pectoralis major",
+        "Pectoralis major and Serratus anterior",
+        "Subclavius and Pectoralis minor",
+        "Trapezius and Sternocleidomastoid"
+      ],
+      "answer": "B",
+      "detail": "Interpectoral nodes, or Rotter nodes, are found between the major and minor pectoralis muscles."
+    },
+    {
+      "number": 19,
+      "question": "For staging purposes, Rotter nodes are treated at the same level as:",
+      "choices": [
+        "Level 1",
+        "Level 2",
+        "Level 3",
+        "Internal mammary nodes",
+        "Supraclavicular nodes"
+      ],
+      "answer": "B",
+      "detail": "Rotter nodes are clinically staged at the same level as Level 2 nodes."
+    },
+    {
+      "number": 20,
+      "question": "Isolated metastases to internal mammary nodes are uncommon (3%) and are most often associated with cancer in which part of the breast?",
+      "choices": [
+        "Upper Outer Quadrant",
+        "Medial breast",
+        "Axillary tail",
+        "Subareolar region",
+        "Posterior lateral region"
+      ],
+      "answer": "B",
+      "detail": "Cancers in the medial breast are most likely to involve the internal mammary nodes."
+    },
+    {
+      "number": 21,
+      "question": "The Sternalis Muscle is a non-functional normal variant mass mimic seen in what percentage of people?",
+      "choices": [
+        "1%",
+        "5%",
+        "10%",
+        "25%",
+        "50%"
+      ],
+      "answer": "B",
+      "detail": "This non-functional muscle is present as a normal variant in 5% of the population."
+    },
+    {
+      "number": 22,
+      "question": "Which mammographic view is the ONLY one in which the Sternalis muscle is visible?",
+      "choices": [
+        "MLO",
+        "CC",
+        "ML",
+        "LM",
+        "XCCL"
+      ],
+      "answer": "B",
+      "detail": "The sternalis muscle is visible only on the CC view and never on MLO."
+    },
+    {
+      "number": 23,
+      "question": "During which phase of the menstrual cycle are mammography and MRI best performed?",
+      "choices": [
+        "Follicular Phase (Days 7–14)",
+        "Luteal Phase (Days 15–30)",
+        "Rag Week (Days 1–4)",
+        "Ovulation (Day 14)",
+        "Any time is identical"
+      ],
+      "answer": "A",
+      "detail": "Imaging is best performed on days 7–14 when density and BPE are lower."
+    },
+    {
+      "number": 24,
+      "question": "Breast tenderness typically peaks at its maximum around which days of the menstrual cycle?",
+      "choices": [
+        "Days 1–5",
+        "Days 7–14",
+        "Days 27–30",
+        "During ovulation",
+        "There is no peak"
+      ],
+      "answer": "C",
+      "detail": "Maximum breast tenderness usually occurs at the very end of the cycle, days 27–30."
+    },
+    {
+      "number": 25,
+      "question": "Why is a biopsy of a prepubescent breast strongly discouraged?",
+      "choices": [
+        "It is too painful",
+        "It causes milk fistulas",
+        "It can interfere with normal breast development",
+        "There are no terminal ducts yet",
+        "Lesions are always benign in this age group"
+      ],
+      "answer": "C",
+      "detail": "Biopsy can damage the developing breast bud and interfere with maturation."
+    },
+    {
+      "number": 26,
+      "question": "Fibroadenomas characteristically degenerate and develop \"popcorn\" calcifications during which life stage?",
+      "choices": [
+        "Puberty",
+        "Pregnancy",
+        "Menopause",
+        "The luteal phase",
+        "Breastfeeding"
+      ],
+      "answer": "C",
+      "detail": "Degeneration of fibroadenomas into popcorn calcifications is a hallmark of menopause."
+    },
+    {
+      "number": 27,
+      "question": "\"Rod-like\" secretory calcifications typically develop how many years after menopause?",
+      "choices": [
+        "Immediately",
+        "1–2 years",
+        "5 years",
+        "10–20 years",
+        "40 years"
+      ],
+      "answer": "D",
+      "detail": "Secretory rod-like calcifications typically appear 10–20 years after the onset of menopause."
+    },
+    {
+      "number": 28,
+      "question": "Which imaging modality has greater sensitivity in patients who are currently lactating?",
+      "choices": [
+        "Mammography",
+        "Ultrasound",
+        "MRI without contrast",
+        "PET/CT",
+        "Digital breast tomosynthesis"
+      ],
+      "answer": "B",
+      "detail": "Because lactating breasts are extremely dense, ultrasound is the more sensitive modality."
+    },
+    {
+      "number": 29,
+      "question": "What is the primary risk associated with biopsying a lactating breast?",
+      "choices": [
+        "Popcorn calcification",
+        "Creating a milk fistula",
+        "Immediate malignancy",
+        "Sternalis muscle rupture",
+        "Permanent nipple inversion"
+      ],
+      "answer": "B",
+      "detail": "A milk fistula is a major complication risk when biopsying the lactating breast."
+    },
+    {
+      "number": 30,
+      "question": "A \"Galactocele\" is a fat-containing benign lesion typically seen upon:",
+      "choices": [
+        "The onset of puberty",
+        "The start of pregnancy",
+        "Cessation of lactation",
+        "The first year of HRT",
+        "Early menopause"
+      ],
+      "answer": "C",
+      "detail": "Galactoceles characteristically appear when a woman stops breastfeeding."
+    },
+    {
+      "number": 31,
+      "question": "How does a Galactocele characteristically appear on ultrasound or mammography?",
+      "choices": [
+        "Spiculated high-density mass",
+        "Aunt Minnie look with a fat-fluid level",
+        "Linear branching calcifications",
+        "\"Popcorn\" pattern",
+        "\"Dark star\" appearance"
+      ],
+      "answer": "B",
+      "detail": "A fat-fluid level on imaging is pathognomonic for a galactocele."
+    },
+    {
+      "number": 32,
+      "question": "\"Lactating Adenomas\" typically most closely resemble which other benign mass?",
+      "choices": [
+        "Oil cyst",
+        "Fibroadenoma",
+        "Lipoma",
+        "Hamartoma",
+        "Papilloma"
+      ],
+      "answer": "B",
+      "detail": "On imaging, lactating adenomas are virtually indistinguishable from fibroadenomas."
+    },
+    {
+      "number": 33,
+      "question": "What is the typical behavior of a lactating adenoma after breastfeeding stops?",
+      "choices": [
+        "It undergoes malignant transformation",
+        "It rapidly regresses",
+        "It calcifies into \"popcorn\"",
+        "It causes a persistent milk fistula",
+        "It stays the same size permanently"
+      ],
+      "answer": "B",
+      "detail": "These lesions typically regress quickly once lactation ends."
+    },
+    {
+      "number": 34,
+      "question": "Use of Hormone Replacement Therapy (specifically estrogen-progesterone combos) typically results in:",
+      "choices": [
+        "Decreased breast density",
+        "Increased breast density",
+        "Rapid involution of ducts",
+        "Immediate development of rod-like calcifications",
+        "Total loss of fibroglandular tissue"
+      ],
+      "answer": "B",
+      "detail": "HRT use typically causes an increase in overall breast density."
+    },
+    {
+      "number": 35,
+      "question": "Nipple \"Retraction\" is distinguished from \"Inversion\" because the nipple is:",
+      "choices": [
+        "Chronic and normal",
+        "Pulled back slightly",
+        "Invaginated deep into the breast",
+        "Only seen in male patients",
+        "Always bilateral"
+      ],
+      "answer": "B",
+      "detail": "Retraction is a milder pulling back, whereas inversion is a full invagination."
+    },
+    {
+      "number": 36,
+      "question": "A standard screening mammogram in the United States consists of which two views?",
+      "choices": [
+        "CC and ML",
+        "CC and MLO",
+        "MLO and LM",
+        "CC and XCCL",
+        "MLO and Tangential"
+      ],
+      "answer": "B",
+      "detail": "The standard two-view screening set includes the CC and MLO views."
+    },
+    {
+      "number": 37,
+      "question": "For an MLO view to be technically adequate, the nipple must be:",
+      "choices": [
+        "Pointing medially",
+        "In profile in at least one view",
+        "Pointing laterally",
+        "Completely inverted",
+        "It does not need to be in profile"
+      ],
+      "answer": "B",
+      "detail": "Adequate positioning requires the nipple to be in profile in at least one view."
+    },
+    {
+      "number": 38,
+      "question": "On a technically adequate MLO view, the pectoralis muscle must be visualized down to the level of the:",
+      "choices": [
+        "1st rib",
+        "Posterior-Nipple Line (PNL) or below",
+        "Inframammary fold",
+        "Clavicle",
+        "Axillary tail"
+      ],
+      "answer": "B",
+      "detail": "The pectoral muscle should reach the PNL or further down to ensure adequate coverage."
+    },
+    {
+      "number": 39,
+      "question": "When mirror-imaging both MLO views, the pectoralis muscles should ideally form which shape?",
+      "choices": [
+        "An \"X\"",
+        "A \"V\" or a \"U\"",
+        "A straight horizontal line",
+        "A perfect circle",
+        "They should not be visible"
+      ],
+      "answer": "B",
+      "detail": "The pectorals should form a symmetric V or U shape when compared side-by-side."
+    },
+    {
+      "number": 40,
+      "question": "Nipple pointing on a CC view is considered \"unacceptable\" if the nipple is pointing:",
+      "choices": [
+        "Straight ahead",
+        "Sideways (Medial or Lateral)",
+        "In profile",
+        "Posteriorly",
+        "Towards the floor"
+      ],
+      "answer": "B",
+      "detail": "Sideways pointing on a CC view is a positioning error and is considered unacceptable."
+    },
+    {
+      "number": 41,
+      "question": "The Posterior Nipple Line (PNL) measurement on the CC view must be within how many cm of the MLO measurement?",
+      "choices": [
+        "0.5 cm",
+        "1 cm",
+        "2 cm",
+        "5 cm",
+        "They must be identical"
+      ],
+      "answer": "B",
+      "detail": "The PNL measurements between views must agree within 1 cm for technical adequacy."
+    },
+    {
+      "number": 42,
+      "question": "\"Camel Nose\" is a buzzword describing a breast on the MLO view that:",
+      "choices": [
+        "Has too many calcifications",
+        "Has NOT been pulled \"up and out\" and sags low",
+        "Contains a large hamartoma",
+        "Shows skin thickening",
+        "Is overly compressed"
+      ],
+      "answer": "B",
+      "detail": "Camel nose describes a sagging breast that was not properly lifted by the technician."
+    },
+    {
+      "number": 43,
+      "question": "Ideally, which anatomical landmark should be visualized at the bottom of the MLO view?",
+      "choices": [
+        "Sternalis muscle",
+        "Inframammary fold",
+        "10th rib",
+        "Diaphragm",
+        "Thyroid gland"
+      ],
+      "answer": "B",
+      "detail": "Visualizing the inframammary fold is a key requirement for a good MLO view."
+    },
+    {
+      "number": 44,
+      "question": "For mammography positioning, relaxed pectoralis muscles are preferred and should appear:",
+      "choices": [
+        "Concave",
+        "Convex",
+        "Triangular",
+        "Serrated",
+        "Undetectable"
+      ],
+      "answer": "B",
+      "detail": "A convex border indicates the muscle is relaxed, allowing more tissue to be shown."
+    },
+    {
+      "number": 45,
+      "question": "When should an LMO (Lateral-Medial Oblique) view be used instead of a standard MLO?",
+      "choices": [
+        "For all baseline screenings",
+        "For women with kyphosis or to avoid a pacemaker",
+        "Only for lactating women",
+        "To catch \"milk of calcium\"",
+        "When a \"camel nose\" is present"
+      ],
+      "answer": "B",
+      "detail": "LMO is the preferred oblique view for patients with kyphosis or medial chest devices."
+    },
+    {
+      "number": 46,
+      "question": "Which mammographic view is known to contain the MOST breast tissue of all possible views?",
+      "choices": [
+        "CC",
+        "MLO",
+        "ML",
+        "LM",
+        "Rolled CC"
+      ],
+      "answer": "B",
+      "detail": "The MLO view provides the most extensive anatomical coverage of the breast."
+    },
+    {
+      "number": 47,
+      "question": "When performing spot compression views, the clinical recommendation is to:",
+      "choices": [
+        "Use a tight collimator",
+        "Leave the collimator open",
+        "Remove the compression paddle",
+        "Use only magnification",
+        "Image the contralateral breast only"
+      ],
+      "answer": "B",
+      "detail": "Leaving the collimator open provides more surrounding landmarks for orientation."
+    },
+    {
+      "number": 48,
+      "question": "Magnification views are primarily obtained to help characterize:",
+      "choices": [
+        "Large simple cysts",
+        "Calcifications (e.g., catching milk of calcium)",
+        "Nipple retraction",
+        "The sternalis muscle",
+        "Axillary lymph node Level 3"
+      ],
+      "answer": "B",
+      "detail": "Mag views are the primary tool for detailed evaluation of calcifications."
+    },
+    {
+      "number": 49,
+      "question": "If a lesion is seen on the MLO only (and not on the CC), which 90-degree view should you pick next?",
+      "choices": [
+        "ML (Mediolateral)",
+        "LM (Lateromedial)",
+        "Rolled CC",
+        "Cleavage view",
+        "Eklund view"
+      ],
+      "answer": "A",
+      "detail": "Because most cancers are lateral, the ML view is the logical next step."
+    },
+    {
+      "number": 50,
+      "question": "Regulating bodies (MQSA) demand a Positive Predictive Value (PPV1) for screeners of approximately:",
+      "choices": [
+        "1%",
+        "4%",
+        "10%",
+        "25%",
+        "50%"
+      ],
+      "answer": "B",
+      "detail": "A PPV1 of around 4% is the target standard for screening mammography."
+    },
+    {
+      "number": 51,
+      "question": "How many cancers per 1000 mammograms are radiologists typically trying to find?",
+      "choices": [
+        "1",
+        "3–8",
+        "20–30",
+        "50",
+        "100"
+      ],
+      "answer": "B",
+      "detail": "The goal for a quality screening program is to detect 3–8 cancers per 1000 patients."
+    },
+    {
+      "number": 52,
+      "question": "To make early changes easier to see, it is recommended to compare current mammograms to films from how many years prior?",
+      "choices": [
+        "1 year",
+        "2 years",
+        "5 years",
+        "10 years",
+        "Only the baseline is needed"
+      ],
+      "answer": "B",
+      "detail": "Comparing to a study from 2 years ago is best for spotting subtle changes over time."
+    },
+    {
+      "number": 53,
+      "question": "Motion artifact in mammography typically predominates in which part of the breast?",
+      "choices": [
+        "Superior",
+        "Inferior",
+        "Medial",
+        "Lateral",
+        "Axillary tail"
+      ],
+      "answer": "B",
+      "detail": "The inferior breast is most prone to motion blur due to less effective compression."
+    },
+    {
+      "number": 54,
+      "question": "If you lack adequate coverage of the posterior lateral edge on a standard CC view, the next appropriate step is:",
+      "choices": [
+        "MLO",
+        "Exaggerated Lateral CC (XCCL)",
+        "Cleavage view",
+        "Rolled CC",
+        "Tangential view"
+      ],
+      "answer": "B",
+      "detail": "XCCL is specifically used to image lateral tissue missed on the standard CC."
+    },
+    {
+      "number": 55,
+      "question": "The ML (Mediolateral) view is a 90-degree view that shows which part of the breast in better detail?",
+      "choices": [
+        "Medial",
+        "Lateral",
+        "Superior",
+        "Sternalis",
+        "Anterior"
+      ],
+      "answer": "B",
+      "detail": "ML provides better resolution for lateral tissue as it is closer to the detector."
+    },
+    {
+      "number": 56,
+      "question": "The LM (Lateromedial) view shows which part of the breast in better detail?",
+      "choices": [
+        "Medial",
+        "Lateral",
+        "Axillary tail",
+        "Inferior",
+        "Nipple"
+      ],
+      "answer": "A",
+      "detail": "LM provides better resolution for medial tissue by placing it closer to the detector."
+    },
+    {
+      "number": 57,
+      "question": "If a \"nodule\" is seen ONLY on the CC view, which special view should be performed?",
+      "choices": [
+        "Rolled CC",
+        "Tangential",
+        "ML",
+        "Mag view",
+        "Eklund view"
+      ],
+      "answer": "A",
+      "detail": "Rolled CC views help confirm and localize findings seen only on the CC view."
+    },
+    {
+      "number": 58,
+      "question": "Which mammographic view is used if a \"nodule\" is suspected to be located in the skin?",
+      "choices": [
+        "Rolled CC",
+        "Tangential (TAN)",
+        "Cleavage view",
+        "ML",
+        "Magnification view"
+      ],
+      "answer": "B",
+      "detail": "The tangential view is used to definitively place a finding within the skin."
+    },
+    {
+      "number": 59,
+      "question": "Which view is the \"best in life\" for identifying \"milk of calcium\" and its characteristic layering?",
+      "choices": [
+        "CC",
+        "MLO",
+        "True Lateral (ML or LM)",
+        "XCCL",
+        "Rolled CC"
+      ],
+      "answer": "C",
+      "detail": "A 90-degree true lateral is essential to see the tea-cupping of milk of calcium."
+    },
+    {
+      "number": 60,
+      "question": "Which view is best for a \"nodule\" located in the far posterior medial breast (the \"cleavage\")?",
+      "choices": [
+        "ML",
+        "Cleavage View (CV)",
+        "XCCL",
+        "Tangential",
+        "Rolled CC"
+      ],
+      "answer": "B",
+      "detail": "The cleavage view (double breast CC) targets far posterior medial tissue."
+    },
+    {
+      "number": 61,
+      "question": "What is the standard set of views for a patient with breast implants?",
+      "choices": [
+        "MLO only",
+        "CC and ML",
+        "\"Eklund Views\" (Implant Displaced)",
+        "Magnification views only",
+        "Ultrasound only"
+      ],
+      "answer": "C",
+      "detail": "Eklund views displace the implant to allow visualization of surrounding tissue."
+    },
+    {
+      "number": 62,
+      "question": "True or False: Grids are typically used during magnification views to improve resolution.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "B",
+      "detail": "Grids are NOT used in magnification views to prevent excessive radiation dose."
+    },
+    {
+      "number": 63,
+      "question": "Blur on a mammogram can be caused by patient motion, exposure being too long, or:",
+      "choices": [
+        "Use of a grid",
+        "Exposure being too short",
+        "Nipple inversion",
+        "Popcorn calcifications",
+        "Excessive compression"
+      ],
+      "answer": "B",
+      "detail": "Inadequate exposure time (either too long or too short) can cause image blur."
+    },
+    {
+      "number": 64,
+      "question": "\"Horizontal lines\" on a mammogram are an artifact likely representing:",
+      "choices": [
+        "Cooper's ligaments",
+        "Grid lines",
+        "Sternalis muscle /D. Skin folds",
+        "Motion artifact"
+      ],
+      "answer": "B",
+      "detail": "Horizontal line artifacts are typically caused by grid malfunctions."
+    },
+    {
+      "number": 65,
+      "question": "To reduce motion artifact inferiorly, techs use which specific maneuver?",
+      "choices": [
+        "\"Down and in\"",
+        "\"Sweep up and out\"",
+        "\"Medial roll\"",
+        "\"Eklund displacement\"",
+        "\"Spot compression\""
+      ],
+      "answer": "B",
+      "detail": "The 'sweep up and out' maneuver ensures better compression and less inferior blur."
+    },
+    {
+      "number": 66,
+      "question": "On an adequate MLO view, the pectoral muscle should be relaxed, creating a border that is:",
+      "choices": [
+        "Straight",
+        "Concave",
+        "Convex",
+        "Jagged",
+        "Ribbon-like"
+      ],
+      "answer": "C",
+      "detail": "A convex pectoral border is a sign of a relaxed muscle and proper positioning."
+    },
+    {
+      "number": 67,
+      "question": "In an adequate CC view, the chest wall to nipple distance should be within how many cm of the distance on the MLO?",
+      "choices": [
+        "0.1 cm",
+        "0.5 cm /C.",
+        "1.0 cm",
+        "2.0 cm",
+        "5.0 cm"
+      ],
+      "answer": "C",
+      "detail": "The distances must be within 1 cm of each other for the CC view to be adequate."
+    },
+    {
+      "number": 68,
+      "question": "Triangulation strategy: Lesions that are MEDIAL to the nipple will do what on a true lateral view?",
+      "choices": [
+        "Fall",
+        "Rise (\"muffins rise\")",
+        "Stay in the same place",
+        "Move laterally",
+        "Disappear"
+      ],
+      "answer": "B",
+      "detail": "Medial lesions appear higher (rise) on a true lateral compared to the MLO."
+    },
+    {
+      "number": 69,
+      "question": "Triangulation strategy: Lesions that are LATERAL to the nipple will do what on a true lateral view?",
+      "choices": [
+        "Fall (\"lead sinks\")",
+        "Rise",
+        "Move medially",
+        "Become high-density",
+        "Double in size"
+      ],
+      "answer": "A",
+      "detail": "Lateral lesions appear lower (sink) on a true lateral compared to the MLO."
+    },
+    {
+      "number": 70,
+      "question": "What is the main reason localization \"voodoo\" (triangulation) is necessary?",
+      "choices": [
+        "Cancers only occur in the UOQ",
+        "LOQ nodules can project above the nipple on MLO",
+        "Nipple pointing is always straight",
+        "All lesions are seen on CC",
+        "Grids distort the image"
+      ],
+      "answer": "B",
+      "detail": "Triangulation is needed because LOQ nodules project higher than the nipple on MLO."
+    },
+    {
+      "number": 71,
+      "question": "True or False: If a patient under 30 has a palpable lump, the first step is typically to skip the mammogram and go straight to ultrasound.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "A",
+      "detail": "For patients under 30, ultrasound is the standard initial imaging modality."
+    },
+    {
+      "number": 72,
+      "question": "The Posterior Nipple Line (PNL) on a CC view is measured from the nipple back to the:",
+      "choices": [
+        "Pectoralis muscle",
+        "Chest wall",
+        "1st rib",
+        "Skin edge",
+        "Sternalis muscle"
+      ],
+      "answer": "B",
+      "detail": "The PNL measurement on the CC view is taken from the nipple to the chest wall."
+    },
+    {
+      "number": 73,
+      "question": "In mirror-imaged MLOs, pectorals forming a \"V\" or \"U\" indicates:",
+      "choices": [
+        "Cancer",
+        "Adequate technique",
+        "Inadequate compression",
+        "\"Camel nose\"",
+        "Breast asymmetry"
+      ],
+      "answer": "B",
+      "detail": "This symmetric V or U appearance is a indicator of proper technologist positioning."
+    },
+    {
+      "number": 74,
+      "question": "The CC view is designed to maximize the visualization of which tissue?",
+      "choices": [
+        "Axillary tail",
+        "Posterior medial",
+        "Anterior lateral",
+        "Subareolar",
+        "Sternalis muscle"
+      ],
+      "answer": "B",
+      "detail": "The CC view is particularly effective at imaging posterior medial breast tissue."
+    },
+    {
+      "number": 75,
+      "question": "\"Focal skin thickening\" is most worrisome for cancer when it is associated with:",
+      "choices": [
+        "CHF",
+        "Underlying mass or nipple retraction",
+        "Bilateral appearance",
+        "Use of HRT",
+        "Normal aging"
+      ],
+      "answer": "B",
+      "detail": "Associated masses or nipple changes make skin thickening much more suspicious."
+    },
+    {
+      "number": 76,
+      "question": "A lesion seen in the MLO view only that is MEDIAL on the CC film will do what on the true lateral (ML)?",
+      "choices": [
+        "Fall",
+        "Rise",
+        "Stay at the same level",
+        "Move into the axilla",
+        "Disappear"
+      ],
+      "answer": "B",
+      "detail": "Medial lesions rise on the lateral view (Muffins Rise)."
+    },
+    {
+      "number": 77,
+      "question": "A lesion seen in the MLO only that is LATERAL on the CC film will do what on the true lateral (ML)?",
+      "choices": [
+        "Fall",
+        "Rise",
+        "Double in density",
+        "Move medially",
+        "Move into the sternalis"
+      ],
+      "answer": "A",
+      "detail": "Lateral lesions sink on the lateral view (Lead Sinks)."
+    },
+    {
+      "number": 78,
+      "question": "The popular mnemonic for localizing lesions seen on MLO only is:",
+      "choices": [
+        "\"Medial Sinks, Lateral Rises\"",
+        "\"Lead Sinks, Muffins Rise\"",
+        "\"CC is Key\"",
+        "\"UOQ is King\"",
+        "\"Roll for Goal\""
+      ],
+      "answer": "B",
+      "detail": "This is the classic mnemonic for breast lesion triangulation."
+    },
+    {
+      "number": 79,
+      "question": "Which area of the breast is considered \"high risk\" for being excluded from the MLO view?",
+      "choices": [
+        "Axillary tail",
+        "Medial breast",
+        "Superior outer quadrant",
+        "Subareolar region",
+        "Anterior breast"
+      ],
+      "answer": "B",
+      "detail": "The medial breast tissue is the most commonly missed area on an MLO view."
+    },
+    {
+      "number": 80,
+      "question": "Which area of the breast is \"high risk\" for being excluded from the CC view?",
+      "choices": [
+        "Medial breast",
+        "Inferior Posterior breast",
+        "Superior inner quadrant",
+        "Nipple",
+        "Subcutaneous fat"
+      ],
+      "answer": "B",
+      "detail": "Inferior posterior tissue is the area most often excluded from the CC view."
+    },
+    {
+      "number": 81,
+      "question": "In the clock face localization tool, the PNL for both breasts starts in the upper inner quadrant and exits through the:",
+      "choices": [
+        "Nipple",
+        "Outer quadrant",
+        "Sternalis muscle",
+        "Pec minor",
+        "Inframammary fold"
+      ],
+      "answer": "B",
+      "detail": "The PNL extends from UIQ through the nipple to the outer quadrant."
+    },
+    {
+      "number": 82,
+      "question": "\"Nodules\" located ABOVE the level of the nipple will project where on the MLO view?",
+      "choices": [
+        "Above the nipple",
+        "BELOW the nipple",
+        "In the axilla",
+        "They do not project at all",
+        "At the chest wall"
+      ],
+      "answer": "B",
+      "detail": "Nodules superior to the nipple project to a lower position on the MLO view."
+    },
+    {
+      "number": 83,
+      "question": "\"Nodules\" located BELOW the level of the nipple will project where on the MLO view?",
+      "choices": [
+        "Below the nipple",
+        "ABOVE the level of the nipple",
+        "At the 1st rib",
+        "In the medial quadrant",
+        "In the sternalis muscle"
+      ],
+      "answer": "B",
+      "detail": "Nodules inferior to the nipple project to a higher position on the MLO view."
+    },
+    {
+      "number": 84,
+      "question": "If a tech rolls the breast medially and a superior tumor moves medial, this confirms the tumor is:",
+      "choices": [
+        "Superior",
+        "Superior (moves with the roll)",
+        "Inferior",
+        "Lateral",
+        "In the skin"
+      ],
+      "answer": "B",
+      "detail": "Superior tumors move in the same direction as the roll (medial roll = medial move)."
+    },
+    {
+      "number": 85,
+      "question": "If a tech rolls the breast medially and a tumor moves lateral, the tumor is located in the:",
+      "choices": [
+        "Superior breast",
+        "Inferior breast",
+        "Medial quadrant",
+        "Axillary tail",
+        "Sternalis muscle"
+      ],
+      "answer": "B",
+      "detail": "Inferior tumors move in the opposite direction of the roll."
+    },
+    {
+      "number": 86,
+      "question": "If you roll the breast LATERALLY and a superior tumor moves lateral, this confirms it is:",
+      "choices": [
+        "Superior",
+        "Inferior",
+        "Medial",
+        "At the nipple",
+        "A galactocele"
+      ],
+      "answer": "A",
+      "detail": "A superior tumor will follow the direction of any roll (lateral roll = lateral move)."
+    },
+    {
+      "number": 87,
+      "question": "Localization Step 1 involves finding the \"nodule\" on the MLO and determining if it is:",
+      "choices": [
+        "T2 bright",
+        "Above or below the PNL",
+        "Spiculated",
+        "Fatty",
+        "In the areola"
+      ],
+      "answer": "B",
+      "detail": "The first step is localizing the lesion relative to the PNL on the MLO view."
+    },
+    {
+      "number": 88,
+      "question": "In \"Practice Case 1,\" a nodule below the PNL on MLO that is medial on CC will:",
+      "choices": [
+        "Fall on the lateral",
+        "Rise on the lateral (to a position above the nipple)",
+        "Stay below the nipple",
+        "Disappear on ML",
+        "Turn into a \"camel nose\""
+      ],
+      "answer": "B",
+      "detail": "Because it is medial, it must rise on the lateral view."
+    },
+    {
+      "number": 90,
+      "question": "Superior vs. Inferior location of a breast lesion is definitively inferred based on:",
+      "choices": [
+        "Distance from the nipple on CC",
+        "How the lesion moves when the tech rolls the breast",
+        "Presence of \"popcorn\" calcifications",
+        "T1 signal on MRI",
+        "Visibility on the Eklund view"
+      ],
+      "answer": "B",
+      "detail": "Roll views are the definitive way to distinguish superior from inferior location."
+    },
+    {
+      "number": 91,
+      "question": "On the CC view, the primary goal for localization is to determine if a nodule is:",
+      "choices": [
+        "Superior or Inferior",
+        "Lateral or Medial",
+        "T2 bright or dark",
+        "Solid or cystic",
+        "Popcorn-like or rod-like"
+      ],
+      "answer": "B",
+      "detail": "The CC view's main role in localization is determining medial vs. lateral position."
+    },
+    {
+      "number": 92,
+      "question": "If a nodule is 7mm above the PNL on MLO and is lateral on CC, it will:",
+      "choices": [
+        "Rise on the lateral",
+        "Sink on the lateral",
+        "Move medially",
+        "Become T1 bright",
+        "Project into the sternalis"
+      ],
+      "answer": "B",
+      "detail": "Lateral lesions sink on the lateral view (Lead Sinks)."
+    },
+    {
+      "number": 94,
+      "question": "A \"medial\" lesion seen on MLO only will do what on the true lateral (ML)?",
+      "choices": [
+        "Sinks",
+        "Rises",
+        "Stays central",
+        "Becomes \"tea-cupped\"",
+        "Projects below the nipple"
+      ],
+      "answer": "B",
+      "detail": "Medial lesions rise relative to their MLO position (Muffins Rise)."
+    },
+    {
+      "number": 95,
+      "question": "A \"lateral\" lesion seen on MLO only will do what on the true lateral (ML)?",
+      "choices": [
+        "Rises",
+        "Sinks",
+        "Moves anteriorly",
+        "Projects above the nipple",
+        "Becomes a \"dark star\""
+      ],
+      "answer": "B",
+      "detail": "Lateral lesions sink relative to their MLO position (Lead Sinks)."
+    },
+    {
+      "number": 97,
+      "question": "In a medial roll view, an inferior tumor moves:",
+      "choices": [
+        "Medial",
+        "Lateral",
+        "Superior",
+        "Inferior",
+        "It does not move"
+      ],
+      "answer": "B",
+      "detail": "Inferior tumors move opposite to the roll; a medial roll causes a lateral move."
+    },
+    {
+      "number": 98,
+      "question": "In a lateral roll view, an inferior tumor moves:",
+      "choices": [
+        "Medial",
+        "Lateral",
+        "Superior",
+        "Inferior",
+        "Straight ahead"
+      ],
+      "answer": "A",
+      "detail": "Because inferior moves opposite, a lateral roll results in medial movement."
+    },
+    {
+      "number": 99,
+      "question": "If a lesion is seen ONLY in the CC view, it is localized using which technique?",
+      "choices": [
+        "Rolled CC",
+        "MLO",
+        "True Lateral",
+        "Tangential",
+        "\"Lead sinks\""
+      ],
+      "answer": "A",
+      "detail": "The Rolled CC is the standard maneuver for a lesion seen only on CC."
+    },
+    {
+      "number": 100,
+      "question": "The \"central problem\" of localization is that LOQ nodules project above the nipple on MLO and UIQ nodules project:",
+      "choices": [
+        "Above the nipple",
+        "BELOW the nipple",
+        "In the axilla",
+        "Into the chest wall",
+        "Into the skin"
+      ],
+      "answer": "B",
+      "detail": "This counter-intuitive projection (UIQ projects below) is why triangulation is critical."
+    }
+  ]
+}

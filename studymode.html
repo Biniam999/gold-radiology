@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Study Mode | GOLD RADIOLOGY</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header>
+    <a href="index.html" class="logo">GOLD RADIOLOGY</a>
+    <nav>
+      <a href="qbank.html">Qbank</a>
+      <a href="#">Progress</a>
+      <a href="#">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="study-mode-container">
+      <!-- Questions Navigation Sidebar -->
+      <aside class="questions-sidebar" id="questions-sidebar" aria-label="Question navigation">
+        <div class="sidebar-title">Questions</div>
+        <div class="questions-list" id="questions-list"></div>
+      </aside>
+
+      <!-- Main Question Content -->
+      <div class="question-content">
+        <div class="question-container">
+          <div class="question-number" id="question-number">Question 1</div>
+          <div class="question-text" id="question-text"></div>
+          <div class="choices-container" id="choices-container"></div>
+
+          <!-- Explanation appears after selecting an answer in Study Mode -->
+          <div class="answer-explanation" id="answer-explanation"></div>
+        </div>
+
+        <div class="navigation-buttons">
+          <button class="nav-btn" id="prev-btn">Previous</button>
+          <button class="nav-btn" id="next-btn">Next</button>
+          <!-- End Test button is injected by studymode.js -->
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 GOLD RADIOLOGY. All rights reserved.</p>
+  </footer>
+
+  <script src="studymode.js"></script>
+</body>
+</html>

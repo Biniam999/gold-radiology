@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GOLD RADIOLOGY</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header>
+    <a href="index.html" class="logo">GOLD RADIOLOGY</a>
+    <nav>
+      <a href="qbank.html">Qbank</a>
+      <a href="progress.html">Progress</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-title">
+        <h1>GOLD RADIOLOGY</h1>
+      </div>
+      <p>Master Radiology, One Question at a Time</p>
+
+      <div class="overview-section home-dashboard">
+        <div class="stats-grid">
+          <div class="stat-card">
+            <span class="stat-icon">📊</span>
+            <div class="stat-value" id="homeTotalAnswered">0</div>
+            <div class="stat-label">Questions Answered</div>
+          </div>
+          <div class="stat-card">
+            <span class="stat-icon">🎯</span>
+            <div class="stat-value" id="homeOverallAccuracy">0%</div>
+            <div class="stat-label">Overall Accuracy</div>
+          </div>
+          <div class="stat-card">
+            <span class="stat-icon">🔥</span>
+            <div class="stat-value" id="homeSessionsCompleted">0</div>
+            <div class="stat-label">Sessions Completed</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="hero-qbank-button">
+        <a href="qbank.html" class="qbank-btn">Qbank</a>
+      </div>
+    </section>
+
+    </main>
+
+  <footer>
+    <p>© 2026 GOLD RADIOLOGY. All rights reserved.</p>
+  </footer>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const stats = JSON.parse(localStorage.getItem('qbankStats')) || {
+        totalAnswered: 0,
+        totalCorrect: 0,
+        sessionsCount: 0
+      };
+      
+      document.getElementById('homeTotalAnswered').textContent = stats.totalAnswered;
+      document.getElementById('homeSessionsCompleted').textContent = stats.sessionsCount;
+      
+      const accuracy = stats.totalAnswered > 0 
+        ? Math.round((stats.totalCorrect / stats.totalAnswered) * 100) 
+        : 0;
+      document.getElementById('homeOverallAccuracy').textContent = `${accuracy}%`;
+    });
+  </script>
+
+</body>
+</html>

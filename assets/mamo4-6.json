@@ -1,0 +1,1293 @@
+{
+    "questions": 
+  [
+    {
+      "number": 1,
+      "question": "BI-RADS is an acronym for Breast Imaging-Reporting and Data System, developed by which organization?",
+      "choices": [
+        "FDA",
+        "ACR (American College of Radiology)",
+        "MQSA",
+        "AMA",
+        "SBI"
+      ],
+      "answer": "B",
+      "detail": "BI-RADS was developed by the ACR to standardize reporting across breast imaging."
+    },
+    {
+      "number": 2,
+      "question": "A BI-RADS 0 assessment on a screening mammogram means:",
+      "choices": [
+        "The study is negative.",
+        "The workup is incomplete and requires additional imaging.",
+        "There is a benign finding.",
+        "There is a high suspicion for cancer.",
+        "The patient has known malignancy."
+      ],
+      "answer": "B",
+      "detail": "BI-RADS 0 indicates an incomplete workup requiring additional views like spots, mags, or ultrasound."
+    },
+    {
+      "number": 3,
+      "question": "Which of the following technical issues would trigger a BI-RADS 0 for a technical repeat?",
+      "choices": [
+        "Popcorn calcifications",
+        "Patient motion (blur) or inadequate positioning",
+        "A simple cyst",
+        "A spiculated mass",
+        "Normal skin thickening"
+      ],
+      "answer": "B",
+      "detail": "Technical repeats due to blur, inadequate nipple profile, or 'camel nose' are categorized as BI-RADS 0."
+    },
+    {
+      "number": 4,
+      "question": "A BI-RADS 1 assessment indicates:",
+      "choices": [
+        "A negative/normal study",
+        "A benign finding",
+        "< 2% chance of cancer",
+        "> 95% chance of cancer",
+        "Incomplete workup"
+      ],
+      "answer": "A",
+      "detail": "BI-RADS 1 is the assessment for a totally normal study with no findings to report."
+    },
+    {
+      "number": 5,
+      "question": "BI-RADS 2 is used for findings that are 'Benign,' which implies a malignancy risk of:",
+      "choices": [
+        "0%",
+        "< 2%",
+        "2–95%",
+        "> 95%",
+        "100%"
+      ],
+      "answer": "A",
+      "detail": "BI-RADS 2 is reserved for benign findings that have an effectively 0% chance of malignancy."
+    },
+    {
+      "number": 6,
+      "question": "Which of the following is a classic example of a BI-RADS 2 finding?",
+      "choices": [
+        "Spiculated mass",
+        "Oil cyst, lipoma, or galactocele",
+        "Amorphous calcifications",
+        "Focal asymmetry on a baseline",
+        "Fine pleomorphic calcifications"
+      ],
+      "answer": "B",
+      "detail": "Fat-containing lesions such as oil cysts and lipomas are classic examples of BI-RADS 2 findings."
+    },
+    {
+      "number": 7,
+      "question": "'Multiple bilateral well-circumscribed, similar-appearing masses' are typically assessed as:",
+      "choices": [
+        "BI-RADS 1",
+        "BI-RADS 2",
+        "BI-RADS 3",
+        "BI-RADS 4",
+        "BI-RADS 0"
+      ],
+      "answer": "B",
+      "detail": "Multiple similar bilateral masses are typically BI-RADS 2 unless one mass is disproportionately growing or appears different."
+    },
+    {
+      "number": 8,
+      "question": "By definition, a BI-RADS 3 assessment implies a malignancy risk of:",
+      "choices": [
+        "0%",
+        "Less than 2%",
+        "2–10%",
+        "2–95%",
+        "50%"
+      ],
+      "answer": "B",
+      "detail": "BI-RADS 3 denotes a 'probably benign' finding with a malignancy risk of less than 2%."
+    },
+    {
+      "number": 9,
+      "question": "When can a BI-RADS 3 assessment be used?",
+      "choices": [
+        "On any screening exam",
+        "Only on a baseline or after a complete diagnostic workup",
+        "For a new spiculated mass",
+        "For a biopsy-proven cancer",
+        "For 'milk of calcium'"
+      ],
+      "answer": "B",
+      "detail": "BI-RADS 3 should only be used on baseline exams or after diagnostic callbacks have ruled out more suspicious features."
+    },
+    {
+      "number": 10,
+      "question": "What is the typical follow-up protocol for a BI-RADS 3 finding?",
+      "choices": [
+        "Immediate biopsy",
+        "2 years of follow-up (usually at 6-month intervals)",
+        "Return to annual screening immediately",
+        "PET/CT staging",
+        "Surgical excision"
+      ],
+      "answer": "B",
+      "detail": "BI-RADS 3 findings are typically followed for 2 years to ensure stability."
+    },
+    {
+      "number": 11,
+      "question": "BI-RADS 4 is defined as a 'Suspicious abnormality' with a risk of malignancy between:",
+      "choices": [
+        "0–2%",
+        "2–95%",
+        "50–75%",
+        "95–99%",
+        "100%"
+      ],
+      "answer": "B",
+      "detail": "BI-RADS 4 covers a wide spectrum of clinical suspicion, ranging from 2% to 95% risk."
+    },
+    {
+      "number": 12,
+      "question": "BI-RADS 5 is 'Highly suggestive of malignancy,' which means the risk of cancer is:",
+      "choices": [
+        "50%",
+        "75%",
+        "Greater than 95%",
+        "100%",
+        "2%"
+      ],
+      "answer": "C",
+      "detail": "BI-RADS 5 is used when imaging features are so classic for malignancy that the risk exceeds 95%."
+    },
+    {
+      "number": 13,
+      "question": "If you give a finding a BI-RADS 5 assessment, and the biopsy result returns as 'fibrocystic change' (benign), what is the next step?",
+      "choices": [
+        "Accept the result and return to screening.",
+        "Follow up in 6 months.",
+        "Recommend surgical biopsy (discordant result).",
+        "Repeat the ultrasound.",
+        "Assess as BI-RADS 2."
+      ],
+      "answer": "C",
+      "detail": "A benign pathological result for a BI-RADS 5 finding is considered discordant and necessitates surgical excision."
+    },
+    {
+      "number": 14,
+      "question": "BI-RADS 6 is reserved for:",
+      "choices": [
+        "Highly suspicious lesions",
+        "Path-proven cancer (prior to definitive therapy)",
+        "Post-surgical scars",
+        "Technical repeats",
+        "Normal studies"
+      ],
+      "answer": "B",
+      "detail": "BI-RADS 6 is used for known, biopsy-proven malignancies that have not yet undergone definitive treatment."
+    },
+    {
+      "number": 15,
+      "question": "In mammography lexicon, a 'Mass' is defined as a space-occupying lesion seen in:",
+      "choices": [
+        "Only one projection",
+        "Two different projections",
+        "Only on ultrasound",
+        "Only on MRI",
+        "The axillary tail only"
+      ],
+      "answer": "B",
+      "detail": "To be termed a 'mass,' a density must be visualized in two different projections; otherwise, it is an asymmetry."
+    },
+    {
+      "number": 16,
+      "question": "Which descriptor is the 'most reliable feature' for determining if a mass is benign or malignant?",
+      "choices": [
+        "Shape",
+        "Margin",
+        "Density",
+        "Size",
+        "Location"
+      ],
+      "answer": "B",
+      "detail": "The margin is considered the most predictive feature for malignancy among mass descriptors."
+    },
+    {
+      "number": 17,
+      "question": "A density seen in ONLY one projection is termed an:",
+      "choices": [
+        "Asymmetry",
+        "Global asymmetry",
+        "Focal asymmetry",
+        "Mass",
+        "Architectural distortion"
+      ],
+      "answer": "A",
+      "detail": "An 'asymmetry' is the term for a density visible on only one mammographic view."
+    },
+    {
+      "number": 18,
+      "question": "A 'Focal Asymmetry' is distinguished from a simple asymmetry because it is:",
+      "choices": [
+        "Seen in the skin",
+        "Seen in two projections (but lacks the borders of a mass)",
+        "Larger than one quadrant",
+        "Always benign",
+        "Only seen on MRI"
+      ],
+      "answer": "B",
+      "detail": "A focal asymmetry is visible in two projections but lacks the space-occupying convex borders required to be called a mass."
+    },
+    {
+      "number": 19,
+      "question": "'Global Asymmetry' refers to a volume of breast tissue greater than the contralateral side involving at least:",
+      "choices": [
+        "One clock hour",
+        "One quadrant",
+        "The entire breast",
+        "The subareolar region only",
+        "1 cm"
+      ],
+      "answer": "B",
+      "detail": "Global asymmetry is a large volume of tissue involving at least one quadrant of the breast."
+    },
+    {
+      "number": 20,
+      "question": "In ultrasound lexicon, 'Orientation' is described as:",
+      "choices": [
+        "Circumscribed or Spiculated",
+        "Parallel (wider than tall) or Not-Parallel (taller than wide)",
+        "Round or Irregular",
+        "Anechoic or Hyperechoic",
+        "Shadowing or Enhancement"
+      ],
+      "answer": "B",
+      "detail": "Ultrasound orientation is described as either parallel or not-parallel relative to the skin line."
+    },
+    {
+      "number": 21,
+      "question": "On breast MRI, a 'Focus' is defined as a dot of enhancement measuring less than:",
+      "choices": [
+        "1 mm",
+        "2 mm",
+        "5 mm",
+        "10 mm",
+        "20 mm"
+      ],
+      "answer": "C",
+      "detail": "A focus on MRI is defined as a dot of enhancement measuring less than 5 mm."
+    },
+    {
+      "number": 22,
+      "question": "True or False: For an MRI 'Focus' (< 5 mm), you are required to describe its shape and margin.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "B",
+      "detail": "Foci are too small to necessitate shape or margin descriptions in the lexicon."
+    },
+    {
+      "number": 23,
+      "question": "Which term was recently REMOVED from the BI-RADS MRI lexicon for describing mass shape?",
+      "choices": [
+        "Round",
+        "Oval",
+        "Lobulated",
+        "Irregular",
+        "Spiculated"
+      ],
+      "answer": "C",
+      "detail": "The term 'lobulated' has been removed from the current BI-RADS MRI lexicon."
+    },
+    {
+      "number": 24,
+      "question": "In Non-Mass Enhancement (NME), which distribution is most suggestive of a ductal origin?",
+      "choices": [
+        "Focal",
+        "Segmental (triangular pointing toward the nipple)",
+        "Regional",
+        "Diffuse",
+        "Multiple regions"
+      ],
+      "answer": "B",
+      "detail": "Segmental distribution is more suspicious as it follows the anatomy of a ductal system."
+    },
+    {
+      "number": 25,
+      "question": "Which NME internal enhancement pattern is a 'buzzword for DCIS or IDC'?",
+      "choices": [
+        "Homogeneous",
+        "Clustered Ring",
+        "Heterogeneous",
+        "Clumped",
+        "Reticular"
+      ],
+      "answer": "B",
+      "detail": "Clustered ring enhancement is a specific and high-yield buzzword for DCIS and IDC."
+    },
+    {
+      "number": 26,
+      "question": "According to the sources, when reading a breast MRI, which of the following 'trumps' everything else?",
+      "choices": [
+        "Kinetic curves",
+        "Morphology",
+        "Background enhancement level",
+        "Patient age",
+        "Presence of a clip"
+      ],
+      "answer": "B",
+      "detail": "Morphology is considered the most critical feature; suspicious morphology mandates biopsy regardless of kinetics."
+    },
+    {
+      "number": 27,
+      "question": "Regulating bodies (MQSA) demand a Positive Predictive Value (PPV1) for screening findings of approximately:",
+      "choices": [
+        "1%",
+        "4%",
+        "10%",
+        "25%",
+        "50%"
+      ],
+      "answer": "B",
+      "detail": "A PPV1 of approximately 4% is the expected standard for screening callback findings."
+    },
+    {
+      "number": 28,
+      "question": "What is the target range for 'Cancers found per 1000 screened' under MQSA?",
+      "choices": [
+        "1–2",
+        "3–8",
+        "10–15",
+        "20–30",
+        "50+"
+      ],
+      "answer": "B",
+      "detail": "Radiologists aim to detect between 3 and 8 cancers for every 1000 screening mammograms performed."
+    },
+    {
+      "number": 29,
+      "question": "For how long must a facility keep original mammograms?",
+      "choices": [
+        "1 year",
+        "2 years",
+        "5 years (or 10 years if no priors)",
+        "20 years",
+        "Permanently"
+      ],
+      "answer": "C",
+      "detail": "MQSA standards require facilities to maintain original mammograms for at least 5 years (10 if no other films exist)."
+    },
+    {
+      "number": 30,
+      "question": "Background Parenchymal Enhancement (BPE) on MRI is based on which sequence?",
+      "choices": [
+        "T2",
+        "Pre-contrast T1",
+        "First post-contrast sequence",
+        "Delayed 6-minute sequence",
+        "Diffusion weighted imaging"
+      ],
+      "answer": "C",
+      "detail": "The assessment of BPE is based specifically on the first post-contrast T1 sequence."
+    },
+    {
+      "number": 31,
+      "question": "A 'Mass' on MRI is defined by enhancement measuring at least:",
+      "choices": [
+        "1 mm",
+        "2 mm",
+        "5 mm",
+        "10 mm",
+        "15 mm"
+      ],
+      "answer": "C",
+      "detail": "To be classified as a mass on MRI, the enhancement must measure 5 mm or larger."
+    },
+    {
+      "number": 32,
+      "question": "'Non-Mass Enhancement' (NME) is best described as:",
+      "choices": [
+        "A space-occupying lesion",
+        "A cloud or clump of tissue enhancement (not a mass)",
+        "Enhancement that disappears on T2",
+        "A simple focus",
+        "Only seen in the axilla"
+      ],
+      "answer": "B",
+      "detail": "NME is tissue enhancement that lacks space-occupying features and appears as clouds or clumps."
+    },
+    {
+      "number": 33,
+      "question": "Which assessment category is used for 'Proven Malignancy' that has not yet been treated?",
+      "choices": [
+        "BI-RADS 4",
+        "BI-RADS 5",
+        "BI-RADS 6",
+        "BI-RADS 0",
+        "BI-RADS 2"
+      ],
+      "answer": "C",
+      "detail": "BI-RADS 6 is exclusively for biopsy-proven cancer before definitive treatment."
+    },
+    {
+      "number": 34,
+      "question": "Calcifications basic categorization 'flavors' include:",
+      "choices": [
+        "2",
+        "3 (Artifact, Benign, and Suspicious)",
+        "5",
+        "10",
+        "12"
+      ],
+      "answer": "B",
+      "detail": "Calcifications are effectively classified as artifactual, benign, or suspicious."
+    },
+    {
+      "number": 35,
+      "question": "High-density material seen specifically in the axilla is a classic look for which artifact?",
+      "choices": [
+        "Zinc oxide",
+        "Deodorant",
+        "Metallic fragments",
+        "Tattoos",
+        "Sternalis muscle"
+      ],
+      "answer": "B",
+      "detail": "Deodorant frequently presents as high-density specks in the axillary region."
+    },
+    {
+      "number": 36,
+      "question": "A high-density speck that does NOT change position on different mammographic views is likely:",
+      "choices": [
+        "On the image receptor (Artifact)",
+        "In the deep breast tissue",
+        "A calcified cancer",
+        "Zinc oxide",
+        "A clip"
+      ],
+      "answer": "A",
+      "detail": "Artifacts on the receptor or glass plate do not change position between projections."
+    },
+    {
+      "number": 37,
+      "question": "'Zinc Oxide' is a calcification mimic typically found in ointment used by:",
+      "choices": [
+        "Teenagers with acne",
+        "Elderly women with sweaty/floppy breasts",
+        "Bodybuilders",
+        "Post-surgical patients only",
+        "Men"
+      ],
+      "answer": "B",
+      "detail": "Zinc oxide ointments can mimic skin calcifications, especially in skin folds of larger breasts."
+    },
+    {
+      "number": 38,
+      "question": "'Popcorn Calcifications' are a pathognomonic buzzword for:",
+      "choices": [
+        "DCIS",
+        "Degenerating fibroadenoma",
+        "Fat necrosis",
+        "Secretory disease",
+        "Chronic mastitis"
+      ],
+      "answer": "B",
+      "detail": "Popcorn-like calcifications are characteristic of a fibroadenoma undergoing involution."
+    },
+    {
+      "number": 39,
+      "question": "Secretory (Rod-Like) calcifications are also known as:",
+      "choices": [
+        "Plasma Cell Mastitis calcifications",
+        "Eggshell calcifications",
+        "Popcorn calcifications",
+        "Amorphous calcifications",
+        "Milk of calcium"
+      ],
+      "answer": "A",
+      "detail": "Secretory calcifications are also clinically referred to as Plasma Cell Mastitis calcifications."
+    },
+    {
+      "number": 40,
+      "question": "What is the classic buzzword for the appearance of Secretory calcifications?",
+      "choices": [
+        "'Popcorn'",
+        "'Cigar shaped with a lucent center'",
+        "'Sack of marbles'",
+        "'Tea-cupping'",
+        "'Snowstorm'"
+      ],
+      "answer": "B",
+      "detail": "Secretory calcifications are characteristically cigar-shaped, often with hollow lucent centers."
+    },
+    {
+      "number": 41,
+      "question": "At what stage of life do Secretory calcifications typically appear?",
+      "choices": [
+        "Puberty",
+        "Pregnancy",
+        "10–20 years AFTER menopause",
+        "During active lactation",
+        "Only in women under 30"
+      ],
+      "answer": "C",
+      "detail": "These benign calcifications typically appear well after menopause as ducts continue to involute."
+    },
+    {
+      "number": 42,
+      "question": "'Eggshell' or 'Rim' calcifications are most commonly associated with:",
+      "choices": [
+        "Fibroadenoma",
+        "Fat Necrosis (Oil Cysts)",
+        "DCIS",
+        "Papilloma",
+        "Sclerosing adenosis"
+      ],
+      "answer": "B",
+      "detail": "Eggshell calcification is the characteristic hallmark of benign fat necrosis."
+    },
+    {
+      "number": 43,
+      "question": "A massive area of fat necrosis with eggshell calcification may be referred to as:",
+      "choices": [
+        "Liponecrosis macrocystica",
+        "Steatocystoma multiplex",
+        "Mondor disease",
+        "PASH",
+        "Galactocele"
+      ],
+      "answer": "A",
+      "detail": "Large, palpable regions of fat necrosis with coarse calcification are termed liponecrosis macrocystica."
+    },
+    {
+      "number": 44,
+      "question": "'Dystrophic' calcifications typically occur after radiation, trauma, or surgery and are described as:",
+      "choices": [
+        "Small and powdery",
+        "Big and irregular in shape (often with a lucent center)",
+        "Linear and branching",
+        "Countable with sharp tips",
+        "Tea-cupped"
+      ],
+      "answer": "B",
+      "detail": "Dystrophic calcifications are large, chunky, and irregular, often showing lucent centers."
+    },
+    {
+      "number": 45,
+      "question": "'Milk of Calcium' represents fluid-fluid levels in a lobule and is due to:",
+      "choices": [
+        "Cancer",
+        "Fibrocystic change",
+        "Popcorn degeneration",
+        "Fat necrosis",
+        "Nipple discharge"
+      ],
+      "answer": "B",
+      "detail": "Milk of calcium is a benign finding related to fibrocystic changes in the lobules."
+    },
+    {
+      "number": 46,
+      "question": "Which mammographic view is 'Best in Life' for identifying the characteristic layering of milk of calcium?",
+      "choices": [
+        "CC",
+        "MLO",
+        "True Lateral (ML or LM)",
+        "XCCL",
+        "Rolled CC"
+      ],
+      "answer": "C",
+      "detail": "A 90-degree true lateral view is required to see the classic 'tea-cupping' layer effect."
+    },
+    {
+      "number": 47,
+      "question": "If milk of calcium is not immediately obvious on a biopsy sample, it may need to be viewed with:",
+      "choices": [
+        "MRI",
+        "Polarized light (to assess birefringence)",
+        "Electron microscopy",
+        "High-dose radiation",
+        "Ultrasound"
+      ],
+      "answer": "B",
+      "detail": "Milk of calcium exhibits birefringence when viewed under polarized light in tissue samples."
+    },
+    {
+      "number": 48,
+      "question": "'Amorphous' calcifications are powdery and indistinct; they are most concerning if they are:",
+      "choices": [
+        "Scattered and bilateral",
+        "Segmental or linear in distribution",
+        "Associated with an oil cyst",
+        "Popcorn-like",
+        "Tea-cupping"
+      ],
+      "answer": "B",
+      "detail": "Segmental or linear distributions of amorphous calcifications raise suspicion for malignancy."
+    },
+    {
+      "number": 49,
+      "question": "Which suspicious calcification pattern is described as 'countable, but with dull tips'?",
+      "choices": [
+        "Amorphous",
+        "Coarse Heterogeneous",
+        "Fine Pleomorphic",
+        "Fine Linear Branching",
+        "Popcorn"
+      ],
+      "answer": "B",
+      "detail": "Coarse heterogeneous calcifications are countable and irregular but lack sharp tips."
+    },
+    {
+      "number": 50,
+      "question": "'Fine Pleomorphic' calcifications are countable and distinguished by having:",
+      "choices": [
+        "Lucent centers",
+        "Sharp tips (would poke you)",
+        "Powdery appearance",
+        "Layering on lateral views",
+        "Round shapes"
+      ],
+      "answer": "B",
+      "detail": "Fine pleomorphic calcifications are distinct, countable, and possess sharp, irregular tips."
+    },
+    {
+      "number": 51,
+      "question": "Which calcification morphology has the HIGHEST suspicion for malignancy?",
+      "choices": [
+        "Amorphous",
+        "Coarse Heterogeneous",
+        "Fine Pleomorphic",
+        "Fine Linear or Fine Linear Branching",
+        "Eggshell"
+      ],
+      "answer": "D",
+      "detail": "Fine linear branching calcifications carry the highest predictive value for malignancy."
+    },
+    {
+      "number": 52,
+      "question": "Fine linear branching calcifications morphologically mimic:",
+      "choices": [
+        "Ductal proliferation (DCIS)",
+        "Fat necrosis",
+        "Fibroadenoma",
+        "Cysts",
+        "Blood vessels"
+      ],
+      "answer": "A",
+      "detail": "These calcifications follow the architecture of a duct, which is characteristic of DCIS."
+    },
+    {
+      "number": 53,
+      "question": "If a question asks for the 'highest suspicion' and 'Fine Linear Branching' is NOT an option, you should pick:",
+      "choices": [
+        "Amorphous",
+        "Fine Pleomorphic",
+        "Coarse Heterogeneous",
+        "Round",
+        "Vascular"
+      ],
+      "answer": "B",
+      "detail": "Fine pleomorphic is the next most suspicious morphology if branching is excluded."
+    },
+    {
+      "number": 54,
+      "question": "Calcifications that are 'parallel linear' and follow the course of a tube are:",
+      "choices": [
+        "DCIS",
+        "Vascular calcifications",
+        "Secretory calcifications",
+        "Dystrophic",
+        "Milk of calcium"
+      ],
+      "answer": "B",
+      "detail": "Parallel linear calcifications track along vessel walls and are benign vascular calcifications."
+    },
+    {
+      "number": 55,
+      "question": "'Round' calcifications are usually benign and associated with:",
+      "choices": [
+        "Fibrocystic change (developing in lobules)",
+        "Invasive lobular cancer",
+        "Fat necrosis",
+        "Radiation",
+        "Sternalis muscle"
+      ],
+      "answer": "A",
+      "detail": "Benign round calcifications typically develop within the lobules as part of fibrocystic change."
+    },
+    {
+      "number": 56,
+      "question": "Grouped round calcifications on a FIRST mammogram can be assessed as:",
+      "choices": [
+        "BI-RADS 2",
+        "BI-RADS 3",
+        "BI-RADS 4",
+        "BI-RADS 5",
+        "BI-RADS 0"
+      ],
+      "answer": "B",
+      "detail": "On a baseline exam, a new group of round calcifications may be categorized as BI-RADS 3."
+    },
+    {
+      "number": 57,
+      "question": "If round calcifications are scattered and bilateral, they are assessed as:",
+      "choices": [
+        "BI-RADS 2",
+        "BI-RADS 3",
+        "BI-RADS 4",
+        "BI-RADS 1",
+        "BI-RADS 5"
+      ],
+      "answer": "A",
+      "detail": "Symmetric, diffuse bilateral round calcifications are definitively BI-RADS 2."
+    },
+    {
+      "number": 58,
+      "question": "Dermal calcifications (in the skin) can be proven using which mammographic view?",
+      "choices": [
+        "MLO",
+        "CC",
+        "Tangential (TAN)",
+        "Cleavage View",
+        "Eklund View"
+      ],
+      "answer": "C",
+      "detail": "A tangential view places the finding in the skin profile, confirming its dermal location."
+    },
+    {
+      "number": 59,
+      "question": "'Lucent-centered' calcifications are a classic buzzword for:",
+      "choices": [
+        "Benign findings (e.g., skin, secretory, or fat necrosis)",
+        "High-grade DCIS",
+        "Invasive Ductal Carcinoma",
+        "Lymphoma",
+        "Phyllodes"
+      ],
+      "answer": "A",
+      "detail": "Lucent centers are a key imaging feature shared by many benign calcification types."
+    },
+    {
+      "number": 60,
+      "question": "The 'DDx for Amorphous Calcifications' includes Sclerosing Adenosis, Columnar Cell Change, and:",
+      "choices": [
+        "Low-grade DCIS",
+        "High-grade DCIS",
+        "Invasive Lobular Carcinoma",
+        "Fibroadenoma",
+        "Fat necrosis"
+      ],
+      "answer": "A",
+      "detail": "Low-grade DCIS is a recognized malignant differential for amorphous calcifications."
+    },
+    {
+      "number": 61,
+      "question": "True or False: 'Smooth' is a valid term in the updated BI-RADS MRI lexicon for margins.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "B",
+      "detail": "The term 'smooth' has been superseded by 'circumscribed' in the current lexicon."
+    },
+    {
+      "number": 62,
+      "question": "'Coarse Heterogeneous' calcifications can be associated with a mass, such as a:",
+      "choices": [
+        "Fibroadenoma or Papilloma",
+        "Lipoma",
+        "Simple cyst",
+        "Hamartoma",
+        "Galactocele"
+      ],
+      "answer": "A",
+      "detail": "Fibroadenomas and papillomas often contain coarse heterogeneous calcifications."
+    },
+    {
+      "number": 63,
+      "question": "Which type of calcification is nicknamed 'Fat Necrosis' by the author?",
+      "choices": [
+        "Popcorn",
+        "Secretory",
+        "Eggshell",
+        "Vascular",
+        "Milk of Calcium"
+      ],
+      "answer": "C",
+      "detail": "Eggshell calcification is essentially synonymous with fat necrosis on the boards."
+    },
+    {
+      "number": 64,
+      "question": "Calcifications that look 'powdery and spread out' on the CC view but layer on the MLO/ML are:",
+      "choices": [
+        "Amorphous",
+        "Milk of Calcium",
+        "Fine Pleomorphic",
+        "Dystrophic",
+        "Popcorn"
+      ],
+      "answer": "B",
+      "detail": "The differing appearance between horizontal and vertical projections is pathognomonic for milk of calcium."
+    },
+    {
+      "number": 65,
+      "question": "'Metallic Artifact' from an electrocautery device will appear:",
+      "choices": [
+        "Powdery",
+        "Very dense (denser than calcium) and adjacent to a scar",
+        "With a lucent center",
+        "Tea-cupping on lateral",
+        "As a snowstorm"
+      ],
+      "answer": "B",
+      "detail": "Electrocautery can leave behind tiny, extremely dense metallic fragments near a surgical site."
+    },
+    {
+      "number": 66,
+      "question": "Amorphous calcifications are considered concerning if they are:",
+      "choices": [
+        "Scattered",
+        "Segmental",
+        "Bilateral",
+        "Popcorn-like",
+        "Lucent-centered"
+      ],
+      "answer": "B",
+      "detail": "A segmental distribution of any indistinct calcification is highly suspicious."
+    },
+    {
+      "number": 67,
+      "question": "True or False: You should worry about cancer if calcifications appear 'linear or segmental,' following the ductal system.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "A",
+      "detail": "Linear or segmental patterns suggest a ductal distribution, which is characteristic of DCIS."
+    },
+    {
+      "number": 68,
+      "question": "'Mondor Disease' is a benign condition defined as:",
+      "choices": [
+        "A fast-growing tumor",
+        "A thrombosed vein presenting as a tender palpable cord",
+        "A fat-containing hamartoma",
+        "Inflammation of the Cooper's ligaments",
+        "A ruptured implant"
+      ],
+      "answer": "B",
+      "detail": "Mondor disease is a superficial thrombophlebitis of a breast vein."
+    },
+    {
+      "number": 69,
+      "question": "What is the treatment for Mondor Disease?",
+      "choices": [
+        "Immediate anticoagulation (Heparin)",
+        "Mastectomy",
+        "NSAIDs and warm compresses",
+        "2 years of follow-up",
+        "Steroids"
+      ],
+      "answer": "C",
+      "detail": "The condition is benign and self-limiting, managed with anti-inflammatories and heat."
+    },
+    {
+      "number": 70,
+      "question": "There are five classic 'fat-containing lesions' that are always benign; which of the following is NOT on that list?",
+      "choices": [
+        "Hamartoma",
+        "Galactocele",
+        "Lipoma",
+        "Fibroadenoma",
+        "Intramammary Lymph Node"
+      ],
+      "answer": "D",
+      "detail": "Fibroadenomas are solid fibroglandular/stromal masses and do not contain fat."
+    },
+    {
+      "number": 71,
+      "question": "Which fat-containing lesions are considered 'pure fat containing' masses?",
+      "choices": [
+        "Oil cyst/Fat necrosis and Lipoma",
+        "Hamartoma and Galactocele",
+        "Lymph nodes only",
+        "PASH and Phyllodes",
+        "All five are pure fat"
+      ],
+      "answer": "A",
+      "detail": "Oil cysts and lipomas are composed entirely of fat, unlike hamartomas which have mixed tissue."
+    },
+    {
+      "number": 72,
+      "question": "What is the classic Aunt Minnie buzzword for a 'Hamartoma'?",
+      "choices": [
+        "'Popcorn'",
+        "'Breast within a breast'",
+        "'Sack of marbles'",
+        "'Stepladder sign'",
+        "'Dark star'"
+      ],
+      "answer": "B",
+      "detail": "A hamartoma contains a variety of normal breast elements, giving it a 'breast within a breast' appearance."
+    },
+    {
+      "number": 73,
+      "question": "A 'Galactocele' is a benign fat-containing lesion typically seen in young women:",
+      "choices": [
+        "During the first trimester",
+        "Upon cessation of lactation",
+        "During menopause",
+        "With NF-1",
+        "On HRT"
+      ],
+      "answer": "B",
+      "detail": "Galactoceles characteristically appear when breastfeeding is stopped."
+    },
+    {
+      "number": 74,
+      "question": "What is the pathognomonic imaging finding for a Galactocele?",
+      "choices": [
+        "Spiculated margin",
+        "Fat-fluid level",
+        "Popcorn calcification",
+        "'Snowstorm' nodes",
+        "'Linguine sign'"
+      ],
+      "answer": "B",
+      "detail": "A fat-fluid level (or fat-milk level) on imaging is an Aunt Minnie for a galactocele."
+    },
+    {
+      "number": 75,
+      "question": "'Oil Cysts' or fat necrosis are walled off by fibrous tissue and typically show which calcification pattern?",
+      "choices": [
+        "Popcorn",
+        "Eggshell",
+        "Linear branching",
+        "Amorphous",
+        "Tea-cupping"
+      ],
+      "answer": "B",
+      "detail": "Oil cysts are the classic cause of eggshell or rim calcification in the breast."
+    },
+    {
+      "number": 76,
+      "question": "'Enlargement of a lipoma' is considered:",
+      "choices": [
+        "Normal variant",
+        "Criteria for a biopsy",
+        "Pathognomonic for cancer",
+        "A sign of fat necrosis",
+        "BI-RADS 2"
+      ],
+      "answer": "B",
+      "detail": "While typically benign, any enlarging mass, including a lipoma, warrants pathological investigation."
+    },
+    {
+      "number": 77,
+      "question": "Intramammary lymph nodes are normal and typically located close to blood vessels; where are they NOT seen?",
+      "choices": [
+        "Near the pectoral muscle",
+        "In the axilla",
+        "Within the fibroglandular tissue",
+        "In the subcutaneous fat",
+        "Near the skin"
+      ],
+      "answer": "C",
+      "detail": "Intramammary lymph nodes are characteristically not found within the dense fibroglandular tissue itself."
+    },
+    {
+      "number": 78,
+      "question": "'Pseudoangiomatous Stromal Hyperplasia' (PASH) is a benign process that typically presents as:",
+      "choices": [
+        "A small cluster of calcifications",
+        "A large (4–6 cm) solid, oval-shaped mass with well-defined borders",
+        "A thrombosed vein",
+        "A fat-fluid level",
+        "Multiple skin nodules"
+      ],
+      "answer": "B",
+      "detail": "PASH often presents as a large, benign, well-circumscribed solid mass."
+    },
+    {
+      "number": 79,
+      "question": "What is the typical management recommendation for PASH?",
+      "choices": [
+        "Immediate excision",
+        "12-month (annual) follow-up",
+        "6-month follow-up for 2 years",
+        "Chemo and radiation",
+        "BI-RADS 5"
+      ],
+      "answer": "B",
+      "detail": "Once diagnosed, PASH is typically managed with annual routine follow-up."
+    },
+    {
+      "number": 80,
+      "question": "What is the most common palpable mass in young women?",
+      "choices": [
+        "Lipoma",
+        "Fibroadenoma",
+        "Cyst",
+        "Phyllodes",
+        "Invasive Ductal Carcinoma"
+      ],
+      "answer": "B",
+      "detail": "The fibroadenoma is the most frequent palpable solid mass in women under 35."
+    },
+    {
+      "number": 81,
+      "question": "Fibroadenomas on ultrasound are typically oval and circumscribed with which 'central' feature?",
+      "choices": [
+        "Central hyperechoic band",
+        "Central necrosis",
+        "Central flow voids",
+        "Central 'dark star'",
+        "No internal features"
+      ],
+      "answer": "A",
+      "detail": "Fibroadenomas frequently demonstrate a central hyperechoic band on ultrasound."
+    },
+    {
+      "number": 82,
+      "question": "On MRI, a fibroadenoma is characteristically T2 bright and demonstrates which kinetic curve?",
+      "choices": [
+        "Type 1 (Progressive enhancement)",
+        "Type 2 (Plateau)",
+        "Type 3 (Rapid washout)",
+        "No enhancement",
+        "Clustered ring enhancement"
+      ],
+      "answer": "A",
+      "detail": "Fibroadenomas typically exhibit a benign Type 1 progressive enhancement curve."
+    },
+    {
+      "number": 83,
+      "question": "'Phyllodes Tumors' are fast-growing masses that mimic fibroadenomas but occur in which age group?",
+      "choices": [
+        "Teenagers",
+        "Older women (40s–50s)",
+        "Neonates",
+        "Pre-pubescent girls",
+        "Men only"
+      ],
+      "answer": "B",
+      "detail": "Phyllodes tumors typically present in an older demographic than common fibroadenomas."
+    },
+    {
+      "number": 84,
+      "question": "What is the malignant degeneration risk for a Phyllodes tumor?",
+      "choices": [
+        "1%",
+        "10% (up to 25% in some texts)",
+        "50%",
+        "95%",
+        "0%"
+      ],
+      "answer": "B",
+      "detail": "Approximately 10% of Phyllodes tumors are found to be malignant."
+    },
+    {
+      "number": 85,
+      "question": "Unlike most breast cancers that spread via lymphatics, a malignant Phyllodes tumor metastasizes:",
+      "choices": [
+        "Hematogenously (usually to lungs and bone)",
+        "Only to the contralateral breast",
+        "Via the internal mammary chain",
+        "To the skin only",
+        "It never metastasizes"
+      ],
+      "answer": "A",
+      "detail": "Phyllodes tumors are the testable exception that spread through the bloodstream rather than lymphatics."
+    },
+    {
+      "number": 86,
+      "question": "Surgical management for a Phyllodes tumor requires:",
+      "choices": [
+        "Lumpectomy with 1 mm margins",
+        "Wide margins (recurrence risk is high if margin < 2 cm)",
+        "Radical mastectomy only",
+        "No surgery (only chemo)",
+        "Axillary dissection"
+      ],
+      "answer": "B",
+      "detail": "Due to a high rate of local recurrence, wide surgical margins are essential for Phyllodes tumors."
+    },
+    {
+      "number": 87,
+      "question": "Numerous peri-areolar skin nodules in a patient with a known genetic syndrome is the 'Aunt Minnie' for:",
+      "choices": [
+        "NF-1 (Neurofibromas)",
+        "Cowden Syndrome",
+        "BRCA 1",
+        "Li-Fraumeni",
+        "Turner Syndrome"
+      ],
+      "answer": "A",
+      "detail": "Multiple periareolar nodules are a classic manifestation of neurofibromatosis type 1."
+    },
+    {
+      "number": 88,
+      "question": "'Steatocystoma multiplex' is a 'zebra' condition associated with:",
+      "choices": [
+        "A ton of oil cysts",
+        "Numerous fibroadenomas",
+        "Phyllodes tumors",
+        "Male breast cancer",
+        "Sternalis muscles"
+      ],
+      "answer": "A",
+      "detail": "This rare condition presents with numerous oil cysts within the breast."
+    },
+    {
+      "number": 89,
+      "question": "If a patient under age 30 has a palpable lump, what is the recommended 'First Step'?",
+      "choices": [
+        "Mammography",
+        "Ultrasound",
+        "MRI",
+        "Core biopsy",
+        "PET/CT"
+      ],
+      "answer": "B",
+      "detail": "For women under 30, ultrasound is the preferred initial imaging study for palpable findings."
+    },
+    {
+      "number": 90,
+      "question": "'Breast within a breast' on mammography is diagnostic for:",
+      "choices": [
+        "Lipoma",
+        "Hamartoma",
+        "Galactocele",
+        "Fat necrosis",
+        "Invasive lobular cancer"
+      ],
+      "answer": "B",
+      "detail": "This classic descriptor defines the benign hamartoma."
+    },
+    {
+      "number": 91,
+      "question": "Which 'Scary Sounding' benign lesion is myofibroblastic in origin?",
+      "choices": [
+        "Mondor Disease",
+        "PASH",
+        "Phyllodes",
+        "Fibroadenoma",
+        "Adenosis"
+      ],
+      "answer": "B",
+      "detail": "Pseudoangiomatous Stromal Hyperplasia (PASH) is a myofibroblastic proliferative process."
+    },
+    {
+      "number": 92,
+      "question": "In post-menopausal women, secretory calcifications happen because:",
+      "choices": [
+        "A tumor is growing.",
+        "The duct has involuted.",
+        "The patient is lactating.",
+        "The patient has CHF.",
+        "Of prior radiation."
+      ],
+      "answer": "B",
+      "detail": "Ductal involution well after menopause results in these characteristic rod-like calcifications."
+    },
+    {
+      "number": 93,
+      "question": "A tender palpable cord in the breast that looks like a thrombosed vein on ultrasound is:",
+      "choices": [
+        "Mondor Disease",
+        "PASH",
+        "Inflammatory cancer",
+        "Mastitis",
+        "A galactocele"
+      ],
+      "answer": "A",
+      "detail": "Mondor disease classically presents as a palpable, tender cord."
+    },
+    {
+      "number": 94,
+      "question": "'Fibrocystic change' is the most common cause of which benign calcification type?",
+      "choices": [
+        "Popcorn",
+        "Round or Milk of Calcium",
+        "Rod-like",
+        "Eggshell",
+        "Linear branching"
+      ],
+      "answer": "B",
+      "detail": "Round and milk of calcium calcifications are typically benign results of fibrocystic change."
+    },
+    {
+      "number": 95,
+      "question": "A 'Stepladder sign' on ultrasound is a buzzword for:",
+      "choices": [
+        "Intracapsular silicone implant rupture",
+        "Extracapsular rupture",
+        "Popcorn calcification",
+        "Mondor disease",
+        "Fibroadenoma"
+      ],
+      "answer": "A",
+      "detail": "The stepladder sign represents the collapsed implant shell in an intracapsular rupture."
+    },
+    {
+      "number": 96,
+      "question": "A 'Linguine sign' on MRI is the counterpart to the stepladder sign and indicates:",
+      "choices": [
+        "Intracapsular rupture",
+        "Extracapsular rupture",
+        "Normal folds",
+        "Cancer",
+        "Fat necrosis"
+      ],
+      "answer": "A",
+      "detail": "The MRI linguine sign is the imaging equivalent of the ultrasound stepladder sign."
+    },
+    {
+      "number": 97,
+      "question": "True or False: Hormone Replacement Therapy (HRT) can cause a pre-existing fibroadenoma to grow.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "A",
+      "detail": "Fibroadenomas are hormonally sensitive and can enlarge under the influence of HRT."
+    },
+    {
+      "number": 98,
+      "question": "The 'most common' cause of bloody nipple discharge is:",
+      "choices": [
+        "DCIS",
+        "Intraductal Papilloma (90%)",
+        "Invasive Ductal Carcinoma",
+        "Fat necrosis",
+        "Galactocele"
+      ],
+      "answer": "B",
+      "detail": "Intraductal papillomas are responsible for the vast majority of bloody nipple discharge cases."
+    },
+    {
+      "number": 99,
+      "question": "A 'galactogram' involves injecting contrast into a leaking duct; a filling defect in the duct would then require:",
+      "choices": [
+        "Chemo",
+        "Wire localization",
+        "Mastectomy",
+        "2-year follow-up",
+        "BI-RADS 2 assessment"
+      ],
+      "answer": "B",
+      "detail": "A persistent filling defect on a galactogram necessitates surgical excision via wire localization."
+    },
+    {
+      "number": 100,
+      "question": "'Sack of marbles' is a high-yield buzzword for which lesion (typically found in the midline floor of the mouth but also in the breast)?",
+      "choices": [
+        "Dermoid Cyst",
+        "Hamartoma",
+        "Lipoma",
+        "Galactocele",
+        "Fibroadenoma"
+      ],
+      "answer": "A",
+      "detail": "Dermoid cysts (sac with fat globules) have the characteristic 'sack of marbles' look."
+    }
+  ]
+}

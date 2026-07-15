@@ -1,0 +1,1306 @@
+{
+    "questions": 
+[
+    {
+      "number": 1,
+      "question": "What is the normal wall thickness of the gallbladder on ultrasound?",
+      "choices": [
+        "< 1 mm",
+        "< 3 mm",
+        "< 5 mm",
+        "< 10 mm",
+        "< 12 mm"
+      ],
+      "answer": "B",
+      "detail": "The wall thickness of a normal gallbladder is supposed to be less than 3 mm."
+    },
+    {
+      "number": 2,
+      "question": "A mildly distended gallbladder in a fasting patient is considered:",
+      "choices": [
+        "Always abnormal",
+        "Normal",
+        "A sign of acute cholecystitis",
+        "Pathognomonic for a stone",
+        "Only normal in infants"
+      ],
+      "answer": "B",
+      "detail": "The gallbladder will distend when fasting and be empty after eating."
+    },
+    {
+      "number": 3,
+      "question": "Which of the following is a non-biliary cause of gallbladder wall thickening?",
+      "choices": [
+        "Cholecystitis",
+        "Primary Sclerosing Cholangitis (PSC)",
+        "Hepatitis or Congestive Heart Failure (CHF)",
+        "Gallstones",
+        "Biliary atresia"
+      ],
+      "answer": "C",
+      "detail": "Inflammation from the adjacent liver (hepatitis) or edema from CHF/fluid overload can cause wall thickening."
+    },
+    {
+      "number": 4,
+      "question": "The 'Spiral Valves of Heister' are anatomically located in the:",
+      "choices": [
+        "Gallbladder fundus",
+        "Neck and cystic duct",
+        "Common hepatic duct",
+        "Ampulla of Vater",
+        "Porta hepatis"
+      ],
+      "answer": "B",
+      "detail": "These structures are found in the neck of the gallbladder and the cystic duct."
+    },
+    {
+      "number": 5,
+      "question": "The 'Duct of Luschka' is clinically significant because it can lead to:",
+      "choices": [
+        "Gallstones",
+        "Persistent bile leaks after cholecystectomy",
+        "Gallbladder cancer",
+        "Bouveret syndrome",
+        "Mirizzi syndrome"
+      ],
+      "answer": "B",
+      "detail": "This accessory cystic duct can cause a persistent bile leak following surgery."
+    },
+    {
+      "number": 6,
+      "question": "A 'Phrygian cap' on a gallbladder ultrasound represents:",
+      "choices": [
+        "A malignant mass",
+        "A fold in the gallbladder wall that is clinically insignificant",
+        "A type of adenomyomatosis",
+        "A precursor to porcelain gallbladder",
+        "A duplicated gallbladder"
+      ],
+      "answer": "B",
+      "detail": "A Phrygian cap is seen when the GB folds on itself; it is a normal variant."
+    },
+    {
+      "number": 7,
+      "question": "Where is the most common location for an intrahepatic gallbladder variant?",
+      "choices": [
+        "Left lobe, segment 2",
+        "Right above the interlobar fissure",
+        "Inside the caudate lobe",
+        "Posterior to the IVC",
+        "Attached to the spleen"
+      ],
+      "answer": "B",
+      "detail": "Most intrahepatic variants are found right above the interlobar fissure."
+    },
+    {
+      "number": 8,
+      "question": "What percentage of cholesterol gallstones are found in asymptomatic patients?",
+      "choices": [
+        "2%",
+        "10%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "answer": "B",
+      "detail": "Gallstones are found in 10% of asymptomatic patients."
+    },
+    {
+      "number": 9,
+      "question": "In pediatric patients, the presence of gallstones should prompt reflexive thinking about:",
+      "choices": [
+        "Diabetes",
+        "Sickle Cell Disease",
+        "Cystic Fibrosis",
+        "Turner Syndrome",
+        "Obesity"
+      ],
+      "answer": "B",
+      "detail": "In kids, you should reflexively think about sickle cell if stones are present."
+    },
+    {
+      "number": 10,
+      "question": "What is the classic sonographic appearance of 'Dirty Shadowing'?",
+      "choices": [
+        "A single large stone",
+        "Air in the gallbladder wall (Emphysematous Cholecystitis)",
+        "A porcelain gallbladder",
+        "Sludge",
+        "A cholesterol polyp"
+      ],
+      "answer": "B",
+      "detail": "Dirty shadowing is the classic appearance of air in the wall."
+    },
+    {
+      "number": 11,
+      "question": " 'Clean Shadowing' on ultrasound is most typically associated with:",
+      "choices": [
+        "Air",
+        "Gallstones",
+        "Adenomyomatosis",
+        "Sloughed membranes",
+        "Abscess"
+      ],
+      "answer": "B",
+      "detail": "A gallbladder full of stones results in clean shadowing."
+    },
+    {
+      "number": 12,
+      "question": "Why might a gallstone NOT cast a shadow on ultrasound?",
+      "choices": [
+        "It is a cholesterol stone",
+        "It is mobile",
+        "It is smaller than 3 mm",
+        "The patient is too thin",
+        "It is attached to the wall"
+      ],
+      "answer": "C",
+      "detail": "Stones less than 3 mm in size may not cast a shadow."
+    },
+    {
+      "number": 13,
+      "question": "The sonographic Murphy sign is defined as maximal tenderness from the probe over the:",
+      "choices": [
+        "Epigastrium",
+        "Visualized gallbladder",
+        "Right lower quadrant",
+        "Umbilicus",
+        "Spleen"
+      ],
+      "answer": "B",
+      "detail": "It is maximal tenderness elicited by the probe directly over the gallbladder."
+    },
+    {
+      "number": 14,
+      "question": "Approximately what percentage of acute cholecystitis cases are caused by an obstructing stone?",
+      "choices": [
+        "50%",
+        "75%",
+        "95%",
+        "100%",
+        "10%"
+      ],
+      "answer": "C",
+      "detail": "Around 95% of cases are caused by a stone obstructing the cystic duct."
+    },
+    {
+      "number": 15,
+      "question": "A gallbladder diameter greater than how many centimeters is considered dilated?",
+      "choices": [
+        "2 cm",
+        "4 cm",
+        "6 cm",
+        "10 cm",
+        "15 cm"
+      ],
+      "answer": "B",
+      "detail": "Dilation of the gallbladder is defined as more than 4 cm in width."
+    },
+    {
+      "number": 16,
+      "question": "In gangrenous cholecystitis, the sonographic Murphy sign may be ABSENT because of:",
+      "choices": [
+        "Pain medication",
+        "Necrosis of the nerve supply",
+        "Spontaneous stone passage",
+        "Presence of air",
+        "Chronic inflammation"
+      ],
+      "answer": "B",
+      "detail": "The Murphy sign can be absent due to the necrosis of the nerve supply in advanced disease."
+    },
+    {
+      "number": 17,
+      "question": "'Sloughed Membranes' (cobwebs) on ultrasound are a buzzword for:",
+      "choices": [
+        "Emphysematous cholecystitis",
+        "Gangrenous cholecystitis",
+        "Acalculous cholecystitis",
+        "Porcelain gallbladder",
+        "Gallbladder polyps"
+      ],
+      "answer": "B",
+      "detail": "Sloughed membranes or 'cobwebs' is a specific buzzword for gangrenous cholecystitis."
+    },
+    {
+      "number": 18,
+      "question": "Emphysematous cholecystitis is most common in which patient population?",
+      "choices": [
+        "Young athletes",
+        "Elderly diabetics",
+        "Pregnant women",
+        "Patients with Sickle Cell",
+        "Infants with biliary atresia"
+      ],
+      "answer": "B",
+      "detail": "It is common in elderly diabetics and is more likely to perforate."
+    },
+    {
+      "number": 19,
+      "question": "Acute acalculous cholecystitis typically occurs after:",
+      "choices": [
+        "Eating high-fat meals",
+        "Severe hypotensive events (trauma, sepsis, or heart surgery)",
+        "Drinking too much water",
+        "Pregnancy",
+        "Biliary atresia repair"
+      ],
+      "answer": "B",
+      "detail": "It occurs after severe hypotension, such as major blood loss or heart surgery."
+    },
+    {
+      "number": 20,
+      "question": "Which nuclear medicine study is expected to be positive (non-visualization) in acalculous cholecystitis?",
+      "choices": [
+        "Sulfur Colloid",
+        "HIDA scan",
+        "RBC scan",
+        "Bone scan",
+        "Gallium scan"
+      ],
+      "answer": "B",
+      "detail": "A HIDA scan will be positive (gallbladder not visualized) in these cases."
+    },
+    {
+      "number": 21,
+      "question": "In Mirizzi Syndrome, a stone impacted in the cystic duct causes obstruction of the:",
+      "choices": [
+        "Common Bile Duct (CBD)",
+        "Common Hepatic Duct (CHD)",
+        "Main pancreatic duct",
+        "Duodenum",
+        "Portal vein"
+      ],
+      "answer": "B",
+      "detail": "The Common Hepatic Duct is obstructed secondary to the impacted cystic duct stone."
+    },
+    {
+      "number": 22,
+      "question": "Mirizzi Syndrome carries a fivefold increased risk for which malignancy?",
+      "choices": [
+        "HCC",
+        "Gallbladder Cancer",
+        "Pancreatic Adenocarcinoma",
+        "Lymphoma",
+        "Cholangiocarcinoma"
+      ],
+      "answer": "B",
+      "detail": "There is a 5x increased co-incidence risk of gallbladder cancer."
+    },
+    {
+      "number": 23,
+      "question": "'Bouveret Syndrome' is a form of gallstone ileus resulting in:",
+      "choices": [
+        "Midgut volvulus",
+        "Gastric outlet obstruction",
+        "Appendicitis",
+        "Large bowel obstruction",
+        "Rectal bleeding"
+      ],
+      "answer": "B",
+      "detail": "It is a gastric outlet obstruction occurring after a stone impacts the pylorus or duodenum."
+    },
+    {
+      "number": 24,
+      "question": "In Bouveret Syndrome, the stone accesses the bowel via:",
+      "choices": [
+        "The common bile duct",
+        "A fistula between the gallbladder and nearby small bowel",
+        "Retrograde flow from the rectum",
+        "Ingestion",
+        "The pancreatic duct"
+      ],
+      "answer": "B",
+      "detail": "A gallstone can erode through the gallbladder and form a fistula into the small bowel."
+    },
+    {
+      "number": 25,
+      "question": "Gallbladder Adenomyomatosis is defined by the presence of:",
+      "choices": [
+        "Crystals in Rokitansky-Aschoff sinuses",
+        "Fat in the wall",
+        "Multiple mobile stones",
+        "Large soft tissue masses",
+        "Gallbladder wall hemorrhage"
+      ],
+      "answer": "A",
+      "detail": "It results from wall hyperplasia with cholesterol crystals in Rokitansky-Aschoff sinuses."
+    },
+    {
+      "number": 26,
+      "question": "What is the 'highly specific' sonographic signature of adenomyomatosis?",
+      "choices": [
+        "Dirty shadowing",
+        "Clean shadowing",
+        "Comet-tail artifact",
+        "Target sign",
+        "Spinnaker sail sign"
+      ],
+      "answer": "C",
+      "detail": "The unique acoustic signature is the comet-tail artifact."
+    },
+    {
+      "number": 27,
+      "question": "In Gallbladder Cholesterolosis, where is the lipid deposition located?",
+      "choices": [
+        "Intraluminal",
+        "Within the substance of the lamina propria",
+        "In the muscularis propria",
+        "Only on the serosal surface",
+        "Within the liver"
+      ],
+      "answer": "B",
+      "detail": "Deposition is within the substance of the lamina propria."
+    },
+    {
+      "number": 28,
+      "question": "Which form of adenomyomatosis cannot be distinguished from gallbladder cancer?",
+      "choices": [
+        "Segmental",
+        "Localized (Fundal)",
+        "Generalized",
+        "Diffuse",
+        "They can all be distinguished"
+      ],
+      "answer": "B",
+      "detail": "The localized (fundal) form (adenomyoma) cannot be reliably differentiated from GB cancer."
+    },
+    {
+      "number": 29,
+      "question": "The term 'Adenomyosis' refers to pathology in which organ?",
+      "choices": [
+        "Gallbladder",
+        "Uterus",
+        "Pancreas",
+        "Prostate",
+        "Spleen"
+      ],
+      "answer": "B",
+      "detail": "Adenomyosis is in the uterus, while adenomyomatosis is in the gallbladder."
+    },
+    {
+      "number": 30,
+      "question": "A 'Porcelain Gallbladder' is characterized by:",
+      "choices": [
+        "Multiple stones",
+        "Extensive wall calcification",
+        "Sludge",
+        "Air in the lumen",
+        "A 'strawberry' appearance"
+      ],
+      "answer": "B",
+      "detail": "It refers to extensive wall calcification."
+    },
+    {
+      "number": 31,
+      "question": "What is the recommended treatment for a porcelain gallbladder?",
+      "choices": [
+        "Antibiotics",
+        "Surgical removal",
+        "Observation with serial US",
+        "Lithotripsy",
+        "Low-fat diet"
+      ],
+      "answer": "B",
+      "detail": "Because of the increased risk of GB cancer, they are surgically removed."
+    },
+    {
+      "number": 32,
+      "question": "What is the most common type of gallbladder polyp?",
+      "choices": [
+        "Adenoma",
+        "Papilloma",
+        "Cholesterol polyp",
+        "Fibroma",
+        "Hemangioma"
+      ],
+      "answer": "C",
+      "detail": "Cholesterol polyps are by far the most common type."
+    },
+    {
+      "number": 33,
+      "question": "Cholesterol polyps are essentially enlarged fronds full of:",
+      "choices": [
+        "Lipid-filled macrophages",
+        "Air bubbles",
+        "Red blood cells",
+        "Fibroblasts",
+        "Barium"
+      ],
+      "answer": "A",
+      "detail": "They are fronds full of lipid-filled macrophages attached to the wall by a stalk."
+    },
+    {
+      "number": 34,
+      "question": "Unlike stones, gallbladder polyps are characteristically:",
+      "choices": [
+        "Shadowing",
+        "NOT mobile and do NOT shadow",
+        "Only found in children",
+        "Always calcified",
+        "Always solitary"
+      ],
+      "answer": "B",
+      "detail": "Polyps are fixed to the wall (not mobile) and do not shadow."
+    },
+    {
+      "number": 35,
+      "question": "Surgical resection is usually considered for a gallbladder polyp once it reaches:",
+      "choices": [
+        "1 mm",
+        "3 mm",
+        "5 mm",
+        "1 cm",
+        "5 cm"
+      ],
+      "answer": "D",
+      "detail": "Once polyps reach 1 cm, they are typically removed due to malignancy risk."
+    },
+    {
+      "number": 36,
+      "question": "A classic gallbladder cancer vignette involves an elderly woman with RUQ pain, weight loss, and:",
+      "choices": [
+        "A long history of gallstones or PSC",
+        "Sudden onset diarrhea",
+        "Right-sided varicocele",
+        "Multiple gastric ulcers",
+        "Pregnancy"
+      ],
+      "answer": "A",
+      "detail": "High-risk factors include a long history of gallstones (85%) or PSC."
+    },
+    {
+      "number": 37,
+      "question": "Most gallbladder cancers present late, with 80% having tumor invasion of the:",
+      "choices": [
+        "Lung",
+        "Liver or portal nodes",
+        "Brain",
+        "Spleen",
+        "Kidney"
+      ],
+      "answer": "B",
+      "detail": "Most cases have direct tumor invasion of the liver at diagnosis."
+    },
+    {
+      "number": 38,
+      "question": "Which condition is a 'reflex generator' for gallbladder stones in a patient under 15?",
+      "choices": [
+        "Celiac Disease",
+        "Sickle Cell Disease",
+        "Cystic Fibrosis",
+        "Crohn's Disease",
+        "Turner Syndrome"
+      ],
+      "answer": "B",
+      "detail": "If you see a gallbladder full of stones in a kid, you should think Sickle Cell."
+    },
+    {
+      "number": 39,
+      "question": "In a HIDA scan, the gallbladder should normally fill within:",
+      "choices": [
+        "5 minutes",
+        "10 minutes",
+        "20 minutes",
+        "60 minutes",
+        "4 hours"
+      ],
+      "answer": "D",
+      "detail": "If the gallbladder hasn't filled within 60 minutes, it suggests obstruction."
+    },
+    {
+      "number": 40,
+      "question": "In HIDA imaging, the 'Rim Sign' suggests a more angry gallbladder and is seen in 20% of:",
+      "choices": [
+        "Chronic cholecystitis cases",
+        "Gangrenous cholecystitis cases",
+        "Gallstone cases",
+        "Healthy patients",
+        "Neonates"
+      ],
+      "answer": "B",
+      "detail": "The Rim Sign (pericholecystic hepatic activity) is associated with gangrenous cholecystitis."
+    },
+    {
+      "number": 41,
+      "question": "The mechanism of the HIDA 'Rim Sign' is:",
+      "choices": [
+        "Biliary obstruction",
+        "Regional hepatic hyperemia from inflammation",
+        "Bile leak",
+        "Liver necrosis",
+        "Renal failure"
+      ],
+      "answer": "B",
+      "detail": "It results from inflammation causing regional hepatic hyperemia."
+    },
+    {
+      "number": 42,
+      "question": "For a HIDA scan to be performed properly, the patient should fast for at least:",
+      "choices": [
+        "1 hour",
+        "4 hours",
+        "12 hours",
+        "24 hours",
+        "48 hours"
+      ],
+      "answer": "B",
+      "detail": "Patients must fast for at least four hours so the gallbladder is ready to fill."
+    },
+    {
+      "number": 43,
+      "question": "If a patient has not eaten for over 24 hours, what can be given before a HIDA scan to empty the gallbladder?",
+      "choices": [
+        "Morphine",
+        "CCK",
+        "Glucagon",
+        "Phenobarbital",
+        "Insulin"
+      ],
+      "answer": "B",
+      "detail": "CCK makes the gallbladder contract, emptying stagnant bile."
+    },
+    {
+      "number": 44,
+      "question": "'Phenobarbital' is used to prime the liver for HIDA scans in suspected biliary atresia to:",
+      "choices": [
+        "Block the cystic duct",
+        "Enhance biliary excretion of the tracer",
+        "Stop the patient from moving",
+        "Lower bilirubin levels",
+        "Cause the gallbladder to fill faster"
+      ],
+      "answer": "B",
+      "detail": "Phenobarbital is used to 'prime' the system and enhance biliary excretion."
+    },
+    {
+      "number": 45,
+      "question": "A 'Bile Leak' on HIDA imaging is best identified on:",
+      "choices": [
+        "1-minute images",
+        "Delayed images (looking in the right paracolic gutter)",
+        "5-minute images",
+        "Only on the flow phase",
+        "Images of the kidneys"
+      ],
+      "answer": "B",
+      "detail": "Delayed images are needed, specifically checking the right paracolic gutter."
+    },
+    {
+      "number": 46,
+      "question": "The 'Reappearing Liver Sign' on a HIDA scan is indicative of:",
+      "choices": [
+        "Hepatitis",
+        "Bile leak",
+        "Common duct obstruction",
+        "Chronic cholecystitis",
+        "Normal gallbladder filling"
+      ],
+      "answer": "B",
+      "detail": "Labeled bile tracks into the peri-hepatic space, coating the liver surface."
+    },
+    {
+      "number": 47,
+      "question": "Abnormal gallbladder emptying is defined by an Ejection Fraction (EF) of:",
+      "choices": [
+        "< 10%",
+        "< 20%",
+        "< 30%",
+        "< 50%",
+        "> 90%"
+      ],
+      "answer": "C",
+      "detail": "An EF < 30% indicates chronic cholecystitis."
+    },
+    {
+      "number": 48,
+      "question": "How does morphine assist in a HIDA scan for suspected acute cholecystitis?",
+      "choices": [
+        "It causes the gallbladder to contract",
+        "It triggers the sphincter of Oddi to contract, increasing back pressure",
+        "It relaxes the LES",
+        "It speeds up gastric emptying",
+        "It has no role"
+      ],
+      "answer": "B",
+      "detail": "Morphine promotes gallbladder visualization by increasing back pressure at the sphincter of Oddi."
+    },
+    {
+      "number": 49,
+      "question": "For a HIDA scan, 'No Gallbladder Activity' after 4 hours (or 1 hour + morphine) is the criteria for:",
+      "choices": [
+        "Hepatitis",
+        "Acute Cholecystitis",
+        "Chronic Cholecystitis",
+        "Biliary atresia",
+        "Normal function"
+      ],
+      "answer": "B",
+      "detail": "This is the diagnostic criteria for acute cholecystitis."
+    },
+    {
+      "number": 50,
+      "question": "'No Bowel Activity' with blood pool remaining normally on HIDA suggests:",
+      "choices": [
+        "Hepatitis",
+        "Common Duct Obstruction",
+        "Bile leak",
+        "Gallstone ileus",
+        "Chronic cholecystitis"
+      ],
+      "answer": "B",
+      "detail": "This pattern indicates a common duct obstruction."
+    },
+    {
+      "number": 51,
+      "question": "Which HIDA tracer agent is preferred in the setting of high bilirubin levels?",
+      "choices": [
+        "DTPA",
+        "DISIDA or BROMIDA",
+        "MAG3",
+        "Sulfur Colloid",
+        "MDP"
+      ],
+      "answer": "B",
+      "detail": "These agents are preferred when bilirubin levels are high."
+    },
+    {
+      "number": 52,
+      "question": "The critical organ for a HIDA scan is the:",
+      "choices": [
+        "Liver",
+        "Gallbladder Wall",
+        "Bladder",
+        "Spleen",
+        "Kidney"
+      ],
+      "answer": "B",
+      "detail": "The gallbladder wall is the critical organ for radiation dosimetry in HIDA."
+    },
+    {
+      "number": 53,
+      "question": "When sticking a toxic gallbladder for cholecystostomy, which approach stabilizes the wire better?",
+      "choices": [
+        "Transperitoneal",
+        "Transhepatic",
+        "Subcostal",
+        "Through the duodenum",
+        "Through the IVC"
+      ],
+      "answer": "B",
+      "detail": "A transhepatic approach stabilizes the wire and minimizes the risk of a leak."
+    },
+    {
+      "number": 54,
+      "question": "Cholecystostomy typically goes through which liver segments?",
+      "choices": [
+        "1 and 2",
+        "4a and 4b",
+        "5 and 6",
+        "7 and 8",
+        "It avoids liver tissue entirely"
+      ],
+      "answer": "C",
+      "detail": "The procedure typically traverses segments 5 and 6."
+    },
+    {
+      "number": 55,
+      "question": "A patient with 'Chilaiditi Syndrome' has:",
+      "choices": [
+        "Biliary atresia",
+        "Bowel interposed in front of the liver",
+        "A porcelain gallbladder",
+        "Multiple gallstones",
+        "Chronic pancreatitis"
+      ],
+      "answer": "B",
+      "detail": "It refers to bowel interposed in front of the liver."
+    },
+    {
+      "number": 56,
+      "question": "How long should a cholecystostomy tube be left in place to allow the tract to mature?",
+      "choices": [
+        "24 hours",
+        "1 week",
+        "2 to 6 weeks",
+        "6 months",
+        "1 year"
+      ],
+      "answer": "C",
+      "detail": "The tube must remain for 2–6 weeks to avoid a bile leak."
+    },
+    {
+      "number": 57,
+      "question": "Before removing a cholecystostomy tube, what should be performed first?",
+      "choices": [
+        "A cholangiogram to confirm the cystic duct is patent",
+        "A HIDA scan",
+        "A biopsy",
+        "An RBC scan",
+        "A gastric emptying study"
+      ],
+      "answer": "A",
+      "detail": "A cholangiogram must confirm the system is patent before tube removal."
+    },
+    {
+      "number": 58,
+      "question": "What is the classic 'Aunt Minnie' for gallbladder adenomyomatosis?",
+      "choices": [
+        "High stricture with hiatal hernia",
+        "Comet-tail artifact arising from the wall",
+        "'Apple core' lesion",
+        "'Coffee bean' sign",
+        "'Target sign'"
+      ],
+      "answer": "B",
+      "detail": "The comet-tail artifact is pathognomonic."
+    },
+    {
+      "number": 59,
+      "question": "In the 'Gamesmanship' for biliary procedures, what should you do if you encounter stones?",
+      "choices": [
+        "Stop the procedure",
+        "Dilute contrast to 200–250 mg/ml",
+        "Use high-density contrast",
+        "Biopsy the stones",
+        "Perform a TIPS"
+      ],
+      "answer": "B",
+      "detail": "Dilute the contrast to avoid obscuring small stones."
+    },
+    {
+      "number": 60,
+      "question": "Biliary 'Rigor' after contrast injection is a buzzword for:",
+      "choices": [
+        "Allergy",
+        "Cholangitis (biliary sepsis)",
+        "Heart failure",
+        "Normal recovery",
+        "Gallstone passage"
+      ],
+      "answer": "B",
+      "detail": "Forceful injection can cause instant biliary sepsis, described as rigors."
+    },
+    {
+      "number": 61,
+      "question": "What is the first-line 'temporizing measure' for a super sick patient with acalculous cholecystitis?",
+      "choices": [
+        "Radical cholecystectomy",
+        "Cholecystostomy",
+        "Antibiotics alone",
+        "ERCP",
+        "TIPS"
+      ],
+      "answer": "B",
+      "detail": "Cholecystostomy is the preferred help for patients too sick for surgery."
+    },
+    {
+      "number": 62,
+      "question": "Which artery is responsible for 'chemical cholecystitis' during a TACE procedure?",
+      "choices": [
+        "Cystic artery",
+        "Hepatic artery",
+        "GDA",
+        "Right gastric artery",
+        "Renal artery"
+      ],
+      "answer": "A",
+      "detail": "This occurs if the agent is injected proximal to the takeoff of the cystic artery."
+    },
+    {
+      "number": 63,
+      "question": "Gallbladder wall thickening in the setting of PSC is likely:",
+      "choices": [
+        "Normal",
+        "Biliary wall thickening (distinguishable from non-biliary causes)",
+        "Edema from CHF",
+        "Abscess",
+        "GIST met"
+      ],
+      "answer": "B",
+      "detail": "Wall thickening can occur from biliary causes like PSC."
+    },
+    {
+      "number": 64,
+      "question": "Cholesterolosis polyps are typically mobile?",
+      "choices": [
+        "Yes",
+        "No, they are attached to the wall",
+        "Only if they are > 1 cm",
+        "Only in children",
+        "Only after eating"
+      ],
+      "answer": "B",
+      "detail": "They are fixed to the wall by a stalk and are not mobile."
+    },
+    {
+      "number": 65,
+      "question": "Which of the following increases the risk of gallbladder cancer by 5x?",
+      "choices": [
+        "Phrygian cap",
+        "Mirizzi Syndrome",
+        "Gallbladder duplication",
+        "Duct of Luschka",
+        "Simple gallstones"
+      ],
+      "answer": "B",
+      "detail": "Mirizzi Syndrome has a well-described 5x increased risk of GB cancer."
+    },
+    {
+      "number": 66,
+      "question": " 'Porcelain Gallbladder' risk for cancer is described as:",
+      "choices": [
+        "Rare",
+        "Significant (enough to warrant surgical removal)",
+        "Non-existent",
+        "Decreased relative to the general population",
+        "Only in men"
+      ],
+      "answer": "B",
+      "detail": "The primary point is the significantly increased risk of GB cancer."
+    },
+    {
+      "number": 67,
+      "question": "A 'Duct of Luschka' is an:",
+      "choices": [
+        "Abnormal vein",
+        "Accessory cystic duct",
+        "Inflamed lymph node",
+        "Site of weakness in the hypopharynx",
+        "Pancreatic variant"
+      ],
+      "answer": "B",
+      "detail": "It is an accessory cystic duct."
+    },
+    {
+      "number": 68,
+      "question": "HIDA scan: No gallbladder activity at 1 hour, but seen after morphine injection. This is:",
+      "choices": [
+        "Chronic Cholecystitis",
+        "Acute Cholecystitis",
+        "Normal",
+        "Biliary atresia",
+        "Common duct obstruction"
+      ],
+      "answer": "A",
+      "detail": "If the GB fills after morphine, it is not acute cholecystitis; it suggests chronic disease."
+    },
+    {
+      "number": 69,
+      "question": "On ultrasound, stones smaller than 3 mm may not cast shadows because of:",
+      "choices": [
+        "Their chemistry",
+        "The beam width or frequency",
+        "Patient BMI",
+        "They are too soft",
+        "They are always mobile"
+      ],
+      "answer": "B",
+      "detail": "Reasons for no shadow include small size (< 3 mm) relative to beam width."
+    },
+    {
+      "number": 70,
+      "question": "What is the classic appearance of gangrenous cholecystitis on ultrasound?",
+      "choices": [
+        "Single stone and shadow",
+        "Sloughed membranes (cobwebs)",
+        "High-velocity jet",
+        "'Target sign'",
+        "'Central dot'"
+      ],
+      "answer": "B",
+      "detail": "Sloughed membranes or 'cobwebs' is the specific buzzword."
+    },
+    {
+      "number": 71,
+      "question": "In ultrasound terminology, 'Spectral' refers to:",
+      "choices": [
+        "Simple color flow",
+        "Color with a waveform",
+        "3D reconstruction",
+        "Shadowing",
+        "Power Doppler only"
+      ],
+      "answer": "B",
+      "detail": "'Spectral' indicates a Doppler shift represented as color with a waveform."
+    },
+    {
+      "number": 72,
+      "question": "Organs that require continuous blood flow, like the brain, typically demonstrate:",
+      "choices": [
+        "High resistance",
+        "Low resistance",
+        "No diastolic flow",
+        "Reversal of flow",
+        "Tardus parvus normally"
+      ],
+      "answer": "B",
+      "detail": "These organs have low resistance waveforms with continuous diastolic flow."
+    },
+    {
+      "number": 73,
+      "question": "What is the formula for the Resistive Index (RI)?",
+      "choices": [
+        "PSV / EDV",
+        "(PSV - EDV) / PSV",
+        "PSV - EDV",
+        "EDV / PSV",
+        "(EDV - PSV) / EDV"
+      ],
+      "answer": "B",
+      "detail": "RI is defined as (PSV - EDV) divided by PSV."
+    },
+    {
+      "number": 74,
+      "question": "The term 'Tardus' in a Tardus Parvus waveform refers to:",
+      "choices": [
+        "Decreased systolic velocity",
+        "A slowed systolic upstroke",
+        "Increased resistance",
+        "Reversal of flow",
+        "High peak systolic velocity"
+      ],
+      "answer": "B",
+      "detail": "Tardus refers specifically to a slowed systolic upstroke."
+    },
+    {
+      "number": 75,
+      "question": "The term 'Parvus' in a Tardus Parvus waveform refers to:",
+      "choices": [
+        "Slowed upstroke",
+        "Decreased systolic velocity (small systolic peak)",
+        "High RI",
+        "Pulsatile flow",
+        "Venous flow"
+      ],
+      "answer": "B",
+      "detail": "Parvus refers to a decreased systolic velocity (small peak)."
+    },
+    {
+      "number": 76,
+      "question": "An acceleration time greater than how many seconds correlates with >50% renal artery stenosis?",
+      "choices": [
+        "0.01 sec",
+        "0.05 sec",
+        "0.07 sec",
+        "0.10 sec",
+        "1.00 sec"
+      ],
+      "answer": "C",
+      "detail": "An acceleration time > 0.07 seconds is a marker for stenosis."
+    },
+    {
+      "number": 77,
+      "question": "'Tardus Parvus' is characteristically found:",
+      "choices": [
+        "Upstream from a stenosis",
+        "Downstream from a stenosis",
+        "Inside the stenosis",
+        "In normal vessels",
+        "Only in the IVC"
+      ],
+      "answer": "B",
+      "detail": "It is a finding located downstream from a significant arterial stenosis."
+    },
+    {
+      "number": 78,
+      "question": "In the relationship of the D-wave to S-wave in hepatic veins, 'D deeper than S' is associated with:",
+      "choices": [
+        "Right Heart Failure",
+        "Tricuspid Regurgitation",
+        "Portal Hypertension",
+        "Cirrhosis",
+        "Normal function"
+      ],
+      "answer": "B",
+      "detail": "Tricuspid regurgitation characteristically shows a D wave deeper than the S wave."
+    },
+    {
+      "number": 79,
+      "question": "In 'Right Heart Failure,' the relationship between hepatic vein waves is:",
+      "choices": [
+        "D deeper than S",
+        "S deeper than D",
+        "S is absent",
+        "D is absent",
+        "They are equal"
+      ],
+      "answer": "B",
+      "detail": "Right heart failure typically shows an S wave deeper than the D wave."
+    },
+    {
+      "number": 80,
+      "question": "Flow in the portal vein should normally be:",
+      "choices": [
+        "Away from the liver (Hepatofugal)",
+        "Towards the liver (Hepatopetal/Antegrade)",
+        "Pulsatile like an artery",
+        "Absent",
+        "To-and-fro"
+      ],
+      "answer": "B",
+      "detail": "Normal flow is towards the liver (hepatopetal)."
+    },
+    {
+      "number": 81,
+      "question": "What is the normal velocity in the portal vein?",
+      "choices": [
+        "5–10 cm/s",
+        "20–40 cm/s",
+        "50–100 cm/s",
+        "150 cm/s",
+        "0 cm/s"
+      ],
+      "answer": "B",
+      "detail": "Normal portal vein velocity is between 20–40 cm/s."
+    },
+    {
+      "number": 82,
+      "question": "Which of the following can cause 'Portal Vein Pulsatility'?",
+      "choices": [
+        "Right-sided CHF or Tricuspid Regurg",
+        "Renal failure",
+        "Gastric ulcers",
+        "Appendicitis",
+        "Normal fasting"
+      ],
+      "answer": "A",
+      "detail": "Right-sided CHF and Tricuspid Regurgitation both cause pulsatility in the portal vein."
+    },
+    {
+      "number": 83,
+      "question": "What is the single biggest cause of 'Portal Vein Reversed Flow'?",
+      "choices": [
+        "Right Heart Failure",
+        "Portal HTN",
+        "Spleen trauma",
+        "SMA syndrome",
+        "Eating a fatty meal"
+      ],
+      "answer": "B",
+      "detail": "Portal hypertension is the primary cause of reversed (hepatofugal) flow."
+    },
+    {
+      "number": 84,
+      "question": "Portal vein velocity less than how many cm/s is considered 'Slow Flow'?",
+      "choices": [
+        "5 cm/s",
+        "10 cm/s",
+        "15 cm/s",
+        "20 cm/s",
+        "40 cm/s"
+      ],
+      "answer": "C",
+      "detail": "Velocities less than 15 cm/s define slow flow."
+    },
+    {
+      "number": 85,
+      "question": "What is the ideal angle for Doppler ultrasound measurements?",
+      "choices": [
+        "90 degrees",
+        "75 degrees",
+        "Less than 60 degrees",
+        "0 degrees",
+        "180 degrees"
+      ],
+      "answer": "C",
+      "detail": "The optimal Doppler angle is always less than 60 degrees."
+    },
+    {
+      "number": 86,
+      "question": "Why is a Doppler angle of 90 degrees avoided?",
+      "choices": [
+        "It causes aliasing",
+        "The cosine of 90 is 0, meaning no Doppler shift is detected",
+        "It shadows the vessels",
+        "It increases the RI",
+        "It causes 'dirty shadowing'"
+      ],
+      "answer": "B",
+      "detail": "Because Cos 90 = 0, no Doppler shift is detected at this angle."
+    },
+    {
+      "number": 87,
+      "question": "When performing a TIPS procedure, the needle should be turned in which direction?",
+      "choices": [
+        "Posterior",
+        "Anterior",
+        "Lateral",
+        "Medial",
+        "Superior"
+      ],
+      "answer": "B",
+      "detail": "The needle is turned anterior to target the portal vein."
+    },
+    {
+      "number": 88,
+      "question": "Turning the TIPS needle posteriorly is the 'incorrect form of twisting' and risks:",
+      "choices": [
+        "Liver infarct",
+        "Pneumothorax",
+        "Spleen rupture",
+        "Ascites",
+        "Renal failure"
+      ],
+      "answer": "B",
+      "detail": "Twisting posteriorly risks a pneumothorax."
+    },
+    {
+      "number": 89,
+      "question": "An enlarged portal vein (>1.3–1.5 cm) on ultrasound is a sign of:",
+      "choices": [
+        "Hepatitis",
+        "Portal Hypertension",
+        "Normal development",
+        "Cholecystitis",
+        "Spleen trauma"
+      ],
+      "answer": "B",
+      "detail": "An enlarged portal vein is a hallmark of portal hypertension."
+    },
+    {
+      "number": 90,
+      "question": "An enlarged splenic vein diameter of greater than how many centimeters suggests Portal HTN?",
+      "choices": [
+        "0.5 cm",
+        "1.0 cm",
+        "1.2 cm",
+        "2.0 cm",
+        "5.0 cm"
+      ],
+      "answer": "C",
+      "detail": "A splenic vein diameter > 1.2 cm is an ultrasound marker for portal hypertension."
+    },
+    {
+      "number": 91,
+      "question": "In a normal portal vein waveform, it should be:",
+      "choices": [
+        "Below the baseline",
+        "A gentle undulation always remaining above the baseline",
+        "Flat like a line",
+        "Spiky like an artery",
+        "Absent"
+      ],
+      "answer": "B",
+      "detail": "The normal waveform is a gentle undulation above the baseline."
+    },
+    {
+      "number": 92,
+      "question": "What is the therapeutic 'goal' for the portosystemic gradient (PSG) after a TIPS?",
+      "choices": [
+        "> 20 mmHg",
+        "Less than 12 mmHg",
+        "Exactly 0 mmHg",
+        "50 mmHg",
+        "It is never measured"
+      ],
+      "answer": "B",
+      "detail": "The goal is to reduce the gradient to less than 12 mmHg."
+    },
+    {
+      "number": 93,
+      "question": "Before performing a TIPS, which study is mandatory to evaluate for heart failure?",
+      "choices": [
+        "CT abdomen",
+        "ECHO",
+        "RBC scan",
+        "PET/CT",
+        "Barium swallow"
+      ],
+      "answer": "B",
+      "detail": "An ECHO is required because elevated right heart pressure is a contraindication to TIPS."
+    },
+    {
+      "number": 94,
+      "question": "'Portal HTN' is defined as a portal vein pressure greater than:",
+      "choices": [
+        "5 mmHg",
+        "10 mmHg",
+        "50 mmHg",
+        "100 mmHg",
+        "150 mmHg"
+      ],
+      "answer": "B",
+      "detail": "Portal hypertension is defined by a pressure > 10 mmHg."
+    },
+    {
+      "number": 95,
+      "question": "A 'Normal' right heart pressure is approximately:",
+      "choices": [
+        "0 mmHg",
+        "5 mmHg",
+        "15 mmHg",
+        "20 mmHg",
+        "100 mmHg"
+      ],
+      "answer": "B",
+      "detail": "Normal right heart pressure is around 5 mmHg."
+    },
+    {
+      "number": 96,
+      "question": "Sticking 'Crotch to Crotch' in a TIPS procedure typically refers to which path?",
+      "choices": [
+        "Left Hepatic Vein to Right Portal Vein",
+        "Right Hepatic Vein to Right Portal Vein",
+        "IVC to SMV",
+        "Splenic vein to Renal vein",
+        "Hepatic artery to Portal vein"
+      ],
+      "answer": "B",
+      "detail": "This refers to the standard 'Right-to-Right' stick between these vessels."
+    },
+    {
+      "number": 97,
+      "question": "The 'Simplest prognostic measure' for 30-day mortality after TIPS is:",
+      "choices": [
+        "Creatinine",
+        "Serum Bilirubin",
+        "Heart rate",
+        "Patient age",
+        "WBC count"
+      ],
+      "answer": "B",
+      "detail": "A serum bilirubin > 3 mg/dL is associated with significantly increased 30-day mortality."
+    },
+    {
+      "number": 98,
+      "question": "The MELD score is calculated based on which three parameters?",
+      "choices": [
+        "Albumin, PT, and Ascites",
+        "Bilirubin, INR, and Creatinine",
+        "WBC, AST, and ALT",
+        "Glucose, Sodium, and Potassium",
+        "Hemoglobin, Platelets, and Bilirubin"
+      ],
+      "answer": "B",
+      "detail": "MELD is based on Bilirubin, INR, and Creatinine."
+    },
+    {
+      "number": 99,
+      "question": "Which of the following is NOT part of the Child-Pugh score calculation?",
+      "choices": [
+        "Bilirubin",
+        "Albumin",
+        "Ascites",
+        "Creatinine",
+        "Hepatic Encephalopathy"
+      ],
+      "answer": "D",
+      "detail": "Creatinine is used in MELD; Child-Pugh uses albumin, ascites, and encephalopathy."
+    },
+    {
+      "number": 100,
+      "question": "A MELD score greater than how many is considered 'high risk of death'?",
+      "choices": [
+        "5",
+        "10",
+        "18",
+        "24",
+        "40"
+      ],
+      "answer": "C",
+      "detail": "MELD scores > 18 are considered high risk."
+    }
+  ]
+}
+

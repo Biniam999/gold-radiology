@@ -1,0 +1,706 @@
+{
+    "questions": 
+
+[
+  {
+    "number": 1,
+    "question": "Which type of odontoid fracture is considered the \"most common\"?",
+    "choices": ["A. Type 1", "B. Type 2", "C. Type 3", "D. Type 4", "E. Jefferson fracture"],
+    "answer": "B",
+    "detail": "Type 2 fractures occur at the base of the dens and are the most common odontoid injury."
+  },
+  {
+    "number": 2,
+    "question": "Which odontoid fracture is associated with the \"best prognosis for healing\"?",
+    "choices": ["A. Type 1", "B. Type 2", "C. Type 3", "D. Jefferson fracture", "E. Hangman's fracture"],
+    "answer": "C",
+    "detail": "Type 3 fractures, which extend into the body of C2, have the best prognosis for healing."
+  },
+  {
+    "number": 3,
+    "question": "Type 1 odontoid fractures are rare and are characteristically related to:",
+    "choices": ["A. Hyperflexion", "B. Axial loading", "C. Avulsion of the alar ligament", "D. Seatbelt injuries", "E. Diving into a pool"],
+    "answer": "C",
+    "detail": "A Type 1 fracture occurs at the upper part of the odontoid and is related to alar ligament avulsion."
+  },
+  {
+    "number": 4,
+    "question": "A \"Jefferson Fracture\" is an axial loading injury classically characterized by:",
+    "choices": ["A. Fracture of the bilateral pars of C2", "B. The anterior and posterior arches of C1 blowing out laterally", "C. Avulsion of the dens apex", "D. Horizontal fracture through L1", "E. Retropulsion of a bone fragment"],
+    "answer": "B",
+    "detail": "In a Jefferson fracture, the C1 ring \"blows out\" laterally due to axial force."
+  },
+  {
+    "number": 5,
+    "question": "What percentage of Jefferson fractures are associated with a concomitant C2 fracture?",
+    "choices": ["A. 1%", "B. 10%", "C. 30%", "D. 50%", "E. 90%"],
+    "answer": "C",
+    "detail": "Approximately 30% of patients with a Jefferson fracture will also have a C2 fracture."
+  },
+  {
+    "number": 6,
+    "question": "Neurologic (cord) damage is rare in a Jefferson fracture because:",
+    "choices": ["A. The cord is not present at C1.", "B. The force is directed into the bones and the canal widens.", "C. C1 is a flexible bone.", "D. The ligaments always stay intact.", "E. The fractures are always stable."],
+    "answer": "B",
+    "detail": "Cord damage is rare because the arches blow outward, effectively widening the canal."
+  },
+  {
+    "number": 7,
+    "question": "How is \"Os Odontoideum\" distinguished from an acute Type 2 odontoid fracture?",
+    "choices": ["A. It is always associated with trauma.", "B. The base of the dens is usually hypoplastic/absent.", "C. It is only seen in adults.", "D. It is always stable.", "E. It is bright on T1."],
+    "answer": "B",
+    "detail": "In Os Odontoideum, the dens base is hypoplastic, whereas it is normal in an acute fracture."
+  },
+  {
+    "number": 8,
+    "question": "An \"Os Terminale\" is a variant located at:",
+    "choices": ["A. The base of the dens", "B. The odontoid tip", "C. The C1 arch", "D. The clivus", "E. The coccyx"],
+    "answer": "B",
+    "detail": "The Os Terminale is an ossicle located at the tip of the odontoid."
+  },
+  {
+    "number": 9,
+    "question": "\"Hangman’s Fracture\" characteristically involves a fracture through the:",
+    "choices": ["A. Anterior arch of C1", "B. Bilateral pars of C2", "C. Odontoid base", "D. C7 spinous process", "E. S1 ala"],
+    "answer": "B",
+    "detail": "A Hangman's fracture is defined as a fracture through the bilateral pars (or pedicles) of C2."
+  },
+  {
+    "number": 10,
+    "question": "The mechanism of injury for a Hangman's fracture is typically:",
+    "choices": ["A. Hyperflexion", "B. Hyperextension (e.g., chin hitting a dashboard)", "C. Axial loading", "D. Rotation", "E. Distraction"],
+    "answer": "B",
+    "detail": "It is seen most commonly when the chin hits the dashboard in an MVA, causing hyperextension."
+  },
+  {
+    "number": 11,
+    "question": "Why is cord damage uncommon in a Hangman's fracture despite its unstable nature?",
+    "choices": ["A. The pars are not near the cord.", "B. The acquired pars defect allows for canal widening.", "C. The fractures are usually non-displaced.", "D. CN 12 protects the cord.", "E. It only occurs in children."],
+    "answer": "B",
+    "detail": "Similar to a Jefferson, the pars defect allows the canal to widen, reducing the risk of cord compression."
+  },
+  {
+    "number": 12,
+    "question": "A \"Chance Fracture\" is an unstable 3-column fracture classically associated with:",
+    "choices": ["A. Diving into a shallow pool", "B. Lap-band seatbelts", "C. Direct blow to the face", "D. Osteoporosis", "E. IV drug use"],
+    "answer": "B",
+    "detail": "The Chance fracture is a flexion-distraction injury classically caused by a lap-band seatbelt."
+  },
+  {
+    "number": 13,
+    "question": "Chance fractures are most commonly located at which level?",
+    "choices": ["A. C1–C2", "B. C7–T1", "C. Thoracolumbar junction (T12–L2)", "D. L5–S1", "E. Mid-thoracic spine"],
+    "answer": "C",
+    "detail": "These fractures are most frequent at the upper lumbar levels and thoracolumbar junction."
+  },
+  {
+    "number": 14,
+    "question": "Patients with a Chance fracture have a high association with:",
+    "choices": ["A. Blindness", "B. Solid organ trauma", "C. Brain death", "D. Hearing loss", "E. Legg-Calve-Perthes"],
+    "answer": "B",
+    "detail": "There is a high association with solid organ trauma due to the mechanism of the lap belt."
+  },
+  {
+    "number": 15,
+    "question": "A \"Unilateral Locked Facet\" is a stable injury that demonstrates which sign on axial imaging?",
+    "choices": ["A. Inverted hamburger sign", "B. Empty thecal sac sign", "C. Owl’s eye sign", "D. Mount Fuji sign", "E. Target sign"],
+    "answer": "A",
+    "detail": "A unilateral locked facet shows the inverted hamburger sign on the dislocated side."
+  },
+  {
+    "number": 16,
+    "question": "\"Bilateral Locked Facets\" are considered highly unstable and are strongly associated with:",
+    "choices": ["A. Normal outcome", "B. Spinal cord injury", "C. Facet arthropathy only", "D. Sclerotic pedicles", "E. Pilonidal sinus"],
+    "answer": "B",
+    "detail": "Bilateral facets involve disruption of the posterior ligaments and are strongly associated with cord injury."
+  },
+  {
+    "number": 17,
+    "question": "\"Atlantoaxial Instability\" (predental space > 5 mm) is classically associated with:",
+    "choices": ["A. NF-1", "B. Down Syndrome and Juvenile RA", "C. VHL", "D. Turner Syndrome", "E. Klinefelter Syndrome"],
+    "answer": "B",
+    "detail": "The high-yield associations for atlantoaxial instability are Down syndrome and juvenile RA."
+  },
+  {
+    "number": 18,
+    "question": "\"Rotary Subluxation\" of C1–C2 in a child produces the \"cock-robin\" position and is often called:",
+    "choices": ["A. Torticollis", "B. Hangman’s", "C. Chance", "D. Spondylolysis", "E. Scoliosis"],
+    "answer": "A",
+    "detail": "Rotary subluxation in kids looks like torticollis; it rarely happens in adults without a fracture."
+  },
+  {
+    "number": 19,
+    "question": "\"Spondylolysis\" (pars interarticularis defect) is a stress fracture most commonly found at:",
+    "choices": ["A. C2", "B. T12", "C. L4", "D. L5 (90%)", "E. S1"],
+    "answer": "D",
+    "detail": "Pars defects are nearly always at L5 (90%)."
+  },
+  {
+    "number": 20,
+    "question": "On oblique plain films, a pars defect is described as a:",
+    "choices": ["A. Collar on the \"Scottie Dog\"", "B. Eye on the Scottie Dog", "C. Tail on the Scottie Dog", "D. Inverted V sign", "E. Bamboo spine"],
+    "answer": "A",
+    "detail": "The \"collar on the Scottie Dog\" is the classic plain film look for spondylolysis."
+  },
+  {
+    "number": 21,
+    "question": "In the \"Denis 3 Spinal Column Concept,\" instability is suggested when:",
+    "choices": ["A. Only the anterior column is disrupted.", "B. Two or three contiguous columns are disrupted.", "C. Only the posterior column is involved.", "D. The disc is narrowed.", "E. There is a Schmorl node."],
+    "answer": "B",
+    "detail": "Instability is suggested if all 3 or 2 contiguous columns (including the middle column) are disrupted."
+  },
+  {
+    "number": 22,
+    "question": "According to the Powers Ratio for occipitocervical instability, a ratio greater than what threshold is abnormal?",
+    "choices": ["A. 0.5", "B. 0.85", "C. 1.0", "D. 1.2", "E. 12.0"],
+    "answer": "C",
+    "detail": "A Powers Ratio > 1.0 indicates ligamentous instability."
+  },
+  {
+    "number": 23,
+    "question": "\"Harris Lines (Rule of 12)\" states that the Basion-Dens distance should be:",
+    "choices": ["A. Less than 12 mm", "B. Greater than 12 mm", "C. Equal to the BPD", "D. Exactly 1.0", "E. Only measured in adults"],
+    "answer": "A",
+    "detail": "The Basion-Dens and Basion-Posterior Axial distances should both be less than 12 mm."
+  },
+  {
+    "number": 24,
+    "question": "\"Clay-Shoveler’s Fracture\" is an avulsion of the spinous process at C7 or T1 caused by:",
+    "choices": ["A. Hyperextension", "B. Hyperflexion", "C. Axial loading", "D. Seatbelts", "E. Direct trauma"],
+    "answer": "B",
+    "detail": "A Clay-Shoveler's fracture results from hyperflexion."
+  },
+  {
+    "number": 25,
+    "question": "Which of the following is considered a \"STABLE\" spine fracture?",
+    "choices": ["A. Flexion Tear Drop", "B. Bilateral Facet Dislocation", "C. Clay-Shoveler’s Fracture", "D. Jefferson Fracture", "E. Hangman Fracture"],
+    "answer": "C",
+    "detail": "Clay-Shoveler’s and Transverse Process fractures are listed as stable injuries."
+  },
+  {
+    "number": 26,
+    "question": "A \"Flexion Tear Drop\" fracture is considered:",
+    "choices": ["A. Stable", "B. Unstable", "C. A normal variant", "D. Only found in the lumbar spine", "E. Always associated with syphilis"],
+    "answer": "B",
+    "detail": "A flexion tear drop is a highly unstable injury."
+  },
+  {
+    "number": 27,
+    "question": "In \"Central Cord Syndrome,\" which clinical deficit pattern is characteristic?",
+    "choices": ["A. Lower extremity deficit worse than upper", "B. Upper extremity deficit worse than lower", "C. Total immediate paralysis", "D. Loss of proprioception only", "E. Only one side is affected"],
+    "answer": "B",
+    "detail": "In Central Cord Syndrome, the upper extremity deficit is worse because those tracts are more medial in the cord."
+  },
+  {
+    "number": 28,
+    "question": "Who is the \"classic\" patient for Central Cord Syndrome?",
+    "choices": ["A. An old lady with spondylosis or a young person with an extension injury", "B. A male teenager with a flexion injury", "C. An infant with a breech birth", "D. A diabetic smoker", "E. A patient with Down syndrome"],
+    "answer": "A",
+    "detail": "This syndrome is classically seen in elderly patients with spondylosis or extension trauma."
+  },
+  {
+    "number": 29,
+    "question": "\"Anterior Cord Syndrome\" is characteristically caused by which mechanism?",
+    "choices": ["A. Extension", "B. Flexion Injury", "C. Penetrating trauma", "D. Axial loading", "E. Rotation"],
+    "answer": "B",
+    "detail": "Anterior Cord Syndrome is typically the result of a flexion injury."
+  },
+  {
+    "number": 30,
+    "question": "Which sensations remain INTACT in Anterior Cord Syndrome?",
+    "choices": ["A. Pain and Temperature", "B. Motor function", "C. Proprioception and Vibration (dorsal columns)", "D. All sensations are lost", "E. Only the right side is intact"],
+    "answer": "C",
+    "detail": "Motor and anterior column (pain/temp) functions are lost, but dorsal column sensations (proprioception/vibration) stay intact."
+  },
+  {
+    "number": 31,
+    "question": "\"Brown Sequard Syndrome\" results from a cord hemisection and features:",
+    "choices": ["A. Bilateral motor loss", "B. Ipsilateral (one side) motor and contralateral sensory deficits", "C. Bilateral sensory loss only", "D. Total paralysis", "E. \"Sunset eyes\""],
+    "answer": "B",
+    "detail": "This syndrome involves motor loss on one side and sensory loss on the other."
+  },
+  {
+    "number": 32,
+    "question": "\"Posterior Cord Syndrome\" is uncommon but can be seen with hyperextension, resulting in loss of:",
+    "choices": ["A. Motor function", "B. Pain sensation", "C. Proprioception", "D. Temperature sensation", "E. Bladder control"],
+    "answer": "C",
+    "detail": "The hallmark is the loss of proprioception."
+  },
+  {
+    "number": 33,
+    "question": "What is the \"most important factor for outcome\" in a traumatic spinal cord injury?",
+    "choices": ["A. Length of the fracture", "B. Presence of a hemorrhagic spinal cord injury", "C. Age of the patient", "D. The amount of CSF leaking", "E. Type of seatbelt used"],
+    "answer": "B",
+    "detail": "The presence of hemorrhage in the cord is the most critical factor for a poor outcome."
+  },
+  {
+    "number": 34,
+    "question": "According to the \"Canadian C-Spine Rule,\" imaging is indicated if the patient is:",
+    "choices": ["A. Under age 20", "B. Age 65 or older", "C. A professional athlete", "D. Only if they have a headache", "E. Only after a fall from 1 foot"],
+    "answer": "B",
+    "detail": "Age ≥ 65 is a high-risk factor requiring imaging under the Canadian C-Spine Rule."
+  },
+  {
+    "number": 35,
+    "question": "Under the \"NEXUS Criteria,\" you CANNOT \"clear\" a cervical spine if the patient is:",
+    "choices": ["A. Hungry", "B. Intoxicated", "C. Sleeping", "D. Pregnant", "E. Over age 40"],
+    "answer": "B",
+    "detail": "Intoxication prevents clinical clearance of the spine."
+  },
+  {
+    "number": 36,
+    "question": "How many types of spinal vascular malformations (AVM/AVF) are generally described?",
+    "choices": ["A. 2", "B. 4", "C. 6", "D. 10", "E. 12"],
+    "answer": "B",
+    "detail": "There are 4 types of spinal malformations."
+  },
+  {
+    "number": 37,
+    "question": "Which type of spinal vascular malformation is \"by far the most common\" (85%)?",
+    "choices": ["A. Type 2 Intramedullary AVM", "B. Type 1 Dural AVF", "C. Type 3 Juvenile AVM", "D. Type 4 Perimedullary fistula", "E. Glomus tumor"],
+    "answer": "B",
+    "detail": "The Type 1 Dural AVF accounts for 85% of cases."
+  },
+  {
+    "number": 38,
+    "question": "Type 1 Dural AVFs are typically:",
+    "choices": ["A. Congenital malformations in kids", "B. Acquired lesions seen in older patients", "C. Always fatal within 1 week", "D. Bright on T1", "E. Only seen in the cervical spine"],
+    "answer": "B",
+    "detail": "These are acquired and usually seen in older patients presenting with radiculomyelopathy."
+  },
+  {
+    "number": 39,
+    "question": "What is considered the \"gold standard\" for the diagnosis of a spinal dural AVF?",
+    "choices": ["A. MRA", "B. CTA", "C. Angiography", "D. Non-contrast CT", "E. Ultrasound"],
+    "answer": "C",
+    "detail": "Angiography is the gold standard for diagnosis."
+  },
+  {
+    "number": 40,
+    "question": "On MRI, a Dural AVF characteristically shows a swollen cord with:",
+    "choices": ["A. Macrocalcifications", "B. Serpentine perimedullary flow voids (usually dorsal)", "C. Bulk fat", "D. \"Onion skin\" appearance", "E. A \"Mini Brain\" appearance"],
+    "answer": "B",
+    "detail": "Look for T2 high signal in the cord and serpentine flow voids along the surface."
+  },
+  {
+    "number": 41,
+    "question": "Which spinal vascular malformation has an \"Intramedullary Nidus\" and is associated with HHT?",
+    "choices": ["A. Type 1", "B. Type 2", "C. Type 3", "D. Type 4", "E. Phlebectasia"],
+    "answer": "B",
+    "detail": "Type 2 features an intramedullary nidus and associations with HHT and KTS."
+  },
+  {
+    "number": 42,
+    "question": "\"Type 3\" spinal malformations are also known as the \"Juvenile\" type and carry:",
+    "choices": ["A. The best prognosis", "B. A terrible prognosis", "C. 100% cure rate with aspirin", "D. Association with Down syndrome", "E. No clinical significance"],
+    "answer": "B",
+    "detail": "The Type 3 Juvenile malformation has a terrible prognosis."
+  },
+  {
+    "number": 43,
+    "question": "\"Type 4\" Perimedullary fistulas tend to occur near which location?",
+    "choices": ["A. C1", "B. The thyroid", "C. The Conus", "D. The eyes", "E. The sacrum"],
+    "answer": "C",
+    "detail": "Type 4 fistulas usually occur near the conus."
+  },
+  {
+    "number": 44,
+    "question": "\"Foix Alajouanine Syndrome\" is defined as a congestive myelopathy caused by:",
+    "choices": ["A. A primary cord tumor", "B. Venous hypertension from a Dural AVF", "C. Vitamin B12 deficiency", "D. Lead poisoning", "E. A ghost blowing out a back"],
+    "answer": "B",
+    "detail": "This syndrome is caused by chronic venous hypertension related to an AVF."
+  },
+  {
+    "number": 45,
+    "question": "The classic clinical history for Foix Alajouanine Syndrome involves a 45-year-old male with:",
+    "choices": ["A. Sudden blindness", "B. Lower extremity weakness and sensory deficits", "C. Nosebleeds", "D. Shoulder pain", "E. Excessive farting"],
+    "answer": "B",
+    "detail": "The hallmark is progressive lower extremity weakness."
+  },
+  {
+    "number": 46,
+    "question": "A \"Syrinx\" is also known more simply as:",
+    "choices": ["A. A solid tumor", "B. A \"hole in the cord\"", "C. A calcified nerve", "D. A fatty mass", "E. A vascular bleed"],
+    "answer": "B",
+    "detail": "A syrinx is basically a \"hole in the cord\"."
+  },
+  {
+    "number": 47,
+    "question": "\"Hydromyelia\" is specifically a type of syrinx that is:",
+    "choices": ["A. Lined by ependyma", "B. Not lined by ependyma", "C. Filled with blood", "D. Only found in the brain", "E. Always malignant"],
+    "answer": "A",
+    "detail": "Hydromyelia is lined by ependyma; syringomyelia is not."
+  },
+  {
+    "number": 48,
+    "question": "What percentage of cord dilations are congenital and associated with conditions like Chiari?",
+    "choices": ["A. 10%", "B. 50%", "C. 75%", "D. 90%", "E. 100%"],
+    "answer": "D",
+    "detail": "90% of these are congenital and associated with Chiari, Dandy-Walker, etc."
+  },
+  {
+    "number": 49,
+    "question": "The \"Owl’s Eye\" sign on T2 axial MRI is a pathognomonic buzzword for:",
+    "choices": ["A. Multiple Sclerosis", "B. Spinal Cord Infarct (Anterior Spinal Artery)", "C. Polio", "D. NMO", "E. B12 deficiency"],
+    "answer": "B",
+    "detail": "The \"owl's eye\" appearance in the anterior horns is classic for infarct."
+  },
+  {
+    "number": 50,
+    "question": "Spinal cord infarcts are most commonly caused by impairment of which vessel?",
+    "choices": ["A. Anterior Spinal Artery", "B. Posterior Spinal Artery", "C. Artery of Adamkiewicz only", "D. Vertebral artery", "E. Celiac axis"],
+    "answer": "A",
+    "detail": "Impairment of the Anterior Spinal Artery is most common."
+  },
+  {
+    "number": 51,
+    "question": "In a cord infarct, the T2 high signal is localized to the center/anterior horns because:",
+    "choices": ["A. The posterior cord has no blood.", "B. Gray matter is more vulnerable to ischemia.", "C. White matter enhances more.", "D. It represents a tumor.", "E. It is caused by Campylobacter."],
+    "answer": "B",
+    "detail": "Gray matter has a higher metabolic rate and is more vulnerable to ischemia."
+  },
+  {
+    "number": 52,
+    "question": "What is the \"most common\" cause of a spinal cord infarct?",
+    "choices": ["A. Trauma", "B. Idiopathic", "C. Aortic stent grafting", "D. Syphilis", "E. High protein diet"],
+    "answer": "B",
+    "detail": "The most common cause is considered \"idiopathic\"."
+  },
+  {
+    "number": 53,
+    "question": "In the real world, the \"most common\" cause of T2-bright cord demyelination is:",
+    "choices": ["A. NMO", "B. ADEM", "C. Multiple Sclerosis (MS)", "D. Transverse Myelitis", "E. HIV"],
+    "answer": "C",
+    "detail": "MS is by far the most common cause of demyelinating cord lesions."
+  },
+  {
+    "number": 54,
+    "question": "MS lesions in the cord are characteristically:",
+    "choices": ["A. Long segment (> 3 segments)", "B. Short segment (< 2 segments) and eccentric", "C. Always symmetric", "D. Involving the full cord width", "E. Calcified"],
+    "answer": "B",
+    "detail": "MS lesions are typically short segment (< 2) and involve less than half the cord width."
+  },
+  {
+    "number": 55,
+    "question": "\"Transverse Myelitis\" (TM) is a focal inflammation where lesions typically involve:",
+    "choices": ["A. Less than 1/3 of the cord width", "B. At least 2/3 of the cross-sectional area of the cord", "C. Only the dorsal columns", "D. Only the nerve roots", "E. The vertebral body only"],
+    "answer": "B",
+    "detail": "TM typically involves at least 2/3 of the cord area and causes focal enlargement."
+  },
+  {
+    "number": 56,
+    "question": "\"Neuromyelitis Optica\" (NMO or Devics) is distinguished from MS because it involves the cord and:",
+    "choices": ["A. The ears", "B. The Optic Nerves", "C. The cerebellum", "D. The pituitary", "E. The feet"],
+    "answer": "B",
+    "detail": "NMO is Optic Neuritis plus Transverse Myelitis."
+  },
+  {
+    "number": 57,
+    "question": "NMO cord lesions differ from MS because they are typically:",
+    "choices": ["A. Short segment", "B. Long segment and involve the full transverse diameter", "C. Sclerotic on CT", "D. Found in infants only", "E. T1 bright"],
+    "answer": "B",
+    "detail": "NMO is longer and more extensive than MS."
+  },
+  {
+    "number": 58,
+    "question": "\"Subacute Combined Degeneration\" (SCD) is caused by a deficiency in:",
+    "choices": ["A. Vitamin A", "B. Vitamin B12 (Cobalamin)", "C. Vitamin D", "D. Iron", "E. Calcium"],
+    "answer": "B",
+    "detail": "SCD is caused by Vitamin B12 deficiency."
+  },
+  {
+    "number": 59,
+    "question": "The classic imaging sign for SCD on T2 axial MRI is the:",
+    "choices": ["A. Owl's eye sign", "B. Inverted V sign (bilateral symmetric dorsal column signal)", "C. Mount Fuji sign", "D. Swirl sign", "E. Target sign"],
+    "answer": "B",
+    "detail": "Bilateral dorsal column signal creates the \"inverted V sign\"."
+  },
+  {
+    "number": 60,
+    "question": "Which condition in untreated AIDS patients can perfectly mimic the imaging of Vitamin B12 deficiency?",
+    "choices": ["A. PML", "B. HIV Vacuolar Myelopathy", "C. CMV ependymitis", "D. Cryptococcus", "E. Toxoplasmosis"],
+    "answer": "B",
+    "detail": "HIV Vacuolar Myelopathy is the main differential for the inverted V sign."
+  },
+  {
+    "number": 61,
+    "question": "\"Arachnoiditis\" is a complication of surgery or infection that involves:",
+    "choices": ["A. A single large mass", "B. \"Empty Thecal Sac Sign\" or \"Central Nerve Root Clumping\"", "C. Vertebral body destruction", "D. Owl's eye sign", "E. Dural tail"],
+    "answer": "B",
+    "detail": "Look for clumping or peripheral adherence (empty sac) of roots."
+  },
+  {
+    "number": 62,
+    "question": "For how long following spine surgery is nerve root enhancement considered \"normal\"?",
+    "choices": ["A. 24 hours", "B. 1 week", "C. 6 weeks", "D. 6 months", "E. 1 year"],
+    "answer": "C",
+    "detail": "Enhancement for 6 weeks post-op is considered normal."
+  },
+  {
+    "number": 63,
+    "question": "\"Guillain-Barré Syndrome\" (GBS) features which diagnostic finding on MRI?",
+    "choices": ["A. Chordoma of the sacrum", "B. Enhancement of the nerve roots of the cauda equina", "C. High T2 signal in the dorsal columns", "D. Vertebra plana", "E. Tram-track calcification"],
+    "answer": "B",
+    "detail": "The thing to know is enhancement of the cauda equina."
+  },
+  {
+    "number": 64,
+    "question": "\"Chronic Inflammatory Demyelinating Polyneuropathy\" (CIDP) is the chronic counterpart to GBS and is described as having roots that look like:",
+    "choices": ["A. \"Onion bulbs,\" \"Dreadlocks,\" or \"Locs\"", "B. Owl's eye", "C. Inverted V", "D. Target sign", "E. Snowstorm"],
+    "answer": "A",
+    "detail": "The buzzword for CIDP is thickened \"onion bulb\" nerve roots."
+  },
+  {
+    "number": 65,
+    "question": "When classifying spinal cord tumors, \"Astrocytoma\" and \"Ependymoma\" are located in which compartment?",
+    "choices": ["A. Intramedullary", "B. Extramedullary Intradural", "C. Extradural", "D. Subdural", "E. Prevertebral"],
+    "answer": "A",
+    "detail": "These are intramedullary (inside the cord) tumors."
+  },
+  {
+    "number": 66,
+    "question": "What is the \"most common\" intramedullary tumor in the pediatric population?",
+    "choices": ["A. Ependymoma", "B. Astrocytoma", "C. Hemangioblastoma", "D. Schwannoma", "E. Meningioma"],
+    "answer": "B",
+    "detail": "Astrocytoma is the top pediatric cord tumor."
+  },
+  {
+    "number": 67,
+    "question": "Spinal Astrocytomas differ from Ependymomas because they are typically:",
+    "choices": ["A. Central", "B. Eccentric and show heterogeneous enhancement", "C. Calcified", "D. Hemorrhagic", "E. Only in the lumbar spine"],
+    "answer": "B",
+    "detail": "Astrocytomas are usually eccentric with heterogeneous enhancement."
+  },
+  {
+    "number": 68,
+    "question": "What is the \"most common\" intramedullary mass in adults?",
+    "choices": ["A. Astrocytoma", "B. Ependymoma", "C. Hemangioblastoma", "D. Lymphoma", "E. Dermoid"],
+    "answer": "B",
+    "detail": "Ependymoma is the most common intramedullary mass in adults."
+  },
+  {
+    "number": 69,
+    "question": "The \"Myxopapillary\" subtype of Ependymoma is unique because it is exclusively found in the:",
+    "choices": ["A. Cervical cord", "B. Conus or Filum Terminale (Lumbar spine)", "C. Brain stem", "D. AP window", "E. Foramen magnum"],
+    "answer": "B",
+    "detail": "Myxopapillary ependymomas favor the lower cord/filum."
+  },
+  {
+    "number": 70,
+    "question": "On T2 MRI, a spinal ependymoma may feature a \"dark cap\" representing:",
+    "choices": ["A. Fat", "B. Hemorrhage (hemosiderin)", "C. Calcium", "D. Air", "E. Fast-moving blood"],
+    "answer": "B",
+    "detail": "The hemosiderin cap is a classic T2 clue."
+  },
+  {
+    "number": 71,
+    "question": "Spinal Hemangioblastomas are associated with Von Hippel-Lindau (VHL) in what percentage of cases?",
+    "choices": ["A. 1%", "B. 10%", "C. 30%", "D. 90%", "E. 100%"],
+    "answer": "C",
+    "detail": "30% of these patients have VHL."
+  },
+  {
+    "number": 72,
+    "question": "What is the \"most common\" primary tumor to occur in the Extramedullary Intradural location?",
+    "choices": ["A. Ependymoma", "B. Schwannoma", "C. Meningioma", "D. Neurofibroma", "E. Chordoma"],
+    "answer": "B",
+    "detail": "Schwannoma is the most common in this compartment."
+  },
+  {
+    "number": 73,
+    "question": "A spinal Schwannoma characteristically has which appearance?",
+    "choices": ["A. Dumbbell-shaped with an intraforaminal component", "B. Inverted V sign", "C. Tram-track calcification", "D. Tiger-stripe", "E. \"Mini brain\""],
+    "answer": "A",
+    "detail": "The dumbbell shape is classic for schwannomas."
+  },
+  {
+    "number": 74,
+    "question": "\"Plexiform Neurofibroma\" is a multilevel bulky nerve enlargement that is pathognomonic for:",
+    "choices": ["A. NF-1", "B. NF-2", "C. VHL", "D. Tuberous Sclerosis", "E. Gorlin"],
+    "answer": "A",
+    "detail": "Plexiform = NF-1."
+  },
+  {
+    "number": 75,
+    "question": "Neurofibromas often demonstrate a \"target sign\" on T2, which is defined as:",
+    "choices": ["A. Dark rim, bright middle", "B. Hyperintense T2 rim with a central area of low signal", "C. Sclerotic border on CT", "D. \"Puff of smoke\" enhancement", "E. Air-fluid levels"],
+    "answer": "B",
+    "detail": "The target sign is a classic feature of neurofibromas."
+  },
+  {
+    "number": 76,
+    "question": "Spinal Meningiomas are much more common in women (70%) and typically favor which location?",
+    "choices": ["A. Anterior cervical spine", "B. Posterior lateral thoracic spine", "C. Midline sacrum", "D. C2 body", "E. Lumbar roots"],
+    "answer": "B",
+    "detail": "They favor the thoracic spine in women."
+  },
+  {
+    "number": 77,
+    "question": "\"Drop Metastases\" to the spine most commonly originate from which primary brain tumor?",
+    "choices": ["A. Glioblastoma", "B. Medulloblastoma", "C. Ependymoma", "D. JPA", "E. Meningioma"],
+    "answer": "B",
+    "detail": "Medulloblastoma is the top \"dropper\"."
+  },
+  {
+    "number": 78,
+    "question": "What is the \"most common\" systemic tumor to produce drop metastases (Zuckerguss) to the spine?",
+    "choices": ["A. Lung", "B. Breast Cancer", "C. Melanoma", "D. Renal cell", "E. Prostate"],
+    "answer": "B",
+    "detail": "Breast cancer is the most common systemic source for drop mets."
+  },
+  {
+    "number": 79,
+    "question": "\"Vertebral Hemangiomas\" are common (seen in 10% of people) and feature which classic appearance on imaging?",
+    "choices": ["A. \"Mini brain\"", "B. \"Jail bar\" or \"Corduroy\" trabeculae", "C. Vertebra plana", "D. H-shaped vertebra", "E. Inverted V sign"],
+    "answer": "B",
+    "detail": "The vertical trabeculae are diagnostic for hemangiomas."
+  },
+  {
+    "number": 80,
+    "question": "Vertebral hemangiomas are typically:",
+    "choices": ["A. T1 dark, T2 dark", "B. T1 and T2 BRIGHT (due to fat content)", "C. Hot on PET", "D. Purely lytic with no matrix", "E. Only in children"],
+    "answer": "B",
+    "detail": "Their fat content makes them bright on T1/T2."
+  },
+  {
+    "number": 81,
+    "question": "\"Osteoid Osteoma\" in the spine favors the posterior elements and features night pain that:",
+    "choices": ["A. Gets worse with aspirin", "B. Improves with aspirin", "C. Only occurs during exercise", "D. Leads to blindness", "E. Is never symptomatic"],
+    "answer": "B",
+    "detail": "The classic story is night pain improved with aspirin."
+  },
+  {
+    "number": 82,
+    "question": "An \"Aneurysmal Bone Cyst\" (ABC) in the spine is expansile and can demonstrate:",
+    "choices": ["A. Bulk fat", "B. Multiple fluid-fluid levels on T2", "C. Sclerosis only", "D. \"Puff of smoke\" enhancement", "E. Inverted V sign"],
+    "answer": "B",
+    "detail": "ABCs are known for having multiple fluid levels."
+  },
+  {
+    "number": 83,
+    "question": "Giant Cell Tumors of the spine are almost exclusively found in which location?",
+    "choices": ["A. C2 body", "B. Sacrum (lytic expansile lesion)", "C. Thoracic posterior elements", "D. Dens apex", "E. Intervertebral disc"],
+    "answer": "B",
+    "detail": "GCTs favor the sacrum and have no rim of sclerosis."
+  },
+  {
+    "number": 84,
+    "question": "What is the \"most common\" primary malignancy of the spine and sacrum?",
+    "choices": ["A. Plasmacytoma", "B. Chordoma", "C. Osteosarcoma", "D. Ewing Sarcoma", "E. Lymphoma"],
+    "answer": "B",
+    "detail": "Chordoma is the #1 primary malignancy of the spine/sacrum."
+  },
+  {
+    "number": 85,
+    "question": "Chordomas are characteristically:",
+    "choices": ["A. Very T2 bright and strictly MIDLINE", "B. T2 dark and lateral", "C. Only in infants", "D. Replaced by fat", "E. Sclerotic on CT"],
+    "answer": "A",
+    "detail": "They are T2 bright and strictly midline."
+  },
+  {
+    "number": 86,
+    "question": "A \"Benign Notochordal Cell Tumor\" differs from a Chordoma because it is:",
+    "choices": ["A. Lateral to midline", "B. Sclerotic on CT and does NOT usually enhance", "C. Lytic and aggressive", "D. T1 bright", "E. Associated with bird fever"],
+    "answer": "B",
+    "detail": "Sclerosis and lack of enhancement favor the benign variant."
+  },
+  {
+    "number": 87,
+    "question": "Plasmacytoma in a vertebral body can feature a characteristic imaging appearance nicknamed:",
+    "choices": ["A. Owl's eye", "B. \"Mini Brain\" appearance", "C. Target sign", "D. \"Puff of smoke\"", "E. Inverted V"],
+    "answer": "B",
+    "detail": "\"Mini Brain\" = Plasmacytoma."
+  },
+  {
+    "number": 88,
+    "question": "Multiple spinal lesions with \"low T1 signal\" (darker than the disc) in an adult is highly suspicious for:",
+    "choices": ["A. Osteoporotic fractures", "B. Metastases or Myeloma", "C. Vertebral hemangiomas", "D. Normal red marrow", "E. Epidural lipomatosis"],
+    "answer": "B",
+    "detail": "Low T1 signal that is darker than the disc suggests mets/cancer."
+  },
+  {
+    "number": 89,
+    "question": "\"Vertebra Plana\" (a pancake flat vertebral body) in a kid should make you first think of:",
+    "choices": ["A. Osteomyelitis", "B. Eosinophilic Granuloma (EG) or Neuroblastoma met", "C. Multiple Sclerosis", "D. Jefferson fracture", "E. Vitamin B12 deficiency"],
+    "answer": "B",
+    "detail": "Vertebra plana in a kid = EG."
+  },
+  {
+    "number": 90,
+    "question": "\"Limbus Vertebra\" is a fracture mimic that is the result of:",
+    "choices": ["A. Direct trauma", "B. Herniated disc material between a non-fused apophysis and the vertebral body", "C. IV drug use", "D. Syphilis", "E. Osteoporosis"],
+    "answer": "B",
+    "detail": "It is caused by herniated disc material and mimics a fracture."
+  },
+  {
+    "number": 91,
+    "question": "\"Scheuermann’s Disease\" is defined by at least three levels of wedged vertebral bodies and associated:",
+    "choices": ["A. Fat necrosis", "B. Schmorl's nodes", "C. Osteopetrosis", "D. Scoliosis only", "E. C2 fractures"],
+    "answer": "B",
+    "detail": "The combination of wedging and Schmorl's nodes in a teenager defines this."
+  },
+  {
+    "number": 92,
+    "question": "A \"Schmorl Node\" is defined as:",
+    "choices": ["A. A vertebral body fracture", "B. Intravertebral herniation of disc material through the endplate", "C. A calcified nerve root", "D. A spinal cord tumor", "E. An epidural abscess"],
+    "answer": "B",
+    "detail": "It is an intravertebral disc herniation."
+  },
+  {
+    "number": 93,
+    "question": "\"Modic Type 1\" endplate changes represent edema and are:",
+    "choices": ["A. T1 Dark and T2 Bright", "B. T1 Bright and T2 Bright", "C. T1 Dark and T2 Dark", "D. Only seen in infants", "E. Calcified"],
+    "answer": "A",
+    "detail": "Type 1 (Edema) is T1 Dark and T2 Bright."
+  },
+  {
+    "number": 94,
+    "question": "\"Modic Type 2\" endplate changes represent fatty replacement and are:",
+    "choices": ["A. T1 Dark and T2 Bright", "B. T1 Bright and T2 Bright", "C. T1 Dark and T2 Dark", "D. Normal variants", "E. Replaced by air"],
+    "answer": "B",
+    "detail": "Type 2 (Fat) is T1 Bright and T2 Bright."
+  },
+  {
+    "number": 95,
+    "question": "A \"Sequestration\" in disc nomenclature refers to a fragment that is:",
+    "choices": ["A. Wider at the base than at the edges", "B. Broken off and free from the disc", "C. Only seen in the cervical spine", "D. Always T1 bright", "E. Associated with GBS"],
+    "answer": "B",
+    "detail": "A sequestration is a free (broken off) disc fragment."
+  },
+  {
+    "number": 96,
+    "question": "A \"Central or Sub-Articular\" disc herniation in the lumbar spine typically smashes the:",
+    "choices": ["A. Exiting nerve", "B. Descending nerve", "C. Sciatic nerve only", "D. Phrenic nerve", "E. Optic nerve"],
+    "answer": "B",
+    "detail": "Central/Sub-Articular discs hit the descending nerve (e.g., S1 nerve at L5–S1)."
+  },
+  {
+    "number": 97,
+    "question": "A \"Foraminal\" disc herniation in the lumbar spine typically smashes the:",
+    "choices": ["A. Exiting nerve", "B. Descending nerve", "C. Recurrent laryngeal nerve", "D. Aorta", "E. Basilar artery"],
+    "answer": "A",
+    "detail": "Foraminal discs hit the exiting nerve (e.g., L5 nerve at L5–S1)."
+  },
+  {
+    "number": 98,
+    "question": "\"Conjoined Nerve Root\" is the most common developmental anomaly of the nerve root and is seen as:",
+    "choices": ["A. Absence of a nerve", "B. Two nerve roots arising from a single dural sleeve", "C. A tumor on the root", "D. Calcification of the root", "E. High T2 signal in the dorsal columns"],
+    "answer": "B",
+    "detail": "It involves two roots from one sleeve and can be a \"scapegoat\" in failed back surgery."
+  },
+  {
+    "number": 99,
+    "question": "A \"Blood Patch\" procedure for post-dural puncture headache involves injecting:",
+    "choices": ["A. Contrast", "B. 3–20 cc of the patient's own blood into the epidural space", "C. Air", "D. Saline", "E. Antibiotics"],
+    "answer": "B",
+    "detail": "The procedure uses autologous blood to seal the dural leak."
+  },
+  {
+    "number": 100,
+    "question": "\"Orificial renal artery stenosis\" in a child or teenager with hypertension is a classic vascular finding for:",
+    "choices": ["A. NF-1 (Arterial Dysplasia)", "B. NF-2", "C. VHL", "D. Tuberous Sclerosis", "E. Takayasu arteritis"],
+    "answer": "A",
+    "detail": "NF-1 causes renal artery stenosis/hypertension in kids due to arterial wall dysplasia."
+  }
+]
+}

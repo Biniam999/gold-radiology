@@ -1,0 +1,4610 @@
+{
+    "questions": 
+
+[
+  {
+    "number": 1,
+    "question": "A 19-year-old female cross-country runner presents with worsening foot pain. Radiographs are normal. Which of the following best describes the most likely 'flavor' of stress fracture in this patient?",
+    "choices": [
+      "Insufficiency fracture: Normal stress on abnormal bone",
+      "Pathologic fracture: Fracture through a lytic bone lesion",
+      "Fatigue fracture: Abnormal stress on normal bone",
+      "Compound fracture: Fracture associated with an open wound",
+      "Segond fracture: Fracture of the lateral tibial plateau"
+    ],
+    "answer": "C",
+    "detail": "Stress fractures come in two flavors: Fatigue (abnormal stress on normal bone) and Insufficiency (normal stress on abnormal bone)."
+  },
+  {
+    "number": 2,
+    "question": "A radiologist dictates a report for a follow-up radiograph of a known non-displaced fracture taken 10 days after the initial injury. Which finding is most expected at this stage of healing?",
+    "choices": [
+      "Remodeling with complete disappearance of the fracture line",
+      "Formation of dense periosteal reaction obscuring the fracture",
+      "Increased lucency at the fracture site",
+      "Immediate cortical bridging",
+      "Decreased visibility of the fracture line due to granulation tissue"
+    ],
+    "answer": "C",
+    "detail": "A healing fracture will be more lucent at 7-14 days due to bone resorption during the formation of granulation tissue."
+  },
+  {
+    "number": 3,
+    "question": "In a young athlete, where is the most common site for a tibial stress fracture?",
+    "choices": [
+      "Anterior mid-shaft",
+      "Posterior medial proximal or distal third",
+      "Medial malleolus",
+      "Lateral tibial plateau",
+      "Tibial tuberosity"
+    ],
+    "answer": "B",
+    "detail": "Tibial stress fractures in athletes are most common on the compressive side, which is the posterior medial aspect."
+  },
+  {
+    "number": 4,
+    "question": "A 75-year-old female presents with sudden knee pain after rising from a seated position. MRI shows extensive edema in the medial femoral condyle and a subchondral deformity. What is the most likely diagnosis?",
+    "choices": [
+      "Osteochondritis dissecans (OCD)",
+      "Spontaneous Osteonecrosis of the Knee (SONK)",
+      "Medial collateral ligament (MCL) tear",
+      "Avascular necrosis (AVN)",
+      "Pigmented villonodular synovitis (PVNS)"
+    ],
+    "answer": "B",
+    "detail": "SONK is an insufficiency fracture favoring the medial femoral condyle in older women, often associated with meniscal injury."
+  },
+  {
+    "number": 5,
+    "question": "Which of the following stress fractures is categorized as 'High Risk' for uncomplicated healing when treated conservatively?",
+    "choices": [
+      "Compressive side of the femoral neck",
+      "Longitudinal patellar fracture",
+      "Posterior medial tibial fracture",
+      "Tarsal navicular fracture",
+      "2nd metatarsal fracture"
+    ],
+    "answer": "D",
+    "detail": "The tarsal navicular, the tensile side of the femoral neck, and the midshaft anterior tibia are all considered high-risk stress fractures."
+  },
+  {
+    "number": 6,
+    "question": "When evaluating a lateral radiograph of the wrist, which anatomic relationship confirms a 'TRUE' lateral position?",
+    "choices": [
+      "The ulnar styloid is projected over the center of the radius",
+      "The pisiform palmar cortex is located centrally between the scaphoid and capitate palmar cortices",
+      "The lunate and capitate are perfectly superimposed",
+      "The radial tilt is measured at 11 degrees",
+      "The thumb is in a neutral position relative to the index finger"
+    ],
+    "answer": "B",
+    "detail": "The central position of the pisiform between the scaphoid and capitate is the specific board-tested landmark for a true lateral wrist."
+  },
+  {
+    "number": 7,
+    "question": "Which pole of the scaphoid is most susceptible to avascular necrosis (AVN) and non-union following a fracture?",
+    "choices": [
+      "Distal pole",
+      "Waist",
+      "Proximal pole",
+      "Scaphoid tubercle",
+      "Radial facet"
+    ],
+    "answer": "C",
+    "detail": "Because scaphoid blood flow is retrograde, the proximal pole is the most susceptible to AVN following a fracture."
+  },
+  {
+    "number": 8,
+    "question": "What is the first radiographic sign of avascular necrosis (AVN) in a scaphoid fracture?",
+    "choices": [
+      "Fragmentation of the bone",
+      "Subchondral lucency (Crescent sign)",
+      "Sclerosis of the affected fragment",
+      "Cortical step-off",
+      "Joint space narrowing"
+    ],
+    "answer": "C",
+    "detail": "Dead bone cannot undergo normal turnover, making the affected fragment appear relatively dense or sclerotic compared to surrounding bone."
+  },
+  {
+    "number": 9,
+    "question": "A patient presents with a 'Terry Thomas' sign on a neutral AP radiograph of the wrist. What is the threshold for a widened scapholunate gap to suggest ligamentous disruption?",
+    "choices": [
+      "> 1 mm",
+      "> 2 mm",
+      "> 3 mm",
+      "> 5 mm",
+      "> 11 mm"
+    ],
+    "answer": "C",
+    "detail": "A scapholunate gap greater than 3mm is indicative of scapholunate ligament disruption."
+  },
+  {
+    "number": 10,
+    "question": "Which band of the scapholunate (SL) ligament is considered the most important for carpal stability?",
+    "choices": [
+      "Volar band",
+      "Middle band",
+      "Dorsal band",
+      "Proximal band",
+      "Distal band"
+    ],
+    "answer": "C",
+    "detail": "The dorsal band is the strongest and most critical for SL stability, whereas the volar band is most important for luno-triquetral stability."
+  },
+  {
+    "number": 11,
+    "question": "A 25-year-old male presents with a 'Humpback Deformity' following an old wrist injury. This deformity is a complication of which type of fracture?",
+    "choices": [
+      "Distal radius Colles fracture",
+      "Scaphoid waist fracture",
+      "Triquetral flake fracture",
+      "Lunate compression fracture",
+      "Radial styloid fracture"
+    ],
+    "answer": "B",
+    "detail": "Volar angulation of the proximal and distal fragments in a scaphoid waist fracture creates the humpback deformity."
+  },
+  {
+    "number": 12,
+    "question": "Which of the following best describes the progression of 'SNAC' (Scaphoid Non-union Advanced Collapse) wrist?",
+    "choices": [
+      "Degenerative changes start at the mid-carpal joint",
+      "The radioscaphoid joint is the first to develop degenerative changes",
+      "It is caused primarily by an isolated SL ligament tear",
+      "The capitate migrates distally",
+      "The lunate always undergoes early necrosis (Kienbock)"
+    ],
+    "answer": "B",
+    "detail": "Following scaphoid non-union, degenerative changes characteristically begin at the radioscaphoid joint."
+  },
+  {
+    "number": 13,
+    "question": "In the spectrum of carpal dislocations, which is considered the 'Most Severe'?",
+    "choices": [
+      "Scapho-lunate dissociation",
+      "Peri-lunate dislocation",
+      "Mid-carpal dislocation",
+      "Lunate dislocation",
+      "Trans-scaphoid perilunate dislocation"
+    ],
+    "answer": "D",
+    "detail": "Lunate dislocation is the final and most severe stage of carpal instability, involving injury to the dorsal radiolunate ligament."
+  },
+  {
+    "number": 14,
+    "question": "According to the 'Vulnerable Zones Theory,' what defines a 'Greater Arc' injury?",
+    "choices": [
+      "Pure ligamentous injury with no fractures",
+      "Injury associated with carpal fractures",
+      "Isolated injury to the Space of Poirier",
+      "Dislocation of the distal radioulnar joint (DRUJ)",
+      "Rupture of the volar distal radial ulnar ligament"
+    ],
+    "answer": "B",
+    "detail": "Lesser arc injuries are pure ligamentous disruptions, while Greater arc injuries include carpal fractures (e.g., trans-scaphoid)."
+  },
+  {
+    "number": 15,
+    "question": "Communication between the glenohumeral joint and the subacromial bursa on an arthrogram is diagnostic of:",
+    "choices": [
+      "SLAP tear",
+      "Partial thickness rotator cuff tear",
+      "Full thickness rotator cuff tear",
+      "Adhesive capsulitis",
+      "Bankart lesion"
+    ],
+    "answer": "C",
+    "detail": "The joint and bursa should not communicate; visualization of contrast in the bursa during a joint injection proves a full-thickness defect."
+  },
+  {
+    "number": 16,
+    "question": "Communication between the ankle joint and the lateral peroneal tendon sheath implies a tear of which ligament?",
+    "choices": [
+      "Anterior talofibular ligament (ATFL)",
+      "Calcaneofibular ligament (CFL)",
+      "Posterior talofibular ligament (PTFL)",
+      "Deltoid ligament",
+      "Spring ligament"
+    ],
+    "answer": "B",
+    "detail": "Communication between the ankle joint and the peroneal sheath on an arthrogram implies a tear of the Calcaneofibular ligament (CFL)."
+  },
+  {
+    "number": 17,
+    "question": "The Triangular Fibrocartilage Complex (TFCC) serves as the primary stabilizer for which joint?",
+    "choices": [
+      "Radiocarpal joint",
+      "Mid-carpal joint",
+      "Distal radial ulnar joint (DRUJ)",
+      "First carpometacarpal (CMC) joint",
+      "Pisi-triquetral joint"
+    ],
+    "answer": "C",
+    "detail": "The TFCC is the primary stabilizer and shock absorber for the distal radial ulnar joint (DRUJ)."
+  },
+  {
+    "number": 18,
+    "question": "On MRI, which component of the TFCC is normally 'dark on every sequence'?",
+    "choices": [
+      "Meniscus homologue",
+      "Articular disc ('TFC Proper')",
+      "Ulnar attachment",
+      "Radial attachment",
+      "Tendon sheath of the ECU"
+    ],
+    "answer": "B",
+    "detail": "The central articular disc is normally signal-void on all MRI sequences."
+  },
+  {
+    "number": 19,
+    "question": "Which type of ulnar variance is associated with Kienbock disease (AVN of the lunate)?",
+    "choices": [
+      "Neutral variance",
+      "Positive variance",
+      "Negative variance",
+      "Dynamic variance",
+      "Ulnar impaction syndrome"
+    ],
+    "answer": "C",
+    "detail": "Negative ulnar variance is classically associated with Kienbock disease."
+  },
+  {
+    "number": 20,
+    "question": "A 28-year-old office worker presents with ulnar-sided wrist pain. MRI shows cystic changes in the lunate and a tear of the TFCC. Which of the following is most likely present on the radiographs?",
+    "choices": [
+      "Negative ulnar variance",
+      "Positive ulnar variance",
+      "Radial styloid fracture",
+      "Scaphoid non-union",
+      "Madelung deformity"
+    ],
+    "answer": "B",
+    "detail": "Positive ulnar variance is associated with Ulnar Impaction Syndrome and TFCC tears."
+  },
+  {
+    "number": 21,
+    "question": "A 'Dinner Fork Deformity' is the clinical hallmark of which fracture?",
+    "choices": [
+      "Smith fracture",
+      "Colles fracture",
+      "Barton fracture",
+      "Chauffeur fracture",
+      "Die-punch fracture"
+    ],
+    "answer": "B",
+    "detail": "Colles is a distal radius fracture with dorsal angulation, creating the characteristic dinner fork appearance."
+  },
+  {
+    "number": 22,
+    "question": "An elderly male patient presents with a Colles fracture. What is the most appropriate next clinical step?",
+    "choices": [
+      "Immediate surgical fixation",
+      "Evaluation of the ulnar nerve at Guyon's canal",
+      "Order a DEXA scan",
+      "Perform a stress view of the scapholunate ligament",
+      "Ultrasound of the extensor tendons"
+    ],
+    "answer": "C",
+    "detail": "Colles fractures in males should prompt a DEXA scan to evaluate for underlying osteoporosis."
+  },
+  {
+    "number": 23,
+    "question": "Which distal radius fracture is characterized by intra-articular involvement and is frequently associated with radiocarpal dislocation?",
+    "choices": [
+      "Colles fracture",
+      "Smith fracture",
+      "Barton fracture",
+      "Hutchinson fracture",
+      "Chauffeur fracture"
+    ],
+    "answer": "C",
+    "detail": "Barton is an intra-articular 'radial rim' fracture, and radiocarpal dislocation is its hallmark."
+  },
+  {
+    "number": 24,
+    "question": "A patient sustains a non-displaced distal radial fracture. Three weeks later, they are unable to extend their thumb. Rupture of which tendon has likely occurred?",
+    "choices": [
+      "Abductor pollicis longus (APL)",
+      "Extensor pollicis brevis (EPB)",
+      "Extensor pollicis longus (EPL)",
+      "Extensor carpi radialis brevis (ECRB)",
+      "Flexor pollicis longus (FPL)"
+    ],
+    "answer": "C",
+    "detail": "Delayed rupture of the EPL (3rd compartment) can occur weeks after a radial fracture due to friction at Lister's tubercle."
+  },
+  {
+    "number": 25,
+    "question": "Which structure is NOT contained within the carpal tunnel?",
+    "choices": [
+      "Median nerve",
+      "Flexor digitorum profundus (FDP) tendons",
+      "Flexor digitorum superficialis (FDS) tendons",
+      "Flexor carpi radialis (FCR) tendon",
+      "Flexor pollicis longus (FPL) tendon"
+    ],
+    "answer": "D",
+    "detail": "The Flexor carpi radialis (FCR) tendon is not technically in the carpal tunnel; it is in its own separate sheath."
+  },
+  {
+    "number": 26,
+    "question": "Carpal Tunnel Syndrome has a known clinical association with all of the following EXCEPT:",
+    "choices": [
+      "Pregnancy",
+      "Diabetes Mellitus",
+      "Dialysis",
+      "Hyperthyroidism",
+      "Hypothyroidism"
+    ],
+    "answer": "D",
+    "detail": "CTS is associated with hypothyroidism, pregnancy, dialysis, and DM, but not typically hyperthyroidism."
+  },
+  {
+    "number": 27,
+    "question": "'Handle bar palsy' is associated with entrapment of the ulnar nerve in which location?",
+    "choices": [
+      "Cubital tunnel",
+      "Carpal tunnel",
+      "Guyon’s canal",
+      "Radial tunnel",
+      "Quadrilateral space"
+    ],
+    "answer": "C",
+    "detail": "Handle bar palsy is the clinical term for ulnar nerve compression within Guyon's canal."
+  },
+  {
+    "number": 28,
+    "question": "Vaughan-Jackson Syndrome in a patient with Rheumatoid Arthritis involves the sequential rupture of extensor tendons. In which direction does the rupture typically progress?",
+    "choices": [
+      "Radial to Ulnar (Compartment 1 to 6)",
+      "Ulnar to Radial (Compartment 5 to 2)",
+      "Volar to Dorsal",
+      "Deep to Superficial",
+      "Random distribution"
+    ],
+    "answer": "B",
+    "detail": "Vaughan-Jackson progresses from ulnar to radial, usually starting with the EDM (5th compartment)."
+  },
+  {
+    "number": 29,
+    "question": "A 'new mom' presents with pain over the radial aspect of her wrist. Pain is elicited by passive ulnar deviation of the wrist while the thumb is flexed into the palm. Which extensor compartment is involved?",
+    "choices": [
+      "1st compartment (APL/EPB)",
+      "2nd compartment (ECRL/ECRB)",
+      "3rd compartment (EPL)",
+      "4th compartment (EDC/EIP)",
+      "6th compartment (ECU)"
+    ],
+    "answer": "A",
+    "detail": "This describes De Quervain’s tenosynovitis (1st compartment) and the positive Finkelstein test."
+  },
+  {
+    "number": 30,
+    "question": "Intersection Syndrome involves tenosynovitis where the 1st extensor compartment tendons cross over the tendons of which other compartment?",
+    "choices": [
+      "2nd compartment (ECRL/ECRB)",
+      "3rd compartment (EPL)",
+      "4th compartment (EDC/EIP)",
+      "5th compartment (EDM)",
+      "6th compartment (ECU)"
+    ],
+    "answer": "A",
+    "detail": "Intersection syndrome is tenosynovitis occurring where the 1st compartment crosses the 2nd compartment."
+  },
+  {
+    "number": 31,
+    "question": "A 'Drummer’s Wrist' refers to tenosynovitis of which tendon?",
+    "choices": [
+      "APL",
+      "EPB",
+      "EPL",
+      "FCR",
+      "ECU"
+    ],
+    "answer": "C",
+    "detail": "Drummer’s wrist is the clinical name for tenosynovitis of the 3rd compartment (EPL)."
+  },
+  {
+    "number": 32,
+    "question": "What distinguishes a Rolando fracture from a Bennett fracture?",
+    "choices": [
+      "Rolando is extra-articular",
+      "Rolando involves the 5th metacarpal",
+      "Rolando is comminuted",
+      "Rolando is caused by the pull of the APL tendon",
+      "Rolando does not require surgery"
+    ],
+    "answer": "C",
+    "detail": "Rolando fractures are comminuted (often T or Y shaped), while Bennett fractures are not."
+  },
+  {
+    "number": 33,
+    "question": "In a Skier's/Gamekeeper's thumb, why are 'stress views' of the MCP joint contraindicated if a Stener lesion is suspected?",
+    "choices": [
+      "They are too painful for the patient",
+      "They can cause a non-displaced fracture to displace",
+      "They can cause the adductor aponeurosis to get caught in the torn UCL",
+      "They can convert a partial tear into a full Stener lesion",
+      "They are not sensitive enough to see the ligament"
+    ],
+    "answer": "C",
+    "detail": "Stress views can cause the adductor aponeurosis to get caught between the torn ends of the UCL, creating a Stener lesion."
+  },
+  {
+    "number": 34,
+    "question": "A 'Tuft Fracture' with an associated nail bed injury should be medically managed as which of the following?",
+    "choices": [
+      "Simple closed fracture",
+      "Pathologic fracture",
+      "Open fracture requiring antibiotics",
+      "Stress fracture requiring non-weight bearing",
+      "Avulsion fracture"
+    ],
+    "answer": "C",
+    "detail": "Tuft fractures associated with nail bed injury are considered open fractures and require antibiotics."
+  },
+  {
+    "number": 35,
+    "question": "Which elbow fracture is most common in adults?",
+    "choices": [
+      "Supracondylar fracture",
+      "Radial head fracture",
+      "Olecranon fracture",
+      "Capitellum fracture",
+      "Coronoid process fracture"
+    ],
+    "answer": "B",
+    "detail": "The radial head fracture is the most common elbow fracture in adults."
+  },
+  {
+    "number": 36,
+    "question": "A posterior fat pad sign on an elbow radiograph is considered:",
+    "choices": [
+      "A normal variant if the elbow is flexed to 90 degrees",
+      "Highly specific for an intra-articular fracture",
+      "A sign of lateral epicondylitis",
+      "Secondary to triceps tendon rupture",
+      "Position-independent and always abnormal"
+    ],
+    "answer": "E",
+    "detail": "'Posterior is positive'; a visible posterior fat pad is always abnormal and indicates a joint effusion."
+  },
+  {
+    "number": 37,
+    "question": "Match the forearm fracture eponym (MUGR): A Monteggia fracture involves a proximal ulnar fracture and dislocation of the:",
+    "choices": [
+      "Ulnar head at the DRUJ",
+      "Radial head at the elbow",
+      "Scaphoid at the wrist",
+      "Lunate at the wrist",
+      "Capitellum at the elbow"
+    ],
+    "answer": "B",
+    "detail": "The MUGR mnemonic reminds that Monteggia is a proximal Ulna fracture with a Radial head dislocation."
+  },
+  {
+    "number": 38,
+    "question": "An 'Accessory Anconeus' (Anconeus Epitrochlearis) can cause mass effect on which nerve?",
+    "choices": [
+      "Median nerve",
+      "Radial nerve",
+      "Ulnar nerve",
+      "Axillary nerve",
+      "Musculocutaneous nerve"
+    ],
+    "answer": "C",
+    "detail": "The accessory anconeus is located on the medial side and can exert mass effect on the ulnar nerve."
+  },
+  {
+    "number": 39,
+    "question": "Lateral epicondylitis ('Tennis Player's Elbow') most commonly involves an injury to which tendon?",
+    "choices": [
+      "Common flexor tendon",
+      "Extensor carpi radialis brevis (ECRB)",
+      "Triceps tendon",
+      "Biceps tendon",
+      "Brachialis tendon"
+    ],
+    "answer": "B",
+    "detail": "Lateral epicondylitis classically involves injury to the ECRB tendon."
+  },
+  {
+    "number": 40,
+    "question": "On a dedicated MRI of the elbow, a 'T-sign' seen with joint fluid or contrast material extending medial to the sublime tubercle is diagnostic of:",
+    "choices": [
+      "Full thickness biceps tear",
+      "Partial medial ulnar collateral ligament (UCL) tear",
+      "Radial collateral ligament rupture",
+      "Cubital tunnel syndrome",
+      "Common flexor tendon avulsion"
+    ],
+    "answer": "B",
+    "detail": "The 'T-sign' represents joint fluid/contrast extending medial to the sublime tubercle, diagnostic of a partial UCL tear."
+  },
+  {
+    "number": 41,
+    "question": "'Little Leaguer's Elbow' is characterized by all of the following EXCEPT:",
+    "choices": [
+      "Repetitive micro-trauma to the medial epicondyle",
+      "Delayed closure of the medial epicondylar apophysis",
+      "Association with UCL injury",
+      "Osteochondritis dissecans (OCD) of the trochlea",
+      "Triad of lateral compression, medial tension, and posterior shear"
+    ],
+    "answer": "D",
+    "detail": "In Little Leaguer's Elbow, OCD occurs at the capitellum, not the trochlea."
+  },
+  {
+    "number": 42,
+    "question": "Which childhood hero's name is used to describe the 'rolled up muscle' appearance of a torn biceps?",
+    "choices": [
+      "Superman",
+      "Popeye",
+      "Batman",
+      "Hulk",
+      "Underdog"
+    ],
+    "answer": "B",
+    "detail": "The 'Popeye Deformity' is the classic clinical sign of a ruptured biceps muscle."
+  },
+  {
+    "number": 43,
+    "question": "Triceps tendon rupture is the LEAST common tendon rupture in the body. When it does occur, it is often associated with which fracture in children?",
+    "choices": [
+      "Salter-Harris I of the radial head",
+      "Salter-Harris II of the olecranon",
+      "Supracondylar humerus fracture",
+      "Greenstick fracture of the ulna",
+      "Monteggia fracture"
+    ],
+    "answer": "B",
+    "detail": "Pediatric triceps ruptures are rare and often occur in association with olecranon SH-II fractures."
+  },
+  {
+    "number": 44,
+    "question": "What is the second most common joint dislocated in adults?",
+    "choices": [
+      "Shoulder",
+      "Elbow",
+      "Hip",
+      "Knee",
+      "Ankle"
+    ],
+    "answer": "B",
+    "detail": "The elbow is the second most common joint to dislocate in adults."
+  },
+  {
+    "number": 45,
+    "question": "An anterior inferior (subcoracoid) shoulder dislocation is the most common type (90%). Which associated humerus finding is best seen on an internal rotation view?",
+    "choices": [
+      "Bankart lesion",
+      "Hill-Sachs lesion",
+      "Trough sign",
+      "Reverse Bankart",
+      "Luxatio erecta"
+    ],
+    "answer": "B",
+    "detail": "Hill-Sachs lesions occur on the posterolateral humerus and are best visualized on internal rotation views."
+  },
+  {
+    "number": 46,
+    "question": "A 'Light Bulb Sign' on shoulder radiographs, where the humerus is locked in internal rotation on all views, is a classic sign of:",
+    "choices": [
+      "Anterior dislocation",
+      "Posterior dislocation",
+      "Inferior dislocation",
+      "Superior subluxation",
+      "Rotator cuff tear"
+    ],
+    "answer": "B",
+    "detail": "The light bulb sign (locked internal rotation) is a hallmark of posterior shoulder dislocation."
+  },
+  {
+    "number": 47,
+    "question": "Which neurologic injury is seen in 60% of patients with an inferior shoulder dislocation (luxatio erecta humeri)?",
+    "choices": [
+      "Median nerve",
+      "Radial nerve",
+      "Ulnar nerve",
+      "Axillary nerve",
+      "Long thoracic nerve"
+    ],
+    "answer": "D",
+    "detail": "60% of patients with an inferior shoulder dislocation suffer injury to the axillary nerve."
+  },
+  {
+    "number": 48,
+    "question": "In the Neer classification of proximal humerus fractures, what is the modern trend for treating acute 3 and 4-part fractures?",
+    "choices": [
+      "Closed reduction and casting",
+      "Percutaneous pinning",
+      "Hemi-arthroplasty",
+      "Total shoulder arthroplasty",
+      "Reverse total shoulder arthroplasty"
+    ],
+    "answer": "E",
+    "detail": "The modern surgical trend for acute 3 and 4 part fractures is reverse total shoulder arthroplasty."
+  },
+  {
+    "number": 49,
+    "question": "Which muscle must be intact for a patient to successfully undergo a reverse total shoulder arthroplasty?",
+    "choices": [
+      "Supraspinatus",
+      "Infraspinatus",
+      "Subscapularis",
+      "Deltoid",
+      "Teres minor"
+    ],
+    "answer": "D",
+    "detail": "Reverse shoulder arthroplasty does not require a rotator cuff but necessitates a functional deltoid muscle."
+  },
+  {
+    "number": 50,
+    "question": "What is the most common complication of a conventional total shoulder arthroplasty?",
+    "choices": [
+      "Loosening of the glenoid component",
+      "'Anterior Escape' (subscapularis failure)",
+      "Posterior acromion fracture",
+      "Axillary nerve palsy",
+      "Infection"
+    ],
+    "answer": "A",
+    "detail": "Loosening of the glenoid component is the most frequent complication in conventional TSA."
+  },
+  {
+    "number": 51,
+    "question": "Which form of shoulder impingement results from attrition of the coracoacromial arch and most commonly damages the supraspinatus tendon?",
+    "choices": [
+      "Subcoracoid impingement",
+      "Posterior superior 'Internal' impingement",
+      "Subacromial impingement",
+      "Anterior superior internal impingement",
+      "Multidirectional instability"
+    ],
+    "answer": "C",
+    "detail": "Subacromial impingement is the most common and damages the supraspinatus."
+  },
+  {
+    "number": 52,
+    "question": "A 32-year-old professional baseball pitcher presents with posterior shoulder pain. MRI reveals a posterior superior labral tear and cystic changes in the greater tuberosity. What is the most likely diagnosis?",
+    "choices": [
+      "Subacromial impingement",
+      "Subcoracoid impingement",
+      "Internal impingement",
+      "SLAP lesion",
+      "Adhesive capsulitis"
+    ],
+    "answer": "C",
+    "detail": "Internal impingement is seen in throwers and causes greater tuberosity cysts and damage to the posterior superior cuff."
+  },
+  {
+    "number": 53,
+    "question": "Subcoracoid impingement classically results in damage to which of the following tendons?",
+    "choices": [
+      "Supraspinatus",
+      "Infraspinatus",
+      "Subscapularis",
+      "Teres minor",
+      "Long head of the biceps"
+    ],
+    "answer": "C",
+    "detail": "Subcoracoid impingement is an anterior process damaging the subscapularis."
+  },
+  {
+    "number": 54,
+    "question": "A patient presents with a global decrease in shoulder motion. A T1-weighted sagittal MRI shows a loss of the normal clean fat within the rotator cuff interval. Which 'buzzword' finding is most likely to be seen with joint injection?",
+    "choices": [
+      "Increased glenohumeral volume",
+      "Decreased glenohumeral volume",
+      "Extensive labral tearing",
+      "Communication with the subacromial bursa",
+      "'T-sign' at the sublime tubercle"
+    ],
+    "answer": "B",
+    "detail": "Adhesive capsulitis (frozen shoulder) causes a decrease in joint volume."
+  },
+  {
+    "number": 55,
+    "question": "When performing an MRI arthrogram of the shoulder to evaluate for 'Intra-Articular' types of rotator cuff tears, what is the primary structure being assessed for associated pathology?",
+    "choices": [
+      "The deltoid muscle",
+      "The glenoid labrum",
+      "The acromioclavicular joint",
+      "The coracohumeral ligament",
+      "The subscapularis recruitment"
+    ],
+    "answer": "B",
+    "detail": "MR arthrogram is the gold standard for evaluating the glenoid labrum."
+  },
+  {
+    "number": 56,
+    "question": "A runner presents with lateral knee pain. MRI shows fluid on both sides of the Iliotibial (IT) band, extending posterior and lateral, with no fluid in the joint. What is the most likely diagnosis?",
+    "choices": [
+      "Lateral collateral ligament (LCL) tear",
+      "Lateral meniscal tear",
+      "IT Band Syndrome",
+      "Segond fracture",
+      "Popliteus tendinitis"
+    ],
+    "answer": "C",
+    "detail": "Fluid on both sides of the IT band in a runner is the classic MRI key for IT band syndrome."
+  },
+  {
+    "number": 57,
+    "question": "Where is the most common location for a hip labral tear?",
+    "choices": [
+      "Posterior-superior",
+      "Posterior-inferior",
+      "Anterior-superior",
+      "Anterior-inferior",
+      "Superior-central"
+    ],
+    "answer": "C",
+    "detail": "The anterior-superior aspect is the most common site for hip labral tears."
+  },
+  {
+    "number": 58,
+    "question": "What is the largest bursa in the entire human body?",
+    "choices": [
+      "Subacromial bursa",
+      "Retrocalcaneal bursa",
+      "Iliopsoas bursa",
+      "Prepatellar bursa",
+      "Pes anserine bursa"
+    ],
+    "answer": "C",
+    "detail": "The iliopsoas bursa is the largest in the body."
+  },
+  {
+    "number": 59,
+    "question": "A fluid signal 'mass' is noted anterior to the hip joint at the level of the ischial tuberosity, adjacent to the psoas tendon. This finding is most characteristic of:",
+    "choices": [
+      "A hip labral tear",
+      "A paralabral cyst",
+      "Iliopsoas bursitis",
+      "Synovial sarcoma",
+      "Femoroacetabular impingement"
+    ],
+    "answer": "C",
+    "detail": "A fluid mass in this specific location is classic for iliopsoas bursitis."
+  },
+  {
+    "number": 60,
+    "question": "A Segond fracture is a cortical avulsion of the lateral tibial plateau. It is highly associated (75%) with a tear of which ligament?",
+    "choices": [
+      "Posterior cruciate ligament (PCL)",
+      "Anterior cruciate ligament (ACL)",
+      "Medial collateral ligament (MCL)",
+      "Lateral collateral ligament (LCL)",
+      "Arcuate ligament"
+    ],
+    "answer": "B",
+    "detail": "Segond fractures are lateral and highly associated with ACL tears."
+  },
+  {
+    "number": 61,
+    "question": "A Reverse Segond fracture involves an avulsion of the medial tibial plateau. Which triad of injuries is typically associated with this fracture?",
+    "choices": [
+      "ACL tear, LCL tear, lateral meniscus injury",
+      "PCL tear, medial meniscus injury, and external rotation mechanism",
+      "ACL tear, MCL tear, medial meniscus injury",
+      "PCL tear, lateral meniscus injury, and internal rotation mechanism",
+      "MCL tear, LCL tear, and patellar dislocation"
+    ],
+    "answer": "B",
+    "detail": "Reverse Segond is medial and associated with PCL and medial meniscus injury."
+  },
+  {
+    "number": 62,
+    "question": "An 'Arcuate Sign' refers to an avulsion of the proximal fibula. This finding is highly specific (90%) for an injury to which structure?",
+    "choices": [
+      "The ACL",
+      "The Cruciate ligaments (usually PCL)",
+      "The IT band",
+      "The Biceps femoris tendon",
+      "The Medial collateral ligament"
+    ],
+    "answer": "B",
+    "detail": "Avulsion of the proximal fibula is 90% specific for PCL or arcuate complex injury."
+  },
+  {
+    "number": 63,
+    "question": "A 'Deep Intercondylar Notch Sign' seen on a lateral radiograph of the knee is a depression of the lateral femoral condyle secondary to an impaction injury. This is a sign of:",
+    "choices": [
+      "Chronic PCL insufficiency",
+      "Acute ACL tear",
+      "Medial meniscal bucket-handle tear",
+      "Patellar maltracking",
+      "Osteochondritis dissecans"
+    ],
+    "answer": "B",
+    "detail": "Impaction of the lateral condyle during ACL rupture creates this notch."
+  },
+  {
+    "number": 64,
+    "question": "Why is a torn ACL usually unable to heal on its own?",
+    "choices": [
+      "It has no blood supply",
+      "It is located in a high-tension zone",
+      "The synovial fluid prevents clot formation and the ligament is extrasynovial/intra-articular",
+      "It is composed entirely of fibrocartilage",
+      "The ACL is not actually a ligament but a tendon"
+    ],
+    "answer": "C",
+    "detail": "The synovium isolates the ACL from clotting/healing factors in the joint."
+  },
+  {
+    "number": 65,
+    "question": "On a sagittal MRI of the knee with a short echo time (TE), the PCL and Patellar tendon show foci of intermediate signal when they form a 55-degree angle with the main magnetic field. This is known as:",
+    "choices": [
+      "The T-sign",
+      "The Double PCL sign",
+      "The Magic Angle Phenomenon",
+      "The Vacuum Phenomenon",
+      "The Truncation Artifact"
+    ],
+    "answer": "C",
+    "detail": "Magic angle is seen at 55 degrees on short TE sequences like T1 or PD."
+  },
+  {
+    "number": 66,
+    "question": "What is 'O’Donoghue’s Unhappy Triad'?",
+    "choices": [
+      "ACL tear, PCL tear, MCL tear",
+      "ACL tear, MCL tear, Medial Meniscal tear",
+      "ACL tear, LCL tear, Lateral Meniscal tear",
+      "PCL tear, MCL tear, Lateral Meniscal tear",
+      "ACL tear, MCL tear, Lateral Meniscal tear"
+    ],
+    "answer": "B",
+    "detail": "The traditional unhappy triad consists of ACL, MCL, and medial meniscus tears."
+  },
+  {
+    "number": 67,
+    "question": "A 'Kissing Contusion Pattern' on MRI, involving the lateral femoral condyle (sulcus terminalis) and the posterior lateral tibial plateau, is 95% specific for:",
+    "choices": [
+      "PCL tear",
+      "MCL tear",
+      "ACL tear",
+      "Medial meniscus tear",
+      "Patellar dislocation"
+    ],
+    "answer": "C",
+    "detail": "Impaction of the lateral femur into the posterior tibia is pathognomonic for ACL rupture."
+  },
+  {
+    "number": 68,
+    "question": "A T2-weighted MRI of the knee shows a striated 'celery stalk' appearance of the ACL. The patient has no history of acute trauma. What is the most likely diagnosis?",
+    "choices": [
+      "Acute ACL tear",
+      "Arthrofibrosis",
+      "ACL Mucoid Degeneration",
+      "ACL Ganglion cyst",
+      "Partial ACL tear"
+    ],
+    "answer": "C",
+    "detail": "Striated 'celery stalk' signal on T2 without trauma is the hallmark of mucoid degeneration."
+  },
+  {
+    "number": 69,
+    "question": "When evaluating an ACL repair graft on MRI, which 'buzzword' finding suggests 'Roof Impingement'?",
+    "choices": [
+      "The graft is too flat",
+      "The graft intersects with Blumensaat’s line",
+      "There is a Cyclops lesion present",
+      "The femoral tunnel is too posterior",
+      "The graft parallels the roof of the intercondylar notch"
+    ],
+    "answer": "B",
+    "detail": "Intersection with Blumensaat's line indicates the tibial tunnel is too far anterior, causing impingement."
+  },
+  {
+    "number": 70,
+    "question": "A focal form of arthrofibrosis seen after ACL repair presents as a low-signal mass-like scar in Hoffa’s fat pad. It may cause a 'palpable audible clunk' on extension. This is called a:",
+    "choices": [
+      "Stener lesion",
+      "Segond lesion",
+      "Cyclops lesion",
+      "Hill-Sachs lesion",
+      "Bankart lesion"
+    ],
+    "answer": "C",
+    "detail": "Cyclops lesions are post-operative focal arthrofibrosis scars that limit extension."
+  },
+  {
+    "number": 71,
+    "question": "Regarding an ACL repair graft, at what post-operative time interval is the graft most susceptible to tearing during the remodeling process?",
+    "choices": [
+      "0–2 months",
+      "4–8 months",
+      "12–18 months",
+      "2 years",
+      "5 years"
+    ],
+    "answer": "B",
+    "detail": "Graft remodeling is at its nadir (weakest point) at 4-8 months."
+  },
+  {
+    "number": 72,
+    "question": "If a radiologist identifies a PCL tear on a knee MRI, what is the most critical 'Next Step' or association to evaluate?",
+    "choices": [
+      "Look for a Segond fracture",
+      "Evaluate the popliteal flow void for vascular compromise",
+      "Check for a discoid meniscus",
+      "Measure the patellar height",
+      "Assess for IT band syndrome"
+    ],
+    "answer": "B",
+    "detail": "Posterior knee dislocation/PCL injury risks popliteal artery dissection; checking flow is critical."
+  },
+  {
+    "number": 73,
+    "question": "Which portion of the meniscus is vascularized and has the potential to heal?",
+    "choices": [
+      "The central 'white zone'",
+      "The peripheral 'red zone'",
+      "The meniscus homologue",
+      "The anterior horn only",
+      "The free edge"
+    ],
+    "answer": "B",
+    "detail": "Blood supply enters from the periphery (red zone); the central white zone is avascular."
+  },
+  {
+    "number": 74,
+    "question": "On sagittal MRI slices (3mm thick, 1mm gap), a normal meniscus should show how many 'bow tie' shapes?",
+    "choices": [
+      "1",
+      "2",
+      "3 or more",
+      "0",
+      "5"
+    ],
+    "answer": "B",
+    "detail": "Normal meniscus = 2 bowties; discoid = 3 or more."
+  },
+  {
+    "number": 75,
+    "question": "A discoid meniscus is most accurately diagnosed on coronal MRI when the transverse length of the meniscus measures:",
+    "choices": [
+      "> 5 mm",
+      "> 8 mm",
+      "> 11 mm",
+      "> 15 mm",
+      "> 25 mm"
+    ],
+    "answer": "D",
+    "detail": "Transverse length > 15mm on a midline coronal slice is diagnostic for discoid."
+  },
+  {
+    "number": 76,
+    "question": "A 'Bucket Handle Tear' of the meniscus is a vertical longitudinal sub-type that flips medially. Where does the flipped fragment classically lie?",
+    "choices": [
+      "Posterior to the PCL",
+      "Anterior to the PCL",
+      "Superior to the ACL",
+      "Within the suprapatellar bursa",
+      "Behind the MCL"
+    ],
+    "answer": "B",
+    "detail": "The flipped fragment lies anterior to the PCL, creating the 'Double PCL' sign."
+  },
+  {
+    "number": 77,
+    "question": "A patient presents with a high-riding patella (Patella Alta) after a trauma. This finding is characteristic of a tear of which structure?",
+    "choices": [
+      "Quadriceps tendon",
+      "Patellar tendon",
+      "Medial patellofemoral ligament (MPFL)",
+      "Anterior cruciate ligament",
+      "Gastrocnemius tendon"
+    ],
+    "answer": "B",
+    "detail": "Patellar tendon rupture allows the quad to pull the patella superiorly (Alta)."
+  },
+  {
+    "number": 78,
+    "question": "Which systemic condition is classically associated with spontaneous patellar tendon tears (Alta)?",
+    "choices": [
+      "Diabetes Mellitus",
+      "Rheumatoid Arthritis",
+      "Systemic Lupus Erythematosus (SLE)",
+      "Hyperthyroidism",
+      "Osteogenesis Imperfecta"
+    ],
+    "answer": "C",
+    "detail": "SLE is the classic systemic association for patellar tendon Alta."
+  },
+  {
+    "number": 79,
+    "question": "What is the classic progression of a 'Flat Foot'?",
+    "choices": [
+      "Plantar fasciitis -> Spring ligament tear -> Posterior tibial tendon tear",
+      "Posterior tibial tendon tear -> Spring ligament tear -> Sinus tarsi involvement -> Plantar fasciitis",
+      "Achilles rupture -> Calcaneal fracture -> Flat foot",
+      "Spring ligament tear -> Posterior tibial tendon tear -> Tarsal tunnel syndrome",
+      "Sinus tarsi syndrome -> Lisfranc injury -> Flat foot"
+    ],
+    "answer": "B",
+    "detail": "Flat foot progression begins with failure of the PTT."
+  },
+  {
+    "number": 80,
+    "question": "A 'Boomerang-shaped' appearance of the Peroneus Brevis tendon on MRI is diagnostic of:",
+    "choices": [
+      "Full thickness rupture",
+      "A longitudinal split tear",
+      "Normal anatomy",
+      "Peroneal tenosynovitis",
+      "Ankle impingement"
+    ],
+    "answer": "B",
+    "detail": "The C-shape/boomerang signal of the brevis indicates a split tear."
+  },
+  {
+    "number": 81,
+    "question": "Anterolateral Impingement Syndrome of the ankle often follows an inversion injury. What is the characteristic MRI finding?",
+    "choices": [
+      "Fluid around the FHL tendon",
+      "A 'meniscoid mass' (balled up scar) in the lateral gutter",
+      "Edema in the os trigonum",
+      "A split peroneus longus tendon",
+      "Tarsal tunnel narrowing"
+    ],
+    "answer": "B",
+    "detail": "A meniscoid mass (balled up scar) in the lateral gutter is diagnostic."
+  },
+  {
+    "number": 82,
+    "question": "Tarsal Tunnel Syndrome involves compression of the posterior tibial nerve. In which location does this occur?",
+    "choices": [
+      "Behind the lateral malleolus",
+      "Anterior to the ankle joint",
+      "Behind the medial malleolus",
+      "Within the sinus tarsi",
+      "Under the plantar fascia"
+    ],
+    "answer": "C",
+    "detail": "The tarsal tunnel containing the nerve is behind the medial malleolus."
+  },
+  {
+    "number": 83,
+    "question": "'Os Trigonum Syndrome' causes pain during extreme ankle flexion (toe pointing) and is classically seen in which population?",
+    "choices": [
+      "Cross-country runners",
+      "Basketball players",
+      "Ballet dancers",
+      "Football linemen",
+      "Swimmers"
+    ],
+    "answer": "C",
+    "detail": "Ballet dancers utilizing the 'pointe' technique suffer os trigonum impingement."
+  },
+  {
+    "number": 84,
+    "question": "Stenosing tenosynovitis or fluid around the Flexor Hallucis Longus (FHL) tendon is a classic finding in which syndrome?",
+    "choices": [
+      "Sinus Tarsi Syndrome",
+      "Tarsal Tunnel Syndrome",
+      "Os Trigonum Syndrome",
+      "Plantar Fasciitis",
+      "Morton’s Neuroma"
+    ],
+    "answer": "C",
+    "detail": "Os Trigonum impingement 'smashes' Harry (FHL) and causes tenosynovitis."
+  },
+  {
+    "number": 85,
+    "question": "What is the most common site for an Achilles tendon tear?",
+    "choices": [
+      "At the calcaneal insertion",
+      "4 cm above the calcaneal insertion",
+      "At the musculotendinous junction",
+      "Within the soleus muscle",
+      "In the mid-calf"
+    ],
+    "answer": "B",
+    "detail": "The standard site for rupture is 4cm above the insertion."
+  },
+  {
+    "number": 86,
+    "question": "A 'Tennis Leg' injury refers to the rupture of which structure?",
+    "choices": [
+      "Achilles tendon",
+      "Plantaris tendon",
+      "Peroneus brevis",
+      "Anterior tibialis",
+      "Tibialis posterior"
+    ],
+    "answer": "B",
+    "detail": "Tennis leg is a rupture of the plantaris tendon between the soleus and medial gastrocnemius."
+  },
+  {
+    "number": 87,
+    "question": "An avulsion of the calcaneal tuberosity (the 'Aunt Minnie' look of the back of the bone ripped off) is classically associated with which systemic disease?",
+    "choices": [
+      "Hypertension",
+      "Renal failure",
+      "Diabetes",
+      "Alcoholism",
+      "Hyperparathyroidism"
+    ],
+    "answer": "C",
+    "detail": "Calcaneal tuberosity avulsion is an Aunt Minnie for diabetes."
+  },
+  {
+    "number": 88,
+    "question": "In DEXA scanning, what does the 'T-score' represent?",
+    "choices": [
+      "Density relative to an age-matched control",
+      "Density relative to a young adult",
+      "The thickness of the cortical bone",
+      "The probability of fracture in 10 years",
+      "The amount of radiation absorbed"
+    ],
+    "answer": "B",
+    "detail": "T-score is relative to a young adult; Z-score is relative to age-matched controls."
+  },
+  {
+    "number": 89,
+    "question": "According to the WHO criteria, a T-score of -2.6 indicates:",
+    "choices": [
+      "Normal bone density",
+      "Osteopenia",
+      "Osteoporosis",
+      "Severe Osteopenia",
+      "Paget's disease"
+    ],
+    "answer": "C",
+    "detail": "A T-score < -2.5 is categorized as osteoporosis."
+  },
+  {
+    "number": 90,
+    "question": "The FRAX tool is used to calculate the 10-year probability of fracture. In which scenario is it NOT recommended for use?",
+    "choices": [
+      "Men over 50",
+      "Post-menopausal women",
+      "Patients already on medications for osteoporosis",
+      "Patients with a T-score between -1 and -2.5",
+      "Patients with a history of a previous fracture"
+    ],
+    "answer": "C",
+    "detail": "FRAX is used to identify who needs meds, not to evaluate those already taking them."
+  },
+  {
+    "number": 91,
+    "question": "Which condition is also known as 'Sudeck Atrophy' and is characterized by severe osteopenia and intra-articular uptake on a 3-phase bone scan?",
+    "choices": [
+      "Osteomyelitis",
+      "Rheumatoid Arthritis",
+      "Reflex Sympathetic Dystrophy (RSD)",
+      "Transient Osteoporosis",
+      "Avascular Necrosis"
+    ],
+    "answer": "C",
+    "detail": "RSD is also called Sudeck Atrophy or Complex Regional Pain Syndrome."
+  },
+  {
+    "number": 92,
+    "question": "Transient Osteoporosis of the Hip is a self-limiting condition. Which clinical scenario is most expected for a multiple-choice exam?",
+    "choices": [
+      "An elderly man with a history of smoking",
+      "A female in the 3rd trimester of pregnancy involving the left hip",
+      "A young athlete with a sudden groin strain",
+      "A child with a history of sickle cell disease",
+      "A post-menopausal woman on estrogen therapy"
+    ],
+    "answer": "B",
+    "detail": "Classic MCQ presentation for transient osteoporosis is 3rd trimester pregnancy in the left hip."
+  },
+  {
+    "number": 93,
+    "question": "On MRI, how can you differentiate Transient Osteoporosis from early Avascular Necrosis (AVN)?",
+    "choices": [
+      "Transient Osteoporosis has no edema on STIR",
+      "AVN will show a serpiginous dark line representing the infarct core",
+      "Transient Osteoporosis shows patchy sclerosis on radiographs",
+      "AVN always has a normal joint space",
+      "There is no way to differentiate them on MRI"
+    ],
+    "answer": "B",
+    "detail": "AVN has the characteristic dark infarct line; transient osteoporosis is purely edematous."
+  },
+  {
+    "number": 94,
+    "question": "An MRI of the spine shows a 'band-like' T1-dark fracture line in a vertebral body. The non-deformed portions of the marrow have normal signal. What is the most likely diagnosis?",
+    "choices": [
+      "Neoplastic compression fracture",
+      "Osteoporotic compression fracture",
+      "Burst fracture",
+      "Discitis-Osteomyelitis",
+      "Plasmacytoma"
+    ],
+    "answer": "B",
+    "detail": "A band-like T1 dark line with normal remaining marrow is characteristic of osteoporotic fractures."
+  },
+  {
+    "number": 95,
+    "question": "A 'Molar Tooth' appearance of the superior cerebellar peduncles on a fetal or pediatric brain MRI is diagnostic of:",
+    "choices": [
+      "Dandy-Walker Malformation",
+      "Rhombencephalosynapsis",
+      "Joubert Syndrome",
+      "Chiari II Malformation",
+      "Septo-optic Dysplasia"
+    ],
+    "answer": "C",
+    "detail": "The molar tooth appearance is pathognomonic for Joubert Syndrome."
+  },
+  {
+    "number": 96,
+    "question": "Which stage of Osteochondritis Dissecans (OCD) is characterized by high T2 signal fluid undercutting the osteochondral fragment?",
+    "choices": [
+      "Stage 1 (Stable)",
+      "Stage 2 (Stable)",
+      "Stage 3 (Unstable)",
+      "Stage 4 (Dislocated)",
+      "Stage 5 (Secondary OA)"
+    ],
+    "answer": "C",
+    "detail": "High signal undercutting the fragment indicates it is unstable (Stage 3)."
+  },
+  {
+    "number": 97,
+    "question": "What is the 'money sequence' for evaluating bone marrow on MRI?",
+    "choices": [
+      "T2 weight fat-saturated",
+      "STIR",
+      "T1 weighted (non-fat sat)",
+      "Proton Density (PD)",
+      "Diffusion Weighted Imaging (DWI)"
+    ],
+    "answer": "C",
+    "detail": "T1 is the primary sequence for marrow; yellow is bright, red is darker."
+  },
+  {
+    "number": 98,
+    "question": "In the normal pattern of marrow conversion, which areas are the LAST to convert from red to yellow marrow?",
+    "choices": [
+      "Epiphyses",
+      "Diaphyses",
+      "Metaphyses",
+      "Axial skeleton",
+      "Flat bones"
+    ],
+    "answer": "D",
+    "detail": "Marrow converts from distal/extremities to proximal/axial; the axial skeleton is last."
+  },
+  {
+    "number": 99,
+    "question": "A 'Picture Frame Vertebra' seen on radiographs, where the cortex is thickened on all four sides, is a classic sign of:",
+    "choices": [
+      "Renal Osteodystrophy",
+      "Osteopetrosis",
+      "Paget Disease",
+      "Sickle Cell Disease",
+      "Multiple Myeloma"
+    ],
+    "answer": "C",
+    "detail": "Cortical thickening on all sides is a hallmark of Paget's in the spine."
+  },
+  {
+    "number": 100,
+    "question": "What is the most common complication of Paget Disease?",
+    "choices": [
+      "Osteosarcoma",
+      "High output CHF",
+      "Deafness",
+      "Spinal stenosis",
+      "Pathologic fracture"
+    ],
+    "answer": "C",
+    "detail": "Deafness due to skull thickening is the most common complication."
+  },
+  
+  {
+    "number": 101,
+    "question": "A 5-year-old boy presents with foot pain and a limp. Radiographs show collapse and sclerosis of the tarsal navicular. What is the most appropriate management?",
+    "choices": [
+      "A. Urgent surgical pinning",
+      "B. Biopsy to rule out Ewing sarcoma",
+      "C. Conservative/non-surgical treatment (Kohler disease)",
+      "D. Triple arthrodesis",
+      "E. Evaluation for child abuse"
+    ],
+    "answer": "C",
+    "detail": "Kohler disease is a self-limiting osteochondrosis of the navicular in young boys."
+  },
+  {
+    "number": 102,
+    "question": "Which of the following osteochondroses classically involves the second metatarsal head and is most common in adolescent girls?",
+    "choices": [
+      "A. Kohler disease",
+      "B. Freiberg infraction",
+      "C. Sever disease",
+      "D. Perthes disease",
+      "E. Kienbock disease"
+    ],
+    "answer": "B",
+    "detail": "Freiberg infraction involves the 2nd metatarsal head in adolescent girls."
+  },
+  {
+    "number": 103,
+    "question": "A 7-year-old active boy presents with heel pain. Radiographic findings show fragmentation and increased density of the calcaneal apophysis. This is most likely:",
+    "choices": [
+      "A. A calcaneal stress fracture",
+      "B. Sever disease (calcaneal apophysitis)",
+      "C. Osteomyelitis",
+      "D. Ewing sarcoma",
+      "E. Normal ossification pattern"
+    ],
+    "answer": "B",
+    "detail": "Sever disease is calcaneal apophysitis, often seen as 'growing pain' in active children."
+  },
+  {
+    "number": 104,
+    "question": "Legg-Calvé-Perthes (LCP) disease typically involves which patient demographic?",
+    "choices": [
+      "A. Adolescent girls; 12–16 years old",
+      "B. Elderly women with osteoporosis",
+      "C. White males; 4–8 years old",
+      "D. Newborn infants with hip dysplasia",
+      "E. African American males; 20–40 years old"
+    ],
+    "answer": "C",
+    "detail": "Perthes (LCP) classic demographic is small white boys aged 4–8."
+  },
+  {
+    "number": 105,
+    "question": "Kienbock disease (AVN of the lunate) is most commonly associated with which radiographic finding?",
+    "choices": [
+      "A. Positive ulnar variance",
+      "B. Neutral ulnar variance",
+      "C. Negative ulnar variance",
+      "D. Madelung deformity",
+      "E. Terry Thomas sign"
+    ],
+    "answer": "C",
+    "detail": "Kienbock (lunate AVN) is testably associated with negative ulnar variance."
+  },
+  {
+    "number": 106,
+    "question": "Which condition is defined by at least 3 adjacent levels of thoracic vertebral wedging, resulting in a thoracic kyphosis of > 40 degrees?",
+    "choices": [
+      "A. Ankylosing spondylitis",
+      "B. Scheuermann disease",
+      "C. DISH",
+      "D. Paget disease",
+      "E. Pott's disease"
+    ],
+    "answer": "B",
+    "detail": "Scheuermann is defined by thoracic kyphosis > 40 degrees and 3 levels of wedging."
+  },
+  {
+    "number": 107,
+    "question": "A 13-year-old soccer player presents with pain and soft tissue swelling over the tibial tubercle. Radiographs show fragmentation of the tubercle. What is the diagnosis?",
+    "choices": [
+      "A. Sinding-Larsen-Johansson (SLJ)",
+      "B. Osgood-Schlatter Disease (OSD)",
+      "C. Tibial spine avulsion",
+      "D. Segond fracture",
+      "E. Blount disease"
+    ],
+    "answer": "B",
+    "detail": "OSD is repetitive trauma to the tibial tubercle in jumping/kicking adolescents."
+  },
+  {
+    "number": 108,
+    "question": "Sinding-Larsen-Johansson (SLJ) disease is an overuse injury involving which anatomic structure?",
+    "choices": [
+      "A. The tibial tubercle",
+      "B. The superior pole of the patella",
+      "C. The inferior pole of the patella",
+      "D. The medial femoral condyle",
+      "E. The distal fibular physis"
+    ],
+    "answer": "C",
+    "detail": "SLJ involves the inferior pole of the patella in adolescents who jump."
+  },
+  {
+    "number": 109,
+    "question": "Regarding capitellum lesions in throwers, how does Panner’s disease differ from Osteochondritis Dissecans (OCD)?",
+    "choices": [
+      "A. Panner's occurs in older patients (12-16 years)",
+      "B. OCD typically shows no loose bodies",
+      "C. Panner's involves the entire capitellum and occurs in younger children (5-10 years)",
+      "D. OCD is always stable on MRI",
+      "E. Panner's requires immediate surgical fixation"
+    ],
+    "answer": "C",
+    "detail": "OCD is in older kids and can have loose bodies; Panner's involves the whole capitellum in younger kids."
+  },
+  {
+    "number": 110,
+    "question": "What is considered the 'money sequence' for evaluating bone marrow on MRI?",
+    "choices": [
+      "A. T2 weighted fat-saturated",
+      "B. STIR",
+      "C. T1 weighted (non-fat saturated)",
+      "D. Proton Density",
+      "E. Diffusion Weighted Imaging (DWI)"
+    ],
+    "answer": "C",
+    "detail": "T1 is the money sequence for marrow: yellow is bright, red is darker."
+  },
+  {
+    "number": 111,
+    "question": "In the normal pattern of marrow conversion, in which direction does the process move?",
+    "choices": [
+      "A. Proximal to Distal",
+      "B. Distal to Proximal",
+      "C. Axial to Peripheral",
+      "D. Random distribution",
+      "E. Superior to Inferior"
+    ],
+    "answer": "B",
+    "detail": "Marrow converts from distal/peripheral to proximal/axial."
+  },
+  {
+    "number": 112,
+    "question": "When marrow 'reconversion' occurs (e.g., in heavy smokers or those with chronic anemia), where does it begin?",
+    "choices": [
+      "A. The distal phalanges",
+      "B. The diaphysis of the femur",
+      "C. The axial skeleton (spine and flat bones)",
+      "D. The epiphyses of long bones",
+      "E. The tarsal bones"
+    ],
+    "answer": "C",
+    "detail": "Reconversion occurs in the exact reverse order of conversion, starting in the axial skeleton."
+  },
+  {
+    "number": 113,
+    "question": "Patchy areas of red marrow in the distal femur is a normal variant seen in which population?",
+    "choices": [
+      "A. Elderly men",
+      "B. Post-menopausal women",
+      "C. Teenagers and menstruating women",
+      "D. Infants under 1 year",
+      "E. Professional athletes over age 30"
+    ],
+    "answer": "C",
+    "detail": "Distal femoral red marrow sparing is a normal variant in teenagers and menstruating women."
+  },
+  {
+    "number": 114,
+    "question": "On a T1-weighted MRI sequence, normal red marrow should NEVER be darker than which internal control?",
+    "choices": [
+      "A. Subcutaneous fat",
+      "B. Normal intervertebral disc or muscle",
+      "C. Yellow marrow",
+      "D. The cortical bone",
+      "E. Joint fluid"
+    ],
+    "answer": "B",
+    "detail": "Normal red marrow should never be darker than a normal disk or muscle on T1."
+  },
+  {
+    "number": 115,
+    "question": "A brain MRI of a 6-month-old infant shows calvarial bone marrow that is hypointense on T1-weighted images. This finding is:",
+    "choices": [
+      "A. Diagnostic of leukemia",
+      "B. Suggestive of sickle cell disease",
+      "C. Normal for this age (active red marrow)",
+      "D. A sign of prior radiation",
+      "E. Metastatic neuroblastoma"
+    ],
+    "answer": "C",
+    "detail": "In young kids, calvarial marrow is active/red and thus T1 hypointense."
+  },
+  {
+    "number": 116,
+    "question": "A Segond fracture occurs with which knee mechanism?",
+    "choices": [
+      "A. External rotation",
+      "B. Internal rotation",
+      "C. Hyper-extension",
+      "D. Direct blow to the patella",
+      "E. Valgus stress with a planted foot"
+    ],
+    "answer": "B",
+    "detail": "Segond (lateral tibia) occurs with internal rotation."
+  },
+  {
+    "number": 117,
+    "question": "A Reverse Segond fracture is associated with a tear of which ligament?",
+    "choices": [
+      "A. Anterior Cruciate Ligament (ACL)",
+      "B. Posterior Cruciate Ligament (PCL)",
+      "C. Lateral Collateral Ligament (LCL)",
+      "D. Arcuate ligament",
+      "E. Fibular collateral ligament"
+    ],
+    "answer": "B",
+    "detail": "Reverse Segond (medial tibia) is associated with PCL tears and medial meniscus injury."
+  },
+  {
+    "number": 118,
+    "question": "At what time interval following an ACL reconstruction is the graft remodeling process at its weakest point and most susceptible to tear?",
+    "choices": [
+      "A. 0–2 weeks",
+      "B. 1 month",
+      "C. 4–8 months",
+      "D. 1 year",
+      "E. 2 years"
+    ],
+    "answer": "C",
+    "detail": "The ACL graft is most susceptible to tear during its remodeling nadir at 4–8 months."
+  },
+  {
+    "number": 119,
+    "question": "A radiologist identifies that a patient’s ACL graft tibial tunnel is too far anterior, intersecting with Blumensaat’s line. Which complication is most likely?",
+    "choices": [
+      "A. Maintained isometry",
+      "B. Roof impingement",
+      "C. Cyclops lesion",
+      "D. Arthrofibrosis of the posterior capsule",
+      "E. Popliteal artery dissection"
+    ],
+    "answer": "B",
+    "detail": "Intersection with Blumensaat’s line indicates an anterior tunnel and roof impingement."
+  },
+  {
+    "number": 120,
+    "question": "If a knee MRI identifies a posterior dislocation or a complete PCL tear, what is the most critical 'next step' to exclude a limb-threatening emergency?",
+    "choices": [
+      "A. Look for a discoid meniscus",
+      "B. Evaluate for a Segond fracture",
+      "C. Evaluate the popliteal flow void (consider CTA)",
+      "D. Check the integrity of the MCL",
+      "E. Perform a weight-bearing radiograph"
+    ],
+    "answer": "C",
+    "detail": "Posterior knee dislocation risks injury/dissection of the popliteal artery."
+  },
+  {
+    "number": 121,
+    "question": "To diagnose a discoid meniscus on a midline coronal MRI, the transverse length of the meniscus must measure:",
+    "choices": [
+      "A. > 5 mm",
+      "B. > 8 mm",
+      "C. > 10 mm",
+      "D. > 15 mm",
+      "E. > 25 mm"
+    ],
+    "answer": "D",
+    "detail": "Transverse length > 15mm on coronal is diagnostic for discoid meniscus."
+  },
+  {
+    "number": 122,
+    "question": "In a 'Bucket Handle' meniscal tear, the flipped fragment classically lies in which position?",
+    "choices": [
+      "A. Posterior to the PCL",
+      "B. Anterior to the PCL",
+      "C. Displaced into the suprapatellar bursa",
+      "D. Superior to the ACL",
+      "E. Posterior to the MCL"
+    ],
+    "answer": "B",
+    "detail": "This is the 'Double PCL' sign of a bucket handle tear."
+  },
+  {
+    "number": 123,
+    "question": "Which of the following best describes the anatomy of a Stener Lesion?",
+    "choices": [
+      "A. The ACL is trapped within a tibial spine fracture",
+      "B. The adductor aponeurosis gets caught in the torn edges of the Ulnar Collateral Ligament (UCL)",
+      "C. The Peroneus Brevis is split by the Peroneus Longus",
+      "D. The TFCC is displaced into the radiocarpal joint",
+      "E. The biceps tendon is subluxed medially"
+    ],
+    "answer": "B",
+    "detail": "A Stener lesion occurs when the adductor aponeurosis traps the torn edges of the thumb UCL."
+  },
+  {
+    "number": 124,
+    "question": "Which stress fracture location is categorized as 'High Risk' for non-union or progression?",
+    "choices": [
+      "A. Calcaneus",
+      "B. 2nd metatarsal",
+      "C. 5th metatarsal (Jones fracture region)",
+      "D. Compressive side of the femoral neck",
+      "E. Posterior medial tibia"
+    ],
+    "answer": "C",
+    "detail": "Tarsal navicular and 5th metatarsal are categorized as high-risk stress fractures."
+  },
+  {
+    "number": 125,
+    "question": "A stress fracture in the anterior midshaft of the tibia is considered:",
+    "choices": [
+      "A. Low risk",
+      "B. High risk (Tensile side)",
+      "C. A normal variant",
+      "D. Pathognomonic for osteoporosis",
+      "E. Secondary to SONK"
+    ],
+    "answer": "B",
+    "detail": "Anterior tibial midshaft is high risk (tensile side); posterior medial is low risk."
+  },
+  {
+    "number": 126,
+    "question": "Which of the following is considered a 'Low Risk' stress fracture?",
+    "choices": [
+      "A. Tarsal navicular",
+      "B. Talus",
+      "C. Calcaneus",
+      "D. Femoral neck (tensile side)",
+      "E. Great toe sesamoids"
+    ],
+    "answer": "C",
+    "detail": "Calcaneus, posterior medial tibia, and compressive side of the femoral neck are low risk."
+  },
+  {
+    "number": 127,
+    "question": "Stress fractures of the 2nd and 3rd metatarsal are categorized as:",
+    "choices": [
+      "A. High risk",
+      "B. Low risk",
+      "C. Pathologic",
+      "D. Insufficiency fractures of normal bone",
+      "E. Always requiring surgical fixation"
+    ],
+    "answer": "B",
+    "detail": "2nd and 3rd metatarsal stress fractures (March fractures) are low risk."
+  },
+  {
+    "number": 128,
+    "question": "A sagittal T1 MRI of the shoulder shows 'grey smudgy shit' instead of clean fat within the rotator cuff interval. What is the diagnosis?",
+    "choices": [
+      "A. Full thickness supraspinatus tear",
+      "B. Subacromial impingement",
+      "C. Adhesive capsulitis (Frozen Shoulder)",
+      "D. Parsonage-Turner Syndrome",
+      "E. Dislocation"
+    ],
+    "answer": "C",
+    "detail": "The MRI key for adhesive capsulitis is the loss of clean fat in the rotator cuff interval."
+  },
+  {
+    "number": 129,
+    "question": "What is the most common imaging modality used to show 'Trigger Finger' (stenosing tenosynovitis)?",
+    "choices": [
+      "A. MRI with contrast",
+      "B. CT Arthrography",
+      "C. Ultrasound",
+      "D. Radiographs",
+      "E. Nuclear medicine bone scan"
+    ],
+    "answer": "C",
+    "detail": "Trigger finger is most commonly demonstrated using ultrasound."
+  },
+  {
+    "number": 130,
+    "question": "A patient has a fracture of the proximal ulna and a dislocation of the radial head. This is a:",
+    "choices": [
+      "A. Monteggia fracture",
+      "B. Galeazzi fracture",
+      "C. Essex-Lopresti fracture",
+      "D. Barton fracture",
+      "E. Colles fracture"
+    ],
+    "answer": "A",
+    "detail": "MUGR: Monteggia = Ulna fx + Radial head dislocation."
+  },
+  {
+    "number": 131,
+    "question": "A patient has a fracture of the distal radius and a dislocation of the distal radioulnar joint (DRUJ). This is a:",
+    "choices": [
+      "A. Monteggia fracture",
+      "B. Galeazzi fracture",
+      "C. Smith fracture",
+      "D. Chauffeur fracture",
+      "E. Die-punch fracture"
+    ],
+    "answer": "B",
+    "detail": "MUGR: Galeazzi = Radius fx + Ulnar head/DRUJ dislocation."
+  },
+  {
+    "number": 132,
+    "question": "Internal shoulder impingement in athletes with overhead movements (e.g., pitchers) classically damages which structures?",
+    "choices": [
+      "A. The subscapularis and coracoid",
+      "B. The infraspinatus and posterior fibers of the supraspinatus",
+      "C. The long head of the biceps and the labrum",
+      "D. The deltoid and acromion",
+      "E. The teres major and latissimus dorsi"
+    ],
+    "answer": "B",
+    "detail": "Internal impingement damages the posterior superior rotator cuff fibers."
+  },
+  {
+    "number": 133,
+    "question": "Subcoracoid impingement results in damage to which tendon?",
+    "choices": [
+      "A. Supraspinatus",
+      "B. Infraspinatus",
+      "C. Subscapularis",
+      "D. Teres minor",
+      "E. Long head of the biceps"
+    ],
+    "answer": "C",
+    "detail": "Subcoracoid = Anterior = Subscapularis."
+  },
+  {
+    "number": 134,
+    "question": "On MRI, which combination of findings is diagnostic of a full-thickness rotator cuff tear?",
+    "choices": [
+      "A. High T2 signal in the tendon and normal T1 appearance",
+      "B. High T2 signal in the tendon and Gadolinium in the bursa on T1",
+      "C. Intermediate PD signal and no bursal fluid",
+      "D. Low T1 signal and bone marrow edema",
+      "E. Thickened coracohumeral ligament"
+    ],
+    "answer": "B",
+    "detail": "Communication between joint and bursa via Gadolinium proves a full-thickness defect."
+  },
+  {
+    "number": 135,
+    "question": "What is the first structure to 'go out' in the classic progression of a flat foot?",
+    "choices": [
+      "A. Spring ligament",
+      "B. Plantar fascia",
+      "C. Posterior tibial tendon",
+      "D. Sinus tarsi",
+      "E. Achilles tendon"
+    ],
+    "answer": "C",
+    "detail": "Flat foot progression starts with the posterior tibial tendon failing."
+  },
+  {
+    "number": 136,
+    "question": "A Peroneus Brevis tendon that appears 'C-shaped' or 'boomerang-shaped' on axial MRI indicates:",
+    "choices": [
+      "A. A normal variant",
+      "B. A longitudinal split tear",
+      "C. Acute tenosynovitis",
+      "D. Full thickness rupture",
+      "E. Peroneal subluxation"
+    ],
+    "answer": "B",
+    "detail": "The boomerang/C-shape of the brevis indicates a longitudinal split."
+  },
+  {
+    "number": 137,
+    "question": "Anterolateral Impingement Syndrome of the ankle is characterized by a 'meniscoid mass' on MRI. Where is this mass located?",
+    "choices": [
+      "A. In the medial gutter",
+      "B. In the lateral gutter",
+      "C. Within the sinus tarsi",
+      "D. Behind the medial malleolus",
+      "E. Within the os trigonum"
+    ],
+    "answer": "B",
+    "detail": "Anterolateral impingement occurs in the lateral gutter."
+  },
+  {
+    "number": 138,
+    "question": "Os Trigonum Syndrome is classically associated with which 'buzzword' population?",
+    "choices": [
+      "A. Basketball players",
+      "B. Ballet dancers",
+      "C. Football linemen",
+      "D. Swimmers",
+      "E. Marathon runners"
+    ],
+    "answer": "B",
+    "detail": "Os Trigonum 'pointe technique' syndrome is classic for ballet dancers."
+  },
+  {
+    "number": 139,
+    "question": "Where is the most common location for an acute Achilles tendon rupture?",
+    "choices": [
+      "A. At the calcaneal insertion",
+      "B. 4 cm above the calcaneal insertion",
+      "C. At the musculotendinous junction",
+      "D. Within the gastrocnemius muscle belly",
+      "E. At the level of the plantaris tendon"
+    ],
+    "answer": "B",
+    "detail": "The standard site for Achilles rupture is 4 cm above the insertion."
+  },
+  {
+    "number": 140,
+    "question": "An avulsion of the calcaneal tuberosity (the 'Aunt Minnie' look) is most strongly associated with which disease?",
+    "choices": [
+      "A. Rheumatoid arthritis",
+      "B. Hypertension",
+      "C. Diabetes",
+      "D. Alcoholism",
+      "E. Gout"
+    ],
+    "answer": "C",
+    "detail": "Calcaneal tuberosity avulsion is an Aunt Minnie for diabetes."
+  },
+  {
+    "number": 141,
+    "question": "According to the WHO criteria for DEXA, a T-score between -1.0 and -2.5 is defined as:",
+    "choices": [
+      "A. Normal",
+      "B. Osteopenia",
+      "C. Osteoporosis",
+      "D. Severe Osteoporosis",
+      "E. Paget disease"
+    ],
+    "answer": "B",
+    "detail": "WHO defines -1.0 to -2.5 as osteopenia."
+  },
+  {
+    "number": 142,
+    "question": "Pharmacologic intervention is suggested by some guidelines if the FRAX calculated 10-year hip fracture risk is:",
+    "choices": [
+      "A. > 1%",
+      "B. > 3%",
+      "C. > 10%",
+      "D. > 20%",
+      "E. > 50%"
+    ],
+    "answer": "B",
+    "detail": "Guidelines suggest meds if hip risk > 3% or major risk > 20%."
+  },
+  {
+    "number": 143,
+    "question": "Transient osteoporosis of the hip is a self-limiting condition. On a board exam, which clinical scenario is most expected?",
+    "choices": [
+      "A. An elderly man with bilateral hip pain",
+      "B. A female in the 3rd trimester of pregnancy with left hip pain",
+      "C. A child with sickle cell disease",
+      "D. A post-menopausal woman on steroids",
+      "E. A trauma patient after a motor vehicle accident"
+    ],
+    "answer": "B",
+    "detail": "The classic board scenario is 3rd trimester pregnancy in the left hip."
+  },
+  {
+    "number": 144,
+    "question": "Which finding on MRI is more suggestive of a neoplastic vertebral compression fracture rather than an osteoporotic one?",
+    "choices": [
+      "A. A 'band-like' T1 dark fracture line",
+      "B. Normal marrow signal in the non-deformed portions of the body",
+      "C. Involvement of the posterior margin and abnormal marrow signal",
+      "D. Retropulsion of a posterior bone fragment",
+      "E. Preserved height of the posterior elements"
+    ],
+    "answer": "C",
+    "detail": "Neoplastic fractures typically replace the normal marrow and involve the posterior margin."
+  },
+  {
+    "number": 145,
+    "question": "A 'Mini Brain Appearance' in a vertebral body is characteristic of:",
+    "choices": [
+      "A. Hemangioma",
+      "B. Plasmacytoma",
+      "C. Paget disease",
+      "D. Chordoma",
+      "E. Metastatic prostate cancer"
+    ],
+    "answer": "B",
+    "detail": "Mini brain appearance is seen with plasmacytoma in a vertebral body."
+  },
+  {
+    "number": 146,
+    "question": "An Osteoid Osteoma of the epiphysis has a classic preference for which location?",
+    "choices": [
+      "A. Inferior pole of the patella",
+      "B. Superior epiphysis of the talus (near talocalcaneal articulation)",
+      "C. Distal radius",
+      "D. Greater tuberosity of the humerus",
+      "E. Coracoid process"
+    ],
+    "answer": "B",
+    "detail": "The superior talus is a classic epiphysis location for osteoid osteoma."
+  },
+  {
+    "number": 147,
+    "question": "Which feature is unique to Chondroblastoma compared to most other bone lesions on MRI?",
+    "choices": [
+      "A. It is extremely bright on T2",
+      "B. It is often NOT T2 bright",
+      "C. It lacks a sclerotic rim",
+      "D. It never shows marrow edema",
+      "E. It is only found in adults over 40"
+    ],
+    "answer": "B",
+    "detail": "Chondroblastoma is unique because it is often NOT T2 bright."
+  },
+  {
+    "number": 148,
+    "question": "A patient has pain during extreme ankle flexion ('toe pointing'). MRI shows edema in an accessory ossicle and fluid around the FHL ('Harry') tendon. This is:",
+    "choices": [
+      "A. Tarsal Tunnel Syndrome",
+      "B. Sinus Tarsi Syndrome",
+      "C. Os Trigonum Syndrome",
+      "D. Plantar Fasciitis",
+      "E. Morton's Neuroma"
+    ],
+    "answer": "C",
+    "detail": "Os Trigonum Syndrome affects 'Harry' (FHL)."
+  },
+  {
+    "number": 149,
+    "question": "According to the staging system for Osteochondritis Dissecans (OCD), Stage 3 is defined as:",
+    "choices": [
+      "A. Continuous with host bone; covered by intact cartilage",
+      "B. Stable on probing; partial discontinuity",
+      "C. Unstable on probing; complete discontinuity of the lesion",
+      "D. A dislocated fragment",
+      "E. Secondary Osteoarthritis"
+    ],
+    "answer": "C",
+    "detail": "Stage 3 OCD is characterized by complete discontinuity and instability."
+  },
+  {
+    "number": 150,
+    "question": "Where is the most common location for Osteochondritis Dissecans (OCD) in the knee?",
+    "choices": [
+      "A. Anterior lateral femoral condyle",
+      "B. Superior pole of the patella",
+      "C. Lateral aspect of the medial femoral condyle",
+      "D. Medial aspect of the lateral femoral condyle",
+      "E. Tibial spine"
+    ],
+    "answer": "C",
+    "detail": "The lateral aspect of the medial femoral condyle is the #1 site for knee OCD."
+  },
+  {
+    "number": 151,
+    "question": "Which statement regarding scaphoid fracture healing is correct?",
+    "choices": [
+      "A. The proximal pole has the best blood supply",
+      "B. The distal pole is most likely to undergo avascular necrosis (AVN)",
+      "C. The proximal pole is most likely to heal without complication",
+      "D. The distal pole has a better prognosis for healing due to antegrade blood flow",
+      "E. The blood supply to the scaphoid is primarily from the ulnar artery"
+    ],
+    "answer": "D",
+    "detail": "Blood supply is retrograde, making the proximal pole prone to AVN and the distal pole more likely to heal."
+  },
+  {
+    "number": 152,
+    "question": "A neutral AP radiograph of the wrist shows a gap of 4 mm between the scaphoid and lunate. This 'Terry Thomas sign' indicates disruption of which ligament?",
+    "choices": [
+      "A. Luno-triquetral ligament",
+      "B. Scapholunate (SL) ligament",
+      "C. Dorsal radiolunate ligament",
+      "D. Volar radiocarpal ligament",
+      "E. Radial collateral ligament"
+    ],
+    "answer": "B",
+    "detail": "A gap > 3 mm (Terry Thomas sign) indicates SL dissociation."
+  },
+  {
+    "number": 153,
+    "question": "In the sequence of perilunate instability, which stage involves the injury of the dorsal radiotriquetral ligament and involves the triquetrum?",
+    "choices": [
+      "A. Stage 1",
+      "B. Stage 2",
+      "C. Stage 3",
+      "D. Stage 4",
+      "E. Stage 5"
+    ],
+    "answer": "C",
+    "detail": "Stage 3 of perilunate instability involves the triquetrum and its dorsal radiotriquetral ligament."
+  },
+  {
+    "number": 154,
+    "question": "On a lateral radiograph of the wrist, the lunate is tilted dorsally, and the scapholunate angle is measured at 80 degrees. What is the diagnosis?",
+    "choices": [
+      "A. VISI (Volar Intercalated Segment Instability)",
+      "B. DISI (Dorsal Intercalated Segment Instability)",
+      "C. Lunate dislocation",
+      "D. Scaphoid non-union",
+      "E. Kienbock disease"
+    ],
+    "answer": "B",
+    "detail": "Dorsal lunate tilt and SL angle > 60-70 degrees defines DISI."
+  },
+  {
+    "number": 155,
+    "question": "A lateral wrist radiograph shows a scapholunate angle of 20 degrees with the lunate tilted volarly. What is the most likely diagnosis?",
+    "choices": [
+      "A. DISI",
+      "B. VISI",
+      "C. Perilunate dislocation",
+      "D. Scaphoid waist fracture",
+      "E. SL ligament tear"
+    ],
+    "answer": "B",
+    "detail": "Volar lunate tilt and SL angle < 30 degrees defines VISI."
+  },
+  {
+    "number": 156,
+    "question": "Regarding carpal stability, which band of the luno-triquetral (LT) ligament is considered the most important stabilizer?",
+    "choices": [
+      "A. Dorsal band",
+      "B. Volar band",
+      "C. Middle band",
+      "D. Proximal band",
+      "E. Distal band"
+    ],
+    "answer": "B",
+    "detail": "The volar band is critical for LT stability, while the dorsal is critical for SL."
+  },
+  {
+    "number": 157,
+    "question": "Which distal radius fracture is described as a 'reverse Colles' fracture, involving volar angulation of the distal fragment?",
+    "choices": [
+      "A. Smith fracture",
+      "B. Barton fracture",
+      "C. Chauffeur fracture",
+      "D. Die-punch fracture",
+      "E. Hutchinson fracture"
+    ],
+    "answer": "A",
+    "detail": "A Smith fracture is a 'reverse Colles' with volar angulation."
+  },
+  {
+    "number": 158,
+    "question": "A 'Die-punch' fracture of the wrist refers specifically to an intra-articular depression fracture of which structure?",
+    "choices": [
+      "A. The radial styloid",
+      "B. The scaphoid tubercle",
+      "C. The lunate facet of the distal radius",
+      "D. The ulnar styloid",
+      "E. The triquetrum"
+    ],
+    "answer": "C",
+    "detail": "Die-punch is an intra-articular depression fracture of the lunate facet."
+  },
+  {
+    "number": 159,
+    "question": "Which distal radius fracture is characterized by an intra-articular fracture of the radial styloid, historically occurring from hand-cranking early motor vehicles?",
+    "choices": [
+      "A. Colles fracture",
+      "B. Smith fracture",
+      "C. Barton fracture",
+      "D. Chauffeur fracture",
+      "E. Galeazzi fracture"
+    ],
+    "answer": "D",
+    "detail": "Chauffeur's fracture is an intra-articular radial styloid fracture."
+  },
+  {
+    "number": 160,
+    "question": "In patients with Rheumatoid Arthritis, tenosynovitis typically begins in which extensor compartment of the wrist?",
+    "choices": [
+      "A. 1st compartment",
+      "B. 2nd compartment",
+      "C. 4th compartment",
+      "D. 6th compartment (ECU)",
+      "E. 5th compartment (EDM)"
+    ],
+    "answer": "D",
+    "detail": "RA tenosynovitis classically begins in the ECU (6th compartment)."
+  },
+  {
+    "number": 161,
+    "question": "Guyon's Canal contains which two primary structures?",
+    "choices": [
+      "A. Median nerve and Radial artery",
+      "B. Ulnar nerve and Ulnar artery",
+      "C. Median nerve and Flexor Pollicis Longus",
+      "D. Radial nerve and Brachial artery",
+      "E. Ulnar nerve and Pisiform tendon"
+    ],
+    "answer": "B",
+    "detail": "Guyon's canal contains the ulnar nerve and artery."
+  },
+  {
+    "number": 162,
+    "question": "Vaughan-Jackson Syndrome, seen in advanced Rheumatoid Arthritis, involves the sequential rupture of extensor tendons. Which tendon is typically the FIRST to rupture?",
+    "choices": [
+      "A. Extensor Pollicis Longus (EPL)",
+      "B. Extensor Digiti Minimi (EDM)",
+      "C. Extensor Carpi Ulnaris (ECU)",
+      "D. Extensor Indicis Proprius (EIP)",
+      "E. Abductor Pollicis Longus (APL)"
+    ],
+    "answer": "B",
+    "detail": "Rupture in Vaughan-Jackson progresses ulnar to radial, starting with the EDM."
+  },
+  {
+    "number": 163,
+    "question": "A patient presents with 'crepitus' 4 cm proximal to Lister’s tubercle on the dorsal wrist. This clinical finding is a hallmark of:",
+    "choices": [
+      "A. De Quervain’s Tenosynovitis",
+      "B. Intersection Syndrome",
+      "C. Drummer’s Wrist",
+      "D. Carpal Tunnel Syndrome",
+      "E. Guyon’s Canal Syndrome"
+    ],
+    "answer": "B",
+    "detail": "Intersection Syndrome is marked by crepitus where the 1st and 2nd compartments cross."
+  },
+  {
+    "number": 164,
+    "question": "What is the specific mechanism causing the 'Humpback Deformity' in scaphoid fractures?",
+    "choices": [
+      "A. Proximal migration of the capitate",
+      "B. Volar angulation of the distal and proximal fragments",
+      "C. Dorsal displacement of the lunate",
+      "D. Avulsion of the scaphoid tubercle",
+      "E. Osteonecrosis of the proximal pole"
+    ],
+    "answer": "B",
+    "detail": "Volar angulation in a scaphoid waist fracture creates the humpback deformity."
+  },
+  {
+    "number": 165,
+    "question": "On MRI, a 'yo-yo' appearance seen at the base of the first phalanx is associated with which entity?",
+    "choices": [
+      "A. Bennett fracture",
+      "B. Rolando fracture",
+      "C. Stener Lesion",
+      "D. Gamekeeper's thumb (without Stener)",
+      "E. Trigger Finger"
+    ],
+    "answer": "C",
+    "detail": "The 'yo-yo' sign represents the retracted UCL in a Stener lesion."
+  },
+  {
+    "number": 166,
+    "question": "Trigger Finger (stenosing tenosynovitis) most commonly involves which pulley system of the hand?",
+    "choices": [
+      "A. A1 Pulley",
+      "B. A2 Pulley",
+      "C. A4 Pulley",
+      "D. C1 Pulley",
+      "E. Palmar aponeurosis"
+    ],
+    "answer": "A",
+    "detail": "Trigger finger involves scarring and thickening at the A1 pulley."
+  },
+  {
+    "number": 167,
+    "question": "Following the 'pretzel principle' of forearm fractures, if an isolated fracture of the radius is identified, which joint should the radiologist evaluate most carefully for a hidden injury?",
+    "choices": [
+      "A. The elbow (radial head)",
+      "B. The wrist (DRUJ)",
+      "C. The first CMC joint",
+      "D. The glenohumeral joint",
+      "E. The proximal radioulnar joint"
+    ],
+    "answer": "B",
+    "detail": "A radial fracture with DRUJ dislocation is a Galeazzi fracture."
+  },
+  {
+    "number": 168,
+    "question": "A patient has a fracture of the distal third of the radial shaft and a dislocation of the distal radioulnar joint (DRUJ). This is a:",
+    "choices": [
+      "A. Monteggia fracture",
+      "B. Galeazzi fracture",
+      "C. Essex-Lopresti fracture",
+      "D. Colles fracture",
+      "E. Smith fracture"
+    ],
+    "answer": "B",
+    "detail": "This describes the Galeazzi fracture-dislocation."
+  },
+  {
+    "number": 169,
+    "question": "An 'Avian Spur' (supracondylar spur) on the humerus is a normal variant that has which characteristic radiographic orientation?",
+    "choices": [
+      "A. Points away from the joint",
+      "B. Points toward the elbow joint",
+      "C. Located on the lateral humerus",
+      "D. Points toward the shoulder",
+      "E. Associated with the triceps tendon"
+    ],
+    "answer": "B",
+    "detail": "The avian spur points toward the elbow joint."
+  },
+  {
+    "number": 170,
+    "question": "Which nerve is most likely to be compressed by the Ligament of Struthers in the presence of a supracondylar spur?",
+    "choices": [
+      "A. Radial nerve",
+      "B. Ulnar nerve",
+      "C. Median nerve",
+      "D. Axillary nerve",
+      "E. Musculocutaneous nerve"
+    ],
+    "answer": "C",
+    "detail": "The median nerve is compressed by the Ligament of Struthers."
+  },
+  {
+    "number": 171,
+    "question": "A golfer presents with pain over the medial aspect of the elbow. This 'Golfer’s Elbow' involves which of the following?",
+    "choices": [
+      "A. Lateral epicondylitis",
+      "B. Medial epicondylitis",
+      "C. Radial head fracture",
+      "D. Olecranon bursitis",
+      "E. Triceps tendinosis"
+    ],
+    "answer": "B",
+    "detail": "Golfer's elbow is medial epicondylitis."
+  },
+  {
+    "number": 172,
+    "question": "In a partial tear of the medial ulnar collateral ligament (UCL), the 'T-sign' represents joint fluid extending medially to which anatomic landmark?",
+    "choices": [
+      "A. The radial head",
+      "B. The coronoid process",
+      "C. The sublime tubercle",
+      "D. The olecranon",
+      "E. The trochlea"
+    ],
+    "answer": "C",
+    "detail": "The T-sign is contrast/fluid medial to the sublime tubercle."
+  },
+  {
+    "number": 173,
+    "question": "Little Leaguer’s Elbow involves a triad of injuries. Which of the following is NOT part of that triad?",
+    "choices": [
+      "A. Medial tension (medial epicondyle injury)",
+      "B. Lateral compression (capitellum OCD)",
+      "C. Posterior shear (olecranon)",
+      "D. Anterior traction (biceps avulsion)",
+      "E. UCL injury"
+    ],
+    "answer": "D",
+    "detail": "Triad includes medial tension, lateral compression, and posterior shear."
+  },
+  {
+    "number": 174,
+    "question": "Rupture of the long head of the biceps tendon is a common injury. Where is the most common site for this rupture?",
+    "choices": [
+      "A. At the labral attachment",
+      "B. Within the bicipital groove",
+      "C. At the musculotendinous junction",
+      "D. At the radial tuberosity",
+      "E. Within the muscle belly"
+    ],
+    "answer": "B",
+    "detail": "The bicipital groove is the most common site for long head biceps rupture."
+  },
+  {
+    "number": 175,
+    "question": "A 'Reverse Hill-Sachs' lesion is a fracture of the anterior medial humeral head. Which type of dislocation is it associated with?",
+    "choices": [
+      "A. Anterior dislocation",
+      "B. Posterior dislocation",
+      "C. Inferior dislocation (Luxatio erecta)",
+      "D. Superior subluxation",
+      "E. Multidirectional instability"
+    ],
+    "answer": "B",
+    "detail": "Reverse Hill-Sachs is diagnostic of a posterior shoulder dislocation."
+  },
+  {
+    "number": 176,
+    "question": "Which of the following is a classic radiographic sign of a posterior shoulder dislocation?",
+    "choices": [
+      "A. Bankart lesion",
+      "B. Light bulb sign",
+      "C. Hill-Sachs lesion",
+      "D. Anterior escape",
+      "E. Subcoracoid impingement"
+    ],
+    "answer": "B",
+    "detail": "The light bulb sign is a hallmark of posterior shoulder dislocation."
+  },
+  {
+    "number": 177,
+    "question": "According to the Neer classification for proximal humerus fractures, what defines a 'part'?",
+    "choices": [
+      "A. Any fracture line visible on radiographs",
+      "B. A fragment displaced > 1 cm or angulated > 45 degrees",
+      "C. A fracture involving the articular surface",
+      "D. Comminution of the humeral shaft",
+      "E. Involvement of the surgical neck"
+    ],
+    "answer": "B",
+    "detail": "Neer defines a part by displacement > 1 cm or angulation > 45 degrees."
+  },
+  {
+    "number": 178,
+    "question": "A patient is being considered for a Reverse Total Shoulder Arthroplasty. Which muscle must be fully functional for this procedure to be successful?",
+    "choices": [
+      "A. Supraspinatus",
+      "B. Infraspinatus",
+      "C. Subscapularis",
+      "D. Deltoid",
+      "E. Teres minor"
+    ],
+    "answer": "D",
+    "detail": "Reverse TSA requires an intact and functioning deltoid muscle."
+  },
+  {
+    "number": 179,
+    "question": "Subcoracoid impingement involves narrowing of the space between the coracoid process and which other structure?",
+    "choices": [
+      "A. The greater tuberosity",
+      "B. The lesser tuberosity",
+      "C. The acromion",
+      "D. The glenoid labrum",
+      "E. The bicipital groove"
+    ],
+    "answer": "B",
+    "detail": "Subcoracoid impingement pinches tendons between the coracoid and lesser tuberosity."
+  },
+  {
+    "number": 180,
+    "question": "Sagittal T1-weighted MRI of the shoulder shows a 'grey smudgy' appearance with a loss of clean fat between the supraspinatus and subscapularis tendons. This finding is diagnostic of:",
+    "choices": [
+      "A. Parsonage-Turner Syndrome",
+      "B. Adhesive capsulitis",
+      "C. Internal impingement",
+      "D. SLAP tear",
+      "E. Full thickness rotator cuff tear"
+    ],
+    "answer": "B",
+    "detail": "Loss of fat in the rotator cuff interval is a classic MRI sign of adhesive capsulitis."
+  },
+  {
+    "number": 181,
+    "question": "MRI of the knee in a marathon runner shows fluid on both sides of the iliotibial band, located posterior and lateral. What is the most likely diagnosis?",
+    "choices": [
+      "A. Lateral collateral ligament tear",
+      "B. Lateral meniscal tear",
+      "C. IT Band Syndrome",
+      "D. Segond fracture",
+      "E. Popliteus tendinitis"
+    ],
+    "answer": "C",
+    "detail": "Fluid on both sides of the IT band in a runner is the classic MRI key for IT band syndrome."
+  },
+  {
+    "number": 182,
+    "question": "Hip labral tears are most commonly found in which location?",
+    "choices": [
+      "A. Posterior-superior",
+      "B. Anterior-superior",
+      "C. Posterior-inferior",
+      "D. Anterior-inferior",
+      "E. Superior-central"
+    ],
+    "answer": "B",
+    "detail": "The anterior-superior aspect is the most common site for hip labral tears."
+  },
+  {
+    "number": 183,
+    "question": "Paralabral cysts of the hip are a useful secondary sign for identifying:",
+    "choices": [
+      "A. Femoroacetabular impingement (FAI)",
+      "B. Labral tears",
+      "C. Osteonecrosis",
+      "D. Iliopsoas bursitis",
+      "E. Gluteus medius tears"
+    ],
+    "answer": "B",
+    "detail": "Paralabral cysts are highly specific secondary indicators of an underlying labral tear."
+  },
+  {
+    "number": 184,
+    "question": "What is the largest bursa in the entire human body?",
+    "choices": [
+      "A. Subacromial bursa",
+      "B. Iliopsoas bursa",
+      "C. Prepatellar bursa",
+      "D. Retrocalcaneal bursa",
+      "E. Pes anserine bursa"
+    ],
+    "answer": "B",
+    "detail": "The iliopsoas bursa is the largest in the body."
+  },
+  {
+    "number": 185,
+    "question": "A Segond fracture is an avulsion of the lateral tibial plateau. What is the associated mechanism of injury?",
+    "choices": [
+      "A. External rotation",
+      "B. Internal rotation",
+      "C. Valgus stress",
+      "D. Hyperextension",
+      "E. Direct impaction"
+    ],
+    "answer": "B",
+    "detail": "A Segond fracture involves an internal rotation mechanism."
+  },
+  {
+    "number": 186,
+    "question": "A Reverse Segond fracture involves an avulsion of the medial tibial plateau and is associated with which ligament injury?",
+    "choices": [
+      "A. ACL",
+      "B. PCL",
+      "C. MCL",
+      "D. LCL",
+      "E. ALL (Anterolateral ligament)"
+    ],
+    "answer": "B",
+    "detail": "Reverse Segond is associated with PCL injury."
+  },
+  {
+    "number": 187,
+    "question": "The 'Arcuate Sign' involves an avulsion of which bone?",
+    "choices": [
+      "A. Medial malleolus",
+      "B. Lateral femoral condyle",
+      "C. Proximal fibula",
+      "D. Tibial tubercle",
+      "E. Patella"
+    ],
+    "answer": "C",
+    "detail": "Avulsion of the proximal fibula is 90% specific for PCL or arcuate complex injury."
+  },
+  {
+    "number": 188,
+    "question": "A 'Deep Intercondylar Notch Sign' seen on a lateral radiograph of the knee is indicative of:",
+    "choices": [
+      "A. Chronic PCL injury",
+      "B. Acute ACL tear",
+      "C. Bucket handle meniscal tear",
+      "D. SONK",
+      "E. Patellar dislocation"
+    ],
+    "answer": "B",
+    "detail": "Impaction of the lateral condyle during ACL rupture creates this notch."
+  },
+  {
+    "number": 189,
+    "question": "Magic Angle phenomenon is most commonly seen on which type of MRI sequence?",
+    "choices": [
+      "A. T2-weighted with long Echo Time (TE)",
+      "B. T1-weighted or Proton Density with short Echo Time (TE)",
+      "C. T2-weighted fat-saturated",
+      "D. STIR",
+      "E. DWI"
+    ],
+    "answer": "B",
+    "detail": "Magic angle is seen at 55 degrees on short TE sequences like T1 or PD."
+  },
+  {
+    "number": 190,
+    "question": "O'Donoghue's Unhappy Triad classically includes tears of the ACL, MCL, and which meniscal structure?",
+    "choices": [
+      "A. Lateral meniscus",
+      "B. Medial meniscus",
+      "C. Discoid meniscus",
+      "D. Meniscus homologue",
+      "E. Transverse ligament"
+    ],
+    "answer": "B",
+    "detail": "The traditional unhappy triad consists of ACL, MCL, and medial meniscus tears."
+  },
+  {
+    "number": 191,
+    "question": "On MRI, the T1-weighted 'buzzword' for ACL mucoid degeneration is:",
+    "choices": [
+      "A. Celery stalk",
+      "B. Drumstick",
+      "C. Boomerang",
+      "D. Y-sign",
+      "E. Double PCL sign"
+    ],
+    "answer": "B",
+    "detail": "Drumstick is the T1 buzzword for ACL mucoid degeneration."
+  },
+  {
+    "number": 192,
+    "question": "When evaluating an ACL repair graft, the tibial tunnel should be positioned to parallel which radiographic landmark?",
+    "choices": [
+      "A. The tibial shaft",
+      "B. Blumensaat’s line",
+      "C. The joint line",
+      "D. The posterior cortex",
+      "E. The patellar tendon"
+    ],
+    "answer": "B",
+    "detail": "Intersection with Blumensaat's line indicates the tibial tunnel is too far anterior, causing roof impingement."
+  },
+  {
+    "number": 193,
+    "question": "Following ACL reconstruction, at what time point is the graft most susceptible to tearing during the remodeling process?",
+    "choices": [
+      "A. 1 week",
+      "B. 1 month",
+      "C. 4–8 months",
+      "D. 1 year",
+      "E. 2 years"
+    ],
+    "answer": "C",
+    "detail": "Graft remodeling is at its weakest point (nadir) at 4-8 months."
+  },
+  {
+    "number": 194,
+    "question": "A 'Cyclops Lesion' is a focal form of arthrofibrosis that typically presents in which location?",
+    "choices": [
+      "A. The posterior capsule",
+      "B. The suprapatellar bursa",
+      "C. Hoffa’s fat pad",
+      "D. The medial gutter",
+      "E. The lateral meniscus"
+    ],
+    "answer": "C",
+    "detail": "Cyclops lesions are post-operative focal arthrofibrosis scars that limit extension."
+  },
+  {
+    "number": 195,
+    "question": "Which vascular structure is most at risk in the setting of a posterior knee dislocation or a complete PCL tear?",
+    "choices": [
+      "A. Anterior tibial artery",
+      "B. Peroneal artery",
+      "C. Popliteal artery",
+      "D. Geniculate artery",
+      "E. Deep femoral artery"
+    ],
+    "answer": "C",
+    "detail": "Posterior dislocation risks limb-threatening popliteal artery injury."
+  },
+  {
+    "number": 196,
+    "question": "Which portion of the meniscus is vascularized and capable of healing after a tear?",
+    "choices": [
+      "A. The central 'white zone'",
+      "B. The peripheral 'red zone'",
+      "C. The anterior horn only",
+      "D. The free edge",
+      "E. The meniscus is entirely avascular"
+    ],
+    "answer": "B",
+    "detail": "Blood supply from geniculate arteries enters peripherally (red zone)."
+  },
+  {
+    "number": 197,
+    "question": "On sagittal MRI (3mm slices, 1mm gap), how many 'bow ties' (triangular shapes) should a normal meniscus demonstrate?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4",
+      "E. 5"
+    ],
+    "answer": "B",
+    "detail": "Normal meniscus = 2 bowties; discoid = 3 or more."
+  },
+  {
+    "number": 198,
+    "question": "A 'discoid meniscus' is most accurately diagnosed on coronal MRI when the transverse length of the meniscus measures:",
+    "choices": [
+      "A. > 5 mm",
+      "B. > 8 mm",
+      "C. > 11 mm",
+      "D. > 15 mm",
+      "E. > 25 mm"
+    ],
+    "answer": "D",
+    "detail": "Transverse length > 15mm on a midline coronal slice is diagnostic for discoid."
+  },
+  {
+    "number": 199,
+    "question": "The 'Double PCL Sign' on MRI is a diagnostic feature of which type of meniscal tear?",
+    "choices": [
+      "A. Radial tear",
+      "B. Horizontal cleavage tear",
+      "C. Bucket handle tear",
+      "D. Root tear",
+      "E. Fraying of the free edge"
+    ],
+    "answer": "C",
+    "detail": "The flipped fragment of a bucket handle tear lies anterior to the PCL, creating the 'Double PCL' sign."
+  },
+  {
+    "number": 200,
+    "question": "A patient presents with 'Patella Alta' (a high-riding patella) after acute trauma. Which underlying condition is most strongly associated with this finding in the absence of major trauma?",
+    "choices": [
+      "A. Diabetes Mellitus",
+      "B. Systemic Lupus Erythematosus (SLE)",
+      "C. Hyperthyroidism",
+      "D. Hypertension",
+      "E. Gout"
+    ],
+    "answer": "B",
+    "detail": "SLE is the classic systemic association for spontaneous patellar tendon rupture (Alta)."
+  },
+  {
+    "number": 201,
+    "question": "A radiologist is asked to 'Consider Repeat in 7-10 days' for a suspected occult fracture. What is the physiologic basis for this recommendation?",
+    "choices": [
+      "Callus formation makes the fracture line more dense",
+      "Bone resorption at the fracture margins increases lucency",
+      "Fracture hematoma undergoes calcification within the first week",
+      "Granulation tissue is naturally radio-opaque",
+      "Periosteal reaction is only visible after 21 days"
+    ],
+    "answer": "B",
+    "detail": "Bone resorption occurs at the fracture margins 7–14 days after injury during the formation of granulation tissue, making a previously hidden fracture line visible."
+  },
+  {
+    "number": 202,
+    "question": "An Essex-Lopresti fracture-dislocation is a complex injury of the forearm. Which of the following components is characteristic?",
+    "choices": [
+      "Fracture of the proximal ulna and radial head dislocation",
+      "Fracture of the distal radius and DRUJ dislocation",
+      "Fracture of the radial head with disruption of the interosseous membrane and DRUJ dislocation",
+      "Isolated fracture of the mid-shaft radius",
+      "Fracture of the ulnar styloid with triquetral dislocation"
+    ],
+    "answer": "C",
+    "detail": "The classic Essex-Lopresti triad consists of a radial head fracture, disruption of the interosseous membrane, and dislocation of the distal radioulnar joint (DRUJ)."
+  },
+  {
+    "number": 203,
+    "question": "Which type of shoulder impingement is considered 'Secondary' and often associated with multidirectional instability (MDI)?",
+    "choices": [
+      "Subacromial impingement due to a hooked acromion",
+      "Subcoracoid impingement",
+      "Impingement where the labrum is often normal, but joint volume is increased on injection",
+      "Posterior superior internal impingement",
+      "Anterior superior internal impingement"
+    ],
+    "answer": "C",
+    "detail": "Secondary impingement is due to underlying glenohumeral instability; while the labrum may be normal, joint volume is typically increased upon injection."
+  },
+  {
+    "number": 204,
+    "question": "'Internal' shoulder impingement typically occurs in which specific patient population?",
+    "choices": [
+      "Elderly patients with chronic osteoporosis",
+      "Young children with growth plate injuries",
+      "Athletes who perform frequent overhead movements (e.g., throwers)",
+      "Diabetic patients with restricted range of motion",
+      "Patients with prior acromioplasty"
+    ],
+    "answer": "C",
+    "detail": "Internal impingement is a 'thrower's disease' caused by repetitive overhead motion damaging the posterior superior rotator cuff and labrum."
+  },
+  {
+    "number": 205,
+    "question": "In the setting of 'Internal' shoulder impingement, which anatomic structure is most likely to show cystic changes on MRI?",
+    "choices": [
+      "Coracoid process",
+      "Acromion",
+      "Greater tuberosity",
+      "Lesser tuberosity",
+      "Surgical neck of the humerus"
+    ],
+    "answer": "C",
+    "detail": "Repetitive contact in internal impingement classically leads to the formation of cysts within the greater tuberosity."
+  },
+  {
+    "number": 206,
+    "question": "An MRI of the shoulder shows 'Grey Smudgy Shit' (loss of clean fat) in the rotator cuff interval and thickening of the axillary fold. This is pathognomonic for:",
+    "choices": [
+      "Acute supraspinatus tear",
+      "Parsonage-Turner Syndrome",
+      "Adhesive Capsulitis (Frozen Shoulder)",
+      "Subcoracoid impingement",
+      "Calcific tendonitis"
+    ],
+    "answer": "C",
+    "detail": "MRI hallmarks of adhesive capsulitis include a loss of the normal fat signal in the rotator cuff interval and thickening of the joint capsule."
+  },
+  {
+    "number": 207,
+    "question": "A patient with IT Band Syndrome presents for an MRI. Which finding would most definitively point toward this diagnosis for a board examiner?",
+    "choices": [
+      "Fluid localized purely within the knee joint",
+      "Fluid on both sides of the IT band with no fluid in the joint",
+      "A tear of the lateral meniscus",
+      "A Segond fracture",
+      "Edema within Gerdy’s tubercle"
+    ],
+    "answer": "B",
+    "detail": "Fluid on both sides of the IT band (lateral knee) without a joint effusion is the classic MRI buzzword for IT band syndrome."
+  },
+  {
+    "number": 208,
+    "question": "Which secondary sign is most likely to 'hint' that a hip labral tear is present on an MRI?",
+    "choices": [
+      "Subchondral sclerosis",
+      "Paralabral cyst",
+      "Joint effusion",
+      "Ligamentum teres hypertrophy",
+      "Iliopsoas bursitis"
+    ],
+    "answer": "B",
+    "detail": "Paralabral cysts are highly specific secondary indicators of an underlying labral tear."
+  },
+  {
+    "number": 209,
+    "question": "Which of the following is considered the strongest ligament in the knee?",
+    "choices": [
+      "Anterior Cruciate Ligament (ACL)",
+      "Posterior Cruciate Ligament (PCL)",
+      "Medial Collateral Ligament (MCL)",
+      "Lateral Collateral Ligament (LCL)",
+      "Anterolateral Ligament (ALL)"
+    ],
+    "answer": "B",
+    "detail": "The PCL is considered the strongest ligament in the knee joint."
+  },
+  {
+    "number": 210,
+    "question": "The knee's 'Conjoint Tendon' is formed by the union of which two structures?",
+    "choices": [
+      "Biceps femoris tendon and the LCL",
+      "Sartorius and Gracilis",
+      "Semitendinosus and Semimembranosus",
+      "Quadriceps and Patellar tendons",
+      "Popliteus and Arcuate ligament"
+    ],
+    "answer": "A",
+    "detail": "The conjoint tendon at the lateral knee is formed by the biceps femoris tendon and the lateral collateral ligament."
+  },
+  {
+    "number": 211,
+    "question": "ACL Mucoid Degeneration is frequently associated with which other finding?",
+    "choices": [
+      "Segond fracture",
+      "Deep intercondylar notch sign",
+      "ACL ganglion cysts",
+      "Tibial spine avulsion",
+      "Medial meniscus bucket-handle tear"
+    ],
+    "answer": "C",
+    "detail": "Mucoid degeneration of the ACL and the presence of ACL ganglion cysts are typically identified together on MRI."
+  },
+  {
+    "number": 212,
+    "question": "When evaluating an ACL repair graft on MRI, a 'Too Flat' graft angle indicates which clinical state?",
+    "choices": [
+      "The graft is too tight",
+      "The graft is providing excessive stability",
+      "The graft is lax and won't provide stability",
+      "The graft is impinged by the femur on extension",
+      "Normal post-operative appearance"
+    ],
+    "answer": "C",
+    "detail": "An ACL graft positioned too horizontally (too flat) is typically lax and fails to provide adequate joint stability."
+  },
+  {
+    "number": 213,
+    "question": "Regarding ACL reconstruction, what is the primary role of the femoral tunnel?",
+    "choices": [
+      "Preventing roof impingement",
+      "Maintaining isometry (length and tension) during range of motion",
+      "Reducing harvest site morbidity",
+      "Promoting graft vascularization",
+      "Anchoring the semitendinosus graft"
+    ],
+    "answer": "B",
+    "detail": "The femoral tunnel position is the primary factor in maintaining graft isometry throughout the range of motion."
+  },
+  {
+    "number": 214,
+    "question": "Which of the following is a recognized secondary sign of an ACL graft tear?",
+    "choices": [
+      "High T1 signal in the bone plug",
+      "Uncovering of the posterior horn of the lateral meniscus",
+      "Fluid in the suprapatellar bursa",
+      "Thickening of the PCL",
+      "Presence of a Cyclops lesion"
+    ],
+    "answer": "B",
+    "detail": "Uncovering of the posterior horn of the lateral meniscus (due to anterior tibial translation) is a secondary sign of ACL rupture or graft failure."
+  },
+  {
+    "number": 215,
+    "question": "Which statement regarding normal meniscal anatomy is correct?",
+    "choices": [
+      "The lateral meniscus is thicker posteriorly",
+      "The medial meniscus is thicker posteriorly",
+      "The medial meniscus has equal thickness anteriorly and posteriorly",
+      "The meniscus is vascularized throughout its entire structure",
+      "The transverse ligament connects the posterior horns"
+    ],
+    "answer": "B",
+    "detail": "The medial meniscus is normally thicker posteriorly, while the lateral meniscus is of roughly equal thickness anteriorly and posteriorly."
+  },
+  {
+    "number": 216,
+    "question": "On sagittal MRI (3mm slices/1mm gap), a 'Discoid Meniscus' is diagnosed when you identify:",
+    "choices": [
+      "1 'bow tie'",
+      "2 'bow ties'",
+      "3 or more 'bow ties'",
+      "A 'Double PCL' sign",
+      "Absence of the anterior horn"
+    ],
+    "answer": "C",
+    "detail": "A normal meniscus shows 2 'bow ties' on standard sagittal slices; 3 or more indicates a discoid meniscus."
+  },
+  {
+    "number": 217,
+    "question": "A vertical longitudinal meniscal tear that flips medially to lie anterior to the PCL is known as a:",
+    "choices": [
+      "Radial tear",
+      "Horizontal cleavage tear",
+      "Parrot-finned tear",
+      "Bucket handle tear",
+      "Root tear"
+    ],
+    "answer": "D",
+    "detail": "A bucket handle tear is a longitudinal tear where the inner fragment flips medially into the intercondylar notch, resting anterior to the PCL."
+  },
+  {
+    "number": 218,
+    "question": "'Patella Baja' (a low-riding patella) occurs due to the unopposed pull of the patellar tendon following a tear of which structure?",
+    "choices": [
+      "ACL",
+      "PCL",
+      "Quadriceps tendon",
+      "Medial patellofemoral ligament",
+      "Gastrocnemius"
+    ],
+    "answer": "C",
+    "detail": "A quadriceps tendon tear allows the patellar tendon to pull the patella inferiorly, resulting in Patella Baja."
+  },
+  {
+    "number": 219,
+    "question": "In the classic progression of a flat foot, what eventually causes the patient to walk 'like an idiot' and develop plantar fasciitis?",
+    "choices": [
+      "Spontaneous calcaneal fracture",
+      "Repeated heel striking due to joint collapse",
+      "Rupture of the Achilles tendon",
+      "Tarsal tunnel nerve entrapment",
+      "Development of a Morton’s neuroma"
+    ],
+    "answer": "B",
+    "detail": "Joint collapse in advanced flat foot leads to abnormal gait and repeated heel striking, which triggers plantar fasciitis."
+  },
+  {
+    "number": 220,
+    "question": "A longitudinal split tear of the Peroneus Brevis tendon often shows which relationship to the Peroneus Longus?",
+    "choices": [
+      "The Longus is displaced medially",
+      "The Brevis envelops the Longus",
+      "The Longus is completely ruptured",
+      "The two tendons swap positions",
+      "There is no relationship between the two"
+    ],
+    "answer": "B",
+    "detail": "In a split tear, the Peroneus Brevis forms a 'C' or 'boomerang' shape that partially envelops the Peroneus Longus."
+  },
+  {
+    "number": 221,
+    "question": "Anterolateral Impingement Syndrome of the ankle is characterized on MRI by a 'meniscoid mass' in the lateral gutter. This mass is typically:",
+    "choices": [
+      "T1 bright and T2 dark",
+      "T1 and T2 dark",
+      "T1 and T2 bright",
+      "Bright on STIR and dark on T1",
+      "Only visible on post-contrast images"
+    ],
+    "answer": "B",
+    "detail": "The 'meniscoid mass' is a balled-up scar that is dark on both T1 and T2 weighted images."
+  },
+  {
+    "number": 222,
+    "question": "Which structure is NOT located within the Tarsal Tunnel?",
+    "choices": [
+      "Tibialis posterior tendon",
+      "Flexor digitorum longus tendon",
+      "Posterior tibial artery",
+      "Peroneus longus tendon",
+      "Posterior tibial nerve"
+    ],
+    "answer": "D",
+    "detail": "The contents of the tarsal tunnel are Tibialis posterior, FDL, the posterior tibial artery/vein/nerve, and FHL. The Peroneus longus is a lateral structure."
+  },
+  {
+    "number": 223,
+    "question": "Which foot deformity can predispose a patient to Tarsal Tunnel Syndrome by tightening the retinaculum?",
+    "choices": [
+      "Pes cavus (High arch)",
+      "Pes planus (Hindfoot valgus)",
+      "Clubfoot",
+      "Hallux valgus",
+      "Hammer toe"
+    ],
+    "answer": "B",
+    "detail": "Pes planus (flat feet) and hindfoot valgus can tighten the flexor retinaculum, compressing the contents of the tarsal tunnel."
+  },
+  {
+    "number": 224,
+    "question": "In 'Os Trigonum Syndrome,' the accessory ossicle is said to 'put the smash' on which structure?",
+    "choices": [
+      "Tibialis anterior",
+      "Peroneus brevis",
+      "Flexor Hallucis Longus (FHL)",
+      "Achilles tendon",
+      "Plantar fascia"
+    ],
+    "answer": "C",
+    "detail": "The os trigonum accessory ossicle 'smashes' the FHL tendon during extreme plantar flexion."
+  },
+  {
+    "number": 225,
+    "question": "How can you most easily differentiate an Achilles tendon tear from a Xanthoma on MRI?",
+    "choices": [
+      "Tears are always bilateral; Xanthomas are unilateral",
+      "Tears are usually unilateral; Xanthomas are usually bilateral (associated with high cholesterol)",
+      "Xanthomas show a fluid-filled gap",
+      "Tears never show tendon thickening",
+      "There is no imaging difference"
+    ],
+    "answer": "B",
+    "detail": "Achilles Xanthomas (associated with high cholesterol) are characteristically bilateral, while tears are usually unilateral."
+  },
+  {
+    "number": 226,
+    "question": "Which class of antibiotics is a known risk factor for spontaneous Achilles tendon rupture?",
+    "choices": [
+      "Penicillins",
+      "Cephalosporins",
+      "Fluoroquinolones",
+      "Tetracyclines",
+      "Aminoglycosides"
+    ],
+    "answer": "C",
+    "detail": "Fluoroquinolones are a well-documented risk factor for spontaneous tendon rupture."
+  },
+  {
+    "number": 227,
+    "question": "A 'Tennis Leg' injury is a rupture of the plantaris tendon. Where is the classic fluid collection seen on MRI?",
+    "choices": [
+      "Anterior to the tibia",
+      "Within the Achilles tendon gap",
+      "Between the soleus and the medial head of the gastrocnemius",
+      "Subcutaneous at the ankle",
+      "Within the popliteal fossa"
+    ],
+    "answer": "C",
+    "detail": "Tennis leg is a plantaris rupture showing fluid between the soleus and the medial head of the gastrocnemius."
+  },
+  {
+    "number": 228,
+    "question": "FRAX is recommended for calculating 10-year fracture risk in patients with a T-score in which range?",
+    "choices": [
+      "> 0",
+      "Between 0 and -1.0",
+      "Between -1.0 and -2.5",
+      "< -2.5",
+      "< -4.0"
+    ],
+    "answer": "C",
+    "detail": "FRAX identifies which 'osteopenic' patients (T-score -1.0 to -2.5) should receive pharmacologic treatment."
+  },
+  {
+    "number": 229,
+    "question": "Which radiographic finding on a 3-phase bone scan is somewhat characteristic of Reflex Sympathetic Dystrophy (RSD)?",
+    "choices": [
+      "Focal cold spot in the late phase",
+      "Intra-articular uptake of tracer",
+      "Increased uptake only in the first phase",
+      "Symmetric uptake in all three phases",
+      "Decreased vascularity of the synovial membrane"
+    ],
+    "answer": "B",
+    "detail": "Intra-articular tracer uptake across all three phases is characteristic of RSD on bone scan."
+  },
+  {
+    "number": 230,
+    "question": "A patient presents with a classic history of pain in the hip which resolves, only for pain to later appear in the knee. This is:",
+    "choices": [
+      "Osteosarcoma",
+      "Regional Migratory Osteoporosis",
+      "Avascular Necrosis",
+      "Septic Arthritis",
+      "Gout"
+    ],
+    "answer": "B",
+    "detail": "Regional Migratory Osteoporosis is an idiopathic disorder where joint pain and osteoporosis move from one joint to another over several months."
+  },
+  {
+    "number": 231,
+    "question": "When evaluating a suspected spinal metastasis on MRI, what is the best 'internal control' for normal marrow signal?",
+    "choices": [
+      "The spinal cord",
+      "The cerebrospinal fluid",
+      "An adjacent normal (non-desiccated) disc",
+      "The subcutaneous fat",
+      "The aorta"
+    ],
+    "answer": "C",
+    "detail": "Normal adult fatty marrow should be brighter than an adjacent normal intervertebral disc on T1-weighted images."
+  },
+  {
+    "number": 232,
+    "question": "Which MRI feature is a 'red flag' for a neoplastic compression fracture?",
+    "choices": [
+      "A 'band-like' T1 dark fracture line",
+      "Involvement of the posterior margin of the vertebral body",
+      "Normal marrow signal in the remainder of the bone",
+      "Presence of a transverse fracture line",
+      "Retropulsion of a bone fragment"
+    ],
+    "answer": "B",
+    "detail": "Involvement of the posterior margin and total marrow replacement are red flags for neoplastic fractures."
+  },
+  {
+    "number": 233,
+    "question": "In staging Osteochondritis Dissecans (OCD), what is the clinical significance of seeing granulation tissue (enhancement with Gadolinium) at the bone-fragment interface?",
+    "choices": [
+      "It guarantees the lesion is stable",
+      "It is a sign of complete healing",
+      "It does NOT mean the lesion is stable",
+      "It indicates an acute infection",
+      "It is an indication for immediate amputation"
+    ],
+    "answer": "C",
+    "detail": "Enhancement (granulation tissue) at the interface does not guarantee stability; radiologists must look for undercutting T2 signal."
+  },
+  {
+    "number": 234,
+    "question": "A 'Pseudo-Lesion' of the capitellum can mimic OCD on coronal MRI. This is located in which portion of the capitellum?",
+    "choices": [
+      "Anterior",
+      "Posterior",
+      "Medial",
+      "Lateral",
+      "Superior"
+    ],
+    "answer": "B",
+    "detail": "The pseudo-lesion of the capitellum is an anatomical variant caused by an abrupt slope on the posterior aspect."
+  },
+  {
+    "number": 235,
+    "question": "Which childhood osteochondrosis is often dismissed as 'normal growing pain' and involves the calcaneal apophysis?",
+    "choices": [
+      "Kohler disease",
+      "Freiberg infraction",
+      "Sever disease",
+      "Panner disease",
+      "Perthes disease"
+    ],
+    "answer": "C",
+    "detail": "Sever disease (calcaneal apophysitis) is a common cause of heel pain in children and is often called 'normal growing pain'."
+  },
+  {
+    "number": 236,
+    "question": "What is the typical age range for a patient presenting with Kienbock disease (lunate AVN)?",
+    "choices": [
+      "4–8 years",
+      "10–15 years",
+      "20–40 years",
+      "60–80 years",
+      "Newborns"
+    ],
+    "answer": "C",
+    "detail": "Kienbock disease typically presents in adults aged 20–40."
+  },
+  {
+    "number": 237,
+    "question": "Both Osgood-Schlatter (OSD) and Sinding-Larsen-Johansson (SLJ) occur in active adolescents. How do they typically differ in mechanism?",
+    "choices": [
+      "OSD: Jump and kick; SLJ: Just jump",
+      "OSD: Just jump; SLJ: Jump and kick",
+      "OSD is always traumatic; SLJ is always atraumatic",
+      "OSD involves the superior patella; SLJ involves the tibial tubercle",
+      "There is no difference in mechanism"
+    ],
+    "answer": "A",
+    "detail": "OSD is repetitive injury to the tibial tubercle (jump and kick); SLJ involves the inferior patellar pole (just jump)."
+  },
+  {
+    "number": 238,
+    "question": "In the normal pattern of marrow conversion (Red to Yellow), which part of a long bone converts first?",
+    "choices": [
+      "Metaphysis",
+      "Diaphysis",
+      "Epiphysis",
+      "Apophysis",
+      "Cortex"
+    ],
+    "answer": "B",
+    "detail": "Normal marrow conversion in a long bone starts in the diaphysis and moves toward the metaphyses."
+  },
+  {
+    "number": 239,
+    "question": "In marrow 'reconversion' (Yellow back to Red), what is the sequence of the process?",
+    "choices": [
+      "Same order as conversion (Distal to Proximal)",
+      "Exact reverse order of normal conversion (Axial to Peripheral)",
+      "Random patches throughout the body",
+      "Starts in the epiphyses and moves to the diaphysis",
+      "Occurs only in the hands and feet"
+    ],
+    "answer": "B",
+    "detail": "Marrow reconversion occurs in the exact reverse order of normal conversion, starting in the spine/axial skeleton."
+  },
+  {
+    "number": 240,
+    "question": "What happens to bone marrow in a patient with progressive osteoporosis?",
+    "choices": [
+      "Red marrow increases to provide more support",
+      "Yellow marrow replaces trabecular bone",
+      "Marrow signal becomes universally dark on T1",
+      "The epiphyses revert to red marrow",
+      "Marrow disappears entirely"
+    ],
+    "answer": "B",
+    "detail": "In osteoporosis, yellow (fatty) marrow increases as trabecular bone is lost."
+  },
+  {
+    "number": 241,
+    "question": "A 'Blade of Grass Sign' (a lucent leading edge in a long bone) is pathognomonic for which disease?",
+    "choices": [
+      "Osteosarcoma",
+      "Paget Disease",
+      "Fibrous Dysplasia",
+      "Multiple Myeloma",
+      "Metastatic Renal Cell CA"
+    ],
+    "answer": "B",
+    "detail": "The 'Blade of Grass' sign describes the advancing margin of the lytic phase of Paget's disease in long bones."
+  },
+  {
+    "number": 242,
+    "question": "'Osteoporosis Circumscripta' refers to the lytic phase of Paget disease in which location?",
+    "choices": [
+      "Femur",
+      "Tibia",
+      "Skull",
+      "Pelvis",
+      "Spine"
+    ],
+    "answer": "C",
+    "detail": "Osteoporosis circumscripta is the specific buzzword for Paget disease involving the skull."
+  },
+  {
+    "number": 243,
+    "question": "'Cotton Wool Bone' appearance refers to which feature of Paget disease?",
+    "choices": [
+      "A single large lytic lesion",
+      "Thick, disorganized trabeculae",
+      "Cortical thinning",
+      "Marrow edema on STIR",
+      "Subchondral collapse"
+    ],
+    "answer": "B",
+    "detail": "Paget's disease results in thick, disorganized, 'cotton wool' bone trabeculae."
+  },
+  {
+    "number": 244,
+    "question": "A 'Banana Fracture' is a classic radiographic sign associated with Paget disease. What is it?",
+    "choices": [
+      "A comminuted fracture of the humerus",
+      "An insufficiency fracture of a bowed, soft bone",
+      "A vertical fracture of the patella",
+      "A fracture of the distal radius",
+      "A spiral fracture of the tibia"
+    ],
+    "answer": "B",
+    "detail": "A 'Banana Fracture' is an insufficiency fracture occurring on the convex side of a bowed bone, common in Paget's."
+  },
+  {
+    "number": 245,
+    "question": "When comparing Paget disease and Hyperparathyroidism in the spine, which finding favors Paget?",
+    "choices": [
+      "'Rugger Jersey' appearance (sclerosis of top and bottom endplates only)",
+      "Thickening of all 4 sides of the vertebral cortex (Picture Frame)",
+      "Diffuse osteopenia",
+      "'H-Shaped' vertebrae",
+      "Narrowing of the disc space"
+    ],
+    "answer": "B",
+    "detail": "Paget's causes thickening on all 4 sides of the cortex, unlike the 'rugger jersey' of Hyper-PTH."
+  },
+  {
+    "number": 246,
+    "question": "Which genetic disease can also produce a 'Picture Frame' sign in the vertebral bodies, similar to Paget disease?",
+    "choices": [
+      "Osteogenesis Imperfecta",
+      "Osteopetrosis",
+      "Sickle Cell Anemia",
+      "Gaucher Disease",
+      "Achondroplasia"
+    ],
+    "answer": "B",
+    "detail": "Both Paget disease and Osteopetrosis can produce the 'picture frame' vertebral sign."
+  },
+  {
+    "number": 247,
+    "question": "An 'H-Shaped Vertebra' (widening of the disc space) is a classic 'buzzword' for:",
+    "choices": [
+      "Paget Disease",
+      "Sickle Cell Anemia",
+      "Multiple Myeloma",
+      "Osteomyelitis",
+      "Rheumatoid Arthritis"
+    ],
+    "answer": "B",
+    "detail": "Microvascular endplate infarcts in Sickle Cell Anemia create the characteristic 'H-shaped' vertebra."
+  },
+  {
+    "number": 248,
+    "question": "A 'Triple Sign' (high, medium, and low signal in the same mass) on T2-weighted MRI is characteristic of:",
+    "choices": [
+      "Baker's Cyst",
+      "Synovial Sarcoma",
+      "Pigmented Villonodular Synovitis (PVNS)",
+      "Hemangioma",
+      "Liposarcoma"
+    ],
+    "answer": "B",
+    "detail": "The 'Triple Sign' of high, medium, and low T2 signal is a hallmark of Synovial Sarcoma."
+  },
+  {
+    "number": 249,
+    "question": "A mass in the knee described as a 'Bowl of Grapes' (multiple fluid-fluid levels) on MRI should raise suspicion for:",
+    "choices": [
+      "Aneurysmal Bone Cyst (ABC)",
+      "Synovial Sarcoma",
+      "Giant Cell Tumor",
+      "Ganglion Cyst",
+      "Telangiectatic Osteosarcoma"
+    ],
+    "answer": "B",
+    "detail": "The 'Bowl of Grapes' (multiple fluid-fluid levels in a soft tissue mass) is associated with Synovial Sarcoma."
+  },
+  {
+    "number": 250,
+    "question": "Synovial Sarcoma is the most common malignancy of the foot and ankle in which patient group?",
+    "choices": [
+      "Infants (< 1 year)",
+      "Children (5–10 years)",
+      "Teens and young adults",
+      "Elderly men",
+      "Post-menopausal women"
+    ],
+    "answer": "C",
+    "detail": "Synovial Sarcoma is the most common foot and ankle malignancy in the teen and young adult population."
+  },
+  {
+    "number": 251,
+    "question": "To confirm a 'True Lateral' radiograph of the wrist, where should the palmar cortex of the pisiform be located?",
+    "choices": [
+      "Projected over the dorsal surface of the capitate",
+      "Centrally between the scaphoid and capitate palmar cortices",
+      "Overlapping the ulnar styloid",
+      "Proximal to the radial styloid",
+      "Distal to the hook of the hamate"
+    ],
+    "answer": "B",
+    "detail": "The central position of the pisiform between the scaphoid and capitate is the testable landmark for a true lateral wrist."
+  },
+  {
+    "number": 252,
+    "question": "A 22-year-old male with a scaphoid waist fracture presents with dorsal tilting of the distal fragment and volar tilting of the proximal fragment. This finding is the hallmark of:",
+    "choices": [
+      "DISI deformity",
+      "VISI deformity",
+      "Humpback deformity",
+      "SNAC wrist",
+      "SLAC wrist"
+    ],
+    "answer": "C",
+    "detail": "Volar angulation of fragments in a scaphoid waist fracture results in a humpback deformity."
+  },
+  {
+    "number": 253,
+    "question": "Regarding the 'Terry Thomas Sign' on an AP wrist radiograph, which measurement is the accepted threshold for diagnosing a scapholunate ligament disruption?",
+    "choices": [
+      "> 1 mm",
+      "> 2 mm",
+      "> 3 mm",
+      "> 5 mm",
+      "> 11 mm"
+    ],
+    "answer": "C",
+    "detail": "A scapholunate gap greater than 3 mm is diagnostic for scapholunate ligament disruption."
+  },
+  {
+    "number": 254,
+    "question": "In the spectrum of carpal instability, which band of the scapholunate (SL) ligament is considered the strongest and most important for maintaining alignment?",
+    "choices": [
+      "Volar band",
+      "Middle band",
+      "Dorsal band",
+      "Proximal band",
+      "All bands are of equal strength"
+    ],
+    "answer": "C",
+    "detail": "The dorsal band of the SL ligament is the strongest and most critical for carpal stability."
+  },
+  {
+    "number": 255,
+    "question": "A lateral wrist radiograph shows the lunate tilted volarly and a scapholunate (SL) angle of 25 degrees. What is the most likely diagnosis?",
+    "choices": [
+      "DISI",
+      "VISI",
+      "Lunate dislocation",
+      "Scaphoid non-union",
+      "Terry Thomas sign"
+    ],
+    "answer": "B",
+    "detail": "Volar lunate tilt and an SL angle < 30 degrees define VISI."
+  },
+  {
+    "number": 256,
+    "question": "On a lateral wrist radiograph, a scapholunate (SL) angle measuring 85 degrees with the lunate tilted dorsally is diagnostic of:",
+    "choices": [
+      "VISI",
+      "DISI",
+      "Scaphoid waist fracture",
+      "Perilunate dislocation",
+      "Kienbock disease"
+    ],
+    "answer": "B",
+    "detail": "Dorsal lunate tilt and an SL angle > 60-70 degrees define DISI."
+  },
+  {
+    "number": 257,
+    "question": "Which distal radius fracture involves an intra-articular component and carries a high risk for radiocarpal dislocation?",
+    "choices": [
+      "Colles fracture",
+      "Smith fracture",
+      "Barton fracture",
+      "Chauffeur fracture",
+      "Die-punch fracture"
+    ],
+    "answer": "C",
+    "detail": "Barton is an intra-articular 'radial rim' fracture, and radiocarpal dislocation is its hallmark."
+  },
+  {
+    "number": 258,
+    "question": "'Chauffeur’s Fracture' is an intra-articular fracture involving which anatomic structure?",
+    "choices": [
+      "The ulnar styloid",
+      "The radial styloid",
+      "The lunate facet",
+      "The scaphoid waist",
+      "The triquetrum"
+    ],
+    "answer": "B",
+    "detail": "Chauffeur's fracture is an intra-articular fracture of the radial styloid."
+  },
+  {
+    "number": 259,
+    "question": "A 'Die-punch' fracture of the distal radius is an intra-articular depression fracture of which facet?",
+    "choices": [
+      "Scaphoid facet",
+      "Lunate facet",
+      "Triquetral facet",
+      "Pisiform facet",
+      "Ulnar facet"
+    ],
+    "answer": "B",
+    "detail": "Die-punch is an intra-articular depression fracture specifically of the lunate facet."
+  },
+  {
+    "number": 260,
+    "question": "A patient presents with 'crepitus' on the dorsal wrist, 4 cm proximal to Lister’s tubercle. This finding is diagnostic of:",
+    "choices": [
+      "De Quervain’s tenosynovitis",
+      "Intersection syndrome",
+      "Carpal tunnel syndrome",
+      "Drummer’s wrist",
+      "Trigger finger"
+    ],
+    "answer": "B",
+    "detail": "Intersection syndrome is characterized by crepitus where the 1st and 2nd extensor compartments cross."
+  },
+  {
+    "number": 261,
+    "question": "Trigger Finger is the common term for stenosing tenosynovitis. Which imaging modality is most commonly used to demonstrate the associated scarring?",
+    "choices": [
+      "Radiographs",
+      "CT with contrast",
+      "Ultrasound",
+      "MRI with Gadolinium",
+      "Bone scan"
+    ],
+    "answer": "C",
+    "detail": "Ultrasound is the primary modality for demonstrating trigger finger pathology."
+  },
+  {
+    "number": 262,
+    "question": "On a shoulder MRI arthrogram, Gadolinium is seen communicating between the glenohumeral joint and the subacromial bursa. This finding is diagnostic of:",
+    "choices": [
+      "Partial thickness supraspinatus tear",
+      "Full thickness rotator cuff tear",
+      "Labral tear",
+      "Adhesive capsulitis",
+      "Subcoracoid impingement"
+    ],
+    "answer": "B",
+    "detail": "Contrast in the bursa on an arthrogram proves a full-thickness defect."
+  },
+  {
+    "number": 263,
+    "question": "A sagittal T1-weighted shoulder MRI shows a 'grey smudgy' appearance and loss of clean fat within the rotator cuff interval. Which clinical diagnosis should be top of your differential?",
+    "choices": [
+      "Parsonage-Turner syndrome",
+      "Acute supraspinatus rupture",
+      "Adhesive capsulitis (Frozen shoulder)",
+      "Calcific tendonitis",
+      "Internal impingement"
+    ],
+    "answer": "C",
+    "detail": "Loss of fat in the rotator cuff interval is a classic MRI sign of adhesive capsulitis."
+  },
+  {
+    "number": 264,
+    "question": "Internal shoulder impingement, typically seen in throwers, involves damage to which structures?",
+    "choices": [
+      "The subscapularis and coracoid",
+      "The infraspinatus and posterior supraspinatus",
+      "The long head of the biceps and bicipital groove",
+      "The deltoid and acromion",
+      "The teres major and latissimus dorsi"
+    ],
+    "answer": "B",
+    "detail": "Internal impingement damages the infraspinatus and the posterior superior rotator cuff."
+  },
+  {
+    "number": 265,
+    "question": "Subcoracoid impingement results in narrowing of the space between the coracoid and which humeral structure?",
+    "choices": [
+      "Greater tuberosity",
+      "Lesser tuberosity",
+      "Humeral head apex",
+      "Surgical neck",
+      "Anatomical neck"
+    ],
+    "answer": "B",
+    "detail": "Subcoracoid impingement pinches the subscapularis between the coracoid and lesser tuberosity."
+  },
+  {
+    "number": 266,
+    "question": "A Segond fracture (lateral tibial plateau avulsion) is highly associated with which internal knee injury?",
+    "choices": [
+      "PCL tear",
+      "ACL tear (75%)",
+      "MCL tear",
+      "Medial meniscal tear",
+      "Patellar dislocation"
+    ],
+    "answer": "B",
+    "detail": "A Segond fracture is 75% associated with a tear of the ACL."
+  },
+  {
+    "number": 267,
+    "question": "A Reverse Segond fracture involves an avulsion of the medial tibial plateau and is typically associated with:",
+    "choices": [
+      "ACL tear and lateral meniscus injury",
+      "PCL tear and medial meniscus injury",
+      "MCL tear and patellar dislocation",
+      "LCL tear and biceps femoris avulsion",
+      "Isolated fracture with no ligamentous association"
+    ],
+    "answer": "B",
+    "detail": "The Reverse Segond involves PCL and medial meniscus injuries."
+  },
+  {
+    "number": 268,
+    "question": "The 'Deep Intercondylar Notch Sign' seen on a lateral knee radiograph is indicative of:",
+    "choices": [
+      "Chronic PCL insufficiency",
+      "Acute ACL tear",
+      "Meniscal bucket-handle tear",
+      "SONK",
+      "Patellar maltracking"
+    ],
+    "answer": "B",
+    "detail": "Impaction of the lateral condyle during an ACL tear creates this notch."
+  },
+  {
+    "number": 269,
+    "question": "On an MRI of the knee with short echo time (TE) sequences, the PCL may show intermediate signal when it forms a 55-degree angle with the magnetic field. This is known as:",
+    "choices": [
+      "The Vacuum phenomenon",
+      "The T-sign",
+      "The Magic Angle phenomenon",
+      "The Truncation artifact",
+      "The Chemical Shift artifact"
+    ],
+    "answer": "C",
+    "detail": "Magic angle signal is seen at 55 degrees on short TE sequences."
+  },
+  {
+    "number": 270,
+    "question": "ACL Mucoid Degeneration is classically described with which 'buzzword' look on T2-weighted MRI?",
+    "choices": [
+      "Drumstick",
+      "Celery stalk",
+      "Boomerang",
+      "Y-sign",
+      "Double PCL"
+    ],
+    "answer": "B",
+    "detail": "Striated 'celery stalk' appearance on T2 is the hallmark of mucoid degeneration."
+  },
+  {
+    "number": 271,
+    "question": "When evaluating an ACL repair graft, a tibial tunnel that intersects with Blumensaat’s line is described as being 'Too Far Anterior.' This leads to which complication?",
+    "choices": [
+      "Maintained isometry",
+      "Roof impingement",
+      "Graft laxity",
+      "Cyclops lesion",
+      "Arthrofibrosis of the posterior capsule"
+    ],
+    "answer": "B",
+    "detail": "Intersection with Blumensaat's line indicates the tunnel is too far anterior, causing roof impingement."
+  },
+  {
+    "number": 272,
+    "question": "In ACL reconstruction, which tunnel is considered the primary factor for maintaining length and tension (isometry) through a range of motion?",
+    "choices": [
+      "Tibial tunnel",
+      "Femoral tunnel",
+      "Fibular tunnel",
+      "Patellar tunnel",
+      "Humeral tunnel"
+    ],
+    "answer": "B",
+    "detail": "The femoral tunnel is the primary determinant of maintained graft isometry."
+  },
+  {
+    "number": 273,
+    "question": "A 'Cyclops Lesion' after ACL repair is a focal scar that limits knee extension. Where is this lesion typically located?",
+    "choices": [
+      "The posterior capsule",
+      "Hoffa’s fat pad (ventral to the graft)",
+      "The suprapatellar bursa",
+      "The medial gutter",
+      "The lateral meniscus root"
+    ],
+    "answer": "B",
+    "detail": "Cyclops lesions are focal arthrofibrosis scars located in Hoffa’s fat pad."
+  },
+  {
+    "number": 274,
+    "question": "If a PCL tear is identified on MRI, what is the most critical 'Next Step' to exclude a limb-threatening emergency?",
+    "choices": [
+      "Look for a Segond fracture",
+      "Evaluate the popliteal flow void for potential vascular compromise",
+      "Assess for a discoid meniscus",
+      "Check the integrity of the MCL",
+      "Measure the patellar height"
+    ],
+    "answer": "B",
+    "detail": "Posterior knee dislocation risks popliteal artery injury; checking the flow void is critical."
+  },
+  {
+    "number": 275,
+    "question": "On a sagittal MRI (3mm thickness), a normal meniscus should demonstrate how many 'bow tie' shapes?",
+    "choices": [
+      "1",
+      "2",
+      "3 or more",
+      "0",
+      "5"
+    ],
+    "answer": "B",
+    "detail": "A normal meniscus shows 2 'bow ties' on standard sagittal MRI."
+  },
+  {
+    "number": 276,
+    "question": "A discoid meniscus is diagnosed on coronal MRI if the transverse length of the meniscus measures:",
+    "choices": [
+      "> 5 mm",
+      "> 8 mm",
+      "> 10 mm",
+      "> 15 mm",
+      "> 25 mm"
+    ],
+    "answer": "D",
+    "detail": "Transverse length > 15 mm on midline coronal MRI is diagnostic for discoid."
+  },
+  {
+    "number": 277,
+    "question": "The 'Double PCL Sign' on MRI is diagnostic for which type of meniscal tear?",
+    "choices": [
+      "Radial tear",
+      "Horizontal cleavage tear",
+      "Bucket handle tear",
+      "Root tear",
+      "Fraying of the free edge"
+    ],
+    "answer": "C",
+    "detail": "The 'Double PCL' sign is created by the displaced fragment of a bucket handle tear resting anterior to the PCL."
+  },
+  {
+    "number": 278,
+    "question": "A patient presents with 'Patella Alta' (high-riding patella). Which structure has likely ruptured?",
+    "choices": [
+      "Quadriceps tendon",
+      "Patellar tendon",
+      "Medial collateral ligament",
+      "Anterior cruciate ligament",
+      "Gastrocnemius tendon"
+    ],
+    "answer": "B",
+    "detail": "A patellar tendon rupture allows the quad to pull the patella superiorly (Alta)."
+  },
+  {
+    "number": 279,
+    "question": "Which systemic disease is 'classically' associated with spontaneous patellar tendon tears leading to Patella Alta?",
+    "choices": [
+      "Diabetes Mellitus",
+      "Rheumatoid Arthritis",
+      "Systemic Lupus Erythematosus (SLE)",
+      "Hypertension",
+      "Gout"
+    ],
+    "answer": "C",
+    "detail": "SLE is the classic systemic association for spontaneous patellar tendon tears."
+  },
+  {
+    "number": 280,
+    "question": "The 'Classic Flat Foot Progression' begins with the failure of which structure?",
+    "choices": [
+      "Spring ligament",
+      "Plantar fascia",
+      "Posterior tibial tendon",
+      "Sinus tarsi",
+      "Achilles tendon"
+    ],
+    "answer": "C",
+    "detail": "Failure of the posterior tibial tendon (PTT) is the primary initiator of flat foot progression."
+  },
+  {
+    "number": 281,
+    "question": "An MRI showing a 'C-shaped' or 'boomerang-shaped' Peroneus Brevis tendon on axial images is diagnostic of:",
+    "choices": [
+      "Full thickness rupture",
+      "A longitudinal split tear",
+      "Normal anatomy",
+      "Peroneal tenosynovitis",
+      "Subluxation"
+    ],
+    "answer": "B",
+    "detail": "The boomerang shape of the brevis indicates a split tear."
+  },
+  {
+    "number": 282,
+    "question": "Anterolateral Impingement Syndrome of the ankle results in a 'meniscoid mass' (balled up scar) located in:",
+    "choices": [
+      "The medial gutter",
+      "The lateral gutter",
+      "The sinus tarsi",
+      "The tarsal tunnel",
+      "The Achilles tendon sheath"
+    ],
+    "answer": "B",
+    "detail": "Anterolateral impingement occurs in the lateral gutter."
+  },
+  {
+    "number": 283,
+    "question": "Os Trigonum Syndrome occurs during extreme ankle flexion ('toe pointing') and is classically associated with which population?",
+    "choices": [
+      "Basketball players",
+      "Ballet dancers",
+      "Football linemen",
+      "Swimmers",
+      "Marathon runners"
+    ],
+    "answer": "B",
+    "detail": "Ballet dancers utilizing the 'pointe' technique suffer from os trigonum impingement."
+  },
+  {
+    "number": 284,
+    "question": "The 'Tennis Leg' injury refers specifically to the rupture of which structure?",
+    "choices": [
+      "Achilles tendon",
+      "Plantaris tendon",
+      "Peroneus brevis",
+      "Anterior tibialis",
+      "Posterior tibialis"
+    ],
+    "answer": "B",
+    "detail": "Tennis leg is a rupture of the plantaris tendon."
+  },
+  {
+    "number": 285,
+    "question": "A calcaneal tuberosity avulsion with the back of the bone 'ripped off' is an 'Aunt Minnie' for which underlying condition?",
+    "choices": [
+      "Renal failure",
+      "Hypertension",
+      "Diabetes",
+      "Alcoholism",
+      "Gout"
+    ],
+    "answer": "C",
+    "detail": "Calcaneal tuberosity avulsion is an 'Aunt Minnie' for diabetes."
+  },
+  {
+    "number": 286,
+    "question": "According to the WHO criteria for DEXA, a T-score of -1.5 is categorized as:",
+    "choices": [
+      "Normal",
+      "Osteopenia",
+      "Osteoporosis",
+      "Severe Osteoporosis",
+      "Paget disease"
+    ],
+    "answer": "B",
+    "detail": "WHO criteria define osteopenia as a T-score between -1.0 and -2.5."
+  },
+  {
+    "number": 287,
+    "question": "Regional Migratory Osteoporosis is an idiopathic disorder characterized by joint pain that moves from one joint to another. In which demographic is this more common?",
+    "choices": [
+      "Pregnant women",
+      "Elderly women",
+      "Men",
+      "Children under 10",
+      "Newborns"
+    ],
+    "answer": "C",
+    "detail": "Regional Migratory Osteoporosis is more common in men."
+  },
+  {
+    "number": 288,
+    "question": "On MRI, a 'band-like' fracture line that is T1 dark in a vertebral body with normal marrow signal in the non-deformed portions suggests:",
+    "choices": [
+      "Neoplastic compression fracture",
+      "Osteoporotic compression fracture",
+      "Vertebral hemangioma",
+      "Multiple Myeloma",
+      "Plasmacytoma"
+    ],
+    "answer": "B",
+    "detail": "A band-like T1 dark line with normal remaining marrow is key for osteoporotic fractures."
+  },
+  {
+    "number": 289,
+    "question": "Which staging of Osteochondritis Dissecans (OCD) is defined as 'Unstable on Probing' with complete discontinuity of the lesion?",
+    "choices": [
+      "Stage 1",
+      "Stage 2",
+      "Stage 3",
+      "Stage 4",
+      "Stage 5"
+    ],
+    "answer": "C",
+    "detail": "Stage 3 OCD is characterized by complete discontinuity and instability."
+  },
+  {
+    "number": 290,
+    "question": "Where is the most common site for Osteochondritis Dissecans (OCD) in the knee?",
+    "choices": [
+      "Anterior lateral femoral condyle",
+      "Superior pole of the patella",
+      "Lateral aspect of the medial femoral condyle",
+      "Medial aspect of the lateral femoral condyle",
+      "Tibial spine"
+    ],
+    "answer": "C",
+    "detail": "The lateral aspect of the medial femoral condyle is the #1 site for OCD in the knee."
+  },
+  {
+    "number": 291,
+    "question": "'Panner’s Disease' of the capitellum occurs in children of which age range?",
+    "choices": [
+      "1–4 years old",
+      "5–10 years old",
+      "12–16 years old",
+      "20–40 years old",
+      "Elderly (> 70)"
+    ],
+    "answer": "B",
+    "detail": "Panner's is found in younger children (5–10 years)."
+  },
+  {
+    "number": 292,
+    "question": "Which childhood osteochondrosis involves the tarsal navicular and is treated non-surgically?",
+    "choices": [
+      "Freiberg infraction",
+      "Kohler disease",
+      "Sever disease",
+      "Perthes disease",
+      "Kienbock disease"
+    ],
+    "answer": "B",
+    "detail": "Kohler disease is a self-limiting condition of the tarsal navicular."
+  },
+  {
+    "number": 293,
+    "question": "Scheuermann’s disease is defined by thoracic kyphosis > 40 degrees and wedging of how many adjacent vertebrae?",
+    "choices": [
+      "At least 2",
+      "At least 3",
+      "At least 5",
+      "Exactly 1",
+      "It does not require wedging"
+    ],
+    "answer": "B",
+    "detail": "Diagnosis requires at least 3 adjacent levels of wedging."
+  },
+  {
+    "number": 294,
+    "question": "In the normal pattern of marrow conversion, which areas convert from red to yellow marrow FIRST?",
+    "choices": [
+      "Spine",
+      "Flat bones",
+      "Epiphyses",
+      "Metaphyses",
+      "Pelvis"
+    ],
+    "answer": "C",
+    "detail": "The epiphyses convert to fatty marrow almost immediately after ossification."
+  },
+  {
+    "number": 295,
+    "question": "Normal red marrow should never be darker than which internal control on a T1-weighted MRI?",
+    "choices": [
+      "Yellow marrow",
+      "Subcutaneous fat",
+      "Normal intervertebral disc or muscle",
+      "Joint fluid",
+      "Air"
+    ],
+    "answer": "C",
+    "detail": "Red marrow should never be darker than a normal disk or muscle on T1."
+  },
+  {
+    "number": 296,
+    "question": "A 'Blade of Grass' sign (a lucent leading edge in a long bone) is a radiographic hallmark of:",
+    "choices": [
+      "Osteosarcoma",
+      "Fibrous Dysplasia",
+      "Paget Disease (Lytic phase)",
+      "Multiple Myeloma",
+      "Metastatic Renal Cell CA"
+    ],
+    "answer": "C",
+    "detail": "The 'Blade of Grass' is the leading lytic edge of Paget's disease in long bones."
+  },
+  {
+    "number": 297,
+    "question": "'Osteoporosis Circumscripta' describes the lytic phase of Paget disease in which location?",
+    "choices": [
+      "Femur",
+      "Tibia",
+      "Skull",
+      "Pelvis",
+      "Spine"
+    ],
+    "answer": "C",
+    "detail": "Osteolysis circumscripta refers to Paget disease in the skull."
+  },
+  {
+    "number": 298,
+    "question": "A 'Picture Frame Vertebra' in Paget disease is caused by cortical thickening on:",
+    "choices": [
+      "The top and bottom endplates only",
+      "The anterior and posterior margins only",
+      "All 4 sides of the vertebral cortex",
+      "The pedicles and transverse processes",
+      "The spinous process only"
+    ],
+    "answer": "C",
+    "detail": "Paget disease causes thickening on all 4 sides of the vertebral cortex."
+  },
+  {
+    "number": 299,
+    "question": "What is the most common malignancy found in the foot and ankle of teens and young adults?",
+    "choices": [
+      "Osteosarcoma",
+      "Ewing sarcoma",
+      "Synovial Sarcoma",
+      "Multiple Myeloma",
+      "Chondrosarcoma"
+    ],
+    "answer": "C",
+    "detail": "Synovial Sarcoma is the most frequent malignancy in this demographic."
+  },
+  {
+    "number": 300,
+    "question": "A mass in the knee described on MRI as a 'Bowl of Grapes' (multiple fluid-fluid levels) should raise suspicion for:",
+    "choices": [
+      "Giant Cell Tumor",
+      "Aneurysmal Bone Cyst",
+      "Synovial Sarcoma",
+      "Ganglion Cyst",
+      "Baker's Cyst"
+    ],
+    "answer": "C",
+    "detail": "The 'Bowl of Grapes' appearance (multiple fluid-fluid levels in a soft tissue mass) is associated with Synovial Sarcoma."
+  },
+  {
+    "number": 301,
+    "question": "A 45-year-old male is involved in a high-speed motor vehicle accident. Radiographs of the pelvis show an 'Inverted Y' configuration formed by the intersection of two columns of bone. Which landmark represents the 'Anterior Column'?",
+    "choices": ["A. Ilioischial line", "B. Iliopectineal line", "C. Arcuate line", "D. Sacroiliac joint", "E. Ischial tuberosity"],
+    "answer": "B",
+    "detail": "The iliopectineal line represents the anterior column, while the ilioischial line represents the posterior column."
+  },
+  {
+    "number": 302,
+    "question": "In the 'Denis 3 Spinal Column Concept,' which structures define the 'Middle Column'?",
+    "choices": ["A. Anterior longitudinal ligament and anterior 2/3 of the vertebral body", "B. Posterior longitudinal ligament and posterior 1/3 of the vertebral body", "C. Pedicles, facets, and lamina", "D. Spinous processes and interspinous ligaments", "E. Transverse processes only"],
+    "answer": "B",
+    "detail": "The middle column in the Denis system is defined by the PLL and the posterior 1/3 of the vertebral body."
+  },
+  {
+    "number": 303,
+    "question": "A 'Casanova Fracture' refers to bilateral calcaneal fractures. What is the most critical 'Next Step' in imaging for this patient?",
+    "choices": ["A. Bilateral foot CT", "B. MRI of the Achilles tendons", "C. Radiographs or CT of the spine (T12–L2)", "D. Evaluation for a Lisfranc injury", "E. Ultrasound of the peroneal tendons"],
+    "answer": "C",
+    "detail": "Bilateral calcaneal fractures result from high-energy axial loading, which is frequently associated with spinal burst fractures at the thoracolumbar junction."
+  },
+  {
+    "number": 304,
+    "question": "An active 14-year-old boy presents with pain at the 'Anterior Inferior Iliac Spine (AIIS).' Which muscle is responsible for an avulsion at this site?",
+    "choices": ["A. Sartorius", "B. Rectus Femoris", "C. Tensor Fascia Lata", "D. Hamstrings", "E. Iliopsoas"],
+    "answer": "B",
+    "detail": "The Rectus Femoris attaches to the AIIS, while the Sartorius attaches to the ASIS."
+  },
+  {
+    "number": 305,
+    "question": "An 'isolated avulsion' of the lesser trochanter in an adult with minor trauma should be clinically managed as which of the following?",
+    "choices": ["A. Simple muscle strain", "B. High-risk stress fracture", "C. Pathologic fracture concerning for malignancy", "D. Normal variant", "E. Result of excessive internal rotation"],
+    "answer": "C",
+    "detail": "Lesser trochanter avulsions in adults without significant trauma are pathognomonic for underlying metastatic disease or primary bone malignancy."
+  },
+  {
+    "number": 306,
+    "question": "Which muscle group attaches to the 'Ischial Tuberosity'?",
+    "choices": ["A. Adductor group", "B. Gluteal muscles", "C. Rectus femoris", "D. Hamstrings", "E. Iliopsoas"],
+    "answer": "D",
+    "detail": "The hamstring muscles originate from the ischial tuberosity."
+  },
+  {
+    "number": 307,
+    "question": "Regarding hip fracture management, why does the degree of fracture displacement correspond directly with the risk of Avascular Necrosis (AVN)?",
+    "choices": ["A. Displaced fractures cause immediate bone resorption", "B. Displacement disrupts the vascular flow from the circumflex femorals", "C. Displaced fractures always lead to septic arthritis", "D. Displacement increases marrow pressure", "E. The degree of displacement is irrelevant to AVN risk"],
+    "answer": "B",
+    "detail": "Displaced intracapsular fractures disrupt the medial and lateral circumflex femoral arteries that supply the femoral head."
+  },
+  {
+    "number": 308,
+    "question": "In patients with Ankylosing Spondylitis (Ank Spon) undergoing Total Hip Arthroplasty (THA), why is low-dose prophylactic radiation sometimes administered?",
+    "choices": ["A. To prevent infection", "B. To treat occult metastatic disease", "C. To reduce the risk of heterotopic ossifications", "D. To promote bone-ingrowth in uncemented cups", "E. To prevent stress shielding"],
+    "answer": "C",
+    "detail": "Patients with Ankylosing Spondylitis are at higher risk for heterotopic ossification following THA, which can be mitigated with radiation."
+  },
+  {
+    "number": 309,
+    "question": "'Stress Shielding' after a Total Hip Arthroplasty is most likely to cause bone resorption in which location?",
+    "choices": ["A. Distal to the stem (Zone 4)", "B. The greater trochanter or calcar", "C. The acetabular roof", "D. The shaft of the femur", "E. The ischial tuberosity"],
+    "answer": "B",
+    "detail": "Stress shielding occurs when the prosthesis carries the load, causing resorption of proximal bone in the calcar or greater trochanter region."
+  },
+  {
+    "number": 310,
+    "question": "An MRI of a painful hip replacement shows a large fluid collection with 'shaggy' enhancement and debris, extending from the joint. This is the classic look of:",
+    "choices": ["A. Stress shielding", "B. Heterotopic ossification", "C. Aggressive granulomatosis (Particle Disease)", "D. Avascular necrosis", "E. Normal post-operative healing"],
+    "answer": "C",
+    "detail": "Particle disease involves massive bone resorption and shaggy synovial debris caused by a macrophage response to prosthetic wear."
+  },
+  {
+    "number": 311,
+    "question": "Which nerve is most commonly stretched and injured during an inferior shoulder dislocation (Luxatio Erecta)?",
+    "choices": ["A. Median nerve", "B. Ulnar nerve", "C. Radial nerve", "D. Axillary nerve", "E. Musculocutaneous nerve"],
+    "answer": "D",
+    "detail": "Axillary nerve injury occurs in approximately 60% of patients with an inferior shoulder dislocation."
+  },
+  {
+    "number": 312,
+    "question": "A 'Honda Sign' on a bone scan (H-shaped uptake in the sacrum) is diagnostic of:",
+    "choices": ["A. Paget disease", "B. Osteosarcoma", "C. Sacral insufficiency fracture", "D. Sacroiliitis", "E. Renal Osteodystrophy"],
+    "answer": "C",
+    "detail": "The 'Honda Sign' describes the classic H-shaped tracer uptake pattern seen in sacral insufficiency fractures."
+  },
+  {
+    "number": 313,
+    "question": "Which anatomic landmark on the lateral radiograph of the foot is used to identify a 'Flat' angle, suggesting a calcaneal fracture?",
+    "choices": ["A. Gissane’s angle", "B. Bohler’s angle", "C. Alpha angle", "D. Scapholunate angle", "E. Hibbs’ angle"],
+    "answer": "B",
+    "detail": "Bohler's angle is used to evaluate calcaneal compression fractures."
+  },
+  {
+    "number": 314,
+    "question": "A Bohler’s angle of less than 20 degrees is concerning for:",
+    "choices": ["A. Tarsal coalition", "B. Calcaneal fracture", "C. Plantar fasciitis", "D. Morton’s neuroma", "E. Lisfranc injury"],
+    "answer": "B",
+    "detail": "A Bohler's angle measurement of less than 20 degrees is highly suggestive of a calcaneal fracture."
+  },
+  {
+    "number": 315,
+    "question": "Which of the following is considered a 'High Risk' fracture of the 5th metatarsal due to its propensity for non-union?",
+    "choices": ["A. Avulsion fracture of the tuberosity", "B. Jones fracture (1.5 cm distal to the tuberosity)", "C. Stress fracture of the distal shaft", "D. Comminuted fracture of the head", "E. Growth plate fracture in a child"],
+    "answer": "B",
+    "detail": "The Jones fracture occurs in a vascular watershed area, making it high risk for non-union."
+  },
+  {
+    "number": 316,
+    "question": "A patient presents with 'Patella Baja' (a low-riding patella) after a fall. This suggests a rupture of which structure?",
+    "choices": ["A. Patellar tendon", "B. Quadriceps tendon", "C. Medial patellofemoral ligament", "D. Anterior cruciate ligament", "E. Gastrocnemius"],
+    "answer": "B",
+    "detail": "Quadriceps tendon rupture results in Patella Baja (low riding), while patellar tendon rupture results in Patella Alta (high riding)."
+  },
+  {
+    "number": 317,
+    "question": "'O’Donoghue’s Unhappy Triad' involves injuries to the ACL, the MCL, and which other structure?",
+    "choices": ["A. Lateral meniscus", "B. Medial meniscus", "C. PCL", "D. LCL", "E. Popliteus tendon"],
+    "answer": "B",
+    "detail": "The triad consists of tears to the ACL, MCL, and medial meniscus."
+  },
+  {
+    "number": 318,
+    "question": "A 'Segond Fracture' is a cortical avulsion of the lateral tibial plateau. What is the classic mechanism of injury?",
+    "choices": ["A. External rotation and valgus stress", "B. Internal rotation and varus stress", "C. Hyper-extension", "D. Direct anterior blow", "E. Axial loading in extension"],
+    "answer": "B",
+    "detail": "Segond fractures are caused by internal rotation and are 75% associated with ACL tears."
+  },
+  {
+    "number": 319,
+    "question": "Which knee ligament is considered the 'strongest'?",
+    "choices": ["A. ACL", "B. PCL", "C. MCL", "D. LCL", "E. ALL (Anterolateral Ligament)"],
+    "answer": "B",
+    "detail": "The PCL is considered the strongest ligament in the knee joint."
+  },
+  {
+    "number": 320,
+    "question": "On MRI, 'ACL Mucoid Degeneration' is classically described as having which appearance?",
+    "choices": ["A. Double PCL sign", "B. 'Celery stalk' appearance", "C. 'Boomerang' shape", "D. 'Yo-yo' sign", "E. 'Mini-brain' appearance"],
+    "answer": "B",
+    "detail": "ACL mucoid degeneration presents with a striated 'celery stalk' appearance on T2-weighted images."
+  },
+  {
+    "number": 321,
+    "question": "What is the most common site for a tibial stress fracture in a young athlete?",
+    "choices": ["A. Midshaft anterior (tensile side)", "B. Posterior-medial proximal or distal third (compressive side)", "C. Lateral tibial plateau", "D. Tibial spine", "E. Medial malleolus"],
+    "answer": "B",
+    "detail": "The posterior-medial aspect is the most common site for tibial stress fractures in athletes."
+  },
+  {
+    "number": 322,
+    "question": "Which stress fracture location is 'High Risk' and requires aggressive management (e.g., non-weight bearing or surgery)?",
+    "choices": ["A. 2nd metatarsal", "B. Calcaneus", "C. Tarsal Navicular", "D. Compressive side of the femoral neck", "E. Posterior-medial tibia"],
+    "answer": "C",
+    "detail": "High-risk stress fractures include the tarsal navicular, the tensile side of the femoral neck, and the anterior midshaft of the tibia."
+  },
+  {
+    "number": 323,
+    "question": "A 'Stener Lesion' occurs when which structure gets caught in the torn edges of the Ulnar Collateral Ligament (UCL)?",
+    "choices": ["A. Extensor pollicis longus", "B. Abductor pollicis longus", "C. Adductor aponeurosis", "D. Flexor pollicis brevis", "E. First dorsal interosseous"],
+    "answer": "C",
+    "detail": "A Stener lesion forms when the adductor aponeurosis is trapped within the torn thumb UCL, preventing healing."
+  },
+  {
+    "number": 324,
+    "question": "Why are 'stress views' of the thumb MCP joint contraindicated if a Stener lesion is suspected?",
+    "choices": ["A. They are diagnostic only in children", "B. They can convert a non-displaced tear into a Stener lesion", "C. They cause excessive pain", "D. They are less sensitive than ultrasound", "E. They require general anesthesia"],
+    "answer": "B",
+    "detail": "Stress views can cause the adductor aponeurosis to get caught between the torn ends of the UCL, creating a Stener lesion."
+  },
+  {
+    "number": 325,
+    "question": "'Trigger Finger' is the result of scarring and thickening of which pulley system in the hand?",
+    "choices": ["A. A1 Pulley", "B. A2 Pulley", "C. A4 Pulley", "D. C1 Pulley", "E. Transverse carpal ligament"],
+    "answer": "A",
+    "detail": "Trigger finger is caused by stenosing tenosynovitis at the A1 pulley."
+  },
+  {
+    "number": 326,
+    "question": "Which imaging modality is most effective for demonstrating the 'thickened sheath' in Trigger Finger?",
+    "choices": ["A. Radiographs", "B. CT", "C. Ultrasound", "D. MRI without contrast", "E. PET/CT"],
+    "answer": "C",
+    "detail": "Ultrasound is the primary imaging modality used to diagnose trigger finger."
+  },
+  {
+    "number": 327,
+    "question": "In the 'Pretzel Principle' of forearm injuries, if a radiologist identifies a fracture of the distal radius, what must they evaluate for at the wrist?",
+    "choices": ["A. Scaphoid fracture", "B. Dislocation of the Distal Radial Ulnar Joint (DRUJ)", "C. Lunate dislocation", "D. Triquetral flake fracture", "E. TFCC tear"],
+    "answer": "B",
+    "detail": "A distal radial fracture with associated DRUJ dislocation is known as a Galeazzi fracture."
+  },
+  {
+    "number": 328,
+    "question": "A 'Galeazzi Fracture' involves a distal radial shaft fracture and:",
+    "choices": ["A. Radial head dislocation", "B. DRUJ dislocation", "C. Ulnar styloid fracture", "D. Scaphoid non-union", "E. Elbow dislocation"],
+    "answer": "B",
+    "detail": "Galeazzi = distal Radius fracture + DRUJ (ulnar head) dislocation."
+  },
+  {
+    "number": 329,
+    "question": "A 'Monteggia Fracture' involves a proximal ulnar fracture and:",
+    "choices": ["A. Ulnar head dislocation", "B. Radial head dislocation", "C. Radial styloid fracture", "D. Capitellum fracture", "E. Olecranon avulsion"],
+    "answer": "B",
+    "detail": "Monteggia = proximal Ulna fracture + Radial head dislocation."
+  },
+  {
+    "number": 330,
+    "question": "An 'Avian Spur' (supracondylar spur) of the humerus points in which direction?",
+    "choices": ["A. Away from the joint", "B. Toward the joint", "C. Posteriorly toward the triceps", "D. Superiorly toward the shoulder", "E. It does not have a consistent direction"],
+    "answer": "B",
+    "detail": "Unlike osteochondromas, supracondylar (avian) spurs point toward the joint."
+  },
+  {
+    "number": 331,
+    "question": "Which nerve can be compressed by the 'Ligament of Struthers' in the presence of a supracondylar spur?",
+    "choices": ["A. Ulnar nerve", "B. Radial nerve", "C. Median nerve", "D. Axillary nerve", "E. Musculocutaneous nerve"],
+    "answer": "C",
+    "detail": "The median nerve is compressed within the space formed by the spur and the Ligament of Struthers."
+  },
+  {
+    "number": 332,
+    "question": "'Lateral Epicondylitis' (Tennis Elbow) involves repetitive injury to which tendon?",
+    "choices": ["A. Common flexor tendon", "B. Extensor carpi radialis brevis (ECRB)", "C. Biceps tendon", "D. Triceps tendon", "E. Brachialis"],
+    "answer": "B",
+    "detail": "Lateral epicondylitis classically involves the ECRB tendon."
+  },
+  {
+    "number": 333,
+    "question": "'Medial Epicondylitis' (Golfer's Elbow) involves repetitive injury to which tendon?",
+    "choices": ["A. Common extensor tendon", "B. Common flexor tendon", "C. Triceps tendon", "D. Anconeus", "E. Supinator"],
+    "answer": "B",
+    "detail": "Medial epicondylitis involves the common flexor tendon."
+  },
+  {
+    "number": 334,
+    "question": "On MRI of the elbow, the 'T-sign' with contrast extending medial to the sublime tubercle indicates a partial tear of which ligament?",
+    "choices": ["A. Radial collateral ligament", "B. Ulnar collateral ligament (UCL)", "C. Annular ligament", "D. Quadrate ligament", "E. Oblique cord"],
+    "answer": "B",
+    "detail": "The 'T-sign' represents contrast extending medial to the sublime tubercle, diagnostic of a partial UCL tear."
+  },
+  {
+    "number": 335,
+    "question": "Which component of the UCL is the 'most important' for elbow stability in throwers?",
+    "choices": ["A. Posterior bundle", "B. Transverse bundle", "C. Anterior bundle", "D. Marginal bundle", "E. All are equally important"],
+    "answer": "C",
+    "detail": "The anterior bundle of the UCL is the critical stabilizer for the elbow during the throwing motion."
+  },
+  {
+    "number": 336,
+    "question": "'Little Leaguer’s Elbow' involves a triad of injuries. Which of the following is NOT part of that triad?",
+    "choices": ["A. Medial tension (medial epicondyle injury)", "B. Lateral compression (capitellum OCD)", "C. Posterior shear (olecranon osteophytes)", "D. Anterior distraction (biceps rupture)", "E. UCL injury"],
+    "answer": "D",
+    "detail": "The classic triad is Medial tension, Lateral compression, and Posterior shear. Biceps rupture is not part of the syndrome."
+  },
+  {
+    "number": 337,
+    "question": "'Dialysis Elbow' is the result of:",
+    "choices": ["A. Ulnar nerve entrapment", "B. Chronic olecranon bursitis from pressure during treatment", "C. Avulsion of the triceps tendon", "D. Amyloid deposition in the joint", "E. Septic arthritis"],
+    "answer": "B",
+    "detail": "Dialysis elbow refers to chronic olecranon bursitis caused by repetitive pressure on the elbow during dialysis."
+  },
+  {
+    "number": 338,
+    "question": "A 'Reverse Hill-Sachs' lesion (trough sign) is found on the anterior-medial humeral head. This is diagnostic of which injury?",
+    "choices": ["A. Anterior shoulder dislocation", "B. Posterior shoulder dislocation", "C. Inferior shoulder dislocation", "D. Multidirectional instability", "E. Subcoracoid impingement"],
+    "answer": "B",
+    "detail": "A reverse Hill-Sachs lesion or trough sign is indicative of a posterior shoulder dislocation."
+  },
+  {
+    "number": 339,
+    "question": "The 'Light Bulb Sign' on a shoulder radiograph indicates:",
+    "choices": ["A. The humerus is in extreme external rotation", "B. The humerus is locked in internal rotation due to posterior dislocation", "C. There is a large joint effusion", "D. The patient has a full-thickness rotator cuff tear", "E. There is an axillary nerve palsy"],
+    "answer": "B",
+    "detail": "The 'light bulb sign' occurs when the humerus is locked in internal rotation after a posterior dislocation."
+  },
+  {
+    "number": 340,
+    "question": "According to the Neer classification of proximal humerus fractures, a 'part' is defined by displacement of greater than:",
+    "choices": ["A. 0.5 cm or 15 degrees", "B. 1.0 cm or 45 degrees", "C. 2.0 cm or 90 degrees", "D. 3.0 cm or 30 degrees", "E. 5.0 mm or 10 degrees"],
+    "answer": "B",
+    "detail": "Neer defines a 'part' as a fragment displaced > 1 cm or angulated > 45 degrees."
+  },
+  {
+    "number": 341,
+    "question": "Which shoulder muscle must be fully functional for a patient to undergo a 'Reverse' Total Shoulder Arthroplasty?",
+    "choices": ["A. Supraspinatus", "B. Infraspinatus", "C. Subscapularis", "D. Deltoid", "E. Teres Minor"],
+    "answer": "D",
+    "detail": "Reverse total shoulder arthroplasty relies on a functioning deltoid to serve as the primary mover."
+  },
+  {
+    "number": 342,
+    "question": "'Subcoracoid Impingement' typically damages which tendon?",
+    "choices": ["A. Supraspinatus", "B. Infraspinatus", "C. Subscapularis", "D. Teres major", "E. Long head of the biceps"],
+    "answer": "C",
+    "detail": "Subcoracoid impingement is an anterior process that damages the subscapularis."
+  },
+  {
+    "number": 343,
+    "question": "On MRI, how do you definitively diagnose a 'Full-Thickness' rotator cuff tear?",
+    "choices": ["A. High T2 signal in the tendon only", "B. T1-weighted images showing Gadolinium in the subacromial bursa", "C. Thickened coracohumeral ligament", "D. Fatty atrophy of the muscle belly", "E. Presence of a paralabral cyst"],
+    "answer": "B",
+    "detail": "Visualization of joint fluid or contrast in the subacromial bursa proves a full-thickness defect."
+  },
+  {
+    "number": 344,
+    "question": "'Adhesive Capsulitis' (Frozen Shoulder) is characterized on sagittal T1 MRI by a loss of fat in which location?",
+    "choices": ["A. Subacromial space", "B. Axillary fold", "C. Rotator cuff interval", "D. Bicipital groove", "E. Glenoid labrum"],
+    "answer": "C",
+    "detail": "The loss of clean fat within the rotator cuff interval is a classic MRI sign of adhesive capsulitis."
+  },
+  {
+    "number": 345,
+    "question": "A 'Paralabral Cyst' in the spinoglenoid notch will typically cause atrophy of which muscle(s)?",
+    "choices": ["A. Supraspinatus and Infraspinatus", "B. Infraspinatus only", "C. Supraspinatus only", "D. Teres minor", "E. Subscapularis"],
+    "answer": "B",
+    "detail": "A cyst in the spinoglenoid notch is downstream of the supraspinatus branch, thus causing isolated infraspinatus atrophy."
+  },
+  {
+    "number": 346,
+    "question": "A cyst at the 'Suprascapular Notch' will typically cause atrophy of which muscle(s)?",
+    "choices": ["A. Supraspinatus and Infraspinatus", "B. Infraspinatus only", "C. Supraspinatus only", "D. Teres minor", "E. Deltoid"],
+    "answer": "A",
+    "detail": "A cyst at the suprascapular notch affects the suprascapular nerve before it branches, impacting both muscles."
+  },
+  {
+    "number": 347,
+    "question": "'Quadrilateral Space Syndrome' involves compression of the axillary nerve, classically resulting in atrophy of the:",
+    "choices": ["A. Teres major", "B. Teres minor", "C. Triceps", "D. Subscapularis", "E. Infraspinatus"],
+    "answer": "B",
+    "detail": "Axillary nerve compression in the quadrilateral space leads to atrophy of the teres minor and deltoid."
+  },
+  {
+    "number": 348,
+    "question": "What are the borders of the 'Quadrilateral Space'?",
+    "choices": ["A. Teres minor (above), Teres major (below), Humeral neck (lateral), Triceps long head (medial)", "B. Teres major (above), Teres minor (below), Scapula (lateral), Biceps (medial)", "C. Supraspinatus (above), Infraspinatus (below), Humerus (lateral), Spine (medial)", "D. Clavicle (above), First rib (below), Sternum (lateral), Lung (medial)", "E. Coracoid (above), Lesser tuberosity (below), Glenoid (lateral), Ribs (medial)"],
+    "answer": "A",
+    "detail": "The quadrilateral space is bounded by the teres minor, teres major, humeral neck, and long head of the triceps."
+  },
+  {
+    "number": 349,
+    "question": "'Parsonage-Turner Syndrome' is an idiopathic plexitis. When should a radiologist suggest this diagnosis?",
+    "choices": ["A. When they see a single muscle with fatty atrophy", "B. When they see muscles in two or more nerve distributions affected (e.g., suprascapular and axillary)", "C. When there is a history of a heavy fall on the shoulder", "D. When there is a large bone tumor present", "E. When the patient is a professional baseball pitcher"],
+    "answer": "B",
+    "detail": "Involvement of multiple nerve distributions in the shoulder suggests an idiopathic plexitis like Parsonage-Turner."
+  },
+  {
+    "number": 350,
+    "question": "'Pelvic Congestion Syndrome' is most commonly seen in which patient demographic?",
+    "choices": ["A. Elderly men with prostate issues", "B. Young athletic males", "C. Depressed, multiparous, pre-menopausal women", "D. Infants with congenital heart disease", "E. Post-menopausal women on estrogen therapy"],
+    "answer": "C",
+    "detail": "Pelvic congestion syndrome is a board-favorite diagnosis for chronic pelvic pain in multiparous women."
+  },
+  {
+    "number": 351,
+    "question": "A radiologist is reviewing a 10-day follow-up radiograph for a suspected occult fracture. If the fracture is healing normally, it should appear:",
+    "choices": ["A. More sclerotic due to early callus", "B. More lucent due to bone resorption by granulation tissue", "C. Completely invisible due to fiber bridging", "D. Identical to the initial study", "E. Displaced, even if initially non-displaced"],
+    "answer": "B",
+    "detail": "Bone resorption at 7–14 days increases lucency, making occult fracture lines visible."
+  },
+  {
+    "number": 352,
+    "question": "Which of the following best defines a 'Pathologic Fracture' for the purpose of a board examination?",
+    "choices": ["A. Any fracture occurring in an elderly patient", "B. A fracture associated with an open soft tissue wound", "C. A fracture occurring through a pre-existing lytic bone lesion (e.g., metastasis or bone cyst)", "D. A stress fracture in a patient with osteoporosis", "E. A fracture resulting from a high-energy motor vehicle accident"],
+    "answer": "C",
+    "detail": "Pathologic fractures occur specifically through abnormal, diseased bone."
+  },
+  {
+    "number": 353,
+    "question": "A 'Tuft Fracture' of the fingertip with an associated nail bed injury is medically categorized as which of the following?",
+    "choices": ["A. Simple closed fracture", "B. Pathologic fracture", "C. Open fracture requiring antibiotics", "D. Stress fracture", "E. Insufficiency fracture"],
+    "answer": "C",
+    "detail": "Tuft fractures with associated nail bed damage are considered open fractures."
+  },
+  {
+    "number": 354,
+    "question": "In a Bennett fracture, which muscle or tendon is responsible for the characteristic dorsolateral dislocation of the metacarpal shaft?",
+    "choices": ["A. Extensor pollicis longus (EPL)", "B. Flexor pollicis longus (FPL)", "C. Abductor pollicis longus (APL)", "D. Adductor pollicis", "E. First dorsal interosseous"],
+    "answer": "C",
+    "detail": "The pull of the APL tendon causes the displacement of the metacarpal shaft in a Bennett fracture."
+  },
+  {
+    "number": 355,
+    "question": "What is the primary radiographic feature that distinguishes a Rolando fracture from a Bennett fracture?",
+    "choices": ["A. Rolando is extra-articular", "B. Rolando involves the 5th metacarpal", "C. Rolando is comminuted (often Y or T shaped)", "D. Rolando does not involve the APL tendon", "E. Rolando occurs in children only"],
+    "answer": "C",
+    "detail": "Rolando fractures are comminuted, whereas Bennett fractures are simple intra-articular fractures."
+  },
+  {
+    "number": 356,
+    "question": "A 'Stener Lesion' is a complication of a Gamekeeper’s Thumb where the ulnar collateral ligament (UCL) becomes trapped by which structure?",
+    "choices": ["A. The flexor pollicis longus tendon", "B. The extensor pollicis brevis aponeurosis", "C. The adductor aponeurosis", "D. The volar plate", "E. The radial collateral ligament"],
+    "answer": "C",
+    "detail": "The Stener lesion prevents UCL healing due to entrapment by the adductor aponeurosis."
+  },
+  {
+    "number": 357,
+    "question": "On MRI, a Stener lesion is classically described as having which appearance at the base of the proximal phalanx?",
+    "choices": ["A. 'Target' sign", "B. 'Yo-yo' appearance", "C. 'Double PCL' sign", "D. 'Molar tooth' sign", "E. 'Celery stalk' appearance"],
+    "answer": "B",
+    "detail": "The 'yo-yo' appearance on MRI represents the balled-up, retracted UCL."
+  },
+  {
+    "number": 358,
+    "question": "'Trigger Finger' is the clinical term for stenosing tenosynovitis. Which imaging modality is most high-yield for demonstrating the associated tendon sheath scarring?",
+    "choices": ["A. Radiographs with magnification views", "B. CT with IV contrast", "C. Ultrasound", "D. MRI without contrast", "E. Nuclear medicine bone scan"],
+    "answer": "C",
+    "detail": "Ultrasound is the most effective modality for visualizing the pulley and sheath scarring in trigger finger."
+  },
+  {
+    "number": 359,
+    "question": "According to the 'Pretzel Principle' of forearm fractures, if an isolated fracture of the distal radius is identified, which joint must be carefully imaged to exclude dislocation?",
+    "choices": ["A. The elbow (radial head)", "B. The shoulder (glenohumeral)", "C. The wrist (Distal Radioulnar Joint / DRUJ)", "D. The first CMC joint", "E. The pisi-triquetral joint"],
+    "answer": "C",
+    "detail": "Check the DRUJ whenever an isolated radial fracture is seen (Galeazzi principle)."
+  },
+  {
+    "number": 360,
+    "question": "Which anatomic structure is the primary target of damage in Subacromial Impingement?",
+    "choices": ["A. Subscapularis tendon", "B. Infraspinatus tendon", "C. Supraspinatus tendon", "D. Long head of the biceps", "E. Teres minor"],
+    "answer": "C",
+    "detail": "Subacromial impingement most commonly damages the supraspinatus tendon."
+  },
+  {
+    "number": 361,
+    "question": "Subcoracoid Impingement results in 'pinching' of which structure between the lesser tuberosity and the coracoid process?",
+    "choices": ["A. Supraspinatus", "B. Subscapularis", "C. Infraspinatus", "D. Teres major", "E. Labrum"],
+    "answer": "B",
+    "detail": "The subscapularis tendon is pinched in subcoracoid impingement."
+  },
+  {
+    "number": 362,
+    "question": "'Internal' shoulder impingement (Posterior Superior) is a classic 'buzzword' diagnosis for which patient population?",
+    "choices": ["A. Elderly patients with 'hooked' acromions", "B. Diabetics with 'frozen' shoulders", "C. Athletes who perform frequent overhead movements (e.g., pitchers)", "D. Infants with birth trauma", "E. Patients with chronic RA"],
+    "answer": "C",
+    "detail": "Internal impingement is a pathology of overhead athletes resulting in damage to the posterior-superior cuff."
+  },
+  {
+    "number": 363,
+    "question": "On an MRI arthrogram of the shoulder, the presence of Gadolinium within the subacromial bursa is diagnostic of:",
+    "choices": ["A. A partial thickness bursal-surface tear", "B. A partial thickness articular-surface tear", "C. A full thickness rotator cuff tear", "D. Adhesive capsulitis", "E. Normal joint communication"],
+    "answer": "C",
+    "detail": "Communication between the joint space and the subacromial bursa indicates a full-thickness defect."
+  },
+  {
+    "number": 364,
+    "question": "A tear of the 'Rotator Cuff Interval' involves the junction between which two tendons?",
+    "choices": ["A. Supraspinatus and Infraspinatus", "B. Infraspinatus and Teres Minor", "C. Supraspinatus (anterior fibers) and Subscapularis (superior fibers)", "D. Subscapularis and Teres Major", "E. Long and short heads of the biceps"],
+    "answer": "C",
+    "detail": "The rotator cuff interval is the space between the supraspinatus and subscapularis tendons."
+  },
+  {
+    "number": 365,
+    "question": "Which clinical history is the most common 'multiple choice key' for a diagnosis of Adhesive Capsulitis (Frozen Shoulder)?",
+    "choices": ["A. Heavy smoking", "B. Professional baseball pitching", "C. Prior trauma or surgery", "D. Vitamin D deficiency", "E. High cholesterol"],
+    "answer": "C",
+    "detail": "A history of prior shoulder trauma or surgery is the classic board trigger for adhesive capsulitis."
+  },
+  {
+    "number": 366,
+    "question": "A 'buzzword' finding for Adhesive Capsulitis during a shoulder joint injection is:",
+    "choices": ["A. Increased glenohumeral volume", "B. Decreased glenohumeral volume", "C. Rapid contrast extravasation into the bursa", "D. Normal resistance to injection", "E. Filling of the subcoracoid bursa"],
+    "answer": "B",
+    "detail": "Adhesive capsulitis leads to joint capsule thickening and a dramatic decrease in joint volume."
+  },
+  {
+    "number": 367,
+    "question": "A Segond fracture is a cortical avulsion of the lateral tibial plateau. It is 75% associated with a tear of which ligament?",
+    "choices": ["A. PCL", "B. MCL", "C. ACL", "D. LCL", "E. ALL"],
+    "answer": "C",
+    "detail": "Segond fractures are lateral and highly associated with ACL tears."
+  },
+  {
+    "number": 368,
+    "question": "A Reverse Segond fracture involves the medial tibial plateau and is associated with which mechanism?",
+    "choices": ["A. Internal rotation", "B. External rotation", "C. Hyperextension", "D. Direct anterior blow", "E. Valgus stress"],
+    "answer": "B",
+    "detail": "Reverse Segond is medial and associated with external rotation and PCL injury."
+  },
+  {
+    "number": 369,
+    "question": "An 'Arcuate Sign' (avulsion of the proximal fibula) is 90% specific for an injury to which ligament(s)?",
+    "choices": ["A. ACL", "B. Cruciate ligaments (usually PCL)", "C. MCL", "D. Patellar tendon", "E. Medial patellofemoral ligament (MPFL)"],
+    "answer": "B",
+    "detail": "Proximal fibular avulsion is highly specific for PCL or arcuate complex injury."
+  },
+  {
+    "number": 370,
+    "question": "The 'Deep Intercondylar Notch Sign' seen on a lateral radiograph is caused by:",
+    "choices": ["A. Chronic friction from a discoid meniscus", "B. An impaction injury of the lateral femoral condyle during an ACL tear", "C. A chronic PCL avulsion", "D. Patellar maltracking in a dancer", "E. Secondary Osteoarthritis"],
+    "answer": "B",
+    "detail": "The deep notch results from the impaction of the lateral femur into the tibia during an ACL tear."
+  },
+  {
+    "number": 371,
+    "question": "Why are the ACL and PCL usually unable to heal on their own after a complete tear?",
+    "choices": ["A. They have no blood supply", "B. They are composed of type II collagen only", "C. They are extrasynovial but intra-articular (the synovium prevents clot formation)", "D. They are under constant high tension", "E. They are effectively tendons, not ligaments"],
+    "answer": "C",
+    "detail": "Synovial fluid prevents stable clot formation, isolating these ligaments from the body's natural healing process."
+  },
+  {
+    "number": 372,
+    "question": "On short TE MRI sequences (T1, PD, GRE), the PCL and Patellar tendon may show intermediate signal when they form a 55-degree angle with the magnetic field. This is called:",
+    "choices": ["A. The T-sign", "B. Magic Angle Phenomenon", "C. Vacuum Phenomenon", "D. Truncation Artifact", "E. Susceptibility Artifact"],
+    "answer": "B",
+    "detail": "The Magic Angle phenomenon is seen at 55 degrees on short TE sequences."
+  },
+  {
+    "number": 373,
+    "question": "A 'Kissing Contusion Pattern' on MRI (lateral femoral condyle sulcus terminalis and posterior lateral tibial plateau) is 95% specific for:",
+    "choices": ["A. PCL tear", "B. MCL tear", "C. ACL tear", "D. Medial meniscus tear", "E. Patellar dislocation"],
+    "answer": "C",
+    "detail": "This impaction pattern is pathognomonic for an acute ACL tear."
+  },
+  {
+    "number": 374,
+    "question": "A T2-weighted MRI of the knee shows a striated 'celery stalk' appearance of the ACL in a patient without acute trauma. What is the most likely diagnosis?",
+    "choices": ["A. Acute ACL tear", "B. ACL Mucoid Degeneration", "C. ACL Ganglion cyst", "D. Arthrofibrosis", "E. Partial ACL tear"],
+    "answer": "B",
+    "detail": "ACL Mucoid Degeneration is characterized by the striated 'celery stalk' appearance."
+  },
+  {
+    "number": 375,
+    "question": "When evaluating an ACL repair graft on MRI, a graft that is 'Too Steep' (more vertical than Blumensaat’s line) is prone to which complication?",
+    "choices": ["A. Laxity and instability", "B. Impingement by the femur on extension", "C. Cyclops lesion formation", "D. Popliteal artery dissection", "E. Normal stability"],
+    "answer": "B",
+    "detail": "A graft that is too steep will be impinged by the intercondylar roof during knee extension."
+  },
+  {
+    "number": 376,
+    "question": "At what time interval following ACL reconstruction is the graft at its weakest point during the remodeling process?",
+    "choices": ["A. 0–2 weeks", "B. 1 month", "C. 4–8 months", "D. 1 year", "E. 2 years"],
+    "answer": "C",
+    "detail": "The ACL graft is weakest at 4–8 months post-operatively during the remodeling phase."
+  },
+  {
+    "number": 377,
+    "question": "A focal form of post-operative arthrofibrosis that presents as a low-signal mass-like scar in Hoffa’s fat pad and causes a 'palpable audible clunk' is a:",
+    "choices": ["A. Stener lesion", "B. Segond lesion", "C. Cyclops lesion", "D. Hill-Sachs lesion", "E. Bankart lesion"],
+    "answer": "C",
+    "detail": "Cyclops lesions are focal arthrofibrosis scars that limit extension after ACL repair."
+  },
+  {
+    "number": 378,
+    "question": "If a radiologist identifies a PCL tear or a posterior knee dislocation, what is the most critical next imaging step if vascular compromise is suspected?",
+    "choices": ["A. Knee CT for occult fractures", "B. CTA (CT Angiogram) to evaluate the popliteal artery", "C. MRI of the MCL", "D. Stress radiographs", "E. Ultrasound of the saphenous vein"],
+    "answer": "B",
+    "detail": "Check the popliteal flow void to rule out popliteal artery injury following PCL tear or dislocation."
+  },
+  {
+    "number": 379,
+    "question": "Regarding normal meniscal anatomy, which statement is correct?",
+    "choices": ["A. The lateral meniscus is thicker posteriorly", "B. The medial meniscus is thicker posteriorly", "C. The medial meniscus has equal thickness anteriorly and posteriorly", "D. The lateral meniscus is thicker anteriorly", "E. The meniscus is 100% vascularized"],
+    "answer": "B",
+    "detail": "The medial meniscus is normally thicker posteriorly, while the lateral meniscus is of roughly equal thickness."
+  },
+  {
+    "number": 380,
+    "question": "Which part of the meniscus is vascularized (via the geniculate arteries) and has the potential to heal?",
+    "choices": ["A. The central 'white zone'", "B. The peripheral 'red zone'", "C. The anterior horn only", "D. The free edge", "E. The meniscus is entirely avascular in adults"],
+    "answer": "B",
+    "detail": "Blood supply to the meniscus comes from the periphery (the red zone)."
+  },
+  {
+    "number": 381,
+    "question": "On sagittal MRI (3mm thick/1mm gap), a 'Discoid Meniscus' is diagnosed when you identify how many 'bow tie' shapes?",
+    "choices": ["A. 1", "B. 2", "C. 3 or more", "D. 0", "E. 5"],
+    "answer": "C",
+    "detail": "A normal meniscus shows 2 'bow ties'; identifies 3 or more is diagnostic of a discoid meniscus."
+  },
+  {
+    "number": 382,
+    "question": "To diagnose a discoid meniscus on midline coronal MRI, the transverse length of the meniscus must measure:",
+    "choices": ["A. > 5 mm", "B. > 8 mm", "C. > 10 mm", "D. > 15 mm", "E. > 25 mm"],
+    "answer": "D",
+    "detail": "A transverse length > 15 mm on a midline coronal slice is diagnostic for a discoid meniscus."
+  },
+  {
+    "number": 383,
+    "question": "The 'Double PCL Sign' on MRI is a diagnostic feature of which type of meniscal tear?",
+    "choices": ["A. Radial tear", "B. Horizontal cleavage tear", "C. Bucket handle tear", "D. Root tear", "E. Fraying of the free edge"],
+    "answer": "C",
+    "detail": "A flipped fragment from a bucket handle tear resting anterior to the PCL creates this sign."
+  },
+  {
+    "number": 384,
+    "question": "A patient presents with 'Patella Alta' (a high-riding patella) after acute trauma. Which underlying condition is most strongly associated with spontaneous patellar tendon tears?",
+    "choices": ["A. Diabetes Mellitus", "B. Systemic Lupus Erythematosus (SLE)", "C. Hyperthyroidism", "D. Hypertension", "E. Gout"],
+    "answer": "B",
+    "detail": "SLE is the classic systemic association for spontaneous patellar tendon tears leading to Patella Alta."
+  },
+  {
+    "number": 385,
+    "question": "A 'Bipartite Patella' is a common normal variant. Where is the accessory ossification center typically located?",
+    "choices": ["A. Inferior pole", "B. Superior-medial corner", "C. Superior-lateral corner", "D. Directly posterior", "E. Directly anterior"],
+    "answer": "C",
+    "detail": "The superior-lateral corner is the most frequent location for a bipartite patella."
+  },
+  {
+    "number": 386,
+    "question": "In the 'Classic Flat Foot Progression,' failure typically begins with which structure?",
+    "choices": ["A. Spring ligament", "B. Plantar fascia", "C. Posterior tibial tendon", "D. Sinus tarsi", "E. Achilles tendon"],
+    "answer": "C",
+    "detail": "Flat foot progression begins with failure of the posterior tibial tendon (PTT)."
+  },
+  {
+    "number": 387,
+    "question": "An MRI showing a 'C-shaped' or 'boomerang-shaped' Peroneus Brevis tendon on axial images is diagnostic of:",
+    "choices": ["A. Full thickness rupture", "B. A longitudinal split tear", "C. Normal anatomy", "D. Peroneal tenosynovitis", "E. Subluxation"],
+    "answer": "B",
+    "detail": "The boomerang shape of the brevis indicates a longitudinal split tear."
+  },
+  {
+    "number": 388,
+    "question": "Anterolateral Impingement Syndrome of the ankle results in a 'meniscoid mass' (balled up scar) located in which area?",
+    "choices": ["A. The medial gutter", "B. The lateral gutter", "C. The sinus tarsi", "D. The tarsal tunnel", "E. The Achilles tendon sheath"],
+    "answer": "B",
+    "detail": "The 'meniscoid mass' is located in the lateral gutter of the ankle joint."
+  },
+  {
+    "number": 389,
+    "question": "Which foot deformity can predispose a patient to Tarsal Tunnel Syndrome by tightening the retinaculum?",
+    "choices": ["A. Pes cavus (High arch)", "B. Pes planus (Hindfoot valgus)", "C. Clubfoot", "D. Hallux valgus", "E. Hammer toe"],
+    "answer": "B",
+    "detail": "Flat feet (pes planus) can tighten the flexor retinaculum, causing nerve compression."
+  },
+  {
+    "number": 390,
+    "question": "In 'Os Trigonum Syndrome,' the accessory ossicle is said to 'put the smash' on which structure?",
+    "choices": ["A. Tibialis anterior", "B. Peroneus brevis", "C. Flexor Hallucis Longus (FHL / 'Harry')", "D. Achilles tendon", "E. Plantar fascia"],
+    "answer": "C",
+    "detail": "The Os Trigonum 'smashes' the FHL tendon during extreme plantar flexion."
+  },
+  {
+    "number": 391,
+    "question": "Where is the most common location for an acute Achilles tendon rupture?",
+    "choices": ["A. At the calcaneal insertion", "B. 4 cm above the calcaneal insertion", "C. At the musculotendinous junction", "D. Within the gastrocnemius muscle belly", "E. Within the soleus muscle"],
+    "answer": "B",
+    "detail": "Achilles ruptures typically occur in a vascular watershed area 4 cm proximal to the calcaneus."
+  },
+  {
+    "number": 392,
+    "question": "How can you most easily differentiate an Achilles tendon tear from a Xanthoma on MRI?",
+    "choices": ["A. Tears are always bilateral; Xanthomas are unilateral", "B. Tears are usually unilateral; Xanthomas are usually bilateral (associated with high cholesterol)", "C. Xanthomas show a fluid-filled gap", "D. Tears never show tendon thickening", "E. There is no imaging difference"],
+    "answer": "B",
+    "detail": "Xanthomas are characteristically bilateral, whereas tears are typically unilateral."
+  },
+  {
+    "number": 393,
+    "question": "A 'Tennis Leg' injury refers to the rupture of the plantaris tendon. Where is the classic fluid collection seen on MRI?",
+    "choices": ["A. Anterior to the tibia", "B. Within the Achilles tendon gap", "C. Between the soleus and the medial head of the gastrocnemius", "D. Subcutaneous at the ankle", "E. Within the popliteal fossa"],
+    "answer": "C",
+    "detail": "Tennis leg involves fluid between the soleus and medial gastrocnemius muscles."
+  },
+  {
+    "number": 394,
+    "question": "In the context of DEXA and FRAX, what does the FRAX tool calculate?",
+    "choices": ["A. Bone density relative to an age-matched control", "B. Bone density relative to a young adult", "C. 10-year probability of a major osteoporotic fracture", "D. The amount of calcium in the vertebral body", "E. The rate of bone resorption"],
+    "answer": "C",
+    "detail": "FRAX is a tool used to calculate the 10-year risk of significant osteoporotic fractures."
+  },
+  {
+    "number": 395,
+    "question": "Which condition, also known as 'Sudeck Atrophy,' is characterized by severe osteopenia and intra-articular uptake on a 3-phase bone scan?",
+    "choices": ["A. Osteomyelitis", "B. Rheumatoid Arthritis", "C. Reflex Sympathetic Dystrophy (RSD)", "D. Transient Osteoporosis", "E. Avascular Necrosis"],
+    "answer": "C",
+    "detail": "RSD (Complex Regional Pain Syndrome) is also known as Sudeck Atrophy."
+  },
+  {
+    "number": 396,
+    "question": "For the purpose of board exams, 'Transient Osteoporosis of the Hip' classically involves which patient and location?",
+    "choices": ["A. An elderly man; right hip", "B. A female in the 3rd trimester of pregnancy; left hip", "C. A young athlete; both hips", "D. A child; right hip", "E. A post-menopausal woman; left hip"],
+    "answer": "B",
+    "detail": "The classic MCQ demographic for transient osteoporosis is 3rd trimester pregnancy in the left hip."
+  },
+  {
+    "number": 397,
+    "question": "On a radiograph, how does Transient Osteoporosis of the Hip differ from Avascular Necrosis (AVN)?",
+    "choices": ["A. Transient Osteoporosis has no signal on MRI", "B. Transient Osteoporosis is super lucent (can barely see the head); AVN has patchy sclerosis", "C. AVN is always bilateral; Transient Osteoporosis is always unilateral", "D. Transient Osteoporosis shows a 'Crescent Sign'", "E. There is no difference on radiographs"],
+    "answer": "B",
+    "detail": "Transient osteoporosis shows profound lucency, unlike the patchy sclerosis and dark lines of AVN."
+  },
+  {
+    "number": 398,
+    "question": "Regarding capitellum lesions, which of the following is true of Panner’s Disease?",
+    "choices": ["A. It occurs in adolescents (12–16 years)", "B. It typically shows intra-articular loose bodies", "C. It occurs in younger children (5–10 years) and involves the entire capitellum", "D. It is highly unstable on MRI", "E. It requires immediate surgical fixation"],
+    "answer": "C",
+    "detail": "Panner's involves the entire capitellum in younger children (5–10) and is generally stable."
+  },
+  {
+    "number": 399,
+    "question": "Scheuermann’s disease of the spine is defined by thoracic kyphosis > 40 degrees and wedging of at least how many adjacent vertebrae?",
+    "choices": ["A. 1", "B. 2", "C. 3", "D. 5", "E. 10"],
+    "answer": "C",
+    "detail": "Diagnosis of Scheuermann's requires at least 3 adjacent levels of wedging."
+  },
+  {
+    "number": 400,
+    "question": "Kienbock disease (avascular necrosis of the lunate) is most commonly associated with which radiographic finding?",
+    "choices": ["A. Positive ulnar variance", "B. Neutral ulnar variance", "C. Negative ulnar variance", "D. Madelung deformity", "E. Terry Thomas sign"],
+    "answer": "C",
+    "detail": "Negative ulnar variance is testably associated with Kienbock disease."
+  }
+
+
+
+]
+}

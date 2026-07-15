@@ -1,0 +1,1307 @@
+{
+    "questions": 
+   
+[
+  {
+    "number": 1,
+    "question": "Which anatomic feature is most reliable for morphologically defining the Right Atrium?",
+    "choices": [
+      "Posterior location within the mediastinum",
+      "Connection to the pulmonary veins",
+      "Presence of the crista terminalis",
+      "Defined by the entrance of the inferior vena cava (IVC)",
+      "Presence of the moderator band"
+    ],
+    "answer": "D",
+    "detail": "The Right Atrium (RA) is anatomically defined by the entrance of the IVC."
+  },
+  {
+    "number": 2,
+    "question": "A 62-year-old male undergoes a Cardiac MRI. On the axial images, a muscular ridge is noted running from the entrance of the superior vena cava (SVC) to the entrance of the IVC. This represents the:",
+    "choices": [
+      "Eustachian valve",
+      "Pectinate muscle",
+      "Crista terminalis",
+      "Chiari network",
+      "Thebesian valve"
+    ],
+    "answer": "C",
+    "detail": "This is a muscular ridge running from the SVC to the IVC entrance."
+  },
+  {
+    "number": 3,
+    "question": "In the Right Atrium, pectinate muscles originate from which structure?",
+    "choices": [
+      "The Fossa Ovalis",
+      "The peak of the Crista Terminalis",
+      "The Tricuspid Valve annulus",
+      "The IVC entrance",
+      "The interatrial septum"
+    ],
+    "answer": "B",
+    "detail": "Pectinate muscles arise from this ridge and run into the RA appendage."
+  },
+  {
+    "number": 4,
+    "question": "Which chamber is characterized by a \"narrow opening\" of its appendage?",
+    "choices": [
+      "Right Atrium",
+      "Left Atrium",
+      "Right Ventricle",
+      "Left Ventricle",
+      "Coronary Sinus"
+    ],
+    "answer": "B",
+    "detail": "The LA appendage has a narrow opening, while the RA appendage is wide and triangular."
+  },
+  {
+    "number": 5,
+    "question": "A \"trabeculated appearance\" of the Eustachian valve is identified on an echocardiogram. This finding is specifically known as a:",
+    "choices": [
+      "Crista terminalis",
+      "Pectinate ridge",
+      "Chiari network",
+      "Moderator band",
+      "Persistent Left SVC"
+    ],
+    "answer": "C",
+    "detail": "A trabeculated Eustachian (IVC) valve is called a Chiari network."
+  },
+  {
+    "number": 6,
+    "question": "Which vein drains the majority of the myocardium and is located in the posterior atrioventricular (AV) groove?",
+    "choices": [
+      "Superior Vena Cava",
+      "Inferior Vena Cava",
+      "Coronary Sinus",
+      "Great Cardiac Vein",
+      "Azygos Vein"
+    ],
+    "answer": "C",
+    "detail": "This is the main draining vein of the myocardium, found in the posterior AV groove."
+  },
+  {
+    "number": 7,
+    "question": "A cardiac MRI is performed for assessment of global function. Which view is obtained parallel to the interventricular septum and allows visualization of the inferior and anterior walls of the Left Ventricle?",
+    "choices": [
+      "4 Chamber View",
+      "3 Chamber View",
+      "2 Chamber View",
+      "Short Axis View",
+      "Localizer Scout"
+    ],
+    "answer": "C",
+    "detail": "This view is bisection of the LV parallel to the septum and shows anterior/inferior wall motion."
+  },
+  {
+    "number": 8,
+    "question": "Which cardiac MRI view is best suited for assessing the Left Ventricular Outflow Tract (LVOT)?",
+    "choices": [
+      "2 Chamber View",
+      "3 Chamber View",
+      "4 Chamber View",
+      "Short Axis View",
+      "4 Chamber Horizontal Long Axis"
+    ],
+    "answer": "B",
+    "detail": "Known as the \"filthy mud blood\" hybrid, it is ideal for visualizing the LVOT."
+  },
+  {
+    "number": 9,
+    "question": "The \"basilisk fang\" appearance on Cardiac MRI is associated with which view?",
+    "choices": [
+      "3 Chamber View",
+      "4 Chamber View",
+      "2 Chamber View",
+      "Short Axis View",
+      "Coronal Localizer"
+    ],
+    "answer": "C",
+    "detail": "This view is described as resembling a \"basilisk fang\"."
+  },
+  {
+    "number": 10,
+    "question": "In a morphologically abnormal heart, the Right Ventricle (RV) is definitively identified by the presence of the:",
+    "choices": [
+      "Smooth outflow tract",
+      "Fibrous continuity with the mitral valve",
+      "Moderator band",
+      "Posterior location",
+      "Presence of three papillary muscles"
+    ],
+    "answer": "C",
+    "detail": "The moderator band is the consistent morphologic feature that defines the RV."
+  },
+  {
+    "number": 11,
+    "question": "Which MRI view is most ideal for assessing both the mitral and tricuspid valves simultaneously?",
+    "choices": [
+      "2 Chamber View",
+      "3 Chamber View",
+      "4 Chamber View",
+      "Short Axis View",
+      "Axial Localizer"
+    ],
+    "answer": "C",
+    "detail": "The horizontal long axis view allows assessment of both mitral and tricuspid valves."
+  },
+  {
+    "number": 12,
+    "question": "A 4-chamber horizontal long axis view is uniquely helpful for identifying which of the following congenital defects?",
+    "choices": [
+      "Bicuspid aortic valve",
+      "Coarctation of the aorta",
+      "Atrioventricular (AV) canal defect",
+      "Transposition of the Great Arteries",
+      "Tetralogy of Fallot"
+    ],
+    "answer": "C",
+    "detail": "This specific congenital heart problem is seen best on the 4-chamber view."
+  },
+  {
+    "number": 13,
+    "question": "On a frontal chest radiograph, Right Atrial enlargement is suggested when the right heart border shifts by more than:",
+    "choices": [
+      "1 cm",
+      "2 cm",
+      "3 cm",
+      "5 cm",
+      "10 cm"
+    ],
+    "answer": "C",
+    "detail": "Shifting of the right heart border > 3 cm suggests Right Atrial enlargement."
+  },
+  {
+    "number": 14,
+    "question": "Left Ventricular enlargement on CXR is classically associated with an apex that is tilted:",
+    "choices": [
+      "Up and out",
+      "Down and out",
+      "Medially",
+      "Anteriorly",
+      "Superiorly"
+    ],
+    "answer": "B",
+    "detail": "LV enlargement is described as a \"Let Down\" (down and out)."
+  },
+  {
+    "number": 15,
+    "question": "On a lateral chest radiograph, the \"Walking Man Sign\" is an indirect sign of Left Atrial enlargement. What does this sign represent?",
+    "choices": [
+      "Anterior displacement of the right mainstem bronchus",
+      "Posterior displacement of the left mainstem bronchus",
+      "Flattening of the posterior heart border",
+      "Elevation of the carina",
+      "Anterior tilting of the cardiac apex"
+    ],
+    "answer": "B",
+    "detail": "This creates the appearance of a man walking on lateral CXR."
+  },
+  {
+    "number": 16,
+    "question": "Which of the following is a direct sign of Left Atrial enlargement on a frontal chest radiograph?",
+    "choices": [
+      "Apex tilted up and out",
+      "Elevation of the left main bronchus",
+      "Double density sign",
+      "Shifting of the right heart border > 3 cm",
+      "Widening of the carinal angle > 90 degrees"
+    ],
+    "answer": "C",
+    "detail": "This is a direct sign of LA enlargement on frontal CXR."
+  },
+  {
+    "number": 17,
+    "question": "A 70-year-old female presents with an incidental mass in the interatrial septum that has a \"dumbbell\" appearance on CT. The mass is fat-density and specifically spares the fossa ovalis. What is the diagnosis?",
+    "choices": [
+      "Cardiac Lipoma",
+      "Myxoma",
+      "Lipomatous Hypertrophy of the Interatrial Septum",
+      "Rhabdomyoma",
+      "Thrombus"
+    ],
+    "answer": "C",
+    "detail": "The dumbbell shape and sparing of the fossa ovalis are classic."
+  },
+  {
+    "number": 18,
+    "question": "Why might Lipomatous Hypertrophy of the Interatrial Septum appear \"hot\" on a PET scan?",
+    "choices": [
+      "It is a malignant primary tumor",
+      "It contains brown fat",
+      "It is typically infected",
+      "It represents a metastatic lesion",
+      "It is associated with Tuberous Sclerosis"
+    ],
+    "answer": "B",
+    "detail": "Brown fat can be PET-avid, making this benign entity \"hot\" on scans."
+  },
+  {
+    "number": 19,
+    "question": "How is a Cardiac Lipoma typically differentiated from Lipomatous Hypertrophy of the Interatrial Septum on imaging?",
+    "choices": [
+      "It is thinner than 2 cm",
+      "It is not fat-density",
+      "It does NOT spare the fossa ovalis",
+      "it is always located in the Right Ventricle",
+      "It is never PET-avid"
+    ],
+    "answer": "C",
+    "detail": "Unlike lipomatous hypertrophy, a lipoma does not spare the fossa."
+  },
+  {
+    "number": 20,
+    "question": "A prenatal ultrasound reveals a small calcified \"echogenic focus\" in the fetal Left Ventricle. This finding is associated with an increased risk of:",
+    "choices": [
+      "Turner Syndrome",
+      "Williams Syndrome",
+      "Downs Syndrome",
+      "Holt-Oram Syndrome",
+      "CATCH-22"
+    ],
+    "answer": "C",
+    "detail": "An echogenic intracardiac focus increases the risk of Downs (12% vs 5% general)."
+  },
+  {
+    "number": 21,
+    "question": "Standard \"standard views\" for Cardiac MRI are typically selected from data obtained during which phase of the cardiac cycle?",
+    "choices": [
+      "Mid-systole",
+      "Peak-systole",
+      "Diastole",
+      "Early systole",
+      "Randomly throughout the cycle"
+    ],
+    "answer": "C",
+    "detail": "MRI \"standard views\" are typically selected from diastolic data."
+  },
+  {
+    "number": 22,
+    "question": "Which MRI view is described as an \"impure hybrid\" or \"filthy mud blood\" view?",
+    "choices": [
+      "2 Chamber",
+      "3 Chamber",
+      "4 Chamber",
+      "Short Axis",
+      "Aortic Long Axis"
+    ],
+    "answer": "B",
+    "detail": "This view is the \"impure hybrid\" between the 4 and 2-chamber views."
+  },
+  {
+    "number": 23,
+    "question": "The Right Ventricle (RV) is morphologically defined as having:",
+    "choices": [
+      "A fibrous outflow tract",
+      "Continuity with the mitral valve",
+      "A muscular outflow tract and extensive trabeculae",
+      "Posterior orientation",
+      "Smoother walls than the Left Ventricle"
+    ],
+    "answer": "C",
+    "detail": "These are morphologic definitions of the RV."
+  },
+  {
+    "number": 24,
+    "question": "Which chamber morphology features pectinate muscles only on the inner surface of its appendage?",
+    "choices": [
+      "Right Atrium",
+      "Left Atrium",
+      "Right Ventricle",
+      "Left Ventricle",
+      "Pulmonary Vein sleeve"
+    ],
+    "answer": "B",
+    "detail": "Pectinate muscles are only found on the inner surface of the LA appendage, whereas the RA wall also has them."
+  },
+  {
+    "number": 25,
+    "question": "Shifting of the right heart border more than 3 cm on CXR suggests enlargement of the:",
+    "choices": [
+      "Right Ventricle",
+      "Left Ventricle",
+      "Right Atrium",
+      "Left Atrium",
+      "Azygos vein"
+    ],
+    "answer": "C",
+    "detail": "This shifting defines RA enlargement on frontal CXR."
+  },
+  {
+    "number": 26,
+    "question": "Coronary dominance is determined by the vessel that gives rise to the:",
+    "choices": [
+      "Left Anterior Descending (LAD) artery",
+      "Left Circumflex (LCX) artery",
+      "Posterior Descending Artery (PDA) and posterior left ventricular branches",
+      "Conus artery",
+      "Sinoatrial (SA) nodal branch"
+    ],
+    "answer": "C",
+    "detail": "These vessels determine dominance."
+  },
+  {
+    "number": 27,
+    "question": "In approximately 85% of the population, which vessel is the dominant coronary artery?",
+    "choices": [
+      "Left Main",
+      "LAD",
+      "RCA",
+      "LCX",
+      "Co-dominant"
+    ],
+    "answer": "C",
+    "detail": "Approximately 85% of people are right-dominant."
+  },
+  {
+    "number": 28,
+    "question": "Which vessel provides the blood supply to the SA node in 60% of patients?",
+    "choices": [
+      "LAD",
+      "RCA",
+      "LCX",
+      "Left Main",
+      "Acute Marginal"
+    ],
+    "answer": "B",
+    "detail": "The SA node is supplied by the RCA in 60% of cases."
+  },
+  {
+    "number": 29,
+    "question": "The AV node is supplied by the RCA in what percentage of people?",
+    "choices": [
+      "10%",
+      "25%",
+      "60%",
+      "85%",
+      "90%"
+    ],
+    "answer": "E",
+    "detail": "The AV node is supplied by the RCA in the vast majority of people."
+  },
+  {
+    "number": 30,
+    "question": "Which artery is typically the first branch of the RCA and supplies the ventricle outflow tract?",
+    "choices": [
+      "SA nodal branch",
+      "AV nodal branch",
+      "Conus artery",
+      "Acute marginal artery",
+      "Posterior descending artery"
+    ],
+    "answer": "C",
+    "detail": "This is the first branch about 50% of the time and supplies the RVOT."
+  },
+  {
+    "number": 31,
+    "question": "The mnemonic \"LAD for D\" refers to which branches of the Left Anterior Descending artery?",
+    "choices": [
+      "Septal branches",
+      "Diagonal branches",
+      "Nodal branches",
+      "Marginal branches",
+      "Circumflex branches"
+    ],
+    "answer": "B",
+    "detail": "\"LAD for D\" (Diagonals); Obtuse Marginals are for the Circumflex."
+  },
+  {
+    "number": 32,
+    "question": "Which coronary branches are described as supplying the \"lateral margin\" of the heart?",
+    "choices": [
+      "Septal branches",
+      "Diagonal branches",
+      "Obtuse marginal branches",
+      "Acute marginal branches",
+      "Conus branches"
+    ],
+    "answer": "C",
+    "detail": "These supply the lateral margin of the heart."
+  },
+  {
+    "number": 33,
+    "question": "An anomalous coronary artery where the Left Coronary Artery (LCA) arises from the Right Cusp and courses between the Aorta and Pulmonary Artery is classified as:",
+    "choices": [
+      "Benign variant",
+      "High take-off",
+      "Malignant origin (Interarterial course)",
+      "Myocardial bridging",
+      "Coronary fistula"
+    ],
+    "answer": "C",
+    "detail": "Course between the aorta and PA is high-risk."
+  },
+  {
+    "number": 34,
+    "question": "According to the text, which coronary anomaly is \"more evil than Skeletor\" and MUST always be surgically fixed?",
+    "choices": [
+      "Right Coronary from the Left Cusp",
+      "LCA from the Right Cusp (Interarterial)",
+      "Myocardial bridging",
+      "High take-off of the RCA",
+      "Coronary artery aneurysm < 1.5x"
+    ],
+    "answer": "B",
+    "detail": "This must be fixed due to high risk of sudden death."
+  },
+  {
+    "number": 35,
+    "question": "ALCAPA (Anomalous Left Coronary from the Pulmonary Artery) results in \"Steal Syndrome,\" which is defined as:",
+    "choices": [
+      "High pressure in the pulmonary artery forcing blood into the LCA",
+      "Retrograde flow in the LCA as pulmonary pressure decreases",
+      "Shunting of blood from the RA to the LA",
+      "Compression of the LCA by the aorta",
+      "Massive dilation of the coronary sinus"
+    ],
+    "answer": "B",
+    "detail": "This is the \"steal\" mechanism in ALCAPA."
+  },
+  {
+    "number": 36,
+    "question": "Myocardial bridging is most commonly associated with which vessel?",
+    "choices": [
+      "RCA",
+      "LCX",
+      "LAD",
+      "PDA",
+      "Left Main"
+    ],
+    "answer": "C",
+    "detail": "Myocardial bridging (intramyocardial course) usually involves the LAD."
+  },
+  {
+    "number": 37,
+    "question": "A \"coronary artery aneurysm\" is defined as a vessel diameter greater than what factor of the normal lumen?",
+    "choices": [
+      "1.1x",
+      "1.25x",
+      "1.5x",
+      "2.0x",
+      "3.0x"
+    ],
+    "answer": "C",
+    "detail": "An aneurysm is defined as > 1.5x the normal lumen diameter."
+  },
+  {
+    "number": 38,
+    "question": "What is the most common cause of coronary artery aneurysms in children?",
+    "choices": [
+      "Atherosclerosis",
+      "Syphilis",
+      "Kawasaki Disease",
+      "Iatrogenic (Cardiac cath)",
+      "Polyarteritis nodosa"
+    ],
+    "answer": "C",
+    "detail": "This is the most common cause of coronary aneurysms in children."
+  },
+  {
+    "number": 39,
+    "question": "A \"Coronary Fistula\" most commonly involves the RCA and typically drains into:",
+    "choices": [
+      "The Left Atrium",
+      "The Left Ventricle",
+      "The Right Heart chambers",
+      "The Aorta",
+      "The Pulmonary Veins"
+    ],
+    "answer": "C",
+    "detail": "Coronary fistulas usually involve the RCA and drain to the right heart."
+  },
+  {
+    "number": 40,
+    "question": "To reduce motion artifacts for a Coronary CT, what is the preferred ideal heart rate?",
+    "choices": [
+      "< 40 bpm",
+      "< 60 bpm",
+      "< 80 bpm",
+      "< 100 bpm",
+      "< 120 bpm"
+    ],
+    "answer": "B",
+    "detail": "A slow heart rate is preferred to reduce motion artifacts."
+  },
+  {
+    "number": 41,
+    "question": "Which of the following is an absolute contraindication to the administration of Beta Blockers for a Cardiac CT?",
+    "choices": [
+      "1st degree heart block",
+      "Hypertension",
+      "Severe Asthma",
+      "Diabetes",
+      "Glaucoma"
+    ],
+    "answer": "C",
+    "detail": "Severe asthma is a contraindication to beta blockers."
+  },
+  {
+    "number": 42,
+    "question": "For a patient with a contraindication to beta blockers, which gating technique must be used for Cardiac CT?",
+    "choices": [
+      "Prospective gating",
+      "\"Step and Shoot\"",
+      "Retrospective gating",
+      "Non-gated CT",
+      "End-systolic gating"
+    ],
+    "answer": "C",
+    "detail": "This must be used if beta blockers are contraindicated."
+  },
+  {
+    "number": 43,
+    "question": "Which Cardiac CT gating technique is \"always axial, not helical\"?",
+    "choices": [
+      "Retrospective gating",
+      "Single-cycle gating",
+      "Prospective gating",
+      "Functional gating",
+      "Multi-segment gating"
+    ],
+    "answer": "C",
+    "detail": "This technique is \"always axial, not helical\"."
+  },
+  {
+    "number": 44,
+    "question": "Which gating technique results in higher radiation dose because the scanner stays on throughout the cardiac cycle?",
+    "choices": [
+      "Prospective",
+      "Step and Shoot",
+      "Retrospective",
+      "R-wave triggering",
+      "P-wave triggering"
+    ],
+    "answer": "C",
+    "detail": "It scans throughout the cycle, increasing radiation dose."
+  },
+  {
+    "number": 45,
+    "question": "Retrospective gating is mandatory for the evaluation of which structures?",
+    "choices": [
+      "Calcium scoring",
+      "LAD origin",
+      "Mitral and Tricuspid valves",
+      "Pericardial fat",
+      "Aortic arch"
+    ],
+    "answer": "C",
+    "detail": "Retrospective gating is required for valvular evaluation."
+  },
+  {
+    "number": 46,
+    "question": "Nitroglycerine is administered during Cardiac CT for what primary purpose?",
+    "choices": [
+      "To slow the heart rate",
+      "To prevent contrast reactions",
+      "To dilate the coronaries",
+      "To increase blood pressure",
+      "To enhance the myocardium"
+    ],
+    "answer": "C",
+    "detail": "Nitro is given to improve visualization of the coronary arteries."
+  },
+  {
+    "number": 47,
+    "question": "Use of Phosphodiesterase inhibitors (\"boner pills\") is a contraindication for the administration of:",
+    "choices": [
+      "Beta blockers",
+      "Contrast material",
+      "Nitroglycerine",
+      "Atropine",
+      "Adenosine"
+    ],
+    "answer": "C",
+    "detail": "Phosphodiesterase inhibitors are a contraindication to nitro."
+  },
+  {
+    "number": 48,
+    "question": "A \"high Agatston score (>160)\" is used to suggest increased risk for:",
+    "choices": [
+      "Valve failure",
+      "Dissection",
+      "Major Adverse Cardiac Events (MACE)",
+      "Cardiac tamponade",
+      "Congenital heart disease"
+    ],
+    "answer": "C",
+    "detail": "This score is used for cardiovascular risk stratification."
+  },
+  {
+    "number": 49,
+    "question": "In prospective gating, the data acquisition is triggered by the:",
+    "choices": [
+      "P-wave",
+      "Q-wave",
+      "R-wave",
+      "S-wave",
+      "T-wave"
+    ],
+    "answer": "C",
+    "detail": "Prospective \"Step and Shoot\" is triggered by the R-wave."
+  },
+  {
+    "number": 50,
+    "question": "Prospective gating is generally preferred over retrospective gating when possible because it:",
+    "choices": [
+      "Allows for functional imaging",
+      "Is less sensitive to heart rate variability",
+      "Reduces radiation dose",
+      "Is helical in nature",
+      "Provides better valve visualization"
+    ],
+    "answer": "C",
+    "detail": "Reduced radiation is the main advantage because the scanner isn't on constantly."
+  },
+  {
+    "number": 51,
+    "question": "In MRI quantification of valve disease, \"VENC\" is a set parameter used for quantifying:",
+    "choices": [
+      "Vessel diameter",
+      "Valve thickness",
+      "Velocity of flowing blood",
+      "Ejection fraction",
+      "Myocardial mass"
+    ],
+    "answer": "C",
+    "detail": "VENC (Velocity-encoded cine) is used to quantify flow velocity."
+  },
+  {
+    "number": 52,
+    "question": "To avoid aliasing in VENC MRI, the selected velocity should be approximately how much higher than the expected maximum?",
+    "choices": [
+      "5-10%",
+      "10-15%",
+      "20-25%",
+      "50%",
+      "100%"
+    ],
+    "answer": "C",
+    "detail": "This avoids aliasing artifacts."
+  },
+  {
+    "number": 53,
+    "question": "On a lateral chest radiograph, which valve is the most anterior?",
+    "choices": [
+      "Pulmonic",
+      "Aortic",
+      "Mitral",
+      "Tricuspid",
+      "Eustachian"
+    ],
+    "answer": "D",
+    "detail": "On lateral CXR, the tricuspid is the most anterior valve."
+  },
+  {
+    "number": 54,
+    "question": "When viewing two metal valve rings on a frontal CXR, the larger ring represents the:",
+    "choices": [
+      "Aortic Valve",
+      "Tricuspid Valve",
+      "Pulmonic Valve",
+      "Mitral Valve",
+      "Left Atrial Appendage"
+    ],
+    "answer": "D",
+    "detail": "The mitral valve is larger than the aortic valve on CXR."
+  },
+  {
+    "number": 55,
+    "question": "A pacemaker wire passing through a valve on a radiograph identifies it as the:",
+    "choices": [
+      "Mitral Valve",
+      "Aortic Valve",
+      "Tricuspid Valve",
+      "Pulmonic Valve",
+      "Eustachian Valve"
+    ],
+    "answer": "C",
+    "detail": "A pacer lead passing through a valve identifies it as the tricuspid."
+  },
+  {
+    "number": 56,
+    "question": "\"Supra-valvular Aortic Stenosis\" is a classic association for which genetic syndrome?",
+    "choices": [
+      "Turner Syndrome",
+      "Williams Syndrome",
+      "Downs Syndrome",
+      "Noonan Syndrome",
+      "Marfan Syndrome"
+    ],
+    "answer": "B",
+    "detail": "This syndrome is associated with supra-valvular aortic stenosis."
+  },
+  {
+    "number": 57,
+    "question": "The combination of a Bicuspid Aortic Valve and Aortic Coarctation is highly suggestive of:",
+    "choices": [
+      "Williams Syndrome",
+      "Turner Syndrome",
+      "Alagille Syndrome",
+      "Holt-Oram Syndrome",
+      "Klinefelter Syndrome"
+    ],
+    "answer": "B",
+    "detail": "This combination is classic for Turners."
+  },
+  {
+    "number": 58,
+    "question": "Bicuspid Aortic Valve is considered an independent risk factor for:",
+    "choices": [
+      "Mitral stenosis",
+      "Left atrial myxoma",
+      "Aortic aneurysm",
+      "Tricuspid regurgitation",
+      "Pulmonary hypertension"
+    ],
+    "answer": "C",
+    "detail": "Bicuspid valve is an independent risk factor for aneurysm, regardless of stenosis."
+  },
+  {
+    "number": 59,
+    "question": "If Bicuspid Aortic Valve is not listed as an option, what is the most common congenital heart disease overall?",
+    "choices": [
+      "ASD",
+      "VSD",
+      "PDA",
+      "TOF",
+      "Ebstein Anomaly"
+    ],
+    "answer": "B",
+    "detail": "VSD is the most common CHD if bicuspid valve isn't counted."
+  },
+  {
+    "number": 60,
+    "question": "The \"Austin Flint Murmur\" is classically associated with which valvular pathology?",
+    "choices": [
+      "Aortic Stenosis",
+      "Mitral Stenosis",
+      "Aortic Regurgitation",
+      "Mitral Regurgitation",
+      "Pulmonary Stenosis"
+    ],
+    "answer": "C",
+    "detail": "Austin Flint murmur is associated with AR."
+  },
+  {
+    "number": 61,
+    "question": "What is the most common cause of Mitral Stenosis?",
+    "choices": [
+      "Myxomatous degeneration",
+      "Rheumatic heart disease",
+      "Endocarditis",
+      "Papillary muscle rupture",
+      "Ischemia"
+    ],
+    "answer": "B",
+    "detail": "This is the most common cause of mitral stenosis."
+  },
+  {
+    "number": 62,
+    "question": "\"Ortner’s Syndrome\" describes hoarseness caused by Left Atrial compression of which structure?",
+    "choices": [
+      "Phrenic nerve",
+      "Vagus nerve",
+      "Left recurrent laryngeal nerve",
+      "Esophagus",
+      "Trachea"
+    ],
+    "answer": "C",
+    "detail": "Compression of this nerve by the LA causes hoarseness."
+  },
+  {
+    "number": 63,
+    "question": "Isolated Right Upper Lobe pulmonary edema is a classic imaging scenario for:",
+    "choices": [
+      "Aortic Stenosis",
+      "Mitral Regurgitation",
+      "Tricuspid Regurgitation",
+      "Pulmonary Stenosis",
+      "ASD"
+    ],
+    "answer": "B",
+    "detail": "Isolated RUP edema is a classic scenario for MR."
+  },
+  {
+    "number": 64,
+    "question": "Valvular Pulmonary Stenosis is associated with which syndrome (the \"male version of Turners\")?",
+    "choices": [
+      "Williams",
+      "Noonan",
+      "Alagille",
+      "Marfan",
+      "Ehlers-Danlos"
+    ],
+    "answer": "B",
+    "detail": "Noonan syndrome is often called the \"male version of Turners\"."
+  },
+  {
+    "number": 65,
+    "question": "\"Peripheral Pulmonary Stenosis\" is a key feature of which syndrome involving absent bile ducts?",
+    "choices": [
+      "Noonan Syndrome",
+      "Williams Syndrome",
+      "Alagille Syndrome",
+      "Crouzon Syndrome",
+      "Apert Syndrome"
+    ],
+    "answer": "C",
+    "detail": "This syndrome features peripheral pulmonary stenosis and absent bile ducts."
+  },
+  {
+    "number": 66,
+    "question": "What is the primary complication following surgical repair of Tetralogy of Fallot (TOF)?",
+    "choices": [
+      "Aortic Stenosis",
+      "Mitral Regurgitation",
+      "Pulmonary Regurgitation",
+      "Tricuspid Atresia",
+      "ASD formation"
+    ],
+    "answer": "C",
+    "detail": "Regurgitation is the primary complication following TOF repair."
+  },
+  {
+    "number": 67,
+    "question": "A testable pearl regarding Tricuspid Regurgitation is that it causes:",
+    "choices": [
+      "RV Hypertrophy",
+      "RV Dilation",
+      "LV Hypertrophy",
+      "LA Dilation",
+      "Aortic dilation"
+    ],
+    "answer": "B",
+    "detail": "Tricuspid regurgitation causes RV dilation, NOT RV hypertrophy."
+  },
+  {
+    "number": 68,
+    "question": "Ebstein Anomaly is characteristically associated with maternal use of:",
+    "choices": [
+      "Alcohol",
+      "Lithium",
+      "Valproic Acid",
+      "Steroids",
+      "Smoking"
+    ],
+    "answer": "B",
+    "detail": "Maternal lithium use is associated with Ebstein Anomaly."
+  },
+  {
+    "number": 69,
+    "question": "Which condition is defined by an enlarged Right Atrium and a \"decreased/atrialized\" Right Ventricle?",
+    "choices": [
+      "Tricuspid Atresia",
+      "TOF",
+      "Ebstein Anomaly",
+      "TAPVR",
+      "Transposition"
+    ],
+    "answer": "C",
+    "detail": "This features a hypoplastic tricuspid valve and \"atrialized\" RV."
+  },
+  {
+    "number": 70,
+    "question": "Ebstein Anomaly classically demonstrates which heart shape on CXR?",
+    "choices": [
+      "Egg on a string",
+      "Snowman",
+      "Boot-shaped",
+      "Massive \"box-shaped\"",
+      "Scimitar sword"
+    ],
+    "answer": "D",
+    "detail": "This is the classic CXR appearance for Ebstein."
+  },
+  {
+    "number": 71,
+    "question": "Carcinoid Syndrome affects the heart valves (tricuspid/pulmonic) only after the tumor has metatastasized to the:",
+    "choices": [
+      "Lungs",
+      "Bone",
+      "Liver",
+      "Spleen",
+      "Brain"
+    ],
+    "answer": "C",
+    "detail": "Valvular degradation (tricuspid/pulmonic) occurs only after liver metastasis."
+  },
+  {
+    "number": 72,
+    "question": "Rheumatic heart disease most commonly involves which two valves?",
+    "choices": [
+      "Mitral and Tricuspid",
+      "Mitral and Aortic",
+      "Aortic and Pulmonic",
+      "Tricuspid and Pulmonic",
+      "Aortic and Tricuspid"
+    ],
+    "answer": "B",
+    "detail": "Rheumatic disease most commonly involves these two valves."
+  },
+  {
+    "number": 73,
+    "question": "In children, the \"Ross Procedure\" replaces a diseased aortic valve with the patient's own:",
+    "choices": [
+      "Mitral valve",
+      "Tricuspid valve",
+      "Pulmonary valve",
+      "Pericardial patch",
+      "Synthetic graft"
+    ],
+    "answer": "C",
+    "detail": "The Ross procedure replaces the aortic valve with the patient's own pulmonary valve."
+  },
+  {
+    "number": 74,
+    "question": "The \"Bentall Procedure\" is used to treat combined disease of the aortic valve and ascending aorta, often in which syndrome?",
+    "choices": [
+      "Downs",
+      "Turner",
+      "Marfan",
+      "Noonan",
+      "Williams"
+    ],
+    "answer": "C",
+    "detail": "The Bentall procedure treats combined aortic valve and ascending aorta disease."
+  },
+  {
+    "number": 75,
+    "question": "\"Plastic Bronchitis\" is a testable complication of which cardiac surgical procedure?",
+    "choices": [
+      "Glenn",
+      "Blalock-Taussig",
+      "Fontan",
+      "Mustard",
+      "Senning"
+    ],
+    "answer": "C",
+    "detail": "This is a testable complication of the Fontan procedure."
+  },
+  {
+    "number": 76,
+    "question": "What is the most common variant in aortic arch branching?",
+    "choices": [
+      "Right-sided arch",
+      "Double aortic arch",
+      "Bovine Arch",
+      "Aberrant right subclavian",
+      "Mirror image branching"
+    ],
+    "answer": "C",
+    "detail": "This is the most common variant in aortic arch branching."
+  },
+  {
+    "number": 77,
+    "question": "The \"Bovine Arch\" variant (per the text) is defined as:",
+    "choices": [
+      "Four separate branches",
+      "Common origin of the brachiocephalic and left common carotid",
+      "Left vertebral arising from the arch",
+      "Right-sided arch",
+      "Aorta passing behind the esophagus"
+    ],
+    "answer": "B",
+    "detail": "This is the definition of the bovine variant."
+  },
+  {
+    "number": 78,
+    "question": "If you identify a \"Right Arch with Mirror Branching,\" what is the most likely association?",
+    "choices": [
+      "Normal variant",
+      "Congenital heart disease (e.g., TOF)",
+      "Dysphagia lusoria",
+      "Diverticulum of Kommerell",
+      "Subclavian steal"
+    ],
+    "answer": "B",
+    "detail": "90% of mirror image right arches have TOF."
+  },
+  {
+    "number": 79,
+    "question": "In a \"Right Arch with Aberrant Left Subclavian,\" the vascular ring is completed by the:",
+    "choices": [
+      "Esophagus",
+      "Ligamentum arteriosum",
+      "Trachea",
+      "SVC",
+      "Azygos vein"
+    ],
+    "answer": "B",
+    "detail": "The ligamentum on the left completes the ring around the trachea."
+  },
+  {
+    "number": 80,
+    "question": "What is the most common arch anomaly?",
+    "choices": [
+      "Right arch mirror branching",
+      "Left Arch with Aberrant Right Subclavian",
+      "Double aortic arch",
+      "Bovine arch",
+      "Persistent left SVC"
+    ],
+    "answer": "B",
+    "detail": "This is the most common arch anomaly overall."
+  },
+  {
+    "number": 81,
+    "question": "The \"Diverticulum of Kommerell\" represents aneurysmal dilation at the origin of:",
+    "choices": [
+      "An aberrant right subclavian artery",
+      "An aberrant left subclavian artery",
+      "A bovine arch",
+      "A double arch",
+      "A ductus arteriosus"
+    ],
+    "answer": "A",
+    "detail": "This diverticulum is a dilation at the artery's proximal portion."
+  },
+  {
+    "number": 82,
+    "question": "Which of the following is the most common SYMPTOMATIC vascular ring?",
+    "choices": [
+      "Bovine arch",
+      "Aberrant right subclavian",
+      "Double Aortic Arch",
+      "Right arch with mirror branching",
+      "Scimitar syndrome"
+    ],
+    "answer": "C",
+    "detail": "This is the most common symptomatic vascular ring."
+  },
+  {
+    "number": 83,
+    "question": "Symptoms of a Double Aortic Arch typically begin:",
+    "choices": [
+      "At birth",
+      "In adolescence",
+      "At age 40",
+      "Only during exercise",
+      "Post-pregnancy"
+    ],
+    "answer": "A",
+    "detail": "Symptoms of a double arch (compression) can begin at birth."
+  },
+  {
+    "number": 84,
+    "question": "In \"Subclavian Steal Syndrome,\" the stenosis must be located:",
+    "choices": [
+      "Distal to the vertebral artery",
+      "Proximal to the vertebral artery",
+      "In the common carotid artery",
+      "In the distal aorta",
+      "In the coronary sinus"
+    ],
+    "answer": "B",
+    "detail": "Reversal of flow occurs when the occlusion is proximal to the vertebral."
+  },
+  {
+    "number": 85,
+    "question": "\"Subclavian Steal Phenomenon\" is defined as retrograde flow in the vertebral artery:",
+    "choices": [
+      "With cerebral ischemic symptoms",
+      "WITHOUT cerebral ischemic symptoms",
+      "With arm claudication only",
+      "Associated with a right arch",
+      "Causing a pulmonary shunt"
+    ],
+    "answer": "B",
+    "detail": "This distinction separates the \"phenomenon\" from the \"syndrome\"."
+  },
+  {
+    "number": 86,
+    "question": "A 20-year-old with Subclavian Steal is more likely to have which underlying etiology?",
+    "choices": [
+      "Atherosclerosis",
+      "Takayasu Arteritis",
+      "Radiation injury",
+      "Preductal coarctation",
+      "Blunt trauma"
+    ],
+    "answer": "B",
+    "detail": "In a teenager/20-year-old, suspect Takayasu."
+  },
+  {
+    "number": 87,
+    "question": "A Right Arch that originates from the FRONT of the arch is classified as:",
+    "choices": [
+      "Mirror Image",
+      "Aberrant Left Subclavian",
+      "Bovine",
+      "Normal",
+      "Double"
+    ],
+    "answer": "A",
+    "detail": "Front = Mirror; Back = Aberrant."
+  },
+  {
+    "number": 88,
+    "question": "In patients with Truncus Arteriosus, what is the prevalence of a mirror image right arch?",
+    "choices": [
+      "6%",
+      "25%",
+      "33%",
+      "90%",
+      "100%"
+    ],
+    "answer": "C",
+    "detail": "Truncus has a mirror image right arch 33% of the time."
+  },
+  {
+    "number": 89,
+    "question": "If there is a mirror image right arch, what percentage of patients will have Tetralogy of Fallot (TOF)?",
+    "choices": [
+      "6%",
+      "25%",
+      "33%",
+      "90%",
+      "100%"
+    ],
+    "answer": "D",
+    "detail": "If there is a mirror image right arch, 90% have TOF."
+  },
+  {
+    "number": 90,
+    "question": "\"Dysphagia Lusoria\" refers to swallowing difficulty caused by which vessel?",
+    "choices": [
+      "Double aortic arch",
+      "Aberrant right subclavian artery",
+      "Bovine arch",
+      "Mirror image right arch",
+      "Subclavian steal"
+    ],
+    "answer": "B",
+    "detail": "Swallowing difficulty from this variant is Dysphagia Lusoria."
+  },
+  {
+    "number": 91,
+    "question": "Which \"Battle Tactic\" is used to identify a big pulmonary artery on CT?",
+    "choices": [
+      "The \"Banana and Egg\" sign",
+      "The \"Snowman\" appearance",
+      "The \"Figure 3\" sign",
+      "The \"Boot Shaped\" heart",
+      "The \"Double Density\" sign"
+    ],
+    "answer": "A",
+    "detail": "Main PA (egg) at the level of the arch (banana) on CT."
+  },
+  {
+    "number": 92,
+    "question": "\"Carina Crossover\" is a morphologic sign of pulmonary hypertension where:",
+    "choices": [
+      "The left PA crosses behind the trachea",
+      "The right PA crosses the carina midline anteriorly",
+      "The Main PA crosses the aortic arch",
+      "Retrograde flow occurs in the bronchial arteries",
+      "Hilar nodes splay the carina"
+    ],
+    "answer": "B",
+    "detail": "In PH, the right PA crosses higher than normal."
+  },
+  {
+    "number": 93,
+    "question": "What is the pressure threshold for diagnosing pulmonary hypertension?",
+    "choices": [
+      "> 15 mmHg",
+      "> 20 mmHg",
+      "> 25 mmHg",
+      "> 40 mmHg",
+      "> 70 mmHg"
+    ],
+    "answer": "C",
+    "detail": "Pressures over 25 make the diagnosis of pulmonary hypertension."
+  },
+  {
+    "number": 94,
+    "question": "A \"worse outcome\" in COPD patients is predicted by which ratio on CT?",
+    "choices": [
+      "A/PA ratio < 1 (Pulmonary Artery larger than Aorta)",
+      "A/PA ratio > 1 (Aorta larger than Pulmonary Artery)",
+      "Carinal angle > 90",
+      "Right heart shift > 3 cm",
+      "RV/LV ratio < 1"
+    ],
+    "answer": "A",
+    "detail": "Mortality is increased when the PA is bigger than the aorta."
+  },
+  {
+    "number": 95,
+    "question": "A \"Rasmussen Aneurysm\" is a pulmonary artery pseudoaneurysm secondary to:",
+    "choices": [
+      "Behcet Disease",
+      "Chronic PE",
+      "Pulmonary TB",
+      "Tetralogy repair",
+      "Histoplasmosis"
+    ],
+    "answer": "C",
+    "detail": "This is a PA pseudoaneurysm associated with reactivation TB."
+  },
+  {
+    "number": 96,
+    "question": "Hughes-Stovin Syndrome is characterized by recurrent thrombophlebitis and:",
+    "choices": [
+      "ASD/VSD",
+      "Pulmonary artery aneurysm formation and rupture",
+      "Bicuspid aortic valve",
+      "Coarctation",
+      "Persistent left SVC"
+    ],
+    "answer": "B",
+    "detail": "This zebra condition is similar to Behcets."
+  },
+  {
+    "number": 97,
+    "question": "Which imaging finding on CT is considered the \"best sign\" of Right Heart Strain?",
+    "choices": [
+      "Contrast reflux into the hepatic veins",
+      "Right Ventricle (RV) dilated larger than the Left Ventricle (LV)",
+      "Dilation of the azygos vein",
+      "Leftward bowing of the interatrial septum",
+      "Presence of a pleural effusion"
+    ],
+    "answer": "B",
+    "detail": "This is probably the best CT sign of right heart strain."
+  },
+  {
+    "number": 98,
+    "question": "The \"Golden S Sign\" (or S Sign of Golden) is associated with:",
+    "choices": [
+      "Aortic dissection",
+      "Right Upper Lobe collapse due to a central mass",
+      "Pulmonary embolism",
+      "Coarctation",
+      "Double aortic arch"
+    ],
+    "answer": "B",
+    "detail": "This represents the reverse \"S\" shape."
+  },
+  {
+    "number": 99,
+    "question": "What is the most common congenital venous anomaly of the chest?",
+    "choices": [
+      "Azygos continuation of the IVC",
+      "Persistent Left SVC",
+      "Common pulmonary vein ostia",
+      "Scimitar vein",
+      "Duplicated IVC"
+    ],
+    "answer": "B",
+    "detail": "This is the most common congenital venous anomaly of the chest."
+  },
+  {
+    "number": 100,
+    "question": "A Persistent Left SVC most commonly drains into the:",
+    "choices": [
+      "Left Atrium",
+      "Right Atrium directly",
+      "Coronary Sinus",
+      "Azygos vein",
+      "Pulmonary Artery"
+    ],
+    "answer": "C",
+    "detail": "A persistent left SVC usually drains into the coronary sinus."
+  }
+]
+
+}

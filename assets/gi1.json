@@ -1,0 +1,3260 @@
+{
+    "questions": 
+ [
+    {
+      "number": 1,
+      "question": "The 'A-ring' of the esophagus is anatomically defined as which of the following?",
+      "choices": [
+        "The mucosal ring at the GE junction",
+        "The muscular ring above the vestibule",
+        "The border between the pharynx and cervical esophagus",
+        "A thin constriction at the squamocolumnar junction",
+        "A ring associated with an epiphrenic diverticulum"
+      ],
+      "answer": "B",
+      "detail": "The A-ring is a muscular ring located above the vestibule that is dynamic on swallow."
+    },
+    {
+      "number": 2,
+      "question": "Which esophageal ring is considered non-dynamic and represents a thin mucosal constriction at the GE junction?",
+      "choices": [
+        "A-ring",
+        "B-ring",
+        "Z-line",
+        "Cricopharyngeus",
+        "Schatzki ring"
+      ],
+      "answer": "B",
+      "detail": "The B-ring is a mucosal ring below the vestibule that is not dynamic."
+    },
+    {
+      "number": 3,
+      "question": "Symptomatic dysphagia occurs when a B-ring narrows to a diameter of less than:",
+      "choices": [
+        "5 mm",
+        "10 mm",
+        "13 mm",
+        "20 mm",
+        "25 mm"
+      ],
+      "answer": "C",
+      "detail": "Historically, symptomatic dysphagia is defined by a ring narrowed to <13 mm."
+    },
+    {
+      "number": 4,
+      "question": "A 'Schatzki Ring' is technically defined as:",
+      "choices": [
+        "Any muscular ring in the mid-esophagus",
+        "A narrowed, symptomatic B-ring",
+        "A mucosal ring above the vestibule",
+        "A ring associated with Barrett’s esophagus",
+        "A ring caused by an aberrant subclavian artery"
+      ],
+      "answer": "B",
+      "detail": "If a B-ring is narrowed and the patient is symptomatic, it is called a Schatzki ring."
+    },
+    {
+      "number": 5,
+      "question": "The 'Z-line' represents the transition between which two types of epithelium?",
+      "choices": [
+        "Squamous and transitional",
+        "Squamous and gastric (columnar)",
+        "Ciliated and squamous",
+        "Columnar and cuboidal",
+        "Gastric and duodenal"
+      ],
+      "answer": "B",
+      "detail": "The Z-line is the squamocolumnar junction, or the boundary between esophageal and gastric epithelium."
+    },
+    {
+      "number": 6,
+      "question": "Which muscle is known as the 'true upper esophageal sphincter'?",
+      "choices": [
+        "Digastric",
+        "Stylohyoid",
+        "Cricopharyngeus",
+        "Mylohyoid",
+        "Sternocleidomastoid"
+      ],
+      "answer": "C",
+      "detail": "The cricopharyngeus muscle acts as the true upper esophageal sphincter."
+    },
+    {
+      "number": 7,
+      "question": "At what vertebral level is the cricopharyngeus typically located?",
+      "choices": [
+        "C1-C2",
+        "C3-C4",
+        "C5-C6",
+        "T1-T2",
+        "T4-T5"
+      ],
+      "answer": "C",
+      "detail": "The typical level for this muscle is around C5–C6."
+    },
+    {
+      "number": 8,
+      "question": "During the act of swallowing, the larynx undergoes which two movements?",
+      "choices": [
+        "Depresses and moves posteriorly",
+        "Elevates and moves anteriorly",
+        "Rotates and moves inferiorly",
+        "Elevates and moves posteriorly",
+        "It remains stationary"
+      ],
+      "answer": "B",
+      "detail": "Swallowing causes the larynx to elevate and move anteriorly."
+    },
+    {
+      "number": 9,
+      "question": "When performing a thoracic barium swallow in the Left Posterior Oblique (LPO) position, which hand should hold the barium cup?",
+      "choices": [
+        "Left hand",
+        "Right hand",
+        "Both hands",
+        "The hand does not matter",
+        "The technician must hold it"
+      ],
+      "answer": "A",
+      "detail": "To avoid obscuring the field of view, LPO uses the Left Hand and RPO uses the Right Hand."
+    },
+    {
+      "number": 10,
+      "question": "What is the classic radiographic buzzword for Barrett’s esophagus on a barium study?",
+      "choices": [
+        "'Cobblestone' appearance",
+        "'Lead pipe' colon",
+        "'Reticular mucosal pattern'",
+        "'Shaggy' appearance",
+        "'Ringed' esophagus"
+      ],
+      "answer": "C",
+      "detail": "A high stricture with a hiatal hernia and a reticular mucosal pattern is classic for Barrett’s."
+    },
+    {
+      "number": 11,
+      "question": "Barrett’s esophagus is a precursor to which type of malignancy?",
+      "choices": [
+        "Squamous cell carcinoma",
+        "Adenocarcinoma",
+        "Small cell carcinoma",
+        "Lymphoma",
+        "GIST"
+      ],
+      "answer": "B",
+      "detail": "Barrett’s develops from chronic reflux and is a precursor to adenocarcinoma."
+    },
+    {
+      "number": 12,
+      "question": "'Feline Esophagus' is characterized by fine, transient transverse folds that are only seen in the:",
+      "choices": [
+        "Upper 1/3 of the esophagus",
+        "Lower 2/3 of the esophagus",
+        "Entire length of the esophagus",
+        "Upper 2/3 of the esophagus",
+        "Mid-esophagus only"
+      ],
+      "answer": "B",
+      "detail": "These folds are transient and located only in the lower 2/3."
+    },
+    {
+      "number": 13,
+      "question": "While Feline Esophagus can be a normal variant, it has a high association with:",
+      "choices": [
+        "Achalasia",
+        "Reflux esophagitis",
+        "Scleroderma",
+        "Candidiasis",
+        "Caustic ingestion"
+      ],
+      "answer": "B",
+      "detail": "There is a high association with reflux esophagitis."
+    },
+    {
+      "number": 14,
+      "question": "Esophageal Squamous Cell Carcinoma is most commonly associated with which demographic and location?",
+      "choices": [
+        "White males; lower esophagus",
+        "Black males; mid-esophagus",
+        "White females; mid-esophagus",
+        "Black females; lower esophagus",
+        "Adolescent males; upper esophagus"
+      ],
+      "answer": "B",
+      "detail": "Squamous cell CA favors black males who drink and smoke, and typically occurs in the mid-esophagus."
+    },
+    {
+      "number": 15,
+      "question": "Esophageal Adenocarcinoma is most commonly associated with which demographic and location?",
+      "choices": [
+        "Black males; mid-esophagus",
+        "White males; lower esophagus",
+        "White females; mid-esophagus",
+        "Black females; lower esophagus",
+        "Elderly females; upper esophagus"
+      ],
+      "answer": "B",
+      "detail": "Adenocarcinoma favors white males with chronic reflux/Barrett’s and occurs in the lower esophagus."
+    },
+    {
+      "number": 16,
+      "question": "In esophageal cancer staging, the distinction between T3 and T4 is based on:",
+      "choices": [
+        "Depth of mucosal invasion",
+        "Invasion into adjacent structures",
+        "Lymph node involvement",
+        "Presence of distant metastases",
+        "Size of the primary mass"
+      ],
+      "answer": "B",
+      "detail": "T3 refers to adventitia involvement, while T4 indicates invasion into adjacent structures."
+    },
+    {
+      "number": 17,
+      "question": "What is the most common flavor of gastric herniation, accounting for 95% of cases?",
+      "choices": [
+        "Sliding (Type 1)",
+        "Rolling para-esophageal (Type 2)",
+        "Mixed",
+        "Gastroschisis",
+        "Omphalocele"
+      ],
+      "answer": "A",
+      "detail": "The sliding (Type 1) hiatal hernia is the most common."
+    },
+    {
+      "number": 18,
+      "question": "In a 'Sliding' (Type 1) hiatal hernia, the GE junction is located:",
+      "choices": [
+        "Below the diaphragm",
+        "Above the diaphragm",
+        "Exactly at the level of the diaphragm",
+        "In the posterior mediastinum",
+        "Near the pylorus"
+      ],
+      "answer": "B",
+      "detail": "In Type 1, the GE junction is above the diaphragm; in Type 2, it remains below."
+    },
+    {
+      "number": 19,
+      "question": "Which type of hiatal hernia has a reportedly higher rate of incarceration?",
+      "choices": [
+        "Type 1",
+        "Type 2",
+        "Type 3",
+        "Type 4",
+        "They are equal"
+      ],
+      "answer": "B",
+      "detail": "Para-esophageal (Type 2) hernias have a higher risk of incarceration."
+    },
+    {
+      "number": 20,
+      "question": "A 'Nissen' fundoplication involves what degree of wrap of the gastric fundus?",
+      "choices": [
+        "180 degrees",
+        "270 degrees",
+        "360 degrees",
+        "90 degrees",
+        "45 degrees"
+      ],
+      "answer": "C",
+      "detail": "A Nissen fundoplication is a 360-degree wrap."
+    },
+    {
+      "number": 21,
+      "question": "An early complication of fundoplication (around week 2) presenting with total esophageal obstruction is usually due to:",
+      "choices": [
+        "Post-op edema or a wrap made too tight",
+        "Slipped Nissen",
+        "Recurrent hiatal hernia",
+        "Gastric leak",
+        "Gastric band slippage"
+      ],
+      "answer": "A",
+      "detail": "Edema or an overly tight wrap can cause early narrowing/obstruction."
+    },
+    {
+      "number": 22,
+      "question": "What is the most common reason for recurrent reflux following a fundoplication?",
+      "choices": [
+        "Short esophagus",
+        "Slipped Nissen",
+        "Wound infection",
+        "Candidiasis",
+        "Dumping syndrome"
+      ],
+      "answer": "B",
+      "detail": "Recurrent reflux is most commonly due to a slipped Nissen wrap."
+    },
+    {
+      "number": 23,
+      "question": "A fundoplication wrap is considered 'slipped' if the length of the narrowed esophagus is:",
+      "choices": [
+        "< 1 cm",
+        "< 2 cm",
+        "> 2 cm",
+        "Exactly 5 cm",
+        "Not visible on barium"
+      ],
+      "answer": "C",
+      "detail": "A wrap length > 2 cm suggests it has slipped."
+    },
+    {
+      "number": 24,
+      "question": "For the purpose of a multiple choice test, a 'short esophagus' is defined as a fixed hiatal hernia greater than:",
+      "choices": [
+        "1 cm",
+        "2 cm",
+        "5 cm",
+        "10 cm",
+        "15 cm"
+      ],
+      "answer": "C",
+      "detail": "A fixed/non-reducible hernia > 5 cm defines a short esophagus."
+    },
+    {
+      "number": 25,
+      "question": "What is the surgical treatment for a 'short esophagus'?",
+      "choices": [
+        "Collis gastroplasty (lengthening + fundoplication)",
+        "Billroth 1",
+        "Roux-en-Y",
+        "Pyloromyotomy",
+        "Sistrunk procedure"
+      ],
+      "answer": "A",
+      "detail": "Collis gastroplasty is used to lengthen the esophagus before fundoplication."
+    },
+    {
+      "number": 26,
+      "question": "A 'shaggy' or 'plaque-like' appearance of the esophagus on a barium study in an HIV patient is characteristic of:",
+      "choices": [
+        "Herpes",
+        "Candidiasis",
+        "CMV",
+        "Reflux",
+        "Glycogenic acanthosis"
+      ],
+      "answer": "B",
+      "detail": "Shaggy contour and discrete plaques are classic for Candida esophagitis."
+    },
+    {
+      "number": 27,
+      "question": "Which condition is known as a benign mimic of esophageal candidiasis and occurs in asymptomatic elderly patients?",
+      "choices": [
+        "Herpes",
+        "Glycogenic acanthosis",
+        "CMV",
+        "Crohn's",
+        "Barrett's"
+      ],
+      "answer": "B",
+      "detail": "Glycogenic acanthosis looks like Candida but is seen in asymptomatic old people."
+    },
+    {
+      "number": 28,
+      "question": "Esophageal 'Herpes' ulcers are characteristically described as:",
+      "choices": [
+        "Large, flat, and ovoid",
+        "Small and multiple with a halo of edema",
+        "Long, linear, and confluent",
+        "Deep and 'flask-shaped'",
+        "Associated with a 'coned' appearance"
+      ],
+      "answer": "B",
+      "detail": "'Herpes has a Halo' (small multiple ulcers with edema)."
+    },
+    {
+      "number": 29,
+      "question": "CMV and HIV ulcers in the esophagus are radiographically identical and appear as:",
+      "choices": [
+        "Small with a halo",
+        "Large, flat, and ovoid",
+        "Concentric rings",
+        "Shaggy mucosa",
+        "Reticular patterns"
+      ],
+      "answer": "B",
+      "detail": "CMV and HIV cause large, flat, ovoid ulcers."
+    },
+    {
+      "number": 30,
+      "question": "Crohn’s disease involvement in the esophagus is rare, but the classic buzzword is:",
+      "choices": [
+        "'Aphthous Ulcers'",
+        "'Lead pipe'",
+        "'Apple core'",
+        "'String sign'",
+        "'Caterpillar sign'"
+      ],
+      "answer": "A",
+      "detail": "Discrete ulcers surrounded by mounds of edema are called aphthous ulcers."
+    },
+    {
+      "number": 31,
+      "question": "Where is the most common location for an esophageal duplication cyst?",
+      "choices": [
+        "Antrum",
+        "Ileum",
+        "Duodenum",
+        "Rectum",
+        "Sigmoid"
+      ],
+      "answer": "B",
+      "detail": "While these can be in the esophagus, the ileum is the most common location overall for GI duplication cysts."
+    },
+    {
+      "number": 32,
+      "question": "On CT, an esophageal duplication cyst will appear as a water-density mass in the:",
+      "choices": [
+        "Anterior mediastinum",
+        "Middle mediastinum",
+        "Posterior mediastinum",
+        "Neck",
+        "Perirenal space"
+      ],
+      "answer": "C",
+      "detail": "These cysts are found in the posterior mediastinum abutting the esophagus."
+    },
+    {
+      "number": 33,
+      "question": "Zenker’s Diverticulum is a pulsion diverticulum that arises from the:",
+      "choices": [
+        "Hypopharynx",
+        "Cervical esophagus",
+        "Mid-esophagus",
+        "Epiphrenic region",
+        "Antrum"
+      ],
+      "answer": "A",
+      "detail": "It arises from the hypopharynx, not the cervical esophagus."
+    },
+    {
+      "number": 34,
+      "question": "The site of weakness associated with a Zenker’s Diverticulum is called:",
+      "choices": [
+        "Fossa of Lanzert",
+        "Fossa of Waldeyer",
+        "Killian Dehiscence",
+        "Gastrinoma triangle",
+        "Triangle cord"
+      ],
+      "answer": "C",
+      "detail": "It protrudes through the Killian Dehiscence."
+    },
+    {
+      "number": 35,
+      "question": "A pulsion diverticulum that is anterior and lateral in the cervical esophagus is a:",
+      "choices": [
+        "Zenker’s",
+        "Killian-Jamieson",
+        "Traction diverticulum",
+        "Epiphrenic diverticulum",
+        "Pseudodiverticulosis"
+      ],
+      "answer": "B",
+      "detail": "Killian-Jamieson is anterior and lateral."
+    },
+    {
+      "number": 36,
+      "question": "A 'Traction Diverticulum' is typically located in the mid-esophagus, and its shape is:",
+      "choices": [
+        "Round",
+        "Triangular",
+        "Oval",
+        "Saccular",
+        "Linear"
+      ],
+      "answer": "B",
+      "detail": "Traction diverticula are triangular due to scarring."
+    },
+    {
+      "number": 37,
+      "question": "Traction diverticula occur secondary to scarring from which two common diseases?",
+      "choices": [
+        "Reflux and Scleroderma",
+        "Granulomatous disease (TB) or Sarcoid",
+        "AIDS and Candidiasis",
+        "Achalasia and Chagas",
+        "HPV and CMV"
+      ],
+      "answer": "B",
+      "detail": "Traction results from external scarring/pulling, often from TB or sarcoid."
+    },
+    {
+      "number": 38,
+      "question": "Epiphrenic diverticula are pulsion types located just above the diaphragm, usually on the:",
+      "choices": [
+        "Left side",
+        "Right side",
+        "Posterior wall",
+        "Anterior wall",
+        "Midline"
+      ],
+      "answer": "B",
+      "detail": "They are usually on the right; para-esophageal hernias are usually on the left."
+    },
+    {
+      "number": 39,
+      "question": "'Esophageal Pseudodiverticulosis' represents dilated submucosal glands usually due to:",
+      "choices": [
+        "Acute infection",
+        "Chronic reflux esophagitis",
+        "Trauma",
+        "SMA syndrome",
+        "Radiation"
+      ],
+      "answer": "B",
+      "detail": "This 'Aunt Minnie' is usually caused by chronic reflux."
+    },
+    {
+      "number": 40,
+      "question": "What is the most common benign mucosal lesion of the esophagus?",
+      "choices": [
+        "Lipoma",
+        "Papilloma",
+        "Hemangioma",
+        "GIST",
+        "Neurofibroma"
+      ],
+      "answer": "B",
+      "detail": "Esophageal papillomas are hyperplastic squamous epithelium and the most common benign lesion."
+    },
+    {
+      "number": 41,
+      "question": "Plummer-Vinson Syndrome features a triad of iron deficiency anemia, dysphagia (esophageal web), and:",
+      "choices": [
+        "Cleft palate",
+        "Spoon-shaped nails",
+        "Blue sclera",
+        "Absent clavicles",
+        "Precocious puberty"
+      ],
+      "answer": "B",
+      "detail": "'Spoon-shaped nails' is the classic trivia association."
+    },
+    {
+      "number": 42,
+      "question": "Esophageal webs carry an increased risk for which malignancy?",
+      "choices": [
+        "Adenocarcinoma",
+        "Squamous cell carcinoma",
+        "Lymphoma",
+        "GIST",
+        "Sarcoma"
+      ],
+      "answer": "B",
+      "detail": "Webs are a risk factor for esophageal and hypopharyngeal squamous CA."
+    },
+    {
+      "number": 43,
+      "question": "A young man with a long history of dysphagia, atopia, and peripheral eosinophilia has a 'ringed' esophagus on barium. This is:",
+      "choices": [
+        "Achalasia",
+        "Eosinophilic Esophagitis",
+        "Scleroderma",
+        "Candida",
+        "Caustic ingestion"
+      ],
+      "answer": "B",
+      "detail": "Concentric rings ('ringed esophagus') in a young man with dysphagia is the hallmark."
+    },
+    {
+      "number": 44,
+      "question": "What is the first-line treatment for Eosinophilic Esophagitis?",
+      "choices": [
+        "PPIs",
+        "Steroids",
+        "Surgery",
+        "Antibiotics",
+        "Barium enema"
+      ],
+      "answer": "B",
+      "detail": "They fail PPIs but respond to steroids."
+    },
+    {
+      "number": 45,
+      "question": "'Corkscrew' tertiary contractions in the distal esophagus on a barium study suggest:",
+      "choices": [
+        "Achalasia",
+        "Esophageal spasm",
+        "Nutcracker esophagus",
+        "Scleroderma",
+        "Reflux"
+      ],
+      "answer": "B",
+      "detail": "Multiple tertiary contractions create the 'corkscrew' look."
+    },
+    {
+      "number": 46,
+      "question": "'Nutcracker esophagus' is distinguished from spasm by requiring manometric findings greater than:",
+      "choices": [
+        "100 mmHg",
+        "120 mmHg",
+        "150 mmHg",
+        "180 mmHg",
+        "200 mmHg"
+      ],
+      "answer": "D",
+      "detail": "Nutcracker esophagus is defined by high pressure on manometry."
+    },
+    {
+      "number": 47,
+      "question": "'Dysphagia Lusoria' refers to swallowing difficulty caused by compression from:",
+      "choices": [
+        "An aberrant right subclavian artery",
+        "A double aortic arch",
+        "A pulmonary sling",
+        "An innominate artery",
+        "A Zenker diverticulum"
+      ],
+      "answer": "A",
+      "detail": "Swallowing trouble from an aberrant right subclavian is called Dysphagia Lusoria."
+    },
+    {
+      "number": 48,
+      "question": "Achalasia is a motor disorder characterized by a 'Bird Beak' appearance and:",
+      "choices": [
+        "Absent primary peristalsis",
+        "Hyper-peristalsis",
+        "Rapid gastric emptying",
+        "Low-output CHF",
+        "Presence of a Z-line"
+      ],
+      "answer": "A",
+      "detail": "Achalasia features a failure of the LES to relax and absent primary peristalsis."
+    },
+    {
+      "number": 49,
+      "question": "Achalasia carries an increased risk for which two conditions?",
+      "choices": [
+        "Adenocarcinoma and Scleroderma",
+        "Squamous cell CA and Candida",
+        "GIST and HPV",
+        "Barrett’s and Reflux",
+        "Chagas and HIV"
+      ],
+      "answer": "B",
+      "detail": "Stasis leads to both squamous cell CA and fungal infection."
+    },
+    {
+      "number": 50,
+      "question": "Chagas Disease is caused by a parasite from a fly that produces an esophageal appearance identical to:",
+      "choices": [
+        "Scleroderma",
+        "Achalasia",
+        "Reflux",
+        "Candidiasis",
+        "Barrett's"
+      ],
+      "answer": "B",
+      "detail": "Chagas paralyzes the esophagus, mimicking achalasia."
+    },
+    {
+      "number": 51,
+      "question": "Pseudoachalasia (secondary achalasia) is typically caused by:",
+      "choices": [
+        "Parasites",
+        "Cancer at the GE junction",
+        "Viral infection",
+        "Prior radiation",
+        "Anabolic steroids"
+      ],
+      "answer": "B",
+      "detail": "A cancer at the GE junction creates a fixed obstruction that doesn't relax."
+    },
+    {
+      "number": 52,
+      "question": "Scleroderma involves the esophagus in what percentage of patients?",
+      "choices": [
+        "10%",
+        "25%",
+        "50%",
+        "80%",
+        "100%"
+      ],
+      "answer": "D",
+      "detail": "Scleroderma involves the esophagus in 80% of cases."
+    },
+    {
+      "number": 53,
+      "question": "Esophageal scleroderma leads to an incompetent LES, which results in:",
+      "choices": [
+        "Severe chronic reflux and Barrett’s",
+        "High-output CHF",
+        "Improved peristalsis",
+        "Decreased risk of cancer",
+        "'Corkscrew' contractions"
+      ],
+      "answer": "A",
+      "detail": "The incompetent LES allows massive reflux, leading to strictures, Barrett’s, and cancer."
+    },
+    {
+      "number": 54,
+      "question": "'Uphill Varices' are caused by portal hypertension and are confined to the:",
+      "choices": [
+        "Bottom half of the esophagus",
+        "Top half of the esophagus",
+        "Mid-esophagus only",
+        "Pharynx",
+        "Duodenum"
+      ],
+      "answer": "A",
+      "detail": "Portal hypertension causes varices in the lower esophagus."
+    },
+    {
+      "number": 55,
+      "question": "'Downhill Varices' are caused by SVC obstruction and are confined to the:",
+      "choices": [
+        "Bottom half of the esophagus",
+        "Top half of the esophagus",
+        "Mid-esophagus only",
+        "Lower 2/3 of the esophagus",
+        "Antrum"
+      ],
+      "answer": "B",
+      "detail": "SVC obstruction causes varices in the upper esophagus."
+    },
+    {
+      "number": 56,
+      "question": "A long esophageal stricture should prompt a differential including an NG tube left in too long, radiation, and:",
+      "choices": [
+        "Caustic ingestion (classic lye)",
+        "Crohn's disease",
+        "Achalasia",
+        "Herpes",
+        "Barrett's"
+      ],
+      "answer": "A",
+      "detail": "Lye/caustic ingestion is a classic cause of a long esophageal stricture."
+    },
+    {
+      "number": 57,
+      "question": "What is the most common mesenchymal tumor of the GI tract?",
+      "choices": [
+        "Adenocarcinoma",
+        "Lymphoma",
+        "GIST (Gastrointestinal Stromal Tumor)",
+        "Leiomyoma",
+        "Sarcoma"
+      ],
+      "answer": "C",
+      "detail": "GIST is the most common mesenchymal tumor, and 70% occur in the stomach."
+    },
+    {
+      "number": 58,
+      "question": "Gastric GISTs are rarely associated with which high-yield imaging feature?",
+      "choices": [
+        "Calcification",
+        "Ulceration",
+        "Lymph node enlargement",
+        "Liver metastases",
+        "Exophytic growth"
+      ],
+      "answer": "C",
+      "detail": "Absence of lymphadenopathy favors a GIST over adenocarcinoma."
+    },
+    {
+      "number": 59,
+      "question": "Carney’s Triad (GIST, Extra-adrenal Pheochromocytoma, and Pulmonary Chondroma) is associated with:",
+      "choices": [
+        "NF-1",
+        "GIST",
+        "VHL",
+        "Multiple Sclerosis",
+        "Crohn's"
+      ],
+      "answer": "B",
+      "detail": "GIST is a component of the 'Carney's Eat Garbage' triad."
+    },
+    {
+      "number": 60,
+      "question": "Gastric Adenocarcinoma is predominantly a disease of the elderly, with a median age of:",
+      "choices": [
+        "20",
+        "40",
+        "50",
+        "70",
+        "90"
+      ],
+      "answer": "D",
+      "detail": "The median age is 70, and it is rare before 40."
+    },
+    {
+      "number": 61,
+      "question": "What is the most tested risk factor for gastric adenocarcinoma?",
+      "choices": [
+        "Smoking",
+        "Alcohol",
+        "H. Pylori",
+        "Aspirin use",
+        "C-section history"
+      ],
+      "answer": "C",
+      "detail": "H. pylori is the leading risk factor."
+    },
+    {
+      "number": 62,
+      "question": "Metastatic spread of gastric adenocarcinoma to the ovary is called a:",
+      "choices": [
+        "Virchow Node",
+        "Krukenberg Tumor",
+        "Sister Mary Joseph nodule",
+        "Stierlin sign",
+        "Fleischner sign"
+      ],
+      "answer": "B",
+      "detail": "Krukenberg tumor is gastric (GI) cancer metastatic to the ovary."
+    },
+    {
+      "number": 63,
+      "question": "A swollen left supraclavicular node in the setting of gastric cancer is called a:",
+      "choices": [
+        "Krukenberg node",
+        "Virchow Node",
+        "Sentinel node",
+        "Rouviere node",
+        "Parrot node"
+      ],
+      "answer": "B",
+      "detail": "Virchow node is the classic 'Step 1' trivia for GI cancer spread."
+    },
+    {
+      "number": 64,
+      "question": "Gastric ulcers have what percentage chance of being cancer?",
+      "choices": [
+        "0%",
+        "5%",
+        "25%",
+        "50%",
+        "95%"
+      ],
+      "answer": "B",
+      "detail": "Gastric ulcers carry a 5% risk of malignancy; duodenal ulcers are 'never' cancer on the boards."
+    },
+    {
+      "number": 65,
+      "question": "'Multiple gastric ulcers' is a classic radiographic buzzword for:",
+      "choices": [
+        "H. Pylori",
+        "Chronic aspirin therapy",
+        "Zollinger-Ellison",
+        "Adenocarcinoma",
+        "Menetrier's"
+      ],
+      "answer": "B",
+      "detail": "80% of patients on chronic aspirin will have multiple gastric ulcers."
+    },
+    {
+      "number": 66,
+      "question": "Multiple duodenal ulcers (which are normally solitary) should make you think of:",
+      "choices": [
+        "Aspirin use",
+        "Zollinger-Ellison (Gastrinoma)",
+        "Crohn's disease",
+        "Scleroderma",
+        "Whipples"
+      ],
+      "answer": "B",
+      "detail": "Multiple duodenal ulcers are a sign of increased peptic acid from a gastrinoma."
+    },
+    {
+      "number": 67,
+      "question": "Gastric Lymphoma (MALT) is most commonly associated with which risk factor?",
+      "choices": [
+        "Smoking",
+        "H. Pylori",
+        "Alcohol",
+        "Aspirin",
+        "Prior Billroth surgery"
+      ],
+      "answer": "B",
+      "detail": "Like adenocarcinoma, MALT lymphoma is linked to H. pylori."
+    },
+    {
+      "number": 68,
+      "question": "A key piece of trivia for Gastric Lymphoma is that, even when extensive, it rarely causes:",
+      "choices": [
+        "Wall thickening",
+        "Gastric outlet obstruction",
+        "Ulceration",
+        "Metastasis",
+        "Rugal thickening"
+      ],
+      "answer": "B",
+      "detail": "Lymphoma is a 'soft' tumor and rarely obstructs, unlike adenocarcinoma."
+    },
+    {
+      "number": 69,
+      "question": "Which primary gastric tumor is most likely to 'cross the pylorus'?",
+      "choices": [
+        "Adenocarcinoma",
+        "Lymphoma",
+        "GIST",
+        "Leiomyoma",
+        "Menetrier's"
+      ],
+      "answer": "B",
+      "detail": "Although adenocarcinoma can do it because it is more common, lymphoma is 'classically' described as crossing the pylorus."
+    },
+    {
+      "number": 70,
+      "question": "Linitis Plastica refers to a rigid, contracted 'leather bottle' appearance of the stomach, most classically caused by:",
+      "choices": [
+        "GIST",
+        "Melanoma or Breast (Lobular) mets",
+        "Candidiasis",
+        "Scleroderma",
+        "Menetrier's"
+      ],
+      "answer": "B",
+      "detail": "While lymphoma can also look like this, it is the classic look for certain metastatic cancers."
+    },
+    {
+      "number": 71,
+      "question": "Areae Gastricae refers to a normal fine reticular pattern in the stomach that ENLARGES in which two groups?",
+      "choices": [
+        "Young children and neonates",
+        "Elderly patients and those with H. Pylori",
+        "Pregnant women and those on steroids",
+        "Athletes and those with CF",
+        "HIV patients and those with Crohn's"
+      ],
+      "answer": "B",
+      "detail": "It enlarges with age and infection; it is obliterated by cancer."
+    },
+    {
+      "number": 72,
+      "question": "Menetrier’s Disease is an idiopathic gastropathy characterized by rugal thickening that:",
+      "choices": [
+        "Spares the fundus and involves the antrum",
+        "Involves the fundus and spares the antrum",
+        "Involves the entire stomach",
+        "Spares the mucosa",
+        "Is associated with high albumin"
+      ],
+      "answer": "B",
+      "detail": "Fundal involvement with antral sparing is essential trivia for Menetrier’s."
+    },
+    {
+      "number": 73,
+      "question": "The 'childhood form' of Menetrier’s Disease is thought to be related to:",
+      "choices": [
+        "H. Pylori",
+        "CMV",
+        "HPV",
+        "HIV",
+        "Ascaris"
+      ],
+      "answer": "B",
+      "detail": "The childhood variant is linked to CMV infection."
+    },
+    {
+      "number": 74,
+      "question": "What is the most common GI tract location for Sarcoidosis?",
+      "choices": [
+        "Esophagus",
+        "Stomach (Antrum)",
+        "Ileum",
+        "Rectum",
+        "Duodenum"
+      ],
+      "answer": "B",
+      "detail": "The stomach is the #1 GI location for sarcoid, often producing a 'Ram's Horn' deformity."
+    },
+    {
+      "number": 75,
+      "question": "Ram’s Horn Deformity refers to a tubular, conical shape of the distal stomach seen in:",
+      "choices": [
+        "Reflux",
+        "Scarring (Peptic ulcers) or Granulomatous Disease (Sarcoid, TB, Crohn's)",
+        "Gastric band slippage",
+        "Billroth 1 surgery",
+        "Candidiasis"
+      ],
+      "answer": "B",
+      "detail": "It results from tapering of the antrum due to various scarring processes."
+    },
+    {
+      "number": 76,
+      "question": "Organoaxial gastric volvulus is more common and typically occurs in:",
+      "choices": [
+        "Infants with midgut volvulus",
+        "Old ladies with para-esophageal hernias",
+        "Teenagers after trauma",
+        "Patients with CF",
+        "Men on anabolic steroids"
+      ],
+      "answer": "B",
+      "detail": "'O' for 'Older' ladies; the greater curvature flips over the lesser."
+    },
+    {
+      "number": 77,
+      "question": "In Mesenteroaxial gastric volvulus, the gastric antrum is located:",
+      "choices": [
+        "Below the GE junction",
+        "Above the GE junction",
+        "Inside a hiatal hernia",
+        "To the right of the spine",
+        "In the pelvis"
+      ],
+      "answer": "B",
+      "detail": "This type is more common in kids and causes ischemia."
+    },
+    {
+      "number": 78,
+      "question": "A Gastric Diverticulum is most commonly found in the:",
+      "choices": [
+        "Posterior fundus",
+        "Anterior antrum",
+        "Pylorus",
+        "Lesser curvature",
+        "Greater curvature"
+      ],
+      "answer": "A",
+      "detail": "It is located in the posterior fundus and is often mistaken for an adrenal mass."
+    },
+    {
+      "number": 79,
+      "question": "Isolated 'Gastric Varices' should immediately make you look for:",
+      "choices": [
+        "SVC obstruction",
+        "Splenic vein thrombus",
+        "SMA syndrome",
+        "Portal vein aneurysm",
+        "Hepatic artery occlusion"
+      ],
+      "answer": "B",
+      "detail": "Splenic vein thrombosis (often from pancreatitis or cancer) causes isolated gastric varices."
+    },
+    {
+      "number": 80,
+      "question": "Most gastric varices are formed by which vessel?",
+      "choices": [
+        "Short gastric vein",
+        "Left gastric (coronary vein)",
+        "Right gastric vein",
+        "Splenic artery",
+        "Renal vein"
+      ],
+      "answer": "B",
+      "detail": "The left gastric vein is the most common source."
+    },
+    {
+      "number": 81,
+      "question": "For a lap gastric band, what is the ideal 'phi angle' (position of the band)?",
+      "choices": [
+        "10–20 degrees",
+        "4–58 degrees (or 5–50 degrees)",
+        "Exactly 90 degrees",
+        "180 degrees",
+        "360 degrees"
+      ],
+      "answer": "B",
+      "detail": "A flat angle suggests the band has slipped."
+    },
+    {
+      "number": 82,
+      "question": "What is the most common complication of a lap gastric band?",
+      "choices": [
+        "Band slippage",
+        "Stomal stenosis (band too tight)",
+        "Gastric leak",
+        "Erosion into the lumen",
+        "Internal hernia"
+      ],
+      "answer": "B",
+      "detail": "Vomiting and a dilated proximal pouch are signs of stomal stenosis."
+    },
+    {
+      "number": 83,
+      "question": "In a Billroth 1 surgery, the pylorus is removed and the proximal stomach is sewn to the:",
+      "choices": [
+        "Jejunum",
+        "Duodenum",
+        "Ileum",
+        "Esophagus",
+        "Colon"
+      ],
+      "answer": "B",
+      "detail": "Billroth 1 is a gastroduodenostomy."
+    },
+    {
+      "number": 84,
+      "question": "A Billroth 2 surgery involves a partial gastrectomy where the stomach is attached to the:",
+      "choices": [
+        "Duodenum",
+        "Jejunum",
+        "Ileum",
+        "Rectum",
+        "Skin"
+      ],
+      "answer": "B",
+      "detail": "Billroth 2 is a gastrojejunostomy."
+    },
+    {
+      "number": 85,
+      "question": "Gastric remnants after old peptic ulcer surgeries (Billroths) carry a 3–6x increased risk of:",
+      "choices": [
+        "Adenocarcinoma (after 15 years)",
+        "Squamous cell CA",
+        "Lymphoma",
+        "GIST",
+        "Menetrier's"
+      ],
+      "answer": "A",
+      "detail": "There is a long-term risk of adenocarcinoma in the 'stump'."
+    },
+    {
+      "number": 86,
+      "question": "Dumping Syndrome is caused by rapid gastric emptying and is classically seen after which procedure?",
+      "choices": [
+        "Lap band",
+        "Billroth 2",
+        "Pyloromyotomy",
+        "Sistrunk",
+        "Whipple"
+      ],
+      "answer": "B",
+      "detail": "Rapid transit of undigested food leads to diarrhea and nausea."
+    },
+    {
+      "number": 87,
+      "question": "Afferent Loop Syndrome in a Billroth 2 patient results from obstruction of the:",
+      "choices": [
+        "Feeding limb",
+        "Bilio-pancreatic limb",
+        "Esophagus",
+        "Pylorus",
+        "Rectum"
+      ],
+      "answer": "B",
+      "detail": "Obstruction of the afferent (bilio-pancreatic) limb causes dilation and pain."
+    },
+    {
+      "number": 88,
+      "question": "Jejunogastric Intussusception is a rare, high-mortality complication where the jejunum herniates into the:",
+      "choices": [
+        "Duodenum",
+        "Stomach",
+        "Billroth 1 wrap",
+        "Antrum",
+        "Omentum"
+      ],
+      "answer": "B",
+      "detail": "It usually involves the efferent limb herniating back into the stomach."
+    },
+    {
+      "number": 89,
+      "question": "When looking for a post-op 'Leak' (gastrojejunal anastomosis), which imaging position is most useful?",
+      "choices": [
+        "Supine",
+        "Supine Left Posterior Oblique (LPO)",
+        "Prone",
+        "Right Lateral Decubitus",
+        "Standing"
+      ],
+      "answer": "B",
+      "detail": "75% of leaks drain to the left."
+    },
+    {
+      "number": 90,
+      "question": "Which vital sign is considered the single most reliable sign of a post-surgical perforation?",
+      "choices": [
+        "Fever > 101 F",
+        "Heart rate > 120 bpm",
+        "Blood pressure < 90/60",
+        "Respiratory rate > 20",
+        "Oxygen saturation < 90%"
+      ],
+      "answer": "B",
+      "detail": "Tachycardia > 120 is highly indicative of perforation."
+    },
+    {
+      "number": 91,
+      "question": "A 'Gastro-Gastric Fistula' is a chronic complication of Roux-en-Y surgery where contrast from the pouch enters the:",
+      "choices": [
+        "Excluded stomach",
+        "Pylorus",
+        "Lung",
+        "Heart",
+        "Perirenal space"
+      ],
+      "answer": "A",
+      "detail": "The classic history is weight gain as the patient can eat more without discomfort."
+    },
+    {
+      "number": 92,
+      "question": "'Marginal Ulcers' in a Roux-en-Y patient are typically found:",
+      "choices": [
+        "In the esophagus",
+        "Just distal to the 'G-J' anastomosis (in the jejunum)",
+        "In the antrum",
+        "At the IC valve",
+        "In the excluded stomach"
+      ],
+      "answer": "B",
+      "detail": "The small bowel is exposed to acid it doesn't like, leading to ulcers."
+    },
+    {
+      "number": 93,
+      "question": "'Simple Mechanical' bowel obstruction is defined by a bowel segment being obstructed at:",
+      "choices": [
+        "A single point",
+        "Two or more adjacent points",
+        "Three non-adjacent points",
+        "The pylorus only",
+        "The anus only"
+      ],
+      "answer": "A",
+      "detail": "A single point of obstruction defines simple mechanical SBO."
+    },
+    {
+      "number": 94,
+      "question": "'Closed Loop' obstruction occurs when a segment is obstructed at:",
+      "choices": [
+        "A single point",
+        "Two or more adjacent points",
+        "The ligament of Treitz",
+        "Only in the colon",
+        "Only in the esophagus"
+      ],
+      "answer": "B",
+      "detail": "Obstruction at two adjacent points creates a 'closed loop'."
+    },
+    {
+      "number": 95,
+      "question": "In Roux-en-Y, 'Ante-Colic' refers to the Roux-Limb passing:",
+      "choices": [
+        "Behind the transverse colon",
+        "In front of the transverse colon",
+        "Through the mesentery",
+        "Into the excluded stomach",
+        "Below the rectum"
+      ],
+      "answer": "B",
+      "detail": "Ante-colic is in front."
+    },
+    {
+      "number": 96,
+      "question": "A 'Retro-Colic' Roux-Limb requires a defect in the transverse mesocolon, which is a potential source of:",
+      "choices": [
+        "Internal hernia",
+        "Dumping syndrome",
+        "Stomal stenosis",
+        "Gastric varices",
+        "Reflux"
+      ],
+      "answer": "A",
+      "detail": "Creating a mesenteric defect provides a space for bowel to twist or herniate."
+    },
+    {
+      "number": 97,
+      "question": "Petersen’s Hernia is an internal hernia that occurs:",
+      "choices": [
+        "Through the fossa of Waldeyer",
+        "Behind the Roux limb mesentery",
+        "Through the fossa of Lanzert",
+        "At the pylorus",
+        "In the anterior abdominal wall"
+      ],
+      "answer": "B",
+      "detail": "Petersen's occurs behind the Roux limb and can happen in both antecolic and retrocolic forms."
+    },
+    {
+      "number": 98,
+      "question": "'Thin (< 3mm) Straight Folds with Dilation' on a small bowel follow-through suggest:",
+      "choices": [
+        "Ischemia",
+        "Mechanical obstruction or Paralytic ileus",
+        "Whipple's disease",
+        "Crohn's disease",
+        "Lymphoma"
+      ],
+      "answer": "B",
+      "detail": "Thin folds with dilation indicate an obstructive or ileus pattern."
+    },
+    {
+      "number": 99,
+      "question": "'Thick Straight Folds (> 3mm)' in a diffuse distribution should make you think of:",
+      "choices": [
+        "Ischemia",
+        "Low protein (cirrhosis) or Venous congestion",
+        "Celiac sprue",
+        "SBO",
+        "Meckel's diverticulum"
+      ],
+      "answer": "B",
+      "detail": "Diffuse straight thickening is often due to low oncotic pressure or congestion."
+    },
+    {
+      "number": 100,
+      "question": "'Tethering' of small bowel loops (loops pulled toward a mass) is characteristic of:",
+      "choices": [
+        "Ascites",
+        "Carcinoid tumor",
+        "Crohn's disease",
+        "Scleroderma",
+        "Giardia"
+      ],
+      "answer": "B",
+      "detail": "Tethering looks like someone is 'pinching and pulling' the loops toward the mass."
+    },
+  
+    {
+      "number": 101,
+      "question": "Which small bowel finding is described as 'loops being pinched and pulled toward a displacing mass'?",
+      "choices": [
+        "Cobblestoning",
+        "Tethering",
+        "Hidebound bowel",
+        "Ribbon bowel",
+        "Moulage sign"
+      ],
+      "answer": "B",
+      "detail": "Tethering is a classic imaging feature where loops of bowel are pulled toward a mesenteric mass, most classically a carcinoid tumor."
+    },
+    {
+      "number": 102,
+      "question": "Small bowel 'Loop Separation' WITHOUT tethering is commonly caused by which of the following?",
+      "choices": [
+        "Carcinoid tumor",
+        "Ascites or Wall Thickening (e.g., Crohn's)",
+        "Desmoplastic reaction",
+        "Retromesenteric plane hematoma",
+        "Perirenal abscess"
+      ],
+      "answer": "B",
+      "detail": "Separation without tethering is typically due to fluid (ascites), thickened walls (Crohn’s/Lymphoma), or mesenteric adenopathy."
+    },
+    {
+      "number": 103,
+      "question": "'Cobblestoning' of the small bowel is characterized by raised islands of mucosa separated by linear streaks, representing:",
+      "choices": [
+        "Benign polyps",
+        "Ulceration",
+        "Fat proliferation",
+        "Dilated lymphatics",
+        "Reticular nodules"
+      ],
+      "answer": "B",
+      "detail": "These linear streaks represent ulceration, which is a trademark feature of Crohn’s disease."
+    },
+    {
+      "number": 104,
+      "question": "Which condition presents with 'Sand-Like' micronodules in the jejunum?",
+      "choices": [
+        "Celiac disease",
+        "Whipple’s Disease (Tropheryma whipplei)",
+        "Scleroderma",
+        "GvHD",
+        "Lymphoid hyperplasia"
+      ],
+      "answer": "B",
+      "detail": "Whipple’s and Pseudo-Whipple’s (MAC infection) both present with these diffuse micronodules."
+    },
+    {
+      "number": 105,
+      "question": "'Uniform 2–4 mm nodules' in the small bowel are characteristic of:",
+      "choices": [
+        "Metastatic melanoma",
+        "Lymphoid Hyperplasia",
+        "Crohn's disease",
+        "Carcinoid",
+        "Ascaris infection"
+      ],
+      "answer": "B",
+      "detail": "Uniformly sized small nodules indicate lymphoid hyperplasia."
+    },
+    {
+      "number": 106,
+      "question": "Which finding is described as a 'featureless, atrophic' bowel with 'ribbon-like' fold thickening?",
+      "choices": [
+        "Scleroderma",
+        "Celiac disease",
+        "Graft vs Host Disease (GvHD)",
+        "Whipple’s disease",
+        "Intestinal lymphangiectasia"
+      ],
+      "answer": "C",
+      "detail": "'Ribbon bowel' is the trademark feature for GvHD."
+    },
+    {
+      "number": 107,
+      "question": "'Hidebound Bowel' (narrow separation of normal folds with mild dilation) is diagnostic for:",
+      "choices": [
+        "Celiac disease",
+        "Scleroderma",
+        "Crohn's disease",
+        "Lymphoma",
+        "GvHD"
+      ],
+      "answer": "B",
+      "detail": "Hidebound bowel is the classic sign for scleroderma in the small bowel."
+    },
+    {
+      "number": 108,
+      "question": "The 'Moulage Sign' (tube of wax appearance) occurs due to the complete loss of jejunal folds and is associated with:",
+      "choices": [
+        "Scleroderma",
+        "Celiac Disease",
+        "Whipple’s disease",
+        "Intestinal lymphangiectasia",
+        "Carcinoid"
+      ],
+      "answer": "B",
+      "detail": "Celiac disease results in a dilated jejunal loop that looks like a 'tube of wax'."
+    },
+    {
+      "number": 109,
+      "question": "'Fold Reversal' in Celiac disease means:",
+      "choices": [
+        "The esophagus looks like the stomach",
+        "Jejunum loses folds (looks like ileum) and ileum gains folds (looks like jejunum)",
+        "The stomach loses its rugae",
+        "The colon takes on a small bowel appearance",
+        "The duodenum rotates clockwise"
+      ],
+      "answer": "B",
+      "detail": "In Celiac, the jejunum and ileum essentially swap appearances."
+    },
+    {
+      "number": 110,
+      "question": "A 'Thread-Like Defect' in the barium column of the small bowel is a sign of:",
+      "choices": [
+        "Ascaris Suum",
+        "Crohn’s stricture",
+        "Internal hernia",
+        "Meckel's diverticulum",
+        "Intussusception"
+      ],
+      "answer": "A",
+      "detail": "Intestinal parasites like Ascaris create a distinct thread-like filling defect."
+    },
+    {
+      "number": 111,
+      "question": "What is the embryological origin of a Meckel’s Diverticulum?",
+      "choices": [
+        "Wolffian duct",
+        "Mullerian duct",
+        "Omphalomesenteric duct",
+        "Urachus",
+        "Pharyngeal pouch"
+      ],
+      "answer": "C",
+      "detail": "Meckel’s is a persistent remnant of the omphalomesenteric duct."
+    },
+    {
+      "number": 112,
+      "question": "According to the 'Rule of 2s,' what percentage of the population has a Meckel’s Diverticulum?",
+      "choices": [
+        "2%",
+        "5%",
+        "10%",
+        "20%",
+        "0.2%"
+      ],
+      "answer": "A",
+      "detail": "The Rule of 2s states it occurs in 2% of the population."
+    },
+    {
+      "number": 113,
+      "question": "Meckel’s Diverticulum is typically located how far from the ileocecal (IC) valve?",
+      "choices": [
+        "2 inches",
+        "2 feet",
+        "2 meters",
+        "10 cm",
+        "It is always at the valve"
+      ],
+      "answer": "B",
+      "detail": "It is classically located 2 feet from the IC valve."
+    },
+    {
+      "number": 114,
+      "question": "Which nuclear medicine tracer is used to identify a bleeding Meckel’s Diverticulum?",
+      "choices": [
+        "Tc-99m Sulfur Colloid",
+        "Tc-99m Pertechnetate",
+        "I-123",
+        "Thallium-201",
+        "Gallium-67"
+      ],
+      "answer": "B",
+      "detail": "Pertechnetate is taken up by the ectopic gastric mucosa found in symptomatic Meckel’s."
+    },
+    {
+      "number": 115,
+      "question": "Where is the ideal target for a 'G-Tube' (Gastrostomy tube) placement?",
+      "choices": [
+        "Left of midline, mid to distal body, equal distance from curves",
+        "Right of midline, fundus",
+        "Posterior wall of the antrum",
+        "Left of midline, proximal body near the GE junction",
+        "Directly through the rectus muscle"
+      ],
+      "answer": "A",
+      "detail": "The ideal spot is left of midline (lateral to the rectus) in the mid-to-distal gastric body."
+    },
+    {
+      "number": 116,
+      "question": "Why should the G-tube placement avoid the rectus muscle?",
+      "choices": [
+        "To avoid the SMA",
+        "To avoid the inferior epigastric artery",
+        "To prevent gastric volvulus",
+        "Because the muscle is too thick to pierce",
+        "To ensure it hits the most posterior portion"
+      ],
+      "answer": "B",
+      "detail": "Placing the tube lateral to the rectus avoids the inferior epigastric artery."
+    },
+    {
+      "number": 117,
+      "question": "What is the most common cause of an esophageal stent occlusion?",
+      "choices": [
+        "Tumor overgrowth",
+        "Food impaction",
+        "Stent migration into the stomach",
+        "Blood clot",
+        "Esophageal spasm"
+      ],
+      "answer": "B",
+      "detail": "Food impaction is the most common cause of occlusion."
+    },
+    {
+      "number": 118,
+      "question": "If a patient with an esophageal stent presents with symptoms of occlusion, what is the 'Next Step'?",
+      "choices": [
+        "Immediate surgery",
+        "Esophagram",
+        "CT abdomen",
+        "PET scan",
+        "Start antibiotics"
+      ],
+      "answer": "B",
+      "detail": "An esophagram is used to evaluate the stent."
+    },
+    {
+      "number": 119,
+      "question": "According to the GI bleed algorithm, what is the first-line evaluation for an UNSTABLE lower GI bleed?",
+      "choices": [
+        "Endoscopy",
+        "Three Phase CTA or RBC Scan",
+        "Immediate angiography",
+        "Surgery",
+        "Barium enema"
+      ],
+      "answer": "B",
+      "detail": "For an unstable patient (tachycardia/hypotension), CTA or an RBC scan is prioritized over endoscopy."
+    },
+    {
+      "number": 120,
+      "question": "In a STABLE patient with a lower GI bleed, what is considered the first-line study?",
+      "choices": [
+        "Endoscopy",
+        "RBC scan",
+        "CTA",
+        "Angiography",
+        "MRI"
+      ],
+      "answer": "A",
+      "detail": "ACR Appropriateness states endoscopy is first line for stable lower GI bleeding."
+    },
+    {
+      "number": 121,
+      "question": "'Obscure GI Bleeding' refers to bleeding that continues despite negative results from:",
+      "choices": [
+        "CTA and RBC scan",
+        "Upper endoscopy and colonoscopy",
+        "Angiography and surgery",
+        "Physical exam and ultrasound",
+        "Gastric emptying study"
+      ],
+      "answer": "B",
+      "detail": "This term specifically refers to bleeding from an unidentified source after negative conventional endoscopy."
+    },
+    {
+      "number": 122,
+      "question": "Which test is considered more sensitive for identifying a bleed: RBC scan or Angiography?",
+      "choices": [
+        "Angiography",
+        "RBC Bleeding Scan",
+        "They are equal",
+        "CTA is more sensitive than both",
+        "Only surgery can find it"
+      ],
+      "answer": "B",
+      "detail": "Nuclear scintigraphy (RBC scan) has a sensitivity of 0.1 mL/min, whereas angiography requires 1.0 mL/min."
+    },
+    {
+      "number": 123,
+      "question": "Following GDA embolization for a duodenal ulcer, why is it necessary to perform a run of the SMA?",
+      "choices": [
+        "To check for renal artery stenosis",
+        "To look for collateral flow from the inferior pancreaticoduodenal artery",
+        "To check for a mesenteric lead point",
+        "To ensure the catheter didn't cause a dissection",
+        "It is never necessary"
+      ],
+      "answer": "B",
+      "detail": "The SMA must be checked to look for collateral supply that might keep the ulcer bleeding."
+    },
+    {
+      "number": 124,
+      "question": "The risk of bowel infarct is significantly LOWER in which region of the GI tract?",
+      "choices": [
+        "Distal to the ligament of Treitz",
+        "Upper GI tract (proximal to ligament of Treitz)",
+        "Rectum",
+        "Sigmoid colon",
+        "Descending colon"
+      ],
+      "answer": "B",
+      "detail": "The upper GI tract has extensive collateral supply, making infarct less likely after embolization."
+    },
+    {
+      "number": 125,
+      "question": "If a drainage catheter is stopped and 'flushing' doesn't work, what is the 'Next Step'?",
+      "choices": [
+        "Pull the drain immediately",
+        "Exchange the catheter",
+        "Start IV TPA",
+        "Order a PET scan",
+        "Call a voodoo priest"
+      ],
+      "answer": "B",
+      "detail": "If clogged, the catheter should be exchanged, often over a hydrophilic wire if the tract is mature."
+    },
+    {
+      "number": 126,
+      "question": "A 'persistent pancreatic fistula' is defined as a clear fluid drain output lasting more than:",
+      "choices": [
+        "24 hours",
+        "1 week",
+        "2 weeks",
+        "30 days",
+        "1 year"
+      ],
+      "answer": "D",
+      "detail": "If clear fluid (amylase positive) drains for >30 days, it is a persistent fistula."
+    },
+    {
+      "number": 127,
+      "question": "What medication can be used to inhibit pancreatic fluid and help close a fistula?",
+      "choices": [
+        "Propranolol",
+        "Octreotide (synthetic somatostatin)",
+        "Heparin",
+        "Insulin",
+        "Glucagon"
+      ],
+      "answer": "B",
+      "detail": "Octreotide is used to slow down pancreatic secretions."
+    },
+    {
+      "number": 128,
+      "question": "For a pancreatic pseudocyst that communicates with the pancreatic duct, which drainage route is preferred for long-term management?",
+      "choices": [
+        "Transperitoneal",
+        "Transgastric (so it drains into the stomach)",
+        "Retroperitoneal",
+        "Substernal",
+        "Only surgical resection"
+      ],
+      "answer": "B",
+      "detail": "The transgastric approach is better for long-term tubes as it allows internal drainage."
+    },
+    {
+      "number": 129,
+      "question": "What are the three main indications for a Percutaneous Nephrostomy (PCN)?",
+      "choices": [
+        "Relief of obstruction, Urinary diversion, and Access for procedures",
+        "Renal mass biopsy, HTN management, and Stone crushing",
+        "Abscess drainage, VUR treatment, and Cystography",
+        "Hematuria evaluation, Uterine artery mapping, and Dialysis",
+        "Only for stone removal"
+      ],
+      "answer": "A",
+      "detail": "The three primary reasons are relief of obstruction (stones/cancer), diversion (leaks/fistulas), and access (PCNL/Whitaker test)."
+    },
+    {
+      "number": 130,
+      "question": "What is an absolute contraindication for a PCN?",
+      "choices": [
+        "Pregnancy",
+        "Severe Coagulopathy (INR > 1.5 or PLT < 50k)",
+        "Prior C-section",
+        "Age > 80",
+        "Diabetes"
+      ],
+      "answer": "B",
+      "detail": "Severe uncorrectable coagulopathy and an impossible anatomical approach are absolute contraindications."
+    },
+    {
+      "number": 131,
+      "question": "PCN catheters require exchange every 2–3 months primarily because of:",
+      "choices": [
+        "Crystallization of urine in the tube",
+        "Bacterial biofilm formation",
+        "Patient discomfort",
+        "Insurance requirements",
+        "Material degradation from gastric acid"
+      ],
+      "answer": "A",
+      "detail": "Urine crystallization will eventually block the tube."
+    },
+    {
+      "number": 132,
+      "question": "What is the 'Next Step' if a PCN tube becomes 'encrusted' and difficult to exchange?",
+      "choices": [
+        "Emergent surgery",
+        "Hydrophilic wire along the side of the tube in the same tract",
+        "Force the new tube through the old one",
+        "Dissolve it with acid",
+        "Abandon the kidney"
+      ],
+      "answer": "B",
+      "detail": "A hydrophilic wire can be used to maintain the tract."
+    },
+    {
+      "number": 133,
+      "question": "When is an antegrade (kidney down) approach used to place a Nephroureteral Stent (NUS)?",
+      "choices": [
+        "Only in children",
+        "If a PCN is already present or if the retrograde approach failed",
+        "Only if the patient has a bladder mass",
+        "Always, as it is easier than retrograde",
+        "It is never used"
+      ],
+      "answer": "B",
+      "detail": "The antegrade strategy is the default if you already have renal access or the urologist failed from below."
+    },
+    {
+      "number": 134,
+      "question": "A 'Safety PCN' is often left in place after an NUS deployment to:",
+      "choices": [
+        "Prevent urosepsis",
+        "Ensure the internal stent is functioning properly",
+        "Tamponade bleeding",
+        "Collect urine for amylase",
+        "Prevent migration of the stent"
+      ],
+      "answer": "B",
+      "detail": "It acts as a backup; if the nephrostogram shows the system is patent, the safety is pulled."
+    },
+    {
+      "number": 135,
+      "question": "In a patient with a ureteral TCC and a large bladder mass, which diversion is necessary?",
+      "choices": [
+        "Double J NUS",
+        "PCN (Divert at the level of the kidney)",
+        "Cystostomy",
+        "Foley catheter",
+        "No diversion is possible"
+      ],
+      "answer": "B",
+      "detail": "If both the ureter and bladder are obstructed, the only option is to divert from the kidney."
+    },
+    {
+      "number": 136,
+      "question": "An 'outflow obstruction' from horrible prostate cancer (with patent ureters) should be treated with a:",
+      "choices": [
+        "PCN",
+        "Cystostomy",
+        "Double J NUS",
+        "Ureteral stent",
+        "Renal biopsy"
+      ],
+      "answer": "B",
+      "detail": "If the bladder is patent but the outlet is blocked, a cystostomy is the move."
+    },
+    {
+      "number": 137,
+      "question": "In renal RFA, what can be done to protect the ureter from heat damage?",
+      "choices": [
+        "Turn off the RFA probe",
+        "Hydro-dissection (irrigating the ureter)",
+        "Place a metallic stent",
+        "Use a cryoprobe instead",
+        "Ureters cannot be protected"
+      ],
+      "answer": "B",
+      "detail": "Hydro-dissection protects adjacent structures during thermal ablation."
+    },
+    {
+      "number": 138,
+      "question": "Which projection is the 'choice' for looking at the renal arteries during an angiogram?",
+      "choices": [
+        "AP",
+        "Left Posterior Oblique (LPO) / LAO",
+        "Lateral",
+        "Prone",
+        "Decubitus"
+      ],
+      "answer": "B",
+      "detail": "LAO/LPO projection minimizes angiographic overlap from the aorta."
+    },
+    {
+      "number": 139,
+      "question": "Branch artery stenosis is a known cause of hypertension in:",
+      "choices": [
+        "Elderly smokers",
+        "Kids",
+        "Diabetics",
+        "Pregnant women",
+        "Patients with CF"
+      ],
+      "answer": "B",
+      "detail": "While ostial stenosis is common in adults, branch stenosis is a pediatric cause of HTN."
+    },
+    {
+      "number": 140,
+      "question": "For the purpose of multiple choice, what was the primary takeaway of the CORAL trial?",
+      "choices": [
+        "Stenting is superior to medical therapy",
+        "There is no added benefit from angioplasty + stenting over high-quality medical therapy",
+        "All renal artery stenosis should be treated with RFA",
+        "FMD requires a covered stent",
+        "Walnuts are bad for the kidneys"
+      ],
+      "answer": "B",
+      "detail": "The CORAL trial favored medical management for atherosclerotic renal artery stenosis."
+    },
+    {
+      "number": 141,
+      "question": "Fibromuscular Dysplasia (FMD) of the renal artery is best treated with:",
+      "choices": [
+        "Angioplasty + Stent",
+        "Angioplasty ALONE (no stent)",
+        "High-dose aspirin only",
+        "Radical nephrectomy",
+        "Cryoablation"
+      ],
+      "answer": "B",
+      "detail": "For FMD, angioplasty without a stent is the standard treatment."
+    },
+    {
+      "number": 142,
+      "question": "A 'Pressure Gradient' of at least what percentage is required to justify angioplasty in FMD?",
+      "choices": [
+        "5%",
+        "10%",
+        "25%",
+        "50%",
+        "70%"
+      ],
+      "answer": "B",
+      "detail": "A 10% gradient (Distal Renal/Aorta < 0.90) is the threshold."
+    },
+    {
+      "number": 143,
+      "question": "If a patient experiences a large volume of bright red blood in their PCN tube after placement, what is the 'Best Next Step'?",
+      "choices": [
+        "Remove the PCN and repeat angio",
+        "Remove the PCN OVER A WIRE and repeat angio",
+        "Call urology",
+        "Start IV antibiotics",
+        "Give 100% oxygen"
+      ],
+      "answer": "B",
+      "detail": "The PCN must be removed over a wire to allow the angiogram to identify the bleed it was previously tamponading."
+    },
+    {
+      "number": 144,
+      "question": "Small 'Segmental' renal artery aneurysms are typically treated with:",
+      "choices": [
+        "Covered stents",
+        "Coils",
+        "Thrombin injection",
+        "Direct compression",
+        "Observation only"
+      ],
+      "answer": "B",
+      "detail": "Segmental arteries get coils."
+    },
+    {
+      "number": 145,
+      "question": "A 'Main' renal artery aneurysm is typically treated with a:",
+      "choices": [
+        "Covered Stent",
+        "Particle embolization",
+        "Gelfoam powder",
+        "RFA",
+        "Cryoablation"
+      ],
+      "answer": "A",
+      "detail": "Large main artery aneurysms require covered stents to maintain vessel patency while excluding the sac."
+    },
+    {
+      "number": 146,
+      "question": "In lung biopsy complications, a pneumothorax occurs in what percentage of cases?",
+      "choices": [
+        "5%",
+        "10%",
+        "25%",
+        "50%",
+        "90%"
+      ],
+      "answer": "C",
+      "detail": "Pneumothorax occurs about 25% of the time."
+    },
+    {
+      "number": 147,
+      "question": "A 'persistent air leak' in a chest tube (bubbling in the water seal) that won't resolve should make you think of a:",
+      "choices": [
+        "Food impaction",
+        "Bronchopulmonary fistula",
+        "Clogged G-tube",
+        "Malplaced stent",
+        "Normal healing"
+      ],
+      "answer": "B",
+      "detail": "A fistula is a likely cause for a persistent leak."
+    },
+    {
+      "number": 148,
+      "question": "Subcutaneous emphysema after chest tube placement is often 'self-limited' and should be managed with:",
+      "choices": [
+        "Surgical resection",
+        "Observation if the tube is appropriately positioned",
+        "Changing to a smaller tube",
+        "Increasing suction to -40 mmHg",
+        "100% oxygen"
+      ],
+      "answer": "B",
+      "detail": "If the side holes are in the pleural space, it is self-limited."
+    },
+    {
+      "number": 149,
+      "question": "'Pulmonary Angiography' is primarily indicated for the diagnosis and treatment of:",
+      "choices": [
+        "Lung cancer",
+        "Massive PE or pulmonary AVM",
+        "Pneumonia",
+        "COPD",
+        "Small cell CA"
+      ],
+      "answer": "B",
+      "detail": "These are the two main flavors of pulmonary angio."
+    },
+    {
+      "number": 150,
+      "question": "A relative contraindication for pulmonary angiography is pulmonary HTN with right heart pressures greater than:",
+      "choices": [
+        "30 systolic",
+        "50 systolic",
+        "70 systolic (and 20 end diastolic)",
+        "100 systolic",
+        "Any elevated pressure"
+      ],
+      "answer": "C",
+      "detail": "High right heart pressures increase the risk."
+    },
+    {
+      "number": 151,
+      "question": "Why is Left Bundle Branch Block (LBBB) a concern during pulmonary angiography?",
+      "choices": [
+        "It causes the aorta to rupture",
+        "The catheter can cause a Right Bundle Branch Block, leading to asystole",
+        "It prevents the patient from lying flat",
+        "It makes contrast visualization impossible",
+        "It is not a concern"
+      ],
+      "answer": "B",
+      "detail": "If they have LBBB, you risk a total block; they should get prophylactic pacing."
+    },
+    {
+      "number": 152,
+      "question": "'Transcatheter therapy' for pulmonary embolism is typically reserved for:",
+      "choices": [
+        "Any patient with a positive CTPA",
+        "Unstable patients with massive PE and hypotension",
+        "Patients with a prior C-section",
+        "Patients over age 90",
+        "Routine screening"
+      ],
+      "answer": "B",
+      "detail": "Medical therapy is first-line; transcatheter therapy is for the 'punished' unstable patients."
+    },
+    {
+      "number": 153,
+      "question": "Pulmonary AVMs have a 30–50% association with which condition?",
+      "choices": [
+        "NF-1",
+        "Hereditary Hemorrhagic Telangiectasia (HHT)",
+        "VHL",
+        "Turner Syndrome",
+        "Marfan Syndrome"
+      ],
+      "answer": "B",
+      "detail": "HHT is the classic association for pulmonary AVMs."
+    },
+    {
+      "number": 154,
+      "question": "What is the clinical 'rule' for treating a pulmonary AVM?",
+      "choices": [
+        "Treat if the patient has a cough",
+        "Treat once the afferent (feeding) artery is 3 mm",
+        "Treat only if the lesion is > 10 cm",
+        "Never treat because it will heal on its own",
+        "Treat once the patient develops cirrhosis"
+      ],
+      "answer": "B",
+      "detail": "3 mm is the 'testable trivia' threshold for treatment."
+    },
+    {
+      "number": 155,
+      "question": "A 'Rasmussen Aneurysm' is an aneurysm associated with chronic pulmonary infection, classically:",
+      "choices": [
+        "RSV",
+        "Tuberculosis (TB)",
+        "Fungal pneumonia",
+        "LCH",
+        "Sarcoidosis"
+      ],
+      "answer": "B",
+      "detail": "TB is the classic trigger for Rasmussen Aneurysms."
+    },
+    {
+      "number": 156,
+      "question": "Hemoptysis is normally managed via bronchial artery angiography, but if the patient has a Rasmussen Aneurysm, the source is the:",
+      "choices": [
+        "Pulmonary Artery",
+        "Aorta",
+        "Internal mammary artery",
+        "SVC",
+        "Hepatic artery"
+      ],
+      "answer": "A",
+      "detail": "This is the 'trap' for hemoptysis questions; Rasmussen Aneurysms are pulmonary artery lesions."
+    },
+    {
+      "number": 157,
+      "question": "Acute SVC occlusion is considered a surgical/interventional emergency because of the LACK of:",
+      "choices": [
+        "Contrast",
+        "Collaterals",
+        "Pain",
+        "Stents",
+        "Symptoms"
+      ],
+      "answer": "B",
+      "detail": "Acute occlusion has no collaterals and is an emergency."
+    },
+    {
+      "number": 158,
+      "question": "Which type of stent should NOT be used in the SVC because of the risk of migration?",
+      "choices": [
+        "Balloon expandable",
+        "Self-expanding",
+        "Covered stent",
+        "Drug eluting",
+        "Nitinol"
+      ],
+      "answer": "B",
+      "detail": "Self-expanding stents are avoided in this central location."
+    },
+    {
+      "number": 159,
+      "question": "A tear in the bottom part of the SVC can result in tamponade because:",
+      "choices": [
+        "The SVC is part of the heart",
+        "The pericardium extends to that region",
+        "The patient will breathe too hard",
+        "Contrast is toxic to the pericardium",
+        "It is an impossible complication"
+      ],
+      "answer": "B",
+      "detail": "Perigraft/perivascular leaks can enter the pericardial space."
+    },
+    {
+      "number": 160,
+      "question": "Uterine Artery Embolization (UAE) is used for bleeding or bulk symptoms of:",
+      "choices": [
+        "Endometrial cancer",
+        "Fibroids (Leiomyomas)",
+        "Ovarian cancer",
+        "PCOS",
+        "Hydrometrocolpos"
+      ],
+      "answer": "B",
+      "detail": "UAE is the standard interventional treatment for fibroids."
+    },
+    {
+      "number": 161,
+      "question": "Which subtype of fibroid is more likely to have a POOR response to UAE?",
+      "choices": [
+        "Cellular fibroids (T2 bright)",
+        "Degenerated leiomyoma (non-enhancing)",
+        "Intramural",
+        "Submucosal",
+        "Smaller lesions"
+      ],
+      "answer": "B",
+      "detail": "Degenerated fibroids don't respond well because they lack an active blood supply to target."
+    },
+    {
+      "number": 162,
+      "question": "For a patient with a 'Broad Ligament Fibroid' who wants treatment, the 'Next Step' is:",
+      "choices": [
+        "UAE",
+        "Referral to surgery",
+        "Cryoablation",
+        "Wait 2 years",
+        "Start antibiotics"
+      ],
+      "answer": "B",
+      "detail": "Broad ligament fibroids are technically challenging and respond poorly to UAE."
+    },
+    {
+      "number": 163,
+      "question": "UAE is contraindicated in which of the following scenarios?",
+      "choices": [
+        "Age > 50",
+        "Active pelvic infection or pregnancy",
+        "Prior lumpectomy",
+        "Multiple fibroids",
+        "History of C-section"
+      ],
+      "answer": "B",
+      "detail": "Pregnancy, cancer, and infection are absolute contraindications."
+    },
+    {
+      "number": 164,
+      "question": "What is the 'testable trivia' regarding UAE and gonadotropin-releasing medications?",
+      "choices": [
+        "Start UAE immediately after the first dose",
+        "Delay embolization for 3 months because the drugs shrink the arteries",
+        "The drugs make embolization easier",
+        "UAE is the treatment for drug toxicity",
+        "They should never be used together"
+      ],
+      "answer": "B",
+      "detail": "These drugs make catheterization significantly more difficult."
+    },
+    {
+      "number": 165,
+      "question": "The uterine artery arises from which division of the internal iliac artery?",
+      "choices": [
+        "Anterior division",
+        "Posterior division",
+        "It arises directly from the aorta",
+        "It arises from the IMA",
+        "It is a branch of the renal artery"
+      ],
+      "answer": "A",
+      "detail": "The uterine artery is from the anterior division."
+    },
+    {
+      "number": 166,
+      "question": "Uterine arteries can be identified by their characteristic 'corkscrew' distal branches, named:",
+      "choices": [
+        "Helicine branches",
+        "Spiral branches",
+        "Arched branches",
+        "Arcuate branches",
+        "Radial branches"
+      ],
+      "answer": "A",
+      "detail": "Helicine branches give the uterine artery its 'corkscrew' look."
+    },
+    {
+      "number": 167,
+      "question": "For 'Pelvic Congestion Syndrome,' the best results are obtained by embolizing:",
+      "choices": [
+        "Only the left ovarian vein",
+        "The entire length of both gonadal veins",
+        "Only the internal iliac veins",
+        "The SVC",
+        "The IMA"
+      ],
+      "answer": "B",
+      "detail": "Optimal results require treating the full length of both veins."
+    },
+    {
+      "number": 168,
+      "question": "In 'Hysterosalpingogram' (HSG) procedures, what is used to access and maintain cannulation of the cervix?",
+      "choices": [
+        "A simple NG tube",
+        "Vacuum cups, tenaculums, or balloons",
+        "A G-tube",
+        "A PCN catheter",
+        "Direct digital manipulation only"
+      ],
+      "answer": "B",
+      "detail": "Various specialized devices are used to form a seal for contrast injection."
+    },
+    {
+      "number": 169,
+      "question": "What is the most common cause of male infertility that is 'correctable'?",
+      "choices": [
+        "Cryptorchidism",
+        "Varicocele",
+        "Pituitary adenoma",
+        "Steroid use",
+        "Mumps"
+      ],
+      "answer": "B",
+      "detail": "Varicoceles are the #1 correctable cause."
+    },
+    {
+      "number": 170,
+      "question": "An isolated RIGHT-sided varicocele in a child should make you think of:",
+      "choices": [
+        "Normal development",
+        "A retroperitoneal process compressing the right gonadal vein",
+        "Left renal failure",
+        "Cystic Fibrosis",
+        "Biliary atresia"
+      ],
+      "answer": "B",
+      "detail": "Unlike the left side (which is common), a right varicocele suggests an underlying mass."
+    },
+    {
+      "number": 171,
+      "question": "Zinner Syndrome is a triad of renal agenesis, ipsilateral seminal vesicle cyst, and:",
+      "choices": [
+        "Bladder exstrophy",
+        "Ejaculatory duct obstruction",
+        "Cryptorchidism",
+        "Ovarian torsion",
+        "Horseshoe kidney"
+      ],
+      "answer": "B",
+      "detail": "This is a recognized cause of obstructive male infertility."
+    },
+    {
+      "number": 172,
+      "question": "Which syndrome is characterized by the inability to smell and infertility?",
+      "choices": [
+        "Klinefelter Syndrome",
+        "Kallman Syndrome",
+        "Zinner Syndrome",
+        "Turner Syndrome",
+        "Downs Syndrome"
+      ],
+      "answer": "B",
+      "detail": "Kallman's involves anosmia and infertility."
+    },
+    {
+      "number": 173,
+      "question": "What is the characteristic MRI findings for Prostate Cancer?",
+      "choices": [
+        "T2 bright, high ADC, slow washout",
+        "T2 dark, low ADC (restricts), and early enhancement with rapid washout (Type 3 curve)",
+        "T1 bright, T2 dark, no enhancement",
+        "It is invisible on MRI",
+        "Diffuse T2 bright background"
+      ],
+      "answer": "B",
+      "detail": "Prostate cancer is 'dark on T2' and behaves like a 'breast cancer' on kinetics."
+    },
+    {
+      "number": 174,
+      "question": "Which 'Zone' of the prostate is the location for 70% of adenocarcinomas?",
+      "choices": [
+        "Central Zone",
+        "Transition Zone",
+        "Peripheral Zone",
+        "Anterior Fibromuscular Zone",
+        "Median Lobe"
+      ],
+      "answer": "C",
+      "detail": "70% of cancers are peripheral; 20% are in the transition zone."
+    },
+    {
+      "number": 175,
+      "question": "BPH nodules typically live in which part of the prostate?",
+      "choices": [
+        "Peripheral Zone",
+        "Central Gland (Transition Zone)",
+        "Anterior Fibromuscular Zone",
+        "External capsule",
+        "Seminal vesicles"
+      ],
+      "answer": "B",
+      "detail": "BPH is a disease of the 'dark stuff' (central gland)."
+    },
+    {
+      "number": 176,
+      "question": "Extra-capsular extension of prostate cancer defines which stage?",
+      "choices": [
+        "Stage I",
+        "Stage II",
+        "Stage III (T3a)",
+        "Stage IV",
+        "Stage 0"
+      ],
+      "answer": "C",
+      "detail": "Extension through the capsule is T3a (Stage III)."
+    },
+    {
+      "number": 177,
+      "question": "Invasion of the seminal vesicles by prostate cancer is categorized as:",
+      "choices": [
+        "T1",
+        "T2",
+        "T3a",
+        "T3b",
+        "M1"
+      ],
+      "answer": "D",
+      "detail": "Seminal vesicle invasion is T3b."
+    },
+    {
+      "number": 178,
+      "question": "What is the 'money' imaging test for identifying prostate cancer bone metastases?",
+      "choices": [
+        "Ultrasound",
+        "Bone Scan",
+        "MRI of the prostate",
+        "PET/CT with FDG",
+        "Chest X-ray"
+      ],
+      "answer": "B",
+      "detail": "Bone scans are excellent for detecting vertebral body metastases from prostate CA."
+    },
+    {
+      "number": 179,
+      "question": "A PSA level of less than what value has a high predictive value in ruling OUT skeletal metastases?",
+      "choices": [
+        "2 ng/mL",
+        "10 ng/mL",
+        "20 ng/mL",
+        "100 ng/mL",
+        "Any value"
+      ],
+      "answer": "C",
+      "detail": "A PSA < 20 makes bone mets unlikely."
+    },
+    {
+      "number": 180,
+      "question": "Testicular Torsion is considered a clinical equivalent to which other organ pathology regarding blood flow?",
+      "choices": [
+        "Heart",
+        "Brain (always requires diastolic flow)",
+        "Kidney",
+        "Liver",
+        "Lung"
+      ],
+      "answer": "B",
+      "detail": "Like the brain, the testicle needs continuous flow; torsion shows three distinct patterns of waveform change."
+    },
+    {
+      "number": 181,
+      "question": "In 'Delayed (late) Torsion,' the appearance on a nuclear medicine scan is:",
+      "choices": [
+        "Focal absence of flow",
+        "A halo of increased activity with central photopenia",
+        "Diffuse intense uptake throughout the scrotum",
+        "Totally normal",
+        "The same as a seminoma"
+      ],
+      "answer": "B",
+      "detail": "This 'rim' appearance indicates a missed torsion or abscess."
+    },
+    {
+      "number": 182,
+      "question": "Testicular Mets characteristically spread to which lymph nodes first?",
+      "choices": [
+        "Inguinal",
+        "Pelvic",
+        "Para-aortic, aortic, and caval",
+        "Supraclavicular",
+        "Axillary"
+      ],
+      "answer": "C",
+      "detail": "Because of their embryology, they spread to the retroperitoneum."
+    },
+    {
+      "number": 183,
+      "question": "If a patient has testicular cancer and inguinal lymph node metastases, this is considered:",
+      "choices": [
+        "N1 disease",
+        "N2 disease",
+        "M1 disease (non-regional)",
+        "A normal variant",
+        "Stage I"
+      ],
+      "answer": "C",
+      "detail": "Inguinal/pelvic nodes are non-regional and represent a higher stage (unless there was prior scrotal surgery)."
+    },
+    {
+      "number": 184,
+      "question": "Which benign testicular mass has a 'target' or 'onion skin' appearance with alternating rings?",
+      "choices": [
+        "Seminoma",
+        "Epidermoid Cyst",
+        "Hematoma",
+        "Lymphoma",
+        "Infarct"
+      ],
+      "answer": "B",
+      "detail": "The 'onion skin' look is an Aunt Minnie for an epidermoid cyst."
+    },
+    {
+      "number": 185,
+      "question": "Tubular Ectasia of the Rete Testis is typically bilateral and found in which population?",
+      "choices": [
+        "Newborns",
+        "Older men",
+        "5-year-old boys",
+        "Female athletes",
+        "Patients with CF"
+      ],
+      "answer": "B",
+      "detail": "This is a common benign finding in older men and requires no follow-up."
+    },
+    {
+      "number": 186,
+      "question": "In a female patient, 'Intracavitary Fibroids' smaller than 3 cm should be referred to GYN for:",
+      "choices": [
+        "UAE",
+        "Hysteroscopic resection",
+        "Hysterectomy",
+        "Antibiotics",
+        "RFA"
+      ],
+      "answer": "B",
+      "detail": "Small intracavitary fibroids are surgically managed from within the cavity first."
+    },
+    {
+      "number": 187,
+      "question": "What is the incidence of 'premature menopause' following UAE?",
+      "choices": [
+        "0%",
+        "Around 5%",
+        "25%",
+        "50%",
+        "90%"
+      ],
+      "answer": "B",
+      "detail": "Premature menopause is a recognized risk of the procedure."
+    },
+    {
+      "number": 188,
+      "question": "DVT / PE occurs in approximately 5% of UAE cases, often triggered by:",
+      "choices": [
+        "The contrast agent",
+        "The release of pelvic vein compression from a large fibroid",
+        "The patient's age",
+        "The heparin used during the procedure",
+        "A voodoo curse"
+      ],
+      "answer": "B",
+      "detail": "Shrinking a large mass that was 'holding down' a vein can allow a clot to fly."
+    },
+    {
+      "number": 189,
+      "question": "Following UAE, fibroids should ideally reduce in volume by what percentage?",
+      "choices": [
+        "10%",
+        "25%",
+        "40–60%",
+        "100%",
+        "They never change"
+      ],
+      "answer": "C",
+      "detail": "A 40-60% volume reduction is the expected outcome."
+    },
+    {
+      "number": 190,
+      "question": "What is the classic 'Aunt Minnie' for a breast mass described as 'breast within a breast'?",
+      "choices": [
+        "Hamartoma",
+        "Galactocele",
+        "Oil cyst",
+        "Lipoma",
+        "Intramammary lymph node"
+      ],
+      "answer": "A",
+      "detail": "Hamartomas have a distinct 'breast within a breast' mammographic look."
+    },
+    {
+      "number": 191,
+      "question": "A 'Galactocele' is a fat-containing lesion typically seen in which population?",
+      "choices": [
+        "Men on steroids",
+        "Young lactating women",
+        "Post-menopausal women",
+        "70-year-old men",
+        "Newborns"
+      ],
+      "answer": "B",
+      "detail": "These are sub-areolar collections seen during or after breastfeeding."
+    },
+    {
+      "number": 192,
+      "question": "Oil Cysts or areas of fat necrosis characteristically show which calcification pattern?",
+      "choices": [
+        "Popcorn",
+        "Egg shell",
+        "Fine linear branching",
+        "Amorphous",
+        "Teacup"
+      ],
+      "answer": "B",
+      "detail": "Peripheral 'egg shell' calcification is the hallmark of an oil cyst."
+    },
+    {
+      "number": 193,
+      "question": "Mondor Disease in the breast is defined as:",
+      "choices": [
+        "A malignant tumor",
+        "A thrombosed vein presenting as a tender palpable cord",
+        "A ruptured cyst",
+        "A specific type of calcification",
+        "A complication of a G-tube"
+      ],
+      "answer": "B",
+      "detail": "It is a benign superficial thrombophlebitis."
+    },
+    {
+      "number": 194,
+      "question": "Milky discharge from the breast is NOT suspicious for cancer, but can be a sign of:",
+      "choices": [
+        "Thyroid issues",
+        "Pituitary adenoma (prolactinoma)",
+        "Smoking",
+        "C-section history",
+        "Both A and B"
+      ],
+      "answer": "E",
+      "detail": "Prolactin-stimulating issues like thyroid dysfunction or pituitary tumors cause milky discharge."
+    },
+    {
+      "number": 195,
+      "question": "90% of discharge cases in PRE-menopausal women are caused by:",
+      "choices": [
+        "DCIS",
+        "Fibrocystic change or Intraductal Papilloma",
+        "Ductal ectasia",
+        "Prolactinoma",
+        "Trauma"
+      ],
+      "answer": "B",
+      "detail": "These are common benign causes in younger women."
+    },
+    {
+      "number": 196,
+      "question": "90% of discharge cases in POST-menopausal women are caused by:",
+      "choices": [
+        "Fibrocystic change",
+        "Ductal Ectasia",
+        "Prolactinoma",
+        "Lipoma",
+        "Hamartoma"
+      ],
+      "answer": "B",
+      "detail": "Ductal ectasia is the leading benign cause in older women."
+    },
+    {
+      "number": 197,
+      "question": "Architectural Distortion (AD) on a mammogram, if not from a known surgical scar, should be:",
+      "choices": [
+        "Followed in 6 months (BR-3)",
+        "Biopsied (BR-4 or BR-5)",
+        "Ignored if ultrasound is negative",
+        "Treated with antibiotics",
+        "Evaluated with thermography"
+      ],
+      "answer": "B",
+      "detail": "You should NEVER BR-3 architectural distortion; it gets a biopsy."
+    },
+    {
+      "number": 198,
+      "question": "Secondary Angiosarcoma of the breast typically develops how long after radiation therapy?",
+      "choices": [
+        "1 year",
+        "2 years",
+        "Around 6 years",
+        "20 years",
+        "It never occurs"
+      ],
+      "answer": "C",
+      "detail": "6 years is the classic 'lag time' for this radiation-induced malignancy."
+    },
+    {
+      "number": 199,
+      "question": "On a specimen radiograph, if the mass/calcifications are at the EDGE of the sample, the chance of an incomplete excision is:",
+      "choices": [
+        "10%",
+        "25%",
+        "50%",
+        "80%",
+        "100%"
+      ],
+      "answer": "D",
+      "detail": "If it touches the edge, you must call the surgeon in the OR."
+    },
+    {
+      "number": 200,
+      "question": "Screening Mammography saves lives, and even low-grade DCIS in a 95-year-old theoretically needs:",
+      "choices": [
+        "A surgical consult",
+        "Immediate chemo",
+        "No mention in the report",
+        "Thermography",
+        "Only dietary changes"
+      ],
+      "answer": "A",
+      "detail": "For the purpose of the exam, all DCIS requires follow-up/consultation."
+    },
+  
+
+    {
+      "number": 201,
+      "question": "Which imaging finding helps distinguish Crohn’s disease from Ulcerative Colitis (UC) regarding the distribution of involvement?",
+      "choices": [
+        "UC is segmental with skip lesions.",
+        "Crohn’s is segmental (skip lesions); UC is continuous/diffuse.",
+        "Crohn’s always involves the rectum.",
+        "UC always spares the rectum.",
+        "Both are always continuous."
+      ],
+      "answer": "B",
+      "detail": "Crohn’s is characterized by a segmental distribution with skip lesions, whereas UC typically involves the colon in a continuous fashion starting from the rectum."
+    },
+    {
+      "number": 202,
+      "question": "'Lead Pipe' colon is a classic radiographic buzzword for a featureless, shortened colon with loss of haustra, seen in chronic:",
+      "choices": [
+        "Crohn's disease",
+        "Ulcerative Colitis",
+        "Diverticulitis",
+        "Ischemic colitis",
+        "Pseudomembranous colitis"
+      ],
+      "answer": "B",
+      "detail": "The 'lead pipe' appearance is a hallmark of chronic, burnt-out UC."
+    },
+    {
+      "number": 203,
+      "question": "Crohn’s disease is characteristically associated with which type of ulcers?",
+      "choices": [
+        "Large, flat ovoid ulcers",
+        "Aphthous ulcers (discrete ulcers with a halo of edema)",
+        "Shaggy mucosal plaques",
+        "Concentric rings",
+        "Diffuse micronodules"
+      ],
+      "answer": "B",
+      "detail": "Aphthous ulcers are the classic early radiographic finding in Crohn’s disease."
+    },
+    {
+      "number": 204,
+      "question": "In the setting of IBD, 'Cobblestoning' of the bowel mucosa is caused by:",
+      "choices": [
+        "Benign polyps",
+        "Raised islands of mucosa separated by linear streaks of ulceration",
+        "Dilated lymphatics",
+        "Fat proliferation",
+        "Mucous retention cysts"
+      ],
+      "answer": "B",
+      "detail": "This pattern results from linear streaks of ulceration crisscrossing the mucosa."
+    },
+    {
+      "number": 205,
+      "question": "If a patient with long-standing Ulcerative Colitis develops a focal 'Apple Core' narrowing, the primary concern is:",
+      "choices": [
+        "A skip lesion",
+        "Colorectal Adenocarcinoma",
+        "A benign stricture",
+        "Toxic megacolon",
+        "Intussusception"
+      ],
+      "answer": "B",
+      "detail": "Patients with long-standing UC have a significantly increased risk of adenocarcinoma, which can appear as an 'apple core' lesion."
+    },
+    {
+      "number": 206,
+      "question": "Which portion of the GI tract is involved in 80% of Crohn's disease cases?",
+      "choices": [
+        "Duodenum",
+        "Stomach",
+        "Terminal ileum",
+        "Rectum",
+        "Esophagus"
+      ],
+      "answer": "C",
+      "detail": "The terminal ileum is the most frequent site of involvement for Crohn’s disease."
+    },
+    {
+      "number": 207,
+      "question": "'Backwash Ileitis' refers to terminal ileal involvement seen in a subset of patients with:",
+      "choices": [
+        "Crohn's disease",
+        "Ulcerative Colitis",
+        "Celiac disease",
+        "Scleroderma",
+        "Whipple's disease"
+      ],
+      "answer": "B",
+      "detail": "Backwash ileitis occurs when UC affects the terminal ileum, often appearing as a dilated, non-stenotic segment."
+    },
+    {
+      "number": 208,
+      "question": "'Filiform Polyps' (post-inflammatory polyps) are a common finding in the recovery phase of:",
+      "choices": [
+        "Celiac disease",
+        "Inflammatory Bowel Disease (UC or Crohn's)",
+        "Familial Adenomatous Polyposis (FAP)",
+        "Gardner syndrome",
+        "Peutz-Jeghers syndrome"
+      ],
+      "answer": "B",
+      "detail": "These represent regenerating mucosa after severe inflammation/ulceration."
+    },
+    {
+      "number": 209,
+      "question": "A 'Coned Cecum' (Stierlin sign) on a barium study, where the cecum is narrowed and the terminal ileum is diseased, can be seen in Crohn's and:",
+      "choices": [
+        "Tuberculosis (TB)",
+        "Scleroderma",
+        "Whipple's disease",
+        "GvHD",
+        "Lymphoid hyperplasia"
+      ],
+      "answer": "A",
+      "detail": "TB and Crohn's are the primary causes of a 'coned cecum'."
+    },
+    {
+      "number": 210,
+      "question": "Fistula and abscess formation are classic complications of which type of IBD?",
+      "choices": [
+        "Ulcerative Colitis",
+        "Crohn's Disease",
+        "Ischemic colitis",
+        "Microscopic colitis",
+        "Infectious colitis"
+      ],
+      "answer": "B",
+      "detail": "Crohn's is a transmural disease, leading to strictures, abscesses, and fistulas."
+    },
+    {
+      "number": 211,
+      "question": "What is the most common location for Colonic Diverticula?",
+      "choices": [
+        "Cecum",
+        "Ascending colon",
+        "Transverse colon",
+        "Sigmoid colon",
+        "Rectum"
+      ],
+      "answer": "D",
+      "detail": "Most colonic diverticula are found in the sigmoid colon."
+    },
+    {
+      "number": 212,
+      "question": "Diverticulitis is characteristically diagnosed on CT by the presence of:",
+      "choices": [
+        "Focal wall thickening and pericolic fat stranding",
+        "A 'lead pipe' appearance",
+        "A 'string sign'",
+        "'Apple core' narrowing",
+        "Multiple 2-4 mm nodules"
+      ],
+      "answer": "A",
+      "detail": "Fat stranding adjacent to a diverticulum is the classic CT finding."
+    },
+    {
+      "number": 213,
+      "question": "'Right-sided diverticulitis' in a young patient is a common clinical mimic for:",
+      "choices": [
+        "Pyloric stenosis",
+        "Appendicitis",
+        "Midgut volvulus",
+        "Hirschsprung disease",
+        "Intussusception"
+      ],
+      "answer": "B",
+      "detail": "It presents with RLQ pain, mimicking appendicitis."
+    },
+    {
+      "number": 214,
+      "question": "According to the 'Gamesmanship' rules, the identification of Clostridium Septicum aortitis should prompt a search for:",
+      "choices": [
+        "Aortic dissection",
+        "An occult colonic malignancy",
+        "Pulmonary PE",
+        "Renal failure",
+        "Brain death"
+      ],
+      "answer": "B",
+      "detail": "This bacterium has a high association with underlying colon cancer."
+    },
+    {
+      "number": 215,
+      "question": "Epiploic Appendagitis is a benign condition characterized on CT as a:",
+      "choices": [
+        "Dilated loop of small bowel",
+        "Fat-density oval mass with a 'central dot' (thrombosed vessel)",
+        "'Lead pipe' colon",
+        "Multi-locular cystic mass",
+        "'String sign'"
+      ],
+      "answer": "B",
+      "detail": "It is a fat-density lesion with peripheral stranding and a central dot."
+    },
+    {
+      "number": 216,
+      "question": "Ischemic Colitis characteristically spares which region of the colon?",
+      "choices": [
+        "Splenic flexure",
+        "Rectum",
+        "Descending colon",
+        "Sigmoid",
+        "Cecum"
+      ],
+      "answer": "B",
+      "detail": "The rectum is usually spared because it has a dual blood supply from both the IMA and internal iliac arteries."
+    },
+    {
+      "number": 217,
+      "question": "The 'Griffith Point' (splenic flexure) is a watershed area that is highly susceptible to:",
+      "choices": [
+        "Ischemia",
+        "Cancer",
+        "Diverticulitis",
+        "Crohn's disease",
+        "Volvulus"
+      ],
+      "answer": "A",
+      "detail": "Watershed areas are prone to ischemic insult during periods of low flow."
+    },
+    {
+      "number": 218,
+      "question": "Sigmoid Volvulus classically presents on an abdominal X-ray with which sign?",
+      "choices": [
+        "'Steeple sign'",
+        "'Coffee Bean' sign",
+        "'Sail sign'",
+        "'Target sign'",
+        "'String sign'"
+      ],
+      "answer": "B",
+      "detail": "The 'Coffee Bean' sign represents the massively dilated sigmoid loop."
+    },
+    {
+      "number": 219,
+      "question": "Cecal Volvulus is characterized by the cecum twisting and flipping into the:",
+      "choices": [
+        "Right Lower Quadrant",
+        "Left Upper Quadrant",
+        "Pelvis",
+        "Scrotum",
+        "Posterior mediastinum"
+      ],
+      "answer": "B",
+      "detail": "The cecum typically ends up in the LUQ."
+    },
+    {
+      "number": 220,
+      "question": "Which type of volvulus is most common in elderly, institutionalized, or chronically constipated patients?",
+      "choices": [
+        "Cecal",
+        "Sigmoid",
+        "Gastric",
+        "Midgut",
+        "Transverse"
+      ],
+      "answer": "B",
+      "detail": "Sigmoid volvulus is the 'old person' flavor associated with chronic constipation."
+    },
+    {
+      "number": 221,
+      "question": "In an adult patient, an appendix is considered abnormal on CT if the diameter is greater than:",
+      "choices": [
+        "2 mm",
+        "4 mm",
+        "6 mm",
+        "10 mm",
+        "15 mm"
+      ],
+      "answer": "C",
+      "detail": "> 6 mm is the standard threshold for appendicitis."
+    },
+    {
+      "number": 222,
+      "question": "The presence of an 'appendicolith' in a patient with RLQ pain is highly suggestive of:",
+      "choices": [
+        "Crohn's disease",
+        "Appendicitis",
+        "Ovarian torsion",
+        "Kidney stones",
+        "Normal variant"
+      ],
+      "answer": "B",
+      "detail": "An appendicolith is highly specific for appendicitis in the right clinical setting."
+    },
+    {
+      "number": 223,
+      "question": "What is the most common primary malignancy of the appendix?",
+      "choices": [
+        "Adenocarcinoma",
+        "Carcinoid tumor",
+        "Lymphoma",
+        "GIST",
+        "Sarcoma"
+      ],
+      "answer": "B",
+      "detail": "Carcinoid is the most common appendiceal malignancy."
+    },
+    {
+      "number": 224,
+      "question": "'Pseudomyxoma Peritonei' results from the rupture of a mucinous tumor, characteristically producing:",
+      "choices": [
+        "Massive ascites that is T1 bright",
+        "Scalloping of the liver and splenic margins",
+        "'Apple core' lesions",
+        "'Lead pipe' colon",
+        "'Thumb printing' of the bowel"
+      ],
+      "answer": "B",
+      "detail": "Scalloping along solid organs from mucinous implants is the hallmark."
+    },
+    {
+      "number": 225,
+      "question": "An 'Apple Core' lesion in the sigmoid colon is the classic Aunt Minnie for:",
+      "choices": [
+        "Crohn's disease",
+        "Colorectal Adenocarcinoma",
+        "Diverticulitis",
+        "Endometriosis",
+        "Ischemic colitis"
+      ],
+      "answer": "B",
+      "detail": "An 'apple core' appearance is pathognomonic for an annular, constricting cancer."
+    },
+    {
+      "number": 226,
+      "question": "What is the most common site for distant metastatic spread of colorectal cancer?",
+      "choices": [
+        "Brain",
+        "Bone",
+        "Liver",
+        "Spleen",
+        "Skin"
+      ],
+      "answer": "C",
+      "detail": "Colorectal cancer spreads primarily to the liver via the portal venous system."
+    },
+    {
+      "number": 227,
+      "question": "'Gardner Syndrome' is a variant of FAP characterized by colonic polyps and:",
+      "choices": [
+        "Osteomas, desmoid tumors, and sebaceous cysts",
+        "Brain tumors",
+        "Blue sclera",
+        "Cleft palate",
+        "Precocious puberty"
+      ],
+      "answer": "A",
+      "detail": "Gardner's is colonic polyposis plus extra-colonic findings like osteomas."
+    },
+    {
+      "number": 228,
+      "question": "Peutz-Jeghers Syndrome features hamartomatous polyps and:",
+      "choices": [
+        "Osteomas",
+        "Mucocutaneous hyperpigmentation (on the lips/mouth)",
+        "Brain tumors",
+        "Absent clavicles",
+        "Horseshoe kidney"
+      ],
+      "answer": "B",
+      "detail": "Hyperpigmentation is the classic clinical clue."
+    },
+    {
+      "number": 229,
+      "question": "Which syndrome involves the association of GI polyposis and CNS tumors (most classically medulloblastoma)?",
+      "choices": [
+        "Gardner syndrome",
+        "Turcot Syndrome",
+        "Peutz-Jeghers",
+        "Cowden syndrome",
+        "Cronkhite-Canada"
+      ],
+      "answer": "B",
+      "detail": "Turcot = Polyps + CNS tumors."
+    },
+    {
+      "number": 230,
+      "question": "In a 'Roux-en-Y' gastric bypass, a 'Petersen’s Hernia' occurs:",
+      "choices": [
+        "Through the foramen of Monro",
+        "Behind the Roux limb mesentery",
+        "Through the Fossa of Lanzert",
+        "Through the Fossa of Waldeyer",
+        "At the pylorus"
+      ],
+      "answer": "B",
+      "detail": "Petersen's occurs behind the Roux limb and is a common internal hernia after this surgery."
+    },
+    {
+      "number": 231,
+      "question": "For a 'Gastric Emptying' study, which of the following is part of the standard solid meal?",
+      "choices": [
+        "Beef patty",
+        "4 oz of egg whites and 2 slices of white bread",
+        "Liquid barium only",
+        "Chicken soup",
+        "Peanut butter"
+      ],
+      "answer": "B",
+      "detail": "The standard meal consists of egg whites, white bread, strawberry jam, and water."
+    },
+    {
+      "number": 232,
+      "question": "Prokinetic drugs (like Reglan) should be stopped for how long prior to a gastric emptying study?",
+      "choices": [
+        "1 hour",
+        "12 hours",
+        "2 days",
+        "1 week",
+        "They should never be stopped"
+      ],
+      "answer": "C",
+      "detail": "They must be stopped at least 2 days prior to avoid a false negative."
+    },
+    {
+      "number": 233,
+      "question": "Opiates, which delay gastric emptying, must be stopped for how long prior to the test?",
+      "choices": [
+        "4 hours",
+        "24 hours",
+        "2 days",
+        "5 days",
+        "1 month"
+      ],
+      "answer": "C",
+      "detail": "Opiates must be stopped for 2 days to avoid a false positive."
+    },
+    {
+      "number": 234,
+      "question": "In gastric emptying studies, why are 'Solids' generally considered more sensitive than liquids?",
+      "choices": [
+        "Solids are easier to label.",
+        "Liquids do not have a 'lag phase'; solids require mechanical grinding.",
+        "Liquids always empty too fast to measure.",
+        "Solids are brighter on the scan.",
+        "There is no difference."
+      ],
+      "answer": "B",
+      "detail": "Solids have a 'lag phase' where the stomach grinds them into smaller particles; liquids lack this process."
+    },
+    {
+      "number": 235,
+      "question": "The 'Lag Phase' in solid food gastric emptying is typically INCREASED in patients with:",
+      "choices": [
+        "Hyperthyroidism",
+        "Diabetes (Gastroparesis)",
+        "Celiac disease",
+        "Scleroderma",
+        "Billroth 2 surgery"
+      ],
+      "answer": "B",
+      "detail": "Lag time increases in diabetics with gastroparesis."
+    },
+    {
+      "number": 236,
+      "question": "What is the sensitivity of a Tc-99m RBC Bleeding Scan compared to conventional Angiography?",
+      "choices": [
+        "RBC scan is 10x less sensitive.",
+        "RBC scan (0.1 mL/min) is 10x more sensitive than Angio (1.0 mL/min).",
+        "They are exactly the same.",
+        "Angiography is more sensitive.",
+        "Both require a rate of 5.0 mL/min."
+      ],
+      "answer": "B",
+      "detail": "Scintigraphy is significantly more sensitive for slow bleeds."
+    },
+    {
+      "number": 237,
+      "question": "Which method of labeling red blood cells for a bleeding scan provides the HIGHEST percentage of bound tracer (98%)?",
+      "choices": [
+        "In Vivo",
+        "Modified In Vivo",
+        "In Vitro (kit method)",
+        "Direct injection of free Tc",
+        "Thallium substitution"
+      ],
+      "answer": "C",
+      "detail": "The In Vitro method works the best but is the most expensive."
+    },
+    {
+      "number": 238,
+      "question": "In a GI bleeding scan, which behavior is characteristic of an 'active bleed'?",
+      "choices": [
+        "Tracer remains stationary in a vessel.",
+        "Tracer moves like bowel (peristalsis) and increases in intensity over time.",
+        "Tracer intensity decreases over 30 minutes.",
+        "Tracer only appears in the heart and liver.",
+        "Tracer disappears with position changes."
+      ],
+      "answer": "B",
+      "detail": "An active bleed must move and increase in intensity."
+    },
+    {
+      "number": 239,
+      "question": "Seeing gastric uptake on a GI bleed scan should be cross-checked with the thyroid and salivary glands to rule out:",
+      "choices": [
+        "Free Pertechnetate (Free Tc)",
+        "An active gastric ulcer bleed",
+        "Gastric cancer",
+        "Normal excretion",
+        "Biliary reflux"
+      ],
+      "answer": "A",
+      "detail": "Uptake in the stomach, thyroid, and salivary glands is the classic triad for Free Tc."
+    },
+    {
+      "number": 240,
+      "question": "In a bleeding scan, localization to the 'SMA territory' involves which of the following areas?",
+      "choices": [
+        "Distal esophagus and stomach",
+        "Small bowel and large bowel up to the splenic flexure",
+        "Rectum only",
+        "Distal 1/3 of the transverse colon",
+        "Entire GI tract"
+      ],
+      "answer": "B",
+      "detail": "The SMA supplies from the 2nd part of the duodenum to the splenic flexure."
+    },
+    {
+      "number": 241,
+      "question": "A Meckel’s Scan uses Tc-99m Pertechnetate because the tracer is taken up by:",
+      "choices": [
+        "Inflamed bowel wall",
+        "Ectopic gastric mucosa",
+        "Ectopic pancreatic tissue",
+        "Lymphoid hyperplasia",
+        "Intestinal parasites"
+      ],
+      "answer": "B",
+      "detail": "Pertechnetate is taken up by gastric cells."
+    },
+    {
+      "number": 242,
+      "question": "To enhance the sensitivity of a Meckel’s scan, Pentagastrin can be used to:",
+      "choices": [
+        "Stop bowel movement",
+        "Enhance uptake of pertechnetate by the gastric mucosa",
+        "Cause the tracer to wash out faster",
+        "Block renal excretion",
+        "Reduce background activity"
+      ],
+      "answer": "B",
+      "detail": "Pentagastrin stimulates gastric activity and tracer uptake."
+    },
+    {
+      "number": 243,
+      "question": "How do H2 Blockers (like Cimetidine) assist in performing a Meckel’s scan?",
+      "choices": [
+        "They stop the heart from beating too fast.",
+        "They block the secretion of pertechnetate out of the gastric cells.",
+        "They increase the rate of renal clearance.",
+        "They prevent vomiting.",
+        "They have no effect on the scan."
+      ],
+      "answer": "B",
+      "detail": "They make the tracer 'stick around' in the gastric cells longer."
+    },
+    {
+      "number": 244,
+      "question": "Glucagon is administered during a Meckel’s scan to:",
+      "choices": [
+        "Increase tracer uptake",
+        "Slow down bowel motility (peristalsis)",
+        "Treat hypoglycemia",
+        "Help the tracer clear the bladder",
+        "Identify the renal arteries"
+      ],
+      "answer": "B",
+      "detail": "Glucagon slows motility to prevent the tracer from moving away from the source."
+    },
+    {
+      "number": 245,
+      "question": "'H-shaped' vertebrae on a lateral X-ray of a patient with GI symptoms (e.g., gallstones) is a major clue for:",
+      "choices": [
+        "Crohn's disease",
+        "Sickle Cell Disease",
+        "Rickets",
+        "Osteopetrosis",
+        "Hyperparathyroidism"
+      ],
+      "answer": "B",
+      "detail": "H-shaped vertebrae from central endplate infarcts are a classic 'Step 1' association for Sickle Cell."
+    },
+    {
+      "number": 246,
+      "question": "According to the 'Next Step' algorithm, what is the first-line evaluation for an Upper GI bleed?",
+      "choices": [
+        "CTA",
+        "Endoscopy",
+        "RBC scan",
+        "Angiography",
+        "Surgery"
+      ],
+      "answer": "B",
+      "detail": "Endoscopy is the first step for upper GI bleeds."
+    },
+    {
+      "number": 247,
+      "question": "In a STABLE patient with a lower GI bleed, what is the first-line study according to ACR criteria?",
+      "choices": [
+        "RBC scan",
+        "CTA",
+        "Endoscopy",
+        "Angiography",
+        "MRI"
+      ],
+      "answer": "C",
+      "detail": "For a stable lower GI bleed, endoscopy is first line."
+    },
+    {
+      "number": 248,
+      "question": "In an UNSTABLE patient (tachycardic and/or hypotensive) with a lower GI bleed, what is the first-line study?",
+      "choices": [
+        "Endoscopy",
+        "Three Phase CTA or RBC Scan",
+        "Gastric emptying study",
+        "PET/CT",
+        "MRI"
+      ],
+      "answer": "B",
+      "detail": "Unstable bleeders get a CTA or RBC scan first to localize the bleed for potential IR intervention."
+    },
+    {
+      "number": 249,
+      "question": "'Obscure GI Bleeding' is defined as bleeding that persists despite negative:",
+      "choices": [
+        "Physical exam and labs",
+        "Upper endoscopy and colonoscopy",
+        "CTA and RBC scan",
+        "Ultrasound and MRI",
+        "Angiography and surgery"
+      ],
+      "answer": "B",
+      "detail": "This term is reserved for bleeds that conventional endoscopy cannot find."
+    },
+    {
+      "number": 250,
+      "question": "Following GDA embolization for a bleeding duodenal ulcer, why is an SMA run mandatory?",
+      "choices": [
+        "To check for renal artery stenosis",
+        "To check for collateral flow from the inferior pancreaticoduodenal artery",
+        "To look for a Meckel's diverticulum",
+        "To ensure the gallbladder is patent",
+        "It is never necessary"
+      ],
+      "answer": "B",
+      "detail": "You must check for collateral supply that may keep the ulcer bleeding."
+    }
+  ]
+}
+
+

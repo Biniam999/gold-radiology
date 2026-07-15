@@ -1,0 +1,706 @@
+{
+    "questions": 
+
+[
+  {
+    "number": 1,
+    "question": "Anatomically, the \"External Ear\" is defined as everything superficial to the:",
+    "choices": ["A. Scutum", "B. Ear drum (tympanic membrane)", "C. Oval window", "D. Cochlea", "E. Incus"],
+    "answer": "B",
+    "detail": "The external ear includes everything from the pinna up to the tympanic membrane."
+  },
+  {
+    "number": 2,
+    "question": "The \"Inner Ear\" begins deep to the:",
+    "choices": ["A. External auditory canal", "B. Medial wall of the tympanic cavity", "C. Epitympanum", "D. Mastoid air cells", "E. Prussak’s space"],
+    "answer": "B",
+    "detail": "Everything deep to the medial wall of the tympanic cavity is considered the inner ear."
+  },
+  {
+    "number": 3,
+    "question": "The \"Epitympanum\" is a subdivision of the middle ear also known as the:",
+    "choices": ["A. Basement", "B. Attic", "C. Porus acousticus", "D. Vestibule", "E. Cochlea"],
+    "answer": "B",
+    "detail": "The epitympanum is frequently referred to as 'the attic'."
+  },
+  {
+    "number": 4,
+    "question": "Which landmark defines the anatomical boundary of the Epitympanum?",
+    "choices": ["A. The floor of the middle ear", "B. The tip of the scutum", "C. The cochlear promontory", "D. The internal auditory canal", "E. The sigmoid sinus"],
+    "answer": "B",
+    "detail": "The epitympanum is basically everything located above the tip of the scutum."
+  },
+  {
+    "number": 5,
+    "question": "The Eustachian tube arises from which part of the middle ear?",
+    "choices": ["A. Epitympanum", "B. Mesotympanum", "C. Hypotympanum", "D. Internal auditory canal", "E. Petrous apex"],
+    "answer": "C",
+    "detail": "The hypotympanum is the region below the tympanic membrane where the Eustachian tube originates."
+  },
+  {
+    "number": 6,
+    "question": "The \"Scutum\" is a shield-like osseous spur formed by the:",
+    "choices": ["A. Medial wall of the tympanic cavity", "B. Lateral wall of the tympanic cavity", "C. Roof of the external auditory canal", "D. Tegmen tympani", "E. Floor of the cochlea"],
+    "answer": "B",
+    "detail": "The scutum is a 'shield' like spur on the lateral wall of the tympanic cavity."
+  },
+  {
+    "number": 7,
+    "question": "Erosion of the scutum is a very specific imaging sign for:",
+    "choices": ["A. Otosclerosis", "B. Acquired Cholesteatoma", "C. Glomus tympanicum", "D. Aberrant internal carotid artery", "E. Normal aging"],
+    "answer": "B",
+    "detail": "Scutum erosion is considered a very specific sign of an acquired cholesteatoma."
+  },
+  {
+    "number": 8,
+    "question": "What is the most common location for a \"Pars Flaccida\" Cholesteatoma?",
+    "choices": ["A. The cochlea", "B. Prussak’s space", "C. The hypotympanum", "D. The internal carotid canal", "E. The jugular foramen"],
+    "answer": "B",
+    "detail": "Prussak's space, located between the incus and the lateral temporal bone, is the classic location."
+  },
+  {
+    "number": 9,
+    "question": "Which ossicle is the MOST common to be eroded by a cholesteatoma?",
+    "choices": ["A. Malleus head", "B. Long process of the incus", "C. Stapes footplate", "D. Manubrium", "E. All are eroded equally"],
+    "answer": "B",
+    "detail": "The long process of the incus is the most common segment of the ossicular chain to be eroded."
+  },
+  {
+    "number": 10,
+    "question": "On MRI, a cholesteatoma is characteristically distinguished from other middle ear masses because it:",
+    "choices": ["A. Enhances intensely", "B. Is bright on T1", "C. Restricts diffusion (DWI bright)", "D. Disappears on T2", "E. Contains bulk fat"],
+    "answer": "C",
+    "detail": "Restricted diffusion is the 'money' MRI finding for cholesteatoma."
+  },
+  {
+    "number": 11,
+    "question": "A \"Labyrinthine Fistula\" (a complication of cholesteatoma) most commonly involves which structure?",
+    "choices": ["A. Superior semicircular canal", "B. Posterior semicircular canal", "C. Lateral (horizontal) semicircular canal", "D. The vestibule", "E. The cochlear apex"],
+    "answer": "C",
+    "detail": "Fistulas to the semicircular canals most commonly involve the lateral segment."
+  },
+  {
+    "number": 12,
+    "question": "The presence of air in the semicircular canal on CT is definitive evidence of a fistula and is called:",
+    "choices": ["A. Pneumothorax", "B. Pneumolabyrinth", "C. Aerotympanum", "D. Gas-forming infection", "E. Empty canal sign"],
+    "answer": "B",
+    "detail": "Air in the inner ear structures is termed pneumolabyrinth."
+  },
+  {
+    "number": 13,
+    "question": "How can Chronic Otitis Media be distinguished from a Cholesteatoma on multiple-choice exams?",
+    "choices": ["A. Otitis media always erodes the scutum.", "B. Otitis media shows thickened mucosa; Cholesteatoma is a non-dependent mass.", "C. Cholesteatoma never displaces ossicles.", "D. Otitis media is never seen in Down Syndrome.", "E. There is no radiographic difference."],
+    "answer": "B",
+    "detail": "Chronic otitis media typically presents as thickened mucosa, while cholesteatoma presents as a non-dependent soft tissue mass."
+  },
+  {
+    "number": 14,
+    "question": "\"Labyrinthitis Ossificans\" is a late sequela of which pediatric condition?",
+    "choices": ["A. Ear piercing", "B. Childhood meningitis", "C. Diabetes", "D. Trauma", "E. Otitis externa"],
+    "answer": "B",
+    "detail": "It is classically seen in kids (2–18 months) following a history of meningitis."
+  },
+  {
+    "number": 15,
+    "question": "Radiographically, Labyrinthitis Ossificans is characterized on CT by:",
+    "choices": ["A. Total destruction of the petrous bone", "B. Ossification of the membranous labyrinth", "C. Air in the cochlea", "D. A \"moth-eaten\" appearance of the scutum", "E. Intense enhancement of the facial nerve"],
+    "answer": "B",
+    "detail": "The hallmark is the replacement of the fluid-filled labyrinth with bone."
+  },
+  {
+    "number": 16,
+    "question": "Why is Labyrinthitis Ossificans clinically significant for surgical planning?",
+    "choices": ["A. It causes immediate death.", "B. It is often a contraindication for a cochlear implant.", "C. It leads to glomus tumors.", "D. It prevents the use of MRI.", "E. It is associated with VHL."],
+    "answer": "B",
+    "detail": "Calcification/ossification within the cochlea can prevent the insertion of a cochlear implant electrode."
+  },
+  {
+    "number": 17,
+    "question": "\"Labyrinthitis\" (the inflammatory phase) is best identified on MRI by:",
+    "choices": ["A. T2 darkness", "B. Cochlear and semicircular canal enhancement on T1+C", "C. Restricted diffusion", "D. Massive fat deposition", "E. Expansion of the internal auditory canal"],
+    "answer": "B",
+    "detail": "Enhancement of the inner ear structures on post-contrast imaging is the classic look."
+  },
+  {
+    "number": 18,
+    "question": "How many anatomical segments are typically described for the Facial Nerve (CN 7)?",
+    "choices": ["A. 2", "B. 4", "C. 6", "D. 8", "E. 12"],
+    "answer": "C",
+    "detail": "There are 6 segments: Cisternal, Canalicular, Labyrinthine, Tympanic, Mastoid, and Extratemporal."
+  },
+  {
+    "number": 19,
+    "question": "Which portions of the facial nerve can enhance NORMALLY on MRI?",
+    "choices": ["A. Cisternal and Canalicular", "B. Tympanic and Mastoid (including Geniculate Ganglion)", "C. Extratemporal only", "D. The entire nerve enhances normally", "E. None of the nerve should ever enhance"],
+    "answer": "B",
+    "detail": "The tympanic and mastoid segments can show normal enhancement."
+  },
+  {
+    "number": 20,
+    "question": "Abnormal enhancement of the \"Canalicular\" segment of the facial nerve (inside the IAC) is the most classic finding for:",
+    "choices": ["A. Otosclerosis", "B. Bell’s Palsy", "C. Ramsay Hunt Syndrome", "D. Transverse fracture", "E. Glomus jugulare"],
+    "answer": "B",
+    "detail": "Abnormal enhancement in the canalicular segment is characteristic of Bell’s."
+  },
+  {
+    "number": 21,
+    "question": "\"Ramsay Hunt Syndrome\" is caused by reactivation of Varicella Zoster and classically involves CN 7 and:",
+    "choices": ["A. CN 2", "B. CN 5", "C. CN 12", "D. The Olfactory nerve", "E. The Phrenic nerve"],
+    "answer": "B",
+    "detail": "Reactivation typically involves the facial nerve and the trigeminal nerve (CN 5)."
+  },
+  {
+    "number": 22,
+    "question": "\"Otosclerosis\" is also known by which more accurate term?",
+    "choices": ["A. Otopetrosis", "B. Otospongiosis", "C. Otomastoiditis", "D. Otomelanoma", "E. Otolipoma"],
+    "answer": "B",
+    "detail": "As the bone becomes more lytic rather than sclerotic, 'otospongiosis' is preferred."
+  },
+  {
+    "number": 23,
+    "question": "\"Fenestral Otosclerosis\" is characterized by bony resorption located:",
+    "choices": ["A. Behind the sigmoid sinus", "B. Anterior to the oval window (fissula ante fenestram)", "C. Inside the cochlear apex", "D. At the stylomastoid foramen", "E. At the external auditory meatus"],
+    "answer": "B",
+    "detail": "The classic location is the fissula ante fenestram."
+  },
+  {
+    "number": 24,
+    "question": "\"Retro-fenestral Otosclerosis\" is more severe and involves demineralization:",
+    "choices": ["A. Only in the middle ear", "B. Around the cochlea (bilateral and symmetric)", "C. Of the ossicles only", "D. Of the scutum", "E. Of the petrous marrow"],
+    "answer": "B",
+    "detail": "This form involves the cochlea and is symmetric nearly 100% of the time."
+  },
+  {
+    "number": 25,
+    "question": "\"Noise-Induced Vertigo\" or \"Tullio’s Phenomenon\" is the clinical hallmark for:",
+    "choices": ["A. Bell’s Palsy", "B. Superior Semicircular Canal Dehiscence", "C. Cholesteatoma", "D. Otitis media", "E. Glomus vagale"],
+    "answer": "B",
+    "detail": "Loud sounds triggering vertigo is classic for dehiscence."
+  },
+  {
+    "number": 26,
+    "question": "Superior Semicircular Canal Dehiscence is thought to be caused by:",
+    "choices": ["A. Congenital absence of bone", "B. Long-standing elevated ICP", "C. Trauma only", "D. Smoking", "E. Bacterial infection"],
+    "answer": "B",
+    "detail": "It is often associated with chronically high intracranial pressure."
+  },
+  {
+    "number": 27,
+    "question": "\"Large Vestibular Aqueduct Syndrome\" (LVAS) is diagnosed when the aqueduct is larger than:",
+    "choices": ["A. 0.5 mm", "B. 1.0 mm", "C. 1.5 mm", "D. 5.0 mm", "E. 10.0 mm"],
+    "answer": "C",
+    "detail": "An aqueduct > 1.5 mm is abnormal."
+  },
+  {
+    "number": 28,
+    "question": "What is the most common cause of congenital sensorineural hearing loss?",
+    "choices": ["A. Labyrinthitis ossificans", "B. Large Vestibular Aqueduct Syndrome (LVAS)", "C. Michel’s Aplasia", "D. Mondini Malformation", "E. Otitis media"],
+    "answer": "B",
+    "detail": "LVAS is the most frequent congenital cause identified."
+  },
+  {
+    "number": 29,
+    "question": "The \"Mondini Malformation\" is a type of cochlear hypoplasia characterized by:",
+    "choices": ["A. A single bubble for a cochlea", "B. \"Only 1.5 turns\" of the cochlea (instead of 2.5)", "C. Total absence of the inner ear", "D. Massive calcification of the canal", "E. Presence of a sac of marbles"],
+    "answer": "B",
+    "detail": "It features an incomplete partition where only 1.5 turns are present."
+  },
+  {
+    "number": 30,
+    "question": "\"Michel’s Aplasia\" is the most severe inner ear anomaly, defined as:",
+    "choices": ["A. 1.5 turns of the cochlea", "B. Complete labyrinthine aplasia (absence of all inner ear structures)", "C. Only the vestibule is missing", "D. A T-shaped internal auditory canal", "E. Presence of a third ear"],
+    "answer": "B",
+    "detail": "This represents total failure of development of the inner ear."
+  },
+  {
+    "number": 31,
+    "question": "When you see an \"Endolymphatic Sac Tumor,\" which genetic syndrome should you immediately think of?",
+    "choices": ["A. NF-1", "B. NF-2", "C. Von Hippel-Lindau (VHL)", "D. Tuberous Sclerosis", "E. Li-Fraumeni"],
+    "answer": "C",
+    "detail": "These rare tumors have a strong association with VHL."
+  },
+  {
+    "number": 32,
+    "question": "Radiographically, Endolymphatic Sac Tumors are known for having:",
+    "choices": ["A. Bulk fat", "B. Internal amorphous calcifications on CT", "C. Restricted diffusion only", "D. No enhancement", "E. A \"Mickey Mouse\" shape"],
+    "answer": "B",
+    "detail": "They characteristically show internal calcifications and are very vascular."
+  },
+  {
+    "number": 33,
+    "question": "What is the most common presenting symptom for a Paraganglioma of the jugular fossa?",
+    "choices": ["A. Toothache", "B. Hoarseness (from vagal nerve compression)", "C. Runny nose", "D. Blindness", "E. Foot drop"],
+    "answer": "B",
+    "detail": "Vagal nerve (CN 10) compression causes hoarseness."
+  },
+  {
+    "number": 34,
+    "question": "Paragangliomas characteristically show which MRI appearance?",
+    "choices": ["A. Uniformly dark", "B. \"Salt and Pepper\" (due to flow voids)", "C. \"Onion skin\"", "D. \"Target sign\"", "E. \"Snowstorm\""],
+    "answer": "B",
+    "detail": "Flow voids in a vascular mass create the salt-and-pepper look."
+  },
+  {
+    "number": 35,
+    "question": "A \"Glomus Tympanicum\" is a paraganglioma that is confined to the:",
+    "choices": ["A. Sigmoid sinus", "B. Middle ear (overlying the cochlear promontory)", "C. Internal auditory canal", "D. Petrous apex", "E. External ear"],
+    "answer": "B",
+    "detail": "It is restricted to the middle ear space."
+  },
+  {
+    "number": 36,
+    "question": "To distinguish a Glomus Jugulare from a Glomus Tympanicum on CT, look at the:",
+    "choices": ["A. Internal carotid artery", "B. Floor of the middle ear (eroded in Jugulare, intact in Tympanicum)", "C. Foramen ovale", "D. Foramen rotundum", "E. Optic canal"],
+    "answer": "B",
+    "detail": "Erosion of the floor of the middle ear points to a Glomus Jugulare."
+  },
+  {
+    "number": 37,
+    "question": "\"Asymmetric Marrow\" in the petrous apex is a normal variant that can be distinguished from pathology by:",
+    "choices": ["A. Biopsy", "B. Using fat-saturation sequences (it will \"sat out\")", "C. Measuring Hounsfield units on CT", "D. Checking for hearing loss", "E. Performing a bone scan"],
+    "answer": "B",
+    "detail": "Normal marrow fat should suppress on fat-sat MRI."
+  },
+  {
+    "number": 38,
+    "question": "\"Cephaloceles\" of the petrous apex are more accurately described as a herniation of:",
+    "choices": ["A. Brain tissue", "B. Meckel’s Cave", "C. The sigmoid sinus", "D. The parotid gland", "E. The tongue"],
+    "answer": "B",
+    "detail": "They represent cystic expansion of Meckel's cave into the petrous bone."
+  },
+  {
+    "number": 39,
+    "question": "An \"Aberrant Internal Carotid Artery\" is a classic mimic for which tumor?",
+    "choices": ["A. Schwannoma", "B. Paraganglioma (Glomus tumor)", "C. Meningioma", "D. Osteoma", "E. Esthesioneuroblastoma"],
+    "answer": "B",
+    "detail": "It presents as a pulsing vascular mass, mimicking a glomus tumor."
+  },
+  {
+    "number": 40,
+    "question": "What is the MOST common primary lesion of the petrous apex?",
+    "choices": ["A. Cholesteatoma", "B. Cholesterol Granuloma", "C. Apical petrositis", "D. Chondrosarcoma", "E. Chordoma"],
+    "answer": "B",
+    "detail": "Cholesterol granuloma is the most frequent primary lesion in this location."
+  },
+  {
+    "number": 41,
+    "question": "The pathognomonic MRI signal for a \"Cholesterol Granuloma\" is:",
+    "choices": ["A. T1 dark and T2 dark", "B. T1 bright and T2 bright", "C. T1 dark and T2 bright", "D. Anechoic", "E. Restricted diffusion"],
+    "answer": "B",
+    "detail": "It is bright on both T1 and T2."
+  },
+  {
+    "number": 42,
+    "question": "How do you distinguish a petrous apex Cholesteatoma from a Cholesterol Granuloma on MRI?",
+    "choices": ["A. Cholesteatoma is T1 bright.", "B. Cholesteatoma is T1 DARK and RESTRICTS diffusion.", "C. Cholesterol granuloma restricts diffusion.", "D. Only cholesteatoma is expansile.", "E. There is no difference."],
+    "answer": "B",
+    "detail": "Cholesteatoma is T1 dark and shows restricted diffusion."
+  },
+  {
+    "number": 43,
+    "question": "\"Apical Petrositis\" is a rare complication of:",
+    "choices": ["A. Simple acne", "B. Infectious otomastoiditis", "C. Tooth extraction", "D. Paget’s disease", "E. VHL"],
+    "answer": "B",
+    "detail": "It results from the spread of infection into the petrous apex."
+  },
+  {
+    "number": 44,
+    "question": "\"Gradenigo Syndrome\" is a triad of otomastoiditis, face pain (CN 5), and:",
+    "choices": ["A. Blindness", "B. Lateral rectus palsy (CN 6)", "C. Shoulder drop", "D. Tongue deviation", "E. Hoarseness"],
+    "answer": "B",
+    "detail": "CN 6 involvement causes lateral rectus palsy."
+  },
+  {
+    "number": 45,
+    "question": "\"Dorello’s Canal\" contains which cranial nerve?",
+    "choices": ["A. CN 3", "B. CN 6 (Abducens)", "C. CN 7", "D. CN 10", "E. CN 12"],
+    "answer": "B",
+    "detail": "The abducens nerve passes through Dorello’s canal."
+  },
+  {
+    "number": 46,
+    "question": "\"Necrotizing (Malignant) Otitis Externa\" is a life-threatening infection seen almost exclusively in:",
+    "choices": ["A. Professional swimmers", "B. Diabetics", "C. Healthy infants", "D. Pregnant women", "E. Chronic smokers"],
+    "answer": "B",
+    "detail": "95% of these patients have diabetes."
+  },
+  {
+    "number": 47,
+    "question": "The causative agent for 98% of cases of Necrotizing Otitis Externa is:",
+    "choices": ["A. E. coli", "B. Pseudomonas", "C. Staph aureus", "D. TB", "E. Aspergillus"],
+    "answer": "B",
+    "detail": "Pseudomonas is the standard culprit."
+  },
+  {
+    "number": 48,
+    "question": "An \"Exostosis\" of the external auditory canal (Swimmer's Ear) is typically:",
+    "choices": ["A. Unilateral and malignant", "B. Bilateral and seen in surfers", "C. Fatty", "D. Only found in diabetics", "E. Soft tissue only"],
+    "answer": "B",
+    "detail": "It is a benign overgrowth of bone, usually bilateral and associated with cold water exposure."
+  },
+  {
+    "number": 49,
+    "question": "An \"External Auditory Canal Osteoma\" differs from an exostosis because it is usually:",
+    "choices": ["A. Bilateral", "B. Unilateral and incidental", "C. Only seen in surfers", "D. Malignant", "E. Cystic"],
+    "answer": "B",
+    "detail": "Osteomas are typically solitary and unilateral."
+  },
+  {
+    "number": 50,
+    "question": "\"External Auditory Canal Atresia\" is a developmental anomaly that results in which type of hearing loss?",
+    "choices": ["A. Sensorineural", "B. Conductive", "C. Mixed", "D. Central", "E. No hearing loss"],
+    "answer": "B",
+    "detail": "The lack of a patent canal prevents sound conduction."
+  },
+  {
+    "number": 51,
+    "question": "\"Longitudinal\" Temporal Bone Fractures occur along the long axis of the bone and are:",
+    "choices": ["A. Rare", "B. More common (than transverse)", "C. More likely to cause facial nerve damage", "D. Associated with vascular injury", "E. Only seen in the clivus"],
+    "answer": "B",
+    "detail": "Longitudinal fractures are the most frequent type."
+  },
+  {
+    "number": 52,
+    "question": "\"Transverse\" Temporal Bone Fractures are more dangerous because they have a higher rate of:",
+    "choices": ["A. Ossicular dislocation", "B. Facial nerve damage (> 30%) and vascular injury", "C. Conductive hearing loss only", "D. Simple bruising", "E. Being missed on CT"],
+    "answer": "B",
+    "detail": "Transverse fractures cross the long axis and hit nerves/vessels more often."
+  },
+  {
+    "number": 53,
+    "question": "According to modern classification, the MOST important factor for predicting outcome in temporal bone trauma is:",
+    "choices": ["A. Fracture length", "B. Violation of the otic capsule", "C. Number of fragments", "D. Presence of a scalp hematoma", "E. Patient age"],
+    "answer": "B",
+    "detail": "Otic capsule violation is the best predictor of severe injury."
+  },
+  {
+    "number": 54,
+    "question": "In the \"Internal Auditory Canal (IAC),\" what is the mnemonic for the relationship of CN 7 and CN 8?",
+    "choices": ["A. 8 Up - 7 Down", "B. 7 Up - Coke (8) Down", "C. 10 Up - 5 Down", "D. Left Up - Right Down", "E. Nerves are side-by-side"],
+    "answer": "B",
+    "detail": "CN 7 is superior; the cochlear nerve (8) is inferior."
+  },
+  {
+    "number": 55,
+    "question": "Which imaging sequence is \"ideal\" for identifying the nerves within the IAC?",
+    "choices": ["A. Non-contrast CT", "B. Heavily T2-weighted sequence with thin cuts (e.g., CISS/FIESTA)", "C. PET scan", "D. Bone scan", "E. MRA"],
+    "answer": "B",
+    "detail": "Thin T2 cuts allow for visualization of the small nerves."
+  },
+  {
+    "number": 56,
+    "question": "\"Vestibular Schwannomas\" account for what percentage of CPA masses?",
+    "choices": ["A. 10%", "B. 25%", "C. 50%", "D. 75%", "E. 99%"],
+    "answer": "D",
+    "detail": "Schwannomas are the #1 CPA mass."
+  },
+  {
+    "number": 57,
+    "question": "Bilateral Vestibular Schwannomas are the \"reflex\" diagnosis for:",
+    "choices": ["A. NF-1", "B. NF-2", "C. VHL", "D. Tuberous Sclerosis", "E. McCune-Albright"],
+    "answer": "B",
+    "detail": "NF-2 is associated with 'MSME' (Multiple Schwannomas, Meningiomas, Ependymomas)."
+  },
+  {
+    "number": 58,
+    "question": "A \"Trumpet-shaped\" or widened IAC is a classic finding for:",
+    "choices": ["A. Meningioma", "B. Schwannoma (\"Ice Cream Cone\")", "C. Epidermoid", "D. Normal variant", "E. Glomus tumor"],
+    "answer": "B",
+    "detail": "Schwannomas often widen the porus acousticus."
+  },
+  {
+    "number": 59,
+    "question": "CPA Meningiomas differ from Schwannomas because they:",
+    "choices": ["A. Are more common in men", "B. Don't usually invade the IAC and often calcify", "C. Are T1 bright", "D. Are restricted on diffusion", "E. Are only seen in kids"],
+    "answer": "B",
+    "detail": "Meningiomas favor the convexity and typically 'abut' rather than 'invade' the IAC."
+  },
+  {
+    "number": 60,
+    "question": "An \"Epidermoid\" of the CPA follows CSF signal on all sequences but is distinguished from an arachnoid cyst because it:",
+    "choices": ["A. Enhances intensely", "B. Restricts on diffusion and is bright on FLAIR", "C. Is dark on T2", "D. Contains bulk fat", "E. Is only found in the midline"],
+    "answer": "B",
+    "detail": "Restriction on DWI is the key differentiator."
+  },
+  {
+    "number": 61,
+    "question": "A \"Dermoid Cyst\" is distinguished from an Epidermoid because it:",
+    "choices": ["A. Behaves like CSF", "B. Behaves like FAT (T1 bright, low density on CT)", "C. Never occurs in the head", "D. Enhances strongly", "E. Is only found in 80-year-olds"],
+    "answer": "B",
+    "detail": "Dermoids contain lipoid material and are bright on T1."
+  },
+  {
+    "number": 62,
+    "question": "\"Chemical Meningitis\" is the clinical buzzword for:",
+    "choices": ["A. Otitis media", "B. A ruptured dermoid cyst", "C. Bell’s Palsy", "D. Paget’s disease", "E. VHL"],
+    "answer": "B",
+    "detail": "Rupture of fat droplets into the CSF causes an inflammatory response."
+  },
+  {
+    "number": 63,
+    "question": "\"IAC Lipoma\" is unique because it is associated with:",
+    "choices": ["A. Conductive hearing loss", "B. Sensorineural hearing loss (nerves course through it)", "C. Facial nerve palsy only", "D. Massive enhancement", "E. High protein content"],
+    "answer": "B",
+    "detail": "The nerves are typically embedded within the fatty mass."
+  },
+  {
+    "number": 64,
+    "question": "\"Juvenile Pilocytic Astrocytoma (JPA)\" in a kid is characteristically a:",
+    "choices": ["A. Solid mass in the pons", "B. Posterior fossa cyst with an enhancing nodule", "C. Midline fatty mass", "D. Hyperdense mass in the clivus", "E. Result of meningitis"],
+    "answer": "B",
+    "detail": "This is the 'Aunt Minnie' for pediatric cerebellar tumors."
+  },
+  {
+    "number": 65,
+    "question": "\"Diffuse Pontine Glioma (DPG)\" occurs in kids (3–10) and is located in the:",
+    "choices": ["A. Cerebellum", "B. Pons (flattening the 4th ventricle)", "C. Internal auditory canal", "D. Petrous apex", "E. Sella"],
+    "answer": "B",
+    "detail": "Imaging features are so classic that no biopsy is needed."
+  },
+  {
+    "number": 66,
+    "question": "\"Lhermitte-Duclos\" (Dysplastic Cerebellar Gangliocytoma) is a \"tiger-stripe\" mass associated with:",
+    "choices": ["A. NF-2", "B. Cowden Syndrome (risk for Breast CA)", "C. VHL", "D. Tuberous Sclerosis", "E. Gorlin Syndrome"],
+    "answer": "B",
+    "detail": "Seeing this mass should prompt a mammogram to screen for breast cancer."
+  },
+  {
+    "number": 67,
+    "question": "\"Paget’s Disease\" of the skull base involves both the inner and outer tables; the buzzword for the lytic phase is:",
+    "choices": ["A. Osteolysis circumscripta", "B. Cotton wool appearance", "C. Ground glass", "D. Salt and pepper", "E. Sunburst"],
+    "answer": "A",
+    "detail": "Large radiolucent regions in the frontal/occipital bones are called this."
+  },
+  {
+    "number": 68,
+    "question": "What is the most common complication of Paget’s disease of the skull?",
+    "choices": ["A. Blindness", "B. Deafness", "C. Hair loss", "D. Tooth decay", "E. Runny nose"],
+    "answer": "B",
+    "detail": "Hearing loss is the most frequent Paget-related skull complication."
+  },
+  {
+    "number": 69,
+    "question": "\"Fibrous Dysplasia\" of the skull is characterized by which imaging appearance?",
+    "choices": ["A. Purely lytic", "B. Ground-glass lesion (usually in patients < 30)", "C. Bulk fat", "D. \"Onion skin\"", "E. \"Water lily\""],
+    "answer": "B",
+    "detail": "FD presents as a ground-glass appearance in younger patients."
+  },
+  {
+    "number": 70,
+    "question": "Fibrous dysplasia characteristically SPARES which structure (helping distinguish it from Paget’s)?",
+    "choices": ["A. The mandible", "B. The otic capsule", "C. The frontal bone", "D. The zygoma", "E. The maxilla"],
+    "answer": "B",
+    "detail": "FD typically does not involve the otic capsule."
+  },
+  {
+    "number": 71,
+    "question": "\"Chordomas\" of the skull base are almost always located in the:",
+    "choices": ["A. Midline clivus", "B. Lateral petrous bone", "C. Internal auditory canal", "D. Maxillary sinus", "E. Orbit"],
+    "answer": "A",
+    "detail": "They arise from the notochord and are strictly midline."
+  },
+  {
+    "number": 72,
+    "question": "On MRI, a \"Chordoma\" is characteristically:",
+    "choices": ["A. T2 dark", "B. T2 bright", "C. T1 bright", "D. Non-enhancing", "E. Fatty"],
+    "answer": "B",
+    "detail": "They are very bright on T2 sequences."
+  },
+  {
+    "number": 73,
+    "question": "\"Chondrosarcoma\" of the skull base is the main differential for Chordoma but is typically:",
+    "choices": ["A. Midline", "B. Lateral to the midline", "C. Not visible on CT", "D. Restricted on diffusion", "E. Found in infants only"],
+    "answer": "B",
+    "detail": "Chondrosarcomas are usually 'off-midline'."
+  },
+  {
+    "number": 74,
+    "question": "The characteristic \"matrix\" seen in Chondrosarcoma on CT is:",
+    "choices": ["A. Ground glass", "B. \"Arcs and rings\" (chondroid matrix)", "C. Amorphous salt", "D. Popcorn", "E. Eggshell"],
+    "answer": "B",
+    "detail": "This calcification pattern is diagnostic for cartilaginous tumors."
+  },
+  {
+    "number": 75,
+    "question": "\"Jugular Foramen\" anatomy: The \"Pars Nervosa\" is the anterior portion and contains:",
+    "choices": ["A. The jugular bulb", "B. CN 9 (Glossopharyngeal) and Jacobson’s nerve", "C. CN 12", "D. The carotid artery", "E. The pituitary gland"],
+    "answer": "B",
+    "detail": "Pars nervosa contains the 'nervous guy' (CN 9)."
+  },
+  {
+    "number": 76,
+    "question": "The \"Pars Vascularis\" of the jugular foramen contains the jugular bulb, CN 11, and:",
+    "choices": ["A. CN 2", "B. CN 10 (Vagus) and Arnold’s nerve", "C. The vertebral artery", "D. The middle meningeal artery", "E. The optic nerve"],
+    "answer": "B",
+    "detail": "This is the 'vascular part'."
+  },
+  {
+    "number": 77,
+    "question": "\"Hypoglossal Canal\" anatomy: It is located very posterior and inferior and contains:",
+    "choices": ["A. CN 7", "B. CN 12 (Hypoglossal nerve)", "C. The sigmoid sinus", "D. The ophthalmic artery", "E. The parotid duct"],
+    "answer": "B",
+    "detail": "As the name implies, it houses CN 12."
+  },
+  {
+    "number": 78,
+    "question": "Which cranial nerves pass through the \"Cavernous Sinus\" along its lateral wall?",
+    "choices": ["A. CN 3, 4, V1, and V2", "B. CN 1 and 2", "C. CN 7 and 8", "D. CN 11 and 12", "E. Only the carotid artery"],
+    "answer": "A",
+    "detail": "These four nerves course along the wall."
+  },
+  {
+    "number": 79,
+    "question": "Which cranial nerve runs MEDIALLY within the cavernous sinus, right next to the carotid artery?",
+    "choices": ["A. CN 3", "B. CN 6 (Abducens)", "C. CN 4", "D. CN V3", "E. CN 1"],
+    "answer": "B",
+    "detail": "CN 6 is most vulnerable to carotid pathology due to its medial position."
+  },
+  {
+    "number": 80,
+    "question": "\"CN 6 Palsy\" should make you think about increased ICP or:",
+    "choices": ["A. PCOM aneurysm", "B. Brain stem herniation stretching the nerve", "C. Tooth infection", "D. Simple cold", "E. Normal development"],
+    "answer": "B",
+    "detail": "Increased ICP causes inferior herniation, stretching CN 6."
+  },
+  {
+    "number": 81,
+    "question": "\"CN 3 Palsy\" (unilateral pupil dilation) is a classic clinical trigger for:",
+    "choices": ["A. Posterior Communicating (PCOM) Artery Aneurysm", "B. Glomus tumor", "C. Optic nerve glioma", "D. Otitis media", "E. Paget’s disease"],
+    "answer": "A",
+    "detail": "The nerve is compressed by the expanding aneurysm."
+  },
+  {
+    "number": 82,
+    "question": "The \"Foramen Rotundum\" contains which nerve?",
+    "choices": ["A. V1", "B. V2 (\"R2V2\")", "C. V3", "D. CN 7", "E. CN 12"],
+    "answer": "B",
+    "detail": "Foramen Rotundum = V2."
+  },
+  {
+    "number": 83,
+    "question": "The \"Foramen Ovale\" contains which nerve?",
+    "choices": ["A. V1", "B. V2", "C. V3", "D. CN 6", "E. CN 9"],
+    "answer": "C",
+    "detail": "Ovale = V3."
+  },
+  {
+    "number": 84,
+    "question": "The \"Foramen Spinosum\" contains which high-yield vascular structure?",
+    "choices": ["A. Internal carotid artery", "B. Middle Meningeal Artery", "C. Vertebral artery", "D. Jugular vein", "E. Superior ophthalmic vein"],
+    "answer": "B",
+    "detail": "Rupture of this artery leads to an epidural hematoma."
+  },
+  {
+    "number": 85,
+    "question": "\"Persistent Trigeminal Artery\" is a fetal connection between the basilar artery and the:",
+    "choices": ["A. Aorta", "B. Cavernous ICA (looks like a \"Tau\")", "C. External carotid", "D. Middle cerebral artery", "E. Sigmoid sinus"],
+    "answer": "B",
+    "detail": "It increases the risk of aneurysm at the connection points."
+  },
+  {
+    "number": 86,
+    "question": "In \"Venous Anatomy,\" which vein connects the superficial middle cerebral vein to the Superior Sagittal Sinus?",
+    "choices": ["A. Vein of Labbe", "B. Vein of Trolard (\"Trolard = Top\")", "C. Vein of Galen", "D. Internal cerebral vein", "E. Basal vein of Rosenthal"],
+    "answer": "B",
+    "detail": "Trolard is the superior anastomotic vein."
+  },
+  {
+    "number": 87,
+    "question": "The \"Vein of Labbe\" connects the superficial middle vein to the:",
+    "choices": ["A. Superior sagittal sinus", "B. Transverse Sinus (\"Labbe = Lower\")", "C. Jugular vein", "D. Cavernous sinus", "E. Foramen magnum"],
+    "answer": "B",
+    "detail": "Labbe is the inferior anastomotic vein."
+  },
+  {
+    "number": 88,
+    "question": "\"Septic Thrombophlebitis\" (clotted jugular vein) in the setting of pharyngeal infection is called:",
+    "choices": ["A. Gradenigo Syndrome", "B. Lemierre’s Syndrome", "C. Cogan Syndrome", "D. Takayasu", "E. VHL"],
+    "answer": "B",
+    "detail": "It is often caused by Fusobacterium necrophorum."
+  },
+  {
+    "number": 89,
+    "question": "\"Phlebectasia\" is defined as:",
+    "choices": ["A. A clotted vein", "B. An idiopathic dilated jugular vein (enlarges with Valsalva)", "C. A malignant tumor", "D. A fistula", "E. Normal anatomy"],
+    "answer": "B",
+    "detail": "It is a benign dilatation of the vein."
+  },
+  {
+    "number": 90,
+    "question": "\"Sialolithiasis\" (salivary stones) is most commonly found in which duct?",
+    "choices": ["A. Stenson’s (Parotid)", "B. Wharton’s (Submandibular)", "C. Rivinus (Sublingual)", "D. Eustachian", "E. Nasolacrimal"],
+    "answer": "B",
+    "detail": "Stones favor the submandibular gland."
+  },
+  {
+    "number": 91,
+    "question": "A \"Plunging Ranula\" is a mucous retention cyst that extends:",
+    "choices": ["A. Into the brain", "B. Under the mylohyoid muscle into the submandibular space", "C. Into the ear canal", "D. Into the orbit", "E. Directly into the stomach"],
+    "answer": "B",
+    "detail": "Also called a 'diving' ranula."
+  },
+  {
+    "number": 92,
+    "question": "\"Ludwig’s Angina\" is a gas-filled emergency involving cellulitis in the:",
+    "choices": ["A. Lung", "B. Floor of the mouth", "C. Sigmoid sinus", "D. Vertebral body", "E. Foot"],
+    "answer": "B",
+    "detail": "It usually starts from an odontogenic infection."
+  },
+  {
+    "number": 93,
+    "question": "\"Warthin’s Tumors\" of the parotid are unique in Nuclear Medicine because they:",
+    "choices": ["A. Are cold on all scans", "B. Take up Pertechnetate (Hot)", "C. Take up Sulfur Colloid", "D. Are only seen on PET", "E. Destroy the jaw"],
+    "answer": "B",
+    "detail": "They 'drink' pertechnetate."
+  },
+  {
+    "number": 94,
+    "question": "\"Adenoid Cystic Carcinoma\" of the salivary glands is famous for:",
+    "choices": ["A. Being T1 bright", "B. Perineural spread", "C. Spontaneous resolution", "D. Containing teeth", "E. Being benign"],
+    "answer": "B",
+    "detail": "Perineural spread is the most testable feature."
+  },
+  {
+    "number": 95,
+    "question": "A \"Carotid Body Tumor\" is a paraganglioma located at the carotid bifurcation that:",
+    "choices": ["A. Compresses the ICA and ECA", "B. Splays the ICA and ECA", "C. Is dark on T2", "D. Is not vascular", "E. Occurs only in children"],
+    "answer": "B",
+    "detail": "This 'splaying' is a classic radiographic sign."
+  },
+  {
+    "number": 96,
+    "question": "The \"Masticator Space\" contains which high-yield structure?",
+    "choices": ["A. The carotid artery", "B. The mandible and V3 nerve branch", "C. The jugular vein", "D. The thyroid gland", "E. The spinal cord"],
+    "answer": "B",
+    "detail": "In an adult, masses here are often from odontogenic infection."
+  },
+  {
+    "number": 97,
+    "question": "\"Retropharyngeal Nodes (Nodes of Rouviere)\" typically regress by which age?",
+    "choices": ["A. Birth", "B. Age 4", "C. Age 20", "D. They never regress", "E. Only in females"],
+    "answer": "B",
+    "detail": "Suppurative infection in these nodes is mostly a pediatric disease."
+  },
+  {
+    "number": 98,
+    "question": "\"Hoarseness\" plus a left vocal cord paralysis should prompt you to look at:",
+    "choices": ["A. The AP Window in the chest (Recurrent Laryngeal Nerve)", "B. The right ear", "C. The sigmoid colon", "D. The pituitary", "E. The kidneys"],
+    "answer": "A",
+    "detail": "The nerve loops under the aorta at the AP window."
+  },
+  {
+    "number": 99,
+    "question": "A \"Dacryocystitis\" is an infection/dilation of the:",
+    "choices": ["A. Salivary gland", "B. Lacrimal sac", "C. Thyroid gland", "D. Semicircular canal", "E. Gallbladder"],
+    "answer": "B",
+    "detail": "It presents as a rim-enhancing lesion in the lacrimal fossa."
+  },
+  {
+    "number": 100,
+    "question": "\"Coloboma\" of the globe, when bilateral, is a part of which syndrome?",
+    "choices": ["A. VHL", "B. CHARGE", "C. NF-1", "D. NF-2", "E. PHACES"],
+    "answer": "B",
+    "detail": "CHARGE stands for Coloboma, Heart, Atresia (Choanal), Retarded growth, GU, and Ear anomalies."
+  }
+]
+}

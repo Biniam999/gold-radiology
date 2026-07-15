@@ -1,0 +1,1306 @@
+{
+    "questions": 
+  
+[
+  {
+    "number": 1,
+    "question": "According to the criteria for identifying aggressive bone lesions, what is considered the 'best sign' that a lesion is aggressive?",
+    "choices": [
+      "A. Presence of a sclerotic rim",
+      "B. A wide zone of transition",
+      "C. Calcification of the tumor matrix",
+      "D. Location in the diaphysis",
+      "E. The size of the lesion being greater than 5 cm"
+    ],
+    "answer": "B",
+    "detail": "A wide zone of transition indicates a faster growing lesion with a higher probability of malignancy."
+  },
+  {
+    "number": 2,
+    "question": "A radiologist identifies a bone lesion where they can easily 'trace the edges with a pencil.' This finding suggests:",
+    "choices": [
+      "A. The lesion is definitely malignant",
+      "B. The lesion is likely benign with a narrow zone of transition",
+      "C. The lesion has a high probability of being an infection",
+      "D. The lesion is a permeative growth pattern",
+      "E. A 'Codman Triangle' is likely present"
+    ],
+    "answer": "B",
+    "detail": "Traceable edges indicate a narrow zone of transition and a slow growth rate, typical of benign lesions."
+  },
+  {
+    "number": 3,
+    "question": "Which of the following periosteal reactions is most indicative of a rapidly growing, aggressive lesion that has broken through the cortex?",
+    "choices": [
+      "A. Solid periosteal reaction",
+      "B. 'Sunburst' reaction",
+      "C. Codman triangle",
+      "D. Thickened cortex",
+      "E. Ground glass matrix"
+    ],
+    "answer": "C",
+    "detail": "A Codman triangle occurs when a tumor destroys the newly formed bone capsule/periosteum faster than it can ossify."
+  },
+  {
+    "number": 4,
+    "question": "Radiographically, what percentage of trabecular bone must be destroyed before a lucent lesion is typically noticed on a plain film?",
+    "choices": [
+      "A. 10%",
+      "B. 30%",
+      "C. 50%",
+      "D. 70%",
+      "E. 95%"
+    ],
+    "answer": "D",
+    "detail": "A significant amount of trabecular destruction (roughly 70%) is required before a lucent lesion is detectable on radiographs."
+  },
+  {
+    "number": 5,
+    "question": "A 'Permeative' bone destruction pattern, characterized by ill-defined tiny oval or streak-like lucencies, is a hallmark of which of the following?",
+    "choices": [
+      "A. Fibrous dysplasia",
+      "B. Giant cell tumor",
+      "C. Ewing Sarcoma",
+      "D. Solitary bone cyst",
+      "E. Enchondroma"
+    ],
+    "answer": "C",
+    "detail": "Permeative destruction is a hallmark of 'bad actors' such as Ewing Sarcoma and Myeloma."
+  },
+  {
+    "number": 6,
+    "question": "What is the most common primary osseous malignancy?",
+    "choices": [
+      "A. Osteosarcoma",
+      "B. Chondrosarcoma",
+      "C. Myeloma/Plasmacytoma",
+      "D. Ewing Sarcoma",
+      "E. Giant cell tumor"
+    ],
+    "answer": "C",
+    "detail": "Myeloma/Plasmacytoma accounts for 27% of primary osseous malignancies, followed by Osteosarcoma (20%) and Chondrosarcoma (20%)."
+  },
+  {
+    "number": 7,
+    "question": "Conventional Intramedullary Osteosarcoma typically occurs in which age group?",
+    "choices": [
+      "A. Infants (< 2 years)",
+      "B. Young patients (10–20 years)",
+      "C. Adults (30–40 years)",
+      "D. Older adults (50–60 years)",
+      "E. Elderly (> 80 years)"
+    ],
+    "answer": "B",
+    "detail": "Young patients aged 10–20 years are the primary demographic for conventional Osteosarcoma."
+  },
+  {
+    "number": 8,
+    "question": "In conventional intramedullary osteosarcoma, which location is the most common site of involvement?",
+    "choices": [
+      "A. Proximal tibia",
+      "B. Distal radius",
+      "C. Femur (40%)",
+      "D. Pelvis",
+      "E. Spine"
+    ],
+    "answer": "C",
+    "detail": "The femur is the most common site for Osteosarcoma (40%), followed by the proximal tibia."
+  },
+  {
+    "number": 9,
+    "question": "'Skip Lesions' in osteosarcoma refer to synchronous tumors in the same bone or across a joint. What percentage of cases demonstrate this finding?",
+    "choices": [
+      "A. 1%",
+      "B. 5%",
+      "C. 15%",
+      "D. 25%",
+      "E. 50%"
+    ],
+    "answer": "B",
+    "detail": "Skip lesions occur in about 5% of Osteosarcoma cases, necessitating imaging of the entire bone."
+  },
+  {
+    "number": 10,
+    "question": "When staging osteosarcoma, why is it critical to image the 'ENTIRE bone'?",
+    "choices": [
+      "A. To look for lung metastases",
+      "B. To identify skip lesions",
+      "C. To measure the size of the Codman triangle",
+      "D. To evaluate for secondary Paget disease",
+      "E. To assess the quality of the T1 fatty marrow"
+    ],
+    "answer": "B",
+    "detail": "Staging requires looking for skip lesions (tumors in the same bone or opposing side of a joint)."
+  },
+  {
+    "number": 11,
+    "question": "Which subtype of osteosarcoma is generally low grade, metaphyseal (90%), and typically favors the posterior distal femur?",
+    "choices": [
+      "A. Conventional intramedullary",
+      "B. Periosteal osteosarcoma",
+      "C. Parosteal osteosarcoma",
+      "D. Telangiectatic osteosarcoma",
+      "E. Secondary osteosarcoma"
+    ],
+    "answer": "C",
+    "detail": "Parosteal osteosarcoma is a low-grade tumor that typically forms a bulky mass on the posterior distal femur."
+  },
+  {
+    "number": 12,
+    "question": "The 'String Sign' is a radiographic buzzword referring to a radiolucent line separating a bulky tumor from the cortex. This is classic for:",
+    "choices": [
+      "A. Myositis ossificans",
+      "B. Cortical desmoid",
+      "C. Parosteal osteosarcoma",
+      "D. Periosteal osteosarcoma",
+      "E. Chondrosarcoma"
+    ],
+    "answer": "C",
+    "detail": "The radiolucent 'string sign' separating the bulky tumor from the cortex is classic for Parosteal osteosarcoma."
+  },
+  {
+    "number": 13,
+    "question": "Which differential diagnosis should be prioritized for a lesion showing 'Fluid-Fluid levels' on MRI?",
+    "choices": [
+      "A. Telangiectatic osteosarcoma, ABC, and GCT",
+      "B. Enchondroma, SBC, and Fibrous dysplasia",
+      "C. Ewing Sarcoma, Myeloma, and Mets",
+      "D. Osteoid osteoma, Osteoblastoma, and NOF",
+      "E. Chordoma, Chondroblastoma, and Infection"
+    ],
+    "answer": "A",
+    "detail": "The classic differential for fluid-fluid levels on MRI includes Telangiectatic osteosarcoma, Aneurysmal Bone Cyst (ABC), and Giant Cell Tumor (GCT)."
+  },
+  {
+    "number": 14,
+    "question": "A 15-year-old boy presents with a permeative lesion in the diaphysis of the femur. He is not African-American. What is the most likely primary bone tumor?",
+    "choices": [
+      "A. Osteosarcoma",
+      "B. Chondrosarcoma",
+      "C. Ewing Sarcoma",
+      "D. Plasmacytoma",
+      "E. Adamantinoma"
+    ],
+    "answer": "C",
+    "detail": "The classic presentation for Ewing Sarcoma is a child around age 15 with a diaphyseal permeative lesion; it is notably rare in African-Americans."
+  },
+  {
+    "number": 15,
+    "question": "Ewing Sarcoma is known for its ability to metastasize from bone to bone. Which site is the most common for these metastases?",
+    "choices": [
+      "A. Skull",
+      "B. Humerus",
+      "C. Spine",
+      "D. Ribs",
+      "E. Calcaneus"
+    ],
+    "answer": "C",
+    "detail": "Ewing is the most likely sarcoma to metastasize bone-to-bone, most commonly to the spine."
+  },
+  {
+    "number": 16,
+    "question": "Which of the following findings favors a diagnosis of Chondrosarcoma over a Benign Enchondroma in a long bone?",
+    "choices": [
+      "A. Absence of pain",
+      "B. Size less than 2 cm",
+      "C. Cortical destruction",
+      "D. Stable 'arcs and rings' matrix",
+      "E. High T2 signal throughout"
+    ],
+    "answer": "C",
+    "detail": "Benign enchondromas do not cause pain or cortical destruction; their presence favors Chondrosarcoma."
+  },
+  {
+    "number": 17,
+    "question": "'Arcs and Rings' calcifications on CT or plain film are characteristic of which type of matrix?",
+    "choices": [
+      "A. Osteoid matrix",
+      "B. Fibrous matrix",
+      "C. Chondroid matrix",
+      "D. Fatty matrix",
+      "E. Mucoid matrix"
+    ],
+    "answer": "C",
+    "detail": "The 'arcs and rings' appearance is the classic radiographic description for a cartilaginous (chondroid) matrix."
+  },
+  {
+    "number": 18,
+    "question": "Where is the most common location for a Chordoma?",
+    "choices": [
+      "A. Clivus",
+      "B. Vertebral body of C2",
+      "C. Sacrum",
+      "D. Distal femur",
+      "E. Iliac wing"
+    ],
+    "answer": "C",
+    "detail": "The sacrum is the #1 site for chordoma, followed by the clivus and C2."
+  },
+  {
+    "number": 19,
+    "question": "Chordomas are unique primary malignancies because they:",
+    "choices": [
+      "A. Are never found on the midline",
+      "B. Are derived from the notochord and are always midline",
+      "C. Typically occur in children under 5",
+      "D. Never show high T2 signal",
+      "E. Are usually treated with chemotherapy alone"
+    ],
+    "answer": "B",
+    "detail": "Chordomas are derived from midline embryological remnants of the notochord."
+  },
+  {
+    "number": 20,
+    "question": "In the mnemonic for lucent bone lesions (FOG MACHINES or FEGNOMASHIC), the 'E' stands for:",
+    "choices": [
+      "A. Enchondroma",
+      "B. Ewing Sarcoma",
+      "C. Eosinophilic Granuloma (EG)",
+      "D. Exostosis",
+      "E. Epiphysis"
+    ],
+    "answer": "C",
+    "detail": "The 'E' in the FEGNOMASHIC mnemonic for lucent bone lesions stands for Eosinophilic Granuloma."
+  },
+  {
+    "number": 21,
+    "question": "A lucent lesion identified in a patient younger than 30 is likely all of the following EXCEPT:",
+    "choices": [
+      "A. EG",
+      "B. ABC",
+      "C. NOF",
+      "D. Myeloma",
+      "E. Solitary bone cyst"
+    ],
+    "answer": "D",
+    "detail": "Myeloma and metastatic disease are generally lesions encountered in patients older than 40."
+  },
+  {
+    "number": 22,
+    "question": "Which part of the bone is considered the fastest growing and has the best blood supply, leading to a predilection for Metastasis and Infection?",
+    "choices": [
+      "A. Epiphysis",
+      "B. Metaphysis",
+      "C. Diaphysis",
+      "D. Apophysis",
+      "E. Cortex"
+    ],
+    "answer": "B",
+    "detail": "The metaphysis has the fastest growth and highest blood supply, making it a frequent site for infection and metastasis."
+  },
+  {
+    "number": 23,
+    "question": "The 'Four Horsemen of the (e)Apophysis' (AIG + Infection) are the only lesions that typically arise in the epiphysis. They include:",
+    "choices": [
+      "A. ABC, Infection, GCT, and Chondroblastoma",
+      "B. Enchondroma, EG, SBC, and Fibrous dysplasia",
+      "C. Myeloma, Mets, NOF, and Osteoblastoma",
+      "D. Osteosarcoma, Ewing, Chordoma, and Fibrosarcoma",
+      "E. Osteoid osteoma, Chondrosarcoma, and SBC"
+    ],
+    "answer": "A",
+    "detail": "Aneurysmal Bone Cyst (ABC), Infection, Giant Cell Tumor (GCT), and Chondroblastoma are the primary epiphyseal lesions."
+  },
+  {
+    "number": 24,
+    "question": "Which malignant lesion should be suggested if a test writer specifies a 'malignant epiphyseal' tumor?",
+    "choices": [
+      "A. Osteosarcoma",
+      "B. Clear Cell Chondrosarcoma",
+      "C. Telangiectatic Osteosarcoma",
+      "D. Ewing Sarcoma",
+      "E. Myeloma"
+    ],
+    "answer": "B",
+    "detail": "Clear Cell Chondrosarcoma is the malignant equivalent of epiphyseal lesions."
+  },
+  {
+    "number": 25,
+    "question": "Which of the following is considered an 'Epiphyseal Equivalent' bone for the purpose of differential diagnosis?",
+    "choices": [
+      "A. Diaphysis of the femur",
+      "B. Tibial tubercle",
+      "C. Patella",
+      "D. Mid-shaft of the humerus",
+      "E. Scapular blade"
+    ],
+    "answer": "C",
+    "detail": "Epiphyseal equivalents include the carpals, patella, greater trochanter, and calcaneus."
+  },
+  {
+    "number": 26,
+    "question": "Fibrous Dysplasia is classically described as a 'long lesion in a long bone' with which characteristic matrix?",
+    "choices": [
+      "A. Arcs and rings",
+      "B. Ground glass (or hazy) matrix",
+      "C. Sclerotic nidus",
+      "D. Fatty matrix",
+      "E. Popcorn calcification"
+    ],
+    "answer": "B",
+    "detail": "The 'ground glass' or hazy appearance is the characteristic matrix of Fibrous Dysplasia."
+  },
+  {
+    "number": 27,
+    "question": "McCune-Albright Syndrome consists of polyostotic fibrous dysplasia and which clinical findings?",
+    "choices": [
+      "A. Soft tissue myxomas",
+      "B. Precocious puberty and cafe au lait spots",
+      "C. Night pain relieved by aspirin",
+      "D. Multiple enchondromas and hemangiomas",
+      "E. Deafness and high output CHF"
+    ],
+    "answer": "B",
+    "detail": "The McCune-Albright triad consists of polyostotic Fibrous Dysplasia, precocious puberty, and cafe-au-lait spots."
+  },
+  {
+    "number": 28,
+    "question": "Mazabraud Syndrome is a rare association of polyostotic fibrous dysplasia and:",
+    "choices": [
+      "A. Precocious puberty",
+      "B. Soft tissue myxomas",
+      "C. Osteosarcoma",
+      "D. Prolactinoma",
+      "E. Dermal calcifications"
+    ],
+    "answer": "B",
+    "detail": "Mazabraud Syndrome is the association of polyostotic Fibrous Dysplasia and soft tissue myxomas."
+  },
+  {
+    "number": 29,
+    "question": "A 'Shepherd’s Crook' deformity, involving coxa varus angulation of the femur, is classic for:",
+    "choices": [
+      "A. Fibrous dysplasia",
+      "B. Osteopetrosis",
+      "C. Paget disease",
+      "D. Legg-Calvé-Perthes disease",
+      "E. Osteogenesis Imperfecta"
+    ],
+    "answer": "A",
+    "detail": "Fibrous Dysplasia classically hits the pelvis and ipsilateral femur, creating the 'Shepherd’s Crook' deformity."
+  },
+  {
+    "number": 30,
+    "question": "Which benign lesion is 'rare in children not yet walking' and typically spontaneously regresses, migrating away from the physis with age?",
+    "choices": [
+      "A. SBC",
+      "B. ABC",
+      "C. NOF",
+      "D. Osteoid osteoma",
+      "E. Chondroblastoma"
+    ],
+    "answer": "C",
+    "detail": "Non-ossifying Fibroma (NOF) is rare in non-walking children and typically regresses and migrates away from the physis over time."
+  },
+  {
+    "number": 31,
+    "question": "A Wastebasket term for both Non-ossifying Fibromas (NOF) and Fibrous Cortical Defects (FCD) is:",
+    "choices": [
+      "A. Fibroxanthoma",
+      "B. Fibrosarcoma",
+      "C. Osteofibrous dysplasia",
+      "D. Adamantinoma",
+      "E. Brown tumor"
+    ],
+    "answer": "A",
+    "detail": "Fibroxanthoma is the collective 'wastebasket' term for NOF and FCD."
+  },
+  {
+    "number": 32,
+    "question": "Jaffe-Campanacci Syndrome is characterized by multiple NOFs and which other finding?",
+    "choices": [
+      "A. Multiple soft tissue myxomas",
+      "B. Precocious puberty",
+      "C. Cafe-au-lait spots, mental retardation, and cardiac malformations",
+      "D. Hand and foot enchondromas",
+      "E. Retinal angiomas"
+    ],
+    "answer": "C",
+    "detail": "The Jaffe-Campanacci syndrome profile consists of multiple NOFs plus cafe-au-lait spots, mental retardation, and cardiac anomalies."
+  },
+  {
+    "number": 33,
+    "question": "An enchondroma in the humerus or femur typically shows 'arcs and rings' matrix, but an enchondroma in the fingers or toes is typically:",
+    "choices": [
+      "A. Sclerotic",
+      "B. Lytic without the classic matrix",
+      "C. Associated with a Codman triangle",
+      "D. Ground glass",
+      "E. T2 dark"
+    ],
+    "answer": "B",
+    "detail": "Enchondromas in the small bones of the hands and feet typically appear lytic without the 'arcs and rings' matrix."
+  },
+  {
+    "number": 34,
+    "question": "What is the most common cystic lesion in the hands and feet?",
+    "choices": [
+      "A. SBC",
+      "B. ABC",
+      "C. Enchondroma",
+      "D. GCT",
+      "E. Glomus tumor"
+    ],
+    "answer": "C",
+    "detail": "Enchondroma is the most common cystic-appearing lesion found in the hands and feet."
+  },
+  {
+    "number": 35,
+    "question": "Ollier Disease is defined by which of the following?",
+    "choices": [
+      "A. Multiple enchondromas",
+      "B. Enchondromas plus soft tissue hemangiomas",
+      "C. Polyostotic fibrous dysplasia",
+      "D. Multiple osteoid osteomas",
+      "E. Multiple hereditary exostoses"
+    ],
+    "answer": "A",
+    "detail": "Ollier disease is the presence of multiple enchondromas."
+  },
+  {
+    "number": 36,
+    "question": "Maffucci Syndrome differs from Ollier Disease by the presence of:",
+    "choices": [
+      "A. Precocious puberty",
+      "B. Soft tissue hemangiomas (with phleboliths)",
+      "C. A higher risk of malignancy",
+      "D. B and C",
+      "E. There is no difference"
+    ],
+    "answer": "D",
+    "detail": "Maffucci syndrome involves multiple enchondromas plus soft tissue hemangiomas and carries a significantly higher risk of malignant transformation (chondrosarcoma)."
+  },
+  {
+    "number": 37,
+    "question": "Which of the following is a key requirement for the diagnosis of a Giant Cell Tumor (GCT)?",
+    "choices": [
+      "A. The physis must be open",
+      "B. The lesion must have a sclerotic border",
+      "C. The physis must be closed",
+      "D. The lesion must be located in the diaphysis",
+      "E. The patient must be older than 60"
+    ],
+    "answer": "C",
+    "detail": "A closed physis is a key diagnostic requirement for identifying Giant Cell Tumor (GCT)."
+  },
+  {
+    "number": 38,
+    "question": "GCTs are considered 'quasi-malignant' because:",
+    "choices": [
+      "A. They always turn into osteosarcoma",
+      "B. 5% will have curable pulmonary metastases",
+      "C. They are always highly sensitive to radiation",
+      "D. They never recur after surgery",
+      "E. They are derived from the notochord"
+    ],
+    "answer": "B",
+    "detail": "Although locally aggressive, GCTs are 'quasi-malignant' because roughly 5% will have curable pulmonary metastases."
+  },
+  {
+    "number": 39,
+    "question": "A 12-year-old child presents with 'pain at night, relieved by aspirin.' This clinical history is pathognomonic for:",
+    "choices": [
+      "A. Ewing Sarcoma",
+      "B. Osteoid Osteoma",
+      "C. NOF",
+      "D. Solitary bone cyst",
+      "E. Fibrous dysplasia"
+    ],
+    "answer": "B",
+    "detail": "Night pain relieved by aspirin is the classic pathognomonic history for Osteoid Osteoma."
+  },
+  {
+    "number": 40,
+    "question": "On a nuclear medicine bone scan, an Osteoid Osteoma classically shows the:",
+    "choices": [
+      "A. Honda sign",
+      "B. Double density sign",
+      "C. Stepladder sign",
+      "D. String sign",
+      "E. Target sign"
+    ],
+    "answer": "B",
+    "detail": "The 'double density sign' reflects intense nidus activity with surrounding reactive bone activity."
+  },
+  {
+    "number": 41,
+    "question": "In the spine, an osteoid osteoma is most commonly located in the:",
+    "choices": [
+      "A. Anterior vertebral body",
+      "B. Intervertebral disc",
+      "C. Posterior elements",
+      "D. Endplate",
+      "E. Epidural space"
+    ],
+    "answer": "C",
+    "detail": "The posterior elements are the favored location for Osteoid Osteoma in the spine."
+  },
+  {
+    "number": 42,
+    "question": "When an osteoid osteoma causes painful scoliosis, the convexity of the curve typically points:",
+    "choices": [
+      "A. Toward the lesion",
+      "B. Away from the lesion",
+      "C. Downward toward the sacrum",
+      "D. It does not cause scoliosis",
+      "E. The direction is random"
+    ],
+    "answer": "B",
+    "detail": "In painful scoliosis caused by Osteoid Osteoma, the convexity of the curve points away from the lesion."
+  },
+  {
+    "number": 43,
+    "question": "How does an Osteoblastoma differ from an Osteoid Osteoma?",
+    "choices": [
+      "A. It is smaller than 2 cm",
+      "B. It is larger than 1.5–2 cm",
+      "C. It is only found in infants",
+      "D. It is never found in the posterior elements",
+      "E. It is T2 dark"
+    ],
+    "answer": "B",
+    "detail": "A size threshold greater than 1.5–2 cm is the primary differentiator between Osteoid Osteoma and Osteoblastoma."
+  },
+  {
+    "number": 44,
+    "question": "Up to 40% of secondary Aneurysmal Bone Cysts (ABC) are associated with which other tumor?",
+    "choices": [
+      "A. Osteosarcoma",
+      "B. Giant Cell Tumor (GCT)",
+      "C. Fibrous dysplasia",
+      "D. SBC",
+      "E. Enchondroma"
+    ],
+    "answer": "B",
+    "detail": "There is a frequent association (up to 40%) between secondary ABCs and Giant Cell Tumor."
+  },
+  {
+    "number": 45,
+    "question": "A Solitary (Unicameral) Bone Cyst is unique because it is 'always located centrally' and often presents with which radiographic sign?",
+    "choices": [
+      "A. Double line sign",
+      "B. Fallen fragment sign",
+      "C. T-sign",
+      "D. Sail sign",
+      "E. Crescent sign"
+    ],
+    "answer": "B",
+    "detail": "The 'fallen fragment sign' is pathognomonic, where a cortical fragment settles in the dependent cyst."
+  },
+  {
+    "number": 46,
+    "question": "Which condition represents localized accumulations of giant cells and fibrous tissue in a patient with known Hyperparathyroidism?",
+    "choices": [
+      "A. GCT",
+      "B. Brown Tumor",
+      "C. Fibrous dysplasia",
+      "D. ABC",
+      "E. NOF"
+    ],
+    "answer": "B",
+    "detail": "Brown tumors are accumulations of giant cells and fibrous tissue seen in patients with Hyperparathyroidism."
+  },
+  {
+    "number": 47,
+    "question": "Chondroblastoma is seen in kids (5–25) and classically presents in which location?",
+    "choices": [
+      "A. Diaphysis of the femur",
+      "B. Metaphysis of the tibia",
+      "C. Epiphysis of the tibia",
+      "D. Intertrochanteric region",
+      "E. Midline sacrum"
+    ],
+    "answer": "C",
+    "detail": "Chondroblastoma is a classic epiphyseal lesion seen in young patients."
+  },
+  {
+    "number": 48,
+    "question": "On MRI, Chondroblastoma is distinctive because it is one of the only bone lesions that:",
+    "choices": [
+      "A. Is extremely T2 bright",
+      "B. Is often NOT T2 bright",
+      "C. Shows a 'mini brain' appearance",
+      "D. Has fat signal in the center",
+      "E. Never shows marrow edema"
+    ],
+    "answer": "B",
+    "detail": "Chondroblastoma is unique because it is one of the rare bone lesions that is often NOT T2 bright."
+  },
+  {
+    "number": 49,
+    "question": "An 'Avulsion Injury' of the lesser trochanter in an adult without significant trauma should raise immediate concern for:",
+    "choices": [
+      "A. A normal variant",
+      "B. A pathologic fracture due to cancer",
+      "C. A high-risk stress fracture",
+      "D. Osteoid osteoma",
+      "E. Iliopsoas bursitis"
+    ],
+    "answer": "B",
+    "detail": "Isolated lesser trochanter avulsions in adults are pathologic until proven otherwise."
+  },
+  {
+    "number": 50,
+    "question": "Which benign lesion is found at the intertrochanteric region of the femur and has a 10% risk of malignant degeneration?",
+    "choices": [
+      "A. SBC",
+      "B. NOF",
+      "C. Liposclerosing Myxofibroma",
+      "D. Chondroblastoma",
+      "E. Enchondroma"
+    ],
+    "answer": "C",
+    "detail": "Liposclerosing Myxofibroma is characteristically intertrochanteric and has a 10% risk of malignant potential."
+  },
+  {
+    "number": 51,
+    "question": "Which primary bone tumor is distinctive for being 'radiation induced'?",
+    "choices": [
+      "A. SBC",
+      "B. Osteochondroma",
+      "C. Fibrous dysplasia",
+      "D. NOF",
+      "E. Enchondroma"
+    ],
+    "answer": "B",
+    "detail": "Osteochondroma is the only benign skeletal tumor associated with radiation."
+  },
+  {
+    "number": 52,
+    "question": "An osteochondroma that 'points into the joint' causing significant deformity in young children is known as:",
+    "choices": [
+      "A. Multiple Hereditary Exostosis",
+      "B. Trevor Disease (DEH)",
+      "C. Paget disease",
+      "D. Blount disease",
+      "E. Osgood-Schlatter"
+    ],
+    "answer": "B",
+    "detail": "Trevor disease (DEH) is characterized by epiphyseal osteochondromas that point into the joint."
+  },
+  {
+    "number": 53,
+    "question": "A 'Supracondylar Spur' (Avian Spur) is a normal variant that points toward the joint. Which nerve is at risk of being compressed by the Ligament of Struthers?",
+    "choices": [
+      "A. Ulnar nerve",
+      "B. Radial nerve",
+      "C. Median nerve",
+      "D. Axillary nerve",
+      "E. Musculocutaneous nerve"
+    ],
+    "answer": "C",
+    "detail": "The Ligament of Struthers crosses the avian spur and compresses the median nerve."
+  },
+  {
+    "number": 54,
+    "question": "A 'Cortical Desmoid' is a benign 'Don't Touch' lesion located in the posterior medial epicondyle of the femur. It is actually a 'tug lesion' from which muscle?",
+    "choices": [
+      "A. Sartorius",
+      "B. Rectus femoris",
+      "C. Adductor magnus or medial gastrocnemius",
+      "D. Iliopsoas",
+      "E. Hamstrings"
+    ],
+    "answer": "C",
+    "detail": "Cortical desmoids are chronic 'tug lesions' from the adductor magnus or medial gastrocnemius."
+  },
+  {
+    "number": 55,
+    "question": "A 'Pitt’s Pit' (synovial herniation pit) is a lucent appearing lesion typically located in the:",
+    "choices": [
+      "A. Lesser trochanter",
+      "B. Greater trochanter",
+      "C. Anterosuperior femoral neck",
+      "D. Acetabular roof",
+      "E. Ischial tuberosity"
+    ],
+    "answer": "C",
+    "detail": "The classic location for a synovial herniation pit (Pitt’s Pit) is the anterosuperior femoral neck."
+  },
+  {
+    "number": 56,
+    "question": "'Calcific Tendinitis' is caused by the deposition of which mineral?",
+    "choices": [
+      "A. Calcium pyrophosphate (CPPD)",
+      "B. Calcium Hydroxyapatite",
+      "C. Uric acid crystals",
+      "D. Cholesterol",
+      "E. Hemosiderin"
+    ],
+    "answer": "B",
+    "detail": "Calcium Hydroxyapatite deposition is the cause of calcific tendinitis."
+  },
+  {
+    "number": 57,
+    "question": "What is the most frequent site of calcification in Calcium Hydroxyapatite Deposition Disease?",
+    "choices": [
+      "A. Longus colli muscle",
+      "B. Supraspinatus tendon (near greater tuberosity)",
+      "C. Achilles tendon",
+      "D. Plantar fascia",
+      "E. Patellar tendon"
+    ],
+    "answer": "B",
+    "detail": "The supraspinatus tendon near the greater tuberosity is the most common site for HADD."
+  },
+  {
+    "number": 58,
+    "question": "Osteopoikilosis is characterized by 'a bunch of bone islands' clustered around joints. Patients with this condition are also testably known to be:",
+    "choices": [
+      "A. Prone to deafness",
+      "B. Keloid formers",
+      "C. Diabetic",
+      "D. Prone to pulmonary metastases",
+      "E. At risk for cardiac malformations"
+    ],
+    "answer": "B",
+    "detail": "Being a 'keloid former' is testable trivia for patients with osteopoikilosis."
+  },
+  {
+    "number": 59,
+    "question": "'Osteopathia Striata' is defined by linear, parallel, and longitudinal lines in which part of the bone?",
+    "choices": [
+      "A. Epiphysis",
+      "B. Metaphysis",
+      "C. Diaphysis",
+      "D. Cortex",
+      "E. Apophysis"
+    ],
+    "answer": "B",
+    "detail": "Osteopathia striata presents as linear, parallel striations in the metaphysis."
+  },
+  {
+    "number": 60,
+    "question": "Engelmann’s Disease (Progressive Diaphyseal Dysplasia) is a rare childhood condition showing fusiform bony enlargement and sclerosis of the:",
+    "choices": [
+      "A. Metaphysis",
+      "B. Diaphysis",
+      "C. Epiphysis",
+      "D. Phalanges",
+      "E. Sacrum"
+    ],
+    "answer": "B",
+    "detail": "Progressive diaphyseal dysplasia causes fusiform enlargement and sclerosis of the diaphysis."
+  },
+  {
+    "number": 61,
+    "question": "From the MSK prospective, Thalassemia causes 'hair-on-end' skulls and 'rodent faces.' How can it be distinguished from Sickle Cell disease on a skull film?",
+    "choices": [
+      "A. Only Thalassemia shows hair-on-end",
+      "B. Thalassemia obliterates the sinuses",
+      "C. Sickle cell involves the inner and outer tables",
+      "D. Thalassemia is only seen in males",
+      "E. There is no radiographic difference"
+    ],
+    "answer": "B",
+    "detail": "Sinus obliteration distinguishes Thalassemia from Sickle Cell disease on skull films."
+  },
+  {
+    "number": 62,
+    "question": "On MRI, Avascular Necrosis (AVN) of the hip classically shows the 'Double Line Sign' on T2-weighted images. This represents:",
+    "choices": [
+      "A. Fluid between sclerotic borders",
+      "B. An inner bright line of granulation tissue and outer dark line of sclerotic bone",
+      "C. A full thickness rotator cuff tear",
+      "D. Meniscoid mass in the lateral gutter",
+      "E. Flipped fragment of a bucket handle tear"
+    ],
+    "answer": "B",
+    "detail": "The double line sign on T2-weighted MRI consists of inner granulation tissue and outer sclerotic bone."
+  },
+  {
+    "number": 63,
+    "question": "A 'Crescent Sign' seen on a frog-leg lateral radiograph of the hip indicates:",
+    "choices": [
+      "A. Early stage AVN",
+      "B. Imminent articular collapse in AVN",
+      "C. Normal development in an 8-year-old",
+      "D. Septic arthritis",
+      "E. Osteoid osteoma nidus"
+    ],
+    "answer": "B",
+    "detail": "Subchondral lucency (the crescent sign) indicates imminent structural collapse."
+  },
+  {
+    "number": 64,
+    "question": "Paget Disease (Osteitis Deformans) progresses through three phases. Which phrase should 'immediately' make a radiologist say Paget?",
+    "choices": [
+      "A. 'Fallen fragment sign'",
+      "B. 'Wide bones with thick trabecula'",
+      "C. 'Ground glass matrix'",
+      "D. 'Fluid-fluid levels'",
+      "E. 'Sequestrum in the diaphysis'"
+    ],
+    "answer": "B",
+    "detail": "The diagnostic phrase 'wide bones with thick trabeculae' is the hallmark of Paget's disease."
+  },
+  {
+    "number": 65,
+    "question": "Which of the following is the most common complication of Paget disease?",
+    "choices": [
+      "A. High output CHF",
+      "B. Osteosarcoma transformation",
+      "C. Deafness",
+      "D. Spinal stenosis",
+      "E. Pathologic fracture"
+    ],
+    "answer": "C",
+    "detail": "Deafness is the most frequent complication of Paget disease due to cortical thickening in the skull."
+  },
+  {
+    "number": 66,
+    "question": "'Blade of Grass' or 'Flame Sign' describes the lytic phase of Paget disease in which part of the body?",
+    "choices": [
+      "A. Skull",
+      "B. Spine",
+      "C. Long bones",
+      "D. Pelvis",
+      "E. Fingers"
+    ],
+    "answer": "C",
+    "detail": "The 'blade of grass' sign describes the advancing lytic margin in long bones."
+  },
+  {
+    "number": 67,
+    "question": "'Osteoporosis Circumscripta' is the buzzword for the lytic phase of Paget in the:",
+    "choices": [
+      "A. Tibia",
+      "B. Femur",
+      "C. Skull",
+      "D. Pelvis",
+      "E. Vertebral body"
+    ],
+    "answer": "C",
+    "detail": "Osteoporosis circumscripta refers to large osteolytic regions in the frontal or occipital bones."
+  },
+  {
+    "number": 68,
+    "question": "A 'Picture Frame Vertebra' in the spine, characterized by cortical thickening on all 4 sides, is seen in Paget and:",
+    "choices": [
+      "A. Renal Osteodystrophy",
+      "B. Osteopetrosis",
+      "C. Sickle Cell Anemia",
+      "D. Multiple Myeloma",
+      "E. Osteogenesis Imperfecta"
+    ],
+    "answer": "B",
+    "detail": "Both Paget and Osteopetrosis can produce the 'picture frame' vertebral sign."
+  },
+  {
+    "number": 69,
+    "question": "'Rugger Jersey Spine,' where sclerosis is limited to the superior and inferior endplates, is a hallmark of:",
+    "choices": [
+      "A. Paget disease",
+      "B. Renal Osteodystrophy",
+      "C. Thalassemia",
+      "D. Osteopetrosis",
+      "E. Gout"
+    ],
+    "answer": "B",
+    "detail": "Rugger jersey spine shows sclerosis of the top and bottom of vertebrae, classic for Renal Osteodystrophy."
+  },
+  {
+    "number": 70,
+    "question": "An 'H-Shaped Vertebra' caused by microvascular endplate infarcts is the classic buzzword for:",
+    "choices": [
+      "A. Paget disease",
+      "B. Sickle Cell Anemia",
+      "C. Thalassemia",
+      "D. Hyperparathyroidism",
+      "E. Ankylosing Spondylitis"
+    ],
+    "answer": "B",
+    "detail": "Microvascular endplate infarcts create the H-shaped deformity characteristic of Sickle Cell Anemia."
+  },
+  {
+    "number": 71,
+    "question": "On MRI, which sequence is best for distinguishing 'Active Paget Disease' from 'Malignant Transformation'?",
+    "choices": [
+      "A. STIR",
+      "B. T2-weighted fat-saturated",
+      "C. T1 Pre-Contrast",
+      "D. Post-Contrast enhancement",
+      "E. Diffusion weighted imaging"
+    ],
+    "answer": "C",
+    "detail": "Malignant transformation in Paget's is characterized by the loss of the normal T1 fatty marrow signal."
+  },
+  {
+    "number": 72,
+    "question": "What is the most common bone involved in Paget disease?",
+    "choices": [
+      "A. Skull",
+      "B. Spine",
+      "C. Pelvis",
+      "D. Femur",
+      "E. Scapula"
+    ],
+    "answer": "C",
+    "detail": "The pelvis is the most common bone involved in Paget disease."
+  },
+  {
+    "number": 73,
+    "question": "In the spine, which finding is classic for Paget disease?",
+    "choices": [
+      "A. Syndesmophytes",
+      "B. H-shaped vertebra",
+      "C. Enlarged 'Ivory Vertebra'",
+      "D. Isolated discitis",
+      "E. Gibbus deformity"
+    ],
+    "answer": "C",
+    "detail": "Paget vertebrae are characteristically enlarged and sclerotic (the enlarged Ivory Vertebra)."
+  },
+  {
+    "number": 74,
+    "question": "Which 'Don't Touch' lesion is an incidental lucency along the posterior medial aspect of the distal femoral metaphysis?",
+    "choices": [
+      "A. Pitt’s Pit",
+      "B. Cortical Desmoid",
+      "C. Myositis ossificans",
+      "D. NOF",
+      "E. ABC"
+    ],
+    "answer": "B",
+    "detail": "A cortical desmoid is an incidental 'Don't Touch' lesion found on the posterior medial distal femur."
+  },
+  {
+    "number": 75,
+    "question": "'Osteofibrous Dysplasia' is a benign lesion found exclusively in the tibia or fibula of children (<10) and looks like NOF but has:",
+    "choices": [
+      "A. Fluid-fluid levels",
+      "B. Anterior tibial bowing",
+      "C. A Codman triangle",
+      "D. Arcs and rings matrix",
+      "E. T1 bright marrow"
+    ],
+    "answer": "B",
+    "detail": "Anterior tibial bowing is a unique feature of Osteofibrous Dysplasia in children."
+  },
+  {
+    "number": 76,
+    "question": "Which soft tissue mass is characterized by being T2 dark to intermediate (fibrous) and is often associated with spontaneous hemorrhage in old people?",
+    "choices": [
+      "A. Synovial Sarcoma",
+      "B. Malignant Fibrous Histiocytoma (MFH/PUS)",
+      "C. Liposarcoma",
+      "D. Myxoma",
+      "E. Hemangioma"
+    ],
+    "answer": "B",
+    "detail": "Malignant Fibrous Histiocytoma is typically dark/intermediate on T2 and often presents as spontaneous hemorrhage in the elderly."
+  },
+  {
+    "number": 77,
+    "question": "Synovial Sarcoma is the most common malignancy of the foot and ankle in which demographic?",
+    "choices": [
+      "A. Infants",
+      "B. Young children",
+      "C. Teens and young adults",
+      "D. Elderly men",
+      "E. Post-menopausal women"
+    ],
+    "answer": "C",
+    "detail": "Synovial Sarcoma is the most common foot/ankle malignancy in teens and young adults."
+  },
+  {
+    "number": 78,
+    "question": "On T2-weighted MRI, a 'Triple Sign' (high, medium, and low signal in the same mass) is suggestive of:",
+    "choices": [
+      "A. MFH",
+      "B. Synovial Sarcoma",
+      "C. Liposarcoma",
+      "D. Hemangioma",
+      "E. Baker's cyst"
+    ],
+    "answer": "B",
+    "detail": "The 'triple sign' of high, medium, and low T2 signal is characteristic of Synovial Sarcoma."
+  },
+  {
+    "number": 79,
+    "question": "Baker's Cysts MUST be located between which two structures?",
+    "choices": [
+      "A. Biceps femoris and LCL",
+      "B. Medial head of the gastrocnemius and semimembranosus",
+      "C. Sartorius and Gracilis",
+      "D. Rectus femoris and AIIS",
+      "E. PCL and ACL"
+    ],
+    "answer": "B",
+    "detail": "A Baker’s cyst diagnostic location is between the medial gastrocnemius and semimembranosus."
+  },
+  {
+    "number": 80,
+    "question": "If a popliteal fossa mass is NOT located between the gastrocnemius and semimembranosus, what should the radiologist suspect?",
+    "choices": [
+      "A. Normal variant",
+      "B. Synovial Sarcoma",
+      "C. Ganglion cyst",
+      "D. Lipoma",
+      "E. Hemangioma"
+    ],
+    "answer": "B",
+    "detail": "A mass that mimics a Baker's but is in the wrong location should raise suspicion for Synovial Sarcoma."
+  },
+  {
+    "number": 81,
+    "question": "Which soft tissue tumor 'does not respect fascial boundaries' and classically contains phleboliths on plain film?",
+    "choices": [
+      "A. Myxoma",
+      "B. Liposarcoma",
+      "C. Hemangioma",
+      "D. MFH",
+      "E. Synovial Sarcoma"
+    ],
+    "answer": "C",
+    "detail": "Phleboliths on radiographs are the diagnostic key for soft tissue hemangiomas."
+  },
+  {
+    "number": 82,
+    "question": "Myxomas are T2 bright and T1 dark (lower signal than muscle) and are almost certainly shown in the setting of:",
+    "choices": [
+      "A. McCune-Albright Syndrome",
+      "B. Mazabraud Syndrome",
+      "C. Jaffe-Campanacci Syndrome",
+      "D. Ollier Disease",
+      "E. Maffucci Syndrome"
+    ],
+    "answer": "B",
+    "detail": "Myxomas are classically associated with polyostotic Fibrous Dysplasia in Mazabraud Syndrome."
+  },
+  {
+    "number": 83,
+    "question": "Pigmented Villonodular Synovitis (PVNS) is a neoplastic process characterized by 'Synovial Proliferation + Hemosiderin Deposition.' MRI shows classic:",
+    "choices": [
+      "A. Fat signal",
+      "B. Blooming on gradient echo",
+      "C. Arcs and rings",
+      "D. Fluid-fluid levels",
+      "E. A Codman triangle"
+    ],
+    "answer": "B",
+    "detail": "Hemosiderin deposition in PVNS causes characteristic blooming on gradient echo MRI."
+  },
+  {
+    "number": 84,
+    "question": "Primary Synovial Chondromatosis is a metaplastic process that results in multiple cartilaginous nodules. It usually affects:",
+    "choices": [
+      "A. Both shoulders",
+      "B. Multiple small joints",
+      "C. One joint (usually the knee)",
+      "D. The spine only",
+      "E. Only children"
+    ],
+    "answer": "C",
+    "detail": "Primary synovial chondromatosis typically affects a single joint, most commonly the knee."
+  },
+  {
+    "number": 85,
+    "question": "'Lipoma Arborescens' is a zebra diagnosis characterized by 'frond-like' deposition of fatty tissue, most commonly in the:",
+    "choices": [
+      "A. Bicipital groove",
+      "B. Suprapatellar bursa of the knee",
+      "C. Acetabular labrum",
+      "D. Tarsal tunnel",
+      "E. Shoulder joint"
+    ],
+    "answer": "B",
+    "detail": "The suprapatellar bursa of the knee is the most common location for fatty frond-like synovial deposition."
+  },
+  {
+    "number": 86,
+    "question": "A mass showing 'Laying Fluid-Calcium levels' on CT near a joint (Hip, Elbow, or Shoulder) in a patient with a phosphate metabolism problem is:",
+    "choices": [
+      "A. Metastatic calcification",
+      "B. Tumoral Calcinosis",
+      "C. Synovial Sarcoma",
+      "D. Gout",
+      "E. Osteosarcoma"
+    ],
+    "answer": "B",
+    "detail": "Laying fluid-calcium levels on CT near a joint are the radiographic key for Tumoral Calcinosis."
+  },
+  {
+    "number": 87,
+    "question": "'Metastatic Calcification' is seen in patients with Renal Failure or Hyperparathyroidism and is characterized by:",
+    "choices": [
+      "A. Intra-articular nodules",
+      "B. Fluid-calcium levels",
+      "C. Fine and diffuse soft tissue calcifications plus renal and lung calcifications",
+      "D. 'Bowl of grapes' appearance",
+      "E. Blooming on GRE"
+    ],
+    "answer": "C",
+    "detail": "Metastatic calcification in hypercalcemic states presents with fine, diffuse soft tissue and visceral calcifications."
+  },
+  {
+    "number": 88,
+    "question": "'Diabetic Myonecrosis' almost always involves which muscle group?",
+    "choices": [
+      "A. Biceps",
+      "B. Rotator cuff",
+      "C. Thigh (80%) or Calf (20%)",
+      "D. Hands and feet",
+      "E. Paraspinal muscles"
+    ],
+    "answer": "C",
+    "detail": "Muscle infarction in diabetics classically involves the thigh or calf."
+  },
+  {
+    "number": 89,
+    "question": "Why should a radiologist 'NOT biopsy' a suspected case of Diabetic Myonecrosis?",
+    "choices": [
+      "A. It is already definitely cancer",
+      "B. It has 100% cure rate with aspirin",
+      "C. It delays recovery time and has a high complication rate",
+      "D. Biopsy causes seeding to the lungs",
+      "E. It is T2 dark"
+    ],
+    "answer": "C",
+    "detail": "Biopsy is contraindicated for diabetic myonecrosis as it delays recovery and increases complications."
+  },
+  {
+    "number": 90,
+    "question": "When performing a bone biopsy of the pelvis, which muscle group should you 'avoid crossing' as they may be needed for reconstruction?",
+    "choices": [
+      "A. Adductors",
+      "B. Gluteal muscles",
+      "C. Iliopsoas",
+      "D. Hamstrings",
+      "E. Rectus femoris"
+    ],
+    "answer": "B",
+    "detail": "Gluteal muscles should not be crossed during pelvic biopsy as they are essential for surgical reconstruction."
+  },
+  {
+    "number": 91,
+    "question": "In a shoulder biopsy, why is the posterior 2/3rds of the joint avoided?",
+    "choices": [
+      "A. Risk of pneumothorax",
+      "B. The axillary nerve courses post -> anterior",
+      "C. High risk of seeding the biceps tendon",
+      "D. It is always intra-articular",
+      "E. The labrum is too thick posteriorly"
+    ],
+    "answer": "B",
+    "detail": "Biopsy of the posterior 2/3 risks axillary nerve injury, which denervates the anterior 1/3 of the joint."
+  },
+  {
+    "number": 92,
+    "question": "'Vertebra Plana' (a pancake flat vertebral body) in a child should make you think of:",
+    "choices": [
+      "A. Mets/Myeloma",
+      "B. Eosinophilic Granuloma (EG)",
+      "C. ABC",
+      "D. Osteoid osteoma",
+      "E. Osteopetrosis"
+    ],
+    "answer": "B",
+    "detail": "Eosinophilic Granuloma (EG) is the most common cause of vertebra plana (pancake flat vertebra) in children."
+  },
+  {
+    "number": 93,
+    "question": "Metastatic disease should be on the differential for any patient over age 40 with a lytic lesion. Which primary cancer is 'ALWAYS lytic'?",
+    "choices": [
+      "A. Prostate",
+      "B. Carcinoid",
+      "C. Renal",
+      "D. Medulloblastoma",
+      "E. Breast"
+    ],
+    "answer": "C",
+    "detail": "Renal primary cancers are characteristically always lytic when they metastasize."
+  },
+  {
+    "number": 94,
+    "question": "A 'Mini Brain Appearance' in a vertebral body on MRI is a testable sign for:",
+    "choices": [
+      "A. Hemangioma",
+      "B. Plasmacytoma",
+      "C. Paget disease",
+      "D. Chordoma",
+      "E. Sickle Cell Anemia"
+    ],
+    "answer": "B",
+    "detail": "Expansile remodeling of a vertebral body creating a 'mini brain' appearance is seen in Plasmacytoma."
+  },
+  {
+    "number": 95,
+    "question": "POEMS Syndrome is characterized by neuropathy, organomegaly, and:",
+    "choices": [
+      "A. Lytic metastases",
+      "B. Myeloma with Sclerotic Mets",
+      "C. Multiple enchondromas",
+      "D. Polyostotic fibrous dysplasia",
+      "E. Osteopoikilosis"
+    ],
+    "answer": "B",
+    "detail": "POEMS syndrome involves the rare finding of Myeloma with sclerotic (rather than lytic) metastases."
+  },
+  {
+    "number": 96,
+    "question": "A lucent lesion in the 'Greater Trochanter' of a teenager is most likely:",
+    "choices": [
+      "A. ABC",
+      "B. GCT",
+      "C. Chondroblastoma",
+      "D. SBC",
+      "E. Infection"
+    ],
+    "answer": "C",
+    "detail": "Chondroblastoma favors epiphyseal equivalents such as the greater trochanter."
+  },
+  {
+    "number": 97,
+    "question": "A calcaneal lesion showing 'central calcification' (fat necrosis) on CT is likely:",
+    "choices": [
+      "A. Chondroblastoma",
+      "B. Intraosseous Lipoma",
+      "C. SBC",
+      "D. Osteoid osteoma",
+      "E. Geode"
+    ],
+    "answer": "B",
+    "detail": "Central calcification or fat necrosis within a calcaneal lesion suggests Intraosseous Lipoma."
+  },
+  {
+    "number": 98,
+    "question": "The 'Fallen Fragment Sign' in the calcaneus is diagnostic of:",
+    "choices": [
+      "A. ABC",
+      "B. Solitary Bone Cyst (SBC)",
+      "C. Osteoid osteoma",
+      "D. Lipoma",
+      "E. Pseudocyst"
+    ],
+    "answer": "B",
+    "detail": "The fallen fragment sign is diagnostic of SBC, even in rare locations like the calcaneus."
+  },
+  {
+    "number": 99,
+    "question": "A 'Well-defined lytic lesion in the cortex of a long bone' with a sclerotic rim that is > 3 cm is a:",
+    "choices": [
+      "A. Fibrous cortical defect",
+      "B. Non-ossifying fibroma (NOF)",
+      "C. SBC",
+      "D. ABC",
+      "E. Osteoid osteoma"
+    ],
+    "answer": "B",
+    "detail": "A size threshold of 3 cm separates a Fibrous Cortical Defect (smaller) from a Non-ossifying Fibroma (larger)."
+  },
+  {
+    "number": 100,
+    "question": "A chondral lesion in a long bone that is > 4–5 cm in size suggests:",
+    "choices": [
+      "A. Enchondroma",
+      "B. Low-grade Chondrosarcoma",
+      "C. Osteoblastoma",
+      "D. NOF",
+      "E. Fibrous dysplasia"
+    ],
+    "answer": "B",
+    "detail": "A size greater than 4–5 cm in a chondral lesion significantly increases the risk of it being low-grade Chondrosarcoma."
+  }
+]
+}

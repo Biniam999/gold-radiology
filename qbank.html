@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Qbank | GOLD RADIOLOGY</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header>
+    <a href="index.html" class="logo">GOLD RADIOLOGY</a>
+    <nav>
+      <a href="qbank.html">Qbank</a>
+      <a href="progress.html">Progress</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="qbank-layout">
+      <div class="selection-sections">
+        <div class="unit-section">
+          <h2>CHOOSE UNIT</h2>
+          <div class="unit-columns">
+            <div class="unit-column">
+              <form class="unit-checkboxes">
+                <div class="checkbox-group">
+                  <label><input type="checkbox" name="unit" value="thoracic"> <span>Thorax</span></label>
+                </div>
+                <div class="checkbox-group">
+                  <label><input type="checkbox" id="mskCheckbox" name="unit" value="msk"> <span>Msk</span></label>
+                </div>
+                <div class="checkbox-group">
+                  <label><input type="checkbox" name="unit" value="neurorad"> <span>Neuro</span></label>
+                </div>
+                <div class="checkbox-group">
+                  <label><input type="checkbox" name="unit" value="gi"> <span>GI</span></label>
+                </div>
+              </form>
+            </div>
+
+            <div class="unit-column">
+              <form class="unit-checkboxes">
+                <div class="checkbox-group">
+                  <label><input type="checkbox" name="unit" value="peds"> <span>Pedi</span></label>
+                </div>
+                <div class="checkbox-group">
+                  <label><input type="checkbox" name="unit" value="gu"> <span>GU</span></label>
+                </div>
+                <div class="checkbox-group">
+                  <label><input type="checkbox" name="unit" value="cardiac"> <span>Cardiac</span></label>
+                </div>
+                <div class="checkbox-group">
+                  <label><input type="checkbox" name="unit" value="breast"> <span>Breast</span></label>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+
+        <div class="bottom-row">
+        <div class="session-type-section">
+          <h2>SESSION TYPE</h2>
+          <form class="session-type-options">
+            <div class="radio-group">
+              <label>
+                <input type="radio" name="sessionType" value="study" checked>
+                <span>Study Mode</span>
+              </label>
+            </div>
+            <div class="radio-group">
+              <label>
+                <input type="radio" name="sessionType" value="exam">
+                <span>Exam Mode</span>
+              </label>
+            </div>
+          </form>
+        </div>
+
+        <div class="questions-section">
+          <h2>QUESTIONS</h2>
+          <div class="number-input">
+            <button class="number-btn minus">-</button>
+            <input type="number" min="1" max="400" value="40" id="questionCount" />
+            <button class="number-btn plus">+</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="start-button-container">
+        <button class="start-btn">START</button>
+      </div>
+    </section>
+  </main>
+
+  <div id="mskModal" class="modal" aria-hidden="true">
+    <div class="modal-content">
+      <span class="close-button" onclick="closeModal()">&times;</span>
+      <h3>Select MSK Sub-units</h3>
+      <div class="modal-columns">
+        <div class="modal-column">
+          <form>
+            <label><input type="checkbox" name="subunit" value="msk1"> <span>MSK 1</span></label>
+            <label><input type="checkbox" name="subunit" value="msk2-3"> <span>MSK 2-3</span></label>
+            <label><input type="checkbox" name="subunit" value="msk4-5"> <span>MSK 4-5</span></label>
+       
+          </form>
+        </div>
+        <div class="modal-column">
+          <form>
+            <label><input type="checkbox" name="subunit" value="msk6-7"> <span>MSK 6-7</span></label>
+            <label><input type="checkbox" name="subunit" value="msk8"> <span>MSK 8</span></label>
+            <label><input type="checkbox" name="subunit" value="msk9-11"> <span>MSK 9-11</span></label>
+            
+          </form>
+        </div>
+      </div>
+      <button type="button" class="done-btn" onclick="handleSubunitSelection()">Done</button>
+    </div>
+  </div>
+
+  <div id="thoracicModal" class="modal" aria-hidden="true">
+    <div class="modal-content">
+      <span class="close-button" onclick="closeThoracicModal()">&times;</span>
+      <h3>Select Thoracic Sub-units</h3>
+      <div class="modal-columns">
+        <div class="modal-column">
+          <form>
+            <label><input type="checkbox" name="thoracicSubunit" value="thoracic1-4"> <span>Thoracic 1-4</span></label>
+            <label><input type="checkbox" name="thoracicSubunit" value="thoracic5-7"> <span>Thoracic 5-7</span></label>
+            <label><input type="checkbox" name="thoracicSubunit" value="thoracic8-11"> <span>Thoracic 8-11</span></label>
+           </form>
+        </div>
+        <div class="modal-column">
+          <form>
+            <label><input type="checkbox" name="thoracicSubunit" value="thoracic12-15"> <span>Thoracic 12-15</span></label>
+            <label><input type="checkbox" name="thoracicSubunit" value="thoracic16-18"> <span>Thoracic 16-18</span></label>
+            
+          </form>
+        </div>
+      </div>
+      <button type="button" class="done-btn" onclick="handleThoracicSubunitSelection()">Done</button>
+    </div>
+  </div>
+
+  <div id="cardiacModal" class="modal" aria-hidden="true">
+    <div class="modal-content">
+      <span class="close-button" onclick="closeCardiacModal()">&times;</span>
+      <h3>Select Cardiac Sub-units</h3>
+      <div class="modal-columns">
+        <div class="modal-column">
+          <form>
+            <label><input type="checkbox" name="cardiacSubunit" value="cardiac1-4"> <span>Cardiac 1-4</span></label>
+            <label><input type="checkbox" name="cardiacSubunit" value="cardiac5-6"> <span>Cardiac 5-6</span></label>
+            <label><input type="checkbox" name="cardiacSubunit" value="cardiac7-11"> <span>Cardiac 7-11</span></label>
+          </form>
+        </div>
+        <div class="modal-column">
+          <form>
+            <label><input type="checkbox" name="cardiacSubunit" value="vascular1-2"> <span>Vascular 1-2</span></label>
+            <label><input type="checkbox" name="cardiacSubunit" value="vascular3-5"> <span>Vascular 3-5</span></label>
+             <label><input type="checkbox" name="cardiacSubunit" value="vascular6-8"> <span>Vascular 6-8</span></label>
+          </form>
+        </div>
+      </div>
+      <button type="button" class="done-btn" onclick="handleCardiacSubunitSelection()">Done</button>
+    </div>
+  </div>
+
+  <div id="neuroradModal" class="modal" aria-hidden="true">
+    <div class="modal-content">
+      <span class="close-button" onclick="closeNeuroradModal()">&times;</span>
+      <h3>Select Neurorad Sub-units</h3>
+      <div class="modal-columns">
+        <div class="modal-column">
+          <form>
+            <label><input type="checkbox" name="neuroradSubunit" value="neuro1"> <span>Neuro 1</span></label>
+            <label><input type="checkbox" name="neuroradSubunit" value="neuro2"> <span>Neuro 2</span></label>
+            <label><input type="checkbox" name="neuroradSubunit" value="neuro3-4"> <span>Neuro 3-4</span></label>
+            <label><input type="checkbox" name="neuroradSubunit" value="neuro5-6"> <span>Neuro 5-6</span></label>
+            <label><input type="checkbox" name="neuroradSubunit" value="neuro7"> <span>Neuro 7</span></label>
+            <label><input type="checkbox" name="neuroradSubunit" value="neuro8-9"> <span>Neuro 8-9</span></label>
+       
+          </form>
+        </div>
+        <div class="modal-column">
+          <form>
+            <label><input type="checkbox" name="neuroradSubunit" value="neuro10-11"> <span>Neuro 10-11</span></label>
+            <label><input type="checkbox" name="neuroradSubunit" value="neuro12"> <span>Neuro 12</span></label>
+            <label><input type="checkbox" name="neuroradSubunit" value="neuro13-15"> <span>Neuro 13-15</span></label>
+            <label><input type="checkbox" name="neuroradSubunit" value="neuro16-18"> <span>Neuro 16-18</span></label>
+            <label><input type="checkbox" name="neuroradSubunit" value="neuro19-21"> <span>Neuro 19-21</span></label>
+           
+          </form>
+        </div>
+      </div>
+      <button type="button" class="done-btn" onclick="handleNeuroradSubunitSelection()">Done</button>
+    </div>
+  </div>
+
+  <div id="giModal" class="modal" aria-hidden="true">
+    <div class="modal-content">
+      <span class="close-button" onclick="closeGiModal()">&times;</span>
+      <h3>Select GI Sub-units</h3>
+      <div class="modal-columns">
+        <div class="modal-column">
+          <form>
+            <label><input type="checkbox" name="giSubunit" value="gi1"> <span>GI 1</span></label>
+            <label><input type="checkbox" name="giSubunit" value="gi2"> <span>GI 2</span></label>
+            <label><input type="checkbox" name="giSubunit" value="gi3"> <span>GI 3</span></label>
+           
+          </form>
+        </div>
+        <div class="modal-column">
+          <form>
+            <label><input type="checkbox" name="giSubunit" value="gi4-5"> <span>GI 4-5</span></label>
+            <label><input type="checkbox" name="giSubunit" value="gi6-7"> <span>GI 6-7</span></label>
+            <label><input type="checkbox" name="giSubunit" value="gi8"> <span>GI 8</span></label>
+            
+          </form>
+        </div>
+      </div>
+      <button type="button" class="done-btn" onclick="handleGiSubunitSelection()">Done</button>
+    </div>
+  </div>
+
+  <div id="pedsModal" class="modal" aria-hidden="true">
+    <div class="modal-content">
+      <span class="close-button" onclick="closePedsModal()">&times;</span>
+      <h3>Select Pediatric Sub-units</h3>
+      <div class="modal-columns">
+        <div class="modal-column">
+          <form>
+            <label><input type="checkbox" name="pedsSubunit" value="pedi1-2"> <span>Pedi 1-2</span></label>
+            <label><input type="checkbox" name="pedsSubunit" value="pedi3-4"> <span>Pedi 3-4</span></label>
+            <label><input type="checkbox" name="pedsSubunit" value="pedi5-6"> <span>Pedi 5-6</span></label>
+            <label><input type="checkbox" name="pedsSubunit" value="pedi7"> <span>Pedi 7</span></label>
+          </form>
+        </div>
+        <div class="modal-column">
+          <form>
+            <label><input type="checkbox" name="pedsSubunit" value="pedi8-9"> <span>Pedi 8-9</span></label>
+            <label><input type="checkbox" name="pedsSubunit" value="pedi10-12"> <span>Pedi 10-12 & 14</span></label>
+            <label><input type="checkbox" name="pedsSubunit" value="pedi13"> <span>Pedi 13</span></label>
+        
+          </form>
+        </div>
+      </div>
+      <button type="button" class="done-btn" onclick="handlePedsSubunitSelection()">Done</button>
+    </div>
+  </div>
+
+  <div id="guModal" class="modal" aria-hidden="true">
+    <div class="modal-content">
+      <span class="close-button" onclick="closeGuModal()">&times;</span>
+      <h3>Select Genitourinary Sub-units</h3>
+      <div class="modal-columns">
+        <div class="modal-column">
+          <form>
+            <label><input type="checkbox" name="guSubunit" value="urinary1-3"> <span>Urinary 1-3</span></label>
+            <label><input type="checkbox" name="guSubunit" value="urinary4-7"> <span>Urinary 4-7</span></label>
+            <label><input type="checkbox" name="guSubunit" value="urinary8-12"> <span>Urinary 8-12</span></label>
+            <label><input type="checkbox" name="guSubunit" value="endocrine1-4"> <span>Endocrine 1-4</span></label>
+            
+          </form>
+        </div>
+        <div class="modal-column">
+          <form>
+            <label><input type="checkbox" name="guSubunit" value="repro1-3"> <span>Repro 1-3</span></label>
+            <label><input type="checkbox" name="guSubunit" value="repro4-7"> <span>Repro 4-7</span></label>
+            <label><input type="checkbox" name="guSubunit" value="repro8-12"> <span>Repro 8-12</span></label>
+            <label><input type="checkbox" name="guSubunit" value="repro13-14"> <span>Repro 13-14</span></label>
+            <label><input type="checkbox" name="guSubunit" value="repro15-17"> <span>Repro 15-17</span></label>
+          </form>
+        </div>
+      </div>
+      <button type="button" class="done-btn" onclick="handleGuSubunitSelection()">Done</button>
+    </div>
+  </div>
+
+  <div id="breastModal" class="modal" aria-hidden="true">
+    <div class="modal-content">
+      <span class="close-button" onclick="closeBreastModal()">&times;</span>
+      <h3>Select Breast Sub-units</h3>
+      <div class="modal-columns">
+        <div class="modal-column">
+          <form>
+            <label><input type="checkbox" name="breastSubunit" value="mamo1-3"> <span>Mamo 1-3</span></label>
+            <label><input type="checkbox" name="breastSubunit" value="mamo4-6"> <span>Mamo 4-6</span></label>
+            <label><input type="checkbox" name="breastSubunit" value="mamo7-11"> <span>Mamo 7-11</span></label>
+            <label><input type="checkbox" name="breastSubunit" value="mamo12-15"> <span>Mamo 12-15</span></label>
+            <label><input type="checkbox" name="breastSubunit" value="mamo16-19"> <span>Mamo 16-19</span></label>
+          </form>
+        </div>
+      </div>
+      <button type="button" class="done-btn" onclick="handleBreastSubunitSelection()">Done</button>
+    </div>
+  </div>
+
+  <footer>
+    <p>© 2026 GOLD RADIOLOGY. All rights reserved.</p>
+  </footer>
+
+  <script src="qbank.js" defer></script>
+</body>
+</html>

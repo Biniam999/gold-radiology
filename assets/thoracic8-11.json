@@ -1,0 +1,1307 @@
+{
+    "questions":
+ 
+[
+  {
+    "number": 1,
+    "question": "Which feature on HRCT is considered the 'most important' for distinguishing asbestosis from idiopathic pulmonary fibrosis (IPF)?",
+    "choices": [
+      "Basilar predominance",
+      "Honeycombing",
+      "Traction bronchiectasis",
+      "Parietal pleural thickening",
+      "Ground-glass opacities"
+    ],
+    "answer": "D",
+    "detail": "The presence of parietal pleural thickening is the most important feature to distinguish asbestosis from IPF."
+  },
+  {
+    "number": 2,
+    "question": "A 62-year-old male with a history of working in a shipyard for 30 years presents with progressive dyspnea. What is the typical latency period between initial asbestos exposure and the development of lung cancer or pleural mesothelioma?",
+    "choices": [
+      "2 years",
+      "5 years",
+      "10 years",
+      "20 years",
+      "50 years"
+    ],
+    "answer": "D",
+    "detail": "There is a 20-year latency between initial asbestos exposure and the development of lung cancer or mesothelioma."
+  },
+  {
+    "number": 3,
+    "question": "In the context of asbestos exposure, which of the following is considered the 'earliest pleural-based phenomenon'?",
+    "choices": [
+      "Pleural plaques",
+      "Pleural calcifications",
+      "Benign pleural effusion",
+      "Round atelectasis",
+      "Malignant mesothelioma"
+    ],
+    "answer": "C",
+    "detail": "Benign pleural effusions are the earliest pleural-based phenomenon associated with exposure, with a lag time of around 5 years."
+  },
+  {
+    "number": 4,
+    "question": "Pleural plaques associated with asbestosis characteristically spare which of the following regions on a chest radiograph?",
+    "choices": [
+      "Diaphragm",
+      "Parietal pleura",
+      "Apices and costophrenic angles",
+      "Mediastinal pleura",
+      "Mid-lung zones"
+    ],
+    "answer": "C",
+    "detail": "Asbestos plaques typically spare the apices and costophrenic angles."
+  },
+  {
+    "number": 5,
+    "question": "The 'Holly Leaf' appearance on a chest X-ray is a classic description for which finding?",
+    "choices": [
+      "Bizarre shaped cysts in LCH",
+      "Calcified pleural plaques in asbestosis",
+      "Conglomerate masses in silicosis",
+      "Ground-glass opacities in PAP",
+      "Air trapping in hypersensitivity pneumonitis"
+    ],
+    "answer": "B",
+    "detail": "Pleural plaques are described as having a 'Holly Leaf' appearance on CXR."
+  },
+  {
+    "number": 6,
+    "question": "A 55-year-old male former construction worker presents with a mass-like opacity on CXR. CT demonstrates a 'comet tail' convergence of bronchovascular structures toward the mass. What is the most likely diagnosis?",
+    "choices": [
+      "Bronchogenic carcinoma",
+      "Pulmonary hamartoma",
+      "Round atelectasis",
+      "Progressive massive fibrosis",
+      "Aspergilloma"
+    ],
+    "answer": "C",
+    "detail": "Mass-like opacity next to pleural thickening with a 'comet tail' convergence is diagnostic for round atelectasis."
+  },
+  {
+    "number": 7,
+    "question": "Which statement regarding Malignant Mesothelioma is correct according to the text?",
+    "choices": [
+      "Its development is strictly dose-dependent on asbestos exposure.",
+      "It has a very short lag time of approximately 5 years.",
+      "About 80% of cases are associated with asbestos exposure.",
+      "It characteristically spares the fissures of the lung.",
+      "It is usually cured with a single course of antibiotics."
+    ],
+    "answer": "C",
+    "detail": "About 80% of cases are associated with asbestos exposure; its development is NOT dose-dependent."
+  },
+  {
+    "number": 8,
+    "question": "A 50-year-old quarry worker presents with upper lobe predominant nodules and eggshell calcifications of the hilar lymph nodes. This patient is at a three-fold increased risk for which of the following?",
+    "choices": [
+      "Nocardia",
+      "CMV",
+      "Tuberculosis",
+      "Aspergillus",
+      "Actinomycosis"
+    ],
+    "answer": "C",
+    "detail": "Silicosis increases the risk of TB by about 3-fold."
+  },
+  {
+    "number": 9,
+    "question": "Progressive Massive Fibrosis (PMF) is characterized by large upper lobe masses with radiating strands. How can MRI help differentiate these masses from lung cancer?",
+    "choices": [
+      "PMF is T1 bright; Cancer is T1 dark",
+      "PMF is T2 dark; Cancer is T2 bright",
+      "PMF enhances intensely; Cancer does not",
+      "Cancer shows the 'comet tail' sign; PMF does not",
+      "There is no reliable MRI differentiator between the two"
+    ],
+    "answer": "B",
+    "detail": "On MRI, PMF is T2 dark, while cancer is T2 bright."
+  },
+  {
+    "number": 10,
+    "question": "In a patient with silicosis, the development of cavitation within a conglomerate mass should immediately raise suspicion for which complication?",
+    "choices": [
+      "Squamous cell carcinoma",
+      "Silicotuberculosis",
+      "Lung abscess",
+      "Pulmonary infarct",
+      "Pulmonary alveolar proteinosis"
+    ],
+    "answer": "B",
+    "detail": "Cavitation in the setting of silicosis conglomerate masses (PMF) must raise suspicion for TB."
+  },
+  {
+    "number": 11,
+    "question": "Coal Workers Pneumoconiosis (CWP) typically presents with which nodule distribution?",
+    "choices": [
+      "Random",
+      "Subpleural only",
+      "Perilymphatic",
+      "Basilar predominant",
+      "Lower lobe centrilobular"
+    ],
+    "answer": "C",
+    "detail": "The small nodule pattern in Coal Workers Pneumoconiosis tends to have a perilymphatic distribution."
+  },
+  {
+    "number": 12,
+    "question": "Which inhalational disease is caused by exposure to Nitrogen Dioxide and presents with a pulmonary edema pattern on imaging?",
+    "choices": [
+      "Berylliosis",
+      "Silo Filler’s Disease",
+      "Talcosis",
+      "Asbestosis",
+      "Anthrax"
+    ],
+    "answer": "B",
+    "detail": "Silo Filler’s Disease is caused by Nitrogen Dioxide and presents with a pulmonary edema pattern."
+  },
+  {
+    "number": 13,
+    "question": "Berylliosis is a generalized granulomatous disease associated with which specific industry?",
+    "choices": [
+      "Ship building",
+      "Coal mining",
+      "Aircraft and space industries",
+      "Farming (silos)",
+      "Textile manufacturing"
+    ],
+    "answer": "C",
+    "detail": "Berylliosis is associated with metal used in the aircraft and space industries."
+  },
+  {
+    "number": 14,
+    "question": "An IV drug user who injects filler from crushed tablets presents with hyperdense micronodules and conglomerate masses on CT. This pattern is characteristic of:",
+    "choices": [
+      "Silicosis",
+      "Asbestosis",
+      "Talcosis",
+      "Berylliosis",
+      "Silo Filler’s Disease"
+    ],
+    "answer": "C",
+    "detail": "Hyperdense micronodules and conglomerate masses in IV drug users characterize Talcosis."
+  },
+  {
+    "number": 15,
+    "question": "What is the 'next step' recommended in the text if you suspect round atelectasis but there is NO adjacent pleural thickening?",
+    "choices": [
+      "6-month follow-up CT",
+      "Start empirical antibiotics",
+      "PET/CT and biopsy",
+      "Pulmonary function tests",
+      "Referral to cardiology"
+    ],
+    "answer": "C",
+    "detail": "If there isn't adjacent pleural thickening, it’s not round atelectasis; it is a cancer, requiring PET and biopsy."
+  },
+  {
+    "number": 16,
+    "question": "Which of the following is true regarding pleural effusions in primary TB?",
+    "choices": [
+      "They are typically culture positive.",
+      "They occur 3-6 months after infection as a hypersensitivity response.",
+      "They are the most common finding in children.",
+      "They always lead to the formation of a Ranke complex.",
+      "They are always bilateral."
+    ],
+    "answer": "B",
+    "detail": "TB pleural involvement can occur 3-6 months after primary infection as a hypersensitivity response."
+  },
+  {
+    "number": 17,
+    "question": "The term 'Asbestosis' specifically refers to:",
+    "choices": [
+      "Any exposure to asbestos fibers",
+      "Pleural plaques without parenchymal involvement",
+      "Lung fibrosis associated with asbestos exposure",
+      "Malignant mesothelioma of the pleura",
+      "Benign asbestos-related pleural effusion"
+    ],
+    "answer": "C",
+    "detail": "The term 'Asbestosis' specifically refers to changes of pulmonary fibrosis associated with asbestos exposure."
+  },
+  {
+    "number": 18,
+    "question": "According to the text, a lag time of around 30-40 years from exposure is associated with which condition?",
+    "choices": [
+      "Benign pleural effusion",
+      "Pleural plaques",
+      "Pleural calcifications",
+      "Malignant Mesothelioma",
+      "Round atelectasis"
+    ],
+    "answer": "D",
+    "detail": "The lag time for mesothelioma is around 30-40 years from exposure."
+  },
+  {
+    "number": 19,
+    "question": "Which imaging finding in the setting of silicosis is most suggestive of the 'complicated' form?",
+    "choices": [
+      "Centrilobular nodules",
+      "Eggshell calcification",
+      "Progressive Massive Fibrosis (PMF)",
+      "Pleural plaques",
+      "Ground-glass opacities"
+    ],
+    "answer": "C",
+    "detail": "The complicated type of silicosis is called Progressive Massive Fibrosis."
+  },
+  {
+    "number": 20,
+    "question": "Silo Filler's Disease typically shows recovery within what timeframe?",
+    "choices": [
+      "24 hours",
+      "1 week",
+      "5 weeks",
+      "6 months",
+      "1 year"
+    ],
+    "answer": "C",
+    "detail": "Recovery for Silo Filler's Disease is typically within 5 weeks."
+  },
+  {
+    "number": 21,
+    "question": "In the anatomy of the secondary pulmonary lobule (SPL), which structures run down the middle?",
+    "choices": [
+      "Veins and lymphatics",
+      "Airway and artery",
+      "Interlobular septa and veins",
+      "Lymphatics and airway",
+      "Veins and artery"
+    ],
+    "answer": "B",
+    "detail": "The terminal bronchial and artery run down the middle of the SPL."
+  },
+  {
+    "number": 22,
+    "question": "Where are the lymphatics located within the secondary pulmonary lobule?",
+    "choices": [
+      "In the center with the artery",
+      "Running inside the terminal bronchial",
+      "Around the periphery, outlining the septa",
+      "Crossing the alveolar walls randomly",
+      "They are not present in the SPL"
+    ],
+    "answer": "C",
+    "detail": "Lymphatics and veins run around the periphery of the SPL."
+  },
+  {
+    "number": 23,
+    "question": "'Density that does NOT obscure underlying vessels' on a CT scan is the definition of:",
+    "choices": [
+      "Consolidation",
+      "Reticulation",
+      "Ground-glass opacity",
+      "Honeycombing",
+      "Mosaic attenuation"
+    ],
+    "answer": "C",
+    "detail": "Ground-glass opacity is density that does NOT obscure underlying vessels."
+  },
+  {
+    "number": 24,
+    "question": "Which nodule distribution is defined by the absence of pleural nodules?",
+    "choices": [
+      "Perilymphatic",
+      "Random",
+      "Centrilobular",
+      "Subpleural",
+      "Miliary"
+    ],
+    "answer": "C",
+    "detail": "Centrilobular nodules are defined by having 'no pleural nodules'."
+  },
+  {
+    "number": 25,
+    "question": "A 45-year-old female presents with progressive shortness of breath. CT demonstrates perilymphatic nodules. What is the most likely diagnosis?",
+    "choices": [
+      "Miliary TB",
+      "Hematogenous metastases",
+      "Sarcoidosis",
+      "RB-ILD",
+      "Hypersensitivity Pneumonitis"
+    ],
+    "answer": "C",
+    "detail": "Perilymphatic nodules are characteristic of sarcoidosis (90%), lymphangitic spread, and silicosis."
+  },
+  {
+    "number": 26,
+    "question": "Which of the following is the 'plain film equivalent' of interlobular septal thickening seen on HRCT?",
+    "choices": [
+      "Golden S sign",
+      "Kerley B lines",
+      "Luftsichel sign",
+      "Flat waist sign",
+      "Westermark sign"
+    ],
+    "answer": "B",
+    "detail": "Interlobular septal thickening is the equivalent of Kerley B lines on plain film."
+  },
+  {
+    "number": 27,
+    "question": "Honeycombing is characterized by subpleural cystic areas of lung destruction. To differentiate it from paraseptal emphysema, how many rows of bubbles must be present?",
+    "choices": [
+      "One row",
+      "Two-three rows",
+      "At least five rows",
+      "It depends on the lobe",
+      "They cannot be differentiated"
+    ],
+    "answer": "B",
+    "detail": "One row of bubbles is paraseptal emphysema; two-three rows is honeycombing."
+  },
+  {
+    "number": 28,
+    "question": "Regarding Idiopathic Interstitial Pneumonias (IIPs), what is the most important 'practical' question to ask for management?",
+    "choices": [
+      "Is it upper or lower lobe?",
+      "Is it UIP or Not UIP?",
+      "Is it related to smoking?",
+      "Is there a pleural effusion?",
+      "Is the patient under 30?"
+    ],
+    "answer": "B",
+    "detail": "Practically, the choice is UIP (dismal prognosis) vs. Not UIP (improves with steroids)."
+  },
+  {
+    "number": 29,
+    "question": "Usual Interstitial Pneumonia (UIP) has a prognosis that the text describes as:",
+    "choices": [
+      "Excellent with steroids",
+      "Similar to a simple pneumonia",
+      "Terrible (similar to lung cancer)",
+      "Reversible if the patient stops smoking",
+      "Benign and stable"
+    ],
+    "answer": "C",
+    "detail": "UIP has a dismal prognosis similar to lung cancer."
+  },
+  {
+    "number": 30,
+    "question": "What is the 'histologic buzzword' for Usual Interstitial Pneumonia (UIP)?",
+    "choices": [
+      "Homogeneous",
+      "Granulomatous",
+      "Heterogeneous",
+      "Desquamative",
+      "Organizing"
+    ],
+    "answer": "C",
+    "detail": "The histologic buzzword for UIP is 'heterogeneous'."
+  },
+  {
+    "number": 31,
+    "question": "For a diagnosis of 'Definite UIP' on HRCT, which finding must be present?",
+    "choices": [
+      "Upper lobe predominance",
+      "Honeycombing",
+      "Extensive ground-glass opacities",
+      "Air trapping in 3 or more lobes",
+      "Micronodules"
+    ],
+    "answer": "B",
+    "detail": "Honeycombing must be present for the 'Definite UIP' pattern criteria."
+  },
+  {
+    "number": 32,
+    "question": "According to the text, what is 'supposedly the first finding' of UIP on a chest X-ray?",
+    "choices": [
+      "Hilar adenopathy",
+      "Upper lobe cavities",
+      "Reticular pattern in the posterior costophrenic angle",
+      "Flattening of the diaphragms",
+      "Pleural effusion"
+    ],
+    "answer": "C",
+    "detail": "A reticular pattern in the posterior costophrenic angle is supposedly the first finding on CXR for UIP."
+  },
+  {
+    "number": 33,
+    "question": "Which finding on HRCT favors Chronic Hypersensitivity Pneumonitis (HP) over UIP?",
+    "choices": [
+      "Basilar predominant honeycombing",
+      "Traction bronchiectasis",
+      "Air trapping involving 3 or more lobes",
+      "Subpleural sparing",
+      "Reduced lung volumes"
+    ],
+    "answer": "C",
+    "detail": "Air trapping in 3+ lobes favors HP over UIP."
+  },
+  {
+    "number": 34,
+    "question": "Where does lung cancer most commonly arise in a patient with pulmonary fibrosis?",
+    "choices": [
+      "The upper lobes",
+      "The hilum",
+      "The interface between fibrotic cysts and normal lung",
+      "Within the largest area of honeycombing",
+      "The mediastinal pleura"
+    ],
+    "answer": "C",
+    "detail": "Lung cancer in fibrotic lungs favors the interface between fibrotic cysts and normal lung."
+  },
+  {
+    "number": 35,
+    "question": "A 40-year-old female with scleroderma presents with cough. HRCT shows lower lobe predominant ground-glass and reticulation with immediate subpleural sparing. What is the most likely diagnosis?",
+    "choices": [
+      "UIP",
+      "NSIP",
+      "PAP",
+      "DIP",
+      "LCH"
+    ],
+    "answer": "B",
+    "detail": "NSIP is common in scleroderma and often presents with immediate subpleural sparing."
+  },
+  {
+    "number": 36,
+    "question": "In the context of NSIP, 'ground glass' is considered the equivalent of which UIP finding?",
+    "choices": [
+      "Traction bronchiectasis",
+      "Reticulation",
+      "Honeycombing",
+      "Centrilobular nodules",
+      "Cysts"
+    ],
+    "answer": "C",
+    "detail": "Ground glass is the NSIP equivalent of honeycombing."
+  },
+  {
+    "number": 37,
+    "question": "Which of the following is the most common ILD in patients with Scleroderma?",
+    "choices": [
+      "UIP",
+      "NSIP",
+      "DIP",
+      "RB-ILD",
+      "LIP"
+    ],
+    "answer": "B",
+    "detail": "NSIP is the most common ILD in Scleroderma."
+  },
+  {
+    "number": 38,
+    "question": "Respiratory Bronchiolitis-ILD (RB-ILD) and Desquamative Interstitial Pneumonia (DIP) are both related to smoking. How do they typically differ in distribution?",
+    "choices": [
+      "RB-ILD is lower lobe; DIP is upper lobe",
+      "RB-ILD is upper lobe; DIP is lower lobe",
+      "RB-ILD is central; DIP is peripheral",
+      "RB-ILD is random; DIP is perilymphatic",
+      "Both are always mid-zone predominant"
+    ],
+    "answer": "B",
+    "detail": "RB-ILD favors the upper lobes; DIP favors the lower lobes."
+  },
+  {
+    "number": 39,
+    "question": "The pathology of DIP is not actually desquamation, but instead represents a filling of alveolar spaces with:",
+    "choices": [
+      "Fluid",
+      "Fibrosis",
+      "Macrophages",
+      "Red blood cells",
+      "Cancer cells"
+    ],
+    "answer": "C",
+    "detail": "The pathology of DIP represents a filling of alveolar spaces with macrophages."
+  },
+  {
+    "number": 40,
+    "question": "An African American female in her 20s presents with cough and erythema nodosum. Which organ is 'by far the most common' affected in this disease?",
+    "choices": [
+      "Eyes",
+      "Skin",
+      "Lungs",
+      "Liver",
+      "Heart"
+    ],
+    "answer": "C",
+    "detail": "The lungs are by far the most common organ affected in sarcoidosis (90%)."
+  },
+  {
+    "number": 41,
+    "question": "In the chest X-ray staging of Sarcoidosis, what corresponds to 'Stage 1'?",
+    "choices": [
+      "Normal chest X-ray",
+      "Hilar / Mediastinal Nodes Only",
+      "Nodes + Parenchyma Disease",
+      "Parenchymal Disease Only",
+      "End Stage (Fibrosis)"
+    ],
+    "answer": "B",
+    "detail": "Stage 1 Sarcoid consists of hilar/mediastinal nodes only."
+  },
+  {
+    "number": 42,
+    "question": "The 'Garland Triad' (1-2-3 sign) in Sarcoidosis represents enlargement of which nodes?",
+    "choices": [
+      "Bilateral hilar and right paratracheal",
+      "Bilateral hilar and left paratracheal",
+      "Right hilar, right paratracheal, and azygos",
+      "Subcarinal, right hilar, and left hilar",
+      "Scalene, supraclavicular, and hilar"
+    ],
+    "answer": "A",
+    "detail": "The 1-2-3 sign (Garland Triad) describes bilateral hilar and right paratracheal nodal pattern."
+  },
+  {
+    "number": 43,
+    "question": "The 'CT Galaxy Sign' refers to which appearance in Sarcoidosis?",
+    "choices": [
+      "A single large cyst with internal septations",
+      "Upper lobe masses (conglomerate of nodules) with satellite nodules",
+      "Miliary nodules distributed like stars",
+      "A halo of ground glass around a nodule",
+      "Multiple air-fluid levels in the bases"
+    ],
+    "answer": "B",
+    "detail": "The CT Galaxy Sign represents upper lobe masses (conglomerates of nodules) with satellite nodules."
+  },
+  {
+    "number": 44,
+    "question": "On a Gallium-67 scan, what finding represents hot lacrimal and parotid glands associated with sarcoidosis?",
+    "choices": [
+      "Lambda sign",
+      "Galaxy sign",
+      "Panda sign",
+      "Atoll sign",
+      "Halo sign"
+    ],
+    "answer": "C",
+    "detail": "The Panda sign refers to hot lacrimal and parotid glands on Gallium scan."
+  },
+  {
+    "number": 45,
+    "question": "'Acute Sarcoid' presenting with bilateral hilar lymph node enlargement, arthritis, and erythema nodosum is known as:",
+    "choices": [
+      "Caplan Syndrome",
+      "Lofgren Syndrome",
+      "Lambert-Eaton Syndrome",
+      "Swyer-James Syndrome",
+      "Birt-Hogg-Dube Syndrome"
+    ],
+    "answer": "B",
+    "detail": "Lofgren Syndrome is the acute sarcoid triad mentioned."
+  },
+  {
+    "number": 46,
+    "question": "In end-stage Sarcoidosis (Stage 4), what finding is commonly seen within lung cavities?",
+    "choices": [
+      "Nocardia",
+      "Aspergillomas",
+      "Fat density",
+      "Calcified nodes",
+      "Air-fluid levels"
+    ],
+    "answer": "B",
+    "detail": "Aspergillomas are common in the cavities of Stage 4 sarcoid patients."
+  },
+  {
+    "number": 47,
+    "question": "Which condition is a 'benign lymphoproliferative disorder' strongly associated with Sjogren Syndrome?",
+    "choices": [
+      "UIP",
+      "NSIP",
+      "LIP",
+      "RB-ILD",
+      "DIP"
+    ],
+    "answer": "C",
+    "detail": "LIP is concomitant in 25% of Sjogren cases."
+  },
+  {
+    "number": 48,
+    "question": "In the pediatric population, Lymphocytic Interstitial Pneumonitis (LIP) is most commonly associated with which underlying cause?",
+    "choices": [
+      "Smoking",
+      "HIV",
+      "Cystic Fibrosis",
+      "Asthma",
+      "Prematurity"
+    ],
+    "answer": "B",
+    "detail": "In children, LIP is the most common lung finding associated with HIV."
+  },
+  {
+    "number": 49,
+    "question": "'Perivascular cysts' (vessels seen coursing along the cysts) is a specific CT descriptor for which condition?",
+    "choices": [
+      "LCH",
+      "LAM",
+      "LIP",
+      "PCP",
+      "CLE"
+    ],
+    "answer": "C",
+    "detail": "'Perivascular cysts' is a descriptor used for LIP."
+  },
+  {
+    "number": 50,
+    "question": "Which ILD is characterized by bizarre-shaped cysts that favor the upper/mid zones and can resolve spontaneously if the patient stops smoking?",
+    "choices": [
+      "LAM",
+      "LCH",
+      "BHD",
+      "LIP",
+      "PCP"
+    ],
+    "answer": "B",
+    "detail": "Smoking young patients with bizarre upper lobe cysts that can resolve describes LCH."
+  },
+  {
+    "number": 51,
+    "question": "Lymphangiomyomatosis (LAM) is a disease that 'strongly favors women' because it is:",
+    "choices": [
+      "Caused by household dust",
+      "Estrogen dependent",
+      "Related to pregnancy history",
+      "Linked to breastfeeding",
+      "Idiopathic with no gender bias"
+    ],
+    "answer": "B",
+    "detail": "LAM strongly favors women because it is estrogen dependent."
+  },
+  {
+    "number": 52,
+    "question": "Which clinical finding is described as 'HIGH YIELD Trivia' in association with LAM?",
+    "choices": [
+      "Chylothorax",
+      "Recurrent PTH elevation",
+      "Nasal septum perforation",
+      "Pectoral muscle absence",
+      "Scleroderma"
+    ],
+    "answer": "A",
+    "detail": "The association with chylothorax is HIGH YIELD trivia for LAM."
+  },
+  {
+    "number": 53,
+    "question": "Birt-Hogg-Dube (BHD) syndrome is characterized by thin-walled oval 'floppy' cysts and an association with which extrapulmonary finding?",
+    "choices": [
+      "Chylothorax",
+      "Bilateral renal masses (oncocytomas/chromophobe RCCs)",
+      "Pectoral muscle absence",
+      "Sjogren syndrome",
+      "Alpha-1 antitrypsin deficiency"
+    ],
+    "answer": "B",
+    "detail": "BHD is associated with bilateral oncocytomas and chromophobe RCCs."
+  },
+  {
+    "number": 54,
+    "question": "Which cystic lung disease has a strong association with Tuberous Sclerosis?",
+    "choices": [
+      "LCH",
+      "LAM",
+      "BHD",
+      "LIP",
+      "PCP"
+    ],
+    "answer": "B",
+    "detail": "LAM is the cystic disease associated with Tuberous Sclerosis."
+  },
+  {
+    "number": 55,
+    "question": "In the 'Battle Tactics' for the neonatal chest, 'Granular Opacities + Term + Low Lung Volume' describes:",
+    "choices": [
+      "Pneumonia",
+      "B-Hemolytic Strep",
+      "Meconium Aspiration",
+      "Transient Tachypnea",
+      "BPD"
+    ],
+    "answer": "B",
+    "detail": "Granular opacities in a term baby with low lung volumes describe B-Hemolytic Strep."
+  },
+  {
+    "number": 56,
+    "question": "'Band-like opacities' in a baby who was premature and received mechanical ventilation after 3-4 weeks is diagnostic for:",
+    "choices": [
+      "PIE",
+      "TTN",
+      "Chronic Lung Disease (BPD)",
+      "Meconium Aspiration",
+      "Surfactant-Deficient Disease"
+    ],
+    "answer": "C",
+    "detail": "Band-like opacities after 3-4 weeks define CLD/BPD."
+  },
+  {
+    "number": 57,
+    "question": "Which condition appears as 'linear lucencies' on a neonatal CXR and is a warning sign for impending pneumothorax?",
+    "choices": [
+      "BPD",
+      "SDD",
+      "Pulmonary Interstitial Emphysema (PIE)",
+      "TTN",
+      "GBS Pneumonia"
+    ],
+    "answer": "C",
+    "detail": "PIE looks like linear lucencies and is a sign of impending pneumothorax."
+  },
+  {
+    "number": 58,
+    "question": "According to the 'Sledgehammer' tactics, how should a neonate with PIE be positioned?",
+    "choices": [
+      "Upright",
+      "Prone",
+      "Bad side down",
+      "Good side down",
+      "Trendelenburg"
+    ],
+    "answer": "C",
+    "detail": "Treatment for PIE includes placing the infant bad side down."
+  },
+  {
+    "number": 59,
+    "question": "The 'Ropy appearance' of asymmetric lung densities in a post-term baby is the hallmark of:",
+    "choices": [
+      "TTN",
+      "SDD",
+      "Meconium Aspiration",
+      "GBS Pneumonia",
+      "PIE"
+    ],
+    "answer": "C",
+    "detail": "'Ropy appearance' in a post-term baby describes meconium aspiration."
+  },
+  {
+    "number": 60,
+    "question": "A history of 'C-section' or 'Maternal Sedation' in a newborn with perihilar streaky opacities and fluid in the fissures is classic for:",
+    "choices": [
+      "Meconium Aspiration",
+      "Transient Tachypnea of the Newborn (TTN)",
+      "Surfactant-Deficient Disease",
+      "PIE",
+      "BPD"
+    ],
+    "answer": "B",
+    "detail": "C-section history and fluid in fissures describe TTN."
+  },
+  {
+    "number": 61,
+    "question": "A lung transplant patient develops massive homogeneous infiltration on imaging within 12 hours of surgery. What is the most likely cause?",
+    "choices": [
+      "Reperfusion injury",
+      "Acute rejection",
+      "CMV infection",
+      "Hyperacute rejection",
+      "Bronchiolitis obliterans"
+    ],
+    "answer": "D",
+    "detail": "Hyperacute rejection (<24h) shows massive homogeneous infiltration and is often fatal."
+  },
+  {
+    "number": 62,
+    "question": "At what time point does reperfusion injury typically peak following lung transplantation?",
+    "choices": [
+      "2 hours",
+      "24 hours",
+      "Day 4",
+      "Day 14",
+      "2 months"
+    ],
+    "answer": "C",
+    "detail": "Reperfusion injury typically peaks at day 4."
+  },
+  {
+    "number": 63,
+    "question": "'Persistent pneumothorax' in a transplant patient is defined as a continuous air leak lasting more than how many days?",
+    "choices": [
+      "1 day",
+      "3 days",
+      "7 days",
+      "14 days",
+      "30 days"
+    ],
+    "answer": "C",
+    "detail": "Persistent pneumothorax/leak is defined as lasting more than 7 days."
+  },
+  {
+    "number": 64,
+    "question": "A transplant patient presents 3 weeks post-op with ground-glass opacities and intralobular septal thickening. Symptoms improve significantly after steroids. What was the diagnosis?",
+    "choices": [
+      "CMV Infection",
+      "Acute Rejection",
+      "Chronic Rejection",
+      "PTLD",
+      "Reperfusion injury"
+    ],
+    "answer": "B",
+    "detail": "Acute rejection (8d-2mo) presents with GGO and improves with steroids."
+  },
+  {
+    "number": 65,
+    "question": "What is the most common opportunistic infection in lung transplant recipients, typically rare before 2 weeks and peaking at 2-4 months?",
+    "choices": [
+      "Nocardia",
+      "Tuberculosis",
+      "CMV",
+      "EBV",
+      "Pneumocystis"
+    ],
+    "answer": "C",
+    "detail": "CMV is the most common opportunistic infection, typically rare before 2 weeks and peaking at 2-4 months."
+  },
+  {
+    "number": 66,
+    "question": "Bronchiolitis Obliterans Syndrome (BOS) is the major late complication of transplant. What is the classic finding on expiratory CT imaging seen at or after 6 months?",
+    "choices": [
+      "Ground-glass opacities",
+      "Pulmonary edema",
+      "Air trapping",
+      "Large masses",
+      "Pleural effusions"
+    ],
+    "answer": "C",
+    "detail": "Air trapping on expiration at or after 6 months signifies chronic rejection/BOS."
+  },
+  {
+    "number": 67,
+    "question": "What is the most common primary disease to recur after lung transplantation?",
+    "choices": [
+      "UIP",
+      "Scleroderma",
+      "Sarcoidosis",
+      "PAP",
+      "Cystic Fibrosis"
+    ],
+    "answer": "C",
+    "detail": "Sarcoidosis is the most common recurrent primary disease (~35%)."
+  },
+  {
+    "number": 68,
+    "question": "Post-transplant Lymphoproliferative Disorder (PTLD) is seen within the first year and is associated with which virus in 90% of cases?",
+    "choices": [
+      "HIV",
+      "HPV",
+      "CMV",
+      "EBV",
+      "SARS-CoV-2"
+    ],
+    "answer": "D",
+    "detail": "PTLD is associated with EBV in 90% of cases."
+  },
+  {
+    "number": 69,
+    "question": "If a donor lung is up to 25% larger than the recipient's chest, what is the most common radiographic finding in the immediate post-operative period?",
+    "choices": [
+      "Pneumothorax",
+      "Pneumomediastinum",
+      "Atelectasis",
+      "Pulmonary hemorrhage",
+      "Pleural effusion"
+    ],
+    "answer": "C",
+    "detail": "Size mismatch typically presents as atelectasis in the compressed lung."
+  },
+  {
+    "number": 70,
+    "question": "Regarding lung cancer after transplant, which of the following is true?",
+    "choices": [
+      "The native lung is no longer at risk.",
+      "The highest risk is in patients with pulmonary fibrosis.",
+      "Heavy tobacco use is NOT a risk factor.",
+      "Cancer typically arises within the donor lung.",
+      "Radiation therapy is contraindicated."
+    ],
+    "answer": "B",
+    "detail": "Native lung cancer risk is highest with fibrosis."
+  },
+  {
+    "number": 71,
+    "question": "Bronchial anastomotic stenosis typically develops during which timeframe post-transplant?",
+    "choices": [
+      "< 24 hours",
+      "24 hours - 1 week",
+      "1 month",
+      "2-4 months",
+      "After 5 years"
+    ],
+    "answer": "D",
+    "detail": "Bronchial anastomotic leaks occur in the first month; stenosis develops later at 2-4 months."
+  },
+  {
+    "number": 72,
+    "question": "In lung transplant, 'air trapping on expiration seen at or after 6 months' is synonymous with:",
+    "choices": [
+      "Acute rejection",
+      "Reperfusion injury",
+      "Chronic rejection",
+      "CMV infection",
+      "Hyperacute rejection"
+    ],
+    "answer": "C",
+    "detail": "Air trapping seen 6 months post-transplant is characteristic of chronic rejection."
+  },
+  {
+    "number": 73,
+    "question": "Which transplant-related complication results from a complex interaction between donor and recipient immune cells ('a beef')?",
+    "choices": [
+      "CMV Infection",
+      "Graft vs Host Disease (GvHD)",
+      "Bronchial stenosis",
+      "Reperfusion injury",
+      "PTLD"
+    ],
+    "answer": "B",
+    "detail": "GvHD is described as a complex interaction ('a beef') between donor and recipient cells."
+  },
+  {
+    "number": 74,
+    "question": "Pulmonary GvHD in bone marrow transplant patients is characterized by which finding on expiratory imaging?",
+    "choices": [
+      "Pulmonary edema",
+      "Honeycombing",
+      "Air trapping (bronchiolitis obliterans)",
+      "Large consolidations",
+      "Pleural effusions"
+    ],
+    "answer": "C",
+    "detail": "Pulmonary GvHD is characterized by air trapping (mosaic attenuation) on expiratory imaging."
+  },
+  {
+    "number": 75,
+    "question": "According to the 'Battle Tactics,' if you see air trapping 6 months after a lung transplant, you say:",
+    "choices": [
+      "Acute Rejection",
+      "CMV",
+      "Chronic Rejection / BOS",
+      "PAP",
+      "Sarcoid"
+    ],
+    "answer": "C",
+    "detail": "Air trapping 6 months post-transplant triggers this diagnosis."
+  },
+  {
+    "number": 76,
+    "question": "'Recurrence of Primary Disease after Transplant' occurs in approximately what percentage of sarcoidosis cases?",
+    "choices": [
+      "5%",
+      "10%",
+      "35%",
+      "75%",
+      "100%"
+    ],
+    "answer": "C",
+    "detail": "Sarcoidosis recurs in about 35% of transplant cases."
+  },
+  {
+    "number": 77,
+    "question": "Chronic Rejection / BOS affects what percentage of lung transplant recipients at 5 years?",
+    "choices": [
+      "10%",
+      "25%",
+      "50%",
+      "75%",
+      "95%"
+    ],
+    "answer": "C",
+    "detail": "BOS affects 50% of transplants at 5 years."
+  },
+  {
+    "number": 78,
+    "question": "Which statement is true regarding the evaluation of suspected transplant complications?",
+    "choices": [
+      "CT is the gold standard for diagnosing hyperacute rejection.",
+      "Expiratory imaging is necessary to identify air trapping in chronic rejection.",
+      "Nodal size is the only criteria for PTLD.",
+      "Reperfusion injury peaks at 14 days.",
+      "Bronchial leaks occur after 6 months."
+    ],
+    "answer": "B",
+    "detail": "Expiratory imaging is necessary to identify air trapping in chronic rejection."
+  },
+  {
+    "number": 79,
+    "question": "Immediate donor-recipient size mismatch can result in a compressed lung due to:",
+    "choices": [
+      "A donor lung that is too small",
+      "A hyperexpanded emphysematous lung",
+      "Massive pleural effusion",
+      "Tension pneumothorax",
+      "Diaphragmatic paralysis"
+    ],
+    "answer": "B",
+    "detail": "Mismatch can lead to a lung compressed by a hyperexpanded emphysematous lung."
+  },
+  {
+    "number": 80,
+    "question": "Cryptogenic Organizing Pneumonia (COP) in the transplant setting responds well to:",
+    "choices": [
+      "Antibiotics",
+      "Antifungals",
+      "Steroids",
+      "Lung lavage",
+      "Radiation"
+    ],
+    "answer": "C",
+    "detail": "COP responds well to steroids."
+  },
+  {
+    "number": 81,
+    "question": "Pulmonary Alveolar Proteinosis (PAP) is a condition where surfactant accumulates in the:",
+    "choices": [
+      "Interstitial space",
+      "Pleural space",
+      "Alveoli and terminal bronchioles",
+      "Pulmonary veins",
+      "Major bronchi"
+    ],
+    "answer": "C",
+    "detail": "Surfactant accumulates in the alveoli and terminal bronchioles in PAP."
+  },
+  {
+    "number": 82,
+    "question": "For the purpose of multiple-choice tests, what is the 'Aunt Minnie' diagnosis for a CT showing 'crazy paving'?",
+    "choices": [
+      "Pulmonary edema",
+      "Pulmonary Alveolar Proteinosis (PAP)",
+      "Acute Interstitial Pneumonia",
+      "Hemorrhage",
+      "Lipid pneumonia"
+    ],
+    "answer": "B",
+    "detail": "For tests, the answer to crazy paving is almost always PAP."
+  },
+  {
+    "number": 83,
+    "question": "Patients with Pulmonary Alveolar Proteinosis (PAP) are at a specifically increased risk for which infection?",
+    "choices": [
+      "CMV",
+      "Aspergillosis",
+      "Nocardia",
+      "TB",
+      "Mycoplasma"
+    ],
+    "answer": "C",
+    "detail": "PAP patients have an increased risk of Nocardia brain abscesses."
+  },
+  {
+    "number": 84,
+    "question": "What is the standard treatment for Pulmonary Alveolar Proteinosis (PAP)?",
+    "choices": [
+      "High-dose steroids",
+      "Broad-spectrum antibiotics",
+      "Lung transplantation",
+      "Bronchoalveolar lavage",
+      "Radiation therapy"
+    ],
+    "answer": "D",
+    "detail": "Treatment for PAP is bronchoalveolar lavage."
+  },
+  {
+    "number": 85,
+    "question": "'Crazy Paving' on CT is defined by the presence of:",
+    "choices": [
+      "Honeycombing with reticulation",
+      "Interlobular septal thickening with ground-glass",
+      "Centrilobular nodules with air trapping",
+      "Tree-in-bud with consolidation",
+      "Pleural thickening with GGO"
+    ],
+    "answer": "B",
+    "detail": "The combination of interlobular septal thickening with ground-glass defines 'crazy paving'."
+  },
+  {
+    "number": 86,
+    "question": "Lipoid pneumonia seen in elderly patients is most commonly caused by the aspiration of:",
+    "choices": [
+      "Gastric acid",
+      "Vegetable oil",
+      "Mineral oil (as a laxative)",
+      "Hydrocarbons",
+      "Red blood cells"
+    ],
+    "answer": "C",
+    "detail": "Elderly patients who drink mineral oil as a laxative can develop lipoid pneumonia."
+  },
+  {
+    "number": 87,
+    "question": "A CT demonstrating consolidation with 'low attenuation / fat density' values is a 'dead give away' for:",
+    "choices": [
+      "Organizing pneumonia",
+      "PAP",
+      "Lipoid pneumonia",
+      "Sarcoidosis",
+      "UIP"
+    ],
+    "answer": "C",
+    "detail": "Consolidation with fat density/low attenuation is the classic look for lipoid pneumonia."
+  },
+  {
+    "number": 88,
+    "question": "'Acute Exogenous Lipoid Pneumonia' is classically associated with which clinical scenario?",
+    "choices": [
+      "Chronic laxative use",
+      "Post-obstructive cancer",
+      "Fire-eating or flame blowing",
+      "Severe asthma",
+      "HIV infection"
+    ],
+    "answer": "C",
+    "detail": "These activities are linked to acute exogenous lipoid pneumonia."
+  },
+  {
+    "number": 89,
+    "question": "Endogenous lipoid pneumonia results from which underlying process?",
+    "choices": [
+      "Accidental hydrocarbon poisoning",
+      "Chronic mineral oil ingestion",
+      "Post-obstructive processes (e.g., cancer)",
+      "Fire-eating",
+      "Alymphoplasia"
+    ],
+    "answer": "C",
+    "detail": "Endogenous lipoid pneumonia results from post-obstructive processes (e.g., cancer)."
+  },
+  {
+    "number": 90,
+    "question": "Organizing Pneumonia (COP) is not an active infection, but instead represents:",
+    "choices": [
+      "Fibrosis of the pleura",
+      "Granulation tissue deposition within alveolar spaces",
+      "Accumulation of red blood cells",
+      "Malignant transformation",
+      "Surfactant deficiency"
+    ],
+    "answer": "B",
+    "detail": "Organizing pneumonia is characterized by granulation tissue deposition within alveolar spaces."
+  },
+  {
+    "number": 91,
+    "question": "A patient presents with 'persistent symptoms' (cough, fever, SOB) for several months following a treated pneumonia. CT shows the 'Reverse Halo' (Atoll) sign. What is the diagnosis?",
+    "choices": [
+      "Invasive Aspergillosis",
+      "Cryptogenic Organizing Pneumonia (COP)",
+      "Pulmonary infarct",
+      "Sarcoidosis",
+      "NSIP"
+    ],
+    "answer": "B",
+    "detail": "Persistent symptoms and the Reverse Halo are clues for COP."
+  },
+  {
+    "number": 92,
+    "question": "The 'Reverse Halo' or 'Atoll' sign consists of:",
+    "choices": [
+      "A nodule with a ground-glass halo",
+      "Ground glass surrounded by a ring of consolidation",
+      "Central consolidation with a ground-glass rim",
+      "Multiple small cysts in a circle",
+      "Air trapping surrounding a normal lung"
+    ],
+    "answer": "B",
+    "detail": "The Atoll sign is defined as ground glass surrounded by a ring of consolidation."
+  },
+  {
+    "number": 93,
+    "question": "Which of the following conditions classically presents with peripheral ground-glass or consolidation favoring the outer 2/3 of the lungs?",
+    "choices": [
+      "PAP",
+      "Organizing Pneumonia",
+      "Chronic Eosinophilic Pneumonia",
+      "HP",
+      "UIP"
+    ],
+    "answer": "C",
+    "detail": "Peripheral consolidation favoring the outer 2/3 of upper lobes describes Chronic Eosinophilic Pneumonia."
+  },
+  {
+    "number": 94,
+    "question": "Chronic Eosinophilic Pneumonia is associated with a history of which condition in about 50% of cases?",
+    "choices": [
+      "Smoking",
+      "Sjogren Syndrome",
+      "Asthma",
+      "Occupational dust exposure",
+      "Diabetes"
+    ],
+    "answer": "C",
+    "detail": "An asthma history is found in 50% of chronic eosinophilic pneumonia cases."
+  },
+  {
+    "number": 95,
+    "question": "The 'Headcheese' sign on CT, a juxtaposition of ground-glass, mosaic attenuation (air trapping), and normal lung, is a buzzword for:",
+    "choices": [
+      "UIP",
+      "Sarcoidosis",
+      "Hypersensitivity Pneumonitis (HP)",
+      "Organizing Pneumonia",
+      "Berylliosis"
+    ],
+    "answer": "C",
+    "detail": "Juxtaposition of these three regions is the 'Headcheese' sign of HP."
+  },
+  {
+    "number": 96,
+    "question": "To properly identify air trapping in a patient suspected of having subacute HP, what CT protocol is necessary?",
+    "choices": [
+      "Prone CT",
+      "High-resolution inspiratory CT",
+      "Post-contrast CT",
+      "Expiratory CT",
+      "4D-CT"
+    ],
+    "answer": "D",
+    "detail": "Air trapping (mosaic attenuation) is identified or made worse on expiratory CT."
+  },
+  {
+    "number": 97,
+    "question": "Which of the following is the 'Classic' cause of a regular Halo Sign (nodule with ground-glass around it)?",
+    "choices": [
+      "COP",
+      "Invasive Aspergillosis",
+      "PAP",
+      "Pulmonary infarct",
+      "TB"
+    ],
+    "answer": "B",
+    "detail": "Invasive Aspergillosis is the classic cause of a regular halo sign."
+  },
+  {
+    "number": 98,
+    "question": "In the 'C.R.A.Z.Y. Paving' mnemonic, what does the 'Z' (Zipper) stand for?",
+    "choices": [
+      "Zenker diverticulum",
+      "Zone of transition",
+      "Lipoid pneumonia (being too fat to zip pants)",
+      "Zygomycosis",
+      "Zostavax reaction"
+    ],
+    "answer": "C",
+    "detail": "The mnemonic 'Zipper' refers to lipoid pneumonia."
+  },
+  {
+    "number": 99,
+    "question": "The 'Reverse Halo Pattern' is a described typical finding in which acute condition?",
+    "choices": [
+      "TB",
+      "Influenza",
+      "COVID-19",
+      "Mumps",
+      "HIV"
+    ],
+    "answer": "C",
+    "detail": "The reverse halo pattern is a typical finding of acute COVID."
+  },
+  {
+    "number": 100,
+    "question": "Why is a soft tissue window useful when evaluating pulmonary consolidations?",
+    "choices": [
+      "To look for air bronchograms",
+      "To identify fat density (e.g., in Lipoid Pneumonia)",
+      "To better see the fissures",
+      "To measure the size of a nodule",
+      "To identify honeycombing"
+    ],
+    "answer": "B",
+    "detail": "A soft tissue window is used to identify fat density."
+  }
+]
+   
+}

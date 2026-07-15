@@ -1,0 +1,1307 @@
+{
+    "questions": 
+    
+[
+  {
+    "number": 1,
+    "question": "Which pancreatic change is most common in patients with Cystic Fibrosis (CF)?",
+    "choices": [
+      "Fibrosis",
+      "Complete fatty replacement",
+      "Cystic neuroendocrine tumor",
+      "Pancreatic divisum",
+      "Dorsal agenesis"
+    ],
+    "answer": "B",
+    "detail": "While both fibrosis and fatty replacement occur, complete fatty replacement is the most common imaging finding in adult CF."
+  },
+  {
+    "number": 2,
+    "question": "The term \"lipomatous pseudohypertrophy\" of the pancreas refers to which condition?",
+    "choices": [
+      "A solid malignancy",
+      "Pancreatic enlargement due to fatty replacement in CF",
+      "Chronic pancreatitis from alcohol",
+      "Shwachman-Diamond syndrome",
+      "Viral pancreatitis"
+    ],
+    "answer": "B",
+    "detail": "An enlarged pancreas with fatty replacement is termed lipomatous pseudohypertrophy, which is a buzzword for CF."
+  },
+  {
+    "number": 3,
+    "question": "Which pediatric syndrome features a triad of diarrhea, short stature (metaphyseal chondroplasia), and eczema?",
+    "choices": [
+      "Alagille Syndrome",
+      "Beckwith-Wiedemann Syndrome",
+      "Shwachman-Diamond Syndrome",
+      "VACTERL association",
+      "Potter Sequence"
+    ],
+    "answer": "C",
+    "detail": "Shwachman-Diamond Syndrome is the 2nd most common cause of pancreatic insufficiency in kids and features this specific triad."
+  },
+  {
+    "number": 4,
+    "question": "Dorsal Pancreatic Agenesis, resulting in a pancreas without a tail, is characteristically associated with:",
+    "choices": [
+      "Asplenia",
+      "Polysplenia",
+      "Down Syndrome",
+      "Turner Syndrome",
+      "Horseshoe kidney"
+    ],
+    "answer": "B",
+    "detail": "This embryologic failure is associated with polysplenia and increases the risk of diabetes because most beta cells are in the tail."
+  },
+  {
+    "number": 5,
+    "question": "What is the most common cause of pancreatitis in the pediatric population?",
+    "choices": [
+      "Gallstones",
+      "Alcohol abuse",
+      "Trauma (e.g., seatbelt or bicycle handlebar injury)",
+      "Viral infection",
+      "Scorpion bite"
+    ],
+    "answer": "C",
+    "detail": "Trauma (specifically seatbelt injuries) is the leading cause of pediatric pancreatitis; if the child is too young, non-accidental trauma (NAT) must be considered."
+  },
+  {
+    "number": 6,
+    "question": "Which pancreatic tumor is most commonly found in female adolescents and has an excellent prognosis after resection?",
+    "choices": [
+      "Pancreatoblastoma",
+      "Solid and Papillary Epithelial Neoplasm (SPEN)",
+      "Adenocarcinoma",
+      "Insulinoma",
+      "Gastrinoma"
+    ],
+    "answer": "B",
+    "detail": "SPEN (Solid Pseudopapillary Tumor) is the most common solid pancreatic tumor in this demographic."
+  },
+  {
+    "number": 7,
+    "question": "If you identify a solid pancreatic mass in a 1-year-old child, the most likely diagnosis is:",
+    "choices": [
+      "SPEN",
+      "Pancreatoblastoma",
+      "Adenocarcinoma",
+      "Lymphoma",
+      "Metastasis"
+    ],
+    "answer": "B",
+    "detail": "For pediatric pancreatic masses, age is the discriminator; a mass at age 1 is likely a pancreatoblastoma."
+  },
+  {
+    "number": 8,
+    "question": "An infant under age 1 with a liver mass and high-output congestive heart failure (CHF) likely has:",
+    "choices": [
+      "Hepatoblastoma",
+      "Infantile Hepatic Hemangioma",
+      "Mesenchymal Hamartoma",
+      "HCC",
+      "Angiosarcoma"
+    ],
+    "answer": "B",
+    "detail": "Infantile Hepatic Hemangioma is often associated with high-output CHF, classically shown as a large heart on a chest X-ray plus a liver mass."
+  },
+  {
+    "number": 9,
+    "question": "Which platelet-consuming condition is associated with infantile hepatic hemangiomas?",
+    "choices": [
+      "Alagille Syndrome",
+      "Kasabach-Merritt Syndrome",
+      "Budd-Chiari Syndrome",
+      "HELLP Syndrome",
+      "Meigs Syndrome"
+    ],
+    "answer": "B",
+    "detail": "Kasabach-Merritt Syndrome is known as the \"platelet eater\" and is associated with these vascular tumors."
+  },
+  {
+    "number": 10,
+    "question": "What is the most common primary liver malignancy of childhood (typically occurring in those < 5 years old)?",
+    "choices": [
+      "HCC",
+      "Hepatoblastoma",
+      "Mesenchymal Hamartoma",
+      "Undifferentiated embryonal sarcoma",
+      "Infantile hemangioma"
+    ],
+    "answer": "B",
+    "detail": "Hepatoblastoma is the most common primary liver tumor in young children."
+  },
+  {
+    "number": 11,
+    "question": "Which syndrome is characteristically associated with Hepatoblastoma?",
+    "choices": [
+      "Turner Syndrome",
+      "Beckwith-Wiedemann Syndrome",
+      "DiGeorge Syndrome",
+      "Klinefelter Syndrome",
+      "Williams Syndrome"
+    ],
+    "answer": "B",
+    "detail": "Beckwith-Wiedemann (macroglossia, omphalocele, hemihypertrophy) has a strong association with hepatoblastoma and Wilms tumor."
+  },
+  {
+    "number": 12,
+    "question": "Precocious puberty in a child with a liver mass is a known complication of Hepatoblastoma due to the production of:",
+    "choices": [
+      "AFP",
+      "bHCG",
+      "Estrogen",
+      "Testosterone",
+      "Growth hormone"
+    ],
+    "answer": "B",
+    "detail": "Hepatoblastoma may make bHCG, which triggers precocious puberty."
+  },
+  {
+    "number": 13,
+    "question": "A \"predominantly cystic mass\" in the liver of a newborn with a NEGATIVE alpha-fetoprotein (AFP) is characteristic of:",
+    "choices": [
+      "Hepatoblastoma",
+      "Mesenchymal Hamartoma",
+      "Infantile hemangioma",
+      "HCC",
+      "Abscess"
+    ],
+    "answer": "B",
+    "detail": "Mesenchymal hamartoma is a cystic \"developmental anomaly\" that characteristically has a negative AFP."
+  },
+  {
+    "number": 14,
+    "question": "The \"Fibrolamellar Subtype\" of HCC is typically seen in young patients without cirrhosis and features which MRI finding?",
+    "choices": [
+      "A central scar that is T2 bright",
+      "A central scar that is T2 dark",
+      "Diffuse fatty infiltration",
+      "Absence of calcification",
+      "High AFP levels"
+    ],
+    "answer": "B",
+    "detail": "Unlike Focal Nodular Hyperplasia (FNH), the fibrolamellar scar is T2 dark and does not enhance."
+  },
+  {
+    "number": 15,
+    "question": "Fetal hepatomegaly and a \"big placenta\" seen on prenatal ultrasound after 20 weeks is classic for:",
+    "choices": [
+      "Maternal diabetes",
+      "Congenital Syphilis",
+      "Rh incompatibility",
+      "Down Syndrome",
+      "CMV infection"
+    ],
+    "answer": "B",
+    "detail": "Congenital syphilis is the classic scenario for fetal hepatomegaly and a large placenta."
+  },
+  {
+    "number": 16,
+    "question": "\"Transient Abnormal Myelopoiesis\" (TAM) is a pre-leukemic syndrome causing fetal hepatomegaly exclusively seen in:",
+    "choices": [
+      "Turner Syndrome",
+      "Down Syndrome (Trisomy 21)",
+      "Klinefelter Syndrome",
+      "Potter Sequence",
+      "VACTERL"
+    ],
+    "answer": "B",
+    "detail": "TAM is only seen in Downs patients and often resolves spontaneously, though some cases progress to myeloid leukemia."
+  },
+  {
+    "number": 17,
+    "question": "What is the most definitive imaging finding for Biliary Atresia?",
+    "choices": [
+      "Dilated CBD",
+      " \"Triangle Cord Sign\" on ultrasound",
+      "Large, distended gallbladder",
+      "Air in the biliary tree",
+      "High AFP"
+    ],
+    "answer": "B",
+    "detail": "The Triangle Cord Sign and an absent or small gallbladder are key ultrasound features of biliary atresia."
+  },
+  {
+    "number": 18,
+    "question": "Which nuclear medicine study is the test of choice to distinguish Biliary Atresia from Neonatal Hepatitis?",
+    "choices": [
+      "Sulfur Colloid",
+      "Hepatobiliary Scintigraphy (HIDA)",
+      "I-123",
+      "Gallium",
+      "Octreotide"
+    ],
+    "answer": "B",
+    "detail": "HIDA is used; if tracer reaches the bowel (even on 24-hour delays), it is hepatitis, not atresia."
+  },
+  {
+    "number": 19,
+    "question": "What medication is often used to \"prime\" hepatocytes prior to a HIDA scan for suspected Biliary Atresia?",
+    "choices": [
+      "Aspirin",
+      "Phenobarbital",
+      "Glucagon",
+      "Heparin",
+      "Morphine"
+    ],
+    "answer": "B",
+    "detail": "Phenobarbital upregulates the cytochrome system to increase the utility of the test."
+  },
+  {
+    "number": 20,
+    "question": "If you see a pediatric patient with gallstones, you should lead with a diagnosis of:",
+    "choices": [
+      "Down Syndrome",
+      "Sickle Cell Disease",
+      "CF",
+      "Turner Syndrome",
+      "Diabetes"
+    ],
+    "answer": "B",
+    "detail": "Sickle cell patients are highly prone to gallstones due to chronic hemolysis."
+  },
+  {
+    "number": 21,
+    "question": "An \"Acute Splenic Sequestration Crisis\" in a young Sickle Cell patient is characterized by:",
+    "choices": [
+      "A tiny, calcified spleen",
+      "A rapidly enlarging \"greedy\" spleen that hogs blood",
+      "Multiple accessory spleens",
+      "Absence of the spleen",
+      "Splenic artery aneurysm"
+    ],
+    "answer": "B",
+    "detail": "In sequestration, the spleen becomes a \"greedy little pig\" and traps blood, leading to potentially fatal volume loss."
+  },
+  {
+    "number": 22,
+    "question": "By age 8, most Sickle Cell patients have an \"Auto-Infarcted Spleen,\" which radiographic appearance is typical?",
+    "choices": [
+      "Massive splenomegaly",
+      "A tiny (e.g., 1 cm) and often calcified spleen",
+      "A \"tiger striped\" enhancement pattern",
+      "Multiple hypoechoic nodules",
+      "Cystic replacement"
+    ],
+    "answer": "B",
+    "detail": "Chronic micro-occlusions lead to progressive atrophy and a tiny, calcified spleen."
+  },
+  {
+    "number": 23,
+    "question": "\"Asplenia\" (Right Isomerism) is characteristically associated with which abdominal finding?",
+    "choices": [
+      "Interrupted IVC with azygos continuation",
+      "Reversed Aorta/IVC relationship",
+      "Polysplenia",
+      "Two fissures in the left lung",
+      "Biliary atresia"
+    ],
+    "answer": "B",
+    "detail": "Asplenia features reversed Aorta/IVC and is associated with severe congenital heart disease and two right lungs."
+  },
+  {
+    "number": 24,
+    "question": "\"Polysplenia\" (Left Isomerism) is characteristically associated with:",
+    "choices": [
+      "Reversed Aorta/IVC",
+      "Interrupted IVC with Azygos continuation",
+      "Two fissures in the right lung",
+      "High risk of TAPVR",
+      "Absence of the gallbladder"
+    ],
+    "answer": "B",
+    "detail": "Polysplenia features azygos continuation and has a 10% association with biliary atresia."
+  },
+  {
+    "number": 25,
+    "question": "Which lung fissure pattern defines \"bilateral right-sidedness\" in Heterotaxy?",
+    "choices": [
+      "One fissure in each lung",
+      "Two fissures (major and minor) in each lung",
+      "No fissures in the left lung",
+      "One fissure in the left, none in the right",
+      "Fissures are never seen in heterotaxy"
+    ],
+    "answer": "B",
+    "detail": "Having a left-sided minor fissure (two fissures on both sides) means the patient has two right lungs."
+  },
+  {
+    "number": 26,
+    "question": "For normal MRI signal characteristics, the pancreas is described as the:",
+    "choices": [
+      "Darkest T1 structure",
+      "Brightest T1 structure in the body",
+      "Brightest T2 structure",
+      "Most restricted on DWI",
+      "Same as the spleen"
+    ],
+    "answer": "B",
+    "detail": "The pancreas is the brightest T1 structure because of its enzyme content."
+  },
+  {
+    "number": 27,
+    "question": "On MRI, the spleen is best thought of as a \"bag of water/blood,\" meaning it is:",
+    "choices": [
+      "T1 bright and T2 dark",
+      "T1 dark and T2 bright",
+      "Dark on all sequences",
+      "Isointense to liver",
+      "Fatty on Out-of-Phase"
+    ],
+    "answer": "B",
+    "detail": "The spleen is T2 bright and T1 dark and will restrict diffusion like a lymph node."
+  },
+  {
+    "number": 28,
+    "question": "\"Mesenteric Adenitis\" is a classic clinical mimic of which condition?",
+    "choices": [
+      "Pyloric stenosis",
+      "Appendicitis",
+      "Midgut volvulus",
+      "Hirschsprung disease",
+      "Intussusception"
+    ],
+    "answer": "B",
+    "detail": "This viral condition presents with large RLQ lymph nodes that mimic appendicitis."
+  },
+  {
+    "number": 29,
+    "question": "What is the most definitive imaging finding for Necrotizing Enterocolitis (NEC)?",
+    "choices": [
+      "Dilated bowel loops",
+      "Pneumatosis intestinalis",
+      "Ascites",
+      "Splenomegaly",
+      "Thicked gallbladder wall"
+    ],
+    "answer": "B",
+    "detail": "Pneumatosis (air in the wall) is the hallmark; look for portal venous gas next as an ominous sign."
+  },
+  {
+    "number": 30,
+    "question": "Which region of the bowel is most commonly affected by NEC?",
+    "choices": [
+      "Stomach",
+      "Proximal duodenum",
+      "Terminal ileum and right colon",
+      "Descending colon",
+      "Rectum"
+    ],
+    "answer": "C",
+    "detail": "The terminal ileum and right colon are the most frequent sites of NEC."
+  },
+  {
+    "number": 31,
+    "question": "How can you tell \"Pneumatosis\" from \"Poop\" in a neonate?",
+    "choices": [
+      "Poop is always darker",
+      "Poop will move on serial films; pneumatosis stays still",
+      "Poop is only seen in the stomach",
+      "Pneumatosis only occurs after age 1",
+      "There is no way to tell them apart"
+    ],
+    "answer": "B",
+    "detail": "Poop moves, whereas pneumatosis remains stationary."
+  },
+  {
+    "number": 32,
+    "question": "What is the only parameter associated with a DECREASED incidence of NEC?",
+    "choices": [
+      "Early formula feeding",
+      "Use of maternal breast milk",
+      "Probiotic supplementation",
+      "C-section delivery",
+      "Prophylactic antibiotics"
+    ],
+    "answer": "B",
+    "detail": "Maternal breast milk is protective against NEC."
+  },
+  {
+    "number": 33,
+    "question": "In Biliary Atresia, the corrective surgery that must be performed early (ideally before 3 months) is the:",
+    "choices": [
+      "Ross procedure",
+      "Kasai procedure",
+      "Ladd’s procedure",
+      "Sistrunk procedure",
+      "Fontan procedure"
+    ],
+    "answer": "B",
+    "detail": "The Kasai procedure is the necessary surgery for biliary atresia."
+  },
+  {
+    "number": 34,
+    "question": "A \"L/ver Scan Sign\" on a hepatobiliary scan describes:",
+    "choices": [
+      "Normal hepatic function",
+      "Biliary obstruction (lack of duct visualization due to back pressure)",
+      "Neonatal hepatitis",
+      "Fatty infiltration",
+      "Splenic sequestration"
+    ],
+    "answer": "B",
+    "detail": "This sign is seen in obstructed systems where the ducts are not seen."
+  },
+  {
+    "number": 35,
+    "question": "Pancreatic echogenicity on ultrasound should normally be:",
+    "choices": [
+      "Less than the liver",
+      "Greater than the normal liver",
+      "Equal to the gallbladder",
+      "Anechoic",
+      "Symmetrical with the spleen"
+    ],
+    "answer": "B",
+    "detail": "The pancreatic echogenicity should be higher than that of the liver."
+  },
+  {
+    "number": 36,
+    "question": "\"Fibrosing Colonopathy\" is a thick-walled right colon condition seen as a complication of:",
+    "choices": [
+      "Diabetes",
+      "Enzyme replacement therapy in CF",
+      "Chronic constipation",
+      "Syphilis",
+      "Trauma"
+    ],
+    "answer": "B",
+    "detail": "This is a recognized complication of pancreatic enzyme therapy."
+  },
+  {
+    "number": 37,
+    "question": "Which liver tumor is associated with elevated Endothelial Growth Factor (EGF)?",
+    "choices": [
+      "Hepatoblastoma",
+      "Infantile Hepatic Hemangioma",
+      "Mesenchymal Hamartoma",
+      "HCC",
+      "Sarcoma"
+    ],
+    "answer": "B",
+    "detail": "EGF is elevated in patients with these vascular tumors."
+  },
+  {
+    "number": 38,
+    "question": "\"Undifferentiated Embryonal Sarcoma\" of the liver is cystic and aggressive, and is known for its risk of:",
+    "choices": [
+      "Spontaneous calcification",
+      "Rupture",
+      "Transforming into a hemangioma",
+      "Secreting bHCG",
+      "Resolving after age 5"
+    ],
+    "answer": "B",
+    "detail": "This mass is known to be aggressive and prone to rupture."
+  },
+  {
+    "number": 39,
+    "question": "In a newborn with suspected Biliary Atresia, a normal gallbladder found on ultrasound:",
+    "choices": [
+      "Confirms the diagnosis",
+      "Supports a diagnosis of neonatal hepatitis instead",
+      "Indicates the need for immediate surgery",
+      "Is only seen in Alagille Syndrome",
+      "Excludes all biliary pathology"
+    ],
+    "answer": "B",
+    "detail": "A normal gallbladder supports hepatitis; an absent one supports biliary atresia."
+  },
+  {
+    "number": 40,
+    "question": "Alagille Syndrome features hereditary cholestasis and which characteristic vascular finding?",
+    "choices": [
+      "Aortic coarctation",
+      "Peripheral pulmonary stenosis",
+      "Replaced right hepatic artery",
+      "Renal artery stenosis",
+      "Coronary artery aneurysms"
+    ],
+    "answer": "B",
+    "detail": "Peripheral pulmonary stenosis is the key trivia association for Alagille."
+  },
+  {
+    "number": 41,
+    "question": "\"Bilateral Renal Agenesis\" results in which sequence of events?",
+    "choices": [
+      "High amniotic fluid → Polyhydramnios → Large heart",
+      "No pee → No amniotic fluid → Hypoplastic lungs (Potter Sequence)",
+      "Kidney fusion → Horseshoe shape → Turner syndrome",
+      "Large bladder → UPJ obstruction → Flank pain",
+      "Renal thrombosis → Hypertension → Heart failure"
+    ],
+    "answer": "B",
+    "detail": "Potter Sequence is defined by the lack of fetal urine leading to oligohydramnios and hypoplastic lungs."
+  },
+  {
+    "number": 42,
+    "question": "Unilateral renal agenesis in a female patient is associated with genital anomalies (e.g., unicornuate uterus) in what percentage of cases?",
+    "choices": [
+      "10%",
+      "30%",
+      "50%",
+      "70%",
+      "90%"
+    ],
+    "answer": "D",
+    "detail": "There is a high (70%) association between unilateral agenesis and unicornuate uterus in women."
+  },
+  {
+    "number": 43,
+    "question": "The \"Pancake Adrenal\" (Lying Down Adrenal) sign helps differentiate:",
+    "choices": [
+      "Adrenal hemorrhage from neuroblastoma",
+      "Surgical absence from congenital absence of the kidney",
+      "Hyperplasia from hemorrhage",
+      "Horseshoe kidney from normal kidney",
+      "Left from right side"
+    ],
+    "answer": "B",
+    "detail": "A flat, elongated adrenal occurs when it is not \"molded\" by an adjacent kidney, indicating congenital absence."
+  },
+  {
+    "number": 44,
+    "question": "What is the most common fusion anomaly of the kidneys?",
+    "choices": [
+      "Crossed fused renal ectopia",
+      "Horseshoe Kidney",
+      "Duplicated collecting system",
+      "Pelvic kidney",
+      "Malrotated kidney"
+    ],
+    "answer": "B",
+    "detail": "Horseshoe kidney is the most common."
+  },
+  {
+    "number": 45,
+    "question": "Horseshoe kidneys get \"hung up\" during their embryologic ascent by which vessel?",
+    "choices": [
+      "SMA",
+      "IMA",
+      "Celiac artery",
+      "Portal vein",
+      "Inferior epigastric artery"
+    ],
+    "answer": "B",
+    "detail": "Ascent is stopped by the Inferior Mesenteric Artery (IMA)."
+  },
+  {
+    "number": 46,
+    "question": "Which syndrome is the classic testable association for a Horseshoe Kidney?",
+    "choices": [
+      "Down Syndrome",
+      "Turner Syndrome (45, XO)",
+      "Klinefelter Syndrome",
+      "Beckwith-Wiedemann",
+      "VACTERL"
+    ],
+    "answer": "B",
+    "detail": "Turner's babies have a high incidence of horseshoe kidneys."
+  },
+  {
+    "number": 47,
+    "question": "In \"Crossed Fused Renal Ectopia,\" which statement is true?",
+    "choices": [
+      "The ectopic kidney is typically superior.",
+      "The ectopic kidney is inferior.",
+      "The right kidney usually crosses to the left.",
+      "It is most common in females.",
+      "It is never associated with VACTERL."
+    ],
+    "answer": "B",
+    "detail": "The ectopic kidney is inferior, and the left kidney more commonly crosses to the right."
+  },
+  {
+    "number": 48,
+    "question": "A teenager presents with flank pain occurring only after \"drinking lots of fluids.\" What is the diagnosis?",
+    "choices": [
+      "Renal stones",
+      "Congenital UPJ Obstruction",
+      "Pyelonephritis",
+      "Diabetes insipidus",
+      "VUR"
+    ],
+    "answer": "B",
+    "detail": "This is the classic history for UPJ obstruction, often caused by a kink in the circular muscle bundle."
+  },
+  {
+    "number": 49,
+    "question": "Congenital UPJ obstruction characteristically does NOT feature:",
+    "choices": [
+      "A dilated renal pelvis",
+      "Cortical thinning",
+      "Dilated ureters (Hydro-ureter)",
+      "Bilateral involvement in 20%",
+      "Delayed excretion on HIDA/MAG3"
+    ],
+    "answer": "C",
+    "detail": "There is NO HYDROURETER in UPJ obstruction."
+  },
+  {
+    "number": 50,
+    "question": "\"Autosomal Recessive Polycystic Kidney Disease\" (ARPKD) is ALWAYS associated with:",
+    "choices": [
+      "Pancreatic cysts",
+      "Congenital hepatic fibrosis",
+      "Splenic infarcts",
+      "Berry aneurysms",
+      "RCC"
+    ],
+    "answer": "B",
+    "detail": "Congenital hepatic fibrosis is an absolute requirement for the diagnosis of ARPKD."
+  },
+  {
+    "number": 51,
+    "question": "What is the relationship between liver and kidney disease in ARPKD?",
+    "choices": [
+      "They are directly proportional.",
+      "The ratio is inverse (worse liver = better kidneys).",
+      "They never occur together.",
+      "The kidneys always fail before the liver.",
+      "There is no predictable relationship."
+    ],
+    "answer": "B",
+    "detail": "The liver/kidney involvement is inverse."
+  },
+  {
+    "number": 52,
+    "question": "\"Neonatal Renal Vein Thrombosis\" is most commonly associated with which maternal condition?",
+    "choices": [
+      "Preeclampsia",
+      "Diabetes",
+      "Hypothyroidism",
+      "Rubella",
+      "Smoking"
+    ],
+    "answer": "B",
+    "detail": "It is seen in infants of diabetic mothers and presents with an enlarged kidney if acute."
+  },
+  {
+    "number": 53,
+    "question": "\"Neonatal Renal Artery Thrombosis\" is usually a secondary complication of:",
+    "choices": [
+      "Maternal sepsis",
+      "Umbilical artery catheters (UAC)",
+      "Birth trauma",
+      "Renal agenesis",
+      "Maternal cocaine use"
+    ],
+    "answer": "B",
+    "detail": "UAC placement is the primary risk factor for renal artery thrombosis."
+  },
+  {
+    "number": 54,
+    "question": "\"Prune Belly\" (Eagle Barrett Syndrome) is a triad in males including abdominal muscle deficiency, cryptorchidism, and:",
+    "choices": [
+      "Biliary atresia",
+      "Hydroureteronephrosis",
+      "Omphalocele",
+      "Tracheal stenosis",
+      "Polydactyly"
+    ],
+    "answer": "B",
+    "detail": "Hydroureteronephrosis is the third part of the triad."
+  },
+  {
+    "number": 55,
+    "question": "Which \"wastebasket\" term describes an enlarged ureter that is NOT the result of a distal obstruction?",
+    "choices": [
+      "UPJ obstruction",
+      "Congenital (primary) MEGAureter",
+      "Retrocaval ureter",
+      "Posterior urethral valves",
+      "VUR"
+    ],
+    "answer": "B",
+    "detail": "Primary megaureter is an intrinsic enlargement often due to a distal adynamic segment."
+  },
+  {
+    "number": 56,
+    "question": "A \"reverse J\" or \"fishhook\" appearance of the ureter on an IVP is characteristic of:",
+    "choices": [
+      "Megaureter",
+      "Retrocaval Ureter (circumcaval)",
+      "Duplicated system",
+      "UPJ obstruction",
+      "Pelvic kidney"
+    ],
+    "answer": "B",
+    "detail": "This appearance is diagnostic of a retrocaval ureter."
+  },
+  {
+    "number": 57,
+    "question": "According to the \"Weigert-Meyer Rule\" for a duplicated system, the upper pole ureter inserts:",
+    "choices": [
+      "Superior and lateral",
+      "Inferior and medial",
+      "Directly into the vagina",
+      "Into the urethra only",
+      "Always into a diverticulum"
+    ],
+    "answer": "B",
+    "detail": "The upper pole inserts inferior and medial and is prone to obstruction/ureterocele."
+  },
+  {
+    "number": 58,
+    "question": "According to the \"Weigert-Meyer Rule,\" which pole of a duplicated system is prone to reflux?",
+    "choices": [
+      "Upper pole",
+      "Lower pole",
+      "Both poles",
+      "Neither pole",
+      "Only in females"
+    ],
+    "answer": "B",
+    "detail": "The lower pole ureter inserts superiorly and is prone to reflux."
+  },
+  {
+    "number": 59,
+    "question": "A cystic dilation of the intravesicular ureter producing a \"cobra head\" sign is a:",
+    "choices": [
+      "Ureterocele",
+      "Bladder diverticulum",
+      "Urachal cyst",
+      "Ectopic ureter",
+      "Megaureter"
+    ],
+    "answer": "A",
+    "detail": "Ureteroceles are associated with the upper pole of a duplicated system."
+  },
+  {
+    "number": 60,
+    "question": "What is the most common cause of urethral obstruction in male infants?",
+    "choices": [
+      "Pyloric stenosis",
+      "Posterior Urethral Valves (PUV)",
+      "Ureteral ectopia",
+      "Bladder exstrophy",
+      "Megaureter"
+    ],
+    "answer": "B",
+    "detail": "PUV is the #1 cause of male infant outlet obstruction."
+  },
+  {
+    "number": 61,
+    "question": "A \"keyhole\" appearance of the bladder on fetal MRI or ultrasound suggests:",
+    "choices": [
+      "UPJ obstruction",
+      "Posterior Urethral Valves (PUV)",
+      "VUR",
+      "Prune Belly",
+      "Urachal remnant"
+    ],
+    "answer": "B",
+    "detail": "The keyhole bladder is caused by a dilated posterior urethra in PUV."
+  },
+  {
+    "number": 62,
+    "question": "What is the GOLD STANDARD for evaluating the anatomy of suspected PUV?",
+    "choices": [
+      "MRI",
+      "Ultrasound",
+      "Voiding Cystourethrogram (VCUG)",
+      "MAG3",
+      "CT"
+    ],
+    "answer": "C",
+    "detail": "VCUG is the gold standard."
+  },
+  {
+    "number": 63,
+    "question": "\"Peri-renal fluid collection\" in a neonate with obstruction is the result of:",
+    "choices": [
+      "Heart failure",
+      "Forniceal rupture",
+      "Cystic Fibrosis",
+      "Renal vein thrombosis",
+      "TAM"
+    ],
+    "answer": "B",
+    "detail": "Forniceal rupture from high back pressure produces a peri-renal fluid collection."
+  },
+  {
+    "number": 64,
+    "question": "Hydronephrosis is the most common cause of which physical exam finding in childhood?",
+    "choices": [
+      "Scrotal edema",
+      "A palpable renal \"mass\"",
+      "Impotence",
+      "Precocious puberty",
+      "Jaundice"
+    ],
+    "answer": "B",
+    "detail": "Hydronephrosis is the leading cause of a palpable renal mass."
+  },
+  {
+    "number": 65,
+    "question": "A \"Hutch\" Diverticulum is a congenital bladder diverticulum associated with:",
+    "choices": [
+      "Posterior urethral valves",
+      "Ipsilateral reflux (secondary VUR)",
+      "Urachal cancer",
+      "PUV",
+      "Neurogenic bladder"
+    ],
+    "answer": "B",
+    "detail": "Hutch diverticula occur near the UVJ and cause secondary reflux."
+  },
+  {
+    "number": 66,
+    "question": "Urachal anomalies (spectrum of persistent canalization) are twice as common in:",
+    "choices": [
+      "Girls",
+      "Boys",
+      "Premature infants",
+      "Infants with Downs",
+      "Infants of diabetic mothers"
+    ],
+    "answer": "B",
+    "detail": "Urachal anomalies are more frequent in boys."
+  },
+  {
+    "number": 67,
+    "question": "What is the most common malignancy associated with an persistent Urachal remnant?",
+    "choices": [
+      "TCC",
+      "Squamous cell CA",
+      "Adenocarcinoma (90%)",
+      "Sarcoma",
+      "Wilms variant"
+    ],
+    "answer": "C",
+    "detail": "If a midline bladder mass develops cancer, it is almost always adenocarcinoma."
+  },
+  {
+    "number": 68,
+    "question": "The \"Manta Ray Sign\" (unfused pubic bones) on a pelvic X-ray is characteristic of:",
+    "choices": [
+      "Horseshoe kidney",
+      "Bladder Exstrophy",
+      "PUV",
+      "Prune Belly",
+      "VACTERL"
+    ],
+    "answer": "B",
+    "detail": "Manta ray sign = Bladder exstrophy."
+  },
+  {
+    "number": 69,
+    "question": "\"Cloacal Malformation\" results in GU and GI tracts draining into a common opening and occurs ONLY in:",
+    "choices": [
+      "Males",
+      "Females",
+      "Premature infants",
+      "Infants with Downs",
+      "Adolescents"
+    ],
+    "answer": "B",
+    "detail": "Cloacal malformations are exclusive to females."
+  },
+  {
+    "number": 70,
+    "question": "\"Neurogenic bladder\" in a child should prompt an evaluation of the spine for:",
+    "choices": [
+      "Scoliosis only",
+      "Spinal dysraphism (e.g., tethered cord)",
+      "Fracture",
+      "Osteomyelitis",
+      "Osteopetrosis"
+    ],
+    "answer": "B",
+    "detail": "Always consider spinal dysraphism in a kid with neurogenic bladder."
+  },
+  {
+    "number": 71,
+    "question": "Which solid renal tumor of infancy (neonate) is often benign and may involve the renal sinus?",
+    "choices": [
+      "Wilms",
+      "Mesoblastic Nephroma",
+      "RCC",
+      "Rhabdoid Wilms",
+      "Nephroblastomatosis"
+    ],
+    "answer": "B",
+    "detail": "Mesoblastic nephroma is the \"Wilms of infancy\" and is often diagnosed in the first month."
+  },
+  {
+    "number": 72,
+    "question": "Nephroblastomatosis appears as a \"hypodense rind\" around the kidney and carries a risk of transforming into:",
+    "choices": [
+      "Mesoblastic nephroma",
+      "Wilms tumor",
+      "Clear cell RCC",
+      "Angiomyolipoma",
+      "Renal lymphoma"
+    ],
+    "answer": "B",
+    "detail": "Nephroblastomatosis requires frequent screening as it can lead to Wilms tumor."
+  },
+  {
+    "number": 73,
+    "question": "What is the most common solid renal tumor of childhood (Age 3-4)?",
+    "choices": [
+      "Mesoblastic nephroma",
+      "Wilms tumor",
+      "RCC",
+      "Neuroblastoma",
+      "Lymphoma"
+    ],
+    "answer": "B",
+    "detail": "Wilms is the most common primary renal tumor in children."
+  },
+  {
+    "number": 74,
+    "question": "A key multiple choice \"rule\" is that a child can NEVER be born with:",
+    "choices": [
+      "Mesoblastic nephroma",
+      "Wilms tumor",
+      "Neuroblastoma",
+      "Horseshoe kidney",
+      "PUV"
+    ],
+    "answer": "B",
+    "detail": "Wilms tumor is NOT seen in newborns; it never occurs before 2 months."
+  },
+  {
+    "number": 75,
+    "question": "Wilms tumor characteristically metastasizes to which organ first?",
+    "choices": [
+      "Bone",
+      "Lung",
+      "Liver",
+      "Brain",
+      "Spleen"
+    ],
+    "answer": "B",
+    "detail": "Wilms tumor spreads primarily to the lungs."
+  },
+  {
+    "number": 76,
+    "question": "Which Wilms variant is associated with aggressive rhabdoid brain tumors?",
+    "choices": [
+      "Clear Cell",
+      "Rhabdoid subtype",
+      "Translocation subtype",
+      "Nephroblastomatosis",
+      "Conventional Wilms"
+    ],
+    "answer": "B",
+    "detail": "Rhabdoid Wilms has a terrible prognosis and is linked to brain tumors."
+  },
+  {
+    "number": 77,
+    "question": "The \"Michael Jackson\" tumor (Multilocular Cystic Nephroma) characteristically occurs in which two populations?",
+    "choices": [
+      "Neonatal boys and elderly men",
+      "Young boys and middle-aged women",
+      "Adolescent girls and young men",
+      "Newborn girls and older boys",
+      "It is random"
+    ],
+    "answer": "B",
+    "detail": "It loves young boys and middle-aged women and characteristically protrudes into the renal pelvis."
+  },
+  {
+    "number": 78,
+    "question": "\"Renal Cell Carcinoma (RCC)\" is the most common renal malignancy in which pediatric group?",
+    "choices": [
+      "Neonates",
+      "4-year-olds",
+      "Teenagers (ages 15-19)",
+      "2-year-olds",
+      "Infants < 1 year"
+    ],
+    "answer": "C",
+    "detail": "RCC is the solid tumor of the adolescent."
+  },
+  {
+    "number": 79,
+    "question": "The most common subtype of RCC in children is:",
+    "choices": [
+      "Clear Cell",
+      "Translocation Carcinoma",
+      "Medullary",
+      "Papillary",
+      "Chromophobe"
+    ],
+    "answer": "B",
+    "detail": "Translocation carcinoma is the #1 subtype in kids and is linked to prior chemotherapy."
+  },
+  {
+    "number": 80,
+    "question": "What is the most common malignant tumor of the bladder in children?",
+    "choices": [
+      "TCC",
+      "Adenocarcinoma",
+      "Rhabdomyosarcoma",
+      "Squamous cell CA",
+      "Wilms met"
+    ],
+    "answer": "C",
+    "detail": "Rhabdomyosarcoma is the most common, often showing a \"botryoid\" appearance."
+  },
+  {
+    "number": 81,
+    "question": "\"Neonatal Adrenal Hemorrhage\" is characteristically:",
+    "choices": [
+      "Vascular and grows",
+      "Avascular and shrinks over time",
+      "More common on the left",
+      "T2 bright",
+      "Associated with Downs"
+    ],
+    "answer": "B",
+    "detail": "Hemorrhage is avascular and gets smaller; neuroblastoma is vascular and grows."
+  },
+  {
+    "number": 82,
+    "question": "In a neonate with a left-sided adrenal mass, you should also check for:",
+    "choices": [
+      "Renal vein thrombosis",
+      "Heart failure",
+      "Scrotal edema",
+      "Brain tumors",
+      "Gallstones"
+    ],
+    "answer": "A",
+    "detail": "Because the left adrenal vein drains into the renal vein, a renal vein thrombus is a linked concern."
+  },
+  {
+    "number": 83,
+    "question": "What is the classic clinical history for a \"Hydrometrocolpos\"?",
+    "choices": [
+      "A midline pelvic mass in a female neonate or teenager with delayed menarche",
+      "Flank pain after drinking water",
+      "Projectile vomiting",
+      "Scrotal pain",
+      "Precocious puberty"
+    ],
+    "answer": "A",
+    "detail": "It results from an expanded fluid-filled vagina."
+  },
+  {
+    "number": 84,
+    "question": "In a child, ovarian torsion can occur with a normal ovary due to:",
+    "choices": [
+      "A large cyst",
+      "Excessive mobility of the ovary",
+      "Hypertension",
+      "Infection",
+      "Pelvic trauma"
+    ],
+    "answer": "B",
+    "detail": "Unlike adults, kids can torse a normal ovary due to mobility."
+  },
+  {
+    "number": 85,
+    "question": "Torsion should be suspected if the ovary is at least how many times the size of the contralateral \"normal\" ovary?",
+    "choices": [
+      "1.5x",
+      "2.0x",
+      "3.0x",
+      "5.0x",
+      "10.0x"
+    ],
+    "answer": "C",
+    "detail": "A volume 3x larger than the other side is the indicator for torsion."
+  },
+  {
+    "number": 86,
+    "question": "What is the most common cause of idiopathic scrotal edema in a child?",
+    "choices": [
+      "Testicular torsion",
+      "Henoch-Schonlein Purpura (HSP)",
+      "Hernia",
+      "Trauma",
+      "Epididymitis"
+    ],
+    "answer": "B",
+    "detail": "HSP is the most cited cause and can be shown as massive skin edema."
+  },
+  {
+    "number": 87,
+    "question": "A \"Blue Dot Sign\" on physical exam is characteristic of:",
+    "choices": [
+      "Testicular torsion",
+      "Torsion of the testicular appendage",
+      "Epididymitis",
+      "Scrotal hernia",
+      "RCC"
+    ],
+    "answer": "B",
+    "detail": "This sign represents a torsed vestigial vestige."
+  },
+  {
+    "number": 88,
+    "question": "The most common tumor of the fetus or newborn is the:",
+    "choices": [
+      "Wilms",
+      "Sacrococcygeal Teratoma",
+      "Neuroblastoma",
+      "Hepatoblastoma",
+      "Hemangioma"
+    ],
+    "answer": "B",
+    "detail": "Sacrococcygeal teratoma is the most common tumor in this age group."
+  },
+  {
+    "number": 89,
+    "question": "To prevent recurrence of a Sacrococcygeal Teratoma, surgeons must remove the:",
+    "choices": [
+      "Entire rectum",
+      "Bladder",
+      "Coccyx",
+      "Spleen",
+      "Adrenal gland"
+    ],
+    "answer": "C",
+    "detail": "Resection must include the coccyx to reduce recurrence."
+  },
+  {
+    "number": 90,
+    "question": "\"Cryptorchidism\" (undescended testes) is most common in which group?",
+    "choices": [
+      "Post-mature infants",
+      "Premature infants (20%)",
+      "Full-term infants",
+      "Infants with Downs",
+      "Infants of diabetic mothers"
+    ],
+    "answer": "B",
+    "detail": "Undescended testicles are very frequent in premature kids."
+  },
+  {
+    "number": 91,
+    "question": "Does surgical correction (orchiopexy) for Cryptorchidism reduce the risk of testicular cancer?",
+    "choices": [
+      "Yes, it eliminates the risk",
+      "No, the risk of cancer remains increased in both testicles",
+      "It only reduces the risk in the contralateral testicle",
+      "It only reduces the risk if done before 1 month",
+      "Cancer risk is not associated with cryptorchidism"
+    ],
+    "answer": "B",
+    "detail": "Orchiopexy makes the testicle easier to examine, but the risk of cancer is not reduced."
+  },
+  {
+    "number": 92,
+    "question": "An \"extratesticular scrotal mass\" in a child is the classic buzzword for:",
+    "choices": [
+      "Wilms met",
+      "Embryonal Rhabdomyosarcoma",
+      "Seminoma",
+      "Lipoma",
+      "Abscess"
+    ],
+    "answer": "B",
+    "detail": "This is a high-yield paratesticular malignancy."
+  },
+  {
+    "number": 93,
+    "question": "\"Multicystic Dysplastic Kidney (MCDK)\" is a result of a fetal insult and characteristically features:",
+    "choices": [
+      "Massive cortical enhancement",
+      "NO functioning renal tissue (MAG3 Cold)",
+      "Small, communicated cysts",
+      "Association with Turner Syndrome",
+      "High urine output"
+    ],
+    "answer": "B",
+    "detail": "MCDK has macro-cysts that do NOT communicate and no renal function on nuclear medicine."
+  },
+  {
+    "number": 94,
+    "question": "In MCDK, the contralateral kidney has associated abnormalities (e.g., UPJ obstruction) in what percentage of cases?",
+    "choices": [
+      "10%",
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "answer": "C",
+    "detail": "Half of patients with MCDK have issues on the opposite side."
+  },
+  {
+    "number": 95,
+    "question": "On ultrasound, a \"Big, Bright kidney with Lost Corticomedullary Differentiation\" in a neonate with HTN is:",
+    "choices": [
+      "Wilms",
+      "ARPKD",
+      "Renal vein thrombosis",
+      "Neuroblastoma",
+      "UPJ obstruction"
+    ],
+    "answer": "B",
+    "detail": "This is the classic ultrasound appearance for ARPKD."
+  },
+  {
+    "number": 96,
+    "question": "A \"hypodense rind\" seen on a kidney in a child being screened for Wilms tumor is:",
+    "choices": [
+      "Renal lymphoma",
+      "Nephroblastomatosis",
+      "Mesoblastic nephroma",
+      "Abscess",
+      "Normal variant"
+    ],
+    "answer": "B",
+    "detail": "Nephroblastomatosis presents as a rind of persistent embryologic tissue."
+  },
+  {
+    "number": 97,
+    "question": "\"Bell Clapper Deformity\" is the underlying anatomical etiology for:",
+    "choices": [
+      "PUV",
+      "Testicular Torsion",
+      "Ovarian Torsion",
+      "Intussusception",
+      "Midgut Volvulus"
+    ],
+    "answer": "B",
+    "detail": "This deformity allows the testicle to torse."
+  },
+  {
+    "number": 98,
+    "question": "The \"Whitaker Test\" (urodynamics + pyelogram) was historically used to distinguish between:",
+    "choices": [
+      "Wilms and Neuroblastoma",
+      "Prominent extrarenal pelvis and true UPJ obstruction",
+      "VUR and PUV",
+      "TAM and Syphilis",
+      "CF and Shwachman-Diamond"
+    ],
+    "answer": "B",
+    "detail": "It helps determine if a dilated pelvis is truly obstructed."
+  },
+  {
+    "number": 99,
+    "question": "If you see a \"midline bladder mass\" in a patient with a history of Bladder Exstrophy, the diagnosis is:",
+    "choices": [
+      "Rhabdomyosarcoma",
+      "Adenocarcinoma",
+      "TCC",
+      "Wilms met",
+      "Mesoblastic nephroma"
+    ],
+    "answer": "B",
+    "detail": "Bladder exstrophy and urachal remnants both lead to adenocarcinoma."
+  },
+  {
+    "number": 100,
+    "question": "In pediatric multiple choice strategy, \"T1 bright/hyperintense\" signal in a neonatal pituitary is:",
+    "choices": [
+      "Always an adenoma",
+      "Normal at birth (for both anterior and posterior)",
+      "Diagnostic for Sheehan Syndrome",
+      "A sign of pituitary apoplexy",
+      "Only seen in Klinefelter syndrome"
+    ],
+    "answer": "B",
+    "detail": "Both lobes of the pituitary are T1 bright at birth."
+  }
+]
+
+}

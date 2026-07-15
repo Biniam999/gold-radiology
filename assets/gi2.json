@@ -1,0 +1,201 @@
+{
+    "questions": 
+    [
+    {
+      "number": 1,
+      "question": "The 'Lesser Sac' of the peritoneal cavity is also commonly referred to as the:",
+      "choices": [
+        "Morrison's pouch",
+        "Omental bursa",
+        "Fossa of Lanzert",
+        "Pouch of Douglas",
+        "Pararenal space"
+      ],
+      "answer": "B",
+      "detail": "The lesser sac is the area located behind the stomach and is frequently called the omental bursa."
+    },
+    {
+      "number": 2,
+      "question": "Which anatomical structure serves as the conduit between the greater and lesser peritoneal sacs?",
+      "choices": [
+        "Foramen of Monro",
+        "Epiploic foramen (of Winslow)",
+        "Fossa of Waldeyer",
+        "Killian Dehiscence",
+        "Ampulla of Vater"
+      ],
+      "answer": "B",
+      "detail": "The epiploic foramen of Winslow provides the communication path between these two primary sacs."
+    },
+    {
+      "number": 3,
+      "question": "Regarding the paracolic gutters, which of the following statements is TRUE?",
+      "choices": [
+        "The left gutter is wider than the right.",
+        "The right gutter is wider than the left.",
+        "They do not connect the supracolic and infracolic compartments.",
+        "They are only present in females.",
+        "Both gutters are of equal width."
+      ],
+      "answer": "B",
+      "detail": "The right paracolic gutter is wider than the left."
+    },
+    {
+      "number": 4,
+      "question": "Why is it dangerous to perform a Hysterosalpingogram (HSG) using barium in a female patient?",
+      "choices": [
+        "Barium causes immediate renal failure.",
+        "The female peritoneum communicates with the extraperitoneal pelvis via the fallopian tubes.",
+        "Barium will be absorbed and cause a pulmonary embolism.",
+        "It causes the gallbladder to contract painfully.",
+        "The male peritoneum communicates similarly, making it dangerous for everyone."
+      ],
+      "answer": "B",
+      "detail": "Because the female peritoneum communicates with the pelvis through the fallopian tubes, injecting barium can lead to peritonitis."
+    },
+    {
+      "number": 5,
+      "question": "Direct invasion of disease can spread from the stomach to the splenic hilum via which structure?",
+      "choices": [
+        "Gastrohepatic ligament",
+        "Gastrosplenic ligament",
+        "Duodenocolic ligament",
+        "Falciform ligament",
+        "Ligament of Treitz"
+      ],
+      "answer": "B",
+      "detail": "The gastrosplenic ligament allows for direct disease spread from the stomach to the splenic hilum."
+    },
+    {
+      "number": 6,
+      "question": "Natural intraperitoneal fluid (ascites) tends to flow in which primary direction?",
+      "choices": [
+        "From the liver down into the pelvis",
+        "Upward from the pelvis to the upper abdomen via the right paracolic gutter.",
+        "Exclusively into the left paracolic gutter",
+        "Toward the anterior abdominal wall",
+        "Directly into the lesser sac"
+      ],
+      "answer": "B",
+      "detail": "Natural flow of fluid typically moves upward from the pelvis into the upper abdomen, favoring the right paracolic gutter."
+    },
+    {
+      "number": 7,
+      "question": "Which area is considered the MOST dependent part of the peritoneal cavity, making it a common site for peritoneal implants?",
+      "choices": [
+        "Morrison’s pouch",
+        "Retrovesical space",
+        "Subphrenic recess",
+        "Gastric fundus",
+        "Splenic hilum"
+      ],
+      "answer": "B",
+      "detail": "The retrovesical space is the most common spot for implants because it is the most dependent part of the cavity."
+    },
+    {
+      "number": 8,
+      "question": "What is the classic radiographic 'Aunt Minnie' for Pseudomyxoma Peritonei?",
+      "choices": [
+        "\"Lead pipe\" colon",
+        "\"Apple core\" lesion",
+        "\"Scalloped appearance\" of the liver and splenic margins.",
+        "\"Sand-like\" nodules in the jejunum",
+        "\"Thumbprinting\" of the bowel wall"
+      ],
+      "answer": "C",
+      "detail": "Scalloping of the liver and other solid organs by gelatinous ascites is the pathognomonic finding for Pseudomyxoma Peritonei."
+    },
+    {
+      "number": 9,
+      "question": "\"Omental Caking\" is characterized by which of the following imaging features?",
+      "choices": [
+        "Anterior displacement of the bowel",
+        "Posterior displacement of the bowel from the anterior abdominal wall.",
+        "Multiple calcified stones in the gallbladder",
+        "Air in the portal vein",
+        "Thickening of the esophageal wall"
+      ],
+      "answer": "B",
+      "detail": "Omental seeding or caking results in the thickened omentum causing posterior displacement of the bowel loops."
+    },
+    {
+      "number": 10,
+      "question": "Primary Peritoneal Mesothelioma typically occurs how long after the initial exposure to asbestos?",
+      "choices": [
+        "1 year",
+        "5–10 years",
+        "30–40 years",
+        "It is not associated with asbestos",
+        "100 years"
+      ],
+      "answer": "C",
+      "detail": "This malignancy is a late sequela, appearing 30 to 40 years after the initial asbestos exposure."
+    },
+    {
+      "number": 11,
+      "question": "What is the recommended management for a suspected post-surgical bowel leak?",
+      "choices": [
+        "Use high-density barium to find the leak.",
+        "Use water-soluble contrast first to avoid barium peritonitis.",
+        "Wait 30 days for the tract to mature.",
+        "Biopsy the suspicious area immediately.",
+        "No imaging is needed if the heart rate is normal."
+      ],
+      "answer": "B",
+      "detail": "Water-soluble contrast is always used first if a leak is suspected to prevent the severe inflammatory reaction and granulomas associated with barium peritonitis."
+    },
+    {
+      "number": 12,
+      "question": "Barium Intravasation is a rare but lethal complication that carries a 50% mortality rate due to:",
+      "choices": [
+        "Acute renal failure",
+        "Pulmonary embolism",
+        "Brain abscess",
+        "Bacterial sepsis",
+        "Hepatic necrosis"
+      ],
+      "answer": "B",
+      "detail": "If barium enters the systemic circulation, it kills approximately half of patients via pulmonary embolism."
+    },
+    {
+      "number": 13,
+      "question": "In the setting of mesenteric masses, the \"Sandwich Sign\" is a classic buzzword for:",
+      "choices": [
+        "Carcinoid tumor",
+        "Mesenteric Lymphoma",
+        "Desmoid tumor",
+        "Liposarcoma",
+        "Sclerosing mesenteritis"
+      ],
+      "answer": "B",
+      "detail": "The sandwich sign describes a lobulated, confluent lymphoma mass encasing (sandwiching) the mesenteric vessels."
+    },
+    {
+      "number": 14,
+      "question": "\"Misty Mesentery\" describes an increased fat density at the jejunal root and is most commonly associated with:",
+      "choices": [
+        "Mesenteric panniculitis",
+        "Colonic adenocarcinoma",
+        "Small bowel obstruction",
+        "Appendicitis",
+        "Gallstone ileus"
+      ],
+      "answer": "A",
+      "detail": "While it can be seen in lymphoma, misty mesentery is the classic appearance of mesenteric panniculitis."
+    },
+    {
+      "number": 15,
+      "question": "If a patient is diagnosed with Clostridium Septicum aortitis, the radiologist should prompt a search for:",
+      "choices": [
+        "Aortic dissection",
+        "An occult colonic malignancy",
+        "Gallstones",
+        "Pulmonary AVM",
+        "Renal vein thrombosis"
+      ],
+      "answer": "B",
+      "detail": "According to \"Gamesmanship\" rules, this specific infection is a reflex generator for an underlying colon cancer."
+    }
+  ]
+}
+

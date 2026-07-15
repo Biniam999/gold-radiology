@@ -1,0 +1,1284 @@
+{
+    "questions": 
+  [
+    {
+      "number": 1,
+      "question": "Which of the following is true regarding a saline implant rupture?",
+      "choices": [
+        "It requires immediate evaluation with MRI.",
+        "It forms a fibrous capsule that leads to the 'linguine sign.'",
+        "It is usually very obvious clinically (deflated breast) and the saline is just absorbed.",
+        "It is most commonly identified by the 'snowstorm' sign on ultrasound.",
+        "It increases the risk of breast cancer."
+      ],
+      "answer": "C",
+      "detail": "Saline rupture is clinically obvious due to deflation and does not require complex imaging."
+    },
+    {
+      "number": 2,
+      "question": "On mammography, a ruptured saline implant appears as a:",
+      "choices": [
+        "Dense 'snowstorm.'",
+        "'Wadded up' plastic wrapper.",
+        "'Stepladder.'",
+        "'Linguine' pattern.",
+        "Radial fold."
+      ],
+      "answer": "B",
+      "detail": "The collapsed shell of a saline implant has a characteristic 'wadded up' wrapper appearance on mammography."
+    },
+    {
+      "number": 3,
+      "question": "Which modality is the 'test of choice' for diagnosing a saline implant rupture according to the sources?",
+      "choices": [
+        "MRI with contrast",
+        "Ultrasound",
+        "Physical exam",
+        "PET/CT",
+        "Contrast-enhanced mammography"
+      ],
+      "answer": "C",
+      "detail": "Physical examination is often sufficient to diagnose saline rupture because the breast visibly deflates."
+    },
+    {
+      "number": 4,
+      "question": "'Intracapsular' silicone rupture is defined as a rupture of the implant shell where the silicone is contained by the:",
+      "choices": [
+        "Pectoralis muscle",
+        "Fibrous capsule formed by the body",
+        "Cooper's ligaments",
+        "Skin",
+        "Areola"
+      ],
+      "answer": "B",
+      "detail": "In intracapsular ruptures, the leaked silicone is held within the body's own fibrous capsule."
+    },
+    {
+      "number": 5,
+      "question": "What is the pathognomonic ultrasound sign for an 'intracapsular' silicone rupture?",
+      "choices": [
+        "Snowstorm appearance",
+        "'Step ladder' appearance",
+        "'Linguine sign'",
+        "'Target sign'",
+        "'Collar button'"
+      ],
+      "answer": "B",
+      "detail": "The 'step ladder' sign on ultrasound represents the collapsed implant shell floating in silicone."
+    },
+    {
+      "number": 6,
+      "question": "The 'Linguine Sign' is a diagnostic buzzword for intracapsular silicone rupture seen on:",
+      "choices": [
+        "Mammography",
+        "Ultrasound",
+        "MRI",
+        "CT",
+        "Plain film"
+      ],
+      "answer": "C",
+      "detail": "The 'linguine sign' is the classic MRI descriptor for the collapsed shell of a silicone implant."
+    },
+    {
+      "number": 7,
+      "question": "'Extracapsular' silicone rupture is defined as silicone that has leaked beyond the fibrous capsule and is:",
+      "choices": [
+        "Visible on a mammogram",
+        "Only visible on MRI",
+        "Always contained by the pectoralis major",
+        "Never symptomatic",
+        "Only seen with saline implants"
+      ],
+      "answer": "A",
+      "detail": "Extracapsular silicone can be visualized directly on a mammogram, unlike intracapsular leaks."
+    },
+    {
+      "number": 8,
+      "question": "The 'Snowstorm' appearance on ultrasound is characteristic of:",
+      "choices": [
+        "Intracapsular rupture",
+        "Extracapsular silicone",
+        "Saline rupture",
+        "Normal breast tissue",
+        "A simple cyst"
+      ],
+      "answer": "B",
+      "detail": "Extracapsular silicone causes a dense, echogenic 'snowstorm' effect on ultrasound."
+    },
+    {
+      "number": 9,
+      "question": "True or False: You can have an extracapsular rupture without an intracapsular rupture.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "B",
+      "detail": "An extracapsular rupture by definition includes the failure of the internal shell (intracapsular rupture)."
+    },
+    {
+      "number": 10,
+      "question": "If you identify 'silicone in a lymph node' (silicone adenopathy), what is the next appropriate step?",
+      "choices": [
+        "Biopsy the node immediately.",
+        "Recommend MRI to evaluate for extracapsular rupture.",
+        "Remove the implant immediately.",
+        "Reassure the patient it is normal.",
+        "Perform a PET/CT."
+      ],
+      "answer": "B",
+      "detail": "Silicone in a node indicates a leak; MRI is required to confirm and evaluate the extent of the rupture."
+    },
+    {
+      "number": 11,
+      "question": "Which MRI sequence is specifically used to evaluate breast implants?",
+      "choices": [
+        "T1 without fat-sat",
+        "Fat-saturated T2",
+        "Diffusion-weighted imaging",
+        "Post-contrast T1",
+        "GRE"
+      ],
+      "answer": "B",
+      "detail": "Fat-saturated T2 sequences are the primary tool for evaluating silicone signals in implants."
+    },
+    {
+      "number": 12,
+      "question": "A 'Subglandular' (retromammary) implant is located:",
+      "choices": [
+        "Deep to the pectoralis major",
+        "Behind the breast tissue, anterior to the pectoralis muscle",
+        "Between the pectoralis major and minor",
+        "In the subcutaneous fat",
+        "Inside the lactiferous sinus"
+      ],
+      "answer": "B",
+      "detail": "Subglandular implants sit behind the breast tissue but in front of the pectoral muscle."
+    },
+    {
+      "number": 13,
+      "question": "A 'Subpectoral' (retropectoral) implant is located:",
+      "choices": [
+        "Anterior to the pectoralis major",
+        "Between the pectoralis major and minor muscles",
+        "Under the skin only",
+        "In the axillary tail",
+        "Behind the ribs"
+      ],
+      "answer": "B",
+      "detail": "Subpectoral implants are typically placed between the pectoralis major and minor."
+    },
+    {
+      "number": 14,
+      "question": "What are 'Radial Folds' in the context of breast implants?",
+      "choices": [
+        "A type of extracapsular rupture",
+        "Normal in-foldings of the implant shell",
+        "A sign of malignancy",
+        "Calcifications in the capsule",
+        "A result of saline absorption"
+      ],
+      "answer": "B",
+      "detail": "Radial folds are normal, non-pathological in-foldings of the shell."
+    },
+    {
+      "number": 15,
+      "question": "How are radial folds distinguished from a rupture?",
+      "choices": [
+        "Folds are thinner.",
+        "Folds always attach to the shell and are thicker than a rupture line.",
+        "Folds only occur in saline implants.",
+        "Ruptures always attach to the shell.",
+        "There is no way to tell them apart."
+      ],
+      "answer": "B",
+      "detail": "Radial folds appear thicker than rupture lines and maintain an attachment to the shell."
+    },
+    {
+      "number": 16,
+      "question": "What is the 'number one risk factor' for an implant rupture?",
+      "choices": [
+        "Trauma",
+        "Age of the implant",
+        "Patient BMI",
+        "History of smoking",
+        "Subpectoral location"
+      ],
+      "answer": "B",
+      "detail": "The risk of rupture increases significantly as the implant ages."
+    },
+    {
+      "number": 17,
+      "question": "Approximately what percentage of silicone implants will show calcifications around the fibrous capsule?",
+      "choices": [
+        "1%",
+        "5%",
+        "10%",
+        "25%",
+        "95%"
+      ],
+      "answer": "D",
+      "detail": "Capsular calcification is seen in about one-quarter of silicone implant cases."
+    },
+    {
+      "number": 18,
+      "question": "Are breast implants a contraindication for a core needle biopsy?",
+      "choices": [
+        "Yes, always.",
+        "No."
+      ],
+      "answer": "B",
+      "detail": "Implants do not prevent the performance of a core needle biopsy."
+    },
+    {
+      "number": 19,
+      "question": "True or False: Breast implants increase the risk for breast cancer.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "B",
+      "detail": "There is no evidence that breast implants increase cancer risk."
+    },
+    {
+      "number": 20,
+      "question": "A 25g FNA needle is small but can still:",
+      "choices": [
+        "Cause a 'snowstorm'",
+        "Burst a saline implant",
+        "Cause a 'linguine sign'",
+        "Create a radial fold",
+        "Identify DCIS"
+      ],
+      "answer": "B",
+      "detail": "Even a very fine needle has the potential to puncture and deflate a saline implant."
+    },
+    {
+      "number": 21,
+      "question": "'Intracapsular' leaks are 'isolated' when they are contained by the:",
+      "choices": [
+        "Shell",
+        "Fibrous capsule",
+        "Pec minor",
+        "Skin",
+        "Nipple"
+      ],
+      "answer": "B",
+      "detail": "In isolated intracapsular ruptures, the silicone stays within the fibrous capsule."
+    },
+    {
+      "number": 22,
+      "question": "If you see an implant that you can 'see through' on a mammogram, it is a:",
+      "choices": [
+        "Silicone implant",
+        "Saline implant",
+        "Ruptured implant",
+        "Hamartoma",
+        "Pectoralis muscle"
+      ],
+      "answer": "B",
+      "detail": "Saline is radiolucent compared to silicone, making these implants 'see-through'."
+    },
+    {
+      "number": 23,
+      "question": "Silicone implants are described as being:",
+      "choices": [
+        "Radiolucent",
+        "Radio-opaque (cannot see through them)",
+        "T2 dark",
+        "Only found in males",
+        "Always ruptured"
+      ],
+      "answer": "B",
+      "detail": "Silicone is highly radio-opaque on mammography."
+    },
+    {
+      "number": 24,
+      "question": "The 'Step ladder' and 'Linguine' signs both represent:",
+      "choices": [
+        "The pectoralis muscle",
+        "The collapsed implant shell",
+        "Silicone in the lymph nodes",
+        "Extracapsular spread",
+        "Normal Cooper's ligaments"
+      ],
+      "answer": "B",
+      "detail": "Both imaging signs illustrate the collapsed shell of the implant."
+    },
+    {
+      "number": 25,
+      "question": "When evaluating an implant for rupture on MRI, the silicone signal should be:",
+      "choices": [
+        "Suppressed",
+        "Bright (on T2)",
+        "Dark",
+        "Absent",
+        "Only in the axilla"
+      ],
+      "answer": "B",
+      "detail": "On standard implant MRI protocols, silicone appears bright on fat-suppressed T2 images."
+    },
+    {
+      "number": 26,
+      "question": "'Reduction Mammoplasty' is a procedure performed to:",
+      "choices": [
+        "Increase breast size",
+        "Reduce breast size",
+        "Lift the breast without changing size",
+        "Treat inflammatory cancer",
+        "Remove only the nipple"
+      ],
+      "answer": "B",
+      "detail": "This surgery is specifically aimed at reducing breast volume."
+    },
+    {
+      "number": 27,
+      "question": "'Mastopexy' is more commonly known as a:",
+      "choices": [
+        "Mastectomy",
+        "Breast lift",
+        "Lumpectomy",
+        "Biopsy",
+        "Radiation treatment"
+      ],
+      "answer": "B",
+      "detail": "Mastopexy is the clinical term for a breast lift."
+    },
+    {
+      "number": 28,
+      "question": "Which of the following is a normal finding after a mastopexy?",
+      "choices": [
+        "Spiculated mass",
+        "Swirled appearance in the inferior breast",
+        "Fine linear branching calcifications",
+        "'Snowstorm' nodes",
+        "Nipple retraction"
+      ],
+      "answer": "B",
+      "detail": "Post-mastopexy imaging often shows a normal 'swirled' look in the lower breast."
+    },
+    {
+      "number": 29,
+      "question": "The 'Keyhole Incision' is associated with which procedures?",
+      "choices": [
+        "Only mastectomy",
+        "Both mammoplasty and mastopexy",
+        "Only core biopsy",
+        "Breast MRI",
+        "Sentinel node biopsy"
+      ],
+      "answer": "B",
+      "detail": "The keyhole incision is common to both breast reduction and breast lift surgeries."
+    },
+    {
+      "number": 30,
+      "question": "What are the major 'mimics of recurrence' in the first two years after surgery?",
+      "choices": [
+        "Simple cysts",
+        "Fat necrosis and benign dystrophic calcifications",
+        "Fibroadenomas",
+        "Intramammary lymph nodes",
+        "Sternalis muscles"
+      ],
+      "answer": "B",
+      "detail": "Post-surgical fat necrosis and dystrophic calcs can look suspicious and mimic returning cancer."
+    },
+    {
+      "number": 31,
+      "question": "Local recurrence occurs in what percentage of women who have breast-conserving therapy (BCT)?",
+      "choices": [
+        "1%",
+        "6–8%",
+        "20%",
+        "35%",
+        "50%"
+      ],
+      "answer": "B",
+      "detail": "The recurrence rate for patients who undergo BCT is roughly 6–8%."
+    },
+    {
+      "number": 32,
+      "question": "What is the 'peak time' for local recurrence after treatment?",
+      "choices": [
+        "1 year",
+        "4 years",
+        "10 years",
+        "20 years",
+        "6 months"
+      ],
+      "answer": "B",
+      "detail": "The most common timeframe for cancer to recur locally is 4 years post-treatment."
+    },
+    {
+      "number": 33,
+      "question": "Without radiation therapy, the local recurrence rate for breast cancer is approximately:",
+      "choices": [
+        "5%",
+        "10%",
+        "35%",
+        "75%",
+        "95%"
+      ],
+      "answer": "C",
+      "detail": "Omitting radiation therapy after surgery increases the recurrence risk to 35%."
+    },
+    {
+      "number": 34,
+      "question": "Tumors that recur 'early' (< 3 years) typically occur in the:",
+      "choices": [
+        "Contralateral breast",
+        "Original tumor bed",
+        "Axillary tail",
+        "Inframammary fold",
+        "Liver"
+      ],
+      "answer": "B",
+      "detail": "Early recurrences usually appear at the site of the original tumor."
+    },
+    {
+      "number": 35,
+      "question": "Which patient group has the highest risk of recurrent disease?",
+      "choices": [
+        "Postmenopausal women",
+        "Premenopausal women",
+        "Men with gynecomastia",
+        "Women over 80",
+        "Women with saline implants"
+      ],
+      "answer": "B",
+      "detail": "Younger, premenopausal women carry the highest risk for recurrence."
+    },
+    {
+      "number": 36,
+      "question": "Residual calcifications in or near a lumpectomy bed correlate with a local recurrence rate of:",
+      "choices": [
+        "10%",
+        "30%",
+        "60%",
+        "90%",
+        "5%"
+      ],
+      "answer": "C",
+      "detail": "The presence of residual calcs after surgery is associated with a 60% recurrence rate."
+    },
+    {
+      "number": 37,
+      "question": "If a specimen radiograph shows calcifications 'touching the edge' of the sample, the chance of incomplete excision is:",
+      "choices": [
+        "2%",
+        "25%",
+        "50%",
+        "80%",
+        "100%"
+      ],
+      "answer": "D",
+      "detail": "A positive margin on the specimen radiograph indicates an 80% likelihood of residual disease."
+    },
+    {
+      "number": 38,
+      "question": "If you see cancer at the margin on a specimen radiograph, what is the 'next step'?",
+      "choices": [
+        "Wait for the final path report.",
+        "Call the surgeon in the OR and tell them.",
+        "Order an MRI.",
+        "Start radiation.",
+        "Assess as BI-RADS 3."
+      ],
+      "answer": "B",
+      "detail": "You must notify the surgeon immediately so more tissue can be removed while the patient is still in surgery."
+    },
+    {
+      "number": 39,
+      "question": "Post-radiation changes (skin/trabecular thickening) should 'peak' on which mammogram?",
+      "choices": [
+        "The pre-radiation film",
+        "The first post-RT mammogram",
+        "The 5-year follow-up",
+        "The 10-year follow-up",
+        "They never peak"
+      ],
+      "answer": "B",
+      "detail": "Radiation-induced skin changes are most pronounced on the initial follow-up mammogram."
+    },
+    {
+      "number": 40,
+      "question": "If skin thickening is 'worse' on a 3rd follow-up film after radiation, you should suspect:",
+      "choices": [
+        "Normal healing",
+        "Recurrent disease or inflammatory cancer",
+        "Fat necrosis",
+        "CHF",
+        "Too much compression"
+      ],
+      "answer": "B",
+      "detail": "Late worsening of skin thickening is a major red flag for recurrence."
+    },
+    {
+      "number": 41,
+      "question": "'Secondary Angiosarcoma' of the breast typically develops how many years after radiation?",
+      "choices": [
+        "1 year",
+        "3 years",
+        "6 years",
+        "15 years",
+        "20 years"
+      ],
+      "answer": "C",
+      "detail": "There is typically a 6-year latency period for radiation-induced angiosarcoma."
+    },
+    {
+      "number": 42,
+      "question": "Clinically, secondary angiosarcoma presents as:",
+      "choices": [
+        "A deep hard lump",
+        "Red plaques or skin nodules",
+        "Milky discharge",
+        "A 'snowstorm'",
+        "A simple cyst"
+      ],
+      "answer": "B",
+      "detail": "The hallmark clinical finding is the appearance of red skin nodules or plaques."
+    },
+    {
+      "number": 43,
+      "question": "On MRI, a secondary angiosarcoma is typically:",
+      "choices": [
+        "T2 dark",
+        "T2 bright",
+        "T1 bright with fat sat",
+        "Non-enhancing",
+        "Always in the axilla"
+      ],
+      "answer": "B",
+      "detail": "These tumors characteristically show high T2 signal intensity on MRI."
+    },
+    {
+      "number": 44,
+      "question": "Breast cancer staging: A tumor less than 2 cm is categorized as:",
+      "choices": [
+        "T1",
+        "T2",
+        "T3",
+        "T4",
+        "Stage 4"
+      ],
+      "answer": "A",
+      "detail": "T1 is the category for tumors under 2 cm."
+    },
+    {
+      "number": 45,
+      "question": "A breast tumor measuring 4 cm is categorized as:",
+      "choices": [
+        "T1",
+        "T2",
+        "T3",
+        "T4",
+        "T5"
+      ],
+      "answer": "B",
+      "detail": "T2 includes tumors ranging from 2 cm to 5 cm."
+    },
+    {
+      "number": 46,
+      "question": "A breast tumor larger than 5 cm is categorized as:",
+      "choices": [
+        "T1",
+        "T2",
+        "T3",
+        "T4",
+        "Metastatic"
+      ],
+      "answer": "C",
+      "detail": "Any tumor exceeding 5 cm is staged as T3."
+    },
+    {
+      "number": 47,
+      "question": "T4 staging for breast cancer includes any tumor with:",
+      "choices": [
+        "Multiple satellites",
+        "Chest wall fixation, skin involvement, or IBC",
+        "Proximity to an implant",
+        "Calcifications",
+        "A 'dark star' appearance"
+      ],
+      "answer": "B",
+      "detail": "T4 is determined by invasion of the chest wall or skin, or a diagnosis of IBC."
+    },
+    {
+      "number": 48,
+      "question": "True or False: Paget's disease is considered T4 staging.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "B",
+      "detail": "Paget's disease does not count as T4."
+    },
+    {
+      "number": 49,
+      "question": "What is the 'most important predictor' of overall survival in breast cancer?",
+      "choices": [
+        "Tumor size",
+        "Axillary status (lymph nodes)",
+        "Patient age",
+        "Type of implant",
+        "Mammographic density"
+      ],
+      "answer": "B",
+      "detail": "The presence of axillary lymph node metastases is the most critical survival factor."
+    },
+    {
+      "number": 50,
+      "question": "Which of the following is a 'contraindication' for breast conservation?",
+      "choices": [
+        "Simple cyst",
+        "Multi-centric disease (multiple quadrants)",
+        "T1 tumor size",
+        "Patient age > 70",
+        "Saline implants"
+      ],
+      "answer": "B",
+      "detail": "Multi-centric disease prevents effective breast-conserving therapy."
+    },
+    {
+      "number": 51,
+      "question": "What is the 'big reason' for performing a breast MRI?",
+      "choices": [
+        "To find simple cysts",
+        "High-risk screening",
+        "To evaluate skin thickening from CHF",
+        "To replace mammography in all women",
+        "To identify sternalis muscles"
+      ],
+      "answer": "B",
+      "detail": "Screening of high-risk populations is the primary goal of breast MRI."
+    },
+    {
+      "number": 52,
+      "question": "High-risk screening with MRI is indicated for women with a lifetime risk greater than:",
+      "choices": [
+        "5%",
+        "10%",
+        "15%",
+        "20–25%",
+        "50%"
+      ],
+      "answer": "D",
+      "detail": "A risk > 20–25% is the threshold for annual screening MRI."
+    },
+    {
+      "number": 53,
+      "question": "Patients who received how much radiation to the chest as a child qualify for a screening MRI?",
+      "choices": [
+        "1 Gy",
+        "5 Gy",
+        "10 Gy",
+        "20 Gy",
+        "50 Gy"
+      ],
+      "answer": "D",
+      "detail": "Childhood radiation of 20 Gy or more qualifies the patient for screening."
+    },
+    {
+      "number": 54,
+      "question": "For a child with prior chest radiation, when should annual screening MRI begin?",
+      "choices": [
+        "Immediately after radiation",
+        "At age 18",
+        "At age 25 or 8 years post-exposure (whichever is later)",
+        "At age 40",
+        "Only if they develop a lump"
+      ],
+      "answer": "C",
+      "detail": "Screening starts at 25, or 8 years after the radiation exposure."
+    },
+    {
+      "number": 55,
+      "question": "Which risk model is 'NOT' appropriate for estimating if someone needs a screening MRI?",
+      "choices": [
+        "Tyrer-Cuzick",
+        "Gail model",
+        "Claus",
+        "BRCpro",
+        "BODICEA"
+      ],
+      "answer": "B",
+      "detail": "The Gail model is not comprehensive enough for MRI screening decisions."
+    },
+    {
+      "number": 56,
+      "question": "Which model is currently considered the 'most comprehensive' for breast cancer risk?",
+      "choices": [
+        "Gail",
+        "Tyrer-Cuzick",
+        "Claus",
+        "TNM",
+        "BI-RADS"
+      ],
+      "answer": "B",
+      "detail": "Tyrer-Cuzick is widely regarded as the most complete risk assessment model."
+    },
+    {
+      "number": 57,
+      "question": "Background Parenchymal Enhancement (BPE) on MRI is 'most common' during which phase?",
+      "choices": [
+        "Luteal phase (day 14–28)",
+        "Follicular phase (day 7–14)",
+        "Rag week (day 1–4)",
+        "Menopause",
+        "Puberty"
+      ],
+      "answer": "A",
+      "detail": "Hormonal influence in the luteal phase increases background enhancement."
+    },
+    {
+      "number": 58,
+      "question": "To 'reduce' background enhancement, a breast MRI should be performed during:",
+      "choices": [
+        "The luteal phase",
+        "Days 7–14 of the cycle (follicular phase)",
+        "Pregnancy",
+        "Day 28",
+        "Rag week"
+      ],
+      "answer": "B",
+      "detail": "Days 7–14 are the optimal window for breast MRI to minimize BPE."
+    },
+    {
+      "number": 59,
+      "question": "What effect does Tamoxifen have on background parenchyma uptake on MRI?",
+      "choices": [
+        "It increases it immediately.",
+        "It decreases it, followed by a rebound.",
+        "It has no effect.",
+        "It causes 'snowstorm' enhancement.",
+        "It turns everything T2 dark."
+      ],
+      "answer": "B",
+      "detail": "Tamoxifen initially reduces BPE, but this is often followed by a rebound."
+    },
+    {
+      "number": 60,
+      "question": "On breast MRI, a 'Focus' is defined as enhancement that measures:",
+      "choices": [
+        "< 1 mm",
+        "< 2 mm",
+        "< 5 mm",
+        "> 10 mm",
+        "Exactly 1 cm"
+      ],
+      "answer": "C",
+      "detail": "A focus is any discrete enhancement smaller than 5 mm."
+    },
+    {
+      "number": 61,
+      "question": "What is the typical malignancy risk for a single MRI 'focus'?",
+      "choices": [
+        "0%",
+        "2–3%",
+        "25%",
+        "50%",
+        "95%"
+      ],
+      "answer": "B",
+      "detail": "Individual foci have a low but non-zero risk of 2–3%."
+    },
+    {
+      "number": 62,
+      "question": "Can a solitary focus on a 'baseline' exam be assessed as BI-RADS 3?",
+      "choices": [
+        "Yes, if it has persistent kinetics.",
+        "No, never.",
+        "Only if it is spiculated.",
+        "Only if it is T2 dark.",
+        "Only in men."
+      ],
+      "answer": "A",
+      "detail": "A focus can be BR-3 if it was found on a baseline study."
+    },
+    {
+      "number": 63,
+      "question": "'Non-Mass Enhancement' (NME) is best described as:",
+      "choices": [
+        "A space-occupying lesion with borders.",
+        "A cloud or clump of enhancement (not a mass).",
+        "T2 bright fluid.",
+        "A simple focus.",
+        "Enhancement in the pectoralis major."
+      ],
+      "answer": "B",
+      "detail": "NME is cloud-like enhancement that does not form a discrete mass."
+    },
+    {
+      "number": 64,
+      "question": "Which NME distribution is 'most suspicious' for malignancy?",
+      "choices": [
+        "Diffuse",
+        "Regional",
+        "Segmental (triangular pointing to nipple)",
+        "Scattered",
+        "Bilateral"
+      ],
+      "answer": "C",
+      "detail": "Segmental distribution is high risk as it follows ductal anatomy."
+    },
+    {
+      "number": 65,
+      "question": "Which internal enhancement pattern for NME is 'much more suspicious'?",
+      "choices": [
+        "Homogeneous",
+        "Heterogeneous",
+        "Diffuse",
+        "Persistent",
+        "T2 dark"
+      ],
+      "answer": "B",
+      "detail": "Heterogeneous patterns in NME are more likely to be malignant."
+    },
+    {
+      "number": 66,
+      "question": "On breast MRI, a 'Mass' is defined by enhancement measuring at least:",
+      "choices": [
+        "1 mm",
+        "2 mm",
+        "5 mm",
+        "10 mm",
+        "2 cm"
+      ],
+      "answer": "C",
+      "detail": "An enhancing area is termed a mass once it reaches 5 mm."
+    },
+    {
+      "number": 67,
+      "question": "In breast MRI interpretation, which of the following 'trumps' kinetics?",
+      "choices": [
+        "Patient age",
+        "Morphology",
+        "Background enhancement level",
+        "Menstrual cycle phase",
+        "Type of contrast used"
+      ],
+      "answer": "B",
+      "detail": "Morphological features are more important than kinetic curves; if it looks like cancer, biopsy it."
+    },
+    {
+      "number": 68,
+      "question": "A 'Type 1' kinetic curve on MRI represents:",
+      "choices": [
+        "Plateau",
+        "Rapid washout",
+        "Continued rise (persistent)",
+        "No enhancement",
+        "Immediate peak"
+      ],
+      "answer": "C",
+      "detail": "Type 1 kinetics show a steady, persistent increase in enhancement."
+    },
+    {
+      "number": 69,
+      "question": "Which kinetic curve is considered 'High Risk' for malignancy (29% or more)?",
+      "choices": [
+        "Type 1",
+        "Type 2 (Plateau)",
+        "Type 3 (Washout)",
+        "Any rise",
+        "Flat line"
+      ],
+      "answer": "C",
+      "detail": "Type 3 washout curves carry the highest clinical suspicion for cancer."
+    },
+    {
+      "number": 70,
+      "question": "'Fibroadenomas' on MRI are characteristically:",
+      "choices": [
+        "T2 dark with a Type 3 curve.",
+        "T2 bright, round, with 'non-enhancing septa' and a Type 1 curve.",
+        "Spiculated with heterogeneous enhancement.",
+        "Clumped NME.",
+        "Only seen in the axilla."
+      ],
+      "answer": "B",
+      "detail": "Classic fibroadenomas are T2 bright with distinct non-enhancing septations."
+    },
+    {
+      "number": 71,
+      "question": "'Invasive Ductal Carcinoma' (IDC) on MRI typically appears as:",
+      "choices": [
+        "Round T2 bright mass.",
+        "Spiculated mass with heterogeneous enhancement and a Type 3 curve.",
+        "Homogeneous NME.",
+        "A simple focus.",
+        "T2 dark 'dark star.'"
+      ],
+      "answer": "B",
+      "detail": "IDC is usually irregular/spiculated with aggressive washout kinetics."
+    },
+    {
+      "number": 72,
+      "question": "Most things that are 'T2 Bright' on MRI are:",
+      "choices": [
+        "Malignant",
+        "Benign (e.g., cysts, lymph nodes, fat necrosis)",
+        "Always DCIS",
+        "Only found in men",
+        "Non-enhancing"
+      ],
+      "answer": "B",
+      "detail": "T2 bright signal is generally a reassuring, benign feature."
+    },
+    {
+      "number": 73,
+      "question": "What is a high-yield 'exception' to the rule that T2 bright things are benign?",
+      "choices": [
+        "IDC",
+        "Colloid or Mucinous Cancer",
+        "ILC",
+        "Fibroadenoma",
+        "Fat necrosis"
+      ],
+      "answer": "B",
+      "detail": "Mucinous and Colloid cancers are the classic malignant T2 bright lesions."
+    },
+    {
+      "number": 74,
+      "question": "What is the 'single most predictive feature' of malignancy on a breast MRI?",
+      "choices": [
+        "Size",
+        "Spiculated margins (80% risk)",
+        "Washout curve",
+        "Nipple enhancement",
+        "Focus count"
+      ],
+      "answer": "B",
+      "detail": "Spiculated margins carry an extremely high (80%) predictive value for cancer."
+    },
+    {
+      "number": 75,
+      "question": "True or False: You should almost never give a 'BI-RADS 0' assessment for an MRI case.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "A",
+      "detail": "MRI is intended to be the final imaging workup; a BI-RADS 0 is usually inappropriate."
+    },
+    {
+      "number": 76,
+      "question": "The 'more exposure to estrogen' a woman has, the higher her risk of breast cancer; which of the following is an 'estrogen-related risk'?",
+      "choices": [
+        "Late menstruation",
+        "Early menstruation or late menopause",
+        "Getting pregnant at age 18",
+        "Being thin",
+        "Drinking less than 1 beer a month"
+      ],
+      "answer": "B",
+      "detail": "Prolonged estrogen exposure via early menarche or late menopause increases risk."
+    },
+    {
+      "number": 77,
+      "question": "Why does 'being fat' increase a woman's estrogen exposure?",
+      "choices": [
+        "Fat cells make progesterone.",
+        "Fat has more aromatase, which converts precursors to estrogen.",
+        "Fat absorbs estrogen from the diet.",
+        "Fat cells are identical to lobules.",
+        "It does not increase exposure."
+      ],
+      "answer": "B",
+      "detail": "Adipose tissue contains aromatase, which increases circulating estrogen levels."
+    },
+    {
+      "number": 78,
+      "question": "'Early maturation of lobules' reduces cancer risk and can be achieved by:",
+      "choices": [
+        "Estrogen-only HRT",
+        "Getting pregnant young",
+        "Late menopause",
+        "Smoking",
+        "Never having children"
+      ],
+      "answer": "B",
+      "detail": "Early pregnancy matures the lobules, providing a protective effect."
+    },
+    {
+      "number": 79,
+      "question": "Breast density is considered which type of risk factor?",
+      "choices": [
+        "Low risk",
+        "Medium risk and 'dose dependent'",
+        "Only a risk in men",
+        "Not a risk factor",
+        "Decreased risk"
+      ],
+      "answer": "B",
+      "detail": "Density is a moderate, independent risk factor for breast cancer."
+    },
+    {
+      "number": 80,
+      "question": "In lymphoma patients, 'chest wall radiation' is a big risk factor that typically 'peaks' how many years post-treatment?",
+      "choices": [
+        "1 year",
+        "5 years",
+        "15 years",
+        "40 years",
+        "Immediately"
+      ],
+      "answer": "C",
+      "detail": "The elevated risk from chest radiation is most significant 15 years after exposure."
+    },
+    {
+      "number": 81,
+      "question": "One first-degree relative with breast cancer increases your lifetime risk from 8% to:",
+      "choices": [
+        "10%",
+        "13%",
+        "21%",
+        "50%",
+        "95%"
+      ],
+      "answer": "B",
+      "detail": "One first-degree relative raises the risk to 13%."
+    },
+    {
+      "number": 82,
+      "question": "Two first-degree relatives with breast cancer increases your lifetime risk to:",
+      "choices": [
+        "13%",
+        "21%",
+        "45%",
+        "75%",
+        "8%"
+      ],
+      "answer": "B",
+      "detail": "Two first-degree relatives raise the lifetime risk to 21%."
+    },
+    {
+      "number": 83,
+      "question": "'BRCA1' is associated with which chromosome?",
+      "choices": [
+        "13",
+        "17",
+        "21",
+        "22",
+        "X"
+      ],
+      "answer": "B",
+      "detail": "The BRCA1 gene is located on chromosome 17."
+    },
+    {
+      "number": 84,
+      "question": "'BRCA2' is associated with which chromosome?",
+      "choices": [
+        "17",
+        "13",
+        "11",
+        "5",
+        "1"
+      ],
+      "answer": "B",
+      "detail": "The BRCA2 gene is found on chromosome 13."
+    },
+    {
+      "number": 85,
+      "question": "Male breast cancer is more strongly associated with which mutation?",
+      "choices": [
+        "BRCA1",
+        "BRCA2",
+        "p53",
+        "E-cadherin",
+        "PTEN"
+      ],
+      "answer": "B",
+      "detail": "BRCA2 mutations are the most common genetic link in male breast cancer."
+    },
+    {
+      "number": 86,
+      "question": "'Li-Fraumeni Syndrome' is caused by a failure of which tumor suppressor?",
+      "choices": [
+        "BRCA1",
+        "p53",
+        "E-cadherin",
+        "Aromatase",
+        "PTEN"
+      ],
+      "answer": "B",
+      "detail": "Li-Fraumeni is defined by a mutation in the p53 suppressor gene."
+    },
+    {
+      "number": 87,
+      "question": "'Cowden Syndrome' is a hamartoma syndrome that increases risk for breast cancer, follicular thyroid cancer, and:",
+      "choices": [
+        "Lhermitte-Duclos (brain hamartoma)",
+        "Osteosarcoma",
+        "Angiosarcoma",
+        "Leukemia",
+        "Pancreatic cancer"
+      ],
+      "answer": "A",
+      "detail": "Cowden's is characteristically linked with Lhermitte-Duclos disease."
+    },
+    {
+      "number": 88,
+      "question": "'Hereditary Diffuse Gastric Cancer Syndrome' carries a 40% risk for which type of breast cancer?",
+      "choices": [
+        "IDC",
+        "Invasive Lobular Carcinoma (ILC)",
+        "Tubular",
+        "Medullary",
+        "Paget's"
+      ],
+      "answer": "B",
+      "detail": "This syndrome is specifically tied to an increased risk for Lobular cancer."
+    },
+    {
+      "number": 89,
+      "question": "Prophylactic gastrectomy is recommended in which syndrome?",
+      "choices": [
+        "Cowden",
+        "Hereditary Diffuse Gastric Cancer",
+        "BRCA1",
+        "Li-Fraumeni",
+        "NF-1"
+      ],
+      "answer": "B",
+      "detail": "Because of the extremely high gastric cancer risk, gastrectomy is often advised."
+    },
+    {
+      "number": 90,
+      "question": "Which risk model is 'validated ONLY in African Americans'?",
+      "choices": [
+        "Tyrer-Cuzick",
+        "Gail model",
+        "Claus",
+        "BRCApro",
+        "BODICEA"
+      ],
+      "answer": "B",
+      "detail": "Gail is the only model currently validated specifically for African Americans."
+    },
+    {
+      "number": 91,
+      "question": "Which risk models 'focus on genetics' specifically?",
+      "choices": [
+        "Gail and Tyrer-Cuzick",
+        "Claus, BODICEA, and BRCApro",
+        "BI-RADS",
+        "MQSA",
+        "TNM"
+      ],
+      "answer": "B",
+      "detail": "Claus, BODICEA, and BRCApro are primarily genetic models."
+    },
+    {
+      "number": 92,
+      "question": "True or False: The Tyrer-Cuzick model includes breast density in its calculation.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "B",
+      "detail": "Density is not a component of the Tyrer-Cuzick model."
+    },
+    {
+      "number": 93,
+      "question": "Most current risk models have which common flaw?",
+      "choices": [
+        "They over-estimate risk.",
+        "They under-estimate lifetime risk.",
+        "They only work for men.",
+        "They require a PET scan.",
+        "They are too simple."
+      ],
+      "answer": "B",
+      "detail": "Current risk models generally under-predict a patient's true risk."
+    },
+    {
+      "number": 94,
+      "question": "Which medications (SERMs) reduce the incidence of ER/PR positive cancers?",
+      "choices": [
+        "Aspirin and Ibuprofen",
+        "Tamoxifen and Raloxifene",
+        "Penicillin and Amoxicillin",
+        "Spironolactone",
+        "Marijuana"
+      ],
+      "answer": "B",
+      "detail": "Tamoxifen and Raloxifene are used to lower breast cancer incidence."
+    },
+    {
+      "number": 95,
+      "question": "True or False: While SERMs reduce cancer incidence, mortality may not actually be reduced.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "A",
+      "detail": "Lower incidence does not always translate to a decrease in mortality."
+    },
+    {
+      "number": 96,
+      "question": "According to the strategy guide, for multiple-choice tests, screening mammography:",
+      "choices": [
+        "Is a scam.",
+        "Saves lots of lives.",
+        "Should be replaced by thermography.",
+        "Is only for women over 70.",
+        "Is only for high-risk women."
+      ],
+      "answer": "B",
+      "detail": "The board-ready answer is always that screening saves lives."
+    },
+    {
+      "number": 97,
+      "question": "'Low-grade DCIS in a 95-year-old' needs what according to the strategy guide?",
+      "choices": [
+        "Palliative care only.",
+        "A surgical consult.",
+        "Immediate mastectomy.",
+        "No treatment.",
+        "Only a follow-up in 2 years."
+      ],
+      "answer": "B",
+      "detail": "On exams, all DCIS findings require formal surgical consultation."
+    },
+    {
+      "number": 98,
+      "question": "'BRCA1' is more common in younger patients, while 'BRCA2' is more common in:",
+      "choices": [
+        "Men only.",
+        "Post-menopausal women.",
+        "Teenagers.",
+        "Pregnant women.",
+        "Infants."
+      ],
+      "answer": "B",
+      "detail": "BRCA2 mutations are typically seen in an older, post-menopausal demographic."
+    },
+    {
+      "number": 99,
+      "question": "BRCA1 is more often associated with which molecular subtype?",
+      "choices": [
+        "Luminal A",
+        "Luminal B",
+        "Triple negative cancer",
+        "HER2 positive",
+        "Paget's disease"
+      ],
+      "answer": "C",
+      "detail": "BRCA1 is strongly linked with triple negative breast cancers."
+    },
+    {
+      "number": 100,
+      "question": "'NF-1' carries what level of breast cancer risk?",
+      "choices": [
+        "No risk",
+        "Moderate risk",
+        "Extremely high risk (80%)",
+        "Risk only in the axilla",
+        "Risk only after radiation"
+      ],
+      "answer": "B",
+      "detail": "Neurofibromatosis type 1 is considered a moderate risk factor for breast cancer."
+    }
+  ]
+}

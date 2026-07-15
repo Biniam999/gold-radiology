@@ -1,0 +1,1307 @@
+{
+    "questions": 
+    
+[
+  {
+    "number": 1,
+    "question": "In general, pediatric bones are more flexible than adult bones, leading to which common fracture patterns?",
+    "choices": [
+      "Comminuted and segmental",
+      "Buckle and greenstick",
+      "Oblique and transverse",
+      "Spiral and butterfly",
+      "Pathologic only"
+    ],
+    "answer": "B",
+    "detail": "Little kids' bones tend to bend rather than break, resulting in buckles and greensticks."
+  },
+  {
+    "number": 2,
+    "question": "A 'physeal bar' is a major concern following a pediatric fracture because it represents:",
+    "choices": [
+      "A normal healing stage",
+      "A bony bridge crossing the growth plate that can cause growth arrest",
+      "A type of ligamentous injury",
+      "An infection of the bone marrow",
+      "A sign of a successful reduction"
+    ],
+    "answer": "B",
+    "detail": "A physeal bar is an early bony bridge crossing the growth plate, which can lead to growth arrest."
+  },
+  {
+    "number": 3,
+    "question": "In the Salter-Harris (SH) classification, which mnemonic helps remember Type 1?",
+    "choices": [
+      "S — Slipped (through the physis only)",
+      "A — Above",
+      "L — Lower",
+      "T — Through",
+      "R — Ruined"
+    ],
+    "answer": "A",
+    "detail": "SH Type 1 is a complete physeal fracture, or 'Slipped'."
+  },
+  {
+    "number": 4,
+    "question": "Which Salter-Harris fracture type is the most common, accounting for 75% of cases?",
+    "choices": [
+      "Type 1",
+      "Type 2 (Metaphysis involvement)",
+      "Type 3",
+      "Type 4",
+      "Type 5"
+    ],
+    "answer": "B",
+    "detail": "SH Type 2 involves the metaphysis and is the most common (75%)."
+  },
+  {
+    "number": 5,
+    "question": "A Salter-Harris Type 3 fracture involves which part of the bone?",
+    "choices": [
+      "Metaphysis only",
+      "Epiphysis only",
+      "Both metaphysis and epiphysis",
+      "Diaphysis only",
+      "The growth plate is crushed"
+    ],
+    "answer": "B",
+    "detail": "SH Type 3 involves the epiphysis (the 'L' for 'Lower' in the mnemonic)."
+  },
+  {
+    "number": 6,
+    "question": "Which Salter-Harris fracture type is described by the mnemonic 'T — Through' (metaphysis and epiphysis)?",
+    "choices": [
+      "Type 2",
+      "Type 3",
+      "Type 4",
+      "Type 5",
+      "Type 1"
+    ],
+    "answer": "C",
+    "detail": "SH Type 4 passes through both the metaphysis and epiphysis."
+  },
+  {
+    "number": 7,
+    "question": "A Salter-Harris Type 5 fracture involves compression of the growth plate and is associated with:",
+    "choices": [
+      "Excellent healing",
+      "A very poor prognosis and 'ruined' growth plate",
+      "Minimal pain",
+      "No risk of growth arrest",
+      "Primary surgical repair in all cases"
+    ],
+    "answer": "B",
+    "detail": "SH Type 5 is 'R for Ruined' and has a very poor prognosis due to growth plate compression."
+  },
+  {
+    "number": 8,
+    "question": "What is the classic buzzword for a Salter-Harris Type 5 fracture seen on follow-up imaging?",
+    "choices": [
+      "'Step-off deformity'",
+      "'Bony bridge across physis'",
+      "'Target sign'",
+      "'Onion skinning'",
+      "'Sunburst appearance'"
+    ],
+    "answer": "B",
+    "detail": "The buzzword for the consequence of an SH Type 5 injury is a 'bony bridge across the physis'."
+  },
+  {
+    "number": 9,
+    "question": "A 'Toddler’s Fracture' is defined as which of the following?",
+    "choices": [
+      "A transverse fracture of the femur",
+      "An oblique fracture of the midshaft of the tibia",
+      "A spiral fracture of the humerus",
+      "A buckle fracture of the radius",
+      "A greenstick fracture of the fibula"
+    ],
+    "answer": "B",
+    "detail": "A toddler's fracture is an oblique fracture of the tibial midshaft."
+  },
+  {
+    "number": 10,
+    "question": "What is the typical age range for a Toddler’s Fracture?",
+    "choices": [
+      "1–3 months",
+      "9 months to 3 years",
+      "5–7 years",
+      "10–12 years",
+      "15–18 years"
+    ],
+    "answer": "B",
+    "detail": "It occurs when a child starts to walk, typically between 9 months and 3 years."
+  },
+  {
+    "number": 11,
+    "question": "If a child presents with a 'spiral' type toddler fracture, what should the radiologist query?",
+    "choices": [
+      "Osteogenesis imperfecta",
+      "Non-accidental trauma (NAT)",
+      "Rickets",
+      "Scurvy",
+      "Lead poisoning"
+    ],
+    "answer": "B",
+    "detail": "Spiral fractures in this age group should raise suspicion for NAT."
+  },
+  {
+    "number": 12,
+    "question": "Where is the most common site for a stress fracture in a child who has recently started walking?",
+    "choices": [
+      "Distal radius",
+      "Proximal posterior cortex of the tibia",
+      "Calcaneus",
+      "2nd metatarsal",
+      "Femoral neck"
+    ],
+    "answer": "B",
+    "detail": "The proximal posterior tibia is the most common site."
+  },
+  {
+    "number": 13,
+    "question": "A 'calcaneal stress fracture' is a classic finding in a child after:",
+    "choices": [
+      "They begin running track",
+      "A cast is removed and they return to normal activity",
+      "They are diagnosed with CF",
+      "They fall from a height",
+      "They undergo chemotherapy"
+    ],
+    "answer": "B",
+    "detail": "Calcaneal stress fractures are often seen after cast removal."
+  },
+  {
+    "number": 14,
+    "question": "In pediatric elbow imaging, an 'elevation of the posterior fat pad' is:",
+    "choices": [
+      "A normal variant",
+      "Always positive for a joint effusion and highly suggestive of occult fracture",
+      "Only significant if the anterior pad is also elevated",
+      "Caused by incorrect positioning of the arm",
+      "A sign of ligamentous laxity"
+    ],
+    "answer": "B",
+    "detail": "You should never see the posterior pad; its presence is a positive sign for effusion."
+  },
+  {
+    "number": 15,
+    "question": "What is the most common pediatric elbow fracture?",
+    "choices": [
+      "Lateral condyle",
+      "Medial epicondyle",
+      "Supracondylar fracture (>60%)",
+      "Olecranon fracture",
+      "Radial head fracture"
+    ],
+    "answer": "C",
+    "detail": "Supracondylar fractures are the most common elbow fractures in children."
+  },
+  {
+    "number": 16,
+    "question": "Which line on a lateral elbow X-ray should pass through the middle third of the capitellum?",
+    "choices": [
+      "Radiocapitellar line",
+      "Anterior humeral line",
+      "Perkins line",
+      "Hilgenreiner’s line",
+      "Shenton’s line"
+    ],
+    "answer": "B",
+    "detail": "In a normal elbow, the anterior humeral line should pass through the middle third of the capitellum."
+  },
+  {
+    "number": 17,
+    "question": "The 'Radiocapitellar line' is a line through the center of the radius that should:",
+    "choices": [
+      "Parallel the ulna",
+      "Intersect the middle of the capitellum on EVERY view",
+      "Only intersect the capitellum on the lateral view",
+      "Point towards the medial epicondyle",
+      "Avoid the growth plate"
+    ],
+    "answer": "B",
+    "detail": "The radiocapitellar line must intersect the middle of the capitellum on all views; if not, the radius is dislocated."
+  },
+  {
+    "number": 18,
+    "question": "What is the correct order of ossification for the pediatric elbow (mnemonic CRITOE)?",
+    "choices": [
+      "Capitellum, Radius, Internal (Medial) Epicondyle, Trochlea, Olecranon, External (Lateral) Epicondyle",
+      "Capitellum, Trochlea, Radius, Olecranon, Internal Epicondyle, External Epicondyle",
+      "Radius, Capitellum, Trochlea, Olecranon, Internal Epicondyle, External Epicondyle",
+      "Internal Epicondyle, External Epicondyle, Radius, Trochlea, Olecranon, Capitellum",
+      "Capitellum, Radius, Olecranon, Trochlea, Internal Epicondyle, External Epicondyle"
+    ],
+    "answer": "A",
+    "detail": "The sequence is CRITOE, appearing at ages 1, 3, 5, 7, 9, and 11."
+  },
+  {
+    "number": 19,
+    "question": "What is a 'sneaky trick' used by examiners regarding the Internal (Medial) Epicondyle?",
+    "choices": [
+      "It never ossifies",
+      "It is the last growth plate to fuse and can be mistaken for a fracture",
+      "It always ossifies before the radius",
+      "It only appears in girls",
+      "It is always bilateral"
+    ],
+    "answer": "B",
+    "detail": "The medial epicondyle is the last to fuse and is a source of trickery."
+  },
+  {
+    "number": 20,
+    "question": "If you see the 'Trochlea' (T) ossified on an elbow X-ray, but the 'Internal Epicondyle' (I) is missing, what is the likely diagnosis?",
+    "choices": [
+      "Normal variant",
+      "Avulsion of the Internal Epicondyle (it's displaced)",
+      "SH Type 5 fracture",
+      "Nursemaid's elbow",
+      "Congenital absence"
+    ],
+    "answer": "B",
+    "detail": "According to the CRITOE order, you should never see the Trochlea without seeing the Internal Epicondyle; if it's missing, it is likely a displaced avulsion fragment."
+  },
+  {
+    "number": 21,
+    "question": "A 'Lateral Condyle Fracture' is unstable if it passes through the:",
+    "choices": [
+      "Olecranon",
+      "Capitello-trochlear groove",
+      "Radial neck",
+      "Medial epicondyle",
+      "Diaphysis"
+    ],
+    "answer": "B",
+    "detail": "Fractures through the capitello-trochlear groove are unstable and usually require surgery."
+  },
+  {
+    "number": 22,
+    "question": "'Nursemaid's Elbow' occurs when the radial head subluxes into the:",
+    "choices": [
+      "Capitellum",
+      "Annular ligament",
+      "Ulnar notch",
+      "Biceps tendon",
+      "Joint capsule"
+    ],
+    "answer": "B",
+    "detail": "The radial head slips into the annular ligament when the arm is pulled."
+  },
+  {
+    "number": 23,
+    "question": "What is the radiographic appearance of Nursemaid's Elbow?",
+    "choices": [
+      "Obvious dislocation",
+      "Typically normal (X-rays don't help)",
+      "Posterior fat pad sign",
+      "Fragmentation of the radial head",
+      "Widened joint space"
+    ],
+    "answer": "B",
+    "detail": "X-rays are typically normal; the injury is often relocated by the technician during positioning for the lateral view."
+  },
+  {
+    "number": 24,
+    "question": "The 'Monteggia fracture-dislocation' consists of an obvious ulnar shaft fracture and a subtle:",
+    "choices": [
+      "Scaphoid fracture",
+      "Radial head dislocation",
+      "Coracoid fracture",
+      "Clavicle fracture",
+      "Olecranon avulsion"
+    ],
+    "answer": "B",
+    "detail": "Monteggia is an ulnar fracture plus radial head dislocation."
+  },
+  {
+    "number": 25,
+    "question": "'Sinding-Larsen-Johansson' is a chronic traction injury located at the:",
+    "choices": [
+      "Tibial tuberosity",
+      "Insertion of the patellar tendon on the PATELLA",
+      "Base of the 5th metatarsal",
+      "Medial malleolus",
+      "Lesser trochanter"
+    ],
+    "answer": "B",
+    "detail": "It is a traction injury at the inferior patella."
+  },
+  {
+    "number": 26,
+    "question": "Which patient group is specifically mentioned as being prone to Sinding-Larsen-Johansson?",
+    "choices": [
+      "Infants of diabetic mothers",
+      "Kids with Cerebral Palsy",
+      "Premature infants",
+      "Children with Downs",
+      "Athletes with O.I."
+    ],
+    "answer": "B",
+    "detail": "Active adolescents and kids with Cerebral Palsy are prone to this injury."
+  },
+  {
+    "number": 27,
+    "question": "'Osgood-Schlatter Disease' is due to repeated microtrauma at the insertion of the patellar tendon on the:",
+    "choices": [
+      "Superior patella",
+      "Tibial tuberosity",
+      "Fibular head",
+      "Lateral condyle",
+      "Femoral diaphysis"
+    ],
+    "answer": "B",
+    "detail": "Osgood-Schlatter affects the tibial tuberosity."
+  },
+  {
+    "number": 28,
+    "question": "Osgood-Schlatter Disease is bilateral in what percentage of cases?",
+    "choices": [
+      "5%",
+      "10%",
+      "25%",
+      "50%",
+      "90%"
+    ],
+    "answer": "C",
+    "detail": "It is bilateral in 25% of patients."
+  },
+  {
+    "number": 29,
+    "question": "Which congenital infection presents with a 'celery stalk' appearance of the metaphyses in the first few weeks of life?",
+    "choices": [
+      "Syphilis",
+      "Congenital Rubella",
+      "CMV",
+      "Toxoplasmosis",
+      "HIV"
+    ],
+    "answer": "B",
+    "detail": "Rubella is the 'celery stalk' infection."
+  },
+  {
+    "number": 30,
+    "question": "Congenital Syphilis bony changes typically do NOT appear until:",
+    "choices": [
+      "Birth",
+      "6–8 weeks of life",
+      "6 months",
+      "2 years",
+      "Puberty"
+    ],
+    "answer": "B",
+    "detail": "Syphilis changes occur later than Rubella, usually at 6–8 weeks."
+  },
+  {
+    "number": 31,
+    "question": "The 'Wimberger Sign' in congenital syphilis refers to:",
+    "choices": [
+      "Lucent metaphyseal bands",
+      "Destruction of the medial portion of the proximal tibial metaphysis",
+      "Periosteal reaction of the ulna",
+      "Hot mandible on bone scan",
+      "Bowing of the femur"
+    ],
+    "answer": "B",
+    "detail": "The Wimberger Sign is the classic buzzword for proximal medial tibial destruction."
+  },
+  {
+    "number": 32,
+    "question": "'Caffey Disease' is a self-limiting disorder characterized by soft tissue swelling and irritability, with a classic imaging finding of:",
+    "choices": [
+      "'Celery stalk' bones",
+      "A 'really hot mandible' on a bone scan",
+      "H-shaped vertebrae",
+      "Lucent metaphyseal bands",
+      "Physeal bars"
+    ],
+    "answer": "B",
+    "detail": "A hot mandible on bone scan is the Aunt Minnie for Caffey Disease."
+  },
+  {
+    "number": 33,
+    "question": "Which medical treatment for a Patent Ductus Arteriosus (PDA) can cause a periosteal reaction in the arm bones?",
+    "choices": [
+      "Indomethacin",
+      "Prostaglandin E1 or E2",
+      "Propranolol",
+      "Epinephrine",
+      "Surfactant"
+    ],
+    "answer": "B",
+    "detail": "Prostaglandin therapy (used to keep a PDA open) can cause periosteal reactions."
+  },
+  {
+    "number": 34,
+    "question": "What is the only childhood malignancy that typically occurs in newborns and metastasizes to bones?",
+    "choices": [
+      "Wilms tumor",
+      "Neuroblastoma",
+      "Osteosarcoma",
+      "Hepatoblastoma",
+      "Leukemia"
+    ],
+    "answer": "B",
+    "detail": "Neuroblastoma is the malignancy to think of for newborn bone mets."
+  },
+  {
+    "number": 35,
+    "question": "'Physiologic Periostitis of the Newborn' is a misnomer because it actually occurs around:",
+    "choices": [
+      "Birth",
+      "3 months of age",
+      "1 year",
+      "2 years",
+      "5 years"
+    ],
+    "answer": "B",
+    "detail": "It occurs around 3 months and should resolve by 6 months."
+  },
+  {
+    "number": 36,
+    "question": "Physiologic periostitis is characterized by:",
+    "choices": [
+      "Involvement of the femur before the tibia",
+      "Involvement of the tibia before the femur",
+      "Appearance before 1 month of age",
+      "Involvement of the metaphysis only",
+      "Being exclusively unilateral"
+    ],
+    "answer": "A",
+    "detail": "It involves the femur before the tibia and always involves the diaphysis."
+  },
+  {
+    "number": 37,
+    "question": "'Langerhans Cell Histiocytosis' (LCH/EG) is twice as common in:",
+    "choices": [
+      "Girls",
+      "Boys",
+      "Premature infants",
+      "Diabetic mothers",
+      "Adolescents"
+    ],
+    "answer": "B",
+    "detail": "LCH favors boys."
+  },
+  {
+    "number": 38,
+    "question": "What is the most common site of involvement for LCH?",
+    "choices": [
+      "Ribs",
+      "Spine",
+      "Skull",
+      "Femur",
+      "Mandible"
+    ],
+    "answer": "C",
+    "detail": "The skull is the most common site."
+  },
+  {
+    "number": 39,
+    "question": "LCH in the skull classically produces which imaging finding?",
+    "choices": [
+      "Sclerotic border",
+      "'Beveled edge' lucent lesion",
+      "Button sequestrum",
+      "Sunburst reaction",
+      "Onion skinning"
+    ],
+    "answer": "B",
+    "detail": "LCH is famous for the beveled edge skull lesion."
+  },
+  {
+    "number": 40,
+    "question": "A 'pancake flat' vertebral body (Vertebra Plana) in a child is diagnostic for:",
+    "choices": [
+      "LCH / Eosinophilic Granuloma",
+      "Osteopetrosis",
+      "Rickets",
+      "Metastatic Breast Cancer",
+      "Sickle Cell"
+    ],
+    "answer": "A",
+    "detail": "Vertebra plana in a kid is LCH until proven otherwise."
+  },
+  {
+    "number": 41,
+    "question": "Osteomyelitis in infants (<18 months) is unique because:",
+    "choices": [
+      "It never crosses the growth plate",
+      "Vessels cross the physeal plate, allowing spread to the epiphysis",
+      "It only occurs in the diaphysis",
+      "It is always viral",
+      "It is caused by lead poisoning"
+    ],
+    "answer": "B",
+    "detail": "In infants, vessels cross the growth plate, permitting epiphyseal involvement."
+  },
+  {
+    "number": 42,
+    "question": "In older children (ages 2–8), the growth plate acts as a 'barrier,' creating which scenario for infection?",
+    "choices": [
+      "Immediate joint destruction",
+      "'Septic tank' where infection smolders in the metaphysis",
+      "Rapid spread to the epiphysis",
+      "Spontaneous resolution without treatment",
+      "Conversion to fatty marrow"
+    ],
+    "answer": "B",
+    "detail": "The growth plate stops the spread, trapping infection in the metaphysis ('septic tank')."
+  },
+  {
+    "number": 43,
+    "question": "Where do 75% of pediatric osteomyelitis cases occur?",
+    "choices": [
+      "Diaphysis of the femur",
+      "Metaphysis of long bones (especially the femur)",
+      "Epiphysis of the tibia",
+      "The flat bones of the pelvis",
+      "The small bones of the hands"
+    ],
+    "answer": "B",
+    "detail": "75% of cases are in the metaphysis."
+  },
+  {
+    "number": 44,
+    "question": "How long does it typically take for bony changes of osteomyelitis to appear on a pediatric X-ray?",
+    "choices": [
+      "1 hour",
+      "24 hours",
+      "3 days",
+      "10 days",
+      "1 month"
+    ],
+    "answer": "D",
+    "detail": "Bony changes are delayed on X-ray, typically appearing around 10 days."
+  },
+  {
+    "number": 45,
+    "question": "Which skeletal dysplasia term describes a short humerus or femur (proximal limbs)?",
+    "choices": [
+      "Acromelic",
+      "Mesomelic",
+      "Rhizomelic",
+      "Micromelic",
+      "Amelia"
+    ],
+    "answer": "C",
+    "detail": "Rhizomelic means the proximal limbs are short."
+  },
+  {
+    "number": 46,
+    "question": "Which skeletal dysplasia term describes short forearms or lower legs (middle limbs)?",
+    "choices": [
+      "Acromelic",
+      "Mesomelic",
+      "Rhizomelic",
+      "Brachydactyly",
+      "Polydactyly"
+    ],
+    "answer": "B",
+    "detail": "Mesomelic ('Meso is in the Middle') refers to the middle segments."
+  },
+  {
+    "number": 47,
+    "question": "'Syndactyly' is the fancy doctor term for:",
+    "choices": [
+      "Short fingers",
+      "Too many fingers",
+      "Fused fingers ('sock hand')",
+      "Spider-like fingers",
+      "Absent limbs"
+    ],
+    "answer": "C",
+    "detail": "Syndactyly means fused digits."
+  },
+  {
+    "number": 48,
+    "question": "For 'hindfoot valgus,' you should think of the talus:",
+    "choices": [
+      "Narrowing the angle with the calcaneus",
+      "Sliding 'nose down' off the calcaneus (vertical talus appearance)",
+      "Being parallel to the calcaneus",
+      "Being absent",
+      "Being fused to the navicular"
+    ],
+    "answer": "B",
+    "detail": "In valgus, the talus slides off the calcaneus, creating a vertical look and widening the angle."
+  },
+  {
+    "number": 49,
+    "question": "What is the most common surgical complication of club foot (Talipes Equinovarus) repair?",
+    "choices": [
+      "Over-rotation",
+      "Over-correction resulting in a 'rocker bottom' deformity",
+      "Nerve damage",
+      "Chronic infection",
+      "Loss of the talus"
+    ],
+    "answer": "B",
+    "detail": "Over-correction leads to a rocker bottom flat foot."
+  },
+  {
+    "number": 50,
+    "question": "'Developmental Dysplasia of the Hip' (DDH) is more common in:",
+    "choices": [
+      "Males",
+      "Females (and breech births)",
+      "Twins",
+      "Infants of diabetic mothers",
+      "Full-term males"
+    ],
+    "answer": "B",
+    "detail": "Females and breech babies have the highest risk for DDH."
+  },
+  {
+    "number": 51,
+    "question": "On ultrasound for DDH, the 'Alpha Angle' should normally be:",
+    "choices": [
+      "Less than 30 degrees",
+      "More than 60 degrees",
+      "Exactly 45 degrees",
+      "10 degrees",
+      "Only measurable in adults"
+    ],
+    "answer": "B",
+    "detail": "A normal alpha angle is > 60 degrees; anything less is an 'under-deep' cup."
+  },
+  {
+    "number": 52,
+    "question": "The plain film equivalent for the alpha angle is the 'acetabular angle,' which should be:",
+    "choices": [
+      "More than 60 degrees",
+      "Less than 30 degrees at birth",
+      "Increasing with age",
+      "0 degrees",
+      "Measured from the femur"
+    ],
+    "answer": "B",
+    "detail": "The acetabular angle is the complement and should be < 30 degrees."
+  },
+  {
+    "number": 53,
+    "question": "According to the 'Alpha Male' mnemonic, the alpha angle is the:",
+    "choices": [
+      "Smarter angle",
+      "Bigger of the two angles",
+      "More common angle in men",
+      "Angle that decreases with age",
+      "Angle used for knee imaging"
+    ],
+    "answer": "B",
+    "detail": "Alpha is the Alpha Male — it should be the bigger angle (>60)."
+  },
+  {
+    "number": 54,
+    "question": "In a normal hip, the femoral epiphysis should be located:",
+    "choices": [
+      "Above Hilgenreiner’s line",
+      "Below Hilgenreiner’s line and MEDIAL to Perkin’s line",
+      "Lateral to Perkin’s line",
+      "Superior and lateral",
+      "Only visualizable after age 10"
+    ],
+    "answer": "B",
+    "detail": "The ideal location is below H-line and medial to P-line."
+  },
+  {
+    "number": 55,
+    "question": "A 'Shenton’s Line' that is NOT continuous suggests:",
+    "choices": [
+      "Normal variant",
+      "DDH or hip dislocation",
+      "SCFE",
+      "Septic arthritis",
+      "Osteopetrosis"
+    ],
+    "answer": "B",
+    "detail": "An interrupted Shenton’s line is a classic sign of DDH."
+  },
+  {
+    "number": 56,
+    "question": "'Proximal Focal Femoral Deficiency' presents with a classic history of a:",
+    "choices": [
+      "Fat teenager",
+      "'Tiny Frankenstein leg' (hypoplastic femur)",
+      "Small white 6-year-old",
+      "Newborn with bowed legs",
+      "Child with blue sclera"
+    ],
+    "answer": "B",
+    "detail": "This is a congenital zebra characterized by a fucked up tiny leg."
+  },
+  {
+    "number": 57,
+    "question": "'Slipped Capital Femoral Epiphysis' (SCFE) is technically which Salter-Harris fracture type?",
+    "choices": [
+      "Type 1",
+      "Type 2",
+      "Type 3",
+      "Type 4",
+      "Type 5"
+    ],
+    "answer": "A",
+    "detail": "SCFE is an SH Type 1 fracture through the proximal femoral physis."
+  },
+  {
+    "number": 58,
+    "question": "What is the classic demographic for a SCFE patient?",
+    "choices": [
+      "Small white 5-year-old",
+      "Fat African American adolescent (age 12–15)",
+      "Newborn female",
+      "Professional athlete",
+      "Child with rickets"
+    ],
+    "answer": "B",
+    "detail": "SCFE loves overweight black kids."
+  },
+  {
+    "number": 59,
+    "question": "Which radiographic view is 'the money' and most sensitive for diagnosing SCFE?",
+    "choices": [
+      "AP neutral",
+      "Frog-leg lateral",
+      "Sunrise view",
+      "Swimmer's view",
+      "Oblique"
+    ],
+    "answer": "B",
+    "detail": "The frog-leg view is the correct answer for 'next step' questions regarding SCFE."
+  },
+  {
+    "number": 60,
+    "question": "'Klein’s Line' is used to evaluate for SCFE; it is drawn along the edge of the femur and should normally:",
+    "choices": [
+      "Not touch the epiphysis",
+      "Intersect the lateral superior femoral epiphysis",
+      "Pass through the lesser trochanter",
+      "Be parallel to the growth plate",
+      "Be vertical"
+    ],
+    "answer": "B",
+    "detail": "If Klein's line does NOT cross the epiphysis, think SCFE."
+  },
+  {
+    "number": 61,
+    "question": "'Legg-Calve-Perthes' (Perthes) is defined as:",
+    "choices": [
+      "A fracture",
+      "AVN of the proximal femoral epiphysis",
+      "A bacterial infection",
+      "A traction injury",
+      "Malignant tumor"
+    ],
+    "answer": "B",
+    "detail": "Perthes is AVN."
+  },
+  {
+    "number": 62,
+    "question": "What is the classic demographic for Legg-Calve-Perthes?",
+    "choices": [
+      "Overweight black kids",
+      "Small white boys (age 5–8)",
+      "Newborn females",
+      "Athletes age 18",
+      "Patients with diabetes"
+    ],
+    "answer": "B",
+    "detail": "Perthes typically affects small white kids."
+  },
+  {
+    "number": 63,
+    "question": "The 'crescent sign' (subchondral lucency) in Perthes is best seen on which view?",
+    "choices": [
+      "AP",
+      "Frog-leg",
+      "Lateral decubitus",
+      "Axial CT",
+      "Oblique"
+    ],
+    "answer": "B",
+    "detail": "The crescent sign is best seen on a frog-leg."
+  },
+  {
+    "number": 64,
+    "question": "Which of the following is TRUE regarding the laterality of SCFE and Perthes?",
+    "choices": [
+      "Perthes is bilateral in 50%",
+      "SCFE is bilateral in 30%; Perthes is bilateral in 10%",
+      "Both are always unilateral",
+      "Perthes is always bilateral",
+      "SCFE never occurs on both sides"
+    ],
+    "answer": "B",
+    "detail": "SCFE (30%) is more frequently bilateral than Perthes (10%)."
+  },
+  {
+    "number": 65,
+    "question": "'Septic Arthritis' of the hip is considered a surgical emergency because it can:",
+    "choices": [
+      "Cause rickets",
+      "Destroy the kid's cartilage within 4 days",
+      "Lead to leukemia",
+      "Cause lead poisoning",
+      "Heal without intervention"
+    ],
+    "answer": "B",
+    "detail": "A septic hip will fucking destroy the cartilage if missed."
+  },
+  {
+    "number": 66,
+    "question": "What clinical parameter system is used to distinguish Septic Arthritis from Transient Synovitis?",
+    "choices": [
+      "Wells Score",
+      "Kocher Criteria",
+      "Balthazar Score",
+      "Child-Pugh",
+      "MELD"
+    ],
+    "answer": "B",
+    "detail": "The Kocher Criteria (fever, non-weight bearing, ESR/CRP, WBC) is used."
+  },
+  {
+    "number": 67,
+    "question": "Which of the following is the STRONGEST independent risk factor for septic arthritis?",
+    "choices": [
+      "Fever",
+      "Elevated CRP",
+      "High WBC",
+      "Inability to walk",
+      "Blue eyes"
+    ],
+    "answer": "B",
+    "detail": "CRP is the strongest indicator."
+  },
+  {
+    "number": 68,
+    "question": "'Transient Synovitis' (toxic synovitis) is a sterile hip effusion that typically occurs after:",
+    "choices": [
+      "Trauma",
+      "A viral URI or GI illness",
+      "A fracture",
+      "Antibiotic use",
+      "Birth"
+    ],
+    "answer": "B",
+    "detail": "It is a sterile (reactive) effusion following a systemic illness."
+  },
+  {
+    "number": 69,
+    "question": "'Rickets' is a metabolic bone disease caused by a deficiency in:",
+    "choices": [
+      "Vitamin C",
+      "Vitamin D",
+      "Calcium only",
+      "Phosphorus",
+      "Iron"
+    ],
+    "answer": "B",
+    "detail": "Rickets is a lack of Vitamin D."
+  },
+  {
+    "number": 70,
+    "question": "What are the classic buzzwords for the radiographic appearance of Rickets?",
+    "choices": [
+      "'Celery stalk'",
+      "'Fraying, cupping, and irregularity along the physis'",
+      "'H-shaped vertebrae'",
+      "'Button sequestrum'",
+      "'Onion skinning'"
+    ],
+    "answer": "B",
+    "detail": "Fraying and cupping of the growth plates is the classic look."
+  },
+  {
+    "number": 71,
+    "question": "As a high-yield pearl, Rickets is NEVER seen in:",
+    "choices": [
+      "Teenagers",
+      "Newborns",
+      "5-year-olds",
+      "Patients with Renal failure",
+      "Girls"
+    ],
+    "answer": "B",
+    "detail": "Rickets is never seen in a newborn because maternal Vitamin D stores are still active."
+  },
+  {
+    "number": 72,
+    "question": "'Hypophosphatasia' is a metabolic condition that:",
+    "choices": [
+      "Is identical to scurvy",
+      "Looks like Rickets in a NEWBORN",
+      "Is caused by too much Vitamin D",
+      "Causes a hot mandible",
+      "Only affects the skull"
+    ],
+    "answer": "B",
+    "detail": "It is the 'Rickets of the newborn'."
+  },
+  {
+    "number": 73,
+    "question": "'Scurvy' (Vitamin C deficiency) characteristically does NOT occur before:",
+    "choices": [
+      "Birth",
+      "6 months of age",
+      "2 years",
+      "10 years",
+      "It only occurs in adults"
+    ],
+    "answer": "B",
+    "detail": "It does NOT occur before 6 months due to maternal buffers."
+  },
+  {
+    "number": 74,
+    "question": "A 'Scorbutic rosary' in scurvy results from the expansion of the:",
+    "choices": [
+      "Tibial tubercle",
+      "Costochondral junctions (rib ends)",
+      "Distal radius",
+      "Orbit",
+      "Metacarpals"
+    ],
+    "answer": "B",
+    "detail": "This is the Vitamin C version of the rachitic rosary."
+  },
+  {
+    "number": 75,
+    "question": "'Lead Poisoning' produces which characteristic radiographic finding?",
+    "choices": [
+      "Lucent metaphyseal bands",
+      "Wide sclerotic metaphyseal lines ('lead lines')",
+      "'Celery stalk' appearance",
+      "Destruction of the medial tibia",
+      "Flattened vertebrae"
+    ],
+    "answer": "B",
+    "detail": "Lead lines are wide sclerotic lines in areas of rapid growth."
+  },
+  {
+    "number": 76,
+    "question": "Which of the following is NOT part of the differential for 'Lucent Metaphyseal Bands' (mnemonic LINE)?",
+    "choices": [
+      "Leukemia",
+      "Infection (TORCH)",
+      "Neuroblastoma Mets",
+      "Lead Poisoning",
+      "Endocrine (Rickets/Scurvy)"
+    ],
+    "answer": "D",
+    "detail": "Lead poisoning causes SCLEROTIC lines, while the others cause LUCENT bands."
+  },
+  {
+    "number": 77,
+    "question": "In 'Non-Accidental Trauma' (NAT), which type of rib fracture is highly specific and reliable?",
+    "choices": [
+      "Anterior fractures",
+      "Posterior medial rib fractures",
+      "Lateral fractures",
+      "Only fractures of the 1st rib",
+      "Comminuted fractures"
+    ],
+    "answer": "B",
+    "detail": "Posterior medial rib fractures are reliably associated with squeezing/abuse."
+  },
+  {
+    "number": 78,
+    "question": "'Metaphyseal Corner Fractures' (Bucket Handle fractures) are HIGHLY specific for NAT in which patient group?",
+    "choices": [
+      "Non-ambulatory infants",
+      "Teenagers",
+      "5-year-old athletes",
+      "Post-menopausal women",
+      "Newborns with obstetric trauma"
+    ],
+    "answer": "A",
+    "detail": "These are highly specific in non-ambulatory infants."
+  },
+  {
+    "number": 79,
+    "question": "Regarding 'Dating the Fracture' in abuse, the presence of 'periosteal reaction' means the fracture is:",
+    "choices": [
+      "Less than 24 hours old",
+      "Less than a week old",
+      "Exactly 1 month old",
+      "Over 12 weeks old",
+      "Infected"
+    ],
+    "answer": "B",
+    "detail": "Periosteal reaction indicates the injury is recent (less than a week)."
+  },
+  {
+    "number": 80,
+    "question": "'Complete healing' of a pediatric fracture typically occurs in:",
+    "choices": [
+      "1 week",
+      "2 weeks",
+      "4 weeks",
+      "12 weeks",
+      "1 year"
+    ],
+    "answer": "D",
+    "detail": "12 weeks is the timeframe for complete healing."
+  },
+  {
+    "number": 81,
+    "question": "Which two conditions are common 'Child Abuse Mimics' that feature multiple fractures?",
+    "choices": [
+      "Rickets and Osteogenesis Imperfecta (OI)",
+      "Lead poisoning and Syphilis",
+      "LCH and Neuroblastoma",
+      "Scurvy and Rubella",
+      "Perthes and SCFE"
+    ],
+    "answer": "A",
+    "detail": "Rickets and OI are the classic mimics of abuse."
+  },
+  {
+    "number": 82,
+    "question": "'Wormian bones' and low bone mineral density are clues that you are dealing with:",
+    "choices": [
+      "True NAT",
+      "An abuse mimic (like OI)",
+      "Lead poisoning",
+      "Caffey Disease",
+      "Leukemia"
+    ],
+    "answer": "B",
+    "detail": "These features suggest a systemic bone disease rather than trauma."
+  },
+  {
+    "number": 83,
+    "question": "'Vertebra plana' (pancake flat bone) in an ADULT should make you think of:",
+    "choices": [
+      "LCH",
+      "Mets / Myeloma",
+      "Rickets",
+      "Osteopetrosis",
+      "Paget's"
+    ],
+    "answer": "B",
+    "detail": "While it's LCH in kids, it's Mets/Myeloma in adults."
+  },
+  {
+    "number": 84,
+    "question": "A 'floating tooth' appearance in a child's mandible is a classic description for:",
+    "choices": [
+      "Caffey Disease",
+      "Langerhans Cell Histiocytosis (LCH)",
+      "Osteopetrosis",
+      "Rickets",
+      "Syphilis"
+    ],
+    "answer": "B",
+    "detail": "LCH can involve the alveolar ridge, creating the floating tooth look."
+  },
+  {
+    "number": 85,
+    "question": "'Blount Disease' (Tibia Vara) is often asymmetric and associated with:",
+    "choices": [
+      "Late walking",
+      "Early walking in a 'fat, black kid'",
+      "High Vitamin D intake",
+      "Blue sclera",
+      "Absent clavicles"
+    ],
+    "answer": "B",
+    "detail": "Blount's is a growth disturbance of the proximal medial tibia associated with early walking."
+  },
+  {
+    "number": 86,
+    "question": "'Osteoid Osteoma' is characterized by 'pain at night' that is famously relieved by:",
+    "choices": [
+      "Tylenol",
+      "Aspirin",
+      "Exercise",
+      "Heat",
+      "Sleep"
+    ],
+    "answer": "B",
+    "detail": "Pain relieved by aspirin is the classic story."
+  },
+  {
+    "number": 87,
+    "question": "The classic location for an Osteoid Osteoma in the spine is the:",
+    "choices": [
+      "Vertebral body",
+      "Posterior elements (Lumbar > Cervical)",
+      "Intervertebral disc",
+      "Transverse process only",
+      "Sacrum"
+    ],
+    "answer": "B",
+    "detail": "They favor the posterior elements."
+  },
+  {
+    "number": 88,
+    "question": "'Chondroblastoma' is a pediatric bone tumor (age 5–25) characteristically located in the:",
+    "choices": [
+      "Metaphysis",
+      "Epiphysis (especially the tibia)",
+      "Diaphysis",
+      "Bone marrow",
+      "Soft tissues"
+    ],
+    "answer": "B",
+    "detail": "Chondroblastoma is an epiphyseal tumor."
+  },
+  {
+    "number": 89,
+    "question": "Which of the following is considered an 'epiphyseal equivalent' for tumor localization?",
+    "choices": [
+      "The midshaft of the femur",
+      "The Patella, Calcaneus, or Apophyses",
+      "The vertebral body",
+      "The skull",
+      "The ribs"
+    ],
+    "answer": "B",
+    "detail": "The patella and calcaneus are treated as epiphyses for differentials."
+  },
+  {
+    "number": 90,
+    "question": "Unlike most bone tumors, a Chondroblastoma on MRI is often:",
+    "choices": [
+      "Super T2 bright",
+      "NOT T2 bright",
+      "Fat-containing",
+      "Totally black on all sequences",
+      "Non-enhancing"
+    ],
+    "answer": "B",
+    "detail": "It is one of the few bone lesions that is NOT T2 bright."
+  },
+  {
+    "number": 91,
+    "question": "'Ewing Sarcoma' is the 2nd most common primary bone tumor in kids and classically features:",
+    "choices": [
+      "Sclerotic borders",
+      "'Onion skin' periosteal reaction and permeative appearance",
+      "Calcified soft tissue mass",
+      "Epiphyseal location",
+      "Benign clinical outcome"
+    ],
+    "answer": "B",
+    "detail": "Ewing's is a 'small round blue cell tumor' with onion skinning."
+  },
+  {
+    "number": 92,
+    "question": "Where does Ewing Sarcoma most commonly occur?",
+    "choices": [
+      "Epiphysis of the tibia",
+      "Diaphysis of the femur",
+      "Metaphysis of the humerus",
+      "Posterior elements of the spine",
+      "The skull"
+    ],
+    "answer": "B",
+    "detail": "It typically favors the diaphysis."
+  },
+  {
+    "number": 93,
+    "question": "'Osteopetrosis' (marble bone disease) is characterized by thick cortical bone and:",
+    "choices": [
+      "T1 bright marrow",
+      "Loss of normal T1 marrow signal (T1 and T2 dark)",
+      "Multiple lucent lesions",
+      "Blue sclera",
+      "Fragile skin"
+    ],
+    "answer": "B",
+    "detail": "The bones are dense and dark on all MRI sequences."
+  },
+  {
+    "number": 94,
+    "question": "'Thalassemia' marrow changes in the skull result in which classic appearance?",
+    "choices": [
+      "'Cotton wool'",
+      "'Hair-on-end' skull",
+      "'Pancake' flat",
+      "'Beveled edge'",
+      "'H-shaped'"
+    ],
+    "answer": "B",
+    "detail": "Thalassemia produces the hair-on-end look due to extramedullary hematopoiesis."
+  },
+  {
+    "number": 95,
+    "question": "Which condition features 'H-shaped vertebrae' on a lateral X-ray?",
+    "choices": [
+      "Rickets",
+      "Sickle Cell Disease",
+      "Thalassemia",
+      "Osteopetrosis",
+      "LCH"
+    ],
+    "answer": "B",
+    "detail": "Sickle cell causes central endplate infarcts, creating H-shaped vertebrae."
+  },
+  {
+    "number": 96,
+    "question": "The 'Mickey Mouse Sign' in pediatric MSK/Neuro refers to:",
+    "choices": [
+      "Tegmentum atrophy in Progressive Supranuclear Palsy (PSP)",
+      "A type of foot deformity",
+      "The appearance of the thyroid",
+      "A sign of rickets",
+      "Rib notching"
+    ],
+    "answer": "A",
+    "detail": "Mickey Mouse Sign = Tegmentum atrophy."
+  },
+  {
+    "number": 97,
+    "question": "'Nonossifying Fibroma' (NOF) is a very common benign lesion in children that:",
+    "choices": [
+      "Requires aggressive surgery",
+      "Will spontaneously regress and migrate away from the physis",
+      "Is always associated with pain",
+      "Is located in the epiphysis",
+      "Never calcifies"
+    ],
+    "answer": "B",
+    "detail": "NOFs are common, eccentric, and spontaneously regress."
+  },
+  {
+    "number": 98,
+    "question": "An NOF larger than 3 cm is called a 'Nonossifying Fibroma,' while one smaller than 3 cm is a:",
+    "choices": [
+      "Solitary bone cyst",
+      "Fibrous Cortical Defect",
+      "Osteoid Osteoma",
+      "Brodie Abscess",
+      "Giant Cell Tumor"
+    ],
+    "answer": "B",
+    "detail": "< 3 cm = Fibrous Cortical Defect."
+  },
+  {
+    "number": 99,
+    "question": "A 'bone scan with hot skull sutures' in a child is a clue for:",
+    "choices": [
+      "Abuse",
+      "Renal Osteodystrophy",
+      "Paget's",
+      "LCH",
+      "Normal development"
+    ],
+    "answer": "B",
+    "detail": "Hot skull sutures is a sign for renal osteodystrophy."
+  },
+  {
+    "number": 100,
+    "question": "'Finger-in-glove' sign on a chest X-ray of a pediatric patient with MSK issues (like club foot) suggests:",
+    "choices": [
+      "Pneumonia",
+      "Mucus plugging in Cystic Fibrosis",
+      "Osteosarcoma",
+      "Rickets",
+      "Scurvy"
+    ],
+    "answer": "B",
+    "detail": "Finger-in-glove is the sign for mucus plugging."
+  }
+]
+
+}

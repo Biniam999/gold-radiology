@@ -1,0 +1,656 @@
+{
+    "questions": 
+[
+  {
+    "number": 1,
+    "question": "Bone marrow consists of three primary components. Which of these is described as fat for a 'purpose unknown at this time'?",
+    "choices": [
+      "A. Trabecular bone",
+      "B. Red marrow",
+      "C. Yellow marrow",
+      "D. Cortical bone",
+      "E. Osteoid matrix"
+    ],
+    "answer": "C",
+    "detail": "Yellow marrow is fundamentally fatty tissue, and its physiological purpose remains 'unknown at this time'."
+  },
+  {
+    "number": 2,
+    "question": "At what age is the conversion of red marrow to yellow marrow usually completed in the human body?",
+    "choices": [
+      "A. Infancy",
+      "B. Early childhood (age 5)",
+      "C. Puberty (age 12–15)",
+      "D. Mid 20s",
+      "E. Late adulthood (age 60+)"
+    ],
+    "answer": "D",
+    "detail": "Marrow conversion is a developmental process that is typically complete by the mid-20s."
+  },
+  {
+    "number": 3,
+    "question": "In the normal pattern of marrow conversion, in which direction does the process move?",
+    "choices": [
+      "A. Proximal to distal",
+      "B. Axial to peripheral",
+      "C. Distal to proximal",
+      "D. Superior to inferior",
+      "E. Random distribution"
+    ],
+    "answer": "C",
+    "detail": "Normal conversion of red to yellow marrow occurs in a distal-to-proximal direction, starting in the extremities."
+  },
+  {
+    "number": 4,
+    "question": "Within a single long bone, which anatomical area converts from red to yellow marrow LAST?",
+    "choices": [
+      "A. Epiphysis",
+      "B. Apophysis",
+      "C. Diaphysis",
+      "D. Distal metaphysis",
+      "E. Proximal metaphysis"
+    ],
+    "answer": "E",
+    "detail": "The conversion sequence within a long bone is Epiphysis -> Diaphysis -> Distal Metaphysis -> Proximal Metaphysis."
+  },
+  {
+    "number": 5,
+    "question": "Which of the following is considered a normal variant of red marrow persistence in an adult?",
+    "choices": [
+      "A. Red marrow in the mid-shaft of the tibia",
+      "B. Red marrow in the humeral and femoral heads",
+      "C. Red marrow in the distal phalanges",
+      "D. Red marrow in the calcaneal diaphysis",
+      "E. Red marrow in the radius"
+    ],
+    "answer": "B",
+    "detail": "Small areas of red marrow in the humeral and femoral heads are recognized as normal variants in adults."
+  },
+  {
+    "number": 6,
+    "question": "What is considered the 'money sequence' for evaluating bone marrow on MRI?",
+    "choices": [
+      "A. T2-weighted fat-saturated",
+      "B. STIR",
+      "C. T1-weighted (non-fat saturated)",
+      "D. Proton Density",
+      "E. Diffusion Weighted Imaging (DWI)"
+    ],
+    "answer": "C",
+    "detail": "T1-weighted MRI is the primary sequence for assessing marrow signal characteristics."
+  },
+  {
+    "number": 7,
+    "question": "On a T1-weighted MRI, how should normal red marrow signal compare to other internal structures?",
+    "choices": [
+      "A. It should be brighter than yellow marrow",
+      "B. It should never be darker than a normal intervertebral disc or muscle",
+      "C. It should be as dark as cortical bone",
+      "D. It should be brighter than subcutaneous fat",
+      "E. It should be darker than joint fluid"
+    ],
+    "answer": "B",
+    "detail": "Normal red marrow signal intensity on T1 should always be equal to or greater than that of muscle or a normal intervertebral disc."
+  },
+  {
+    "number": 8,
+    "question": "Marrow 'reconversion' (yellow back to red) occurs in the exact reverse order of normal conversion. Where does this process begin?",
+    "choices": [
+      "A. Hands and feet",
+      "B. Distal long bones",
+      "C. Axial skeleton (spine and flat bones)",
+      "D. Epiphyses of the knees",
+      "E. Diaphysis of the humerus"
+    ],
+    "answer": "C",
+    "detail": "Marrow reconversion follows the reverse path of conversion, initiating in the axial skeleton."
+  },
+  {
+    "number": 9,
+    "question": "Patchy areas of red marrow in the proximal femoral metaphysis is a normal variant seen in which population?",
+    "choices": [
+      "A. Newborns",
+      "B. Teenagers",
+      "C. Elderly men",
+      "D. Post-menopausal women",
+      "E. Professional athletes over age 40"
+    ],
+    "answer": "B",
+    "detail": "In teenagers, patchy red marrow signal in the proximal femoral metaphysis is a classic normal finding."
+  },
+  {
+    "number": 10,
+    "question": "'Distal femoral sparing' of red marrow is a normal variant classically seen in teenagers and:",
+    "choices": [
+      "A. Infants",
+      "B. Menstruating women",
+      "C. Patients with chronic anemia",
+      "D. Heavy smokers",
+      "E. Bodybuilders"
+    ],
+    "answer": "B",
+    "detail": "Menstruating women often demonstrate red marrow sparing in the distal femur, which is considered normal."
+  },
+  {
+    "number": 11,
+    "question": "On a sagittal T1 MRI of the spine, you identify marrow that is darker than the adjacent (non-desiccated) disc. What is the most likely diagnosis?",
+    "choices": [
+      "A. Normal aging",
+      "B. Osteoporosis",
+      "C. Leukemia or infiltrative process",
+      "D. Marrow conversion",
+      "E. Modic Type 2 change"
+    ],
+    "answer": "C",
+    "detail": "If marrow is darker than the adjacent disc on T1, it is a pathologic sign of an infiltrative process like leukemia."
+  },
+  {
+    "number": 12,
+    "question": "Multiple Myeloma is a notable exception to the rule that infiltrative conditions affect marrow diffusely. How does it typically present on MRI?",
+    "choices": [
+      "A. Diffuse high T1 signal",
+      "B. Focal 'speckled' deposits",
+      "C. Uniform T2 signal dropout",
+      "D. Marrow is brighter than fat",
+      "E. No marrow signal change"
+    ],
+    "answer": "B",
+    "detail": "Unlike many infiltrative processes, Multiple Myeloma often appears as multifocal, speckled deposits on MRI."
+  },
+  {
+    "number": 13,
+    "question": "A 'Chloroma' (Granulocytic Sarcoma) is best described as a destructive mass in the bone of a patient with:",
+    "choices": [
+      "A. Myeloma",
+      "B. Leukemia",
+      "C. Waldenstrom’s macroglobulinemia",
+      "D. Sickle Cell Disease",
+      "E. Osteopetrosis"
+    ],
+    "answer": "B",
+    "detail": "A chloroma is a solid, destructive accumulation of leukemic cells occurring in bone or soft tissue."
+  },
+  {
+    "number": 14,
+    "question": "In ultrasound, 'Anisotropy' occurs when the sound beam is:",
+    "choices": [
+      "A. Perpendicular to the tendon",
+      "B. NOT perpendicular to the tendon",
+      "C. Parallel to the sound beam",
+      "D. Focused on a calcification",
+      "E. Traveling through fluid only"
+    ],
+    "answer": "B",
+    "detail": "Anisotropy is an ultrasound artifact that occurs when the beam is not perpendicular to the orientation of the tendon fibers."
+  },
+  {
+    "number": 15,
+    "question": "Anisotropy is most problematic and common when imaging which tendon as it curves along the humeral head?",
+    "choices": [
+      "A. Subscapularis",
+      "B. Infraspinatus",
+      "C. Supraspinatus",
+      "D. Teres minor",
+      "E. Long head of the biceps"
+    ],
+    "answer": "C",
+    "detail": "The curvature of the supraspinatus tendon makes it highly susceptible to anisotropy artifacts during shoulder ultrasound."
+  },
+  {
+    "number": 16,
+    "question": "Why is anisotropy considered a 'pain in the ass' for radiologists?",
+    "choices": [
+      "A. It makes the tendon look brighter (hyperechoic) than normal",
+      "B. It can make a normal tendon look hypoechoic, mimicking injury",
+      "C. It only occurs in obese patients",
+      "D. It requires expensive software to correct",
+      "E. It prevents the visualization of bone"
+    ],
+    "answer": "B",
+    "detail": "Anisotropy causes normal tendons to appear hypoechoic (darker), which can be mistaken for a tear or tendinosis."
+  },
+  {
+    "number": 17,
+    "question": "On ultrasound, a normal tendon appears:",
+    "choices": [
+      "A. Hypoechoic",
+      "B. Anechoic",
+      "C. Hyperechoic",
+      "D. Isoechoic to fat",
+      "E. Signal-void"
+    ],
+    "answer": "C",
+    "detail": "A normal, healthy tendon is characteristically hyperechoic (bright) on ultrasound."
+  },
+  {
+    "number": 18,
+    "question": "Tendon tears on ultrasound are typically identified as:",
+    "choices": [
+      "A. Focal hyperechoic areas",
+      "B. Focal hypoechoic areas",
+      "C. Areas of increased thickness with no signal change",
+      "D. Areas of 'comet tail' artifact",
+      "E. Areas of posterior acoustic enhancement"
+    ],
+    "answer": "B",
+    "detail": "Focal areas of decreased echogenicity (hypoechoic) are the standard ultrasound markers for tendon tears."
+  },
+  {
+    "number": 19,
+    "question": "To diagnose 'Plantar Fasciitis' on ultrasound, the thickness of the plantar fascia should be greater than:",
+    "choices": [
+      "A. 1 mm",
+      "B. 2 mm",
+      "C. 4 mm",
+      "D. 10 mm",
+      "E. 15 mm"
+    ],
+    "answer": "C",
+    "detail": "Thickness exceeding 4 mm is the recognized ultrasound diagnostic threshold for plantar fasciitis."
+  },
+  {
+    "number": 20,
+    "question": "Which band of the plantar fascia is most commonly involved in Plantar Fasciitis?",
+    "choices": [
+      "A. Medial band",
+      "B. Lateral band",
+      "C. Central band",
+      "D. All bands are involved equally",
+      "E. The posterior band"
+    ],
+    "answer": "C",
+    "detail": "Plantar fasciitis is most frequently localized to the central band of the fascia."
+  },
+  {
+    "number": 21,
+    "question": "'Calcific Tendonitis' on ultrasound classically demonstrates which of the following?",
+    "choices": [
+      "A. Posterior acoustic enhancement",
+      "B. Shadowing, similar to a gallstone",
+      "C. Diffuse hypoechoic swelling",
+      "D. 'Reverberation' artifact",
+      "E. Increased Doppler flow in the calcium"
+    ],
+    "answer": "B",
+    "detail": "Calcium deposits within a tendon cause significant acoustic shadowing on ultrasound, similar to gallstones."
+  },
+  {
+    "number": 22,
+    "question": "Where is the most common site for Calcific Tendonitis (HADD) to be identified by ultrasound?",
+    "choices": [
+      "A. Patellar tendon",
+      "B. Achilles tendon",
+      "C. Supraspinatus tendon",
+      "D. Plantar fascia",
+      "E. Biceps tendon in the groove"
+    ],
+    "answer": "C",
+    "detail": "The supraspinatus tendon is the most frequent anatomical site for hydroxyapatite deposition disease (HADD)."
+  },
+  {
+    "number": 23,
+    "question": "When performing a joint procedure, what is the 'actual' target for the needle?",
+    "choices": [
+      "A. The joint space center",
+      "B. The articular cartilage",
+      "C. The bone within the capsule",
+      "D. The adjacent nerve bundle",
+      "E. The skin directly over the joint"
+    ],
+    "answer": "C",
+    "detail": "To ensure intra-articular needle placement, the operator must touch bone that is located within the joint capsule."
+  },
+  {
+    "number": 24,
+    "question": "During an arthrogram, why is it critical to avoid putting air into the joint?",
+    "choices": [
+      "A. It causes immediate joint infection",
+      "B. It leads to patient discomfort",
+      "C. It causes susceptibility artifact on MRI",
+      "D. It prevents contrast from flowing",
+      "E. It makes the joint appear too small"
+    ],
+    "answer": "C",
+    "detail": "Intra-articular air causes significant magnetic susceptibility artifacts ('blooming') on subsequent MRI images."
+  },
+  {
+    "number": 25,
+    "question": "For a hip arthrogram, what is the specific target for needle advancement?",
+    "choices": [
+      "A. The center of the femoral head",
+      "B. The superior femoral head-neck junction",
+      "C. The acetabular labrum",
+      "D. The lesser trochanter",
+      "E. The iliopectineal line"
+    ],
+    "answer": "B",
+    "detail": "The superior aspect of the femoral head-neck junction is the standard target for hip joint access."
+  },
+  {
+    "number": 26,
+    "question": "In which position is the hip capsule the widest, making it the ideal target for a joint injection?",
+    "choices": [
+      "A. Acetabular roof",
+      "B. Head-neck junction",
+      "C. Mid-femoral neck",
+      "D. Fovea centralis",
+      "E. Greater trochanter"
+    ],
+    "answer": "B",
+    "detail": "The joint capsule is anatomically widest at the femoral head-neck junction."
+  },
+  {
+    "number": 27,
+    "question": "What is the standard 'cocktail' volume typically injected for a hip arthrogram?",
+    "choices": [
+      "A. 5 cc",
+      "B. 10 cc",
+      "C. 14 cc",
+      "D. 25 cc",
+      "E. 50 cc"
+    ],
+    "answer": "C",
+    "detail": "A total volume of approximately 14 cc is commonly used for hip arthrography cocktails."
+  },
+  {
+    "number": 28,
+    "question": "What is the recommended amount of Gadolinium (Gd) used in a standard hip or shoulder arthrogram cocktail?",
+    "choices": [
+      "A. 0.1 cc",
+      "B. 1.0 cc",
+      "C. 5.0 cc",
+      "D. 10.0 cc",
+      "E. 0.01 cc"
+    ],
+    "answer": "A",
+    "detail": "Standard protocols utilize 0.1 cc of Gadolinium in a dilute cocktail for arthrography."
+  },
+  {
+    "number": 29,
+    "question": "To localize the target for a shoulder arthrogram, how should the patient's hand be positioned?",
+    "choices": [
+      "A. Pronated",
+      "B. Neutral",
+      "C. Supinated (externally rotated)",
+      "D. Tucked under the hip",
+      "E. Raised above the head"
+    ],
+    "answer": "C",
+    "detail": "Placing the hand in supination (external rotation) helps open the joint space for the procedure."
+  },
+  {
+    "number": 30,
+    "question": "For a shoulder arthrogram, the needle should be directed toward the junction of which portion of the humeral head?",
+    "choices": [
+      "A. Upper and middle third",
+      "B. Middle and inferior third",
+      "C. Posterior and superior third",
+      "D. Directly into the bicipital groove",
+      "E. The anatomical neck apex"
+    ],
+    "answer": "B",
+    "detail": "The standard needle target for a shoulder arthrogram is the junction of the middle and inferior thirds of the humeral head."
+  },
+  {
+    "number": 31,
+    "question": "When performing a shoulder arthrogram, after striking bone, what is the next technical step?",
+    "choices": [
+      "A. Inject the full volume immediately",
+      "B. Pull back 1 mm and turn the bevel toward the humeral head",
+      "C. Advance another 5 mm into the bone",
+      "D. Rotate the arm internally",
+      "E. Aspirate for joint fluid"
+    ],
+    "answer": "B",
+    "detail": "After touching bone, pulling back slightly and orienting the bevel allows contrast to flow into the capsule."
+  },
+  {
+    "number": 32,
+    "question": "How can a radiologist confirm the needle is in the joint capsule before injecting the full arthrogram cocktail?",
+    "choices": [
+      "A. The patient reports severe pain",
+      "B. A small amount of contrast is injected and flows away from the tip",
+      "C. Air is aspirated",
+      "D. The needle 'pops' loudly",
+      "E. Blood is seen in the syringe"
+    ],
+    "answer": "B",
+    "detail": "Confirmation of intra-articular placement is established when contrast flows freely away from the needle tip."
+  },
+  {
+    "number": 33,
+    "question": "What is the total approximate volume of the cocktail injected for a shoulder arthrogram?",
+    "choices": [
+      "A. 8 cc",
+      "B. 12 cc",
+      "C. 20 cc",
+      "D. 30 cc",
+      "E. 4 cc"
+    ],
+    "answer": "B",
+    "detail": "A total volume of approximately 12 cc is injected for a standard shoulder arthrogram."
+  },
+  {
+    "number": 34,
+    "question": "If a patient is allergic to Gadolinium but needs a labral evaluation, what is the best alternative procedure?",
+    "choices": [
+      "A. MRI with saline only",
+      "B. Ultrasound of the labrum",
+      "C. CT Arthrogram",
+      "D. Nuclear medicine bone scan",
+      "E. No imaging is possible"
+    ],
+    "answer": "C",
+    "detail": "A CT arthrogram using iodinated contrast is the preferred alternative for evaluating the labrum in patients with Gd allergies."
+  },
+  {
+    "number": 35,
+    "question": "If a patient is allergic to CT contrast but needs a steroid/lidocaine injection for pain management, how can the radiologist confirm needle placement?",
+    "choices": [
+      "A. Inject Gadolinium",
+      "B. Inject air to confirm placement",
+      "C. Use 'the force' (no confirmation)",
+      "D. Perform a blind biopsy",
+      "E. Use ultrasound only"
+    ],
+    "answer": "B",
+    "detail": "If CT contrast is contraindicated, a small amount of air can be used to confirm intra-articular placement for a pain injection."
+  },
+  {
+    "number": 36,
+    "question": "Why is injecting air contraindicated for an arthrogram in a patient allergic to CT contrast?",
+    "choices": [
+      "A. It causes a 'big blooming mess' on MRI",
+      "B. It causes an air embolus",
+      "C. It prevents the steroid from working",
+      "D. It is too painful",
+      "E. It mimics a labral tear"
+    ],
+    "answer": "A",
+    "detail": "Air must not be used if the patient is proceeding to MRI, as it creates large blooming artifacts that obscure the anatomy."
+  },
+  {
+    "number": 37,
+    "question": "Marrow signal that turns yellow is often a response to:",
+    "choices": [
+      "A. Acute infection",
+      "B. Stress or degenerative change in the spine",
+      "C. Chronic anemia",
+      "D. High-altitude living",
+      "E. Hyperthyroidism"
+    ],
+    "answer": "B",
+    "detail": "Adult fatty (yellow) marrow conversion is often triggered by chronic stress or degenerative changes, particularly in the spine."
+  },
+  {
+    "number": 38,
+    "question": "In an infant younger than 18 months, why can osteomyelitis spread from the metaphysis to the epiphysis?",
+    "choices": [
+      "A. The growth plate is not yet formed",
+      "B. Transphyseal vessels are still present",
+      "C. Infants have higher marrow pressure",
+      "D. The epiphysis has no blood supply",
+      "E. It actually cannot spread in infants"
+    ],
+    "answer": "B",
+    "detail": "Persistent transphyseal vessels in infants allow infection to bypass the growth plate and reach the epiphysis."
+  },
+  {
+    "number": 39,
+    "question": "After what age do the transphyseal vessels usually atrophy, leading to the 'septic tank' effect in the metaphysis?",
+    "choices": [
+      "A. Birth",
+      "B. 6 months",
+      "C. 18 months",
+      "D. 5 years",
+      "E. Puberty"
+    ],
+    "answer": "C",
+    "detail": "By 18 months of age, these vessels typically atrophy, confining early hematogenous infection to the metaphysis."
+  },
+  {
+    "number": 40,
+    "question": "On MRI, what is considered the definitive sign of 'healed' osteomyelitis?",
+    "choices": [
+      "A. Disappearance of T2 edema",
+      "B. Resolution of periosteal reaction",
+      "C. Return of normal fatty marrow signal on T1",
+      "D. Sclerosis on plain film",
+      "E. Enhancement of the previous abscess cavity"
+    ],
+    "answer": "C",
+    "detail": "The restoration of normal bright fatty signal on T1-weighted MRI is the definitive imaging hallmark of a healed infection."
+  },
+  {
+    "number": 41,
+    "question": "Which 'buzzword' look is associated with the T2/STIR MRI appearance of ACL Mucoid Degeneration?",
+    "choices": [
+      "A. Drumstick",
+      "B. Celery stalk",
+      "C. Boomerang",
+      "D. Yo-yo",
+      "E. Double PCL"
+    ],
+    "answer": "B",
+    "detail": "'Celery stalk' describes the striated, thickened appearance of the ACL in mucoid degeneration on T2 images."
+  },
+  {
+    "number": 42,
+    "question": "The 'T1 buzzword' for ACL Mucoid Degeneration is:",
+    "choices": [
+      "A. Celery stalk",
+      "B. Drumstick",
+      "C. Target sign",
+      "D. Molar tooth",
+      "E. Rice body"
+    ],
+    "answer": "B",
+    "detail": "On T1 images, the ACL in mucoid degeneration is often described as having a 'drumstick' appearance."
+  },
+  {
+    "number": 43,
+    "question": "A 'Stenosing Tenosynovitis' around the ankle, specifically involving the FHL tendon, is common in patients with:",
+    "choices": [
+      "A. Tarsal Tunnel Syndrome",
+      "B. Os Trigonum Syndrome",
+      "C. Plantar Fasciitis",
+      "D. Morton's Neuroma",
+      "E. Achilles rupture"
+    ],
+    "answer": "B",
+    "detail": "Os Trigonum Syndrome is classically associated with inflammation and stenosis around the FHL (Harry) tendon."
+  },
+  {
+    "number": 44,
+    "question": "What ultrasound finding is diagnostic for 'Trigger Finger'?",
+    "choices": [
+      "A. Fluid in the extensor sheath",
+      "B. Thickened flexor tendon sheath",
+      "C. Shadowing calcification",
+      "D. Bony avulsion",
+      "E. Anisotropy of the A2 pulley"
+    ],
+    "answer": "B",
+    "detail": "Ultrasound reveals a thickened, scarred flexor tendon sheath at the A1 pulley in trigger finger."
+  },
+  {
+    "number": 45,
+    "question": "In the 'Pretzel Principle' of forearm fractures, if an isolated fracture of the proximal ulna is seen, what must the radiologist do next?",
+    "choices": [
+      "A. Get a wrist X-ray",
+      "B. Get an elbow X-ray",
+      "C. Order a CT of the humerus",
+      "D. Perform a joint aspiration",
+      "E. Apply a splint immediately"
+    ],
+    "answer": "B",
+    "detail": "According to the forearm ring principle, a proximal ulna fracture (Monteggia) necessitates an elbow X-ray to check for radial head dislocation."
+  },
+  {
+    "number": 46,
+    "question": "'Rice bodies' are infarcted synovium seen in TB infection of joints and:",
+    "choices": [
+      "A. Gout",
+      "B. End-stage Rheumatoid Arthritis (RA)",
+      "C. CPPD",
+      "D. Osteoarthritis",
+      "E. Psoriatic Arthritis"
+    ],
+    "answer": "B",
+    "detail": "Rice bodies are characteristic features of both chronic tuberculous arthritis and end-stage Rheumatoid Arthritis."
+  },
+  {
+    "number": 47,
+    "question": "Which 'Aunt Minnie' clinical history is associated with an avulsion of the calcaneal tuberosity?",
+    "choices": [
+      "A. Hypertension",
+      "B. Diabetes",
+      "C. Alcoholism",
+      "D. Smoking",
+      "E. Obesity"
+    ],
+    "answer": "B",
+    "detail": "Calcaneal tuberosity avulsion fractures are an 'Aunt Minnie' radiographic sign for underlying Diabetes."
+  },
+  {
+    "number": 48,
+    "question": "In the 'Classic Flat Foot Progression,' what is the first structure to fail?",
+    "choices": [
+      "A. Spring ligament",
+      "B. Plantar fascia",
+      "C. Posterior Tibial Tendon (PTT)",
+      "D. Sinus tarsi",
+      "E. Achilles tendon"
+    ],
+    "answer": "C",
+    "detail": "Failure of the Posterior Tibial Tendon (PTT) is the primary initiator of the flat foot collapse sequence."
+  },
+  {
+    "number": 49,
+    "question": "An MRI showing a 'Boomerang-shaped' Peroneus Brevis tendon is diagnostic of:",
+    "choices": [
+      "A. Normal variant",
+      "B. Full thickness rupture",
+      "C. A longitudinal split tear",
+      "D. Acute tenosynovitis",
+      "E. Subluxation"
+    ],
+    "answer": "C",
+    "detail": "A boomerang-shaped or 'C-shaped' Peroneus Brevis tendon on axial MRI indicates a longitudinal split tear."
+  },
+  {
+    "number": 50,
+    "question": "'Pelvic Congestion Syndrome' is most commonly tested using which clinical demographic?",
+    "choices": [
+      "A. Elderly men with prostate issues",
+      "B. Depressed, multiparous, pre-menopausal women",
+      "C. Young athletic males",
+      "D. Infants with congenital heart disease",
+      "E. Post-menopausal women on estrogen therapy"
+    ],
+    "answer": "B",
+    "detail": "The classic board-tested demographic for pelvic congestion syndrome is depressed, multiparous, pre-menopausal women."
+  }
+]
+
+}

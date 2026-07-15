@@ -1,0 +1,1958 @@
+{
+    "questions": 
+ 
+ [
+    {
+      "number": 1,
+      "question": "The liver is covered by visceral peritoneum EXCEPT at the porta hepatis, the gallbladder fossa, and which other location?",
+      "choices": [
+        "The ligamentum teres",
+        "The bare area",
+        "The falciform ligament",
+        "The caudate lobe",
+        "The subphrenic recess"
+      ],
+      "answer": "B",
+      "detail": "The liver is covered by visceral peritoneum except at the porta hepatis, the bare area, and the gallbladder fossa."
+    },
+    {
+      "number": 2,
+      "question": "An injury to the 'bare area' of the liver can result in which type of hemorrhage?",
+      "choices": [
+        "Intraperitoneal bleed",
+        "Retroperitoneal bleed",
+        "Subcapsular hematoma",
+        "Intraductal hemorrhage",
+        "Hemopericardium"
+      ],
+      "answer": "B",
+      "detail": "Because it lacks a peritoneal covering, an injury to the bare area can result in a retroperitoneal bleed."
+    },
+    {
+      "number": 3,
+      "question": "In the Couinaud System of functional liver anatomy, what is the defining characteristic of each segment?",
+      "choices": [
+        "Each segment has its own unique nerve supply.",
+        "Each segment has its own biliary drainage, inflow, and outflow.",
+        "Segments are divided based on visceral surface markings.",
+        "Every segment must touch the diaphragm.",
+        "Segments are defined by the size of the overlying ribs."
+      ],
+      "answer": "B",
+      "detail": "The Couinaud System functionally divides the liver into segments, each with its own biliary drainage, inflow, and outflow."
+    },
+    {
+      "number": 4,
+      "question": "Which hepatic vein separates liver segments 7 and 8 from segments 6 and 5?",
+      "choices": [
+        "Right Hepatic Vein",
+        "Middle Hepatic Vein",
+        "Left Hepatic Vein",
+        "Accessory Hepatic Vein",
+        "Portal Vein"
+      ],
+      "answer": "A",
+      "detail": "The Right Hepatic Vein divides segments 7/8 from 6/5."
+    },
+    {
+      "number": 5,
+      "question": "Liver segments 4a and 8 are separated from segments 4b and 5 by which structure?",
+      "choices": [
+        "Middle Hepatic Vein",
+        "Left Hepatic Vein",
+        "Right Hepatic Vein",
+        "Falciform ligament",
+        "Ligamentum venosum"
+      ],
+      "answer": "A",
+      "detail": "The Middle Hepatic Vein divides segments 4a/8 from 4b/5."
+    },
+    {
+      "number": 6,
+      "question": "Which fissure or vein separates segment 4a/2 from segment 4b/3?",
+      "choices": [
+        "Middle Hepatic Vein",
+        "Left Hepatic Vein (and the Falciform ligament)",
+        "Right Hepatic Vein",
+        "Portal Vein",
+        "Gastroduodenal artery"
+      ],
+      "answer": "B",
+      "detail": "The Left Hepatic Vein and the fissure for the Ligamentum Teres (falciform) divide 4a/2 from 4b/3."
+    },
+    {
+      "number": 7,
+      "question": "Which major vessel divides the liver into 'Upper' and 'Lower' segments?",
+      "choices": [
+        "Right Hepatic Vein",
+        "Middle Hepatic Vein",
+        "Portal Vein",
+        "Hepatic Artery",
+        "IVC"
+      ],
+      "answer": "C",
+      "detail": "The Portal Vein divides the liver into upper and lower segments."
+    },
+    {
+      "number": 8,
+      "question": "What is the unique characteristic of the Caudate Lobe (Segment 1) regarding its venous drainage?",
+      "choices": [
+        "It drains exclusively into the portal vein.",
+        "It drains directly into the IVC.",
+        "It lacks any venous drainage.",
+        "It drains into the splenic vein.",
+        "It drains into the middle hepatic vein only."
+      ],
+      "answer": "B",
+      "detail": "The Caudate Lobe (Segment 1) is unique because it drains directly to the IVC."
+    },
+    {
+      "number": 9,
+      "question": "Cantlie’s Line is an anatomical landmark used to divide the liver into functional left and right lobes. It runs from the IVC to the:",
+      "choices": [
+        "Falciform ligament",
+        "Middle of the gallbladder fossa",
+        "Right paracolic gutter",
+        "Pylorus",
+        "Splenic hilum"
+      ],
+      "answer": "B",
+      "detail": "Cantlie’s Line runs from the IVC to the middle of the gallbladder fossa."
+    },
+    {
+      "number": 10,
+      "question": "What is the MOST common vascular variant of the liver?",
+      "choices": [
+        "Replaced left hepatic artery from the celiac axis",
+        "Replaced right hepatic artery (origin from the SMA)",
+        "Accessory right hepatic artery from the aorta",
+        "Common hepatic artery from the IMA",
+        "Triple hepatic artery"
+      ],
+      "answer": "B",
+      "detail": "The most common vascular variant is a replaced right hepatic artery originating from the SMA."
+    },
+    {
+      "number": 11,
+      "question": "What is the MOST common biliary variant?",
+      "choices": [
+        "Left hepatic duct draining into the cystic duct",
+        "Right posterior segmental duct draining into the left hepatic duct",
+        "Triple main hepatic ducts",
+        "Absent common hepatic duct",
+        "Right anterior duct draining into the duodenum"
+      ],
+      "answer": "B",
+      "detail": "The most common biliary variant is the right posterior segmental duct draining into the left hepatic duct."
+    },
+    {
+      "number": 12,
+      "question": "On MRI, how do the normal signal characteristics of the pancreas compare to the liver on a non-contrast T1-weighted image?",
+      "choices": [
+        "The liver is significantly brighter.",
+        "The pancreas is the brightest T1 structure in the body.",
+        "They are identical in signal.",
+        "The pancreas is darker than the liver.",
+        "Both are dark like the spleen."
+      ],
+      "answer": "B",
+      "detail": "The pancreas is the brightest T1 structure in the body due to enzymes; the liver is also T1 bright but less so than the pancreas."
+    },
+    {
+      "number": 13,
+      "question": "In normal fetal circulation, oxygenated blood from the placenta travels through the umbilical vein and is shunted into the IVC via the:",
+      "choices": [
+        "Foramen ovale",
+        "Ductus arteriosus",
+        "Ductus venosus",
+        "Portal vein",
+        "Hepatic artery"
+      ],
+      "answer": "C",
+      "detail": "Blood is shunted through the ductus venosus to the IVC."
+    },
+    {
+      "number": 14,
+      "question": "What does the ductus venosus become in the adult?",
+      "choices": [
+        "Ligamentum teres",
+        "Ligamentum venosum",
+        "Falciform ligament",
+        "Median umbilical ligament",
+        "Round ligament of the uterus"
+      ],
+      "answer": "B",
+      "detail": "The ductus venosus is the fetal precursor to the ligamentum venosum."
+    },
+    {
+      "number": 15,
+      "question": "According to ultrasound 'Classic Anatomy,' the echogenicity of the pancreas should be:",
+      "choices": [
+        "Less than the liver",
+        "Greater than the normal liver",
+        "Equal to the spleen",
+        "Identical to the renal cortex",
+        "Anechoic"
+      ],
+      "answer": "B",
+      "detail": "The pancreas should be more echogenic (brighter) than the liver on ultrasound."
+    },
+    {
+      "number": 16,
+      "question": "In the ultrasound 'Mickey Mouse Sign' of the porta hepatis, what does 'Mickey's Right Ear' (the patient's right) represent?",
+      "choices": [
+        "Portal Vein",
+        "Hepatic Artery",
+        "Common Bile Duct",
+        "IVC",
+        "Gallbladder"
+      ],
+      "answer": "C",
+      "detail": "In the Mickey Mouse Sign, the Common Bile Duct is the right ear, the Hepatic Artery is the left ear, and the Portal Vein is the face."
+    },
+    {
+      "number": 17,
+      "question": "Which liver organ ratio is highly specific (99%) for the diagnosis of cirrhosis?",
+      "choices": [
+        "Liver to Spleen ratio > 2.0",
+        "Caudate to Right Lobe (C/RL) ratio > 0.75",
+        "Caudate to Left Lobe ratio < 0.5",
+        "Right Lobe to Kidney ratio > 1.5",
+        "Segment 4 to Segment 8 ratio"
+      ],
+      "answer": "B",
+      "detail": "A C/RL ratio > 0.75 is 99% specific for cirrhosis."
+    },
+    {
+      "number": 18,
+      "question": "Morphologic changes of cirrhosis typically include atrophy of segments 6 and 7, with compensatory hypertrophy of:",
+      "choices": [
+        "The caudate (segment 1) and segments 2 and 3",
+        "The right lobe only",
+        "Segment 4 only",
+        "The entire liver uniformly",
+        "The gallbladder wall"
+      ],
+      "answer": "A",
+      "detail": "Cirrhosis causes atrophy of the right lobe with hypertrophy of the caudate and segments 2 and 3."
+    },
+    {
+      "number": 19,
+      "question": "What are the two classic morphologic 'notches' associated with a cirrhotic liver?",
+      "choices": [
+        "Anterior notch and superior notch",
+        "Wide perihilar region and 'Posterior Hepatic Notch'",
+        "Gastric notch and splenic notch",
+        "Pyloric notch and duodenal notch",
+        "There are no notches in cirrhosis"
+      ],
+      "answer": "B",
+      "detail": "Signs include a wide perihilar region and the posterior hepatic notch."
+    },
+    {
+      "number": 20,
+      "question": "For a multiphase CT of the liver, the 'Portal Venous Phase' imaging is typically acquired at how many seconds?",
+      "choices": [
+        "15-20 seconds",
+        "35 seconds",
+        "70 seconds",
+        "5 minutes",
+        "20 minutes"
+      ],
+      "answer": "C",
+      "detail": "The Portal Venous Phase occurs around 70 seconds."
+    },
+    {
+      "number": 21,
+      "question": "What is the standard 'Liver Window' setting for CT?",
+      "choices": [
+        "Center 40, Width 400",
+        "Center 100, Width 200",
+        "Center 0, Width 1000",
+        "Center 500, Width 100",
+        "Center 150, Width 50"
+      ],
+      "answer": "B",
+      "detail": "The liver window is Center 100, Width 200."
+    },
+    {
+      "number": 22,
+      "question": "Which MRI contrast agent is approximately 55% excreted into the bile, allowing for a 'Hepatocyte Specific' phase at 20 minutes?",
+      "choices": [
+        "Gd-DTPA (Magnevist)",
+        "Gd-BOPTA (Multihance)",
+        "Gd-EOB-DTPA (Eovist)",
+        "Manganese",
+        "Ultravist"
+      ],
+      "answer": "C",
+      "detail": "Eovist is the classic hepatocyte-specific agent with 55% biliary excretion."
+    },
+    {
+      "number": 23,
+      "question": "Gd-BOPTA (Multihance) has a much smaller biliary excretion fraction than Eovist, requiring a delay of how long to see the bile ducts?",
+      "choices": [
+        "5 minutes",
+        "10 minutes",
+        "20 minutes",
+        "45 minutes to 3 hours",
+        "24 hours"
+      ],
+      "answer": "D",
+      "detail": "Multihance has about 5% biliary excretion, requiring 45 minutes to 3 hours to accumulate in bile."
+    },
+    {
+      "number": 24,
+      "question": "What is the MOST common benign liver neoplasm?",
+      "choices": [
+        "FNH",
+        "Hepatic Adenoma",
+        "Hemangioma",
+        "Lipoma",
+        "Fibroma"
+      ],
+      "answer": "C",
+      "detail": "Hemangioma is the most common benign liver tumor, favoring women 5:1."
+    },
+    {
+      "number": 25,
+      "question": "A liver hemangioma typically matches the signal of which structure on CT and MRI?",
+      "choices": [
+        "The liver parenchyma",
+        "The aorta (blood pool)",
+        "The spleen",
+        "The gallbladder",
+        "The psoas muscle"
+      ],
+      "answer": "B",
+      "detail": "Hemangiomas match the blood pool/aorta in signal and enhancement."
+    },
+    {
+      "number": 26,
+      "question": "The critical enhancement pattern for a hemangioma is described as:",
+      "choices": [
+        "Uniform arterial enhancement",
+        "Peripheral nodular discontinuous enhancement",
+        "Central 'washout' pattern",
+        "Complete ring enhancement",
+        "Rapid 'flash filling' with immediate washout"
+      ],
+      "answer": "B",
+      "detail": "The hallmark is peripheral nodular discontinuous enhancement."
+    },
+    {
+      "number": 27,
+      "question": "A liver lesion larger than 5 cm with the characteristic enhancement of a hemangioma is termed a:",
+      "choices": [
+        "Hemangiosarcoma",
+        "Giant Hemangioma",
+        "Hepatoblastoma",
+        "Kasabach-Merritt lesion",
+        "Metastasis"
+      ],
+      "answer": "B",
+      "detail": "Hemangiomas larger than 5 cm are called Giant Hemangiomas."
+    },
+    {
+      "number": 28,
+      "question": "Which hepatic mass is known to change its sonographic appearance during the course of a single ultrasound examination?",
+      "choices": [
+        "FNH",
+        "HCC",
+        "Hemangioma",
+        "Hepatic Adenoma",
+        "Metastasis"
+      ],
+      "answer": "C",
+      "detail": "Hemangiomas are unique in their ability to change appearance during a single ultrasound exam."
+    },
+    {
+      "number": 29,
+      "question": "What is the second most common benign liver neoplasm?",
+      "choices": [
+        "Hemangioma",
+        "Focal Nodular Hyperplasia (FNH)",
+        "Hepatic Adenoma",
+        "Lipoma",
+        "Regenerative nodule"
+      ],
+      "answer": "B",
+      "detail": "Focal Nodular Hyperplasia (FNH) is the second most common benign liver tumor."
+    },
+    {
+      "number": 30,
+      "question": "FNH is composed of normal hepatocytes, abnormally arranged ducts, and which other cell type?",
+      "choices": [
+        "Dendritic cells",
+        "Kupffer cells (reticuloendothelial cells)",
+        "Islet cells",
+        "Fibroblasts",
+        "Endothelial cells"
+      ],
+      "answer": "B",
+      "detail": "FNH contains Kupffer cells, which is why it can be 'hot' on sulfur colloid scans."
+    },
+    {
+      "number": 31,
+      "question": "What is the classic MRI description of an FNH lesion?",
+      "choices": [
+        "Bright on T1 and dark on T2",
+        "A 'Stealth' lesion (isointense on T1 and T2)",
+        "Dark on all sequences",
+        "Cystic with mural nodules",
+        "Fat-containing with drop-out"
+      ],
+      "answer": "B",
+      "detail": "FNH can be a 'Stealth' lesion on MRI (isointense to liver on T1 and T2)."
+    },
+    {
+      "number": 32,
+      "question": "Which enhancement feature is characteristic of FNH on the arterial phase of CT?",
+      "choices": [
+        "Peripheral nodular discontinuous enhancement",
+        "Homogeneous arterial enhancement (similar to IVC, not Aorta)",
+        "No enhancement",
+        "Ring enhancement",
+        "Early washout"
+      ],
+      "answer": "B",
+      "detail": "FNH shows homogeneous enhancement, often matching the IVC rather than the aorta."
+    },
+    {
+      "number": 33,
+      "question": "The central scar of an FNH characteristically demonstrates:",
+      "choices": [
+        "Rapid arterial filling and washout",
+        "Delayed enhancement (it's a scar)",
+        "Calcification in 90% of cases",
+        "T2 darkness",
+        "PET avidity"
+      ],
+      "answer": "B",
+      "detail": "The central scar shows delayed enhancement, similar to how other scars behave."
+    },
+    {
+      "number": 34,
+      "question": "Which nuclear medicine scan is the 'classic' test question for confirming FNH?",
+      "choices": [
+        "RBC scan",
+        "Sulfur Colloid scan",
+        "Bone scan",
+        "HIDA scan",
+        "Gallium scan"
+      ],
+      "answer": "B",
+      "detail": "FNH is famously 'hot' on sulfur colloid (30-40% of the time) because of its Kupffer cells."
+    },
+    {
+      "number": 35,
+      "question": "Unlike hepatic adenomas, FNH is NOT strongly related to:",
+      "choices": [
+        "Male gender",
+        "The use of birth control pills",
+        "Alcohol consumption",
+        "Smoking",
+        "Diabetes"
+      ],
+      "answer": "B",
+      "detail": "FNH is NOT related to OCPs (unlike adenomas), though OCPs may promote their growth."
+    },
+    {
+      "number": 36,
+      "question": "Which subtype of hepatic adenoma is the MOST common and carries the HIGHEST risk of bleeding?",
+      "choices": [
+        "HNF-1 alpha mutated",
+        "Beta-catenin mutated",
+        "Inflammatory subtype",
+        "Pigmented subtype",
+        "Steatotic subtype"
+      ],
+      "answer": "C",
+      "detail": "The Inflammatory subtype is the most common and has the highest bleed rate."
+    },
+    {
+      "number": 37,
+      "question": "Which subtype of hepatic adenoma is associated with the use of anabolic steroids and carries a risk of malignant transformation?",
+      "choices": [
+        "Inflammatory subtype",
+        "Beta-catenin mutated",
+        "HNF-1 alpha mutated",
+        "Glycogen storage subtype",
+        "All types are equal"
+      ],
+      "answer": "B",
+      "detail": "Beta-catenin mutated adenomas are associated with anabolic steroids and malignancy."
+    },
+    {
+      "number": 38,
+      "question": "The 'HNF-1 alpha mutated' subtype of hepatic adenoma is characterized by:",
+      "choices": [
+        "Being the most common",
+        "Being the second most common and often having multiple masses",
+        "High risk of cancer",
+        "Association with FAP",
+        "High risk of rupture"
+      ],
+      "answer": "B",
+      "detail": "This is the second most common type and frequently presents as multiple masses."
+    },
+    {
+      "number": 39,
+      "question": "Hepatocellular Carcinoma (HCC) typically occurs in the setting of chronic liver disease or cirrhosis. Which viral infection is a major risk factor?",
+      "choices": [
+        "HPV",
+        "Hep B and Hep C",
+        "CMV",
+        "HIV",
+        "RSV"
+      ],
+      "answer": "B",
+      "detail": "Hep B and Hep C are primary drivers of HCC."
+    },
+    {
+      "number": 40,
+      "question": "What is the classic tumor marker elevated in 80-95% of HCC cases?",
+      "choices": [
+        "CEA",
+        "CA 19-9",
+        "AFP (Alpha-fetoprotein)",
+        "bHCG",
+        "PSA"
+      ],
+      "answer": "C",
+      "detail": "AFP is the classic marker for HCC."
+    },
+    {
+      "number": 41,
+      "question": "While HCC often invades the portal vein, which finding is considered more 'specific'?",
+      "choices": [
+        "Invasion of the splenic vein",
+        "Invasion of the hepatic vein",
+        "Invasion of the biliary tree",
+        "Compression of the aorta",
+        "Calcification"
+      ],
+      "answer": "B",
+      "detail": "Invasion of the hepatic vein is considered a more specific finding for HCC."
+    },
+    {
+      "number": 42,
+      "question": "For multiple choice purposes, what is the estimated 'Doubling Time' for an HCC lesion?",
+      "choices": [
+        "10 days",
+        "30 days",
+        "100 days",
+        "300 days",
+        "2 years"
+      ],
+      "answer": "D",
+      "detail": "While literature varies, 300 days is often used as a testable 'middle' value for HCC doubling time."
+    },
+    {
+      "number": 43,
+      "question": "HCCs have a clinical tendency to 'explode' and cause:",
+      "choices": [
+        "Gastric outlet obstruction",
+        "Spontaneous hepatic bleeds",
+        "Biliary atresia",
+        "Sudden cardiac death",
+        "Renal failure"
+      ],
+      "answer": "B",
+      "detail": "HCCs are known for causing spontaneous hepatic bleeds."
+    },
+    {
+      "number": 44,
+      "question": "What is the MOST common primary location for a Carcinoid Tumor?",
+      "choices": [
+        "Stomach",
+        "Duodenum",
+        "Distal ileum",
+        "Transverse colon",
+        "Rectum"
+      ],
+      "answer": "C",
+      "detail": "The distal ileum is the most common primary site for carcinoid."
+    },
+    {
+      "number": 45,
+      "question": "Carcinoid Syndrome (flushing, diarrhea) does NOT typically occur until the tumor:",
+      "choices": [
+        "Becomes larger than 10 cm",
+        "Metastasizes to the liver",
+        "Involves the esophagus",
+        "Invades the heart",
+        "Calcifies"
+      ],
+      "answer": "B",
+      "detail": "The liver normally metabolizes serotonin; carcinoid syndrome occurs once there are liver metastases."
+    },
+    {
+      "number": 46,
+      "question": "A 'Klatskin Tumor' is a type of Cholangiocarcinoma located at:",
+      "choices": [
+        "The distal CBD",
+        "The bifurcation of the right and left hepatic ducts",
+        "The cystic duct",
+        "The pancreatic head",
+        "The Ampulla of Vater"
+      ],
+      "answer": "B",
+      "detail": "A Klatskin tumor occurs at the hepatic duct bifurcation."
+    },
+    {
+      "number": 47,
+      "question": "Which of the following is a major risk factor for Cholangiocarcinoma in Western populations?",
+      "choices": [
+        "Primary Sclerosing Cholangitis (PSC)",
+        "Recurrent pyogenic cholangitis",
+        "Clonorchis infection",
+        "Ascaris",
+        "Smoking"
+      ],
+      "answer": "A",
+      "detail": "PSC is the leading risk factor for cholangiocarcinoma in the West."
+    },
+    {
+      "number": 48,
+      "question": "In 'Step 1' style trivia, which contrast agent used in the 1930s is a known risk factor for both Cholangiocarcinoma and Angiosarcoma?",
+      "choices": [
+        "Barium",
+        "Thorotrast",
+        "Omnipaque",
+        "Gadolinium",
+        "Iodine"
+      ],
+      "answer": "B",
+      "detail": "Thorotrast is the classic historical carcinogen for liver tumors."
+    },
+    {
+      "number": 49,
+      "question": "If you see a 'Shouldering' or abrupt tapering of the ducts on an MRCP at the hilum, you should suspect:",
+      "choices": [
+        "Mirizzi Syndrome",
+        "Klatskin Tumor",
+        "Biliary Atresia",
+        "Choledochal cyst",
+        "PBC"
+      ],
+      "answer": "B",
+      "detail": "Klatskin tumors cause abrupt tapering or shouldering of the ducts."
+    },
+    {
+      "number": 50,
+      "question": "For biliary ductal pathology, if you cannot remember the specific association, what should you always guess?",
+      "choices": [
+        "HCC",
+        "Hemangioma",
+        "Cholangiocarcinoma",
+        "Adenoma",
+        "Lipoma"
+      ],
+      "answer": "C",
+      "detail": "Cholangiocarcinoma is the default guess for ductal malignancy associations."
+    },
+    {
+      "number": 51,
+      "question": "How can you distinguish malignant biliary strictures from benign ones based on morphology?",
+      "choices": [
+        "Malignant strictures are always short.",
+        "Malignant strictures tend to be LONG with 'shouldering.'",
+        "Benign strictures are never abrupt.",
+        "Both are identical on imaging.",
+        "Malignant ones are always calcified."
+      ],
+      "answer": "B",
+      "detail": "Malignant strictures are typically long and shouldered; benign ones are abrupt and short."
+    },
+    {
+      "number": 52,
+      "question": "Hepatic Angiosarcoma is rare but is the most common primary sarcoma of the liver. It is associated with toxic exposure to:",
+      "choices": [
+        "Alcohol",
+        "Arsenic and Polyvinyl Chloride",
+        "Vitamin C",
+        "Magnesium",
+        "Iron"
+      ],
+      "answer": "B",
+      "detail": "Arsenic and Polyvinyl Chloride are high-yield toxic associations for angiosarcoma."
+    },
+    {
+      "number": 53,
+      "question": "Hepatic metastases are 20–40 times more common than primary liver cancer. If you see liver mets, what is the most likely primary site to consider first?",
+      "choices": [
+        "Breast",
+        "Lung",
+        "Colon",
+        "Thyroid",
+        "Melanoma"
+      ],
+      "answer": "C",
+      "detail": "Colon cancer is the first primary to think of for liver mets."
+    },
+    {
+      "number": 54,
+      "question": "Calcified liver metastases are usually the result of which type of primary neoplasm?",
+      "choices": [
+        "Renal cell carcinoma",
+        "Mucinous neoplasm (Colon, Ovary, Pancreas)",
+        "Thyroid cancer",
+        "Lymphoma",
+        "Hepatoblastoma"
+      ],
+      "answer": "B",
+      "detail": "Mucinous tumors (like those from the colon or ovary) often produce calcified mets."
+    },
+    {
+      "number": 55,
+      "question": "Hyperechoic (bright) metastases on ultrasound are often hypervascular; examples include Renal, Melanoma, Carcinoid, and:",
+      "choices": [
+        "Islet cell (Neuroendocrine) and Choriocarcinoma",
+        "Lung",
+        "Colon",
+        "Esophagus",
+        "Rectum"
+      ],
+      "answer": "A",
+      "detail": "Islet cell and Choriocarcinoma are classic hypervascular/hyperechoic mets."
+    },
+    {
+      "number": 56,
+      "question": "In the setting of known breast cancer, what percentage of tiny, hypodense liver lesions ('too small to characterize') are actually benign?",
+      "choices": [
+        "10%",
+        "50%",
+        "90-95%",
+        "100%",
+        "5%"
+      ],
+      "answer": "C",
+      "detail": "Even in cancer patients, 90-95% of tiny hypodensities are benign."
+    },
+    {
+      "number": 57,
+      "question": "Which type of lymphoma involves the liver 60% of the time?",
+      "choices": [
+        "Non-Hodgkin Lymphoma",
+        "Hodgkin Lymphoma",
+        "Burkitt Lymphoma",
+        "MALT Lymphoma",
+        "Mantle Cell Lymphoma"
+      ],
+      "answer": "B",
+      "detail": "Hodgkin Lymphoma involves the liver in 60% of cases."
+    },
+    {
+      "number": 58,
+      "question": "Kaposi Sarcoma, seen in AIDS patients, causes which characteristic liver finding?",
+      "choices": [
+        "Large calcified masses",
+        "Diffuse periportal hypoechoic infiltration",
+        "'Apple core' lesions",
+        "Global atrophy",
+        "Single large cystic mass"
+      ],
+      "answer": "B",
+      "detail": "Kaposi's typically shows periportal infiltration."
+    },
+    {
+      "number": 59,
+      "question": "In the setting of iron overload, which MRI sequence is most sensitive for detection?",
+      "choices": [
+        "T1 Weighted",
+        "In and Out of Phase (Iron on In-Phase)",
+        "Diffusion Weighted (DWI)",
+        "T2 STIR",
+        "Gadolinium enhanced"
+      ],
+      "answer": "B",
+      "detail": "Iron causes a signal drop-out on In-Phase images."
+    },
+    {
+      "number": 60,
+      "question": "The signal change seen in hepatic iron overload is the OPPOSITE of that seen in:",
+      "choices": [
+        "Cirrhosis",
+        "Hepatic Steatosis (Fatty liver)",
+        "Biliary obstruction",
+        "Budd Chiari",
+        "Hepatitis"
+      ],
+      "answer": "B",
+      "detail": "Fat drops out on Out-of-Phase; iron drops out on In-Phase."
+    },
+    {
+      "number": 61,
+      "question": "In 'Primary' Hemochromatosis (inherited), which organ is typically involved while the spleen is spared?",
+      "choices": [
+        "Kidney",
+        "Pancreas",
+        "Lung",
+        "Heart",
+        "Gallbladder"
+      ],
+      "answer": "B",
+      "detail": "In Primary hemochromatosis, the pancreas is involved and the spleen is spared."
+    },
+    {
+      "number": 62,
+      "question": "In 'Secondary' Hemochromatosis (e.g., from multiple transfusions), which organ is involved while the pancreas is spared?",
+      "choices": [
+        "Liver only",
+        "Spleen",
+        "Heart",
+        "Pituitary",
+        "Thyroid"
+      ],
+      "answer": "B",
+      "detail": "In Secondary hemochromatosis, the spleen is involved (the RES 'eats the iron')."
+    },
+    {
+      "number": 63,
+      "question": "What is the classic mnemonic for distinguishing Primary from Secondary Hemochromatosis?",
+      "choices": [
+        "Primary = Portal Vein; Secondary = SMA",
+        "Primary = Pancreas; Secondary = Spleen",
+        "Primary = Pharynx; Secondary = Sigmoid",
+        "Primary = Prostate; Secondary = Skin",
+        "There is no mnemonic"
+      ],
+      "answer": "B",
+      "detail": "'Primary = Pancreas', 'Secondary = Spleen'."
+    },
+    {
+      "number": 64,
+      "question": "Budd-Chiari Syndrome results from which vascular pathology?",
+      "choices": [
+        "Portal vein thrombosis",
+        "Hepatic vein thrombosis",
+        "SMA occlusion",
+        "Hepatic artery aneurysm",
+        "Splenic vein stenosis"
+      ],
+      "answer": "B",
+      "detail": "Budd-Chiari is caused by hepatic vein thrombosis."
+    },
+    {
+      "number": 65,
+      "question": "What is the classic radiographic appearance of the liver in acute Budd-Chiari?",
+      "choices": [
+        "'Flip-flop pattern' (central low attenuation, peripheral high)",
+        "'Lead pipe' appearance",
+        "'Apple core' narrowing",
+        "'Caterpillar sign'",
+        "'Target sign'"
+      ],
+      "answer": "A",
+      "detail": "The acute phase shows the 'flip-flop pattern' or 'nutmeg liver'."
+    },
+    {
+      "number": 66,
+      "question": "In Budd-Chiari Syndrome, which liver segment is typically massively ENLARGED because it has its own drainage to the IVC?",
+      "choices": [
+        "Segment 4",
+        "The Caudate Lobe (Segment 1)",
+        "Segment 8",
+        "The entire right lobe",
+        "Segment 5"
+      ],
+      "answer": "B",
+      "detail": "The Caudate Lobe hypertrophies because it is spared from hepatic vein obstruction."
+    },
+    {
+      "number": 67,
+      "question": "Hepatic Veno-occlusive Disease is a form of Budd-Chiari involving small venules, and is associated with XRT, chemotherapy, and:",
+      "choices": [
+        "Alcohol",
+        "Alkaloid bush tea (endemic in Jamaica)",
+        "High protein diet",
+        "Smoking",
+        "Magnesium supplements"
+      ],
+      "answer": "B",
+      "detail": "Bush tea is the classic 'trivia' association for this disease."
+    },
+    {
+      "number": 68,
+      "question": "'Nutmeg Liver' (inhomogeneous mottled appearance) is seen in Budd-Chiari and which other conditions?",
+      "choices": [
+        "Right Heart Failure and Constrictive Pericarditis",
+        "Celiac Disease",
+        "Crohn's Disease",
+        "Hirschsprung Disease",
+        "Biliary Atresia"
+      ],
+      "answer": "A",
+      "detail": "Nutmeg liver is a sign of hepatic congestion from various causes."
+    },
+    {
+      "number": 69,
+      "question": "How do you distinguish 'Portal Venous Gas' (PVG) from 'Pneumobilia' (air in the bile ducts)?",
+      "choices": [
+        "PVG is central; Pneumobilia is peripheral.",
+        "PVG is peripheral (within 2 cm of capsule); Pneumobilia is central.",
+        "PVG is only in the left lobe.",
+        "Pneumobilia is only in the right lobe.",
+        "They are identical."
+      ],
+      "answer": "B",
+      "detail": "Air in the portal vein is peripheral (carried by flow); air in the bile is central (draining toward the hilum)."
+    },
+    {
+      "number": 70,
+      "question": "What is the MOST common cause of Jaundice?",
+      "choices": [
+        "CBD stone",
+        "Benign stricture (post-surgical/traumatic)",
+        "Pancreatic cancer",
+        "Hepatitis",
+        "Biliary atresia"
+      ],
+      "answer": "B",
+      "detail": "While stones are common, benign strictures (often post-op) are cited as the most common etiology."
+    },
+    {
+      "number": 71,
+      "question": "'Primary Sclerosing Cholangitis' (PSC) is strongly associated (80%) with which condition?",
+      "choices": [
+        "Crohn's Disease",
+        "Ulcerative Colitis (UC)",
+        "Whipple's Disease",
+        "Celiac Sprue",
+        "Hemochromatosis"
+      ],
+      "answer": "B",
+      "detail": "PSC has a very high association with Ulcerative Colitis."
+    },
+    {
+      "number": 72,
+      "question": "What is the classic buzzword for the appearance of PSC on an MRCP?",
+      "choices": [
+        "'Wind sock'",
+        "'Withered Tree' or 'Beaded Appearance'",
+        "'Apple core'",
+        "'Lead pipe'",
+        "'Clover leaf'"
+      ],
+      "answer": "B",
+      "detail": "The classic PSC looks are the 'withered tree' and 'beaded' strictures."
+    },
+    {
+      "number": 73,
+      "question": "Patients with PSC have a high incidence of developing which malignancy?",
+      "choices": [
+        "HCC",
+        "Cholangiocarcinoma",
+        "Hepatic Adenoma",
+        "GIST",
+        "Lymphoma"
+      ],
+      "answer": "B",
+      "detail": "PSC is strongly associated with cholangiocarcinoma."
+    },
+    {
+      "number": 74,
+      "question": "'AIDS Cholangiopathy' is caused by infection (classically Cryptosporidium) and mimics PSC, but characteristically features:",
+      "choices": [
+        "Short strictures < 5 mm",
+        "Associated Papillary Stenosis",
+        "Absence of extrahepatic involvement",
+        "Multiple gallstones",
+        "Normal portal vein"
+      ],
+      "answer": "B",
+      "detail": "Papillary stenosis (seen in 60% of cases) is a key feature."
+    },
+    {
+      "number": 75,
+      "question": "'Oriental Cholangitis' (Recurrent Pyogenic Cholangitis) is characterized by ducts full of pigmented stones and which buzzword?",
+      "choices": [
+        "'Beaded appearance'",
+        "'Straight rigid intrahepatic ducts'",
+        "'Withered tree'",
+        "'Wind sock'",
+        "'Clover leaf'"
+      ],
+      "answer": "B",
+      "detail": "The hallmark of Oriental Cholangitis is straight rigid ducts filled with stones."
+    },
+    {
+      "number": 76,
+      "question": "What is the classic ultrasound appearance of Gallbladder Adenomyomatosis?",
+      "choices": [
+        "Thick wall with air bubbles",
+        "Comet-tail artifacts from intramural Rokitansky-Aschoff sinuses",
+        "Multiple mobile shadowing stones",
+        "A single large calcified mass",
+        "Displaced retroplacental complex"
+      ],
+      "answer": "B",
+      "detail": "Adenomyomatosis is characterized by comet-tail artifacts arising from cholesterol crystals trapped in the thickened wall (Rokitansky-Aschoff sinuses)."
+    },
+    {
+      "number": 77,
+      "question": "Choledochal cysts are congenital dilations of the biliary tree; which type represents a focal dilation of the common bile duct (CBD) and is the most common?",
+      "choices": [
+        "Type 1",
+        "Type 2",
+        "Type 3",
+        "Type 4",
+        "Type 5"
+      ],
+      "answer": "A",
+      "detail": "Type 1 choledochal cysts are the most common."
+    },
+    {
+      "number": 78,
+      "question": "'Caroli’s Disease' (Type 5 biliary cyst) is characterized by multifocal intrahepatic ductal dilations and which classic imaging sign?",
+      "choices": [
+        "Central Dot Sign (portal vein surrounded by dilated ducts)",
+        "String sign",
+        "Coffee bean sign",
+        "Double bubble sign",
+        "Target sign"
+      ],
+      "answer": "A",
+      "detail": "The central dot sign represents the portal vein passing through the dilated biliary segments."
+    },
+    {
+      "number": 79,
+      "question": "Mirizzi Syndrome is a clinical condition where a gallstone in the cystic duct causes:",
+      "choices": [
+        "Obstruction of the Common Hepatic Duct via extrinsic compression",
+        "Pneumatosis intestinalis",
+        "Sudden cardiac arrest",
+        "Splenic vein thrombosis",
+        "Intussusception"
+      ],
+      "answer": "A",
+      "detail": "In Mirizzi Syndrome, a stone impacted in the cystic duct or gallbladder neck causes extrinsic compression of the adjacent common hepatic duct."
+    },
+    {
+      "number": 80,
+      "question": "Primary Biliary Cholangitis (formerly Cirrhosis) is an autoimmune destruction of small bile ducts typically seen in:",
+      "choices": [
+        "Newborn males",
+        "Middle-aged women (90%)",
+        "Elderly men with CF",
+        "Infants of diabetic mothers",
+        "Active athletes"
+      ],
+      "answer": "B",
+      "detail": "PBC classically affects middle-aged women and is associated with anti-mitochondrial antibodies (AMA)."
+    },
+    {
+      "number": 81,
+      "question": "Gallstones in a child should prompt an immediate evaluation for which condition?",
+      "choices": [
+        "Celiac disease",
+        "Sickle Cell Disease",
+        "Hirschsprung disease",
+        "Turner syndrome",
+        "Normal development"
+      ],
+      "answer": "B",
+      "detail": "Sickle cell is the classic answer for a pediatric patient with gallstones due to chronic hemolysis."
+    },
+    {
+      "number": 82,
+      "question": "What is the ultrasound threshold for a 'thickened' gallbladder wall in the setting of suspected cholecystitis?",
+      "choices": [
+        "> 1 mm",
+        "> 3 mm",
+        "> 10 mm",
+        "> 20 mm",
+        "Any visible wall is abnormal"
+      ],
+      "answer": "B",
+      "detail": "A wall thickness > 3 mm is one of the major criteria for acute cholecystitis."
+    },
+    {
+      "number": 83,
+      "question": "'Acalculous Cholecystitis' typically occurs in which patient population?",
+      "choices": [
+        "Healthy outpatients",
+        "Critically ill or ICU patients (trauma, burns, sepsis)",
+        "Children with Downs",
+        "Pregnant women",
+        "Patients on steroids"
+      ],
+      "answer": "B",
+      "detail": "It occurs in critically ill patients who have been fasting and have biliary stasis."
+    },
+    {
+      "number": 84,
+      "question": "'Emphysematous Cholecystitis' features gas in the gallbladder wall or lumen and is most common in:",
+      "choices": [
+        "Female athletes",
+        "Diabetic patients (often men)",
+        "Patients with Sickle Cell",
+        "Infants with NEC",
+        "Patients with CF"
+      ],
+      "answer": "B",
+      "detail": "It is a surgical emergency caused by gas-forming organisms (like Clostridium) and is highly associated with diabetes."
+    },
+    {
+      "number": 85,
+      "question": "'Xanthogranulomatous Cholecystitis' is a chronic inflammatory process that can mimic cancer and is characterized on imaging by:",
+      "choices": [
+        "Mass-like wall thickening with intramural hypoechoic nodules",
+        "A single large calcification",
+        "Comet-tail artifacts",
+        "Air in the biliary tree",
+        "Scalloping of the liver"
+      ],
+      "answer": "A",
+      "detail": "The presence of intramural nodules within a massively thickened wall is the classic description."
+    },
+    {
+      "number": 86,
+      "question": "A 'Porcelain Gallbladder' refers to extensive wall calcification and carries an increased risk for:",
+      "choices": [
+        "Gallbladder Adenocarcinoma",
+        "PBC",
+        "PSC",
+        "Liver hemangioma",
+        "Splenic infarcts"
+      ],
+      "answer": "A",
+      "detail": "Porcelain GB is associated with a significantly higher risk of gallbladder cancer."
+    },
+    {
+      "number": 87,
+      "question": "Gallbladder Polyps are generally followed; however, surgical resection is recommended if a polyp is larger than:",
+      "choices": [
+        "2 mm",
+        "5 mm",
+        "10 mm",
+        "25 mm",
+        "Polyps never need surgery"
+      ],
+      "answer": "C",
+      "detail": "Polyps > 10 mm have a higher risk of malignancy and should be removed."
+    },
+    {
+      "number": 88,
+      "question": "'Biliary Cirrhosis' in a child is a known complication of which condition?",
+      "choices": [
+        "Cystic Fibrosis (CF)",
+        "Pyloric stenosis",
+        "Meconium peritonitis",
+        "Midgut volvulus",
+        "Intussusception"
+      ],
+      "answer": "A",
+      "detail": "In CF, inspissated bile causes blockage of the intrahepatic ducts, leading to biliary cirrhosis and portal hypertension."
+    },
+    {
+      "number": 89,
+      "question": "To distinguish 'Portal Venous Gas' (PVG) from 'Pneumobilia,' remember that PVG is:",
+      "choices": [
+        "Central",
+        "Peripheral (within 2 cm of the liver capsule)",
+        "Only seen in the gallbladder",
+        "Always calcified",
+        "Only seen in adults"
+      ],
+      "answer": "B",
+      "detail": "Portal venous gas is carried by centrifugal flow to the periphery, whereas pneumobilia (bile duct air) is central."
+    },
+    {
+      "number": 90,
+      "question": "What is the most common cause of jaundice in the post-surgical patient?",
+      "choices": [
+        "CBD stone",
+        "Benign stricture",
+        "Cholangiocarcinoma",
+        "Gallstone ileus",
+        "HCC"
+      ],
+      "answer": "B",
+      "detail": "Benign strictures (from trauma or surgery) are the leading cause of jaundice."
+    },
+    {
+      "number": 91,
+      "question": "In liver Doppler, a Resistive Index (RI) in the hepatic artery should normally be between:",
+      "choices": [
+        "0.1 and 0.3",
+        "0.5 and 0.7",
+        "0.9 and 1.1",
+        "1.5 and 2.0",
+        "5.0 and 10.0"
+      ],
+      "answer": "B",
+      "detail": "The normal hepatic artery RI is 0.5–0.7."
+    },
+    {
+      "number": 92,
+      "question": "What is the most common vascular complication and #1 cause of graft loss following a liver transplant?",
+      "choices": [
+        "Portal vein thrombosis",
+        "Hepatic Artery Thrombosis",
+        "Splenic vein stenosis",
+        "IVC kinking",
+        "Renal failure"
+      ],
+      "answer": "B",
+      "detail": "Hepatic Artery Thrombosis is the most frequent and serious vascular complication after transplant."
+    },
+    {
+      "number": 93,
+      "question": "A 'Tardus Parvus' waveform (delayed upstroke and low peak velocity) in the hepatic artery indicates:",
+      "choices": [
+        "Normal flow",
+        "Proximal stenosis (e.g., at the anastomosis)",
+        "Distal obstruction",
+        "Portal hypertension",
+        "Arteriovenous fistula"
+      ],
+      "answer": "B",
+      "detail": "Tardus parvus is the classic indirect sign of proximal arterial stenosis."
+    },
+    {
+      "number": 94,
+      "question": "'Cavernous Transformation of the Portal Vein' occurs as a result of:",
+      "choices": [
+        "Acute arterial bleed",
+        "Chronic portal vein thrombosis with development of collaterals",
+        "TIPS failure",
+        "Biliary atresia",
+        "Splenic sequestration"
+      ],
+      "answer": "B",
+      "detail": "It represents a cluster of collateral vessels that form to bypass a chronic portal vein occlusion."
+    },
+    {
+      "number": 95,
+      "question": "In the setting of Portal Hypertension, portal vein flow is described as:",
+      "choices": [
+        "Hepatopetal (toward the liver) but slow (<16 cm/s)",
+        "Hepatofugal (away from the liver)",
+        "Always absent",
+        "Pulsatile like an artery",
+        "Both A and B are possible depending on severity"
+      ],
+      "answer": "E",
+      "detail": "Flow can be slow hepatopetal early on, or reversed (hepatofugal) in severe disease."
+    },
+    {
+      "number": 96,
+      "question": "A 'Transjugular Intrahepatic Portosystemic Shunt' (TIPS) creates a communication between which two systems?",
+      "choices": [
+        "Hepatic artery and portal vein",
+        "Hepatic vein and portal vein",
+        "IVC and aorta",
+        "Renal vein and splenic vein",
+        "SVC and azygos vein"
+      ],
+      "answer": "B",
+      "detail": "TIPS shunts blood from the portal vein to the hepatic vein to decompress the portal system."
+    },
+    {
+      "number": 97,
+      "question": "The goal of a TIPS procedure is to reduce the Portosystemic Gradient (PSG) to:",
+      "choices": [
+        "> 20 mmHg",
+        "< 12 mmHg",
+        "Exactly 0 mmHg",
+        "50 mmHg",
+        "It is never measured"
+      ],
+      "answer": "B",
+      "detail": "The therapeutic goal for TIPS is a gradient less than 12 mmHg."
+    },
+    {
+      "number": 98,
+      "question": "If a patient’s TIPS fails (PSG > 12), the most common site of stenosis is within the:",
+      "choices": [
+        "Portal vein",
+        "Hepatic vein or the TIPS tract itself",
+        "Splenic vein",
+        "Hepatic artery",
+        "IVC"
+      ],
+      "answer": "B",
+      "detail": "Stenosis most frequently occurs at the outflow (hepatic vein) or within the stent tract."
+    },
+    {
+      "number": 99,
+      "question": "'BRTO' (Balloon-Occluded Retrograde Transverse Obliteration) is used to treat gastric varices and REQUIRES the presence of a:",
+      "choices": [
+        "Portal vein thrombus",
+        "Gastro-renal shunt",
+        "Splenic artery aneurysm",
+        "Patent TIPS",
+        "Duplicated IVC"
+      ],
+      "answer": "B",
+      "detail": "BRTO requires a gastro-renal shunt to access the varices in a retrograde fashion."
+    },
+    {
+      "number": 100,
+      "question": "In evaluating TACE treatment response for HCC, the presence of enhancement in the treated area on a follow-up CT indicates:",
+      "choices": [
+        "Successful necrosis",
+        "Viable (residual) tumor",
+        "Normal healing",
+        "Benign hyperemia",
+        "Iodized oil artifact"
+      ],
+      "answer": "B",
+      "detail": "Enhancement in the ablation zone or tumor is a sign of viable tumor that needs more treatment."
+    },
+   
+    {
+      "number": 101,
+      "question": "On MRI, a successfully treated cryoablation zone in the liver (or kidney) should characteristically appear:",
+      "choices": [
+        "Bright on T2",
+        "Dark on T2 and T1 iso/hyper",
+        "Cystic with mural nodules",
+        "Enhancing more than the surrounding parenchyma",
+        "Indistinguishable from normal organ tissue"
+      ],
+      "answer": "B",
+      "detail": "A good result from cryoablation is characteristically T2 dark on follow-up imaging."
+    },
+    {
+      "number": 102,
+      "question": "A 'Transjugular Liver Biopsy' is specifically indicated for which of the following patient populations?",
+      "choices": [
+        "Patients with normal anatomy and labs",
+        "Severe uncorrectable coagulopathy or massive ascites",
+        "Patients with small, focal superficial masses",
+        "History of heavy smoking",
+        "Young children undergoing routine screening"
+      ],
+      "answer": "B",
+      "detail": "The transjugular approach is used when the risk of bleeding from a percutaneous stick is too high due to ascites or coagulopathy."
+    },
+    {
+      "number": 103,
+      "question": "In a 'Percutaneous Transhepatic Cholangiogram' (PTC), which approach is considered best for target selection to allow for optimal drainage?",
+      "choices": [
+        "Anterior approach",
+        "Posterior approach",
+        "Directly through segment 4",
+        "Trans-gallbladder approach",
+        "Directly through the aorta"
+      ],
+      "answer": "B",
+      "detail": "A posterior approach is preferred for stable targeting and optimal drainage during PTC."
+    },
+    {
+      "number": 104,
+      "question": "If a patient experiences a full 'rigor' (shaking/chills) immediately after a contrast injection during a biliary procedure, the diagnosis is likely:",
+      "choices": [
+        "Acute contrast allergy",
+        "Biliary sepsis / Cholangitis",
+        "Normal physiological reaction to cold contrast",
+        "Acute myocardial infarction",
+        "Pulmonary embolism"
+      ],
+      "answer": "B",
+      "detail": "'Rigor' is a classic buzzword for biliary sepsis caused by forceful injection into an obstructed and infected system."
+    },
+    {
+      "number": 105,
+      "question": "When placing a biliary drainage tube, it is critical to ensure that all 'side holes' are positioned:",
+      "choices": [
+        "In the duodenum",
+        "Within the liver parenchyma (NOT outside the liver)",
+        "In the gastric antrum",
+        "Outside the patient's body for easy cleaning",
+        "In the abdominal aorta"
+      ],
+      "answer": "B",
+      "detail": "Side holes positioned outside the liver parenchyma can cause bile leaks and subsequent peritonitis."
+    },
+    {
+      "number": 106,
+      "question": "Primary Sclerosing Cholangitis (PSC) is characteristically associated with which of the following malignancies?",
+      "choices": [
+        "Hepatocellular Carcinoma (HCC)",
+        "Cholangiocarcinoma",
+        "Pancreatoblastoma",
+        "Gastrointestinal Stromal Tumor (GIST)",
+        "Splenic Lymphoma"
+      ],
+      "answer": "B",
+      "detail": "Patients with PSC have a significantly higher incidence of developing cholangiocarcinoma."
+    },
+    {
+      "number": 107,
+      "question": "Hepatic iron overload (Hemochromatosis) causes the liver to appear darker on which MRI sequence?",
+      "choices": [
+        "T2 STIR",
+        "In-Phase (compared to Out-of-Phase)",
+        "Out-of-Phase (compared to In-Phase)",
+        "Diffusion Weighted (DWI)",
+        "T1 Pre-contrast"
+      ],
+      "answer": "B",
+      "detail": "Iron causes a signal drop-out on In-Phase images rather than Out-of-Phase images."
+    },
+    {
+      "number": 108,
+      "question": "An FNH lesion on MRI is often described as a 'Stealth Lesion' because it is:",
+      "choices": [
+        "Isointense to the liver on T1 and T2 weighted images",
+        "Totally black on all imaging sequences",
+        "Purely cystic with no solid components",
+        "Always found in the accessory spleen",
+        "Invisible even after contrast administration"
+      ],
+      "answer": "A",
+      "detail": "FNH is frequently isointense to the surrounding liver, making it hard to identify without contrast enhancement."
+    },
+    {
+      "number": 109,
+      "question": "Which subtype of hepatic adenoma is associated with a high T2 signal and has the highest risk of hemorrhage?",
+      "choices": [
+        "HNF-1 alpha mutated",
+        "Inflammatory subtype",
+        "Beta-catenin mutated",
+        "Pigmented subtype",
+        "Fibrolamellar subtype"
+      ],
+      "answer": "B",
+      "detail": "The inflammatory subtype is the most common and carries the highest risk of spontaneous bleeding."
+    },
+    {
+      "number": 110,
+      "question": "The 'HNF-1 alpha mutated' hepatic adenoma is characteristically described as:",
+      "choices": [
+        "Fat-containing and seen in multiple masses",
+        "Found only in adult males",
+        "Having a high risk for malignant transformation",
+        "Associated with Primary Sclerosing Cholangitis",
+        "Always heavily calcified"
+      ],
+      "answer": "A",
+      "detail": "This subtype typically contains intracellular fat and often presents as multiple lesions, known as adenomatosis."
+    },
+    {
+      "number": 111,
+      "question": "Hepatic adenomas associated with the use of anabolic steroids or male gender are typically of which subtype?",
+      "choices": [
+        "Inflammatory",
+        "Beta-catenin mutated",
+        "HNF-1 alpha mutated",
+        "Serous",
+        "Mucinous"
+      ],
+      "answer": "B",
+      "detail": "Beta-catenin mutations are common in males and steroid users and carry a risk of malignant transformation."
+    },
+    {
+      "number": 112,
+      "question": "On ultrasound, a liver Hemangioma is classically described as:",
+      "choices": [
+        "Anechoic mass with posterior shadowing",
+        "Hyperechoic (bright) and well-circumscribed",
+        "Hypoechoic mass with ill-defined borders",
+        "Multilocular cystic structure",
+        "Isoechoic and invisible ('Stealth')"
+      ],
+      "answer": "B",
+      "detail": "Hemangiomas are typically hyperechoic and well-defined on ultrasound."
+    },
+    {
+      "number": 113,
+      "question": "The progression of hepatocarcinogenesis involves nodules changing their primary blood supply from:",
+      "choices": [
+        "Arterial to Portal",
+        "Portal to Arterial",
+        "Biliary to Venous",
+        "Renal to Hepatic",
+        "Systemic to Mesenteric"
+      ],
+      "answer": "B",
+      "detail": "Nodules transform from being primarily portal-dependent to arterial-dependent as they develop into HCC."
+    },
+    {
+      "number": 114,
+      "question": "The 'Nodule within a Nodule' sign (a bright T2 center within a dark T2 border) is concerning for:",
+      "choices": [
+        "Simple Hemangioma",
+        "Transformation to Hepatocellular Carcinoma (HCC)",
+        "Simple hepatic cyst",
+        "Regenerative nodule",
+        "Focal Nodular Hyperplasia (FNH)"
+      ],
+      "answer": "B",
+      "detail": "This sign indicates the development of HCC within a previously dysplastic nodule."
+    },
+    {
+      "number": 115,
+      "question": "For the purpose of standardized testing, the estimated 'Doubling Time' for Hepatocellular Carcinoma is approximately:",
+      "choices": [
+        "10 days",
+        "100 days",
+        "300 days",
+        "2 years",
+        "5 years"
+      ],
+      "answer": "C",
+      "detail": "While there is variation, 300 days is the commonly testable 'middle' value for HCC doubling time."
+    },
+    {
+      "number": 116,
+      "question": "Calcified liver metastases are typically from which type of primary tumor?",
+      "choices": [
+        "Renal cell carcinoma",
+        "Mucinous tumors (Colon, Ovary, Pancreas)",
+        "Papillary thyroid cancer",
+        "Small cell lung cancer",
+        "Invasive ductal breast cancer"
+      ],
+      "answer": "B",
+      "detail": "Mucinous tumors are the most frequent source of calcified liver metastases."
+    },
+    {
+      "number": 117,
+      "question": "Which of the following is an example of a 'Hypervascular' metastasis that is typically bright (hyperechoic) on ultrasound?",
+      "choices": [
+        "Colon adenocarcinoma",
+        "Small cell lung cancer",
+        "Renal Cell Carcinoma (RCC)",
+        "Prostate adenocarcinoma",
+        "Esophageal squamous cell CA"
+      ],
+      "answer": "C",
+      "detail": "Renal, melanoma, and carcinoid are classic examples of hypervascular metastases that appear bright on US."
+    },
+    {
+      "number": 118,
+      "question": "In a patient with known breast cancer, what percentage of tiny, hypodense liver lesions are actually benign?",
+      "choices": [
+        "10%",
+        "50%",
+        "90-95%",
+        "100%",
+        "5%"
+      ],
+      "answer": "C",
+      "detail": "Most of these tiny lesions are actually benign cysts or hemangiomas, even in the setting of malignancy."
+    },
+    {
+      "number": 119,
+      "question": "Kaposi Sarcoma in AIDS patients classically demonstrates which of the following liver findings?",
+      "choices": [
+        "Large solitary calcified mass",
+        "Diffuse periportal hypoechoic infiltration",
+        "Spontaneous arterial hemorrhage",
+        "Comet-tail artifacts",
+        "A single large multilocular cyst"
+      ],
+      "answer": "B",
+      "detail": "Kaposi Sarcoma typically manifests as diffuse periportal infiltration in the liver."
+    },
+    {
+      "number": 120,
+      "question": "'Biliary Cirrhosis' resulting from intrahepatic duct blockage is a known feature of which pediatric condition?",
+      "choices": [
+        "Cystic Fibrosis (CF)",
+        "Down Syndrome",
+        "Turner Syndrome",
+        "VACTERL association",
+        "Necrotizing Enterocolitis (NEC)"
+      ],
+      "answer": "A",
+      "detail": "Biliary cirrhosis is a recognized complication in patients with CF due to inspissated bile."
+    },
+    {
+      "number": 121,
+      "question": "An infant with a liver mass and associated high-output Congestive Heart Failure likely has which of the following?",
+      "choices": [
+        "Hepatoblastoma",
+        "Infantile Hepatic Hemangioma",
+        "Mesenchymal Hamartoma",
+        "Hepatocellular Carcinoma",
+        "Hepatic Lymphoma"
+      ],
+      "answer": "B",
+      "detail": "These vascular tumors can cause high-output CHF, which may be seen as a large heart on a chest X-ray."
+    },
+    {
+      "number": 122,
+      "question": "A large, 'predominantly cystic' liver mass in a newborn with a NEGATIVE AFP level is most likely:",
+      "choices": [
+        "Hepatoblastoma",
+        "Mesenchymal Hamartoma",
+        "Infantile hemangioma",
+        "Metastatic neuroblastoma",
+        "Pyogenic Liver Abscess"
+      ],
+      "answer": "B",
+      "detail": "Mesenchymal hamartoma is characteristically cystic and associated with a negative AFP."
+    },
+    {
+      "number": 123,
+      "question": "Hepatoblastoma is strongly associated with which of the following genetic syndromes?",
+      "choices": [
+        "Beckwith-Wiedemann",
+        "Turner syndrome",
+        "Marfan syndrome",
+        "Klinefelter syndrome",
+        "PHACES syndrome"
+      ],
+      "answer": "A",
+      "detail": "Beckwith-Wiedemann (characterized by macroglossia and hemihypertrophy) is strongly linked to Hepatoblastoma."
+    },
+    {
+      "number": 124,
+      "question": "The 'Liver Scan Sign' on HIDA imaging is representative of which condition?",
+      "choices": [
+        "Normal hepatobiliary function",
+        "Complete biliary obstruction",
+        "Neonatal hepatitis",
+        "Fatty liver infiltration",
+        "Simple gallstones"
+      ],
+      "answer": "B",
+      "detail": "This sign occurs when high back pressure from obstruction prevents the tracer from entering the bile ducts."
+    },
+    {
+      "number": 125,
+      "question": "Which ultrasound finding is characteristic and highly suggestive of Biliary Atresia in an infant?",
+      "choices": [
+        "Dilated Common Bile Duct (CBD)",
+        "Triangle Cord Sign",
+        "Large, distended gallbladder",
+        "Comet-tail artifacts",
+        "Air within the biliary ducts"
+      ],
+      "answer": "B",
+      "detail": "The Triangle Cord Sign and an absent or small gallbladder are hallmark ultrasound features."
+    },
+    {
+      "number": 126,
+      "question": "What is the GOLD STANDARD imaging test for distinguishing Biliary Atresia from Neonatal Hepatitis?",
+      "choices": [
+        "Non-contrast CT",
+        "Hepatobiliary Scintigraphy (HIDA)",
+        "Magnetic Resonance Cholangiopancreatography (MRCP)",
+        "Standard abdominal Ultrasound",
+        "Abdominal Plain film"
+      ],
+      "answer": "B",
+      "detail": "HIDA is the test of choice; if the tracer reaches the bowel, the diagnosis is neonatal hepatitis, not atresia."
+    },
+    {
+      "number": 127,
+      "question": "Which medication is typically used to 'prime' the liver for five days before a HIDA scan for suspected Biliary Atresia?",
+      "choices": [
+        "Aspirin",
+        "Phenobarbital",
+        "Heparin",
+        "Morphine",
+        "Insulin"
+      ],
+      "answer": "B",
+      "detail": "Phenobarbital upregulates the liver's cytochrome system to make the scintigraphy test more reliable."
+    },
+    {
+      "number": 128,
+      "question": "During a biliary intervention, why should contrast be diluted to approximately 200–250 mg/ml?",
+      "choices": [
+        "To prevent contrast-induced allergy",
+        "To avoid obscuring small filling defects (stones)",
+        "To minimize the risk of biliary sepsis",
+        "To prevent acute renal failure",
+        "To avoid causing chemical peritonitis"
+      ],
+      "answer": "B",
+      "detail": "High-density contrast can hide small stones and other filling defects within the system."
+    },
+    {
+      "number": 129,
+      "question": "If a biliary obstruction cannot be crossed with a wire during a PTC procedure, what is the recommended next step?",
+      "choices": [
+        "Abandon the procedure entirely",
+        "Place a pigtail drain and let it 'cool down' for 48 hours",
+        "Forcefully push the wire through the lesion",
+        "Immediately repeat the abdominal CT",
+        "Order an urgent PET scan"
+      ],
+      "answer": "B",
+      "detail": "Allowing the local edema to resolve for 48 hours often enables a successful second attempt at crossing."
+    },
+    {
+      "number": 130,
+      "question": "Before deflating an occlusion balloon used for liquid sclerosant agents in the liver, what must be done?",
+      "choices": [
+        "Inject more contrast agent",
+        "Aggressively aspirate to remove residual agents",
+        "Flush the line with normal saline",
+        "Wait for at least 24 hours",
+        "Administer a dose of aspirin"
+      ],
+      "answer": "B",
+      "detail": "Aggressive aspiration is necessary to prevent 'poisonous' sclerosants from damaging non-target tissues."
+    },
+    {
+      "number": 131,
+      "question": "Classic teaching states that particle embolization should be stopped when the flow in the vessel becomes:",
+      "choices": [
+        "Continuous and rapid",
+        "'To-and-fro'",
+        "Completely absent",
+        "Pulsatile with high peaks",
+        "Retrograde (reversed)"
+      ],
+      "answer": "B",
+      "detail": "Stopping at 'to-and-fro' flow prevents the reflux of particles into non-target vessels."
+    },
+    {
+      "number": 132,
+      "question": "In embolization, Gelfoam 'Powder' differs from 'Pledgets' because the powder causes:",
+      "choices": [
+        "Permanent vessel occlusion",
+        "Occlusion at the capillary level (tissue necrosis)",
+        "No significant risk of tissue infarct",
+        "Blockage of only large-caliber vessels",
+        "It is exclusively used for intracranial bleeds"
+      ],
+      "answer": "B",
+      "detail": "Gelfoam powder travels deep into the capillary level, which leads to tissue necrosis."
+    },
+    {
+      "number": 133,
+      "question": "The 'Typical' Celiac Axis gives rise to which three primary branches?",
+      "choices": [
+        "Left gastric, SMA, and IMA",
+        "Left gastric, Common Hepatic, and Splenic",
+        "Proper hepatic, Gastroduodenal (GDA), and Renal",
+        "Portal vein, IVC, and SMA",
+        "Left gastric, Right gastric, and Renal"
+      ],
+      "answer": "B",
+      "detail": "These are the three classic anatomical branches of the celiac trunk."
+    },
+    {
+      "number": 134,
+      "question": "The 'Arc of Buhler' is a rare variant collateral pathway connecting which two major vessels?",
+      "choices": [
+        "SMA and IMA",
+        "Celiac and SMA",
+        "Celiac and IMA",
+        "Portal vein and IVC",
+        "Renal artery and Splenic artery"
+      ],
+      "answer": "B",
+      "detail": "The Arc of Buhler is an independent collateral vessel between the Celiac and SMA."
+    },
+    {
+      "number": 135,
+      "question": "During a standard TIPS procedure, the needle 'stick' is typically made between which two vessels?",
+      "choices": [
+        "Middle hepatic vein to Left portal vein",
+        "Right hepatic vein to Right portal vein ('Crotch to Crotch')",
+        "IVC to Superior Mesenteric Vein (SMV)",
+        "Left hepatic vein to Splenic vein",
+        "Renal vein to Portal vein"
+      ],
+      "answer": "B",
+      "detail": "Most TIPS procedures utilize a standard Right-to-Right approach for stent placement."
+    },
+    {
+      "number": 136,
+      "question": "If a TIPS procedure causes severe Hepatic Encephalopathy, what is the appropriate interventional step?",
+      "choices": [
+        "TIPS Reduction (narrowing the stent)",
+        "Increasing the portosystemic gradient",
+        "Removing the stent entirely",
+        "Placement of a Double J stent",
+        "Performing a BRTO procedure"
+      ],
+      "answer": "A",
+      "detail": "Reducing the TIPS stent diameter decreases shunt flow and restores more flow to the liver, improving encephalopathy."
+    },
+    {
+      "number": 137,
+      "question": "In women, 'Pelvic Congestion Syndrome' involves multiple dilated parauterine veins and is primarily treated by:",
+      "choices": [
+        "TIPS procedure",
+        "Gonadal (Ovarian) vein embolization",
+        "Renal artery stenting",
+        "Uterine Artery Embolization (UAE)",
+        "Immediate bilateral oophorectomy"
+      ],
+      "answer": "B",
+      "detail": "Embolizing the gonadal veins is the established interventional treatment for this syndrome."
+    },
+    {
+      "number": 138,
+      "question": "Isolated 'Gastric Varices' (in the absence of esophageal varices) should prompt a search for:",
+      "choices": [
+        "General portal hypertension",
+        "Splenic Vein Thrombosis",
+        "Hepatic artery aneurysm",
+        "Superior Mesenteric Artery (SMA) syndrome",
+        "Celiac axis stenosis"
+      ],
+      "answer": "B",
+      "detail": "Splenic vein thrombus, often caused by pancreatitis, is the classic cause of isolated gastric varices."
+    },
+    {
+      "number": 139,
+      "question": "A 'Nutmeg Liver' appearance is caused by hepatic congestion and is classically seen in Budd-Chiari as well as:",
+      "choices": [
+        "Right Heart Failure and Constrictive Pericarditis",
+        "Celiac disease",
+        "Whipple's disease",
+        "Scleroderma",
+        "Gastric volvulus"
+      ],
+      "answer": "A",
+      "detail": "The 'nutmeg' look results from passive hepatic congestion from various cardiac causes."
+    },
+    {
+      "number": 140,
+      "question": "Natural intraperitoneal fluid (ascites) tends to flow UPWARD from the pelvis via which of the following?",
+      "choices": [
+        "Left paracolic gutter",
+        "Right paracolic gutter",
+        "Foramen of Monro",
+        "Mesentery of the small bowel",
+        "Gastrohepatic ligament"
+      ],
+      "answer": "B",
+      "detail": "Fluid favors the wider right paracolic gutter for its path from the pelvis to the upper abdomen."
+    },
+    {
+      "number": 141,
+      "question": "The Couinaud Segment that is unique for draining directly into the IVC is:",
+      "choices": [
+        "Segment 1 (Caudate Lobe)",
+        "Segment 4",
+        "Segment 5",
+        "Segment 8",
+        "There are no such segments"
+      ],
+      "answer": "A",
+      "detail": "Segment 1 is unique because its venous drainage goes directly to the IVC."
+    },
+    {
+      "number": 142,
+      "question": "In the Couinaud system, Segment 4 is divided into 'Upper' and 'Lower' portions, designated as:",
+      "choices": [
+        "4a (Left) and 4b (Right)",
+        "4a (Upper) and 4b (Lower)",
+        "4a (Medial) and 4b (Lateral)",
+        "4a (Anterior) and 4b (Posterior)",
+        "Segment 4 is not divided"
+      ],
+      "answer": "B",
+      "detail": "Liver functional segment 4a is designated as upper, while 4b is the lower portion."
+    },
+    {
+      "number": 143,
+      "question": "Which hepatic vein separates Segment 4 from the functional Right Lobe (Segments 5 and 8)?",
+      "choices": [
+        "Right Hepatic Vein",
+        "Middle Hepatic Vein",
+        "Left Hepatic Vein",
+        "Portal Vein",
+        "Inferior epigastric vein"
+      ],
+      "answer": "B",
+      "detail": "The Middle Hepatic Vein serves as the divider between the functional left and right lobes."
+    },
+    {
+      "number": 144,
+      "question": "The 'Bare Area' of the liver is anatomically significant because it specifically lacks which of the following?",
+      "choices": [
+        "Functional blood supply",
+        "A visceral peritoneal covering",
+        "Major hepatic veins",
+        "Biliary drainage ducts",
+        "Nerve endings"
+      ],
+      "answer": "B",
+      "detail": "Because it has no peritoneal covering, it communicates directly with the retroperitoneum."
+    },
+    {
+      "number": 145,
+      "question": "The 'Couinaud System' is used for functional anatomy, but the 'Porta Hepatis' is technically the:",
+      "choices": [
+        "Back door of the liver",
+        "Visceral surface where vessels enter and leave",
+        "Top part of the liver touching the diaphragm",
+        "Part of the Intrahepatic IVC",
+        "The splenic hilum"
+      ],
+      "answer": "B",
+      "detail": "The porta hepatis is the entry and exit point for vessels on the liver's visceral surface."
+    },
+    {
+      "number": 146,
+      "question": "A 'Subcapsular Hematoma' following a liver biopsy can cause hypertension, a phenomenon known in the kidney as:",
+      "choices": [
+        "Page Kidney",
+        "Nutcracker syndrome",
+        "Zinner syndrome",
+        "TAM syndrome",
+        "Potter sequence"
+      ],
+      "answer": "A",
+      "detail": "A Page Kidney refers to systemic hypertension resulting from external capsular compression."
+    },
+    {
+      "number": 147,
+      "question": "What is considered the MOST common Biliary Variant in the population?",
+      "choices": [
+        "Triple main hepatic ducts",
+        "Right posterior segmental duct draining into the left hepatic duct",
+        "Left duct draining into the cystic duct",
+        "Complete absence of the gallbladder",
+        "Right anterior duct draining into the duodenum"
+      ],
+      "answer": "B",
+      "detail": "The posterior-to-left drainage pattern is the most frequent variant encountered."
+    },
+    {
+      "number": 148,
+      "question": "The most common Vascular Variant of the liver is a replaced Right Hepatic Artery originating from the:",
+      "choices": [
+        "Aorta",
+        "Celiac Axis",
+        "Superior Mesenteric Artery (SMA)",
+        "Inferior Mesenteric Artery (IMA)",
+        "Renal Artery"
+      ],
+      "answer": "C",
+      "detail": "A replaced RHA from the SMA is the most common hepatic arterial variant."
+    },
+    {
+      "number": 149,
+      "question": "On a non-contrast T1 MRI, why is the pancreas characteristically BRIGHTER than the liver?",
+      "choices": [
+        "High fat content",
+        "High aqueous protein and enzyme content",
+        "Presence of diffuse calcifications",
+        "Internal hemorrhage",
+        "Trapped air in the ducts"
+      ],
+      "answer": "B",
+      "detail": "High enzyme content makes the pancreas the brightest T1 structure in the body."
+    },
+    {
+      "number": 150,
+      "question": "When using Eovist contrast, why do liver metastases typically appear as 'Black Holes' at the 20-minute mark?",
+      "choices": [
+        "They have too many functioning hepatocytes",
+        "They lack normal liver cells (OATP transporters) and cannot take up the contrast",
+        "They are too hypervascular",
+        "The contrast has already washed out of them",
+        "They are always calcified"
+      ],
+      "answer": "B",
+      "detail": "Mets and most cancers lack the transporters to take up Eovist, leaving them dark against the bright liver background."
+    }
+  ]
+}
+

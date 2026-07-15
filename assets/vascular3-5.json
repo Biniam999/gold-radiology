@@ -1,0 +1,1307 @@
+{
+    "questions": 
+   
+[
+  {
+    "number": 1,
+    "question": "A \"True Aneurysm\" is morphologically defined as an enlargement of the vessel lumen to at least how many times its normal diameter?",
+    "choices": [
+      "1.1x",
+      "1.25x",
+      "1.5x",
+      "2.0x",
+      "3.0x"
+    ],
+    "answer": "C",
+    "detail": "A true aneurysm is defined as an enlargement of the lumen to 1.5 times its normal diameter."
+  },
+  {
+    "number": 2,
+    "question": "What is the defining anatomical characteristic of a \"False (Pseudo) Aneurysm\"?",
+    "choices": [
+      "It involves all three layers of the vessel wall.",
+      "It is always fusiform in shape.",
+      "All three layers of the vessel wall are NOT intact.",
+      "It has a lower risk of rupture than a true aneurysm.",
+      "It is primarily caused by atherosclerosis."
+    ],
+    "answer": "C",
+    "detail": "In a false (pseudo) aneurysm, all three layers are NOT intact; it is essentially a contained rupture."
+  },
+  {
+    "number": 3,
+    "question": "On a pulsed Doppler ultrasound of a groin mass following a cardiac catheterization, \"To and Fro\" flow within a narrow neck is pathognomonic for:",
+    "choices": [
+      "A true saccular aneurysm",
+      "An arteriovenous fistula",
+      "A pseudo-aneurysm",
+      "An arterial dissection",
+      "A normal lymph node"
+    ],
+    "answer": "C",
+    "detail": "To and Fro flow within the aneurysm neck is the best way to identify a pseudo-aneurysm."
+  },
+  {
+    "number": 4,
+    "question": "Where is the most common site to see a \"Traumatic Pseudo-aneurysm\" in a living patient who has survived a blunt injury?",
+    "choices": [
+      "Aortic root",
+      "Ascending aorta",
+      "Aortic isthmus",
+      "Diaphragmatic hiatus",
+      "Aortic bifurcation"
+    ],
+    "answer": "C",
+    "detail": "The most common site for a traumatic pseudo-aneurysm in a living patient is the aortic isthmus (90%)."
+  },
+  {
+    "number": 5,
+    "question": "Traumatic injury at the aortic isthmus is typically attributed to tethering by which structure?",
+    "choices": [
+      "Esophagus",
+      "Left main bronchus",
+      "Ligamentum arteriosum",
+      "Diaphragmatic crus",
+      "Left recurrent laryngeal nerve"
+    ],
+    "answer": "C",
+    "detail": "The injury at the isthmus is the result of tethering from the ligamentum arteriosum."
+  },
+  {
+    "number": 6,
+    "question": "SVC Syndrome is most commonly caused by external compression from which of the following?",
+    "choices": [
+      "Aortic dissection",
+      "Fibromuscular dysplasia",
+      "Lymphoma or lung cancer",
+      "Bicuspid aortic valve",
+      "Pulmonary artery aneurysm"
+    ],
+    "answer": "C",
+    "detail": "SVC syndrome occurs secondary to external compression (lymphoma, lung cancer) or intravascular obstruction."
+  },
+  {
+    "number": 7,
+    "question": "In the United States, \"Fibrosing Mediastinitis\" leading to SVC syndrome is most characteristically associated with which infection?",
+    "choices": [
+      "Tuberculosis",
+      "Syphilis",
+      "Histoplasmosis",
+      "Coccidioidomycosis",
+      "Aspergillosis"
+    ],
+    "answer": "C",
+    "detail": "For fibrosing mediastinitis on a test, you should just think histoplasmosis."
+  },
+  {
+    "number": 8,
+    "question": "Sinus of Valsalva aneurysms are most common in which demographic?",
+    "choices": [
+      "Elderly Caucasian women",
+      "Young Hispanic children",
+      "Asian Men",
+      "Middle-aged African American women",
+      "Female athletes"
+    ],
+    "answer": "C",
+    "detail": "These rare aneurysms are more common in Asian Men."
+  },
+  {
+    "number": 9,
+    "question": "Which cardiac anomaly is most frequently associated with a Sinus of Valsalva aneurysm?",
+    "choices": [
+      "ASD",
+      "VSD",
+      "PDA",
+      "Coarctation",
+      "Ebstein Anomaly"
+    ],
+    "answer": "B",
+    "detail": "VSD is the most common associated cardiac anomaly."
+  },
+  {
+    "number": 10,
+    "question": "On a non-contrast CT, the \"Hyperdense Crescent Sign\" within an aneurysm wall represents:",
+    "choices": [
+      "Chronic mural calcification",
+      "Normal stable plaque",
+      "Acute hemorrhage and impending rupture",
+      "A thrombosed dissection",
+      "Successful exclusion of the sac"
+    ],
+    "answer": "C",
+    "detail": "This sign represents hemorrhage and is a specific manifestation of impending rupture."
+  },
+  {
+    "number": 11,
+    "question": "The \"Draped Aorta Sign\" refers to the posterior wall of the aorta draping over the vertebral column and is an indicator of:",
+    "choices": [
+      "A successful endograft repair",
+      "Chronic stable atherosclerosis",
+      "Impending rupture",
+      "A normal anatomical variant",
+      "Stanford B dissection"
+    ],
+    "answer": "C",
+    "detail": "The draped aorta sign is a warning sign of impending rupture."
+  },
+  {
+    "number": 12,
+    "question": "If you see a saccular aneurysm of the abdominal aorta that lacks intimal calcifications and is expanding rapidly, which diagnosis must you lead with?",
+    "choices": [
+      "Atherosclerosis",
+      "Marfan syndrome",
+      "Infection (Mycotic aneurysm)",
+      "Hypertension",
+      "Cocaine-induced aortitis"
+    ],
+    "answer": "C",
+    "detail": "If you see a saccular aneurysm of the aorta (especially abdominal), you have to lead with infection."
+  },
+  {
+    "number": 13,
+    "question": "\"Mycotic aneurysms\" are most often saccular pseudo-aneurysms occurring via hematogenous seeding in the setting of:",
+    "choices": [
+      "Hypertension",
+      "Tertiary Syphilis",
+      "Septicemia (endocarditis)",
+      "Cystic medial necrosis",
+      "Blunt trauma"
+    ],
+    "answer": "C",
+    "detail": "They most often occur via seeding in the setting of septicemia (endocarditis)."
+  },
+  {
+    "number": 14,
+    "question": "What are the two most common bacterial agents responsible for infectious aortitis?",
+    "choices": [
+      "E. coli and Pseudomonas",
+      "Staph A. and Salmonella",
+      "Fusobacterium and TB",
+      "Actinomyces and Nocardia",
+      "Klebsiella and Strep"
+    ],
+    "answer": "B",
+    "detail": "The most common bugs are Staph A. and Salmonella."
+  },
+  {
+    "number": 15,
+    "question": "\"Annuloaortic ectasia\" and a \"tulip bulb\" appearance of the ascending aorta are classic imaging descriptions for:",
+    "choices": [
+      "Syphilis",
+      "Takayasu Arteritis",
+      "Marfan Syndrome",
+      "Loeys-Dietz Syndrome",
+      "Ehlers-Danlos Syndrome"
+    ],
+    "answer": "C",
+    "detail": "Dilation in Marfans is classically described as \"Annuloaortic ectasia\" with a \"tulip bulb\" appearance."
+  },
+  {
+    "number": 16,
+    "question": "What is a common valvular complication resulting from the aortic root dilation in Marfan Syndrome?",
+    "choices": [
+      "Mitral stenosis",
+      "Mitral regurgitation",
+      "Aortic valve insufficiency",
+      "Tricuspid atresia",
+      "Pulmonary stenosis"
+    ],
+    "answer": "C",
+    "detail": "Dilatation of the aortic root in Marfans leads to aortic valve insufficiency."
+  },
+  {
+    "number": 17,
+    "question": "Which syndrome is described as the \"really shitty version of Marfans\" and features extremely tortuous vessels and a bifid uvula?",
+    "choices": [
+      "Turner Syndrome",
+      "Williams Syndrome",
+      "Loeys-Dietz Syndrome",
+      "Holt-Oram Syndrome",
+      "NF-1"
+    ],
+    "answer": "C",
+    "detail": "Loeys-Dietz Syndrome features a triad of hypertelorism, bifid uvula or cleft palate, and very tortuous vessels."
+  },
+  {
+    "number": 18,
+    "question": "In \"Secondary Aortoenteric Fistula,\" which segment of the gastrointestinal tract is most commonly involved?",
+    "choices": [
+      "Stomach",
+      "1st and 2nd portions of the duodenum",
+      "3rd and 4th portions of the duodenum",
+      "Ileocecal valve",
+      "Sigmoid colon"
+    ],
+    "answer": "C",
+    "detail": "The 3rd and 4th portions of the duodenum are the most common sites."
+  },
+  {
+    "number": 19,
+    "question": "Secondary aortoenteric fistulas are much more common than primary ones and are typically seen after:",
+    "choices": [
+      "Untreated syphilis",
+      "Chronic pancreatitis",
+      "Surgery with or without stent graft placement",
+      "Massive blunt trauma",
+      "Cocaine overdose"
+    ],
+    "answer": "C",
+    "detail": "They are seen after surgery with or without stent graft placement."
+  },
+  {
+    "number": 20,
+    "question": "\"Inflammatory Aneurysms\" characteristically involve which demographic and which specific imaging finding?",
+    "choices": [
+      "Elderly women; total aortic wall thickening",
+      "Young men who smoke; sparing of the posterior wall",
+      "Infants; calcified aortic root",
+      "Athletes; effort thrombosis",
+      "Diabetics; orificial renal stenosis"
+    ],
+    "answer": "B",
+    "detail": "These are seen in smokers and feature asymmetrical thickening with sparing of the posterior wall."
+  },
+  {
+    "number": 21,
+    "question": "\"Leriche Syndrome\" is characterized by a clinical triad of claudication, absent/decreased femoral pulses, and:",
+    "choices": [
+      "Upper extremity hypertension",
+      "Renal failure",
+      "Impotence (limp dick)",
+      "Fever",
+      "Jaundice"
+    ],
+    "answer": "C",
+    "detail": "The Leriche triad includes impotence, ass claudication, and absence of femoral pulses."
+  },
+  {
+    "number": 22,
+    "question": "On a chest X-ray, the \"Figure 3 Sign\" is the classic \"Aunt Minnie\" for:",
+    "choices": [
+      "Transposition of the Great Arteries",
+      "Ebstein Anomaly",
+      "Aortic Coarctation",
+      "Tetralogy of Fallot",
+      "TAPVR"
+    ],
+    "answer": "C",
+    "detail": "The Figure 3 sign is pathognomonic for coarctation."
+  },
+  {
+    "number": 23,
+    "question": "Rib notching in aortic coarctation typically involves the 4th through 8th ribs but characteristically spares which ribs?",
+    "choices": [
+      "3rd and 4th",
+      "9th and 10th",
+      "1st and 2nd",
+      "All ribs on the left side",
+      "Rib notching is always global"
+    ],
+    "answer": "C",
+    "detail": "Rib notching spares the 1st and 2nd ribs because they are fed by the costocervical trunk."
+  },
+  {
+    "number": 24,
+    "question": "\"Pseudocoarctation\" is distinguished from true coarctation by the ABSENCE of:",
+    "choices": [
+      "Aortic narrowing",
+      "Aortic arch elongation",
+      "A pressure gradient, collateral formation, and rib notching",
+      "Kinking of the aorta",
+      "Symptoms of dysphagia"
+    ],
+    "answer": "C",
+    "detail": "In pseudocoarctation, there is NO pressure gradient, collateral formation, or rib notching."
+  },
+  {
+    "number": 25,
+    "question": "\"Paget Schroetter\" syndrome, also known as \"effort thrombosis,\" involves a venous thrombus in which vessel?",
+    "choices": [
+      "Internal jugular vein",
+      "SVC",
+      "Subclavian vein",
+      "Axillary artery",
+      "Common femoral vein"
+    ],
+    "answer": "C",
+    "detail": "It involves a venous thrombus in the Subclavian vein, often seen in athletes."
+  },
+  {
+    "number": 26,
+    "question": "Thoracic Outlet Syndrome is most commonly caused by neurogenic compression from which structure?",
+    "choices": [
+      "A cervical rib",
+      "The pectoralis minor muscle",
+      "The anterior scalene muscle",
+      "The clavicle",
+      "A Pancoast tumor"
+    ],
+    "answer": "C",
+    "detail": "It is typically caused by compression by the anterior scalene muscle."
+  },
+  {
+    "number": 27,
+    "question": "\"Cystic Medial Necrosis\" is a pathological term most strongly associated with which condition?",
+    "choices": [
+      "Syphilis",
+      "Takayasu Arteritis",
+      "Marfan Syndrome",
+      "Bicuspid aortic valve",
+      "Hypertension"
+    ],
+    "answer": "C",
+    "detail": "When you say cystic medial necrosis, you should think Marfans."
+  },
+  {
+    "number": 28,
+    "question": "What is the surgical repair threshold for an asymptomatic aortic aneurysm in the chest?",
+    "choices": [
+      "3 cm",
+      "4 cm",
+      "5 cm",
+      "6 cm",
+      "10 cm"
+    ],
+    "answer": "D",
+    "detail": "A general rule is surgical repair for chest aneurysms at 6 cm (5.5 cm with collagen vascular disease)."
+  },
+  {
+    "number": 29,
+    "question": "What are the two primary causes of ascending aortic calcifications?",
+    "choices": [
+      "Marfan and Ehlers-Danlos",
+      "Takayasu Arteritis and Syphilis",
+      "Hypertension and smoking",
+      "Diabetes and cocaine use",
+      "Radiation and trauma"
+    ],
+    "answer": "B",
+    "detail": "Ascending aorta calcifications should make you say Syphilis and Takayasu."
+  },
+  {
+    "number": 30,
+    "question": "Which condition is associated with a \"tree bark\" appearance of the intimal calcifications?",
+    "choices": [
+      "Atherosclerosis",
+      "Takayasu Arteritis",
+      "Syphilitic (Luetic) aneurysm",
+      "Mycotic aneurysm",
+      "Marfan syndrome"
+    ],
+    "answer": "C",
+    "detail": "Tree bark intimal calcification is the buzzword for a Syphilitic (Luetic) aneurysm."
+  },
+  {
+    "number": 31,
+    "question": "\"Diverticulum of Kommerell\" refers to an aneurysmal dilatation at the origin of which vessel?",
+    "choices": [
+      "Bovine arch",
+      "Double aortic arch",
+      "Aberrant right subclavian artery",
+      "Persistent left SVC",
+      "Ductus arteriosus"
+    ],
+    "answer": "C",
+    "detail": "It is an aneurysmal dilatation at the proximal portion of an aberrant right subclavian artery."
+  },
+  {
+    "number": 32,
+    "question": "Which vascular ring anomaly is the most common cause of symptoms like tracheal compression?",
+    "choices": [
+      "Left arch with aberrant right subclavian",
+      "Double Aortic Arch",
+      "Pulmonary Sling",
+      "Right arch with mirror branching",
+      "Bovine arch"
+    ],
+    "answer": "B",
+    "detail": "Double Aortic Arch is the most common symptomatic vascular ring."
+  },
+  {
+    "number": 33,
+    "question": "Symptoms of a Double Aortic Arch typically manifest at what age?",
+    "choices": [
+      "Birth",
+      "Adolescence",
+      "Age 40",
+      "Only during exercise",
+      "Post-pregnancy"
+    ],
+    "answer": "A",
+    "detail": "Symptoms of this ring may begin at birth."
+  },
+  {
+    "number": 34,
+    "question": "A \"Pulmonary Sling\" is uniquely associated with which other primary pathology?",
+    "choices": [
+      "ASD",
+      "Bicuspid aortic valve",
+      "Tracheal stenosis (complete rings)",
+      "Coarctation",
+      "Horseshoe kidney"
+    ],
+    "answer": "C",
+    "detail": "It is associated with tracheal stenosis from complete rings."
+  },
+  {
+    "number": 35,
+    "question": "Vascular findings in Neurofibromatosis type 1 (NF-1) include which renal presentation in children?",
+    "choices": [
+      "Polycystic kidney disease",
+      "Orificial renal artery stenosis and hypertension",
+      "Renal vein thrombosis",
+      "Wilms tumor",
+      "Medullary sponge kidney"
+    ],
+    "answer": "B",
+    "detail": "The classic look is orificial renal artery stenosis presenting with hypertension in a child."
+  },
+  {
+    "number": 36,
+    "question": "\"Chronic\" Mesenteric Ischemia is typically diagnosed when there is significant stenosis of how many main vessels?",
+    "choices": [
+      "1 out of 3",
+      "2 out of 3",
+      "3 out of 3",
+      "Only the IMA",
+      "Only the Celiac axis"
+    ],
+    "answer": "B",
+    "detail": "Chronic ischemia usually involves stenosis of 2 out of 3 main mesenteric vessels."
+  },
+  {
+    "number": 37,
+    "question": "What is the classic clinical hallmark of Chronic Mesenteric Ischemia?",
+    "choices": [
+      "Relief of pain with eating",
+      "Sharp RUQ pain with inspiration",
+      "\"Food fear\" and pain out of proportion to exam",
+      "Sudden onset bloody diarrhea",
+      "Fever and jaundice"
+    ],
+    "answer": "C",
+    "detail": "Hallmarks include \"food fear\" and pain out of proportion to physical findings."
+  },
+  {
+    "number": 38,
+    "question": "Which location is the most common site for mesenteric ischemia because it is the watershed of the SMA and IMA?",
+    "choices": [
+      "Hepatic flexure",
+      "Splenic flexure (Griffith’s Point)",
+      "Ileocecal valve",
+      "Rectum",
+      "Proximal duodenum"
+    ],
+    "answer": "B",
+    "detail": "The splenic flexure (\"Griffith's Point\") is the most common site."
+  },
+  {
+    "number": 39,
+    "question": "\"Sudeck’s Point\" is another watershed area highly susceptible to ischemia located at the:",
+    "choices": [
+      "SMA-Celiac junction",
+      "IMA-Iliac watershed",
+      "Duodenal-jejunal junction",
+      "Lower 1/3 of the rectum",
+      "Appendix"
+    ],
+    "answer": "B",
+    "detail": "Sudeck’s Point is the IMA-Iliac watershed."
+  },
+  {
+    "number": 40,
+    "question": "\"Acute\" Mesenteric Ischemia is most commonly (~70%) caused by which of the following?",
+    "choices": [
+      "Venous thrombosis",
+      "Non-occlusive hypoperfusion",
+      "Arterial emboli or thrombus",
+      "Strangulation",
+      "Celiac artery compression"
+    ],
+    "answer": "C",
+    "detail": "Arterial causes (emboli or thrombus) account for ~70% of acute cases."
+  },
+  {
+    "number": 41,
+    "question": "In the initial phase of acute arterial ischemia, the bowel wall characteristically appears:",
+    "choices": [
+      "Thick and edematous",
+      "Thinner (no arterial inflow) and not typically dilated",
+      "Brightly enhancing",
+      "Full of gas (pneumatosis)",
+      "Symmetrical to normal loops"
+    ],
+    "answer": "B",
+    "detail": "Initially, the wall is thinner (no arterial inflow) and not typically dilated."
+  },
+  {
+    "number": 42,
+    "question": "Following reperfusion of an ischemic bowel segment, the bowel wall typically becomes:",
+    "choices": [
+      "Even thinner",
+      "Thinner and full of air",
+      "Thick with a target appearance",
+      "Brightly calcified",
+      "Displaced into the retroperitoneum"
+    ],
+    "answer": "C",
+    "detail": "After reperfusion, the bowel becomes thick with a target appearance."
+  },
+  {
+    "number": 43,
+    "question": "\"Venous\" Mesenteric Ischemia (~15%) is characterized by which imaging findings?",
+    "choices": [
+      "Thinner bowel wall",
+      "Dilation with significant wall thickening (8-9 mm), fat stranding, and ascites",
+      "Massive pneumoperitoneum",
+      "Air in the portal vein only",
+      "Hyper-enhancing mucosa"
+    ],
+    "answer": "B",
+    "detail": "Venous occlusion causes dilation, wall thickening (8-9 mm), fat stranding, and ascites."
+  },
+  {
+    "number": 44,
+    "question": "Non-Occlusive Mesenteric Ischemia (NOMI) is primarily caused by:",
+    "choices": [
+      "A large clot in the SMA",
+      "Systemic hypoperfusion (shunting blood to brain/heart)",
+      "Compression by the diaphragm",
+      "Chronic atherosclerosis",
+      "Gallstone ileus"
+    ],
+    "answer": "B",
+    "detail": "NOMI is caused by systemic hypoperfusion."
+  },
+  {
+    "number": 45,
+    "question": "Which \"sneaky scenario\" can lead to NOMI due to mesenteric vasospasm?",
+    "choices": [
+      "Alcohol withdrawal",
+      "Cocaine or amphetamine overdose",
+      "Pregnancy",
+      "Allergic reaction to contrast",
+      "High fiber diet"
+    ],
+    "answer": "B",
+    "detail": "Amphetamines or cocaine can trigger the vasospasm."
+  },
+  {
+    "number": 46,
+    "question": "A clue to diagnosing NOMI on a CT scan is:",
+    "choices": [
+      "Portal vein filling within 70 seconds",
+      "Delayed filling of the portal vein (not filled by 70 seconds)",
+      "Reflux of contrast into the hepatic veins",
+      "Massive dilation of the SMA",
+      "Pneumatosis in the stomach"
+    ],
+    "answer": "B",
+    "detail": "Delayed filling of the portal vein is a clue."
+  },
+  {
+    "number": 47,
+    "question": "\"Strangulation\" ischemia is almost always secondary to:",
+    "choices": [
+      "Portal hypertension",
+      "A closed loop obstruction",
+      "SMA aneurysm",
+      "Right heart failure",
+      "Takayasu Arteritis"
+    ],
+    "answer": "B",
+    "detail": "This is almost always secondary to a closed loop obstruction."
+  },
+  {
+    "number": 48,
+    "question": "Mesenteric ischemia has a recognized association with which arterial abnormality?",
+    "choices": [
+      "Celiac stenosis",
+      "SMA Aneurysm",
+      "Replaced right hepatic artery",
+      "Median arcuate ligament syndrome",
+      "Corona Mortis"
+    ],
+    "answer": "B",
+    "detail": "Mesenteric ischemia has a described association with SMA Aneurysm."
+  },
+  {
+    "number": 49,
+    "question": "What is the most common cause of portal hypertension in North America?",
+    "choices": [
+      "Schistosomiasis",
+      "Alcoholic cirrhosis (EtOH)",
+      "Portal vein thrombosis",
+      "Budd-Chiari",
+      "Right heart failure"
+    ],
+    "answer": "B",
+    "detail": "In North America, the most common cause is EtOH (alcoholic cirrhosis)."
+  },
+  {
+    "number": 50,
+    "question": "Portal hypertension is defined by a portal vein pressure greater than:",
+    "choices": [
+      "5 mm Hg",
+      "10 mm Hg",
+      "20 mm Hg",
+      "25 mm Hg",
+      "40 mm Hg"
+    ],
+    "answer": "B",
+    "detail": "Portal HTN is defined as pressure > 10 mm Hg (or PSG > 5 mm Hg)."
+  },
+  {
+    "number": 51,
+    "question": "On ultrasound, an enlarged portal vein measurement suggesting hypertension is:",
+    "choices": [
+      "> 0.8 cm",
+      "> 1.0 cm",
+      "> 1.3-1.5 cm",
+      "> 2.0 cm",
+      "> 3.0 cm"
+    ],
+    "answer": "C",
+    "detail": "An enlarged portal vein (>1.3-1.5 cm) is a sign of portal HTN."
+  },
+  {
+    "number": 52,
+    "question": "Most gastric varices are formed by which vessel?",
+    "choices": [
+      "Short gastric veins",
+      "Right gastric vein",
+      "Left gastric (coronary) vein",
+      "Splenic vein",
+      "Superior mesenteric vein"
+    ],
+    "answer": "C",
+    "detail": "Most gastric varices are formed by the left gastric (coronary) vein."
+  },
+  {
+    "number": 53,
+    "question": "\"Isolated\" gastric varices should prompt a search for:",
+    "choices": [
+      "Cirrhosis",
+      "Splenic vein thrombosis",
+      "SVC syndrome",
+      "Nutcracker syndrome",
+      "SMA syndrome"
+    ],
+    "answer": "B",
+    "detail": "Isolated gastric varices are secondary to splenic vein thrombosis (often due to pancreatitis)."
+  },
+  {
+    "number": 54,
+    "question": "A \"Splenorenal Shunt\" is a collateral pathway in portal hypertension described as:",
+    "choices": [
+      "Highly dangerous and prone to bleeding",
+      "Desirable because it is NOT associated with GI bleeding",
+      "Only seen in pediatric patients",
+      "Always requiring emergent embolization",
+      "Caused by SMA compression"
+    ],
+    "answer": "B",
+    "detail": "It is a desirable collateral because it is NOT associated with GI bleeding."
+  },
+  {
+    "number": 55,
+    "question": "What is the goal portal-systemic gradient (PSG) after a successful TIPS procedure?",
+    "choices": [
+      "> 12 mm Hg",
+      "< 12 mm Hg",
+      "Exactly 20 mm Hg",
+      "0 mm Hg",
+      "Equal to the heart pressure"
+    ],
+    "answer": "B",
+    "detail": "The GOAL for a successful TIPS is a gradient LESS THAN 12."
+  },
+  {
+    "number": 56,
+    "question": "Which of the following is an ABSOLUTE contraindication for a TIPS procedure?",
+    "choices": [
+      "Refractory ascites",
+      "Budd-Chiari",
+      "Right heart failure",
+      "Variceal hemorrhage",
+      "Obesity"
+    ],
+    "answer": "C",
+    "detail": "Heart failure (especially right heart failure) is an absolute contraindication."
+  },
+  {
+    "number": 57,
+    "question": "\"BRTO\" (Balloon-occluded Retrograde Transvenous Obliteration) is used to treat:",
+    "choices": [
+      "Esophageal varices",
+      "Gastric varices (in the presence of a gastro-renal shunt)",
+      "SMA syndrome",
+      "Aortic dissections",
+      "Renal artery stenosis"
+    ],
+    "answer": "B",
+    "detail": "BRTO treats gastric varices and requires a gastro-renal shunt."
+  },
+  {
+    "number": 58,
+    "question": "What is the most common side effect following a BRTO procedure?",
+    "choices": [
+      "Hepatic encephalopathy",
+      "Gross hematuria",
+      "Worsening ascites",
+      "Stroke",
+      "Fever"
+    ],
+    "answer": "B",
+    "detail": "The most common side effect is gross hematuria."
+  },
+  {
+    "number": 59,
+    "question": "\"Budd-Chiari Syndrome\" results from:",
+    "choices": [
+      "SMA compression of the duodenum",
+      "Hepatic vein thrombosis",
+      "Aortic dissection involving the celiac axis",
+      "Celiac artery compression by a ligament",
+      "Splenic artery aneurysm rupture"
+    ],
+    "answer": "B",
+    "detail": "This results from thrombosis of the hepatic veins."
+  },
+  {
+    "number": 60,
+    "question": "The characteristic imaging finding of acute Budd-Chiari is a \"flip-flop pattern\" where the liver shows:",
+    "choices": [
+      "Peripheral enhancement and central washout",
+      "Central enhancement with low peripheral attenuation on portal phase",
+      "Diffuse bright signal on T1",
+      "Massive calcification",
+      "\"Snowman\" appearance"
+    ],
+    "answer": "B",
+    "detail": "Acute Budd-Chiari shows low attenuation centrally and high attenuation peripherally on portal phase."
+  },
+  {
+    "number": 61,
+    "question": "A 30-year-old female presents with renovascular hypertension. CT shows a \"string of beads\" appearance of the renal arteries. What is the diagnosis?",
+    "choices": [
+      "Atherosclerosis",
+      "Polyarteritis Nodosa (PAN)",
+      "Fibromuscular Dysplasia (FMD)",
+      "Takayasu Arteritis",
+      "NF-1"
+    ],
+    "answer": "C",
+    "detail": "FMD in young women classically presents as \"string of beads\"."
+  },
+  {
+    "number": 62,
+    "question": "FMD characteristically involves which segment of the renal artery?",
+    "choices": [
+      "Ostium",
+      "Proximal 1 cm",
+      "Mid-to-distal portion",
+      "Only accessory renals",
+      "It is always orificial"
+    ],
+    "answer": "C",
+    "detail": "FMD favors the distal artery, whereas atherosclerosis favors the proximal and NF-1 favors the ostium."
+  },
+  {
+    "number": 63,
+    "question": "Which vascular finding is specifically associated with FMD?",
+    "choices": [
+      "Spontaneous Coronary Artery Dissection (SCAD)",
+      "Bicuspid aortic valve",
+      "Coarctation of the aorta",
+      "Sinus venosus ASD",
+      "Persistent left SVC"
+    ],
+    "answer": "A",
+    "detail": "SCAD is associated with FMD."
+  },
+  {
+    "number": 64,
+    "question": "\"Nutcracker Syndrome\" occurs when the left renal vein is compressed between which two structures?",
+    "choices": [
+      "SMA and IMA",
+      "SMA and Aorta",
+      "Celiac and SMA",
+      "Portal vein and IVC",
+      "Diaphragm and spine"
+    ],
+    "answer": "B",
+    "detail": "The left renal vein is smashed between the SMA and the aorta."
+  },
+  {
+    "number": 65,
+    "question": "Clinical symptoms of Nutcracker Syndrome include left flank pain, hematuria, and:",
+    "choices": [
+      "Right-sided varicocele",
+      "Left testicle pain in men or LLQ pain in women",
+      "Leg claudication",
+      "Impotence",
+      "Jaundice"
+    ],
+    "answer": "B",
+    "detail": "It can cause left testicle pain (\"nut cracker\") or LLQ pain in women."
+  },
+  {
+    "number": 66,
+    "question": "What is the gold standard for diagnosing Nutcracker Syndrome?",
+    "choices": [
+      "CTA with 3D reconstructions",
+      "MRI with flow quantification",
+      "Retrograde venography with renal/caval pressure measurements",
+      "Doppler ultrasound",
+      "Scintigraphy"
+    ],
+    "answer": "C",
+    "detail": "The gold standard for Nutcracker is retrograde venography with pressure measurements."
+  },
+  {
+    "number": 67,
+    "question": "\"Median Arcuate Ligament Syndrome\" (Dunbar Syndrome) involves compression of which vessel?",
+    "choices": [
+      "SMA",
+      "IMA",
+      "Celiac artery",
+      "Left renal vein",
+      "Internal iliac artery"
+    ],
+    "answer": "C",
+    "detail": "This syndrome involves compression of the celiac artery by the median arcuate ligament."
+  },
+  {
+    "number": 68,
+    "question": "The characteristic radiographic buzzword for Median Arcuate Ligament Syndrome is:",
+    "choices": [
+      "\"Tulip bulb\" appearance",
+      "\"Hooked appearance\"",
+      "\"String of beads\"",
+      "\"Saber-sheath\" appearance",
+      "\"Snowman\" appearance"
+    ],
+    "answer": "B",
+    "detail": "A \"hooked appearance\" is the characteristic buzzword for this compression."
+  },
+  {
+    "number": 69,
+    "question": "Compression in Median Arcuate Ligament Syndrome characteristically gets WORSE during:",
+    "choices": [
+      "Inspiration",
+      "Expiration",
+      "Exercise",
+      "Lying supine",
+      "Valsalva"
+    ],
+    "answer": "B",
+    "detail": "The compression classically gets worse with expiration."
+  },
+  {
+    "number": 70,
+    "question": "\"Pelvic Congestion Syndrome\" is typically seen in which demographic?",
+    "choices": [
+      "Elderly men",
+      "Post-menopausal women",
+      "Depressed, multiparous, pre-menopausal women with chronic pelvic pain",
+      "Teenage girls with Turner syndrome",
+      "Young male athletes"
+    ],
+    "answer": "C",
+    "detail": "It is seen in pre-menopausal women with chronic pelvic pain and dilated parauterine veins."
+  },
+  {
+    "number": 71,
+    "question": "\"May-Thurner Syndrome\" results in DVT of the left common iliac vein due to compression by:",
+    "choices": [
+      "The left common iliac artery",
+      "The right common iliac artery",
+      "An inguinal hernia",
+      "The median arcuate ligament",
+      "The SMA"
+    ],
+    "answer": "B",
+    "detail": "The left common iliac vein is compressed by the right common iliac artery."
+  },
+  {
+    "number": 72,
+    "question": "A patient with May-Thurner Syndrome will typically present with:",
+    "choices": [
+      "A swollen right leg",
+      "A swollen left leg",
+      "Hematuria",
+      "Dysphagia",
+      "Pulsatile tinnitus"
+    ],
+    "answer": "B",
+    "detail": "They present with a swollen left leg."
+  },
+  {
+    "number": 73,
+    "question": "\"Popliteal Aneurysm\" is the most common peripheral arterial aneurysm and has a strong association with:",
+    "choices": [
+      "Bicuspid aortic valve",
+      "Abdominal Aortic Aneurysm (AAA)",
+      "ASD",
+      "Coarctation",
+      "FMD"
+    ],
+    "answer": "B",
+    "detail": "There is a strong and frequent association with AAA (30-50% have one)."
+  },
+  {
+    "number": 74,
+    "question": "What is the most dreaded complication of a popliteal artery aneurysm?",
+    "choices": [
+      "Rupture and retroperitoneal bleed",
+      "SVC syndrome",
+      "Distal thromboembolism",
+      "Transformation into a sarcoma",
+      "Development of a fistula"
+    ],
+    "answer": "C",
+    "detail": "The most dreaded complication is distal emboli, which can be limb-threatening."
+  },
+  {
+    "number": 75,
+    "question": "A \"Popliteal Entrapment\" syndrome in a young man (<30) is caused by the medial deviation of the artery by the:",
+    "choices": [
+      "Lateral head of the gastrocnemius",
+      "Medial head of the gastrocnemius",
+      "Soleus muscle",
+      "Popliteus muscle",
+      "Plantaris tendon"
+    ],
+    "answer": "B",
+    "detail": "It is caused by the medial head of the gastrocnemius."
+  },
+  {
+    "number": 76,
+    "question": "\"Cystic Adventitial Disease\" classically affects the popliteal artery of young men and is characterized by:",
+    "choices": [
+      "Atherosclerotic plaque",
+      "Multiple mucoid-filled cysts in the vessel wall that compress the lumen",
+      "Chronic venous insufficiency",
+      "High flow AVMs",
+      "Association with Kawasaki disease"
+    ],
+    "answer": "B",
+    "detail": "It features mucoid-filled cysts that compress the artery."
+  },
+  {
+    "number": 77,
+    "question": "\"Hypothenar Hammer Syndrome\" results from blunt trauma to the:",
+    "choices": [
+      "Radial artery",
+      "Ulnar artery",
+      "Brachial artery",
+      "Axillary artery",
+      "Deep palmar arch"
+    ],
+    "answer": "B",
+    "detail": "It results from trauma to the ulnar artery (e.g., using the palm as a hammer)."
+  },
+  {
+    "number": 78,
+    "question": "The angiographic hallmark of Hypothenar Hammer Syndrome is:",
+    "choices": [
+      "\"String of beads\" in the forearm",
+      "Corkscrew configuration or pseudo-aneurysm of the ulnar artery",
+      "Occlusion of the radial artery",
+      "Dilation of the SVC",
+      "Multiple AVMs in the hand"
+    ],
+    "answer": "B",
+    "detail": "Look for a \"corkscrew\" appearance or pseudo-aneurysm of the ulnar artery."
+  },
+  {
+    "number": 79,
+    "question": "What is the classic \"next step\" if you see an isolated right-sided varicocele in an adult?",
+    "choices": [
+      "Treat for infertility",
+      "Get an abdominal CT/MR to look for a mass/malignancy",
+      "Immediate scrotal surgery",
+      "Start antibiotics for orchitis",
+      "No follow-up needed"
+    ],
+    "answer": "B",
+    "detail": "An isolated right varicocele is a red flag to look in the belly for badness (like RCC)."
+  },
+  {
+    "number": 80,
+    "question": "\"Klippel-Trenaunay Syndrome\" (KTS) features a triad of port wine nevi, soft tissue/bony hypertrophy, and which vascular finding?",
+    "choices": [
+      "Replaced right hepatic artery",
+      "Marginal vein of Servelle",
+      "Coronary artery aneurysms",
+      "Median arcuate ligament compression",
+      "Persistent left SVC"
+    ],
+    "answer": "B",
+    "detail": "The marginal vein of Servelle (a large saphenous on the wrong side) is pathognomonic for KTS."
+  },
+  {
+    "number": 81,
+    "question": "\"Osler-Weber-Rendu\" (HHT) is characterized by multiple AVMs in which two primary organs?",
+    "choices": [
+      "Brain and Heart",
+      "Liver and Lungs",
+      "Kidney and Spleen",
+      "Stomach and Colon",
+      "Bone and Skin"
+    ],
+    "answer": "B",
+    "detail": "HHT features multiple AVMs in the liver and lungs."
+  },
+  {
+    "number": 82,
+    "question": "What is the primary cause of death in patients with HHT due to pulmonary AVMs?",
+    "choices": [
+      "Liver failure",
+      "High-output cardiac failure",
+      "Stroke or brain abscess (via paradoxical emboli)",
+      "Massive GI bleed",
+      "Pulmonary hypertension"
+    ],
+    "answer": "C",
+    "detail": "Most die from stroke or brain abscess."
+  },
+  {
+    "number": 83,
+    "question": "At what afferent vessel size is a pulmonary AVM typically treated with coil embolization?",
+    "choices": [
+      "1 mm",
+      "2 mm",
+      "3 mm",
+      "5 mm",
+      "10 mm"
+    ],
+    "answer": "C",
+    "detail": "The rule is to treat once the afferent (feeding) artery is 3 mm."
+  },
+  {
+    "number": 84,
+    "question": "\"Colonic Angiodysplasia\" is primarily right-sided and associated with which valvular condition (Heyde Syndrome)?",
+    "choices": [
+      "Mitral stenosis",
+      "Aortic stenosis",
+      "Tricuspid regurgitation",
+      "Pulmonic stenosis",
+      "Bicuspid aortic valve"
+    ],
+    "answer": "B",
+    "detail": "The association with aortic stenosis is called Heyde Syndrome."
+  },
+  {
+    "number": 85,
+    "question": "\"Artery of Adamkiewicz\" most commonly arises from the left side of the aorta between which levels?",
+    "choices": [
+      "T1-T4",
+      "T5-T8",
+      "T9-T12",
+      "L1-L3",
+      "L4-L5"
+    ],
+    "answer": "C",
+    "detail": "It arises from the left side (70%) typically between levels T9 and T12 (90%)."
+  },
+  {
+    "number": 86,
+    "question": "On an angiogram, the Artery of Adamkiewicz is identified by its characteristic:",
+    "choices": [
+      "Corkscrew appearance",
+      "\"Hairpin Turn\"",
+      "\"Puff of smoke\"",
+      "\"String of beads\"",
+      "\"Tulip bulb\""
+    ],
+    "answer": "B",
+    "detail": "The morphology on an angiogram is a \"hairpin turn\"."
+  },
+  {
+    "number": 87,
+    "question": "\"Nutcracker Syndrome\" compression of the left renal vein can also cause pain in which location?",
+    "choices": [
+      "Right shoulder",
+      "Left testicle or pelvic region",
+      "Mid-back",
+      "Jaw",
+      "Right hip"
+    ],
+    "answer": "B",
+    "detail": "Nutcracker syndrome can cause left testicle pain or LLQ pain in women."
+  },
+  {
+    "number": 88,
+    "question": "\"Uterine AVMs\" are most commonly acquired following which event?",
+    "choices": [
+      "Bicuspid aortic valve repair",
+      "D&C, abortion, or multiple pregnancies",
+      "Ingestion of anabolic steroids",
+      "Aortic coarctation",
+      "Fibrosing mediastinitis"
+    ],
+    "answer": "B",
+    "detail": "Acquired uterine AVMs occur after D&C, abortion, or multiple pregnancies."
+  },
+  {
+    "number": 89,
+    "question": "\"Segmental Arterial Mediolysis\" (SAM) targets the splanchnic arteries of the elderly and causes:",
+    "choices": [
+      "Chronic plaque",
+      "Multiple abdominal splanchnic artery saccular aneurysms and dissections",
+      "SVC syndrome",
+      "Lung white-out",
+      "Left renal vein compression"
+    ],
+    "answer": "B",
+    "detail": "Hallmarks include multiple saccular aneurysms, dissections, and occlusions in splanchnic arteries."
+  },
+  {
+    "number": 90,
+    "question": "What is the diagnostic size for a \"Pelvic Congestion Syndrome\" gonadal vein?",
+    "choices": [
+      "2 mm",
+      "5 mm",
+      "10 mm",
+      "20 mm",
+      "40 mm"
+    ],
+    "answer": "C",
+    "detail": "Diagnosis involves clinical symptoms and a gonadal vein diameter of 10 mm."
+  },
+  {
+    "number": 91,
+    "question": "\"Buerger Disease\" (Thromboangiitis Obliterans) is a vasculitis exclusively seen in:",
+    "choices": [
+      "Hepatitis B patients",
+      "Smokers",
+      "Young Asian girls",
+      "Children",
+      "Diabetics"
+    ],
+    "answer": "B",
+    "detail": "Buerger disease is strongly and exclusively associated with smokers."
+  },
+  {
+    "number": 92,
+    "question": "The angiographic buzzword for Buerger Disease is:",
+    "choices": [
+      "\"Puff of smoke\"",
+      "\"String of beads\"",
+      "\"Auto-amputation\" and corkscrew collaterals",
+      "\"Yin-yang\" sign",
+      "\"Tulip bulb\""
+    ],
+    "answer": "C",
+    "detail": "Features include corkscrew collaterals and \"Auto-amputation\"."
+  },
+  {
+    "number": 93,
+    "question": "\"Takayasu Arteritis\" is a large-vessel vasculitis that characteristically affects:",
+    "choices": [
+      "Elderly men",
+      "Young Asian girls (15-30 years old)",
+      "Infants with a history of fever",
+      "Smokers in their 50s",
+      "Patients with Hepatitis B"
+    ],
+    "answer": "B",
+    "detail": "Takayasu characteristically favors young Asian girls aged 15-30."
+  },
+  {
+    "number": 94,
+    "question": "\"Giant Cell Arteritis\" (GCA) classically involves the temporal artery and which other region?",
+    "choices": [
+      "Aortic root only",
+      "Renal arteries",
+      "\"Armpit\" vessels (Subclavian/Axillary/Brachial)",
+      "Coronary arteries of children",
+      "Pulmonary arteries"
+    ],
+    "answer": "C",
+    "detail": "GCA involves vessels in the temporal region and the armpit."
+  },
+  {
+    "number": 95,
+    "question": "\"Polyarteritis Nodosa\" (PAN) is a medium-vessel vasculitis with a strong association with:",
+    "choices": [
+      "Hepatitis C",
+      "Hepatitis B",
+      "Smoking",
+      "Tuberculosis",
+      "Syphilis"
+    ],
+    "answer": "B",
+    "detail": "PAN is strongly associated with Hepatitis B."
+  },
+  {
+    "number": 96,
+    "question": "\"Kawasaki Disease\" is a primary cause of which vascular complication in children?",
+    "choices": [
+      "Renal artery stenosis",
+      "Coronary artery aneurysms",
+      "Aortic dissection",
+      "Pulmonary AVMs",
+      "SVC syndrome"
+    ],
+    "answer": "B",
+    "detail": "Kawasaki is well-known for causing coronary vessel aneurysms in children."
+  },
+  {
+    "number": 97,
+    "question": "Coronary artery aneurysms in Kawasaki disease are considered \"Giant\" if they measure:",
+    "choices": [
+      "> 2 mm",
+      "> 5 mm",
+      "> 8 mm",
+      "> 10 mm",
+      "> 15 mm"
+    ],
+    "answer": "C",
+    "detail": "Aneurysms > 8 mm are \"Giant\" and prone to MI."
+  },
+  {
+    "number": 98,
+    "question": "\"Behcet Disease\" is a small-vessel vasculitis that is a known cause of:",
+    "choices": [
+      "Aortic coarctation",
+      "Pulmonary artery aneurysms",
+      "Coronary artery aneurysms",
+      "Renal micro-aneurysms",
+      "Splenic artery aneurysms"
+    ],
+    "answer": "B",
+    "detail": "Behcet Disease is high-yield for causing pulmonary artery aneurysms."
+  },
+  {
+    "number": 99,
+    "question": "A \"Rasmussen Aneurysm\" is a pulmonary artery pseudo-aneurysm secondary to:",
+    "choices": [
+      "Behcet disease",
+      "Chronic PE",
+      "Pulmonary Tuberculosis (TB)",
+      "Tetralogy of Fallot repair",
+      "Fibrosing mediastinitis"
+    ],
+    "answer": "C",
+    "detail": "This is a pseudo-aneurysm secondary to pulmonary TB."
+  },
+  {
+    "number": 100,
+    "question": "\"Hughes-Stovin Syndrome\" is characterized by recurrent thrombophlebitis and:",
+    "choices": [
+      "ASD and PAPVR",
+      "Pulmonary artery aneurysm formation and rupture",
+      "Bicuspid aortic valve",
+      "Coarctation",
+      "Persistent left SVC"
+    ],
+    "answer": "B",
+    "detail": "This condition is characterized by pulmonary artery aneurysm formation and rupture."
+  }
+]
+ 
+}

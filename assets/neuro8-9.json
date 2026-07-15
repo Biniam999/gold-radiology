@@ -1,0 +1,706 @@
+{
+    "questions": 
+
+[
+  {
+    "number": 1,
+    "question": "Which of the following TORCH infections is considered the most common, occurring three times more frequently than Toxoplasmosis?",
+    "choices": ["A. Rubella", "B. HSV", "C. CMV", "D. HIV", "E. Syphilis"],
+    "answer": "C",
+    "detail": "Cytomegalovirus (CMV) is the most frequent congenital infection among the TORCH group."
+  },
+  {
+    "number": 2,
+    "question": "Periventricular calcifications in a neonate with microcephaly are a hallmark of which congenital infection?",
+    "choices": ["A. Toxoplasmosis", "B. CMV", "C. Rubella", "D. Herpes Simplex Virus", "E. HIV"],
+    "answer": "B",
+    "detail": "CMV characteristically targets the periventricular germinal matrix, leading to calcifications in that distribution."
+  },
+  {
+    "number": 3,
+    "question": "Of the TORCH infections, which has the highest reported association with Polymicrogyria?",
+    "choices": ["A. Toxoplasmosis", "B. HSV-2", "C. Rubella", "D. CMV", "E. HIV"],
+    "answer": "D",
+    "detail": "CMV is strongly associated with the failure of cortical organization known as polymicrogyria."
+  },
+  {
+    "number": 4,
+    "question": "A neonate presents with hydrocephalus and random calcifications favoring the basal ganglia. Which infection is most likely?",
+    "choices": ["A. CMV", "B. HIV", "C. Toxoplasmosis", "D. Rubella", "E. HSV-1"],
+    "answer": "C",
+    "detail": "Toxoplasmosis typically results in hydrocephalus and parenchymal calcifications that favor the basal ganglia."
+  },
+  {
+    "number": 5,
+    "question": "Which TORCH infection is characterized by fewer calcifications compared to others and is often associated with vasculopathy and ischemia?",
+    "choices": ["A. CMV", "B. Toxoplasmosis", "C. Rubella", "D. HIV", "E. HSV-2"],
+    "answer": "C",
+    "detail": "Rubella presents with high T2 white matter signal and a lower frequency of calcifications compared to CMV or Toxo."
+  },
+  {
+    "number": 6,
+    "question": "Neonatal Herpes (HSV-2) typically results in which devastating imaging finding?",
+    "choices": ["A. Periventricular calcifications", "B. Isolated frontal lobe atrophy", "C. Thrombus and hemorrhagic infarction leading to Hydranencephaly", "D. Basal ganglia enhancement", "E. Cerebellar hypoplasia"],
+    "answer": "C",
+    "detail": "In neonates, HSV-2 targets endothelial cells, leading to massive brain destruction and hydranencephaly."
+  },
+  {
+    "number": 7,
+    "question": "Neonatal HIV infection characteristically shows a pattern of brain atrophy that favors which region?",
+    "choices": ["A. Occipital lobes", "B. Cerebellum", "C. Frontal lobes", "D. Temporal lobes", "E. Basal ganglia"],
+    "answer": "C",
+    "detail": "HIV-related atrophy in the neonatal period predominantly affects the frontal lobes."
+  },
+  {
+    "number": 8,
+    "question": "In a patient with AIDS, symmetric T2 bright white matter lesions that characteristically spare the subcortical U-fibers are diagnostic of:",
+    "choices": ["A. PML", "B. Toxoplasmosis", "C. HIV Encephalitis", "D. Cryptococcus", "E. CMV"],
+    "answer": "C",
+    "detail": "HIV Encephalitis presents as symmetric white matter signal change with characteristic sparing of the subcortical U-fibers."
+  },
+  {
+    "number": 9,
+    "question": "Progressive Multifocal Leukoencephalopathy (PML) is caused by which virus?",
+    "choices": ["A. EBV", "B. CMV", "C. JC virus", "D. HSV-1", "E. HIV"],
+    "answer": "C",
+    "detail": "PML is an opportunistic infection caused by the JC virus in severely immunocompromised patients."
+  },
+  {
+    "number": 10,
+    "question": "Unlike HIV Encephalitis, PML characteristically affects the white matter in which way?",
+    "choices": ["A. Symmetrically spares U-fibers", "B. Asymmetrically involves subcortical U-fibers", "C. Always shows ring enhancement", "D. Is T1 normal", "E. Only involves the basal ganglia"],
+    "answer": "B",
+    "detail": "PML is typically asymmetric and aggressively involves the subcortical U-fibers."
+  },
+  {
+    "number": 11,
+    "question": "The \"Dumbbell Sign\" on MRI, representing parieto-occipital signal crossing the splenium of the corpus callosum, is a buzzword for:",
+    "choices": ["A. HIV Encephalitis", "B. CMV", "C. PML", "D. Toxoplasmosis", "E. GBM"],
+    "answer": "C",
+    "detail": "The dumbbell-shaped spread of signal across the splenium is a classic imaging feature of PML."
+  },
+  {
+    "number": 12,
+    "question": "What is the most common fungal infection in patients with AIDS?",
+    "choices": ["A. Aspergillosis", "B. Histoplasmosis", "C. Cryptococcus", "D. Mucormycosis", "E. Candidiasis"],
+    "answer": "C",
+    "detail": "Cryptococcus neoformans is the leading cause of fungal meningitis and CNS infection in AIDS patients."
+  },
+  {
+    "number": 13,
+    "question": "Dilated perivascular spaces filled with \"mucoid gelatinous crap\" that do not enhance are a classic imaging manifestation of:",
+    "choices": ["A. PML", "B. Toxoplasmosis", "C. Cryptococcus", "D. HIV Encephalitis", "E. Neurocysticercosis"],
+    "answer": "C",
+    "detail": "Gelatinous pseudocysts in the perivascular spaces are characteristic of Cryptococcal infection."
+  },
+  {
+    "number": 14,
+    "question": "In an AIDS patient with a ring-enhancing lesion, being \"Thallium HOT\" on SPECT favors:",
+    "choices": ["A. Toxoplasmosis", "B. Abscess", "C. Lymphoma", "D. PML", "E. Cryptococcoma"],
+    "answer": "C",
+    "detail": "Metabolically active CNS lymphoma is Thallium HOT, whereas Toxoplasmosis is typically COLD."
+  },
+  {
+    "number": 15,
+    "question": "Which of the following is TRUE regarding Toxoplasmosis lesions in AIDS?",
+    "choices": ["A. They characteristically restrict diffusion", "B. They are Thallium HOT", "C. They show ring enhancement with lots of edema", "D. They never involve the basal ganglia", "E. They are always solitary"],
+    "answer": "C",
+    "detail": "Toxoplasmosis presents as enhancing lesions with significant surrounding edema but characteristically lacks central restricted diffusion."
+  },
+  {
+    "number": 16,
+    "question": "TB Meningitis has a strong predilection for involving which intracranial area?",
+    "choices": ["A. Cerebral convexities", "B. Basal cisterns", "C. Choroid plexus", "D. Thalamus", "E. Occipital sulci"],
+    "answer": "B",
+    "detail": "TB meningitis characteristically causes thick, gelatinous enhancement of the basal cisterns."
+  },
+  {
+    "number": 17,
+    "question": "The clinical triad of \"Enhancement of the Basilar Meninges + Hydrocephalus\" is highly suggestive of:",
+    "choices": ["A. Sarcoidosis", "B. TB Meningitis", "C. HSV", "D. PML", "E. Lymphoma"],
+    "answer": "B",
+    "detail": "This specific combination of imaging findings is the classic radiographic marker for TB meningitis."
+  },
+  {
+    "number": 18,
+    "question": "Adult Herpes (HSV-1) prefers the limbic system. Which MRI sequence is the \"earliest sign\" and most sensitive for diagnosis?",
+    "choices": ["A. T1 with contrast", "B. FLAIR", "C. T2-weighted", "D. Diffusion Weighted Imaging (DWI)", "E. SWI"],
+    "answer": "D",
+    "detail": "Restricted diffusion on DWI is more sensitive than T2-weighted sequences and is the earliest sign of HSV-1."
+  },
+  {
+    "number": 19,
+    "question": "A commonly tested mimic of HSV that presents as a paraneoplastic syndrome (often from small cell lung cancer) is:",
+    "choices": ["A. West Nile Virus", "B. Limbic Encephalitis", "C. CJD", "D. Neurocysticercosis", "E. Toxoplasmosis"],
+    "answer": "B",
+    "detail": "Limbic Encephalitis mimics the temporal lobe signal changes of HSV but is an autoimmune paraneoplastic process."
+  },
+  {
+    "number": 20,
+    "question": "If a patient presents with classic HSV-like imaging findings but the HSV titer is negative, what is the appropriate \"next step\"?",
+    "choices": ["A. Repeat the MRI in 24 hours", "B. Start antiviral therapy regardless", "C. Perform lung cancer screening (for Limbic Encephalitis)", "D. Brain biopsy", "E. Audiogram"],
+    "answer": "C",
+    "detail": "Screening for an underlying primary malignancy (like lung cancer) is necessary if limbic encephalitis is suspected."
+  },
+  {
+    "number": 21,
+    "question": "West Nile Virus characteristically involves which brain structures?",
+    "choices": ["A. Temporal lobes and hippocampus", "B. Basal ganglia and thalamus", "C. Corpus callosum and splenium", "D. Cerebellar vermis", "E. Pituitary gland"],
+    "answer": "B",
+    "detail": "West Nile virus infection classically shows high T2 signal and restricted diffusion in the basal ganglia and thalami."
+  },
+  {
+    "number": 22,
+    "question": "Creutzfeldt-Jakob Disease (CJD) is characterized by which rapidly progressive imaging finding?",
+    "choices": ["A. Massive brain overgrowth", "B. Rapidly progressive atrophy", "C. Basilar meningitis", "D. Multiple calcified cysts", "E. Dural thickening"],
+    "answer": "B",
+    "detail": "CJD is marked by rapidly progressive dementia and accompanying global brain atrophy."
+  },
+  {
+    "number": 23,
+    "question": "On MRI for CJD, the \"Hockey Stick Sign\" and \"Pulvinar Sign\" refer to high signal in the:",
+    "choices": ["A. Thalamus", "B. Caudate", "C. Putamen", "D. Hippocampus", "E. Midbrain"],
+    "answer": "A",
+    "detail": "These signs describe characteristic restricted diffusion and FLAIR signal in the medial and posterior (pulvinar) thalamus."
+  },
+  {
+    "number": 24,
+    "question": "Which stage of Neurocysticercosis features a \"Cyst + Scolex\" with NO enhancement?",
+    "choices": ["A. Stage 1: Vesicular", "B. Stage 2: Colloidal", "C. Stage 3: Granular", "D. Stage 4: Calcified", "E. Stage 5: Necrotic"],
+    "answer": "A",
+    "detail": "In the vesicular stage, the viable parasite is seen as a cyst with a scolex without surrounding inflammation or enhancement."
+  },
+  {
+    "number": 25,
+    "question": "Which location of Neurocysticercosis carries the \"worst outcome\"?",
+    "choices": ["A. Brain parenchyma", "B. Ventricles", "C. Subarachnoid space over hemispheres", "D. Basal cisterns", "E. Spinal cord"],
+    "answer": "D",
+    "detail": "Involvement of the basal cisterns is associated with the poorest clinical outcome due to potential meningeal complications."
+  },
+  {
+    "number": 26,
+    "question": "\"Zuckerguss\" (sugar icing) enhancement is a sign of leptomeningeal spread. In the context of infection, it is seen with:",
+    "choices": ["A. Bacterial or Carcinomatous meningitis", "B. Intracranial hypotension", "C. Normal aging", "D. Chronic stroke", "E. Fibrous dysplasia"],
+    "answer": "A",
+    "detail": "Zuckerguss refers to thick, linear pial-arachnoid enhancement seen with bacterial meningitis or carcinomatosis."
+  },
+  {
+    "number": 27,
+    "question": "A \"smooth ring\" of enhancement with central restricted diffusion and high lactate on MRS is diagnostic of:",
+    "choices": ["A. High-grade glioma", "B. Brain Abscess", "C. Metastasis", "D. Demyelinating plaque", "E. Infarct"],
+    "answer": "B",
+    "detail": "A smooth ring, central restriction, and a lactate peak are the hallmark features of a bacterial brain abscess."
+  },
+  {
+    "number": 28,
+    "question": "Abscess rings tend to be thicker on which side of the brain?",
+    "choices": ["A. The \"Ventricle Side\"", "B. The \"Oxygen Side\" (Grey Matter side)", "C. They are always perfectly uniform", "D. The inferior side", "E. Only in the white matter"],
+    "answer": "B",
+    "detail": "Abscess walls are typically thicker on the side with better vascularity and oxygen supply."
+  },
+  {
+    "number": 29,
+    "question": "The early form of intra-axial infection that lacks a well-defined central lesion but shows vasogenic edema is called:",
+    "choices": ["A. Abscess", "B. Cerebritis", "C. Ventriculitis", "D. Meningitis", "E. Empyema"],
+    "answer": "B",
+    "detail": "Cerebritis is the precursor stage of an abscess, characterized by ill-defined edema and early tissue breakdown."
+  },
+  {
+    "number": 30,
+    "question": "Which MRI sequence is the \"weapon of choice\" for diagnosing Ventriculitis by showing restricting debris?",
+    "choices": ["A. T1+C", "B. T2", "C. DWI", "D. FLAIR", "E. GRE"],
+    "answer": "C",
+    "detail": "DWI is highly sensitive for identifying the restricted diffusion of intraventricular pus and debris."
+  },
+  {
+    "number": 31,
+    "question": "Intraventricular extension of a brain abscess is considered:",
+    "choices": ["A. A benign finding", "B. A \"pre-terminal\" / very serious event", "C. Standard for all abscesses", "D. Only occurs in children", "E. Easily treated with steroids"],
+    "answer": "B",
+    "detail": "The rupture of an abscess into the ventricles is a grave clinical event associated with high mortality."
+  },
+  {
+    "number": 32,
+    "question": "\"Pachymeningeal\" enhancement refers to enhancement of the:",
+    "choices": ["A. Pia mater", "B. Arachnoid mater", "C. Dura mater", "D. Ependyma", "E. Choroid plexus"],
+    "answer": "C",
+    "detail": "Pachymeningeal enhancement is dural-based and does not follow the sulci."
+  },
+  {
+    "number": 33,
+    "question": "Which of the following can cause Pachymeningeal enhancement?",
+    "choices": ["A. Intracranial Hypotension", "B. Meningioma (dural tail)", "C. Sarcoidosis", "D. Breast or Prostate cancer metastases", "E. All of the above"],
+    "answer": "E",
+    "detail": "Low CSF pressure, meningiomas, and certain metastases are all recognized causes of dural-based enhancement."
+  },
+  {
+    "number": 34,
+    "question": "Empyema can occur in which two potential spaces?",
+    "choices": ["A. Subarachnoid and Intraventricular", "B. Subdural and Epidural", "C. Intraparenchymal and Cortical", "D. Pituitary and Sellar", "E. Petrous apex and Meckel's cave"],
+    "answer": "B",
+    "detail": "Empyemas are infected collections specifically located in the subdural or epidural spaces."
+  },
+  {
+    "number": 35,
+    "question": "The vast majority of subdural empyemas are a sequela of:",
+    "choices": ["A. Ear infections", "B. Frontal sinusitis", "C. Dental abscess", "D. Trauma", "E. Lung cancer"],
+    "answer": "B",
+    "detail": "Frontal sinusitis is the leading source of infection for intracranial empyemas."
+  },
+  {
+    "number": 36,
+    "question": "On MRI, an active demyelinating MS plaque should characteristically:",
+    "choices": ["A. Show an incomplete horseshoe ring of enhancement", "B. Restrict diffusion", "C. Both A and B", "D. Show complete thick ring enhancement", "E. Never enhance"],
+    "answer": "C",
+    "detail": "Active plaques often show peripheral restricted diffusion and an incomplete horseshoe ring of enhancement."
+  },
+  {
+    "number": 37,
+    "question": "Subacute stroke enhancement typically appears at what time frame and follows which pattern?",
+    "choices": ["A. 24 hours; Ring enhancement", "B. 1 week; Gyriform (cortical ribbon) enhancement", "C. 1 month; Homogeneous mass", "D. 1 year; Dural tail", "E. 3 days; Nodal enhancement"],
+    "answer": "B",
+    "detail": "Subacute strokes characteristically demonstrate cortical ribbon (gyriform) enhancement peaking around 1 week."
+  },
+  {
+    "number": 38,
+    "question": "Which condition is a \"classic\" for crossing the corpus callosum?",
+    "choices": ["A. Lymphoma", "B. Glioblastoma (GBM)", "C. Radiation Necrosis", "D. Marchiafava-Bignami", "E. All of the above"],
+    "answer": "E",
+    "detail": "GBM, Lymphoma, and certain metabolic/radiation injuries are all known to involve the corpus callosum."
+  },
+  {
+    "number": 39,
+    "question": "Infarct of the corpus callosum is:",
+    "choices": ["A. Common", "B. Super rare due to redundant blood supply", "C. Seen in 50% of strokes", "D. Only occurs in the splenium", "E. Found only in children"],
+    "answer": "B",
+    "detail": "Ischemia of the corpus callosum is very rare because of its highly redundant arterial supply."
+  },
+  {
+    "number": 40,
+    "question": "A \"pancake flat\" vertebral body (Vertebra Plana) in an adult most likely represents:",
+    "choices": ["A. Eosinophilic Granuloma", "B. Mets or Myeloma", "C. Paget's Disease", "D. Chordoma", "E. Osteoid Osteoma"],
+    "answer": "B",
+    "detail": "In adults, vertebra plana is highly concerning for metastatic disease or myeloma."
+  },
+  {
+    "number": 41,
+    "question": "In brain trauma, \"Parenchymal Contusions\" most commonly occur in which two locations?",
+    "choices": ["A. Occipital lobes and cerebellum", "B. Anterior temporal lobes and inferior frontal lobes", "C. Parietal lobes and thalamus", "D. Basal ganglia and pons", "E. Corpus callosum and midbrain"],
+    "answer": "B",
+    "detail": "These locations are most susceptible to injury as they scrape against the rough skull base during deceleration."
+  },
+  {
+    "number": 42,
+    "question": "Grade 2 Diffuse Axonal Injury (DAI) involves which structure?",
+    "choices": ["A. Gray-White Interface", "B. Corpus Callosum", "C. Brainstem", "D. Pituitary stalk", "E. Optic chiasm"],
+    "answer": "B",
+    "detail": "DAI grading involves the gray-white interface (Grade 1), corpus callosum (Grade 2), and brainstem (Grade 3)."
+  },
+  {
+    "number": 43,
+    "question": "On MRI, DAI typically presents as:",
+    "choices": ["A. A single large mass", "B. Multiple small T2 bright foci", "C. Symmetric basal ganglia enhancement", "D. Diffuse dural thickening", "E. A \"Mt. Fuji\" appearance"],
+    "answer": "B",
+    "detail": "Shear injury presents as multiple small, scattered T2/FLAIR hyperintense lesions."
+  },
+  {
+    "number": 44,
+    "question": "Which type of extra-axial hemorrhage is \"Bi-convex\" or lentiform and typically associated with a skull fracture?",
+    "choices": ["A. Subdural Hematoma", "B. Subarachnoid Hemorrhage", "C. Epidural Hematoma", "D. Intraparenchymal Hemorrhage", "E. Intraventricular Hemorrhage"],
+    "answer": "C",
+    "detail": "Epidural hematomas are characteristically lentiform (biconvex) and arterial in origin."
+  },
+  {
+    "number": 45,
+    "question": "Epidural hematomas can NOT cross which anatomic landmark?",
+    "choices": ["A. The midline", "B. A dural venous sinus", "C. A skull suture", "D. The tentorium", "E. The foramen magnum"],
+    "answer": "C",
+    "detail": "Because the dura is firmly attached to the sutures, epidural collections cannot cross them."
+  },
+  {
+    "number": 46,
+    "question": "Subdural hematomas are \"Bi-concave\" or crescent-shaped and typically result from the tearing of:",
+    "choices": ["A. The Middle Meningeal Artery", "B. The Internal Carotid Artery", "C. Cortical bridging veins", "D. The Basilar Artery", "E. The Great Vein of Galen"],
+    "answer": "C",
+    "detail": "SDH typically results from the rupture of cortical bridging veins as they enter the dural sinuses."
+  },
+  {
+    "number": 47,
+    "question": "Which extra-axial collection CAN cross a suture but CANNOT cross the midline?",
+    "choices": ["A. Epidural Hematoma", "B. Subdural Hematoma", "C. Subarachnoid Hemorrhage", "D. Cephalocele", "E. Hygroma"],
+    "answer": "B",
+    "detail": "Subdural hematomas freely cross sutures but are limited by dural attachments like the falx."
+  },
+  {
+    "number": 48,
+    "question": "On CT, \"Hyperacute\" blood (< 1 hour) is typically:",
+    "choices": ["A. Hyperdense", "B. Isodense", "C. Hypodense", "D. Calcified", "E. Fat-density"],
+    "answer": "C",
+    "detail": "Very fresh, non-clotted blood on CT appears hypodense."
+  },
+  {
+    "number": 49,
+    "question": "The \"Swirl Sign\" on a non-contrast CT of a hematoma indicates:",
+    "choices": ["A. Chronic healing", "B. Active bleeding (hyper-acute non-clotted blood)", "C. Old calcification", "D. Presence of fat", "E. Underlying tumor"],
+    "answer": "B",
+    "detail": "The swirl sign represents active bleeding into a pre-existing hematoma."
+  },
+  {
+    "number": 50,
+    "question": "\"Subacute\" blood (4 days to 3 weeks) on CT becomes progressively less dense and eventually becomes:",
+    "choices": ["A. Brighter than bone", "B. Isodense to brain", "C. Air-filled", "D. Solidly calcified", "E. T1 bright"],
+    "answer": "B",
+    "detail": "Subacute blood density fades over time until it matches the adjacent brain tissue."
+  },
+  {
+    "number": 51,
+    "question": "In the \"George Washington Bridge\" mnemonic for blood age on T1 MRI, what does \"Bridge\" (Black) represent?",
+    "choices": ["A. Hyperacute", "B. Acute", "C. Subacute", "D. Chronic", "E. Early Subacute"],
+    "answer": "D",
+    "detail": "In the T1 blood age mnemonic, chronic blood (hemosiderin/ferritin) is black."
+  },
+  {
+    "number": 52,
+    "question": "According to the \"Oreo Cookie\" mnemonic for blood age on T2 MRI, which stages are \"Black\" (the cookie)?",
+    "choices": ["A. Hyperacute and Chronic", "B. Acute and Early Subacute", "C. Subacute and Chronic", "D. Hyperacute and Acute", "E. Chronic only"],
+    "answer": "B",
+    "detail": "T2-weighted signal for acute and early subacute blood is characteristically dark."
+  },
+  {
+    "number": 53,
+    "question": "Which MRI sequence is the \"most sensitive\" for identifying acute Subarachnoid Hemorrhage (SAH)?",
+    "choices": ["A. T1", "B. T2", "C. FLAIR", "D. GRE", "E. DWI"],
+    "answer": "C",
+    "detail": "FLAIR is superior for acute SAH detection because sulcal blood fails to suppress."
+  },
+  {
+    "number": 54,
+    "question": "What can cause a \"fake out\" that mimics SAH on a FLAIR sequence?",
+    "choices": ["A. High glucose", "B. Supplemental oxygen (50-100%)", "C. Dehydration", "D. Hypertension", "E. Recent caffeine"],
+    "answer": "B",
+    "detail": "High-flow supplemental oxygen therapy can alter CSF properties and mimic blood on FLAIR."
+  },
+  {
+    "number": 55,
+    "question": "A \"Benign Non-Aneurysm Perimesencephalic hemorrhage\" is characteristically located:",
+    "choices": ["A. In the Sylvian fissure", "B. Anterior to the brainstem", "C. In the lateral ventricles", "D. In the occipital sulci", "E. Over the vertex"],
+    "answer": "B",
+    "detail": "This low-risk hemorrhage is localized to the cisterns anterior to the midbrain and pons."
+  },
+  {
+    "number": 56,
+    "question": "\"Superficial Siderosis\" results from repeated episodes of SAH and presents with which clinical history?",
+    "choices": ["A. Blindness and seizures", "B. Sensorineural hearing loss and ataxia", "C. Hypertension and headache", "D. Urinary incontinence and confusion", "E. Coma"],
+    "answer": "B",
+    "detail": "Hemosiderin deposition on the surface of the cerebellum and cranial nerves results in deafness and balance loss."
+  },
+  {
+    "number": 57,
+    "question": "Curvilinear low signal \"coating the surface of the brain\" on a gradient (GRE) sequence is diagnostic for:",
+    "choices": ["A. Acute SAH", "B. Meningitis", "C. Superficial Siderosis", "D. ADEM", "E. CJD"],
+    "answer": "C",
+    "detail": "GRE shows the susceptibility effect of curvilinear hemosiderin coating the brain."
+  },
+  {
+    "number": 58,
+    "question": "\"Pseudo-Subarachnoid Hemorrhage\" is an imaging mimic seen in which clinical setting?",
+    "choices": ["A. High-speed trauma", "B. Diffuse cerebral edema (e.g., anoxic injury/near drowning)", "C. Ruptured aneurysm", "D. Fungal infection", "E. Multiple sclerosis"],
+    "answer": "B",
+    "detail": "Diffuse edema lowers brain density, making normal sulci look bright by comparison."
+  },
+  {
+    "number": 59,
+    "question": "How can a radiologist distinguish Pseudo-SAH from Real SAH on CT?",
+    "choices": ["A. Pseudo-SAH density is > 100 HU", "B. Pseudo-SAH density is < 40 HU (Real is 60-70)", "C. Pseudo-SAH always shows intraventricular blood", "D. Real SAH is always bilateral", "E. There is no way to distinguish them"],
+    "answer": "B",
+    "detail": "The density in the sulci in Pseudo-SAH is lower than that of acute clotted blood."
+  },
+  {
+    "number": 60,
+    "question": "What is the most common location for a Hypertensive Hemorrhage?",
+    "choices": ["A. Frontal lobe", "B. Thalamus", "C. Basal ganglia (specifically the putamen)", "D. Cerebellum", "E. Pons"],
+    "answer": "C",
+    "detail": "The putamen is the classic favorite site for spontaneous hypertensive bleeds."
+  },
+  {
+    "number": 61,
+    "question": "A history of an elderly patient with multiple lobar hemorrhages of different ages and \"scattered microbleeds\" on gradient MRI suggests:",
+    "choices": ["A. Hypertension", "B. Amyloid Angiopathy", "C. Septic Emboli", "D. MELAS", "E. CADASIL"],
+    "answer": "B",
+    "detail": "Amyloid angiopathy characteristically causes recurrent, multifocal hemorrhages in the peripheral lobes of elderly patients."
+  },
+  {
+    "number": 62,
+    "question": "Septic Emboli to the brain (often in IV drug users) result in which two primary complications?",
+    "choices": ["A. Abscess and Mycotic Aneurysms", "B. Meningioma and Glioma", "C. Hydrocephalus and Atrophy", "D. Pituitary apoplexy and Stroke", "E. DVA and AVM"],
+    "answer": "A",
+    "detail": "Infected emboli seed the brain with bacteria, causing abscesses and weakening arterial walls to form mycotic aneurysms."
+  },
+  {
+    "number": 63,
+    "question": "\"Tension Pneumocephalus\" following subdural drainage creates which characteristic imaging sign?",
+    "choices": ["A. \"Target\" sign", "B. \"Mt. Fuji\" sign", "C. \"Spinning Top\" sign", "D. \"Panda\" face", "E. \"Molar tooth\" sign"],
+    "answer": "B",
+    "detail": "Air separating and compressing the frontal poles creates the silhouette of Mt. Fuji."
+  },
+  {
+    "number": 64,
+    "question": "When does Tension Pneumocephalus matter clinically?",
+    "choices": ["A. In all cases", "B. Only if there is a skull fracture", "C. Only if the patient has reduced consciousness", "D. Only in children", "E. It is always an incidental finding"],
+    "answer": "C",
+    "detail": "Tension pneumocephalus is clinically significant only when it creates mass effect and clinical decline."
+  },
+  {
+    "number": 65,
+    "question": "Which of the following is an early sequela of Subarachnoid Hemorrhage?",
+    "choices": ["A. Vasospasm", "B. Superficial Siderosis", "C. Hydrocephalus", "D. Brain atrophy", "E. Meningioma"],
+    "answer": "C",
+    "detail": "Hydrocephalus is an early complication, while vasospasm and siderosis are delayed findings."
+  },
+  {
+    "number": 66,
+    "question": "Vasospasm typically occurs how many days after a Subarachnoid Hemorrhage?",
+    "choices": ["A. Immediately (0-24 hours)", "B. 1-3 days", "C. 4-14 days (peaking at 7-10)", "D. 1 month", "E. 1 year"],
+    "answer": "C",
+    "detail": "Vascular narrowing peaks around 7–10 days post-hemorrhage."
+  },
+  {
+    "number": 67,
+    "question": "In a child with a \"pancake flat\" vertebral body (Vertebra Plana), the most likely diagnosis is:",
+    "choices": ["A. Osteosarcoma", "B. Eosinophilic Granuloma (EG)", "C. Chordoma", "D. Hemangioma", "E. Leukemia"],
+    "answer": "B",
+    "detail": "EG is the most common pediatric cause of the vertebra plana appearance."
+  },
+  {
+    "number": 68,
+    "question": "\"Post-Ablation Syndrome\" (low-grade fever and body aches) is managed by:",
+    "choices": ["A. Emergency surgery", "B. Antibiotics", "C. Supportive care", "D. Repeat ablation", "E. Radiation"],
+    "answer": "C",
+    "detail": "This is a benign reactive syndrome managed with conservative care."
+  },
+  {
+    "number": 69,
+    "question": "Which of the following is a contraindication to performing a Y-90 radioembolization?",
+    "choices": ["A. Small tumor size", "B. Lung Shunt Fraction resulting in > 30 Gy to the lungs", "C. Prior biopsy", "D. Patient age > 60", "E. Normal bilirubin"],
+    "answer": "B",
+    "detail": "A lung shunt dose greater than 30 Gy risks causing radiation pneumonitis."
+  },
+  {
+    "number": 70,
+    "question": "In the \"Rules of 3s\" for stroke enhancement, enhancement is expected to be \"gone\" by:",
+    "choices": ["A. 3 days", "B. 3 weeks", "C. 3 months", "D. 3 years", "E. 3 hours"],
+    "answer": "C",
+    "detail": "Stroke enhancement starts at 3 days, peaks at 3 weeks, and typically disappears by 3 months."
+  },
+  {
+    "number": 71,
+    "question": "\"T2/FLAIR hyperintensities out of proportion to mass effect\" is a buzzword for:",
+    "choices": ["A. GBM", "B. Lymphoma", "C. PML", "D. HIV Encephalitis", "E. Abscess"],
+    "answer": "C",
+    "detail": "PML causes extensive white matter signal change with minimal swelling."
+  },
+  {
+    "number": 72,
+    "question": "Cryptococcomas in the basal ganglia appear on MRI as:",
+    "choices": ["A. T1 bright and T2 dark", "B. T1 dark, T2 bright, and may ring enhance", "C. Purely calcified", "D. Solidly enhancing masses", "E. Signal voids"],
+    "answer": "B",
+    "detail": "These fungal masses appear T1 hypointense and T2 hyperintense in the deep nuclei."
+  },
+  {
+    "number": 73,
+    "question": "In neuro-trauma, a \"Coup\" injury is located at:",
+    "choices": ["A. The site of direct injury", "B. The opposite side of the brain from the impact", "C. The brainstem only", "D. The pituitary fossa", "E. The corpus callosum"],
+    "answer": "A",
+    "detail": "The coup injury occurs at the point of impact; the contre-coup occurs on the opposite side."
+  },
+  {
+    "number": 74,
+    "question": "If a \"ring-enhancing\" lesion shows NO restricted diffusion in its center, it is more likely to be:",
+    "choices": ["A. A bacterial abscess", "B. Toxoplasmosis", "C. A stroke", "D. A hypercellular tumor", "E. An epidermoid"],
+    "answer": "B",
+    "detail": "Abscesses restrict centrally; Toxoplasmosis characteristically does not."
+  },
+  {
+    "number": 75,
+    "question": "\"Laminar Necrosis\" (cortical necrosis) appears bright on which sequence?",
+    "choices": ["A. T1", "B. T2", "C. FLAIR", "D. GRE", "E. SWI"],
+    "answer": "A",
+    "detail": "Cortical laminar necrosis is a classic cause of intrinsic T1 hyperintensity."
+  },
+  {
+    "number": 76,
+    "question": "Which condition is associated with \"Aquaporin 4\" antibodies and presents with optic neuritis and long-segment transverse myelitis?",
+    "choices": ["A. MS", "B. ADEM", "C. Neuromyelitis Optica (Devic’s Disease)", "D. PML", "E. CJD"],
+    "answer": "C",
+    "detail": "NMO is defined by NMO-IgG antibodies against Aquaporin-4."
+  },
+  {
+    "number": 77,
+    "question": "The \"Anti-MOG IgG\" test is positive in 50% of cases of:",
+    "choices": ["A. MS", "B. ADEM", "C. NMO", "D. HIV", "E. TB"],
+    "answer": "B",
+    "detail": "Anti-MOG antibodies are a laboratory marker frequently identified in ADEM."
+  },
+  {
+    "number": 78,
+    "question": "\"Subacute Combined Degeneration\" of the spinal cord is caused by a deficiency in:",
+    "choices": ["A. Vitamin B1", "B. Vitamin B12", "C. Vitamin C", "D. Vitamin D", "E. Iron"],
+    "answer": "B",
+    "detail": "Vitamin B12 deficiency leads to characteristic degeneration of the spinal cord."
+  },
+  {
+    "number": 79,
+    "question": "The \"Inverted V sign\" on axial MRI of the spinal cord is characteristic of:",
+    "choices": ["A. MS", "B. Spinal Cord Infarct", "C. Subacute Combined Degeneration (B12 deficiency)", "D. Transverse Myelitis", "E. Tumor"],
+    "answer": "C",
+    "detail": "Bilateral high T2 signal in the dorsal columns creates the inverted V sign."
+  },
+  {
+    "number": 80,
+    "question": "\"HIV Vacuolar Myelopathy\" is the most common cause of cord dysfunction in untreated AIDS and most commonly involves the:",
+    "choices": ["A. Cervical cord", "B. Thoracic cord", "C. Conus medullaris", "D. Lumbar roots", "E. Brainstem"],
+    "answer": "B",
+    "detail": "The thoracic spinal cord is the most frequent target for vacuolar myelopathy."
+  },
+  {
+    "number": 81,
+    "question": "\"Arachnoiditis\" after spine surgery characteristically shows which two imaging patterns?",
+    "choices": ["A. Ring enhancement and edema", "B. Empty thecal sac and central nerve root clumping", "C. \"Owl's eye\" sign and \"target\" sign", "D. Fat-fluid levels and calcification", "E. Dural tail and bone invasion"],
+    "answer": "B",
+    "detail": "Clumped or peripherally adherent nerve roots are the MRI hallmarks of arachnoiditis."
+  },
+  {
+    "number": 82,
+    "question": "\"Guillain Barre Syndrome\" (GBS) is an autoimmune disorder often following an infection with:",
+    "choices": ["A. HIV", "B. Campylobacter", "C. CMV", "D. TB", "E. Toxoplasmosis"],
+    "answer": "B",
+    "detail": "Infection with Campylobacter jejuni is the classic antecedent event for GBS."
+  },
+  {
+    "number": 83,
+    "question": "The hallmark imaging finding for Guillain Barre Syndrome is:",
+    "choices": ["A. Enhancement of the brainstem", "B. Enhancement of the nerve roots of the cauda equina", "C. Thickening of the optic nerves", "D. Multiple white matter plaques", "E. Basal ganglia calcification"],
+    "answer": "B",
+    "detail": "Enhancement of the descending nerve roots is the primary finding in GBS."
+  },
+  {
+    "number": 84,
+    "question": "\"Chronic Inflammatory Demyelinating Polyneuropathy\" (CIDP) is the chronic counterpart to GBS and features which \"buzzword\" look?",
+    "choices": ["A. \"Dreadlocks\" or \"Onion bulb\" nerve roots", "B. \"Molar tooth\" brainstem", "C. \"Ice cream cone\" IAC", "D. \"Swiss cheese\" ventricles", "E. \"Popcorn\" calcifications"],
+    "answer": "A",
+    "detail": "Thickened, hypertrophied, and enhancing nerve roots resemble dreadlocks."
+  },
+  {
+    "number": 85,
+    "question": "What is the most common intramedullary spinal cord tumor in the pediatric population?",
+    "choices": ["A. Ependymoma", "B. Astrocytoma", "C. Hemangioblastoma", "D. Metastasis", "E. Schwannoma"],
+    "answer": "B",
+    "detail": "Astrocytoma is the leading primary intramedullary cord tumor in children."
+  },
+  {
+    "number": 86,
+    "question": "What is the most common intramedullary spinal cord tumor in the adult population?",
+    "choices": ["A. Astrocytoma", "B. Ependymoma", "C. Hemangioblastoma", "D. Lymphoma", "E. Meningioma"],
+    "answer": "B",
+    "detail": "Ependymoma is the most frequent intramedullary cord neoplasm in adults."
+  },
+  {
+    "number": 87,
+    "question": "The \"Myxopapillary\" form of Ependymoma is exclusively found in which location?",
+    "choices": ["A. Cervical cord", "B. Upper thoracic cord", "C. Conus / Filum terminale", "D. Fourth ventricle floor", "E. Foramen of Monro"],
+    "answer": "C",
+    "detail": "Myxopapillary ependymomas characteristically occur in the filum terminale and conus."
+  },
+  {
+    "number": 88,
+    "question": "Intramedullary cord tumors that are \"eccentric\" in location favor:",
+    "choices": ["A. Ependymoma", "B. Astrocytoma", "C. Both", "D. Neither", "E. Metastasis"],
+    "answer": "B",
+    "detail": "Astrocytomas are typically eccentric, while ependymomas are typically central."
+  },
+  {
+    "number": 89,
+    "question": "Spinal cord Hemangioblastomas are associated with which syndrome in 30% of cases?",
+    "choices": ["A. NF-1", "B. NF-2", "C. Von Hippel Lindau (VHL)", "D. Tuberous Sclerosis", "E. Turcot"],
+    "answer": "C",
+    "detail": "Spinal hemangioblastomas are a primary manifestation of VHL."
+  },
+  {
+    "number": 90,
+    "question": "What is the most common primary source for \"Intramedullary Metastases\"?",
+    "choices": ["A. Breast", "B. Renal", "C. Lung", "D. Melanoma", "E. Colon"],
+    "answer": "C",
+    "detail": "Lung cancer is the most frequent source for metastases directly within the cord."
+  },
+  {
+    "number": 91,
+    "question": "What is the most common \"Extramedullary Intradural\" tumor?",
+    "choices": ["A. Meningioma", "B. Schwannoma", "C. Neurofibroma", "D. Drop Met", "E. Ependymoma"],
+    "answer": "B",
+    "detail": "Schwannomas are the top primary tumor in the extramedullary intradural compartment."
+  },
+  {
+    "number": 92,
+    "question": "\"Plexiform\" neurofibromas are pathognomonic for which condition?",
+    "choices": ["A. NF-1", "B. NF-2", "C. Von Hippel Lindau", "D. Tuberous Sclerosis", "E. Gorlin"],
+    "answer": "A",
+    "detail": "Plexiform neurofibromas are characteristic and definitive for NF-1."
+  },
+  {
+    "number": 93,
+    "question": "In the spine, Meningiomas are more common in which demographic?",
+    "choices": ["A. Young males", "B. Women (70%)", "C. Infants", "D. Men over 80", "E. Equally common in all"],
+    "answer": "B",
+    "detail": "Spinal meningiomas favor females and are most common in the thoracic region."
+  },
+  {
+    "number": 94,
+    "question": "Which tumor is the \"most common primary tumor to drop\" (drop met) to the spine?",
+    "choices": ["A. Ependymoma", "B. Medulloblastoma", "C. GBM", "D. Chordoma", "E. Pineoblastoma"],
+    "answer": "B",
+    "detail": "Medulloblastoma is the most frequent brain tumor to seed the spinal axis."
+  },
+  {
+    "number": 95,
+    "question": "A \"Jail bar\" or \"Corduroy\" appearance in a vertebral body is diagnostic for:",
+    "choices": ["A. Osteoid Osteoma", "B. Vertebral Hemangioma", "C. Metastasis", "D. Paget's Disease", "E. Leukemia"],
+    "answer": "B",
+    "detail": "Thickened vertical trabeculae create this classic look in benign vertebral hemangiomas."
+  },
+  {
+    "number": 96,
+    "question": "Spinal \"Osteoid Osteomas\" characteristically involve which part of the vertebra?",
+    "choices": ["A. The vertebral body", "B. The posterior elements (75%)", "C. The disc space", "D. The spinal canal", "E. The transverse process only"],
+    "answer": "B",
+    "detail": "The majority of spinal osteoid osteomas arise from the posterior elements."
+  },
+  {
+    "number": 97,
+    "question": "\"Aneurysmal Bone Cysts\" (ABCs) are expansile lesions seen in the first two decades of life and often show:",
+    "choices": ["A. Solid enhancement", "B. Multiple fluid-fluid levels on T2", "C. Massive calcification", "D. Air-filled centers", "E. \"Jail bar\" trabeculae"],
+    "answer": "B",
+    "detail": "Fluid-fluid levels on T2-weighted MRI are the hallmark imaging feature of ABCs."
+  },
+  {
+    "number": 98,
+    "question": "A \"lytic expansile lesion in the sacrum with no rim of sclerosis\" in an adult is:",
+    "choices": ["A. ABC", "B. Chordoma", "C. Giant Cell Tumor (GCT)", "D. Hemangioma", "E. Osteoblastoma"],
+    "answer": "C",
+    "detail": "Sacral Giant Cell Tumors are classically lytic and lack a sclerotic border."
+  },
+  {
+    "number": 99,
+    "question": "What is the most common location for a \"Chordoma\"?",
+    "choices": ["A. Clivus", "B. C2 vertebral body", "C. Sacrum", "D. L5 vertebral body", "E. Ribs"],
+    "answer": "C",
+    "detail": "The sacrum is the #1 location (50%), followed by the clivus."
+  },
+  {
+    "number": 100,
+    "question": "\"Benign Notochordal Cell Tumors\" are distinguished from Chordomas because they:",
+    "choices": ["A. Are lytic", "B. Enhance avidly", "C. Are sclerotic on CT and typically do NOT enhance", "D. Are only found in the limbs", "E. Are found only in kids"],
+    "answer": "C",
+    "detail": "Unlike aggressive chordomas, these benign variants are sclerotic and lack enhancement."
+  }
+]
+}
