@@ -901,3 +901,281 @@ footer{
 .home-dashboard .stat-card {
   background-color: rgba(26, 26, 26, 0.8); /* Slight opacity tweak for home background integration */
 }
+/* --- FRCR SELF ASSESSMENT STYLES --- */
+.frcr-section {
+  margin-top: 50px;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.section-divider {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #ffd700, transparent);
+  margin-bottom: 40px;
+}
+
+.section-title {
+  color: #ffd700;
+  font-size: 2rem;
+  margin-bottom: 8px;
+}
+
+.section-subtitle {
+  color: #aaa;
+  margin-bottom: 30px;
+  font-size: 1.1rem;
+}
+
+.frcr-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 25px;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.frcr-card {
+  background-color: #1a1a1a;
+  border: 1px solid #333;
+  border-radius: 10px;
+  padding: 25px 20px;
+  position: relative;
+  transition: transform 0.2s, border-color 0.2s;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.frcr-card:hover {
+  transform: translateY(-5px);
+  border-color: #ffd700;
+}
+
+.paper-badge {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background-color: #ffd700;
+  color: #000;
+  font-weight: bold;
+  font-size: 0.75rem;
+  padding: 3px 8px;
+  border-radius: 20px;
+}
+
+.frcr-card h3 {
+  color: #fff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 1.3rem;
+}
+
+.frcr-card p {
+  color: #888;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+
+.frcr-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.frcr-btn {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 0.85rem;
+  transition: background-color 0.2s;
+}
+
+.frcr-btn.study {
+  background-color: #333;
+  color: #fff;
+}
+
+.frcr-btn.study:hover {
+  background-color: #444;
+}
+
+.frcr-btn.exam {
+  background-color: #ffd700;
+  color: #000;
+}
+
+.frcr-btn.exam:hover {
+  background-color: #e6c200;
+}
+/* ==========================================================================
+   FRCR EXAMS & MODULAR SECTIONS
+   ========================================================================== */
+
+/* Main Containers */
+.frcr-section, 
+.frcr-modules-section {
+  margin-top: 50px;
+  padding: 0 20px;
+  text-align: center;
+}
+
+.section-divider {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #ffd700, transparent);
+  margin: 40px auto;
+  max-width: 80%;
+}
+
+.section-title,
+.frcr-modules-section h3 {
+  color: #ffd700;
+  font-size: 2rem;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.section-subtitle {
+  color: #aaa;
+  margin-bottom: 30px;
+  font-size: 1.1rem;
+}
+
+/* --- FRCR MOCK ASSESSMENT CARDS --- */
+.frcr-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 25px;
+  max-width: 1200px;
+  margin: 0 auto 40px auto;
+}
+
+.frcr-card {
+  background-color: #1a1a1a;
+  border: 1px solid #333;
+  border-radius: 10px;
+  padding: 25px 20px;
+  position: relative;
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: left;
+}
+
+.frcr-card:hover {
+  transform: translateY(-5px);
+  border-color: #ffd700;
+  box-shadow: 0 5px 15px rgba(255, 215, 0, 0.1);
+}
+
+.paper-badge {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background-color: #ffd700;
+  color: #000;
+  font-weight: bold;
+  font-size: 0.75rem;
+  padding: 3px 8px;
+  border-radius: 20px;
+}
+
+.frcr-card h3 {
+  color: #fff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 1.3rem;
+}
+
+.frcr-card p {
+  color: #888;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+
+.frcr-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.frcr-btn {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 0.85rem;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.frcr-btn:active {
+  transform: scale(0.97);
+}
+
+.frcr-btn.study {
+  background-color: #333;
+  color: #fff;
+}
+
+.frcr-btn.study:hover {
+  background-color: #444;
+}
+
+.frcr-btn.exam {
+  background-color: #ffd700;
+  color: #000;
+}
+
+.frcr-btn.exam:hover {
+  background-color: #e6c200;
+}
+
+/* --- FRCR MODULAR TOPIC BUTTONS --- */
+.frcr-modules-section h3 {
+  font-size: 1.6rem;
+  border-bottom: 1px solid #333 !important;
+  padding-bottom: 12px;
+  margin-bottom: 25px;
+}
+
+.frcr-mod-btn {
+  background-color: #1a1a1a !important;
+  color: #fff !important;
+  border: 1px solid #333 !important;
+  border-radius: 8px !important;
+  padding: 20px !important;
+  text-align: left !important;
+  cursor: pointer;
+  transition: all 0.2s ease !important;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  width: 100%;
+}
+
+.frcr-mod-btn strong {
+  color: #ffd700;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.frcr-mod-btn:hover {
+  border-color: #ffd700 !important;
+  transform: translateY(-2px);
+  background-color: #222 !important;
+  box-shadow: 0 4px 12px rgba(255, 215, 0, 0.05);
+}
+
+.frcr-mod-btn:active {
+  transform: translateY(0);
+}

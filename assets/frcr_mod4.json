@@ -1,0 +1,1304 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "A patient with no function in their native kidneys has declining renal function 1 day after transplantation. A MAG3 renogram shows normal perfusion but diminished excretion. Which process is most likely?",
+      "choices": [
+        "A. acute rejection",
+        "B. chronic rejection",
+        "C. acute tubular necrosis",
+        "D. renal vein thrombosis",
+        "E. ciclosporin toxicity"
+      ],
+      "answer": "C",
+      "detail": "Acute tubular necrosis (ATN) is the most common acute reversible cause of renal failure in the transplanted kidney, usually occurring within 24 hours. In ATN, perfusion remains normal while excretion is diminished, unlike rejection or thrombosis which typically show reduced perfusion."
+    },
+    {
+      "number": 2,
+      "question": "An incidental 3 cm rounded renal lesion has an average attenuation of 80 HU on portal venous-phase CT. It contains no negative attenuation pixels. What is the most likely diagnosis?",
+      "choices": [
+        "A. angiomyolipoma",
+        "B. renal cell carcinoma",
+        "C. simple cyst",
+        "D. high-density cyst",
+        "E. infected cyst"
+      ],
+      "answer": "D",
+      "detail": "A non-enhancing, well-defined, homogeneous renal mass measuring over 70 HU on CT is most likely a high-density cyst. Cysts with proteinaceous or hemorrhagic contents often present this way."
+    },
+    {
+      "number": 3,
+      "question": "A 30-year-old woman has a cystic adnexal mass with focal calcification and small enhancing soft-tissue elements. Portions are bright on T1W MRI and become dark on fat-saturated sequences. What is the diagnosis?",
+      "choices": [
+        "A. ovarian cyst with proteinaceous contents",
+        "B. endometrioma",
+        "C. mature cystic teratoma of the ovary",
+        "D. ovarian cyst adenofibroma",
+        "E. ovarian adenocarcinoma"
+      ],
+      "answer": "C",
+      "detail": "Signal dropout on fat-saturated T1W sequences indicates the presence of macroscopic fat, which is characteristic of a mature cystic teratoma (dermoid cyst)."
+    },
+    {
+      "number": 4,
+      "question": "A 2 cm kidney cyst has a thin septum with perceptible enhancement on CT. What is the most appropriate management?",
+      "choices": [
+        "A. discharge with no follow-up",
+        "B. imaging follow-up",
+        "C. partial nephrectomy",
+        "D. nephrectomy",
+        "E. nephroureterectomy"
+      ],
+      "answer": "B",
+      "detail": "Perceptible enhancement of a thin septum in a renal cyst characterizes it as a Bosniak IIF lesion, which requires imaging follow-up to ensure stability."
+    },
+    {
+      "number": 5,
+      "question": "A 78-year-old man presents with a palpable retroareolar breast lump. Mammography shows a high-density lobulated mass; ultrasound shows it is hypoechoic and eccentric to the nipple. Diagnosis?",
+      "choices": [
+        "A. invasive ductal carcinoma",
+        "B. lipoma",
+        "C. breast abscess",
+        "D. gynaecomastia",
+        "E. lymphoma"
+      ],
+      "answer": "A",
+      "detail": "While gynecomastia is common in men, it is typically symmetrical and centered behind the nipple. An eccentric, irregular, or high-density mass in an elderly male is highly suspicious for invasive ductal carcinoma."
+    },
+    {
+      "number": 6,
+      "question": "A 25-year-old primagravida has a 22 mm cervix at the 20-week anomaly scan. She is most likely to be treated with which of the following?",
+      "choices": [
+        "A. oestrogens",
+        "B. progestogens",
+        "C. heparin",
+        "D. salbutamol",
+        "E. corticosteroids"
+      ],
+      "answer": "B",
+      "detail": "A cervical length of less than 25 mm before 24 weeks is associated with preterm birth risk; progestogens are commonly used to treat and manage this condition."
+    },
+    {
+      "number": 7,
+      "question": "Testicular ultrasound in a 40-year-old man shows a multilobular, homogeneous, hypoechoic mass with internal Doppler flow in hypoechoic bands. Diagnosis?",
+      "choices": [
+        "A. teratoma",
+        "B. lymphoma",
+        "C. metastasis",
+        "D. seminoma",
+        "E. focal infarction"
+      ],
+      "answer": "D",
+      "detail": "Seminomas characteristically present as homogeneous, hypoechoic masses and are the most common testicular tumor in this age group."
+    },
+    {
+      "number": 8,
+      "question": "An intrauterine device's locator strings cannot be palpated. What is the most appropriate initial investigation?",
+      "choices": [
+        "A. abdominal radiograph",
+        "B. pelvic ultrasound scan",
+        "C. pelvic CT",
+        "D. pelvic MRI",
+        "E. hysteroscopy"
+      ],
+      "answer": "B",
+      "detail": "Pelvic ultrasound is the first-line study to determine if the device is still within the endometrial cavity. If ultrasound is negative, an abdominal radiograph is used to find a migrated or perforated device."
+    },
+    {
+      "number": 9,
+      "question": "A 5 cm renal cell carcinoma in the left upper pole has tumor thrombus in the renal vein, IVC, and right atrium. What is the TNM stage?",
+      "choices": [
+        "A. T4 N0 M0",
+        "B. T2 N0 M0",
+        "C. T3a N0 M0",
+        "D. T3c N0 Mx",
+        "E. T3c N0 M0"
+      ],
+      "answer": "E",
+      "detail": "Tumor thrombus extending into the IVC above the diaphragm or invading the wall of the vena cava is staged as T3c."
+    },
+    {
+      "number": 10,
+      "question": "A Whitaker test shows a maximum pressure difference of 10 cmH2O between the renal pelvis and bladder. What is the conclusion?",
+      "choices": [
+        "A. this invasive test is also inconclusive",
+        "B. there is no evidence of pelviureteric junction or ureteric obstruction",
+        "C. there is ongoing pelviureteric junction obstruction",
+        "D. there is a second previously occult level of obstruction",
+        "E. the original diagnosis of pelviureteric junction obstruction is in doubt"
+      ],
+      "answer": "B",
+      "detail": "A pressure difference of less than 15 cmH2O on a Whitaker test is considered normal and indicates no significant obstruction."
+    },
+    {
+      "number": 11,
+      "question": "What is the most accurate ultrasound measurement for dating a pregnancy at 10 weeks?",
+      "choices": [
+        "A. biparietal diameter",
+        "B. mean gestational sac diameter",
+        "C. crown–rump length",
+        "D. femur length",
+        "E. abdominal circumference"
+      ],
+      "answer": "C",
+      "detail": "Crown–rump length (CRL) is the most accurate measurement for dating in the first trimester (up to 13 weeks)."
+    },
+    {
+      "number": 12,
+      "question": "A 40-year-old with prior pelvic radiotherapy has cyclical pain. MRI shows a distended endometrial cavity and ovarian cysts with high signal on fat-suppressed T1W sequences. Diagnosis?",
+      "choices": [
+        "A. recurrent cervical tumour with bilateral ovarian metastases",
+        "B. recurrent cervical tumour and synchronous bilateral ovarian teratomas",
+        "C. cervical stenosis and bilateral endometriomas",
+        "D. cervical stenosis and bilateral ovarian cystadenocarcinomas",
+        "E. new primary endometrial carcinoma with bilateral ovarian secondaries"
+      ],
+      "answer": "C",
+      "detail": "Acquired cervical stenosis (from radiotherapy) causes hematometra; the blood can reflux, leading to endometriosis and bilateral endometriomas (T1 bright, non-suppressing cysts)."
+    },
+    {
+      "number": 13,
+      "question": "A postmenopausal patient has bilateral ovarian masses and concomitant endometrial adenocarcinoma. What is the most likely histological diagnosis of the ovarian lesions?",
+      "choices": [
+        "A. benign serous cystadenoma",
+        "B. benign mucinous cystadenoma",
+        "C. malignant serous cystadenocarcinoma",
+        "D. malignant mucinous cystadenocarcinoma",
+        "E. endometrioid tumour"
+      ],
+      "answer": "E",
+      "detail": "Endometrioid tumors of the ovary are frequently bilateral and are associated with synchronous endometrial adenocarcinoma in 30% of cases."
+    },
+    {
+      "number": 14,
+      "question": "A patient on hydralazine has bilateral hydronephrosis. CT shows obstructed medially deviated ureters and a 'taped-down' aorta. Diagnosis?",
+      "choices": [
+        "A. enlarged retroperitoneal lymph nodes due to Hodgkin’s disease",
+        "B. enlarged retroperitoneal lymph nodes due to lymphoma",
+        "C. retroperitoneal fibrosis",
+        "D. bilateral ureteral transitional cell carcinoma",
+        "E. metastatic lymph node enlargement"
+      ],
+      "answer": "C",
+      "detail": "Retroperitoneal fibrosis (RPF) characteristically deviates the ureters medially and 'tapes' the aorta to the spine, whereas lymphoma typically elevates the aorta. Hydralazine is a known drug cause of RPF."
+    },
+    {
+      "number": 15,
+      "question": "An 80-year-old male has unilateral loin pain. IVU shows an enlarged, non-functioning kidney with a staghorn calculus. What is the most likely diagnosis?",
+      "choices": [
+        "A. xanthogranulomatous pyelonephritis",
+        "B. renal tuberculosis",
+        "C. hyperparathyroidism",
+        "D. hydatid cyst",
+        "E. carcinoma"
+      ],
+      "answer": "A",
+      "detail": "The combination of an enlarged non-functioning kidney and a staghorn calculus is the classic 'Aunt Minnie' for xanthogranulomatous pyelonephritis (XGP)."
+    },
+    {
+      "number": 16,
+      "question": "A bladder tumour has muscle invasion. Staging CT shows 4 cm ipsilateral internal iliac and 1.5 cm common iliac lymph nodes. What is the stage?",
+      "choices": [
+        "A. T1 N1 M0",
+        "B. T2 N1 M0",
+        "C. T2 N2 M0",
+        "D. T2 N1 M1",
+        "E. T3 N1 M0"
+      ],
+      "answer": "C",
+      "detail": "Internal iliac nodes are regional (N); nodes 2–5 cm are N2. Common iliac nodes in bladder cancer are typically staged as distant metastatic disease (M1)."
+    },
+    {
+      "number": 17,
+      "question": "A 28-year-old woman has smooth bilateral renal enlargement with normal function. Which is the most likely cause?",
+      "choices": [
+        "A. metastatic disease",
+        "B. lymphoma",
+        "C. collagen vascular disease",
+        "D. acute tubular necrosis",
+        "E. renal vein thrombosis"
+      ],
+      "answer": "C",
+      "detail": "Smooth bilateral renal enlargement can be seen in collagen vascular diseases like SLE or vasculitis."
+    },
+    {
+      "number": 18,
+      "question": "A 55-year-old male with arteritis and multiple small renal aneurysms is most likely to test positive for which antibody?",
+      "choices": [
+        "A. anti-double-stranded DNA",
+        "B. anti-basement membrane",
+        "C. anti-Ro",
+        "D. anti-immunoglobulin G",
+        "E. perinuclear anti-neutrophil cytoplasmic"
+      ],
+      "answer": "E",
+      "detail": "Polyarteritis nodosa (PAN) is the most common cause of multiple intrarenal aneurysms and is associated with pANCA (perinuclear anti-neutrophil cytoplasmic antibody)."
+    },
+    {
+      "number": 19,
+      "question": "A 20-year-old man had radical orchidectomy for a stage 1 non-seminomatous germ cell tumour. CT staging was negative. What is the follow-up regimen?",
+      "choices": [
+        "A. repeat CT only in response to symptoms",
+        "B. repeat CT only when markers rise",
+        "C. yearly markers and CT",
+        "D. serial markers with 3-monthly CT for 1 year, then 6-monthly for 1 year",
+        "E. 3-monthly whole-body PET/CT"
+      ],
+      "answer": "D",
+      "detail": "Intensive surveillance with serial serum markers and frequent CT scans is the standard follow-up for stage 1 non-seminomatous germ cell tumors."
+    },
+    {
+      "number": 20,
+      "question": "A 30-year-old man has bilateral testicular microlithiasis, unilateral atrophy, and a history of orchidopexy. Management?",
+      "choices": [
+        "A. discharge",
+        "B. self-examination only",
+        "C. follow-up clinical examination and surveillance sonography",
+        "D. further investigation with MRI",
+        "E. testicular biopsy"
+      ],
+      "answer": "C",
+      "detail": "The combination of cryptorchidism (atrophy) and microlithiasis increases malignancy risk, necessitating formal clinical and sonographic follow-up."
+    },
+    {
+      "number": 21,
+      "question": "A renal pelvis TCC invades parenchyma and perinephric fat. Staging CT is negative for nodes and metastases. What is the overall stage?",
+      "choices": [
+        "A. I",
+        "B. II",
+        "C. III",
+        "D. IV",
+        "E. V"
+      ],
+      "answer": "D",
+      "detail": "For renal pelvis and ureteric TCC, a T4 primary or any nodal/metastatic disease results in stage IV disease. Invasion of adjacent organs or fat (T4) marks stage IV."
+    },
+    {
+      "number": 22,
+      "question": "Ultrasound of the penis identifies dense, shadow-casting abnormalities at the periphery of the corpora cavernosa. What is the diagnosis?",
+      "choices": [
+        "A. priapism",
+        "B. Zoon’s balanitis",
+        "C. penile squamous cell carcinoma",
+        "D. Peyronie’s disease",
+        "E. balanitis xerotica obliterans"
+      ],
+      "answer": "D",
+      "detail": "Peyronie's disease involves fibrous thickening and calcified plaques within the tunica albuginea/septum of the corpora cavernosa."
+    },
+    {
+      "number": 23,
+      "question": "What is the most common site for extra-adrenal phaeochromocytoma?",
+      "choices": [
+        "A. carotid body",
+        "B. organ of Zuckerkandl",
+        "C. bladder",
+        "D. cardiac",
+        "E. glomus jugulare"
+      ],
+      "answer": "B",
+      "detail": "The organ of Zuckerkandl (near the IMA origin) is the most frequent location for an extra-adrenal phaeochromocytoma (paraganglioma)."
+    },
+    {
+      "number": 24,
+      "question": "In MRI of the penis for staging, which structure characteristically demonstrates the maximum degree of enhancement?",
+      "choices": [
+        "A. corpora cavernosa",
+        "B. corpora spongiosa",
+        "C. cavernosal arteries",
+        "D. urethra",
+        "E. tunica albuginea"
+      ],
+      "answer": "A",
+      "detail": "The corpora cavernosa show intense, vivid enhancement on post-contrast imaging."
+    },
+    {
+      "number": 25,
+      "question": "Which staging feature in ovarian cancer results in a classification of stage IV disease?",
+      "choices": [
+        "A. pleural effusion with negative cytology",
+        "B. para-aortic lymph node enlargement",
+        "C. liver surface deposits",
+        "D. liver parenchymal deposits",
+        "E. peritoneal deposits > 2 cm"
+      ],
+      "answer": "D",
+      "detail": "Distant metastases including parenchymal liver deposits and pleural effusions with positive cytology define stage IV disease. Liver surface deposits are stage III."
+    },
+    {
+      "number": 26,
+      "question": "Patient movement during DMSA SPECT imaging underestimates parenchymal uptake in which condition?",
+      "choices": [
+        "A. nutcracker kidney",
+        "B. nephroptosis",
+        "C. pelviureteric junction obstruction",
+        "D. ureteric calculus",
+        "E. vesicoureteric reflux"
+      ],
+      "answer": "B",
+      "detail": "Nephroptosis (excessive mobility of the kidney) can lead to count underestimation if the patient's position changes relative to the camera during acquisition."
+    },
+    {
+      "number": 27,
+      "question": "One month after RFA of a renal adenocarcinoma, average post-contrast enhancement is 8 HU. How is the result described?",
+      "choices": [
+        "A. failed",
+        "B. residual enhancing tumour requiring repeat ablation",
+        "C. residual enhancing tumour but no value in repeat ablation",
+        "D. successful",
+        "E. indeterminate"
+      ],
+      "answer": "D",
+      "detail": "Success in renal RFA is typically defined as a post-contrast attenuation rise of less than 10 HU."
+    },
+    {
+      "number": 28,
+      "question": "Which technique is most appropriate for the local staging of biopsy-proven cervical adenocarcinoma?",
+      "choices": [
+        "A. transvaginal ultrasound scan",
+        "B. endoanal ultrasound scan",
+        "C. CT abdomen and pelvis",
+        "D. MRI with pelvic phased-array coil",
+        "E. 18FDG PET"
+      ],
+      "answer": "D",
+      "detail": "MRI is the modality of choice for characterizing the primary tumor and evaluating local spread in cervical cancer."
+    },
+    {
+      "number": 29,
+      "question": "Endoanal ultrasound shows scarring in more than 50% of the external sphincter with an intact internal sphincter. Degree of injury?",
+      "choices": [
+        "A. first",
+        "B. second",
+        "C. third (3a)",
+        "D. third (3b)",
+        "E. third (3c)"
+      ],
+      "answer": "D",
+      "detail": "Anal sphincter tears are third-degree; 3b specifically denotes an external sphincter tear involving more than 50% of its thickness."
+    },
+    {
+      "number": 30,
+      "question": "A CTmass has good uptake on DMSA SPECT. What is the most appropriate management?",
+      "choices": [
+        "A. no further action",
+        "B. biopsy",
+        "C. nephrectomy",
+        "D. image-guided drainage",
+        "E. chemotherapy"
+      ],
+      "answer": "A",
+      "detail": "Uptake of DMSA indicates functioning renal parenchyma; this appearance corresponds to a hypertrophic column of Bertin or a dromedary hump."
+    },
+    {
+      "number": 31,
+      "question": "A phaeochromocytoma patient has an elevated VMA. MIBG activity in which organ is likely a metastasis?",
+      "choices": [
+        "A. lung",
+        "B. bladder",
+        "C. thyroid",
+        "D. colon",
+        "E. spleen"
+      ],
+      "answer": "A",
+      "detail": "The bladder, thyroid, and colon can show physiological MIBG activity, while the lung is not a normal site of uptake."
+    },
+    {
+      "number": 32,
+      "question": "Local imaging staging for adenosquamous carcinoma of the cervix must indicate which of the following?",
+      "choices": [
+        "A. tumour size and distance from the internal os plus the cervix length",
+        "B. tumour size and distance from the external os plus the uterine length",
+        "C. tumour size and distance from the vaginal introitus plus length of the vagina",
+        "D. tumour size and vascularity",
+        "E. ovarian position"
+      ],
+      "answer": "A",
+      "detail": "Surgical planning (e.g., trachelectomy) requires precise measurement of tumor size and the length of the uninvolved proximal cervix."
+    },
+    {
+      "number": 33,
+      "question": "A squamous cell carcinoma of the vulva has significantly enlarged ipsilateral inguinal nodes and an ipsilateral 1.2 cm external iliac node. Accurate nodal staging?",
+      "choices": [
+        "A. Nx",
+        "B. N0",
+        "C. N1",
+        "D. N2",
+        "E. N3"
+      ],
+      "answer": "C",
+      "detail": "N1 represents ipsilateral femoral/inguinal nodal involvement. Intrapelvic nodes (like external iliac) are staged as metastases in vulval cancer."
+    },
+    {
+      "number": 34,
+      "question": "Which MRI sequence is most useful for detecting renal cell carcinoma among hemorrhagic/proteinaceous cysts in ADPKD?",
+      "choices": [
+        "A. T1W",
+        "B. T2W",
+        "C. T1W post-gadolinium",
+        "D. T1W fat-suppressed post-gadolinium",
+        "E. T1W post-gadolinium with pre-contrast signal subtracted"
+      ],
+      "answer": "E",
+      "detail": "Subtraction imaging allows for the definitive identification of enhancement within a lesion that already has high T1 signal from blood or protein."
+    },
+    {
+      "number": 35,
+      "question": "Which scenario could cause a false-negative result on 18FDG PET for endometrial cancer recurrence?",
+      "choices": [
+        "A. peritoneal deposits smaller than 1 cm",
+        "B. bladder diverticulum",
+        "C. post-surgical inflammation",
+        "D. abscess",
+        "E. bowel avidity"
+      ],
+      "answer": "A",
+      "detail": "The spatial resolution of PET limits its ability to detect small tumor deposits, typically those under 1 cm."
+    },
+    {
+      "number": 36,
+      "question": "Prostate cancer is bilateral and confined within the capsule. Enlarged nodes are in the left internal and common iliac groups. TNM stage?",
+      "choices": [
+        "A. T2b N1 M0",
+        "B. T2c N1 M0",
+        "C. T2c N1 M1",
+        "D. T3 N1 M0",
+        "E. T3 N1 M1"
+      ],
+      "answer": "C",
+      "detail": "Bilateral prostatic disease is T2c. Common iliac lymph nodes are considered distant metastases (M1) in prostate cancer staging."
+    },
+    {
+      "number": 37,
+      "question": "35 mm adrenal mass: 30 HU unenhanced; 90 HU at 60s; 50 HU at 15m. Diagnosis?",
+      "choices": [
+        "A. lipid-rich adenoma",
+        "B. lipid-poor adenoma",
+        "C. metastasis",
+        "D. adrenal cortical cancer",
+        "E. adrenal haemorrhage"
+      ],
+      "answer": "B",
+      "detail": "An unenhanced density >10 HU suggests a lipid-poor lesion. The absolute washout (/ = 66%) is >60%, which is diagnostic for an adenoma."
+    },
+    {
+      "number": 38,
+      "question": "Which plane is used for calculating the cephalic index during fetal biometry?",
+      "choices": [
+        "A. transverse through thalami and septum pellucidum",
+        "B. coronal through thalami",
+        "C. transverse through orbits",
+        "D. sagittal through midline",
+        "E. transverse through cerebellum"
+      ],
+      "answer": "A",
+      "detail": "The cephalic index (BPD/OFD) is measured in the standard transverse plane used for BPD and HC."
+    },
+    {
+      "number": 39,
+      "question": "What is the primary reason for performing MRI in a patient with biopsy-proven penis cancer?",
+      "choices": [
+        "A. to confirm the diagnosis",
+        "B. to refute the diagnosis",
+        "C. to perform local staging",
+        "D. to assess metastatic spread",
+        "E. to assess regional lymph node involvement"
+      ],
+      "answer": "C",
+      "detail": "MRI is excellent for assessing the depth of tumor invasion into the corpora, which is critical for local staging and surgical planning."
+    },
+    {
+      "number": 40,
+      "question": "Ureteric colic with an echogenic focus at the VUJ on US that is invisible on CT. For which condition is the patient likely being treated?",
+      "choices": [
+        "A. diabetes mellitus",
+        "B. asthma",
+        "C. HIV",
+        "D. gastro-oesophageal reflux",
+        "E. headaches"
+      ],
+      "answer": "C",
+      "detail": "Indinavir (a protease inhibitor for HIV) can produce radiolucent urinary stones that are even invisible on CT scans."
+    },
+    {
+      "number": 41,
+      "question": "An 8 mm short axis node is significant in which of the following groups?",
+      "choices": [
+        "A. inguinal",
+        "B. common iliac",
+        "C. external iliac",
+        "D. internal iliac",
+        "E. retroperitoneal"
+      ],
+      "answer": "D",
+      "detail": "A short axis measurement of 7 mm or greater is considered significant for the internal iliac and obturator node groups."
+    },
+    {
+      "number": 42,
+      "question": "A 10-week scan showing a twin pregnancy is followed by a later scan showing a singleton pregnancy. What is this termed?",
+      "choices": [
+        "A. foetus papyraceus",
+        "B. vanishing twin",
+        "C. fetal death in utero",
+        "D. immune fetal hydrops",
+        "E. non-immune fetal hydrops"
+      ],
+      "answer": "B",
+      "detail": "Vanishing twin syndrome occurs when one of a set of multiple fetuses disappears in the uterus during pregnancy."
+    },
+    {
+      "number": 43,
+      "question": "A cervical carcinoma staging shows 5 cm size, uterine invasion, parametrial spread, and vaginal involvement below the urethral orifice. Which feature makes it T3a?",
+      "choices": [
+        "A. size over 4 cm",
+        "B. uterine corpus invasion",
+        "C. parametrial spread",
+        "D. vaginal invasion",
+        "E. parametrial nodal involvement"
+      ],
+      "answer": "D",
+      "detail": "Involvement of the lower third of the vagina (landmark: below the level of the urethral orifice) defines stage T3a in cervical cancer."
+    },
+    {
+      "number": 44,
+      "question": "After testicular injury, US shows a complex cystic mass and avascular planes within the testicle. Management?",
+      "choices": [
+        "A. discharge with analgesia",
+        "B. admission for analgesia",
+        "C. elective surgery",
+        "D. surgery tomorrow",
+        "E. immediate surgical intervention"
+      ],
+      "answer": "E",
+      "detail": "Ultrasound features of testicular rupture (loss of outline, avascularity) require emergent surgery to salvage the testicle."
+    },
+    {
+      "number": 45,
+      "question": "Which CT protocol should be used to stage breast carcinoma that clinically involves the skin?",
+      "choices": [
+        "A. post-contrast brain",
+        "B. non-contrast brain, neck, chest, abdomen and pelvis",
+        "C. non-con brain/neck/chest, post-con abdo/pelvis",
+        "D. post-contrast brain, neck, chest, abdomen and pelvis",
+        "E. post-contrast neck, chest, abdomen and pelvis"
+      ],
+      "answer": "E",
+      "detail": "High-stage (T3/T4) breast cancer is staged using post-contrast neck, chest, abdomen, and pelvis CT."
+    },
+    {
+      "number": 46,
+      "question": "What is the most common ultrasound appearance in a patient presenting with hematospermia?",
+      "choices": [
+        "A. normal appearances",
+        "B. enlarged spermatic cord",
+        "C. hypoechoic testicular lesion with fluid level",
+        "D. paratesticular ‘bag of worms’ appearance",
+        "E. scrotal skin thickening"
+      ],
+      "answer": "A",
+      "detail": "Hematospermia is usually a benign, self-limiting condition, and scrotal imaging is frequently normal."
+    },
+    {
+      "number": 47,
+      "question": "Postmenopausal ascites cytology shows epithelial ovarian malignancy. Staging investigation?",
+      "choices": [
+        "A. CT of the abdomen and pelvis",
+        "B. CT of the chest, abdomen and pelvis",
+        "C. MRI of the pelvis",
+        "D. 18FDG PET",
+        "E. PET/CT"
+      ],
+      "answer": "B",
+      "detail": "Comprehensive staging of epithelial ovarian cancer requires contrast-enhanced CT of the chest, abdomen, and pelvis."
+    },
+    {
+      "number": 48,
+      "question": "A 55-year-old with loin pain has stricture of the distal ureter and widespread bladder/distal ureter calcification. Responsible organism?",
+      "choices": [
+        "A. Escherichia coli",
+        "B. Schistosoma mansoni",
+        "C. Schistosoma haematobium",
+        "D. Schistosoma japonicum",
+        "E. Mycobacterium tuberculosis"
+      ],
+      "answer": "C",
+      "detail": "Schistosomiasis haematobium is a major cause of calcification in the wall of the bladder and distal ureters."
+    },
+    {
+      "number": 49,
+      "question": "Into which lymph node group does lymph from the scrotum initially drain?",
+      "choices": [
+        "A. para-aortic at the L1–2 level",
+        "B. superficial inguinal",
+        "C. obturator",
+        "D. internal iliac",
+        "E. presacral"
+      ],
+      "answer": "B",
+      "detail": "Lymphatic drainage of the scrotum is to the superficial inguinal nodes, while the testicles drain to the para-aortic nodes."
+    },
+    {
+      "number": 50,
+      "question": "Echo-free thin-walled sinus structure; calyces are obstructed while the renal pelvis is stretched over a non-enhancing sinuse abnormality. Diagnosis?",
+      "choices": [
+        "A. renal cell carcinoma",
+        "B. hydronephrosis",
+        "C. renal sinus fat",
+        "D. parapelvic cyst",
+        "E. peripelvic cyst"
+      ],
+      "answer": "E",
+      "detail": "Peripelvic cysts arise from lymphatic tissue in the renal sinus and can cause extrinsic compression/stretching of the collecting system."
+    },
+    {
+      "number": 51,
+      "question": "CPA-like mass in a 40M testicle, hypoechoic with concentric 'onion-skin' layers. Diagnosis?",
+      "choices": [
+        "A. epidermoid tumour",
+        "B. malignant teratoma",
+        "C. seminoma",
+        "D. metastatic lung carcinoma",
+        "E. adenomatoid tumour"
+      ],
+      "answer": "A",
+      "detail": "The 'onion-skin' appearance of concentric echogenic layers on ultrasound is characteristic of a benign testicular epidermoid cyst."
+    },
+    {
+      "number": 52,
+      "question": "MRI: heterogeneous bright placenta causing junctional zone interruption and focal myometrial thinning. Serosa intact. Findings?",
+      "choices": [
+        "A. placenta accreta",
+        "B. placenta increta",
+        "C. placenta percreta",
+        "D. placenta praevia",
+        "E. placental abruption"
+      ],
+      "answer": "B",
+      "detail": "Placenta increta involves invasion of the placental villi into the myometrium, often causing visible thinning or disruption of the junctional zone on MRI."
+    },
+    {
+      "number": 53,
+      "question": "Small-cell bladder cancer staging strategy?",
+      "choices": [
+        "A. whole-body PET/CT",
+        "B. MRI of the bladder",
+        "C. MRI bladder plus CT abdomen and pelvis",
+        "D. MRI bladder plus CT chest, abdomen and pelvis",
+        "E. MRI bladder plus CT brain, chest, abdomen and pelvis"
+      ],
+      "answer": "E",
+      "detail": "Small-cell tumors are highly aggressive; staging requires evaluation of the brain (often neglected in standard protocols) alongside the chest, abdomen, and pelvis."
+    },
+    {
+      "number": 54,
+      "question": "Which condition is most frequently associated with a two-vessel umbilical cord?",
+      "choices": [
+        "A. triploidy",
+        "B. Turner’s syndrome",
+        "C. trisomy 18",
+        "D. trisomy 13",
+        "E. Down’s syndrome"
+      ],
+      "answer": "C",
+      "detail": "A single umbilical artery (two-vessel cord) is most commonly associated with Trisomy 18."
+    },
+    {
+      "number": 55,
+      "question": "Lymphatic drainage from the lower third of the vagina is first to which group?",
+      "choices": [
+        "A. obturator",
+        "B. internal iliac",
+        "C. external iliac",
+        "D. inguinal",
+        "E. retroperitoneal"
+      ],
+      "answer": "D",
+      "detail": "The lower third of the vagina drains to the inguinal lymph nodes, similar to the vulva."
+    },
+    {
+      "number": 56,
+      "question": "Placenta edge covers the whole of the internal cervical os. Diagnosis?",
+      "choices": [
+        "A. placental separation",
+        "B. low-lying placenta",
+        "C. marginal placenta praevia",
+        "D. complete placenta praevia",
+        "E. placental abruption"
+      ],
+      "answer": "D",
+      "detail": "Complete placenta praevia is defined as the placenta entirely covering the internal cervical os."
+    },
+    {
+      "number": 57,
+      "question": "Axial T2W images show a mass of high signal intensity disrupting the target-like zonal anatomy of the urethra. Most likely cell type?",
+      "choices": [
+        "A. squamous cell",
+        "B. transitional cell",
+        "C. adenocarcinoma",
+        "D. clear cell",
+        "E. mastocyte"
+      ],
+      "answer": "C",
+      "detail": "While squamous cell is most common in the distal urethra, urethral adenocarcinoma can arise from periurethral glands or diverticula."
+    },
+    {
+      "number": 58,
+      "question": "Hypoechoic collection between uterine wall and placenta 4 weeks after pain. Findings?",
+      "choices": [
+        "A. acute placental abruption",
+        "B. abruption 1 week previously",
+        "C. abruption 4 weeks previously",
+        "D. placenta membranacea",
+        "E. ectopic pregnancy"
+      ],
+      "answer": "C",
+      "detail": "The evolution of the hematoma's echogenicity (becoming hypoechoic) fits with a chronic abruption corresponding to the clinical timing."
+    },
+    {
+      "number": 59,
+      "question": "What is the commonest cause of gas within the uterus?",
+      "choices": [
+        "A. cervical cancer",
+        "B. infected fibroid",
+        "C. endometritis",
+        "D. gas gangrene",
+        "E. vaginitis emphysematosa"
+      ],
+      "answer": "C",
+      "detail": "Endometritis is the most frequent clinical cause of intrauterine gas."
+    },
+    {
+      "number": 60,
+      "question": "Vaginal cancer T2. MRI description?",
+      "choices": [
+        "A. high signal breaching low-signal wall",
+        "B. high-signal mass not breaching low-signal wall",
+        "C. intermediate-signal mass breaching low-signal wall",
+        "D. intermediate-signal mass not breaching low-signal wall",
+        "E. intermediate-signal mass contained by low-signal wall"
+      ],
+      "answer": "C",
+      "detail": "Stage T2 vaginal cancer involves extension into the paracolpal tissue but does not reach the pelvic side wall."
+    },
+    {
+      "number": 61,
+      "question": "Stein–Leventhal patient with pain, nausea, enlarged cystic ovaries (>7cm), and pleural effusion after clomiphene. Diagnosis?",
+      "choices": [
+        "A. endometriosis",
+        "B. ovarian cyst torsion",
+        "C. ovarian hyperstimulation syndrome",
+        "D. ovarian serous cystadenoma",
+        "E. corpus luteum of menstruation"
+      ],
+      "answer": "C",
+      "detail": "Ovarian hyperstimulation syndrome (OHSS) is a complication of ovulation induction, presenting with massively enlarged ovaries and systemic fluid shifts."
+    },
+    {
+      "number": 62,
+      "question": "Raised PSA, peripheral zone diffuse low T2 signal. Restricted diffusion at left base. Peak enhancement apical is low. Most likely cancer site?",
+      "choices": [
+        "A. right base",
+        "B. left base",
+        "C. right mid-gland",
+        "D. left mid-gland",
+        "E. apex"
+      ],
+      "answer": "B",
+      "detail": "Restricted diffusion is a sensitive and specific marker for focal prostate carcinoma."
+    },
+    {
+      "number": 63,
+      "question": "A normal postmenopausal ovary should have a volume less than?",
+      "choices": [
+        "A. 18 cm3",
+        "B. 12 cm3",
+        "C. 8 cm3",
+        "D. 4 cm3",
+        "E. 1 cm3"
+      ],
+      "answer": "C",
+      "detail": "Postmenopausal ovarian volume is normally less than 8 cm3."
+    },
+    {
+      "number": 64,
+      "question": "Which mammographic pattern is most associated with carcinoma?",
+      "choices": [
+        "A. tortuous tramline calcification",
+        "B. thick linear rods with lucent centres",
+        "C. eggshell calcification",
+        "D. popcorn calcification",
+        "E. a cluster of 10 particles < 0.5 mm"
+      ],
+      "answer": "E",
+      "detail": "Pleomorphic microcalcifications (especially clusters >5 per cm3) are suspicious for malignancy (DCIS)."
+    },
+    {
+      "number": 65,
+      "question": "Transvaginal US of a premenopausal woman on day 21. Normal endometrial thickness?",
+      "choices": [
+        "A. < 4 mm",
+        "B. 4–8 mm",
+        "C. 20–25 mm",
+        "D. 7–14 mm",
+        "E. 2–3 mm"
+      ],
+      "answer": "D",
+      "detail": "The secretory phase (days 14-28) typically shows an endometrial thickness of 7–14 mm."
+    },
+    {
+      "number": 66,
+      "question": "Which condition is associated with retroperitoneal fibrosis?",
+      "choices": [
+        "A. renal calculi",
+        "B. inflammatory aortic aneurysm",
+        "C. sigmoid volvulus",
+        "D. pelvic lymphadenopathy",
+        "E. ovarian cancer"
+      ],
+      "answer": "B",
+      "detail": "Inflammatory aortic aneurysms are a known secondary cause of RPF."
+    },
+    {
+      "number": 67,
+      "question": "Hysterosalpingogram: irregular 'cobblestone' uterine cavity. Diagnosis?",
+      "choices": [
+        "A. endometrial polyps",
+        "B. submucosal fibroids",
+        "C. endometriosis",
+        "D. adenocarcinoma",
+        "E. Asherman’s syndrome"
+      ],
+      "answer": "E",
+      "detail": "Asherman's syndrome consists of intrauterine adhesions, often appearing as irregular filling defects on HSG."
+    },
+    {
+      "number": 68,
+      "question": "What is the normal range for adult renal length on ultrasound?",
+      "choices": [
+        "A. 13–15 cm",
+        "B. 6–8 cm",
+        "C. 9–12 cm",
+        "D. 15–18 cm",
+        "E. 4–6 cm"
+      ],
+      "answer": "C",
+      "detail": "Normal kidneys in an adult measure between 9 and 12 cm in length."
+    },
+    {
+      "number": 69,
+      "question": "Postmenopausal echo-free ovarian cyst with RI < 0.4 and PI < 1. Diagnosis?",
+      "choices": [
+        "A. corpus luteum cyst",
+        "B. follicular cyst",
+        "C. polycystic ovaries",
+        "D. benign ovarian neoplasm",
+        "E. malignant ovarian neoplasm"
+      ],
+      "answer": "E",
+      "detail": "Low-impedance, high-velocity diastolic flow is a vascular feature suspicious for malignancy."
+    },
+    {
+      "number": 70,
+      "question": "Primary amenorrhoea, absent uterus, hypoplastic upper vagina, normal ovaries. Diagnosis?",
+      "choices": [
+        "A. uterus didelphys",
+        "B. unicornuate uterus",
+        "C. Mayer–Rokitansky–Küster–Hauser syndrome",
+        "D. uterine agenesis",
+        "E. septate uterus"
+      ],
+      "answer": "C",
+      "detail": "MRKH syndrome is defined by uterine agenesis and hypoplasia of the proximal two-thirds of the vagina with normal ovaries."
+    },
+    {
+      "number": 71,
+      "question": "In normal prostate anatomy, the ejaculatory ducts open into the urethra at the level of which structure?",
+      "choices": [
+        "A. base of bladder",
+        "B. membranous urethra",
+        "C. verumontanum",
+        "D. prostatic apex",
+        "E. bulbous urethra"
+      ],
+      "answer": "C",
+      "detail": "The verumontanum is the focal ridge where the ejaculatory ducts meet the prostatic urethra."
+    },
+    {
+      "number": 72,
+      "question": "What is the strongest clinical concern for a patient on long-term Tamoxifen for breast cancer?",
+      "choices": [
+        "A. urinary tract infection",
+        "B. deep venous thrombosis",
+        "C. endometrial cancer",
+        "D. breast cancer recurrence",
+        "E. bipolar disorder"
+      ],
+      "answer": "C",
+      "detail": "Tamoxifen has pro-estrogenic effects on the uterus, leading to increased risks of polyps, hyperplasia, and endometrial carcinoma."
+    },
+    {
+      "number": 73,
+      "question": "Incidentally found echo-free thin-walled 4 cm ovarian cyst; CA-125 < 30 U/ml. Management?",
+      "choices": [
+        "A. exenteration",
+        "B. hysterectomy and BSO",
+        "C. bilateral oophorectomy",
+        "D. laparoscopic staging",
+        "E. repeat transvaginal ultrasound in 4 months"
+      ],
+      "answer": "E",
+      "detail": "Small (<5cm), simple, postmenopausal cysts with normal CA-125 carry <1% malignancy risk and can be followed conservatively."
+    },
+    {
+      "number": 74,
+      "question": "What is the most likely age of a woman detected at the prevalent round of the NHS Breast Screening Programme?",
+      "choices": [
+        "A. 45 years",
+        "B. 50 years",
+        "C. 55 years",
+        "D. 60 years",
+        "E. 65 years"
+      ],
+      "answer": "B",
+      "detail": "The 'prevalent round' is the first screening invitation, which occurs when women reach 50 years of age."
+    },
+    {
+      "number": 75,
+      "question": "3 cm adrenal nodule; drops signal significantly from in-phase to out-of-phase T1W MRI. Diagnosis?",
+      "choices": [
+        "A. lung cancer metastasis",
+        "B. collision tumour",
+        "C. adrenal adenoma",
+        "D. phaeochromocytoma",
+        "E. hyperfunctioning adrenal cortical neoplasm"
+      ],
+      "answer": "C",
+      "detail": "Intracellular lipid, characteristic of an adrenal adenoma, causes signal dropout on out-of-phase MRI sequences."
+    },
+    {
+      "number": 76,
+      "question": "Increasing uterine size in a 70-year-old with known fibroids. Most serious consideration?",
+      "choices": [
+        "A. lipoleiomyoma",
+        "B. endometrial hyperplasia",
+        "C. adenomyoma",
+        "D. leiomyosarcoma",
+        "E. Bartholin’s gland tumour"
+      ],
+      "answer": "D",
+      "detail": "Rapid growth of a 'fibroid' in a postmenopausal woman is highly concerning for leiomyosarcoma."
+    },
+    {
+      "number": 77,
+      "question": "Persistent non-tortuous dilated ureter, aperistaltic in its distal segment. Diagnosis?",
+      "choices": [
+        "A. prune-belly syndrome",
+        "B. primary vesicoureteric reflux",
+        "C. primary megaureter",
+        "D. neuropathic bladder",
+        "E. ureterocele"
+      ],
+      "answer": "C",
+      "detail": "Primary megaureter results from a developmental distal aperistaltic segment and typically shows a straight, dilated ureter."
+    },
+    {
+      "number": 78,
+      "question": "HSG: no peritoneal spill; tubes remain distended with contrast on delayed film. Diagnosis?",
+      "choices": [
+        "A. tuberculosis",
+        "B. endometriosis",
+        "C. pelvic inflammatory disease",
+        "D. submucosal uterine fibroids",
+        "E. Asherman’s syndrome"
+      ],
+      "answer": "C",
+      "detail": "Bilateral hydrosalpinx with distal tubal occlusion is most frequently caused by prior pelvic inflammatory disease."
+    },
+    {
+      "number": 79,
+      "question": "IVU shows 'drooping flower' appearance of the left collecting system. Diagnosis?",
+      "choices": [
+        "A. bilateral ureteral duplication",
+        "B. left ureteral duplication",
+        "C. left ureteral diverticulum",
+        "D. recently passed stone",
+        "E. crossed fused ectopia"
+      ],
+      "answer": "B",
+      "detail": "In a duplex system, the lower moiety is displaced inferiorly and laterally by the obstructed upper moiety, creating the 'drooping flower' sign."
+    },
+    {
+      "number": 80,
+      "question": "Ectopic pregnancy: MRI shows bowel involvement by placenta. Most compelling reason for follow-up MRI?",
+      "choices": [
+        "A. check complete surgical removal",
+        "B. check for chemo response",
+        "C. ensure involution and absence of abscess",
+        "D. stage trophoblastic neoplasia",
+        "E. date the pregnancy"
+      ],
+      "answer": "C",
+      "detail": "Following delivery/evacuation of an abdominal pregnancy, the placenta is often left in situ and requires monitoring for involution or abscess formation."
+    },
+    {
+      "number": 81,
+      "question": "Renal calculi, fever, rigors, loin pain, and dilated system. Appropriate management?",
+      "choices": [
+        "A. oral antibiotics outpatient",
+        "B. catheter and IV antibiotics",
+        "C. left nephrostomy and antibiotics",
+        "D. bilateral nephrostomy",
+        "E. anti-spasmodics"
+      ],
+      "answer": "C",
+      "detail": "Pyonephrosis (infected obstruction) is a surgical emergency requiring immediate decompression via percutaneous nephrostomy."
+    },
+    {
+      "number": 82,
+      "question": "Partly cystic heterogeneous scrotal mass in a 20M. Markers?",
+      "choices": [
+        "A. CA-125 and AFP",
+        "B. CA-15-3 and CEA",
+        "C. PSA",
+        "D. CA-19-9",
+        "E. AFP and b-hCG"
+      ],
+      "answer": "E",
+      "detail": "Non-seminomatous germ cell tumors are associated with elevations in AFP and beta-hCG."
+    },
+    {
+      "number": 83,
+      "question": "28F infertility: high LH:FSH ratio, raised androgens, large ovaries with multiple follicles. Diagnosis?",
+      "choices": [
+        "A. cervical fibroids",
+        "B. hostile cervical mucus",
+        "C. ovarian torsion",
+        "D. polycystic ovarian disease",
+        "E. ovarian endometriosis"
+      ],
+      "answer": "D",
+      "detail": "This is the classic endocrine and imaging triad for PCOS."
+    },
+    {
+      "number": 84,
+      "question": "Renal mass with strong enhancement and calcification. Favours RCC over AML?",
+      "choices": [
+        "A. marked vascularity",
+        "B. calcification",
+        "C. fat within the tumour",
+        "D. round morphology",
+        "E. hyperechogenic on ultrasound"
+      ],
+      "answer": "B",
+      "detail": "Calcification is seen in 10% of RCCs but is essentially never found in renal angiomyolipomas."
+    },
+    {
+      "number": 85,
+      "question": "Histology: clumps of breast tumor cells floating in pools of extracellular mucin. Diagnosis?",
+      "choices": [
+        "A. mixed mucinous carcinoma",
+        "B. pure mucinous carcinoma",
+        "C. phyllodes tumour",
+        "D. inflammatory carcinoma",
+        "E. melanoma metastasis"
+      ],
+      "answer": "B",
+      "detail": "This is the pathognomonic description for a pure mucinous (colloid) carcinoma of the breast."
+    },
+    {
+      "number": 86,
+      "question": "Endometrial adenocarcinoma MRI stage T4. Feature?",
+      "choices": [
+        "A. limited to endometrium",
+        "B. invasion into outer half of myometrium",
+        "C. vaginal involvement",
+        "D. rectal serosal involvement",
+        "E. bladder mucosal involvement"
+      ],
+      "answer": "E",
+      "detail": "Stage T4 endometrial cancer is defined by invasion into the bladder or bowel mucosa."
+    },
+    {
+      "number": 87,
+      "question": "Well-circumscribed 15 mm breast mass on first round screening. No calcification. Management?",
+      "choices": [
+        "A. routine 3-year screening",
+        "B. 6-month repeat mammography",
+        "C. MRI breast",
+        "D. wide local excision",
+        "E. ultrasound examination"
+      ],
+      "answer": "E",
+      "detail": "A newly identified mass on screening (prevailing round) requires diagnostic ultrasound to differentiate a solid mass from a cyst."
+    },
+    {
+      "number": 88,
+      "question": "Which penile tumor typically returns a bright signal on T1W MRI?",
+      "choices": [
+        "A. squamous cell carcinoma",
+        "B. sarcoma",
+        "C. melanoma",
+        "D. lymphoma",
+        "E. transitional cell carcinoma"
+      ],
+      "answer": "C",
+      "detail": "Melanin has paramagnetic properties, making melanoma metastases/tumors T1-bright."
+    },
+    {
+      "number": 89,
+      "question": "Innermost to outermost T2W MRI signal intensities of the normal uterus?",
+      "choices": [
+        "A. high, intermediate, low",
+        "B. high, low, intermediate",
+        "C. intermediate, high, low",
+        "D. intermediate, low, high",
+        "E. low, intermediate, high"
+      ],
+      "answer": "B",
+      "detail": "Zonal anatomy: Endometrium (High T2), Junctional Zone (Low T2), Outer Myometrium (Intermediate T2)."
+    },
+    {
+      "number": 90,
+      "question": "Bladder seen 2 cm below the pubococcygeal line on sagittal MRI. Cause?",
+      "choices": [
+        "A. anterior rectocele",
+        "B. enterocele",
+        "C. cystocele",
+        "D. rectal prolapse",
+        "E. bladder intussusception"
+      ],
+      "answer": "C",
+      "detail": "Bladder descent of more than 1 cm below the pubococcygeal line is termed a cystocele."
+    },
+    {
+      "number": 91,
+      "question": "What is contained within the middle compartment of the female pelvic floor?",
+      "choices": [
+        "A. bladder",
+        "B. urethra",
+        "C. vagina",
+        "D. rectum",
+        "E. anus"
+      ],
+      "answer": "C",
+      "detail": "Compartments: Anterior (bladder/urethra), Middle (vagina), Posterior (rectum)."
+    },
+    {
+      "number": 92,
+      "question": "Clinically suspected multifocal breast cancer not seen on mammogram/US. Next step?",
+      "choices": [
+        "A. repeat ultrasound",
+        "B. additional mammography views",
+        "C. MRI",
+        "D. CT",
+        "E. 18FDG PET"
+      ],
+      "answer": "C",
+      "detail": "MRI is more sensitive for evaluating multicentric/multifocal disease when standard imaging is equivocal."
+    },
+    {
+      "number": 93,
+      "question": "Uterus large for dates, hyperemesis, raised b-hCG, cystic soft tissue filling the cavity. Feature favoring complete mole?",
+      "choices": [
+        "A. no fetal parts",
+        "B. dysmorphic fetus",
+        "C. associated prominent vessels",
+        "D. pelvic lymph node involvement",
+        "E. lung metastases"
+      ],
+      "answer": "A",
+      "detail": "A complete hydatidiform mole is characterized by the total absence of fetal parts."
+    },
+    {
+      "number": 94,
+      "question": "Most effective measure to prevent contrast-induced nephropathy?",
+      "choices": [
+        "A. acetylcysteine",
+        "B. thorough hydration",
+        "C. fluid restriction",
+        "D. concurrent diuretics",
+        "E. high-osmolar contrast"
+      ],
+      "answer": "B",
+      "detail": "Vigorous hydration remains the most effective proven strategy to minimize CIN risk."
+    },
+    {
+      "number": 95,
+      "question": "CT finding favoring TCC of the renal pelvis over RCC?",
+      "choices": [
+        "A. hypervascular mass",
+        "B. compressing sinus fat",
+        "C. invasion with contour preservation",
+        "D. renal vein thrombus",
+        "E. mass from bladder wall"
+      ],
+      "answer": "C",
+      "detail": "TCC tends to grow infiltratively, often preserving the external renal contour longer than the expansile RCC."
+    },
+    {
+      "number": 96,
+      "question": "What are the typical CT findings in Stauffer’s syndrome?",
+      "choices": [
+        "A. HCC with renal metastases",
+        "B. RCC with liver metastases",
+        "C. RCC and hepatosplenomegaly with no focal liver/spleen lesions",
+        "D. bilateral renal enlargement",
+        "E. RCC with pancreatic metastasis"
+      ],
+      "answer": "C",
+      "detail": "Stauffer's syndrome is a paraneoplastic syndrome of RCC presenting with reversible liver dysfunction (hepatosplenomegaly) without focal metastases."
+    },
+    {
+      "number": 97,
+      "question": "RECIST criteria for progressive disease despite axial shrinkage of long axes of lesions?",
+      "choices": [
+        "A. improvement < 30%",
+        "B. a new site of disease",
+        "C. lesions have not all disappeared",
+        "D. not sustained for 4 weeks",
+        "E. bidimensional improvement < 50%"
+      ],
+      "answer": "B",
+      "detail": "Under RECIST, the appearance of any new metastatic site automatically defines progressive disease, regardless of stable or responding existing lesions."
+    },
+    {
+      "number": 98,
+      "question": "Osteoporotic spine with disc narrowing, calcification, nephrocalcinosis, and ureteric calculus. Inheritance?",
+      "choices": [
+        "A. autosomal recessive",
+        "B. autosomal dominant",
+        "C. autosomal dominant with partial penetrance",
+        "D. mitochondrial",
+        "E. X-linked"
+      ],
+      "answer": "A",
+      "detail": "These findings represent ochronosis (alkaptonuria), which is an autosomal recessive metabolic disorder."
+    },
+    {
+      "number": 99,
+      "question": "Strongest indication for PET/CT scan in module 4 specialties?",
+      "choices": [
+        "A. cervical cancer staging",
+        "B. endometrial cancer staging",
+        "C. ovarian cancer staging",
+        "D. prostate cancer staging",
+        "E. bladder TCC staging"
+      ],
+      "answer": "A",
+      "detail": "PET/CT is highly sensitive for assessing distant nodal and systemic metastases in cervical cancer, significantly impacting management."
+    },
+    {
+      "number": 100,
+      "question": "Postpartum day 3: lower pain, PE, normal leg Doppler. Diagnosis?",
+      "choices": [
+        "A. appendicitis",
+        "B. right ovarian vein thrombosis",
+        "C. torsion of ovarian cyst",
+        "D. broad ligament haematoma",
+        "E. pelvic abscess"
+      ],
+      "answer": "B",
+      "detail": "Ovarian vein thrombosis is a recognized postpartum complication that can mimic appendicitis and lead to pulmonary emboli."
+    }
+  ]
+}

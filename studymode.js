@@ -102,7 +102,49 @@ document.addEventListener('DOMContentLoaded', function () {
     return match ? match[1] : filename;
   }
 
-  // --------- HELPERS: LOADING JSON WITH FALLBACKS ----------
+  // --------- DATA NORMALIZATION ----------
+  // Standardizes properties of different database schemes
+  function normalizeQuestions(rawQuestions, filename) {
+    return rawQuestions.map(q => {
+      // 1. Unify choices/options array & strip redundant prefix (e.g., "a. ")
+      let originalChoices = q.options || q.choices || [];
+      const cleanedOptions = originalChoices.map(opt => {
+        if (typeof opt === 'string') {
+          return opt.replace(/^[a-e]\.\s*/i, '').trim();
+        }
+        return opt;
+      });
+
+      // 2. Unify details/explanations
+      const explanationText = q.explanation || q.detail || "No explanation provided.";
+
+      // 3. Resolve answer keys to index numbers (0 through 4)
+      let calculatedAnswerIndex = 0;
+      if (typeof q.answer === 'string') {
+        const cleanAns = q.answer.trim().toLowerCase();
+        if (cleanAns.length === 1 && cleanAns >= 'a' && cleanAns <= 'e') {
+          calculatedAnswerIndex = cleanAns.charCodeAt(0) - 97; // 'a' -> 0, 'b' -> 1...
+        } else {
+          const matchInRaw = originalChoices.indexOf(q.answer);
+          calculatedAnswerIndex = matchInRaw !== -1 ? matchInRaw : cleanedOptions.indexOf(q.answer);
+        }
+      } else if (typeof q.answer === 'number') {
+        calculatedAnswerIndex = q.answer;
+      }
+
+      return {
+        question: q.question,
+        options: cleanedOptions,
+        answer: calculatedAnswerIndex >= 0 ? calculatedAnswerIndex : 0,
+        explanation: explanationText,
+        Image: q.Image || 'none',
+        'detail.image': q['detail.image'] || 'none',
+        _sourceFile: filename
+      };
+    });
+  }
+
+  // --------- HELPERS: LOADING JSON WITH CORRECT FALLBACKS ----------
   if (location.protocol === 'file:') {
     console.warn('This page is opened via file://. Use a local server (e.g., `python -m http.server`).');
   }
@@ -113,9 +155,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
   async function fetchJsonWithFallbacks(name) {
     const base = normalizeName(name);
+    // Modified candidate list to prioritize the correct "assets/" directory
     const candidates = [
-      `${base}.json`,
       `assets/${base}.json`,
+      `${base}.json`,
       `assets/json/${base}.json`,
     ];
     const tried = [];
@@ -149,12 +192,10 @@ document.addEventListener('DOMContentLoaded', function () {
     for (const name of list) {
       try {
         const { data } = await fetchJsonWithFallbacks(name);
-        // Tag each question with the source filename prefix before merging
-        const taggedQuestions = data.questions.map(q => {
-          q._sourceFile = name; // e.g. "pedi1-2"
-          return q;
-        });
-        allQuestions.push(...taggedQuestions);
+        
+        // Normalize the questions right away so the frontend handles uniform objects
+        const normalized = normalizeQuestions(data.questions || [], name);
+        allQuestions.push(...normalized);
       } catch (e) {
         console.warn(e.message);
         errors.push(e.tried || []);
@@ -168,7 +209,7 @@ document.addEventListener('DOMContentLoaded', function () {
       console.error(msg);
       if (questionText) {
         questionText.textContent =
-          'No questions found. Ensure your JSON files are in ./, assets/, or assets/json/, and run via a local server.';
+          'No questions found. Ensure your JSON files are in the assets/ folder, and run via a local server.';
       }
     }
 
@@ -251,9 +292,11 @@ document.addEventListener('DOMContentLoaded', function () {
       questionText.insertAdjacentElement('afterend', questionImageContainer);
     }
 
-    // UPDATED: Extended letters array to cleanly support 5 choice blocks (A-E)
+    // UPDATED: Standardized letters mapping array (A-E)
     const letters = ['A', 'B', 'C', 'D', 'E'];
-    (question.choices || []).forEach((choiceText, i) => {
+    const currentOptions = question.options || [];
+
+    currentOptions.forEach((choiceText, i) => {
       const choiceElement = document.createElement('div');
       choiceElement.className = 'choice';
       choiceElement.innerHTML = `
@@ -264,8 +307,7 @@ document.addEventListener('DOMContentLoaded', function () {
       // If user already clicked a choice previously, show correctness state immediately
       if (userAnswers[index] !== null) {
         const selectedIdx = userAnswers[index];
-        const correctAnswerLetter = String(question.answer || '').toUpperCase().trim();
-        const correctIndex = correctAnswerLetter.charCodeAt(0) - 65;
+        const correctIndex = question.answer; // Pre-normalized to index integer
 
         if (i === correctIndex) {
           choiceElement.classList.add('correct');
@@ -290,8 +332,8 @@ document.addEventListener('DOMContentLoaded', function () {
           child.classList.remove('correct', 'incorrect');
         });
 
-        const correctAnswerLetter = String(question.answer || '').toUpperCase().trim();
-        const isAnswerCorrect = (letters[i] === correctAnswerLetter);
+        const correctIndex = question.answer; // Pre-normalized index integer
+        const isAnswerCorrect = (i === correctIndex);
 
         // AUTOMATIC UNIT PARSING FROM FILENAME PREFIX
         const questionUnit = getUnitFromFilename(question._sourceFile);
@@ -304,7 +346,6 @@ document.addEventListener('DOMContentLoaded', function () {
         } else {
           highlightIncorrect(choiceElement);
           // Also highlight the correct answer
-          const correctIndex = correctAnswerLetter.charCodeAt(0) - 65; // 'A' -> 0
           if (correctIndex >= 0 && correctIndex < choicesContainer.children.length) {
             choicesContainer.children[correctIndex].classList.add('correct');
           }
@@ -337,9 +378,10 @@ document.addEventListener('DOMContentLoaded', function () {
         ? `<img src="assets/${detailImgName}" alt="Explanation image" class="explanation-image">`
         : '';
 
+    // Uses the normalized explanation property
     answerExplanation.innerHTML = `
       <h3>Explanation</h3>
-      <p>${question.detail || 'No explanation provided.'}</p>
+      <p>${question.explanation || 'No explanation provided.'}</p>
       ${detailImgHtml}
     `;
   }
@@ -349,6 +391,7 @@ document.addEventListener('DOMContentLoaded', function () {
     el.classList.add('correct');
   }
 
+  // --- Helpers to adjust dynamic style tags ---
   function highlightIncorrect(el) {
     el.classList.add('incorrect');
   }

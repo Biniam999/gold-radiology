@@ -1,0 +1,1304 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "A 40-year-old male presents with shortness of breath. He also has lower back pain and stiffness of the spine. A chest radiograph shows bilateral upper-zone fibrosis with elevation of the hila. Spinal ligamentous ossification is also noted. High-resolution CT shows peripheral interstitial changes with traction bronchiectasis and paraseptal emphysematous changes in the upper zones. What is the most likely diagnosis?",
+      "choices": [
+        "A. ankylosing spondylitis",
+        "B. Reiter’s syndrome",
+        "C. tuberculosis",
+        "D. sarcoidosis",
+        "E. chronic extrinsic allergic alveolitis"
+      ],
+      "answer": "A",
+      "detail": "Pulmonary changes occur in ankylosing spondylitis in 1% of patients, with reticulonodular abnormality in the upper zones progressing to confluent opacification and fibrosis. Ossification of spinal ligaments is typical in ankylosing spondylitis."
+    },
+    {
+      "number": 2,
+      "question": "Which of the following is the most likely finding in a 56-year-old female patient with shortness of breath where a high-resolution CT scan shows mosaic perfusion with no air trapping on expiratory scan?",
+      "choices": [
+        "A. bronchiolitis obliterans",
+        "B. cystic fibrosis",
+        "C. hypersensitivity pneumonitis",
+        "D. chronic thromboembolic disease",
+        "E. asthma"
+      ],
+      "answer": "D",
+      "detail": "Mosaic perfusion with no air trapping on expiratory scans suggests vascular obstruction such as chronic thromboembolic disease."
+    },
+    {
+      "number": 3,
+      "question": "A 28-year-old male with known Marfan’s syndrome presents with chest pain and shortness of breath. What are the most likely echocardiogram findings?",
+      "choices": [
+        "A. aortic regurgitation and dilatation",
+        "B. pulmonary stenosis",
+        "C. aortic stenosis and post-stenotic dilatation",
+        "D. global myocardial wall thickening",
+        "E. ventricular septal defect"
+      ],
+      "answer": "A",
+      "detail": "Marfan's syndrome often features myxomatous degeneration of the aortic wall, leading to dilatation of the aortic root and aortic regurgitation."
+    },
+    {
+      "number": 4,
+      "question": "Into which structure does the thoracic duct normally drain?",
+      "choices": [
+        "A. left brachiocephalic vein",
+        "B. left internal jugular vein",
+        "C. left subclavian vein",
+        "D. superior vena cava",
+        "E. junction of left subclavian and internal jugular veins"
+      ],
+      "answer": "E",
+      "detail": "The thoracic duct typically drains into the junction of the left subclavian and internal jugular veins."
+    },
+    {
+      "number": 5,
+      "question": "A 28-year-old female undergoes uterine artery embolization for a large fibroid. What is the commonest complication occurring in the first 12 months following this procedure?",
+      "choices": [
+        "A. premature ovarian failure",
+        "B. failure of therapy with need for re-embolization or hysterectomy",
+        "C. hysterectomy for uterine infection or pain",
+        "D. persistent non-offensive vaginal discharge",
+        "E. post-embolization syndrome"
+      ],
+      "answer": "D",
+      "detail": "Persistent non-offensive vaginal discharge is the most common complication in the first 12 months following uterine artery embolization."
+    },
+    {
+      "number": 6,
+      "question": "A 55-year-old presents with chest pain and bilateral, symmetrical, hilar adenopathy. Which feature on cardiac MRI would make cardiac sarcoid a more likely diagnosis than ischaemia?",
+      "choices": [
+        "A. delayed hyperenhancement of lateral wall",
+        "B. full-thickness, abnormal, high T2 signal in lateral wall",
+        "C. reduced inferior wall motility",
+        "D. partial-thickness, abnormal, high T2 signal with subendocardial sparing at base of septum",
+        "E. segmental area of reduced enhancement in lateral wall on early phase study"
+      ],
+      "answer": "D",
+      "detail": "Abnormal high T2 signal with subendocardial sparing at the base of the septum is more characteristic of cardiac sarcoid."
+    },
+    {
+      "number": 7,
+      "question": "Which of the following best describes the radiographic changes seen in acute rejection of a lung transplant?",
+      "choices": [
+        "A. mosaic perfusion and air trapping",
+        "B. pleural effusion and septal thickening with no left ventricular dysfunction",
+        "C. bilateral consolidation at the bases",
+        "D. increased lung volumes",
+        "E. globular heart and bat-wing perihilar consolidation"
+      ],
+      "answer": "B",
+      "detail": "Acute rejection typically presents with pleural effusion and septal thickening without left ventricular dysfunction."
+    },
+    {
+      "number": 8,
+      "question": "An 87-year-old male with fever and cough has dense consolidation in the right mid-zone with a bulging oblique fissure. What is the most likely diagnosis?",
+      "choices": [
+        "A. Haemophilus influenzae pneumonia",
+        "B. Staphylococcus aureus pneumonia",
+        "C. Streptococcus pneumoniae pneumonia",
+        "D. Klebsiella pneumonia",
+        "E. Legionnaires’ disease"
+      ],
+      "answer": "D",
+      "detail": "Klebsiella pneumonia is characteristically associated with dense consolidation and a bulging fissure."
+    },
+    {
+      "number": 9,
+      "question": "A 76-year-old female has a right upper lobe mass containing a crescent of air. Which feature on CT would make a cavitating malignancy more likely than aspergilloma?",
+      "choices": [
+        "A. thin cavity wall",
+        "B. high-density central mass",
+        "C. enhancing central mass",
+        "D. calcification",
+        "E. adjacent bronchiectasis"
+      ],
+      "answer": "C",
+      "detail": "In cavitating malignancy, the central mass often enhances and is fixed, whereas aspergillomas are mobile and do not typically enhance."
+    },
+    {
+      "number": 10,
+      "question": "A 42-year-old male with nosebleeds and renal impairment has multiple cavitary lesions predominantly in the lower lobes. What is the most likely diagnosis?",
+      "choices": [
+        "A. metastatic disease",
+        "B. Wegener’s granulomatosis",
+        "C. sarcoidosis",
+        "D. pyogenic abscesses",
+        "E. systemic lupus erythematosus"
+      ],
+      "answer": "B",
+      "detail": "Wegener's granulomatosis often presents with upper respiratory tract symptoms, renal impairment, and cavitary lung lesions."
+    },
+    {
+      "number": 11,
+      "question": "A 50-year-old male with known chronic asthma has a routine chest radiograph. Which feature is most likely to be seen?",
+      "choices": [
+        "A. hyperexpansion",
+        "B. peribronchial cuffing",
+        "C. bronchiectasis",
+        "D. parenchymal scars",
+        "E. normal chest radiograph"
+      ],
+      "answer": "E",
+      "detail": "In an asymptomatic patient with chronic asthma, the chest radiograph is most likely to be normal."
+    },
+    {
+      "number": 12,
+      "question": "A 65-year-old man has symmetrical periosteal reaction in the wrists and ankles and a pleurally based mass. What is the most likely diagnosis?",
+      "choices": [
+        "A. hypertrophic osteoarthropathy with bronchogenic carcinoma",
+        "B. hypertrophic osteoarthropathy with malignant mesothelioma",
+        "C. hypertrophic osteoarthropathy with pleural fibroma",
+        "D. rheumatoid arthritis",
+        "E. tuberculosis"
+      ],
+      "answer": "C",
+      "detail": "Hypertrophic osteoarthropathy associated with a localized, enhancing, pleurally based mass is characteristic of a pleural fibroma."
+    },
+    {
+      "number": 13,
+      "question": "A right-sided aortic arch with mirror-image branching is most frequently associated with which congenital cardiac abnormality?",
+      "choices": [
+        "A. pulmonary atresia and ventricular septal defect",
+        "B. truncus arteriosus",
+        "C. uncomplicated ventricular septal defect",
+        "D. Fallot’s tetralogy",
+        "E. corrected transposition of the great vessels"
+      ],
+      "answer": "D",
+      "detail": "Fallot’s tetralogy is the most common association for a right-sided aortic arch with mirror-image branching."
+    },
+    {
+      "number": 14,
+      "question": "A 68-year-old man with asbestos exposure has bilateral pleural thickening and a mass with curved bronchovascular markings coursing towards the hilum. What is the most likely diagnosis?",
+      "choices": [
+        "A. rounded atelectasis",
+        "B. bronchogenic carcinoma",
+        "C. tuberculosis",
+        "D. silicosis",
+        "E. round pneumonia"
+      ],
+      "answer": "A",
+      "detail": "The 'comet tail sign' of curved bronchovascular markings associated with pleural thickening is diagnostic of rounded atelectasis."
+    },
+    {
+      "number": 15,
+      "question": "A 43-year-old female with Churg–Strauss syndrome has a high-resolution CT. What is the most likely finding?",
+      "choices": [
+        "A. small centrilobular nodules",
+        "B. bullous disease",
+        "C. bilateral, symmetrical, hilar lymphadenopathy",
+        "D. tumour-like mass",
+        "E. pleural effusion"
+      ],
+      "answer": "A",
+      "detail": "Churg–Strauss syndrome typically shows centrilobular nodules and ground-glass opacities on HRCT."
+    },
+    {
+      "number": 16,
+      "question": "A 32-year-old male with weak lower limb pulses and a 'figure-3' indentation of the aorta has which diagnosis?",
+      "choices": [
+        "A. superior vena caval obstruction",
+        "B. aortic dissection",
+        "C. coarctation of the aorta",
+        "D. aortic thrombosis",
+        "E. transposition of the great vessels"
+      ],
+      "answer": "C",
+      "detail": "The 'figure-3' sign on chest radiograph and inferior rib notching are classic for coarctation of the aorta."
+    },
+    {
+      "number": 17,
+      "question": "A 25-year-old male with recurrent epistaxis and red vascular skin blemishes has lung opacities with bands extending to the hila. What is the diagnosis?",
+      "choices": [
+        "A. hereditary haemorrhagic telangiectasia",
+        "B. neurofibromatosis",
+        "C. tuberous sclerosis",
+        "D. Wegener’s granulomatosis",
+        "E. sarcoidosis"
+      ],
+      "answer": "A",
+      "detail": "Epistaxis, skin blemishes, and pulmonary arteriovenous malformations are classic features of HHT (Osler–Weber–Rendu)."
+    },
+    {
+      "number": 18,
+      "question": "From which vessel does the single right bronchial artery usually arise?",
+      "choices": [
+        "A. aorta",
+        "B. joint origin with left bronchial arteries",
+        "C. second posterior right intercostal artery",
+        "D. third posterior right intercostal artery",
+        "E. fourth posterior right intercostal artery"
+      ],
+      "answer": "D",
+      "detail": "The solitary right bronchial artery usually arises from the third posterior right intercostal artery."
+    },
+    {
+      "number": 19,
+      "question": "A patient with polyarteritis nodosa has acute loin pain. What is most likely to be seen on ultrasound?",
+      "choices": [
+        "A. hydronephrosis",
+        "B. a solid mass with a perinephric collection",
+        "C. multiple renal artery aneurysms and perinephric collection",
+        "D. crossed fused ectopia",
+        "E. small kidneys with increased echogenicity"
+      ],
+      "answer": "C",
+      "detail": "Polyarteritis nodosa characteristically causes multiple small intrarenal aneurysms, which may rupture to cause a perinephric collection."
+    },
+    {
+      "number": 20,
+      "question": "A 5-year-old with intermittent epigastric discomfort has transverse colon protruding through a defect anteriorly in a parasternal position. What is the diagnosis?",
+      "choices": [
+        "A. Bochdalek’s hernia",
+        "B. Morgagni’s hernia",
+        "C. rolling hiatus hernia",
+        "D. eventration",
+        "E. septum transversum defect"
+      ],
+      "answer": "B",
+      "detail": "A Morgagni hernia is an anteromedial developmental defect, most commonly occurring on the right side."
+    },
+    {
+      "number": 21,
+      "question": "A 45-year-old with allergies and malaise has resolving peripheral consolidation on chest radiographs and eosinophilia. What is the diagnosis?",
+      "choices": [
+        "A. pulmonary haemorrhage",
+        "B. simple pulmonary eosinophilia (Loeffler's syndrome)",
+        "C. hypersensitivity pneumonitis",
+        "D. sarcoidosis",
+        "E. pulmonary emboli"
+      ],
+      "answer": "B",
+      "detail": "Migratory or transient peripheral consolidation with eosinophilia is classic for Loeffler’s syndrome."
+    },
+    {
+      "number": 22,
+      "question": "Following blunt trauma, which finding at CT is most suggestive of tracheal injury?",
+      "choices": [
+        "A. pneumomediastinum",
+        "B. bilateral pneumothorax",
+        "C. mediastinal haematoma",
+        "D. focal overdistension of endotracheal tube cuff",
+        "E. chylothorax"
+      ],
+      "answer": "D",
+      "detail": "Focal overdistension of the endotracheal tube cuff (ballooning) is a highly suggestive CT sign of a tracheal tear."
+    },
+    {
+      "number": 23,
+      "question": "On an FDG PET scan, which of the following focal uptake sites is least concerning for malignancy?",
+      "choices": [
+        "A. diffuse thyroid uptake",
+        "B. symmetrical nasopharyngeal tonsil uptake",
+        "C. diffuse uptake in caecal wall",
+        "D. focal paravertebral muscle uptake",
+        "E. focal uterine cavity uptake"
+      ],
+      "answer": "D",
+      "detail": "While focal muscle uptake can be concerning, it often has benign causes; however, symmetrical tonsillar or diffuse caecal uptake is typically physiological."
+    },
+    {
+      "number": 24,
+      "question": "A 42-year-old with tuberous sclerosis has a large perinephric haematoma 48 hours after embolization of a 7 cm renal angiomyolipoma. What is the cause?",
+      "choices": [
+        "A. vascular trauma during embolization",
+        "B. spontaneous haemorrhage from non-embolized lesion",
+        "C. post-embolization rupture",
+        "D. revascularization of embolized lesion",
+        "E. inadequate embolization material used"
+      ],
+      "answer": "C",
+      "detail": "Post-embolization rupture is a recognized, albeit rare, complication of large renal AML treatment."
+    },
+    {
+      "number": 25,
+      "question": "In ventilation–perfusion scintigraphy, which finding is suggestive of an intermediate probability of pulmonary embolism?",
+      "choices": [
+        "A. matched non-segmental defects with a normal chest radiograph",
+        "B. multiple unmatched small perfusion defects with normal ventilation",
+        "C. large, segmental, matched defect with similar-sized opacity on chest radiograph",
+        "D. reverse mismatch",
+        "E. two large, unmatched, segmental, perfusion defects"
+      ],
+      "answer": "C",
+      "detail": "Large matched segmental defects with corresponding radiographic opacities are categorized as intermediate probability."
+    },
+    {
+      "number": 26,
+      "question": "A 78-year-old with superior vena caval syndrome has an irregular superior mediastinal mass. There is no respiratory compromise. What is the most appropriate next step?",
+      "choices": [
+        "A. obtain tissue diagnosis",
+        "B. chemotherapy",
+        "C. radiotherapy",
+        "D. stenting of superior vena cava",
+        "E. surgical bypass"
+      ],
+      "answer": "A",
+      "detail": "In the absence of life-threatening complications, obtaining a tissue diagnosis is the priority to guide specific therapy."
+    },
+    {
+      "number": 27,
+      "question": "A 65-year-old male with a history of tuberculosis has facial swelling and an irregular paratracheal calcified mass compressing the SVC. What is the diagnosis?",
+      "choices": [
+        "A. small-cell carcinoma",
+        "B. lymphoma",
+        "C. malignant teratoma",
+        "D. fibrosing mediastinitis",
+        "E. bronchogenic cyst"
+      ],
+      "answer": "D",
+      "detail": "Fibrosing mediastinitis is often secondary to TB and characteristically causes a calcified mass that compresses mediastinal structures."
+    },
+    {
+      "number": 28,
+      "question": "A chest radiograph shows fine calcification Overland the cardiac silhouette adjacent to the left sternal edge at the 4th intercostal space. What is the cause?",
+      "choices": [
+        "A. rheumatic heart disease",
+        "B. bicuspid valve",
+        "C. syphilis",
+        "D. ankylosing spondylitis",
+        "E. normal ageing"
+      ],
+      "answer": "A",
+      "detail": "The location is consistent with mitral valve calcification, which is most commonly due to rheumatic heart disease."
+    },
+    {
+      "number": 29,
+      "question": "A 37-year-old male feels unwell the day after smoke inhalation. What is the most likely chest radiograph finding now?",
+      "choices": [
+        "A. pulmonary oedema",
+        "B. pleural effusions",
+        "C. upper-zone consolidation",
+        "D. diffuse reticular change",
+        "E. pneumothorax"
+      ],
+      "answer": "A",
+      "detail": "Pulmonary oedema often develops 12–24 hours after smoke inhalation injury."
+    },
+    {
+      "number": 30,
+      "question": "A 40-year-old female with low IQ and seizures has extensive honeycombing and normal lung volumes. What is the diagnosis?",
+      "choices": [
+        "A. sarcoidosis",
+        "B. cystic fibrosis",
+        "C. tuberous sclerosis",
+        "D. lymphangiomyomatosis",
+        "E. idiopathic pulmonary fibrosis"
+      ],
+      "answer": "C",
+      "detail": "Lymphangiomyomatosis (LAM) is associated with tuberous sclerosis and presents with thin-walled cysts/honeycombing and normal or high lung volumes."
+    },
+    {
+      "number": 31,
+      "question": "A 28-year-old male involved in an RTA has tracheal shift to the right, depression of the left main bronchus, and loss of aortic knuckle clarity. What diagnosis should be considered?",
+      "choices": [
+        "A. aortic rupture",
+        "B. bronchial rupture",
+        "C. superior vena caval laceration",
+        "D. azygos vein injury",
+        "E. internal mammary artery injury"
+      ],
+      "answer": "A",
+      "detail": "These radiographic signs are classic for a traumatic aortic rupture/haematoma."
+    },
+    {
+      "number": 32,
+      "question": "A 27-year-old with sickle cell disease has a right-sided lobulated paravertebral mass with widened rib spaces. What is the most likely diagnosis?",
+      "choices": [
+        "A. neurogenic tumour",
+        "B. bronchogenic cyst",
+        "C. Bochdalek’s hernia",
+        "D. tuberculous abscess",
+        "E. extramedullary haematopoiesis"
+      ],
+      "answer": "E",
+      "detail": "Extramedullary haematopoiesis, seen in chronic anaemias like sickle cell, often presents as paraspinal masses."
+    },
+    {
+      "number": 33,
+      "question": "A 50-year-old with dyspnoea has 'bat-wing' consolidation and 'crazy-paving' on CT. What is the most likely diagnosis?",
+      "choices": [
+        "A. pulmonary oedema",
+        "B. atypical pneumonia",
+        "C. pulmonary alveolar proteinosis",
+        "D. acute respiratory distress syndrome",
+        "E. hypersensitivity pneumonitis"
+      ],
+      "answer": "C",
+      "detail": "Pulmonary alveolar proteinosis is the classic cause of a 'crazy-paving' pattern on CT."
+    },
+    {
+      "number": 34,
+      "question": "A 56-year-old male has a mass within the right middle lobe bronchus with distal collapse. Which feature would make hamartoma more likely than carcinoid?",
+      "choices": [
+        "A. central location",
+        "B. presence of calcification",
+        "C. cavitation",
+        "D. presence of fat",
+        "E. prominent enhancement"
+      ],
+      "answer": "D",
+      "detail": "The presence of fat within a well-defined endobronchial or peripheral mass is diagnostic of hamartoma."
+    },
+    {
+      "number": 35,
+      "question": "A 52-year-old female on dialysis has upper-lobe-predominant airspace-type opacities with calcification and chest wall vessel calcification. What is the cause?",
+      "choices": [
+        "A. varicella",
+        "B. chronic renal failure",
+        "C. tuberculosis",
+        "D. histoplasmosis",
+        "E. talcosis"
+      ],
+      "answer": "B",
+      "detail": "Metastatic pulmonary calcification is seen in chronic renal failure, typically in an upper lobe distribution."
+    },
+    {
+      "number": 36,
+      "question": "A 75-year-old former mine worker has nodules and a sausage-shaped mass paralleling the mediastinum. What is the diagnosis?",
+      "choices": [
+        "A. coal worker’s pneumoconiosis with bronchogenic carcinoma",
+        "B. coal worker’s pneumoconiosis with progressive massive fibrosis",
+        "C. tuberculosis",
+        "D. primary lung carcinoma with metastases",
+        "E. chronic extrinsic allergic alveolitis"
+      ],
+      "answer": "B",
+      "detail": "Progressive massive fibrosis (PMF) often presents as sausage-shaped masses in the upper zones in pneumoconiosis patients."
+    },
+    {
+      "number": 37,
+      "question": "A 25-year-old male with childhood lung infections has a hyperlucent left lung with reduced perfusion and delayed ventilation washout. What is the diagnosis?",
+      "choices": [
+        "A. acute pulmonary embolus",
+        "B. Macleod’s syndrome",
+        "C. congenital lobar emphysema",
+        "D. Poland’s syndrome",
+        "E. hypogenetic lung syndrome"
+      ],
+      "answer": "B",
+      "detail": "Macleod's (or Swyer–James) syndrome is an acquired condition following childhood bronchiolitis obliterans, presenting with a hyperlucent lung."
+    },
+    {
+      "number": 38,
+      "question": "Which of the following is the most typical description of an atrial myxoma?",
+      "choices": [
+        "A. left atrial mass, no atrial enlargement, pulmonary oedema",
+        "B. right atrial mass, enlarged right atrium, clear lungs",
+        "C. left atrial mass, enlarged left atrium, calcified lung nodules, pulmonary oedema",
+        "D. right atrial mass, enlarged right atrium, pulmonary oedema",
+        "E. left atrial mass, dilated SVC, IVC and azygos vein"
+      ],
+      "answer": "C",
+      "detail": "Left atrial myxomas typically cause obstruction leading to left atrial enlargement and pulmonary venous congestion."
+    },
+    {
+      "number": 39,
+      "question": "A 58-year-old male with a paravertebral mass that is fatty but has calcification and soft-tissue enhancement likely has which diagnosis?",
+      "choices": [
+        "A. lipoma",
+        "B. liposarcoma",
+        "C. hamartoma",
+        "D. neurofibroma",
+        "E. thymolipoma"
+      ],
+      "answer": "B",
+      "detail": "Soft-tissue components and enhancement within a fatty mass favor liposarcoma over a simple lipoma."
+    },
+    {
+      "number": 40,
+      "question": "In patients with rheumatoid arthritis, what is the commonest pulmonary finding seen on the chest radiograph?",
+      "choices": [
+        "A. pleural effusion",
+        "B. fibrosis",
+        "C. pulmonary nodules",
+        "D. bronchiectasis",
+        "E. heart failure"
+      ],
+      "answer": "A",
+      "detail": "Pleural disease, particularly effusions or thickening, is the most common lung manifestation of RA."
+    },
+    {
+      "number": 41,
+      "question": "A smooth, tubular opacity adjacent to the right heart border is seen in a 35-year-old male. What is the most likely diagnosis?",
+      "choices": [
+        "A. pulmonary contusion",
+        "B. pneumothorax",
+        "C. pericardial injury",
+        "D. extralobar sequestration",
+        "E. partial anomalous pulmonary venous return"
+      ],
+      "answer": "E",
+      "detail": "The 'scimitar sign' describes an anomalous pulmonary vein draining into the IVC or RA, appearing as a tubular opacity."
+    },
+    {
+      "number": 42,
+      "question": "In multidetector CT angiography, which technique reduces the effects of calcification?",
+      "choices": [
+        "A. curved planar reformat",
+        "B. maximum-intensity projection",
+        "C. minimum-intensity projection",
+        "D. volume rendering",
+        "E. digital subtraction of pre- and post-contrast studies"
+      ],
+      "answer": "E",
+      "detail": "Digital subtraction allows the removal of calcified plaque from the final angiographic images."
+    },
+    {
+      "number": 43,
+      "question": "A 52-year-old male with a raised left hemidiaphragm showing paradoxical movement likely has which condition?",
+      "choices": [
+        "A. Pancoast’s tumour",
+        "B. left lower lobe tumour",
+        "C. mediastinal small cell carcinoma",
+        "D. eventration",
+        "E. cerebrovascular accident"
+      ],
+      "answer": "C",
+      "detail": "Phrenic nerve palsy, causing paradoxical movement, is often due to invasion by mediastinal malignancy."
+    },
+    {
+      "number": 44,
+      "question": "A 6 cm abdominal aortic aneurysm with high T1 signal in mural thrombus and no perianeurysmal fluid requires what management?",
+      "choices": [
+        "A. follow-up with ultrasound scan",
+        "B. follow-up with CT",
+        "C. follow-up with MRI",
+        "D. routine referral to vascular surgeon",
+        "E. emergency assessment by vascular surgeon"
+      ],
+      "answer": "E",
+      "detail": "Intramural haemorrhage (high T1 signal) within an aneurysm is an unstable sign requiring urgent surgical evaluation."
+    },
+    {
+      "number": 45,
+      "question": "A 44-year-old male has a 20 mm solitary pulmonary nodule with a central cavity and smooth internal walls. What investigation is needed?",
+      "choices": [
+        "A. none; findings are entirely benign",
+        "B. CT enhancement study",
+        "C. interval volumetric CT",
+        "D. contrast MRI",
+        "E. 18FDG PET/CT scan"
+      ],
+      "answer": "E",
+      "detail": "Solitary pulmonary nodules over 10 mm require further evaluation, with PET/CT being a common next step."
+    },
+    {
+      "number": 46,
+      "question": "The vessel supplying the sinoatrial node most commonly arises from which structure?",
+      "choices": [
+        "A. LAD",
+        "B. circumflex artery",
+        "C. right coronary artery",
+        "D. right coronary sinus",
+        "E. left coronary artery main stem"
+      ],
+      "answer": "C",
+      "detail": "The sinoatrial node artery typically arises from the RCA in about 60% of individuals."
+    },
+    {
+      "number": 47,
+      "question": "In cardiac MRI for hypertrophic cardiomyopathy, mass is best assessed in which plane?",
+      "choices": [
+        "A. LV vertical long axis",
+        "B. LV horizontal long axis",
+        "C. LV short axis",
+        "D. LV short axis oblique",
+        "E. four-chamber plane"
+      ],
+      "answer": "D",
+      "detail": "The short axis oblique plane is standard for assessing left ventricular muscle mass."
+    },
+    {
+      "number": 48,
+      "question": "Which Doppler ultrasound feature suggests occlusion of the right brachiocephalic vein?",
+      "choices": [
+        "A. collapse of right internal jugular vein on sniffing",
+        "B. variation of flow with respiration in right subclavian vein",
+        "C. variation with cardiac cycle in right subclavian vein",
+        "D. continuous monophasic flow in the right subclavian vein",
+        "E. collapse of the left internal jugular vein on sniffing"
+      ],
+      "answer": "D",
+      "detail": "Continuous monophasic flow with loss of cardiac and respiratory variation indicates a more central venous obstruction."
+    },
+    {
+      "number": 49,
+      "question": "A superior mediastinal mass with tracheal narrowing and displacement in a 43-year-old female is likely what?",
+      "choices": [
+        "A. thymoma",
+        "B. teratoma",
+        "C. aneurysm of the aortic arch",
+        "D. thyroid goitre",
+        "E. lymph node mass"
+      ],
+      "answer": "D",
+      "detail": "Superior mediastinal masses with calcification and tracheal displacement are most commonly thyroid goitres."
+    },
+    {
+      "number": 50,
+      "question": "Which PET/CT technique helps characterize a 2 cm rounded mass in the lung apex using SUV?",
+      "choices": [
+        "A. maximum SUV corrected for lean body mass",
+        "B. maximum SUV corrected for body weight",
+        "C. metabolic tumour burden",
+        "D. dual time point assessment of SUV",
+        "E. assessment of SUV centrally and peripherally"
+      ],
+      "answer": "D",
+      "detail": "Dual time point imaging, measuring SUV at 60 and 120 minutes, can help differentiate malignancy from inflammation."
+    },
+    {
+      "number": 51,
+      "question": "A 20-year-old with a pericarinal mass of 10 HU likely has which diagnosis?",
+      "choices": [
+        "A. bronchogenic cyst",
+        "B. pericardial cyst",
+        "C. carcinoid tumour",
+        "D. lymphoma",
+        "E. bronchogenic carcinoma"
+      ],
+      "answer": "A",
+      "detail": "Bronchogenic cysts are typically found in a pericarinal location and show fluid attenuation (0–10 HU)."
+    },
+    {
+      "number": 52,
+      "question": "A 16-year-old with a pneumothorax and calcified lung nodules likely has metastases from what?",
+      "choices": [
+        "A. Wilms’ tumour",
+        "B. osteosarcoma",
+        "C. testicular tumour",
+        "D. abscesses",
+        "E. varicella pneumonia"
+      ],
+      "answer": "B",
+      "detail": "Osteosarcoma characteristically presents with calcified pulmonary metastases and can cause spontaneous pneumothorax."
+    },
+    {
+      "number": 53,
+      "question": "A right hilar mass with ipsilateral reticulation, beaded septal thickening, and Kerley lines suggests what?",
+      "choices": [
+        "A. lymphangitis carcinomatosis",
+        "B. idiopathic pulmonary fibrosis",
+        "C. extrinsic allergic alveolitis",
+        "D. histiocytosis",
+        "E. sarcoidosis"
+      ],
+      "answer": "A",
+      "detail": "Unilateral lymphangitis carcinomatosis is almost always due to bronchogenic carcinoma."
+    },
+    {
+      "number": 54,
+      "question": "A 38-year-old male with thin-walled cysts and centrilobular nodules in the lungs likely has what?",
+      "choices": [
+        "A. neurofibromatosis",
+        "B. tuberous sclerosis",
+        "C. lymphangiomyomatosis",
+        "D. histocytosis",
+        "E. usual interstitial pneumonitis"
+      ],
+      "answer": "D",
+      "detail": "Langerhans cell histiocytosis characteristically presents with small nodules that progress to thin-walled cysts."
+    },
+    {
+      "number": 55,
+      "question": "In patients undergoing lung resection, which imaging investigation is the best predictor of postoperative function?",
+      "choices": [
+        "A. perfusion scintigraphy",
+        "B. ventilation scintigraphy",
+        "C. ventilation and perfusion scintigraphy",
+        "D. helical CT",
+        "E. dynamic MRI"
+      ],
+      "answer": "B",
+      "detail": "Ventilation scintigraphy is considered the best predictor of postoperative FEV1."
+    },
+    {
+      "number": 56,
+      "question": "A patient with rib fractures develops a rounded opacity with an air–fluid level after initial consolidation resolves. What is the diagnosis?",
+      "choices": [
+        "A. abscess",
+        "B. bronchopleural fistula",
+        "C. bronchogenic cyst",
+        "D. pulmonary infarct",
+        "E. pulmonary laceration"
+      ],
+      "answer": "E",
+      "detail": "A pulmonary laceration can fill with blood or air, presenting as a post-traumatic cyst (pneumatocele/haematocele)."
+    },
+    {
+      "number": 57,
+      "question": "A 52-year-old, 1-year post-heart transplant, has multiple lung nodules and hilar adenopathy. What is the diagnosis?",
+      "choices": [
+        "A. graft-versus-host disease",
+        "B. aspergillosis",
+        "C. cytomegalovirus infection",
+        "D. post-transplantation lymphoproliferative disorder",
+        "E. Epstein–Barr virus infection"
+      ],
+      "answer": "D",
+      "detail": "PTLD is a recognized complication of chronic immunosuppression and often presents with nodules and adenopathy."
+    },
+    {
+      "number": 58,
+      "question": "A 48-year-old female has a rounded 2 cm hepatic artery lesion with arterial flow following a biopsy. What is the treatment?",
+      "choices": [
+        "A. injection of thrombin",
+        "B. transcatheter coil embolization",
+        "C. transcatheter placement of covered stent",
+        "D. embolization of hepatic artery",
+        "E. no endovascular treatment"
+      ],
+      "answer": "B",
+      "detail": "Visceral pseudoaneurysms, particularly those that are iatrogenic, are typically treated with coil embolization."
+    },
+    {
+      "number": 59,
+      "question": "Which lung segments are separated by the superior accessory fissure?",
+      "choices": [
+        "A. apical segment of lower lobes from other lower lobe segments",
+        "B. apical segment of right upper lobe",
+        "C. superior segment of lingula",
+        "D. lingular segment of upper lobe",
+        "E. right middle lobe"
+      ],
+      "answer": "A",
+      "detail": "The superior accessory fissure separates the apical segment of the lower lobe from the basal segments."
+    },
+    {
+      "number": 60,
+      "question": "In normal anatomy, which vascular structure lies most anteriorly posterior to the manubrium?",
+      "choices": [
+        "A. left common carotid artery",
+        "B. brachiocephalic artery",
+        "C. superior vena cava",
+        "D. left brachiocephalic vein",
+        "E. right brachiocephalic vein"
+      ],
+      "answer": "D",
+      "detail": "The left brachiocephalic vein is the most anterior vascular structure at the thoracic inlet."
+    },
+    {
+      "number": 61,
+      "question": "Which description is most suggestive of a pulmonary hamartoma?",
+      "choices": [
+        "A. round 2 cm central mass with no fat",
+        "B. irregular 8 cm mass with cavitation",
+        "C. multiple calcified lesions",
+        "D. lobulated 3 cm mass with calcification and fat in the periphery",
+        "E. 5 cm peripheral lesion with connecting bands"
+      ],
+      "answer": "D",
+      "detail": "Hamartomas are typically peripheral and often contain fat or 'popcorn' calcification."
+    },
+    {
+      "number": 62,
+      "question": "In persistent left-sided SVC, where does drainage usually occur?",
+      "choices": [
+        "A. left atrium",
+        "B. right atrium",
+        "C. normal right SVC",
+        "D. hemiazygos vein",
+        "E. coronary sinus"
+      ],
+      "answer": "E",
+      "detail": "Persistent left SVC most commonly drains into the coronary sinus."
+    },
+    {
+      "number": 63,
+      "question": "An 18-year-old with dextrocardia, polyposis, and bronchiectasis should have which further investigation?",
+      "choices": [
+        "A. renal function",
+        "B. CT brain",
+        "C. fertility assessment",
+        "D. renal angiogram",
+        "E. thyroid function test"
+      ],
+      "answer": "C",
+      "detail": "Kartagener’s syndrome features this triad and is associated with male infertility due to sperm dysmotility."
+    },
+    {
+      "number": 64,
+      "question": "A mass between the aortic arch and pulmonary artery may cause which presentation?",
+      "choices": [
+        "A. stridor",
+        "B. dysphagia",
+        "C. pain",
+        "D. swelling of face and neck",
+        "E. hoarse voice"
+      ],
+      "answer": "E",
+      "detail": "The recurrent laryngeal nerve passes through the aortopulmonary window and its compression causes hoarseness."
+    },
+    {
+      "number": 65,
+      "question": "A 65-year-old male with asthma needs myocardial perfusion imaging but cannot exercise. Which agent should be used?",
+      "choices": [
+        "A. adenosine",
+        "B. dipyridamole",
+        "C. dobutamine",
+        "D. glyceryl trinitrate",
+        "E. arbutamine"
+      ],
+      "answer": "C",
+      "detail": "Dobutamine is the preferred stress agent in patients with reactive airway disease like asthma."
+    },
+    {
+      "number": 66,
+      "question": "After EVAR, a sac increase is seen with contrast in the periphery not contacting the stent. What is the diagnosis?",
+      "choices": [
+        "A. type I endoleak",
+        "B. type II endoleak",
+        "C. type III endoleak",
+        "D. type IV endoleak",
+        "E. type V endoleak"
+      ],
+      "answer": "B",
+      "detail": "Type II endoleaks arise from collateral vessels (e.g., IMA/lumbar arteries) and contrast is seen in the sac periphery."
+    },
+    {
+      "number": 67,
+      "question": "In thoracic lymphoma, which feature would favour Non-Hodgkin over Hodgkin disease?",
+      "choices": [
+        "A. anterior mediastinal nodal involvement",
+        "B. middle mediastinal nodal involvement",
+        "C. posterior mediastinal nodal involvement",
+        "D. nodal calcification",
+        "E. mass larger than 5 cm"
+      ],
+      "answer": "C",
+      "detail": "Hodgkin's rarely involves the posterior mediastinal nodes, whereas NHL is more common in this location."
+    },
+    {
+      "number": 68,
+      "question": "Which structure lies immediately anterior to the left main bronchus at the hilum?",
+      "choices": [
+        "A. left pulmonary artery",
+        "B. left inferior pulmonary vein",
+        "C. left superior pulmonary vein",
+        "D. left phrenic nerve",
+        "E. left vagus nerve"
+      ],
+      "answer": "C",
+      "detail": "The left superior pulmonary vein is the most anterior structure in the left hilum."
+    },
+    {
+      "number": 69,
+      "question": "Which feature on CT makes restrictive cardiomyopathy more likely than constrictive pericarditis?",
+      "choices": [
+        "A. dilated inferior vena cava",
+        "B. pleural effusions",
+        "C. normal pericardial thickness",
+        "D. pericardial calcification",
+        "E. previous surgery"
+      ],
+      "answer": "C",
+      "detail": "Pericardial thickness > 4 mm is characteristic of constrictive pericarditis, while normal thickness points to RCM."
+    },
+    {
+      "number": 70,
+      "question": "Which structure forms the right mediastinal border along with the right atrium and SVC?",
+      "choices": [
+        "A. right brachiocephalic vein",
+        "B. inferior vena cava",
+        "C. right ventricle",
+        "D. trachea",
+        "E. brachiocephalic artery"
+      ],
+      "answer": "A",
+      "detail": "In adults, the right border is formed by the right brachiocephalic vein, SVC, and right atrium."
+    },
+    {
+      "number": 71,
+      "question": "In bronchopulmonary sequestration, which feature suggests intralobar over extralobar?",
+      "choices": [
+        "A. enclosed in visceral pleura",
+        "B. no connection to bronchial tree",
+        "C. systemic venous drainage",
+        "D. presentation in infancy",
+        "E. systemic arterial supply"
+      ],
+      "answer": "A",
+      "detail": "Intralobar sequestrations are enclosed within the same visceral pleura as the rest of the lung."
+    },
+    {
+      "number": 72,
+      "question": "In a mediastinal teratoma, which feature suggests it is benign?",
+      "choices": [
+        "A. lobulated margin",
+        "B. calcification",
+        "C. pleural effusion",
+        "D. pericardial effusion",
+        "E. mass projecting from both sides"
+      ],
+      "answer": "B",
+      "detail": "Calcification, especially in the form of a tooth, is suggestive of a benign nature in teratomas."
+    },
+    {
+      "number": 73,
+      "question": "A 24-hour post-embolization patient has loin pain, fever, and gas in a non-enhancing renal tumor. What is the diagnosis?",
+      "choices": [
+        "A. UTI",
+        "B. pyelonephritis",
+        "C. abscess",
+        "D. post-embolization syndrome",
+        "E. non-target embolization"
+      ],
+      "answer": "D",
+      "detail": "Post-embolization syndrome is common after renal artery embolization and can cause fever, pain, and gas in necrotic tissue."
+    },
+    {
+      "number": 74,
+      "question": "Which feature would suggest sarcoidosis over rheumatoid lung?",
+      "choices": [
+        "A. lower-zone reticulation",
+        "B. mid-zone reticulation",
+        "C. pleural effusion",
+        "D. multiple nodules > 20 mm",
+        "E. cardiomegaly"
+      ],
+      "answer": "B",
+      "detail": "Sarcoidosis typically shows a mid-to-upper-zone predominance, while RA usually affects the bases."
+    },
+    {
+      "number": 75,
+      "question": "What is the uterine radiation dose for CTPA relative to V/Q scintigraphy?",
+      "choices": [
+        "A. higher body, lower uterine",
+        "B. same body, lower uterine",
+        "C. higher both",
+        "D. lower both",
+        "E. higher body, same uterine"
+      ],
+      "answer": "A",
+      "detail": "CTPA has a higher total body dose but a lower uterine dose compared to V/Q scanning."
+    },
+    {
+      "number": 76,
+      "question": "Which appearance is most in keeping with pulmonary hydatid disease?",
+      "choices": [
+        "A. multiple subcentimetre nodules",
+        "B. patchy alveolar changes",
+        "C. solitary mass with air–fluid level and floating debris",
+        "D. bilateral basal reticular change",
+        "E. 3 cm mass with central calcification"
+      ],
+      "answer": "C",
+      "detail": "Ruptured hydatid cysts characteristically show an air-fluid level and the 'water-lily sign' of floating membranes."
+    },
+    {
+      "number": 77,
+      "question": "A 56-year-old female has clavicle erosion, rib notching, and narrowed humeral–acromial space. What is the diagnosis?",
+      "choices": [
+        "A. hyperparathyroidism",
+        "B. rheumatoid arthritis",
+        "C. osteoarthritis",
+        "D. cleidocranial dysostosis",
+        "E. neurofibromatosis"
+      ],
+      "answer": "B",
+      "detail": "Rheumatoid arthritis can cause erosion of the lateral clavicles and superior rib notching."
+    },
+    {
+      "number": 78,
+      "question": "In the left lower lobe, which bronchi share a common origin?",
+      "choices": [
+        "A. posterior and lateral basal",
+        "B. lateral and anterior basal",
+        "C. anterior and medial basal",
+        "D. medial and posterior basal",
+        "E. apical and posterior basal"
+      ],
+      "answer": "C",
+      "detail": "On the left side, the anterior basal and medial basal segmental bronchi usually share a common trunk."
+    },
+    {
+      "number": 79,
+      "question": "A 35-year-old female smoker has multiple bilateral renal artery stenoses. What is the treatment?",
+      "choices": [
+        "A. ACE inhibitors",
+        "B. other antihypertensives",
+        "C. angioplasty",
+        "D. surgical correction",
+        "E. no value"
+      ],
+      "answer": "C",
+      "detail": "Angioplasty is the treatment of choice for fibromuscular dysplasia (FMD) with a high success rate."
+    },
+    {
+      "number": 80,
+      "question": "On HRCT, how can mosaic perfusion be distinguished from ground-glass opacification?",
+      "choices": [
+        "A. opaque areas have small vessels",
+        "B. lucent areas have small vessels",
+        "C. mosaic is only lower zones",
+        "D. mosaic is subpleural",
+        "E. cannot be distinguished"
+      ],
+      "answer": "B",
+      "detail": "In mosaic perfusion, the lucent (oligaemic) areas have smaller caliber vessels compared to the denser areas."
+    },
+    {
+      "number": 81,
+      "question": "A 59-year-old with arrhythmia has high-density consolidation at the lung base. What is the diagnosis?",
+      "choices": [
+        "A. heart failure",
+        "B. sarcoidosis",
+        "C. extrinsic allergic alveolitis",
+        "D. ABPA",
+        "E. amiodarone pulmonary disease"
+      ],
+      "answer": "E",
+      "detail": "Amiodarone contains iodine, which can cause high-density consolidation or nodules in the lungs."
+    },
+    {
+      "number": 82,
+      "question": "Which feature on HRCT makes silicosis more likely than sarcoidosis?",
+      "choices": [
+        "A. nodules > 10 mm",
+        "B. calcified hilar nodes",
+        "C. traction bronchiectasis",
+        "D. honeycombing",
+        "E. progressive massive fibrosis"
+      ],
+      "answer": "E",
+      "detail": "PMF sausage-shaped masses in the upper zones are characteristic of silicosis or coal worker's pneumoconiosis."
+    },
+    {
+      "number": 83,
+      "question": "A 25-year-old in renal failure has perihilar consolidation and subsequent progression to an interstitial pattern. What is the diagnosis?",
+      "choices": [
+        "A. primary haemosiderosis",
+        "B. secondary haemosiderosis",
+        "C. Goodpasture’s syndrome",
+        "D. HHT",
+        "E. histoplasmosis"
+      ],
+      "answer": "C",
+      "detail": "Goodpasture’s syndrome is defined by pulmonary haemorrhage (perihilar consolidation) and renal failure."
+    },
+    {
+      "number": 84,
+      "question": "What are the common cardiac manifestations in Marfan’s syndrome?",
+      "choices": [
+        "A. aortic regurgitation and dilatation",
+        "B. pulmonary stenosis",
+        "C. aortic stenosis",
+        "D. global wall thickening",
+        "E. VSD"
+      ],
+      "answer": "A",
+      "detail": "Myomatous degeneration in Marfan's leads to aortic root dilatation and regurgitation."
+    },
+    {
+      "number": 85,
+      "question": "What is the commonest pulmonary finding in RA?",
+      "choices": [
+        "A. pleural effusion",
+        "B. fibrosis",
+        "C. nodules",
+        "D. bronchiectasis",
+        "E. heart failure"
+      ],
+      "answer": "A",
+      "detail": "Unilateral or bilateral pleural effusion is the most frequent finding in rheumatoid lung disease."
+    },
+    {
+      "number": 86,
+      "question": "In which plane is muscle mass best assessed for HCM in cardiac MRI?",
+      "choices": [
+        "A. long axis",
+        "B. short axis",
+        "C. short axis oblique",
+        "D. four-chamber",
+        "E. horizontal"
+      ],
+      "answer": "D",
+      "detail": "Short axis oblique is standard for LV mass calculation."
+    },
+    {
+      "number": 87,
+      "question": "A continuous monophasic flow in the subclavian vein on US Doppler suggests what?",
+      "choices": [
+        "A. patency",
+        "B. distal stenosis",
+        "C. proximal occlusion",
+        "D. cardiac failure",
+        "E. normal respiratory variation"
+      ],
+      "answer": "C",
+      "detail": "Loss of phasic variation in central veins suggests proximal obstruction."
+    },
+    {
+      "number": 88,
+      "question": "What is the best predictor of postoperative function in lung resection?",
+      "choices": [
+        "A. CT",
+        "B. perfusion scan",
+        "C. ventilation scan",
+        "D. MRI",
+        "E. combined V/Q"
+      ],
+      "answer": "C",
+      "detail": "Ventilation scintigraphy is superior for predicting postoperative FEV1."
+    },
+    {
+      "number": 89,
+      "question": "A sausage-shaped mass paralleling the mediastinum in a miner is classic for what?",
+      "choices": [
+        "A. carcinoma",
+        "B. TB",
+        "C. progressive massive fibrosis",
+        "D. lymphoma",
+        "E. sarcoidosis"
+      ],
+      "answer": "C",
+      "detail": "PMF masses are a classic feature of pneumoconiosis in dust-exposed workers."
+    },
+    {
+      "number": 90,
+      "question": "What is the standard treatment for Young Adult renal artery stenosis (FMD)?",
+      "choices": [
+        "A. surgery",
+        "B. stent",
+        "C. angioplasty",
+        "D. medicine",
+        "E. no treatment"
+      ],
+      "answer": "C",
+      "detail": "Angioplasty is the gold standard for treating FMD-related renal stenosis."
+    },
+    {
+      "number": 91,
+      "question": "What does a 'crazy-paving' HRCT pattern most strongly suggest?",
+      "choices": [
+        "A. oedema",
+        "B. pneumonia",
+        "C. alveolar proteinosis",
+        "D. ARDS",
+        "E. sarcoidosis"
+      ],
+      "answer": "C",
+      "detail": "Crazy-paving is a classic description for the appearances of pulmonary alveolar proteinosis."
+    },
+    {
+      "number": 92,
+      "question": "An intensely enhancing pericarinal cyst is most likely what?",
+      "choices": [
+        "A. bronchogenic cyst",
+        "B. carcinoid",
+        "C. lymphoma",
+        "D. metastasis",
+        "E. carcinoma"
+      ],
+      "answer": "A",
+      "detail": "Bronchogenic cysts are typically located near the carina."
+    },
+    {
+      "number": 93,
+      "question": "Which complication is most frequent after UAE for fibroids?",
+      "choices": [
+        "A. failure",
+        "B. infection",
+        "C. vaginal discharge",
+        "D. menopause",
+        "E. syndrome"
+      ],
+      "answer": "C",
+      "detail": "Non-offensive vaginal discharge is the leading long-term complication post-UAE."
+    },
+    {
+      "number": 94,
+      "question": "Where is the 'figure-3' sign localized in aortic coarctation?",
+      "choices": [
+        "A. ascending aorta",
+        "B. arch",
+        "C. isthmus",
+        "D. descending aorta",
+        "E. abdominal aorta"
+      ],
+      "answer": "C",
+      "detail": "The 'figure-3' sign represents narrowing at the site of coarctation, typically near the ductus arteriosus."
+    },
+    {
+      "number": 95,
+      "question": "A right-sided mass between segments T8–12 in an anaemic patient is what?",
+      "choices": [
+        "A. neurogenic",
+        "B. cyst",
+        "C. haematopoiesis",
+        "D. hernia",
+        "E. abscess"
+      ],
+      "answer": "C",
+      "detail": "Extramedullary haematopoiesis produces characteristic paraspinal masses in anaemic patients."
+    },
+    {
+      "number": 96,
+      "question": "What is the 'scimitar sign' associated with?",
+      "choices": [
+        "A. sequestration",
+        "B. contusion",
+        "C. PAPVR",
+        "D. pneumothorax",
+        "E. fracture"
+      ],
+      "answer": "C",
+      "detail": "The scimitar sign is a feature of anomalous pulmonary venous return draining to the IVC."
+    },
+    {
+      "number": 97,
+      "question": "What is the most anterior structure at the thoracic inlet?",
+      "choices": [
+        "A. trachea",
+        "B. esophagus",
+        "C. left brachiocephalic vein",
+        "D. arch",
+        "E. carotid"
+      ],
+      "answer": "C",
+      "detail": "The left brachiocephalic vein is the most anterior vascular structure at this level."
+    },
+    {
+      "number": 98,
+      "question": "Calcification in a Tooth-shape in a mediastinal mass is what?",
+      "choices": [
+        "A. thymoma",
+        "B. lymphoma",
+        "C. teratoma",
+        "D. cyst",
+        "E. thyroid"
+      ],
+      "answer": "C",
+      "detail": "Benign teratomas often contain specific calcified elements like teeth."
+    },
+    {
+      "number": 99,
+      "question": "Ahyperlucent lung with air trapping post-infection is what syndrome?",
+      "choices": [
+        "A. Kartagener",
+        "B. Macleod",
+        "C. Poland",
+        "D. Williams",
+        "E. CLE"
+      ],
+      "answer": "B",
+      "detail": "Swyer-James/Macleod syndrome presents as hyperlucency post-bronchiolitis obliterans."
+    },
+    {
+      "number": 100,
+      "question": "Which artery most commonly feeds a juvenile angiofibroma?",
+      "choices": [
+        "A. pharyngeal",
+        "B. facial",
+        "C. maxillary",
+        "D. carotid",
+        "E. temporal"
+      ],
+      "answer": "C",
+      "detail": "The internal maxillary artery is the primary blood supply for JNAs."
+    }
+  ]
+}

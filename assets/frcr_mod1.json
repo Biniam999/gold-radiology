@@ -1,0 +1,1304 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "A 40-year-old male presents with shortness of breath and lower back pain. A chest radiograph shows bilateral upper-zone fibrosis with hilum elevation and spinal ligamentous ossification. What is the most likely diagnosis?",
+      "choices": [
+        "A. ankylosing spondylitis",
+        "B. Reiter’s syndrome",
+        "C. tuberculosis",
+        "D. sarcoidosis",
+        "E. chronic extrinsic allergic alveolitis"
+      ],
+      "answer": "A",
+      "detail": "Pulmonary changes occur in 1% of ankylosing spondylitis patients, featuring upper-zone fibrosis and characteristic ossification of spinal ligaments."
+    },
+    {
+      "number": 2,
+      "question": "A high-resolution CT scan in a 56-year-old female with shortness of breath shows mosaic perfusion with no air trapping on expiratory scan. What is the most likely diagnosis?",
+      "choices": [
+        "A. bronchiolitis obliterans",
+        "B. cystic fibrosis",
+        "C. hypersensitivity pneumonitis",
+        "D. chronic thromboembolic disease",
+        "E. asthma"
+      ],
+      "answer": "D",
+      "detail": "Expiratory scans help distinguish causes of mosaic perfusion; the absence of air trapping suggests vascular obstruction like chronic thromboembolic disease."
+    },
+    {
+      "number": 3,
+      "question": "A 28-year-old male with Marfan’s syndrome presents with chest pain. What are the most likely echocardiogram findings?",
+      "choices": [
+        "A. aortic regurgitation and dilatation",
+        "B. pulmonary stenosis",
+        "C. aortic stenosis",
+        "D. global myocardial wall thickening",
+        "E. ventricular septal defect"
+      ],
+      "answer": "A",
+      "detail": "Marfan's syndrome is frequently associated with myxomatous degeneration of the aortic wall, leading to dilatation and regurgitation."
+    },
+    {
+      "number": 4,
+      "question": "Into which anatomical structure does the thoracic duct normally drain?",
+      "choices": [
+        "A. left brachiocephalic vein",
+        "B. left internal jugular vein",
+        "C. left subclavian vein",
+        "D. superior vena cava",
+        "E. junction of left subclavian and internal jugular veins"
+      ],
+      "answer": "E",
+      "detail": "The thoracic duct characteristically drains into the venous system at the junction of the left subclavian and internal jugular veins."
+    },
+    {
+      "number": 5,
+      "question": "What is the commonest complication occurring in the first 12 months following uterine artery embolization for fibroids?",
+      "choices": [
+        "A. premature ovarian failure",
+        "B. failure of therapy",
+        "C. hysterectomy for infection",
+        "D. persistent non-offensive vaginal discharge",
+        "E. post-embolization syndrome"
+      ],
+      "answer": "D",
+      "detail": "A persistent non-offensive vaginal discharge occurs in 7–14% of patients in the first year post-UAE."
+    },
+    {
+      "number": 6,
+      "question": "A 55-year-old presents with hilar adenopathy and a troponin rise. Which cardiac MRI feature favors sarcoidosis over ischemia?",
+      "choices": [
+        "A. delayed hyperenhancement of lateral wall",
+        "B. full-thickness high T2 signal",
+        "C. reduced inferior wall motility",
+        "D. partial-thickness high T2 signal with subendocardial sparing at base of septum",
+        "E. segmental reduced enhancement in early phase"
+      ],
+      "answer": "D",
+      "detail": "High T2 signal at the base of the septum with subendocardial sparing is a specific feature of cardiac sarcoid."
+    },
+    {
+      "number": 7,
+      "question": "Which radiographic change is characteristic of acute rejection in a lung transplant patient?",
+      "choices": [
+        "A. mosaic perfusion and air trapping",
+        "B. pleural effusion and septal thickening without left ventricular dysfunction",
+        "C. bilateral basal consolidation",
+        "D. increased lung volumes",
+        "E. bat-wing perihilar consolidation"
+      ],
+      "answer": "B",
+      "detail": "Acute rejection typically presents with pleural effusion and septal thickening in the absence of heart failure signs."
+    },
+    {
+      "number": 8,
+      "question": "An 87-year-old male with fever has R mid-zone consolidation and a bulging oblique fissure on CXR. What is the diagnosis?",
+      "choices": [
+        "A. H. influenzae pneumonia",
+        "B. S. aureus pneumonia",
+        "C. S. pneumoniae pneumonia",
+        "D. Klebsiella pneumonia",
+        "E. Legionnaires’ disease"
+      ],
+      "answer": "D",
+      "detail": "Klebsiella pneumonia is well known for producing dense consolidation that causes the adjacent fissure to bulge."
+    },
+    {
+      "number": 9,
+      "question": "Which CT feature makes a cavitating lung malignancy more likely than an aspergilloma?",
+      "choices": [
+        "A. thin cavity wall",
+        "B. high-density central mass",
+        "C. enhancing central mass",
+        "D. calcification",
+        "E. adjacent bronchiectasis"
+      ],
+      "answer": "C",
+      "detail": "While aspergillomas are mobile and non-enhancing, the central mass of a cavitating malignancy is fixed and often enhances."
+    },
+    {
+      "number": 10,
+      "question": "A 42-year-old with nosebleeds and renal impairment has multiple cavitary lung lesions. What is the most likely diagnosis?",
+      "choices": [
+        "A. metastatic disease",
+        "B. Wegener’s granulomatosis",
+        "C. sarcoidosis",
+        "D. pyogenic abscesses",
+        "E. systemic lupus erythematosus"
+      ],
+      "answer": "B",
+      "detail": "The triad of upper airway symptoms, renal impairment, and cavitating lung lesions is classic for Wegener’s granulomatosis."
+    },
+    {
+      "number": 11,
+      "question": "In an asymptomatic 50-year-old patient with chronic asthma, what is the most likely chest radiograph finding?",
+      "choices": [
+        "A. hyperexpansion",
+        "B. peribronchial cuffing",
+        "C. bronchiectasis",
+        "D. parenchymal scars",
+        "E. normal chest radiograph"
+      ],
+      "answer": "E",
+      "detail": "Many patients with chronic asthma will have an entirely normal chest radiograph when not experiencing an acute exacerbation."
+    },
+    {
+      "number": 12,
+      "question": "A 65-year-old man has symmetrical periosteal reaction in the wrists and a pleurally based mass. What is the likely diagnosis?",
+      "choices": [
+        "A. bronchogenic carcinoma",
+        "B. malignant mesothelioma",
+        "C. pleural fibroma",
+        "D. rheumatoid arthritis",
+        "E. tuberculosis"
+      ],
+      "answer": "C",
+      "detail": "Hypertrophic osteoarthropathy (HOA) associated with a localized enhancing pleural mass is characteristic of pleural fibroma."
+    },
+    {
+      "number": 13,
+      "question": "A right-sided aortic arch with mirror-image branching is most frequently associated with which congenital cardiac abnormality?",
+      "choices": [
+        "A. pulmonary atresia",
+        "B. truncus arteriosus",
+        "C. VSD",
+        "D. Fallot’s tetralogy",
+        "E. corrected transposition"
+      ],
+      "answer": "D",
+      "detail": "Fallot’s tetralogy is the most common association for mirror-image right-sided aortic arches."
+    },
+    {
+      "number": 14,
+      "question": "What is a characteristic HRCT finding in patients with Churg–Strauss syndrome?",
+      "choices": [
+        "A. small centrilobular nodules",
+        "B. bullous disease",
+        "C. symmetrical hilar lymphadenopathy",
+        "D. tumor-like mass",
+        "E. pleural effusion"
+      ],
+      "answer": "A",
+      "detail": "Churg–Strauss typically manifests with centrilobular nodules, ground-glass opacities, and bronchial wall thickening."
+    },
+    {
+      "number": 15,
+      "question": "A 32-year-old with weak lower limb pulses and a 'figure-3' sign on CXR has which diagnosis?",
+      "choices": [
+        "A. SVC obstruction",
+        "B. aortic dissection",
+        "C. coarctation of the aorta",
+        "D. aortic thrombosis",
+        "E. transposition"
+      ],
+      "answer": "C",
+      "detail": "The 'figure-3' sign represents the indentation of the aorta at the site of a coarctation."
+    },
+    {
+      "number": 16,
+      "question": "A patient with epistaxis, vascular skin blemishes, and lung opacities with bands to the hila likely has what?",
+      "choices": [
+        "A. hereditary haemorrhagic telangiectasia",
+        "B. neurofibromatosis",
+        "C. tuberous sclerosis",
+        "D. Wegener’s",
+        "E. sarcoidosis"
+      ],
+      "answer": "A",
+      "detail": "Hereditary haemorrhagic telangiectasia (HHT) presents with skin/mucosal findings and pulmonary AVMs."
+    },
+    {
+      "number": 17,
+      "question": "The single right bronchial artery characteristically arises from which vessel?",
+      "choices": [
+        "A. aorta",
+        "B. left bronchial artery",
+        "C. second intercostal artery",
+        "D. third posterior right intercostal artery",
+        "E. fourth intercostal artery"
+      ],
+      "answer": "D",
+      "detail": "The solitary right bronchial artery usually originates from the right third posterior intercostal artery."
+    },
+    {
+      "number": 18,
+      "question": "A patient with Polyarteritis Nodosa (PAN) and loin pain should be evaluated for what on ultrasound?",
+      "choices": [
+        "A. hydronephrosis",
+        "B. solid mass",
+        "C. renal artery aneurysms and perinephric collection",
+        "D. fused ectopia",
+        "E. small echogenic kidneys"
+      ],
+      "answer": "C",
+      "detail": "PAN affects medium/small arteries and often results in intrarenal aneurysms that can rupture."
+    },
+    {
+      "number": 19,
+      "question": "A 5-year-old with colicky pain has transverse colon protruding through an anterior parasternal diaphragm defect. What is it?",
+      "choices": [
+        "A. Bochdalek’s hernia",
+        "B. Morgagni’s hernia",
+        "C. hiatus hernia",
+        "D. eventration",
+        "E. septum transversum defect"
+      ],
+      "answer": "B",
+      "detail": "Morgagni hernias are anteromedial defects, often asymptomatic until later in life, and occur through the parasternal region."
+    },
+    {
+      "number": 20,
+      "question": "A patient with allergies, malaise, and transient peripheral lung consolidation has what diagnosis?",
+      "choices": [
+        "A. pulmonary haemorrhage",
+        "B. simple pulmonary eosinophilia (Loeffler's)",
+        "C. sarcoidosis",
+        "D. hypersensitivity pneumonitis",
+        "E. pulmonary emboli"
+      ],
+      "answer": "B",
+      "detail": "Migratory peripheral consolidation with peripheral blood eosinophilia defines Loeffler's syndrome."
+    },
+    {
+      "number": 21,
+      "question": "What is the investigation of choice for an IV drug user with multiple pulmonary abscesses and suspected endocarditis?",
+      "choices": [
+        "A. CT chest",
+        "B. barium swallow",
+        "C. water-soluble swallow",
+        "D. MRI",
+        "E. transoesophageal echocardiogram"
+      ],
+      "answer": "E",
+      "detail": "Transoesophageal echocardiogram is more sensitive than transthoracic for identifying valvular vegetations in endocarditis."
+    },
+    {
+      "number": 22,
+      "question": "Following blunt trauma, which CT finding is most suggestive of tracheal injury?",
+      "choices": [
+        "A. pneumomediastinum",
+        "B. bilateral pneumothorax",
+        "C. mediastinal haematoma",
+        "D. focal overdistension of endotracheal tube cuff",
+        "E. chylothorax"
+      ],
+      "answer": "D",
+      "detail": "Overdistension of the endotracheal tube cuff (ballooning) is a highly suggestive CT sign of a tracheal tear."
+    },
+    {
+      "number": 23,
+      "question": "A 4cm R middle lobe mass with subcarinal 20mm and R hilar 17mm nodes is staged as what in lung cancer?",
+      "choices": [
+        "A. T2 N1 M0",
+        "B. T2 N2 M0",
+        "C. T2 N3 M0",
+        "D. T3 N1 M0",
+        "E. T3 N2 M0"
+      ],
+      "answer": "B",
+      "detail": "The size makes it T2; subcarinal nodes are N2 (ipsilateral hilar are N1), leading to an N2 stage."
+    },
+    {
+      "number": 24,
+      "question": "On 18FDG PET, which finding is least likely to represent metastatic lung cancer?",
+      "choices": [
+        "A. diffuse thyroid uptake",
+        "B. symmetrical tonsil uptake",
+        "C. diffuse caecal uptake",
+        "D. focal paravertebral muscle uptake",
+        "E. focal uterine uptake"
+      ],
+      "answer": "D",
+      "detail": "Focal muscle uptake on PET is concerning but often has benign causes, unlike symmetrical or diffuse uptake in other areas."
+    },
+    {
+      "number": 25,
+      "question": "Which V/Q scan finding suggests an intermediate probability of pulmonary embolism?",
+      "choices": [
+        "A. matched non-segmental defects",
+        "B. unmatched small perfusion defects",
+        "C. large matched segmental defect with CXR opacity",
+        "D. reverse mismatch",
+        "E. two large unmatched segmental perfusion defects"
+      ],
+      "answer": "C",
+      "detail": "Matched segmental perfusion and ventilation defects with corresponding radiographic opacities are categorized as intermediate."
+    },
+    {
+      "number": 26,
+      "question": "Which radiographic feature helps distinguish sarcoidosis from tuberculosis?",
+      "choices": [
+        "A. symmetrical hilar lymphadenopathy",
+        "B. pleural effusion",
+        "C. cavitating lesions",
+        "D. calcified lesions",
+        "E. basal consolidation"
+      ],
+      "answer": "A",
+      "detail": "Symmetrical hilar lymphadenopathy is far more characteristic of sarcoidosis than of TB."
+    },
+    {
+      "number": 27,
+      "question": "A history of TB with current face swelling and a paratracheal calcified mass on CT suggests what?",
+      "choices": [
+        "A. small-cell carcinoma",
+        "B. lymphoma",
+        "C. malignant teratoma",
+        "D. fibrosing mediastinitis",
+        "E. bronchogenic cyst"
+      ],
+      "answer": "D",
+      "detail": "Fibrosing mediastinitis is often a late complication of TB and presents with calcified masses compressing the SVC."
+    },
+    {
+      "number": 28,
+      "question": "Trauma patient with tracheal shift to the right, depressed L bronchus, and loss of aortic knuckle clarity likely has?",
+      "choices": [
+        "A. aortic rupture",
+        "B. bronchial rupture",
+        "C. SVC laceration",
+        "D. azygos vein injury",
+        "E. mammary artery injury"
+      ],
+      "answer": "A",
+      "detail": "These radiographic signs are hallmarks of traumatic aortic rupture."
+    },
+    {
+      "number": 29,
+      "question": "A patient with unilateral limb swelling shows continuous monophasic flow on Doppler. Where is the occlusion?",
+      "choices": [
+        "A. popliteal vein",
+        "B. pelvic vein",
+        "C. superficial femoral vein",
+        "D. internal jugular vein",
+        "E. IVC"
+      ],
+      "answer": "B",
+      "detail": "Continuous monophasic flow with loss of respiratory variation suggests a more proximal central occlusion."
+    },
+    {
+      "number": 30,
+      "question": "A 27-year-old female with sickle cell disease and an anaemic state has a lobulated paraspinal T8-T12 mass. What is it?",
+      "choices": [
+        "A. neurogenic tumour",
+        "B. bronchogenic cyst",
+        "C. Bochdalek’s hernia",
+        "D. tuberculous abscess",
+        "E. extramedullary haematopoiesis"
+      ],
+      "answer": "E",
+      "detail": "Chronic anaemias can cause extramedullary haematopoiesis, often appearing as non-erosive paraspinal masses."
+    },
+    {
+      "number": 31,
+      "question": "How are chronic pulmonary emboli characterized on CT compared to acute?",
+      "choices": [
+        "A. central floating defects",
+        "B. complete vessel occlusion",
+        "C. intraluminal bubbles",
+        "D. peripheral flattened defects with obtuse angles",
+        "E. right heart strain"
+      ],
+      "answer": "D",
+      "detail": "Chronic emboli typically form peripheral, flattened defects that create an obtuse angle with the vessel wall."
+    },
+    {
+      "number": 32,
+      "question": "In the setting of an endobronchial mass, what feature would favor hamartoma over carcinoid?",
+      "choices": [
+        "A. central location",
+        "B. calcification",
+        "C. cavitation",
+        "D. presence of fat",
+        "E. prominent enhancement"
+      ],
+      "answer": "D",
+      "detail": "The presence of fat within a well-defined endobronchial lesion is diagnostic for hamartoma."
+    },
+    {
+      "number": 33,
+      "question": "A former miner with small lung nodules and a sausage-shaped mass paralleling the mediastinum has?",
+      "choices": [
+        "A. coal worker’s pneumoconiosis with carcinoma",
+        "B. coal worker’s pneumoconiosis with progressive massive fibrosis",
+        "C. tuberculosis",
+        "D. lung carcinoma with mets",
+        "E. chronic extrinsic allergic alveolitis"
+      ],
+      "answer": "B",
+      "detail": "PMF sausage-shaped masses in the upper zones are characteristic of coal worker's pneumoconiosis."
+    },
+    {
+      "number": 34,
+      "question": "A 25-year-old with hyperlucent left lung and delayed ventilation washout likely has which syndrome?",
+      "choices": [
+        "A. acute pulmonary embolus",
+        "B. Macleod’s syndrome",
+        "C. congenital lobar emphysema",
+        "D. Poland’s syndrome",
+        "E. hypogenetic lung syndrome"
+      ],
+      "answer": "B",
+      "detail": "Macleod’s (or Swyer–James) syndrome results from childhood bronchiolitis and presents as a hyperlucent lung."
+    },
+    {
+      "number": 35,
+      "question": "Which anterior mediastinal mass is found in young adults and contains macroscopic fat?",
+      "choices": [
+        "A. lipoma",
+        "B. liposarcoma",
+        "C. hamartoma",
+        "D. neurofibroma",
+        "E. thymolipoma"
+      ],
+      "answer": "E",
+      "detail": "Thymolipomas are rare, benign, fatty tumors of the anterior mediastinum found in young adults."
+    },
+    {
+      "number": 36,
+      "question": "What is the commonest pulmonary finding on chest radiographs of patients with rheumatoid arthritis?",
+      "choices": [
+        "A. pleural effusion",
+        "B. fibrosis",
+        "C. nodules",
+        "D. bronchiectasis",
+        "E. heart failure"
+      ],
+      "answer": "A",
+      "detail": "Pleural abnormalities, specifically effusions, are the most frequent radiographic finding in rheumatoid lung disease."
+    },
+    {
+      "number": 37,
+      "question": "A smooth, tubular opacity adjacent to the right heart border is diagnostic for which condition?",
+      "choices": [
+        "A. pulmonary contusion",
+        "B. pneumothorax",
+        "C. pericardial injury",
+        "D. extralobar sequestration",
+        "E. partial anomalous pulmonary venous return"
+      ],
+      "answer": "E",
+      "detail": "The 'scimitar sign' of PAPVR appears as a smooth tubular opacity draining to the IVC or RA."
+    },
+    {
+      "number": 38,
+      "question": "A 6cm AAA with irregular walls and high T1 signal within mural thrombus requires what action?",
+      "choices": [
+        "A. ultrasound follow-up",
+        "B. CT follow-up",
+        "C. MRI follow-up",
+        "D. routine surgical referral",
+        "E. emergency surgical assessment"
+      ],
+      "answer": "E",
+      "detail": "High T1 signal in an aneurysm wall or thrombus suggests acute intramural hemorrhage, an unstable sign."
+    },
+    {
+      "number": 39,
+      "question": "What is the next step for a 20mm solitary pulmonary nodule with a central cavity and smooth walls?",
+      "choices": [
+        "A. discharge",
+        "B. CT enhancement study",
+        "C. interval volumetric CT",
+        "D. contrast MRI",
+        "E. 18FDG PET/CT scan"
+      ],
+      "answer": "E",
+      "detail": "Solitary pulmonary nodules over 10mm typically require further evaluation with PET/CT to assess for malignancy."
+    },
+    {
+      "number": 40,
+      "question": "In which plane is muscle mass best assessed for HCM in cardiac MRI?",
+      "choices": [
+        "A. vertical long axis",
+        "B. horizontal long axis",
+        "C. short axis",
+        "D. short axis oblique",
+        "E. four-chamber plane"
+      ],
+      "answer": "D",
+      "detail": "The short axis oblique plane is the standard for quantifying left ventricular myocardial mass."
+    },
+    {
+      "number": 41,
+      "question": "Which Doppler feature suggests patency of the central veins?",
+      "choices": [
+        "A. collapse of internal jugular vein on sniffing",
+        "B. variation with respiration",
+        "C. variation with cardiac cycle",
+        "D. all of the above",
+        "E. continuous monophasic flow"
+      ],
+      "answer": "D",
+      "detail": "Normal central vein patency is inferred by respiratory/cardiac variation and collapse on Valsalva/sniffing."
+    },
+    {
+      "number": 42,
+      "question": "A superior mediastinal mass with calcification and tracheal narrowing/displacement in a 43F is likely?",
+      "choices": [
+        "A. thymoma",
+        "B. teratoma",
+        "C. aortic arch aneurysm",
+        "D. thyroid goitre",
+        "E. lymph node mass"
+      ],
+      "answer": "D",
+      "detail": "Thyroid goitres are the most common cause of superior mediastinal masses with calcification and tracheal displacement."
+    },
+    {
+      "number": 43,
+      "question": "Which PET/CT technique helps characterize a 2cm lung apex mass as malignant using standardized uptake value (SUV)?",
+      "choices": [
+        "A. SUV corrected for lean mass",
+        "B. SUV corrected for weight",
+        "C. metabolic burden",
+        "D. dual time point assessment of SUV",
+        "E. peripheral SUV assessment"
+      ],
+      "answer": "D",
+      "detail": "Dual time point imaging (at 60 and 120 mins) can help differentiate malignancy from inflammation."
+    },
+    {
+      "number": 44,
+      "question": "A right hilar mass with beaded septal thickening and Kerley lines suggests which diagnosis?",
+      "choices": [
+        "A. lymphangitis carcinomatosis",
+        "B. idiopathic pulmonary fibrosis",
+        "C. extrinsic allergic alveolitis",
+        "D. histiocytosis",
+        "E. sarcoidosis"
+      ],
+      "answer": "A",
+      "detail": "Unilateral beaded septal thickening and Kerley lines associated with a hilar mass are hallmarks of lymphangitis carcinomatosis."
+    },
+    {
+      "number": 45,
+      "question": "Bilateral hilar node enlargement and symmetrical effusions in an older adult is likely due to?",
+      "choices": [
+        "A. sarcoidosis",
+        "B. tuberculosis",
+        "C. lymphoma",
+        "D. cardiac failure",
+        "E. lung cancer"
+      ],
+      "answer": "D",
+      "detail": "Cardiac failure is a frequent cause of hilar enlargement and symmetrical pleural effusions."
+    },
+    {
+      "number": 46,
+      "question": "What is considered the best predictor of postoperative function in lung resection patients?",
+      "choices": [
+        "A. perfusion scintigraphy",
+        "B. ventilation scintigraphy",
+        "C. CT",
+        "D. MRI",
+        "E. clinical examination"
+      ],
+      "answer": "B",
+      "detail": "Ventilation scintigraphy is superior to other modalities for predicting postoperative FEV1."
+    },
+    {
+      "number": 47,
+      "question": "A 52-year-old post-heart transplant patient with lung nodules and hilar adenopathy likely has?",
+      "choices": [
+        "A. graft-versus-host disease",
+        "B. aspergillosis",
+        "C. post-transplantation lymphoproliferative disorder",
+        "D. CMV infection",
+        "E. EBV infection"
+      ],
+      "answer": "C",
+      "detail": "PTLD is a complication of chronic immunosuppression and often presents with nodules and adenopathy."
+    },
+    {
+      "number": 48,
+      "question": "A rounded 2cm hepatic artery lesion with arterial flow following a biopsy should be treated with?",
+      "choices": [
+        "A. thrombin injection",
+        "B. transcatheter coil embolization",
+        "C. covered stent",
+        "D. hepatic artery ligation",
+        "E. observation"
+      ],
+      "answer": "B",
+      "detail": "Visceral artery pseudoaneurysms resulting from biopsy are typically managed via coil embolization."
+    },
+    {
+      "number": 49,
+      "question": "Which pulmonary hamartoma description is most characteristic on imaging?",
+      "choices": [
+        "A. round 2cm central soft-tissue mass",
+        "B. irregular 8cm mass with cavitation",
+        "C. multiple 1-3cm calcified lesions",
+        "D. lobulated 3cm peripheral mass with calcification and fat",
+        "E. peripheral 5cm mass with connecting bands"
+      ],
+      "answer": "D",
+      "detail": "Pulmonary hamartomas are typically peripheral and frequently contain fat or 'popcorn' calcification."
+    },
+    {
+      "number": 50,
+      "question": "In a persistent left-sided superior vena cava, into which structure does the drainage usually occur?",
+      "choices": [
+        "A. left atrium",
+        "B. right atrium",
+        "C. normal right SVC",
+        "D. hemiazygos vein",
+        "E. coronary sinus"
+      ],
+      "answer": "E",
+      "detail": "Drainage into the coronary sinus is the most common path for a persistent left-sided SVC."
+    },
+    {
+      "number": 51,
+      "question": "An 18-year-old with dextrocardia, polyposis, and bronchiectasis should be assessed for?",
+      "choices": [
+        "A. renal function",
+        "B. brain MRI",
+        "C. fertility",
+        "D. renal angiogram",
+        "E. thyroid function"
+      ],
+      "answer": "C",
+      "detail": "The triad describes Kartagener’s syndrome, which is associated with male infertility due to sperm dysmotility."
+    },
+    {
+      "number": 52,
+      "question": "A medial left lung mass invading between the arch and pulmonary artery is likely to cause?",
+      "choices": [
+        "A. stridor",
+        "B. dysphagia",
+        "C. pain",
+        "D. face swelling",
+        "E. hoarse voice"
+      ],
+      "answer": "E",
+      "detail": "The recurrent laryngeal nerve passes through the aortopulmonary window; its involvement leads to hoarseness."
+    },
+    {
+      "number": 53,
+      "question": "Which pharmacological stress agent should be used for myocardial perfusion imaging in an asthma patient?",
+      "choices": [
+        "A. adenosine",
+        "B. dipyridamole",
+        "C. dobutamine",
+        "D. GTN",
+        "E. arbutamine"
+      ],
+      "answer": "C",
+      "detail": "Adenosine and dipyridamole are contraindicated in asthma; dobutamine is the appropriate second-line choice."
+    },
+    {
+      "number": 54,
+      "question": "After EVAR, increased sac size with peripheral contrast not contacting the stent indicates?",
+      "choices": [
+        "A. type I endoleak",
+        "B. type II endoleak",
+        "C. type III endoleak",
+        "D. type IV endoleak",
+        "E. type V endoleak"
+      ],
+      "answer": "B",
+      "detail": "Type II endoleaks arise from collateral retrograde flow, appearing as contrast in the sac periphery."
+    },
+    {
+      "number": 55,
+      "question": "Which feature on CT makes restrictive cardiomyopathy (RCM) more likely than constrictive pericarditis (CP)?",
+      "choices": [
+        "A. dilated IVC",
+        "B. pleural effusions",
+        "C. normal pericardial thickness",
+        "D. pericardial calcification",
+        "E. previous surgery"
+      ],
+      "answer": "C",
+      "detail": "A normal pericardial thickness excludes CP, making RCM the more likely diagnosis."
+    },
+    {
+      "number": 56,
+      "question": "Which feature on CT would suggest that a mediastinal teratoma is more likely to be benign?",
+      "choices": [
+        "A. lobulated margin",
+        "B. calcification (e.g. tooth)",
+        "C. pleural effusion",
+        "D. invasion into vessels",
+        "E. projection from both sides"
+      ],
+      "answer": "B",
+      "detail": "Benign teratomas often contain specific calcified elements, such as a tooth, and have rounded margins."
+    },
+    {
+      "number": 57,
+      "question": "An 82M has loin pain, fever, and gas within an embolized renal tumor 24h later. What is it?",
+      "choices": [
+        "A. UTI",
+        "B. pyelonephritis",
+        "C. abscess",
+        "D. post-embolization syndrome",
+        "E. non-target embolization"
+      ],
+      "answer": "D",
+      "detail": "Post-embolization syndrome features fever, pain, and gas in necrotic tissue without necessarily being an infection."
+    },
+    {
+      "number": 58,
+      "question": "In a patient with RA, which feature on HRCT would suggest underlying sarcoidosis?",
+      "choices": [
+        "A. lower-zone reticulation",
+        "B. mid-zone reticulation",
+        "C. pleural effusion",
+        "D. large nodules > 20mm",
+        "E. cardiomegaly"
+      ],
+      "answer": "B",
+      "detail": "Sarcoidosis typically shows a mid-to-upper-zone predominance, while rheumatoid lung disease favors the bases."
+    },
+    {
+      "number": 59,
+      "question": "What is the uterine radiation dose for a CTPA relative to a V/Q scintigraphy scan?",
+      "choices": [
+        "A. CTPA has higher body dose and lower uterine dose",
+        "B. CTPA has same body dose and lower uterine dose",
+        "C. CTPA has lower body dose and lower uterine dose",
+        "D. CTPA has higher body dose and higher uterine dose",
+        "E. CTPA has lower body dose and higher uterine dose"
+      ],
+      "answer": "A",
+      "detail": "CTPA delivers a higher total body dose but a lower dose specifically to the uterus compared to V/Q scanning."
+    },
+    {
+      "number": 60,
+      "question": "Which finding is most characteristic of pulmonary hydatid disease?",
+      "choices": [
+        "A. multiple subcentimetre nodules",
+        "B. patchy alveolar changes",
+        "C. mass with air–fluid level and floating debris",
+        "D. bilateral basal reticular change",
+        "E. 3cm mass with central calcification"
+      ],
+      "answer": "C",
+      "detail": "Ruptured hydatid cysts show an air-fluid level and the 'water-lily sign' of floating membranes."
+    },
+    {
+      "number": 61,
+      "question": "A 35F smoker has bilateral renal artery stenoses. Which therapeutic option should be offered?",
+      "choices": [
+        "A. ACE inhibitors",
+        "B. other antihypertensives",
+        "C. angioplasty",
+        "D. surgery",
+        "E. no therapy"
+      ],
+      "answer": "C",
+      "detail": "Angioplasty is the standard treatment for fibromuscular dysplasia (FMD) with high success rates."
+    },
+    {
+      "number": 62,
+      "question": "A patient with arrhythmias has high-density consolidation (iodine attenuation) in the lungs. Why?",
+      "choices": [
+        "A. heart failure",
+        "B. sarcoidosis",
+        "C. extrinsic allergic alveolitis",
+        "D. ABPA",
+        "E. amiodarone pulmonary disease"
+      ],
+      "answer": "E",
+      "detail": "Amiodarone contains iodine and can cause high-density areas of lung consolidation."
+    },
+    {
+      "number": 63,
+      "question": "A 25M presents with hemoptysis and renal failure. CXR shows symmetrical perihilar consolidation. Diagnosis?",
+      "choices": [
+        "A. primary haemosiderosis",
+        "B. secondary haemosiderosis",
+        "C. Goodpasture’s syndrome",
+        "D. HHT",
+        "E. histoplasmosis"
+      ],
+      "answer": "C",
+      "detail": "Goodpasture’s syndrome is characterized by pulmonary haemorrhage and progressive renal failure."
+    },
+    {
+      "number": 64,
+      "question": "The 'root' of the thoracic aorta is defined as the portion extending between which structures?",
+      "choices": [
+        "A. valve annulus to arch",
+        "B. valve annulus to sino-tubular junction",
+        "C. valve annulus to arch vessels",
+        "D. sinotubular junction to arch",
+        "E. annulus to isthmus"
+      ],
+      "answer": "B",
+      "detail": "The aortic root is the segment between the valve annulus and the sino-tubular junction."
+    },
+    {
+      "number": 65,
+      "question": "Which aortic arch variant features a common origin of the brachiocephalic artery and left common carotid?",
+      "choices": [
+        "A. Normal",
+        "B. Bovine Arch",
+        "C. Separate origins",
+        "D. Left CC off Brachiocephalic",
+        "E. Double arch"
+      ],
+      "answer": "B",
+      "detail": "A Bovine Arch is a common variation where the left common carotid shares an origin with the brachiocephalic trunk."
+    },
+    {
+      "number": 66,
+      "question": "A 'Pulmonary Sling' is an aberrant left pulmonary artery that creates an indentation in which structure?",
+      "choices": [
+        "A. anterior trachea",
+        "B. posterior trachea and anterior esophagus",
+        "C. posterior esophagus",
+        "D. left main bronchus",
+        "E. SVC"
+      ],
+      "answer": "B",
+      "detail": "A pulmonary sling indentates the posterior trachea and anterior esophagus, potentially causing stridor."
+    },
+    {
+      "number": 67,
+      "question": "Which of the following is characteristically the first branch to arise from the Superior Mesenteric Artery (SMA)?",
+      "choices": [
+        "A. Middle Colic",
+        "B. Right Colic",
+        "C. Ileo-Colic",
+        "D. Inferior Pancreaticoduodenal",
+        "E. Appendicular"
+      ],
+      "answer": "D",
+      "detail": "The inferior pancreaticoduodenal artery is the first branch of the SMA."
+    },
+    {
+      "number": 68,
+      "question": "The Arc of Riolan is a collateral pathway formed by which two colic arteries?",
+      "choices": [
+        "A. Middle (SMA) and Left (IMA)",
+        "B. Middle (SMA) and Right (SMA)",
+        "C. Right (SMA) and Left (IMA)",
+        "D. Superior Rectal and Inferior Rectal",
+        "E. Ileo-colic and Right colic"
+      ],
+      "answer": "A",
+      "detail": "The Arc of Riolan connects the SMA and IMA via the middle and left colic arteries."
+    },
+    {
+      "number": 69,
+      "question": "Which group of internal iliac artery branches is correctly categorized as part of the 'posterior division'?",
+      "choices": [
+        "A. Iliolumbar, Lateral Sacral, Superior Gluteal",
+        "B. Umbilical, Superior Vesicular, Obturator",
+        "C. Uterine, Middle Rectal, Internal Pudendal",
+        "D. Inferior Gluteal, Iliolumbar, Obturator",
+        "E. Superior Vesicular, Lateral Sacral, Middle Rectal"
+      ],
+      "answer": "A",
+      "detail": "The posterior division branches can be remembered by the 'I Love Sex' mnemonic (Iliolumbar, Lateral sacral, Superior gluteal)."
+    },
+    {
+      "number": 70,
+      "question": "From what anatomical location do the ovarian arteries most commonly originate?",
+      "choices": [
+        "A. internal iliac",
+        "B. anterior-medial aorta",
+        "C. renal arteries",
+        "D. common iliac",
+        "E. SMA"
+      ],
+      "answer": "B",
+      "detail": "The ovarian arteries arise from the anterior-medial aorta in 80–90% of cases."
+    },
+    {
+      "number": 71,
+      "question": "A 'persistent sciatic artery' is considered an anatomic variant that is a continuation of which vessel?",
+      "choices": [
+        "A. external iliac",
+        "B. internal iliac",
+        "C. common femoral",
+        "D. profunda femoris",
+        "E. obturator"
+      ],
+      "answer": "B",
+      "detail": "A persistent sciatic artery is an anatomical continuation of the internal iliac artery."
+    },
+    {
+      "number": 72,
+      "question": "The 'Winslow Pathway' is a collateral pathway seen in which clinical condition?",
+      "choices": [
+        "A. SVC syndrome",
+        "B. aorto-iliac occlusive disease",
+        "C. mesenteric ischemia",
+        "D. renal artery stenosis",
+        "E. portal hypertension"
+      ],
+      "answer": "B",
+      "detail": "The Winslow pathway connects subclavian arteries to external iliacs in aorto-iliac occlusive disease."
+    },
+    {
+      "number": 73,
+      "question": "What is the 'Corona Mortis' or 'Crown of Death'?",
+      "choices": [
+        "A. internal carotid aneurysm",
+        "B. variant anastomosis between obturator and external iliac",
+        "C. aortic root tear",
+        "D. basilar artery dissection",
+        "E. splenic artery rupture"
+      ],
+      "answer": "B",
+      "detail": "The Corona Mortis is a variant vascular connection over the pubic rim that can bleed massively in pelvic fractures."
+    },
+    {
+      "number": 74,
+      "question": "At which anatomical landmark does the external iliac artery become the common femoral artery?",
+      "choices": [
+        "A. aortic bifurcation",
+        "B. level of the sacrum",
+        "C. giving off the inferior epigastric at the inguinal ligament",
+        "D. popliteal crease",
+        "E. common iliac bifurcation"
+      ],
+      "answer": "C",
+      "detail": "The transition to the common femoral occurs at the inguinal ligament after the inferior epigastric branch."
+    },
+    {
+      "number": 75,
+      "question": "Azygos continuation of the IVC is highly associated with which of the following?",
+      "choices": [
+        "A. asplenia",
+        "B. polysplenia",
+        "C. situs inversus",
+        "D. Situs ambiguous",
+        "E. normal splenic anatomy"
+      ],
+      "answer": "B",
+      "detail": "Azygos continuation (absence of hepatic IVC) is the primary thing to consider when polysplenia is mentioned."
+    },
+    {
+      "number": 76,
+      "question": "What is the number one risk factor for developing an aortic penetrating ulcer?",
+      "choices": [
+        "A. smoking",
+        "B. hypertension",
+        "C. atherosclerosis",
+        "D. Marfan's",
+        "E. syphilis"
+      ],
+      "answer": "C",
+      "detail": "Atherosclerosis is the leading risk factor for the development of penetrating aortic ulcers."
+    },
+    {
+      "number": 77,
+      "question": "Vascular findings in Neurofibromatosis Type 1 (NF1) most commonly include stenosis of which vessel?",
+      "choices": [
+        "A. thoracic aorta",
+        "B. renal artery (orificial)",
+        "C. ICA",
+        "D. common iliac",
+        "E. SMA"
+      ],
+      "answer": "B",
+      "detail": "NF1 is associated with arterial wall dysplasia, classically causing orificial renal artery stenosis."
+    },
+    {
+      "number": 78,
+      "question": "Which site is the most common for chronic mesenteric ischemia because it is a watershed between SMA and IMA?",
+      "choices": [
+        "A. duodenal bulb",
+        "B. splenic flexure (Griffith's Point)",
+        "C. terminal ileum",
+        "D. sigmoid-rectal junction",
+        "E. hepatic flexure"
+      ],
+      "answer": "B",
+      "detail": "The splenic flexure is a critical watershed zone prone to chronic ischemia."
+    },
+    {
+      "number": 79,
+      "question": "In Non-Occlusive Mesenteric Ischemia (NOMI), delayed filling of the portal vein beyond what time is a clue?",
+      "choices": [
+        "A. 10 seconds",
+        "B. 30 seconds",
+        "C. 70 seconds",
+        "D. 120 seconds",
+        "E. 5 minutes"
+      ],
+      "answer": "C",
+      "detail": "Normally the portal vein fills by 70 seconds; failure to do so is a radiological hint for NOMI."
+    },
+    {
+      "number": 80,
+      "question": "What is the typical mixed arterial/venous imaging appearance of bowel strangulation?",
+      "choices": [
+        "A. thin-walled bowel",
+        "B. non-enhancing mucosa",
+        "C. congested dilated bowel with wall hemorrhage",
+        "D. air in the portal vein",
+        "E. normal bowel caliber"
+      ],
+      "answer": "C",
+      "detail": "Strangulation usually results from closed-loop obstruction, presenting with congestion and wall hemorrhage."
+    },
+    {
+      "number": 81,
+      "question": "What is the classic angiographic 'buzzword' description for Fibromuscular Dysplasia (FMD)?",
+      "choices": [
+        "A. string of beads",
+        "B. puff of smoke",
+        "C. lead pipe",
+        "D. standing waves",
+        "E. saw tooth"
+      ],
+      "answer": "A",
+      "detail": "The alternating areas of stenosis and dilation in FMD create a characteristic 'string of beads' look."
+    },
+    {
+      "number": 82,
+      "question": "Peripheral arterial disease is diagnosed when the resting Ankle-Brachial Index (ABI) is less than?",
+      "choices": [
+        "A. 1.2",
+        "B. 1.0",
+        "C. 0.9",
+        "D. 0.5",
+        "E. 0.3"
+      ],
+      "answer": "C",
+      "detail": "A resting ABI below 0.9 is diagnostic for peripheral arterial disease."
+    },
+    {
+      "number": 83,
+      "question": "Re-stenosis occurring 3–12 months after a revascularization procedure is most likely due to?",
+      "choices": [
+        "A. acute thrombus",
+        "B. atherosclerosis progression",
+        "C. intimal hyperplasia",
+        "D. vessel dissection",
+        "E. stent migration"
+      ],
+      "answer": "C",
+      "detail": "Intimal hyperplasia is an exuberant healing response resulting in re-stenosis in the 3–12 month window."
+    },
+    {
+      "number": 84,
+      "question": "Which systemic vasculitis is the most common to involve the central nervous system (CNS)?",
+      "choices": [
+        "A. Wegener’s",
+        "B. SLE",
+        "C. Polyarteritis Nodosa (PAN)",
+        "D. Takayasu",
+        "E. Temporal Arteritis"
+      ],
+      "answer": "C",
+      "detail": "PAN is the most frequent systemic vasculitis mentioned as involving the CNS."
+    },
+    {
+      "number": 85,
+      "question": "Coronary artery aneurysms in Kawasaki disease are considered 'giant' and high-risk when larger than?",
+      "choices": [
+        "A. 2 mm",
+        "B. 4 mm",
+        "C. 8 mm",
+        "D. 12 mm",
+        "E. 20 mm"
+      ],
+      "answer": "C",
+      "detail": "Coronary aneurysms > 8mm in Kawasaki disease are giant and prone to complications."
+    },
+    {
+      "number": 86,
+      "question": "Which antibody is positive in 90% of cases of Wegener’s granulomatosis (Granulomatosis with polyangiitis)?",
+      "choices": [
+        "A. pANCA",
+        "B. cANCA",
+        "C. anti-Ro",
+        "D. anti-dsDNA",
+        "E. anti-IgG"
+      ],
+      "answer": "B",
+      "detail": "cANCA is highly sensitive and specific for Wegener’s granulomatosis."
+    },
+    {
+      "number": 87,
+      "question": "In Churg Strauss syndrome, which antibody is typically positive in 75% of cases?",
+      "choices": [
+        "A. pANCA",
+        "B. cANCA",
+        "C. anti-GBM",
+        "D. ANA",
+        "E. anti-centromere"
+      ],
+      "answer": "A",
+      "detail": "Churg Strauss is associated with asthma, eosinophilia, and a positive pANCA."
+    },
+    {
+      "number": 88,
+      "question": "A 'Tardus Parvus' waveform on Doppler ultrasound is found in which location relative to a stenosis?",
+      "choices": [
+        "A. proximal (upstream)",
+        "B. within the stenosis",
+        "C. distal (downstream)",
+        "D. in the contralateral vessel",
+        "E. only in the heart"
+      ],
+      "answer": "C",
+      "detail": "Tardus parvus (slow upstroke, rounded peak) is a sign of severe upstream stenosis."
+    },
+    {
+      "number": 89,
+      "question": "Which animal is the 'early steal' subclavian waveform said to resemble?",
+      "choices": [
+        "A. dolphin",
+        "B. rabbit",
+        "C. snake",
+        "D. eagle",
+        "E. lion"
+      ],
+      "answer": "B",
+      "detail": "The mid-systolic deceleration of early subclavian steal produces a 'rabbit' waveform."
+    },
+    {
+      "number": 90,
+      "question": "Which characteristic distinguishes the Internal Carotid (ICA) from the External Carotid (ECA) on Doppler?",
+      "choices": [
+        "A. ICA is high resistance",
+        "B. ECA is low resistance",
+        "C. ICA diastolic flow does not return to baseline",
+        "D. ECA has continuous color flow",
+        "E. ICA has facial branches"
+      ],
+      "answer": "C",
+      "detail": "The ICA is low resistance with continuous diastolic flow because the brain is 'always on'."
+    },
+    {
+      "number": 91,
+      "question": "A Type 1 endoleak after AAA repair is defined as a leak at which location?",
+      "choices": [
+        "A. sac filling via collateral (e.g. IMA)",
+        "B. defect or fracture in the graft",
+        "C. top or bottom of the graft (high pressure)",
+        "D. porosity of the graft",
+        "E. endotension"
+      ],
+      "answer": "C",
+      "detail": "Type 1 leaks occur at the attachment sites and require prompt intervention."
+    },
+    {
+      "number": 92,
+      "question": "What is the most common type of endoleak after endograft repair of an AAA?",
+      "choices": [
+        "A. Type 1",
+        "B. Type 2",
+        "C. Type 3",
+        "D. Type 4",
+        "E. Type 5"
+      ],
+      "answer": "B",
+      "detail": "Type 2 endoleaks (collateral filling) account for approximately 80% of leaks."
+    },
+    {
+      "number": 93,
+      "question": "Which 'buzzword' is associated with the use of detachable coils for accurate deployment?",
+      "choices": [
+        "A. target packing",
+        "B. accurate deployment",
+        "C. end-hole only",
+        "D. pushable",
+        "E. liquid"
+      ],
+      "answer": "B",
+      "detail": "Detachable coils are favored when precise or 'accurate' deployment is required."
+    },
+    {
+      "number": 94,
+      "question": "In which patient population are ABI measurements often falsely elevated due to arterial calcification?",
+      "choices": [
+        "A. smokers",
+        "B. hyperlipidemics",
+        "C. diabetics",
+        "D. marathon runners",
+        "E. teenagers"
+      ],
+      "answer": "C",
+      "detail": "Arterial calcifications in diabetics make vessels incompressible, leading to falsely high ABIs."
+    },
+    {
+      "number": 95,
+      "question": "What is 'Secondary Patency' in the context of vascular grafts?",
+      "choices": [
+        "A. uninterrupted patency with no procedures",
+        "B. patency maintained by prophylactic interventions",
+        "C. patency restored with intervention after being lost",
+        "D. the use of a second graft",
+        "E. failure of the primary graft"
+      ],
+      "answer": "C",
+      "detail": "Secondary patency refers to restoring flow via thrombectomy/thrombolysis after a graft has occluded."
+    },
+    {
+      "number": 96,
+      "question": "In interventional nomenclature, what does 'Antegrade' access refer to?",
+      "choices": [
+        "A. access towards the heart",
+        "B. access towards the toes (with flow)",
+        "C. access from the arm",
+        "D. access using a large sheath",
+        "E. access after surgery"
+      ],
+      "answer": "B",
+      "detail": "Antegrade access is in the direction of arterial flow (towards the toes)."
+    },
+    {
+      "number": 97,
+      "question": "Which clinical term refers to a 'painful blue leg' associated with massive deep venous thrombosis?",
+      "choices": [
+        "A. Phlegmasia alba dolens",
+        "B. Phlegmasia cerulea dolens",
+        "C. Post thrombotic syndrome",
+        "D. May-Thurner syndrome",
+        "E. Varicose vein"
+      ],
+      "answer": "B",
+      "detail": "Phlegmasia cerulea dolens is the 'blue' variant, indicating total venous occlusion."
+    },
+    {
+      "number": 98,
+      "question": "What is the primary risk factor for developing Post Thrombotic Syndrome (PTS)?",
+      "choices": [
+        "A. age < 40",
+        "B. distal DVT",
+        "C. recurrent or persistent DVT",
+        "D. being thin",
+        "E. athletic activity"
+      ],
+      "answer": "C",
+      "detail": "Recurrent/persistent DVT and proximal locations are major risk factors for PTS."
+    },
+    {
+      "number": 99,
+      "question": "At what anatomical level should the tip of an IVC filter ideally be positioned?",
+      "choices": [
+        "A. aortic bifurcation",
+        "B. level of the renal veins",
+        "C. right atrium",
+        "D. common iliac bifurcation",
+        "E. diaphragm"
+      ],
+      "answer": "B",
+      "detail": "Filter tips are ideally placed at the renal vein level to avoid compromising renal drainage if a clot is caught."
+    },
+    {
+      "number": 100,
+      "question": "What is the pressure gradient goal (portosystemic) following a successful TIPS procedure?",
+      "choices": [
+        "A. > 20 mmHg",
+        "B. 15–20 mmHg",
+        "C. 12–15 mmHg",
+        "D. < 12 mmHg",
+        "E. 0 mmHg"
+      ],
+      "answer": "D",
+      "detail": "The goal of TIPS is typically to reduce the portosystemic gradient to less than 12 mmHg."
+    }
+  ]
+}

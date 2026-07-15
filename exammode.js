@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', function () {
   let currentQuestionIndex = 0;
   let questions = [];
   const attemptedQuestions = new Set();
-  const selectedAnswers = {}; // index -> 'A'|'B'|'C'|'D'|'E'
+  const selectedAnswers = {}; // Tracks: index -> chosen index (0-4)
 
   // Timer
   let interval = null;
@@ -105,6 +105,48 @@ document.addEventListener('DOMContentLoaded', function () {
     return match ? match[1] : filename;
   }
 
+  // --------- DATA NORMALIZATION ----------
+  // Standardizes properties of different database schemes
+  function normalizeQuestions(rawQuestions, filename) {
+    return rawQuestions.map(q => {
+      // 1. Unify choices/options array & strip redundant prefix (e.g., "a. ")
+      let originalChoices = q.options || q.choices || [];
+      const cleanedOptions = originalChoices.map(opt => {
+        if (typeof opt === 'string') {
+          return opt.replace(/^[a-e]\.\s*/i, '').trim();
+        }
+        return opt;
+      });
+
+      // 2. Unify details/explanations
+      const explanationText = q.explanation || q.detail || "No explanation provided.";
+
+      // 3. Resolve answer keys to index numbers (0 through 4)
+      let calculatedAnswerIndex = 0;
+      if (typeof q.answer === 'string') {
+        const cleanAns = q.answer.trim().toLowerCase();
+        if (cleanAns.length === 1 && cleanAns >= 'a' && cleanAns <= 'e') {
+          calculatedAnswerIndex = cleanAns.charCodeAt(0) - 97; // 'a' -> 0, 'b' -> 1...
+        } else {
+          const matchInRaw = originalChoices.indexOf(q.answer);
+          calculatedAnswerIndex = matchInRaw !== -1 ? matchInRaw : cleanedOptions.indexOf(q.answer);
+        }
+      } else if (typeof q.answer === 'number') {
+        calculatedAnswerIndex = q.answer;
+      }
+
+      return {
+        question: q.question,
+        options: cleanedOptions,
+        answer: calculatedAnswerIndex >= 0 ? calculatedAnswerIndex : 0,
+        explanation: explanationText,
+        Image: q.Image || 'none',
+        'detail.image': q['detail.image'] || 'none',
+        _sourceFile: filename
+      };
+    });
+  }
+
   // --------- HELPERS: LOADING JSON WITH FALLBACKS ----------
   if (location.protocol === 'file:') {
     console.warn('This page is opened via file://. Use a local server (e.g., `python -m http.server`).');
@@ -117,9 +159,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
   async function fetchJsonWithFallbacks(name) {
     const base = normalizeName(name);
+    // Modified candidate list to prioritize the correct "assets/" directory
     const candidates = [
-      `${base}.json`,
       `assets/${base}.json`,
+      `${base}.json`,
       `assets/json/${base}.json`,
     ];
     const tried = [];
@@ -153,12 +196,9 @@ document.addEventListener('DOMContentLoaded', function () {
     for (const name of list) {
       try {
         const { data } = await fetchJsonWithFallbacks(name);
-        // Tag each question with its filename source prefix before merging
-        const taggedQuestions = data.questions.map(q => {
-          q._sourceFile = name; // e.g. "pedi1-2"
-          return q;
-        });
-        allQuestions.push(...taggedQuestions);
+        // Normalize loaded questions before joining them
+        const normalized = normalizeQuestions(data.questions || [], name);
+        allQuestions.push(...normalized);
       } catch (e) {
         console.warn(e.message);
         errors.push(e.tried || []);
@@ -172,7 +212,7 @@ document.addEventListener('DOMContentLoaded', function () {
       console.error(msg);
       if (questionText) {
         questionText.textContent =
-          'No questions found. Ensure your JSON files are in ./, assets/, or assets/json/, and run via a local server.';
+          'No questions found. Ensure your JSON files are in the assets/ folder, and run via a local server.';
       }
     }
 
@@ -264,7 +304,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Choices (supporting up to 5 choices)
     const letters = ['A', 'B', 'C', 'D', 'E'];
-    (question.choices || []).forEach((choiceText, i) => {
+    const currentOptions = question.options || [];
+
+    currentOptions.forEach((choiceText, i) => {
       const choiceElement = document.createElement('div');
       choiceElement.className = 'choice';
       choiceElement.innerHTML = `
@@ -272,12 +314,13 @@ document.addEventListener('DOMContentLoaded', function () {
         <span class="choice-text">${choiceText || ''}</span>
       `;
 
-      if (selectedAnswers[index] === letters[i]) {
+      // Match against normalized numerical user answers index (0-4)
+      if (selectedAnswers[index] === i) {
         choiceElement.classList.add('selected');
       }
 
       choiceElement.addEventListener('click', function () {
-        selectedAnswers[index] = letters[i];
+        selectedAnswers[index] = i; // Save choice index directly
         attemptedQuestions.add(index);
         Array.from(choicesContainer.children).forEach(child => child.classList.remove('selected'));
         choiceElement.classList.add('selected');
@@ -298,25 +341,20 @@ document.addEventListener('DOMContentLoaded', function () {
   function finishExamAndRedirect() {
     clearInterval(interval);
 
-    // Dynamic map to convert letters to indices
-    const letterToIdMap = { 'A': 0, 'B': 1, 'C': 2, 'D': 3, 'E': 4 };
     const parsedAnswersArray = [];
 
     // Map selections to structure expected by review.js and record progress details
     questions.forEach((question, index) => {
-      const chosenLetter = selectedAnswers[index];
+      const chosenIdx = selectedAnswers[index];
       
       // AUTOMATIC UNIT PARSING FROM FILENAME PREFIX
       const questionUnit = getUnitFromFilename(question._sourceFile);
 
-      if (chosenLetter !== undefined && chosenLetter !== null) {
-        const parsedIdx = letterToIdMap[chosenLetter];
-        parsedAnswersArray.push(parsedIdx);
+      if (chosenIdx !== undefined && chosenIdx !== null) {
+        parsedAnswersArray.push(chosenIdx);
 
-        // Evaluate and record the question accuracy
-        const correctAnswerLetter = String(question.answer || '').toUpperCase().trim();
-        const isCorrect = (chosenLetter === correctAnswerLetter);
-
+        // Evaluate and record the question accuracy (using pre-normalized indices)
+        const isCorrect = (chosenIdx === question.answer);
         recordQuestionProgress(questionUnit, isCorrect, 'exam');
       } else {
         parsedAnswersArray.push(null); // Explicit skipped item indicator

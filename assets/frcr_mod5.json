@@ -1,0 +1,1304 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "A child is found to have bilateral meningiomas. This finding is most suggestive of which phakomatosis?",
+      "choices": [
+        "A. Neurofibromatosis type 1",
+        "B. Neurofibromatosis type 2",
+        "C. Von Hippel–Lindau disease",
+        "D. Sturge–Weber syndrome",
+        "E. Tuberous sclerosis"
+      ],
+      "answer": "B",
+      "detail": "While bilateral acoustic schwannomas are the hallmark, multiple meningiomas in a child are a classic indicator of NF2, often remembered by the mnemonic MISME (multiple inherited schwannomas, meningiomas, and ependymomas)."
+    },
+    {
+      "number": 2,
+      "question": "A 14-year-old gymnast presents with central low back pain and shooting pains in the legs. Radiographs and CT show a forward slip of L5 on S1. What is the most likely cause of this finding in this patient population?",
+      "choices": [
+        "A. Herniated intervertebral disc",
+        "B. Discitis",
+        "C. Scheuermann’s disease",
+        "D. Spondylolysis",
+        "E. Spondylolisthesis"
+      ],
+      "answer": "E",
+      "detail": "Spondylolisthesis (the slip itself) in young athletes is most commonly secondary to bilateral spondylolysis (pars defects), which results from repetitive hyperextension."
+    },
+    {
+      "number": 3,
+      "question": "A routine examination of a 2-day-old baby reveals a palpable abdominal mass. Radiography shows a dense mass with multiple calcifications in the right lower quadrant. What is the most likely diagnosis?",
+      "choices": [
+        "A. Neuroblastoma",
+        "B. Duplication cyst",
+        "C. Meconium peritonitis",
+        "D. Meconium ileus",
+        "E. Hirschsprung’s disease"
+      ],
+      "answer": "C",
+      "detail": "Meconium peritonitis results from sterile bowel perforation in utero, leading to a calcified mass or scattered peritoneal calcifications identified at birth."
+    },
+    {
+      "number": 4,
+      "question": "A 3-year-old child with aniridia presents with a palpable renal mass that appears solid with cystic elements on ultrasound. No calcification is seen on CT. Diagnosis?",
+      "choices": [
+        "A. Renal cell carcinoma",
+        "B. Neuroblastoma",
+        "C. Angiomyolipoma",
+        "D. Wilms’ tumour",
+        "E. Ossifying renal tumour of infancy"
+      ],
+      "answer": "D",
+      "detail": "Aniridia is part of the WAGR syndrome (Wilms’ tumour, Aniridia, Genitourinary abnormalities, and mental Retardation), and Wilms' is the most common childhood renal tumor."
+    },
+    {
+      "number": 5,
+      "question": "Radiographs of an infant with rickets show bowing of the long bones and widened growth plates. Which finding specifically suggests hypophosphatasia as the cause?",
+      "choices": [
+        "A. Irregular poorly mineralized epiphyses",
+        "B. Sclerotic rim to the epiphyses",
+        "C. Lucent extensions into the metaphyses",
+        "D. Fraying of the metaphyses",
+        "E. Relatively normal mineralization"
+      ],
+      "answer": "C",
+      "detail": "Hypophosphatasia is characterized by rickets-like changes with the distinctive feature of 'punched-out' lucent defects extending from the growth plate into the metaphysis."
+    },
+    {
+      "number": 6,
+      "question": "A 6-year-old with a facial rash and seizures has subependymal nodules and cortical tubers on brain MRI. Renal ultrasound shows multiple bilateral hyperechogenic lesions. Diagnosis?",
+      "choices": [
+        "A. Neurofibromatosis type 1",
+        "B. Sturge–Weber syndrome",
+        "C. Von Hippel–Lindau disease",
+        "D. Tuberous sclerosis",
+        "E. Metachromatic leukodystrophy"
+      ],
+      "answer": "D",
+      "detail": "The clinical triad of seizures, learning disability, and adenoma sebaceum, combined with subependymal nodules and renal angiomyolipomas, is diagnostic of Tuberous Sclerosis."
+    },
+    {
+      "number": 7,
+      "question": "In a neonate with both arterial (UAC) and venous (UVC) umbilical catheters, which characteristic identifies the UAC?",
+      "choices": [
+        "A. UAC is smaller in calibre",
+        "B. Tip of the UAC lies at T8 level",
+        "C. UAC courses down into the pelvis before approaching the thorax",
+        "D. UVC is longer than UAC",
+        "E. UAC tip always lies to the left of the UVC tip"
+      ],
+      "answer": "C",
+      "detail": "The UAC enters the umbilical artery, descends into the internal iliac artery, and then ascends the aorta, giving it a characteristic pelvic 'dip' on radiographs."
+    },
+    {
+      "number": 8,
+      "question": "A girl is found to have a cystic RUQ mass. Ultrasound shows the cyst wall has an outer hypoechoic layer and an inner echogenic layer. Diagnosis?",
+      "choices": [
+        "A. Wilms’ tumour",
+        "B. Ovarian cyst",
+        "C. Pancreatic pseudocyst",
+        "D. Duplication cyst",
+        "E. Choledochal cyst"
+      ],
+      "answer": "D",
+      "detail": "This 'gut signature' (outer muscle layer and inner mucosal layer) is pathognomonic for an enteric duplication cyst."
+    },
+    {
+      "number": 9,
+      "question": "A baby boy has a distended bladder, a posterior urethral valve, bilateral megaureters, undescended testes, and widely separated rectus muscles. Diagnosis?",
+      "choices": [
+        "A. Prune-belly syndrome",
+        "B. Eagle–Barrett syndrome",
+        "C. Primary vesicoureteric reflux",
+        "D. Neuropathic bladder",
+        "E. Both A and B"
+      ],
+      "answer": "E",
+      "detail": "Prune-belly (or Eagle–Barrett) syndrome consists of the triad of abdominal muscle deficiency, urinary tract abnormalities, and cryptorchidism."
+    },
+    {
+      "number": 10,
+      "question": "Which complication of neonatal meconium ileus is identified as a dense, calcified abdominal mass on birth radiographs?",
+      "choices": [
+        "A. Intussusception",
+        "B. Volvulus",
+        "C. Meconium peritonitis",
+        "D. Hirschsprung’s disease",
+        "E. Microcolon"
+      ],
+      "answer": "C",
+      "detail": "Antenatal perforation due to meconium ileus (often associated with cystic fibrosis) leads to sterile meconium peritonitis and subsequent calcification."
+    },
+    {
+      "number": 11,
+      "question": "What is the most accurate ultrasound measurement for dating a pregnancy during the first trimester (up to 13 weeks)?",
+      "choices": [
+        "A. Biparietal diameter",
+        "B. Mean gestational sac diameter",
+        "C. Crown–rump length",
+        "D. Femur length",
+        "E. Abdominal circumference"
+      ],
+      "answer": "C",
+      "detail": "Crown–rump length (CRL) is the gold standard for dating in the first trimester, with an accuracy of approximately +/- 5 days."
+    },
+    {
+      "number": 12,
+      "question": "A 2-year-old presents with leukocoria. CT shows a hyperdense retrolental mass with punctate calcification and a dense vitreous. Diagnosis?",
+      "choices": [
+        "A. Orbital pseudoglioma",
+        "B. Retrolental fibroplasia",
+        "C. Retinoblastoma",
+        "D. Coats’ disease",
+        "E. Persistent hyperplastic primary vitreous"
+      ],
+      "answer": "C",
+      "detail": "Retinoblastoma is the most common intraocular tumor of childhood and characteristically contains calcification in 90% of cases."
+    },
+    {
+      "number": 13,
+      "question": "A newborn baby drools excessively and chokes during feeding. Radiographs show a coiled feeding tube in the proximal esophagus and gas in the stomach. Diagnosis?",
+      "choices": [
+        "A. Oesophageal atresia alone",
+        "B. Oesophageal atresia and proximal tracheo-oesophageal fistula",
+        "C. Oesophageal atresia and distal tracheo-oesophageal fistula",
+        "D. Oesophageal atresia with both proximal and distal fistula",
+        "E. H-type tracheo-oesophageal fistula"
+      ],
+      "answer": "C",
+      "detail": "The presence of gas in the stomach confirms a distal fistula (the most common type, Type C), while the coiled tube confirms esophageal atresia."
+    },
+    {
+      "number": 14,
+      "question": "In which phakomatosis are subependymal giant cell astrocytomas (SEGAs) typically found?",
+      "choices": [
+        "A. Neurofibromatosis type 1",
+        "B. Neurofibromatosis type 2",
+        "C. Tuberous sclerosis",
+        "D. Von Hippel–Lindau disease",
+        "E. Sturge–Weber syndrome"
+      ],
+      "answer": "C",
+      "detail": "SEGAs are benign but potentially obstructing tumors found at the foramen of Monro in patients with Tuberous Sclerosis."
+    },
+    {
+      "number": 15,
+      "question": "What is the commonest cause of neonatal respiratory distress in premature infants, characterized by low lung volumes and granular opacities?",
+      "choices": [
+        "A. Transient tachypnoea of the newborn",
+        "B. Meconium aspiration syndrome",
+        "C. Respiratory distress syndrome (Hyaline membrane disease)",
+        "D. Neonatal pneumonia",
+        "E. Pulmonary hypoplasia"
+      ],
+      "answer": "C",
+      "detail": "RDS is caused by surfactant deficiency in premature neonates, appearing as fine 'ground-glass' granularity and air bronchograms."
+    },
+    {
+      "number": 16,
+      "question": "A ventilation-perfusion scan in a patient with pulmonary hypoplasia is most likely to demonstrate which pattern?",
+      "choices": [
+        "A. Matched marked reduction in ventilation and perfusion",
+        "B. More marked reduction in perfusion than ventilation",
+        "C. More marked reduction in ventilation than perfusion",
+        "D. Normal ventilation with reduced perfusion",
+        "E. Normal perfusion with reduced ventilation"
+      ],
+      "answer": "A",
+      "detail": "Pulmonary hypoplasia involves a congenitally small lung with rudimentary vessels and bronchi, resulting in a matched defect."
+    },
+    {
+      "number": 17,
+      "question": "A 6-year-old girl has jaundice and a palpable mass. Ultrasound shows a cystic structure at the porta hepatis communicating with intrahepatic ducts. Diagnosis?",
+      "choices": [
+        "A. Biliary atresia",
+        "B. Choledochal cyst",
+        "C. Pancreatic pseudocyst",
+        "D. Duodenal duplication cyst",
+        "E. Pericholecystic abscess"
+      ],
+      "answer": "B",
+      "detail": "The triad of pain, jaundice, and a palpable mass is classic for a choledochal cyst (Type 1 being most common)."
+    },
+    {
+      "number": 18,
+      "question": "A child with Kawasaki disease presents with RUQ pain. Ultrasound shows a markedly distended, thin-walled gallbladder without stones. Diagnosis?",
+      "choices": [
+        "A. Acute acalculous cholecystitis",
+        "B. Acute gallbladder hydrops",
+        "C. Choledochal cyst",
+        "D. Acute calculous cholecystitis",
+        "E. Emphysematous cholecystitis"
+      ],
+      "answer": "B",
+      "detail": "Acute gallbladder hydrops is a known transient complication of Kawasaki disease, presenting with gallbladder distension but no stones or wall thickening."
+    },
+    {
+      "number": 19,
+      "question": "Tubular filling defects 20 cm in length containing central barium-filled canals are seen in the small bowel of a child from south-east Asia. Organism?",
+      "choices": [
+        "A. Ascaris lumbricoides",
+        "B. Giardia lamblia",
+        "C. Strongyloides stercoralis",
+        "D. Enterobius vermicularis",
+        "E. Taenia solium"
+      ],
+      "answer": "A",
+      "detail": "Ascaris worms appear as long filling defects, and the central barium line represents the parasite's own digestive tract."
+    },
+    {
+      "number": 20,
+      "question": "Which of the following is characteristic of viral pneumonia in children compared to bacterial pneumonia?",
+      "choices": [
+        "A. Lobar consolidation",
+        "B. Presence of air bronchograms",
+        "C. Peribronchial linear densities and interstitial pattern",
+        "D. Rapidly developing pleural effusions",
+        "E. Cavitation"
+      ],
+      "answer": "C",
+      "detail": "Viral pneumonias typically affect the airways and peribronchial tissues, leading to interstitial markings rather than dense consolidation."
+    },
+    {
+      "number": 21,
+      "question": "A 10-year-old has RVH on ECG and a CXR showing a dilated left pulmonary artery with mural calcification. Diagnosis?",
+      "choices": [
+        "A. Aneurysm of pulmonary artery",
+        "B. Patent ductus arteriosus",
+        "C. Right pulmonary atresia",
+        "D. Pulmonary stenosis",
+        "E. Swyer–James syndrome"
+      ],
+      "answer": "D",
+      "detail": "Post-stenotic dilatation of the left pulmonary artery is a classic radiographic sign of valvular pulmonary stenosis."
+    },
+    {
+      "number": 22,
+      "question": "Ossifications within the epiphyseal cartilage of the medial distal femur and proximal tibia in a 4-year-old with leg deformity suggest which condition?",
+      "choices": [
+        "A. Chondroblastoma",
+        "B. Osteochondroma",
+        "C. Trevor disease (DEH)",
+        "D. Blount disease",
+        "E. Rickets"
+      ],
+      "answer": "C",
+      "detail": "Dysplasia epiphysealis hemimelica (Trevor disease) involves osteochondroma-like overgrowths arising from the epiphysis."
+    },
+    {
+      "number": 23,
+      "question": "Which pattern of hypoxic-ischaemic encephalopathy occurs characteristically in the watershed areas of premature babies?",
+      "choices": [
+        "A. Periventricular leukomalacia",
+        "B. Deep grey matter necrosis",
+        "C. Multicystic encephalomalacia",
+        "D. Basal ganglia hemorrhage",
+        "E. Cerebellar hypoplasia"
+      ],
+      "answer": "A",
+      "detail": "PVL is the hallmark of chronic partial asphyxia in the premature brain, occurring in the periventricular watershed zones."
+    },
+    {
+      "number": 24,
+      "question": "A neonate with a 4 cm, solid, non-calcified suprarenal mass. Diagnosis?",
+      "choices": [
+        "A. Nephroblastoma",
+        "B. Neuroblastoma",
+        "C. Adrenal haematoma",
+        "D. Phaeochromocytoma",
+        "E. Mesoblastic nephroma"
+      ],
+      "answer": "C",
+      "detail": "Adrenal hemorrhage is common in neonates and appears as a solid mass that evolves into a cystic lesion, unlike neuroblastoma which is usually calcified."
+    },
+    {
+      "number": 25,
+      "question": "A 6-year-old elbow radiograph shows centers for the capitellum, radial head, and trochlea. Why is this concerning?",
+      "choices": [
+        "A. The trochlea appears before the internal epicondyle",
+        "B. The internal epicondyle should appear before the trochlea",
+        "C. The radial head appears after the olecranon",
+        "D. This is normal for a 6-year-old",
+        "E. The external epicondyle is missing"
+      ],
+      "answer": "B",
+      "detail": "Based on the CRITOE sequence, the Internal (medial) epicondyle must appear before the Trochlea. If 'trochlea' ossification is seen without a medial epicondyle, it is actually a displaced medial epicondyle fracture."
+    },
+    {
+      "number": 26,
+      "question": "What is the pathognomonic finding for a branchial cleft cyst on CT?",
+      "choices": [
+        "A. Fluid level",
+        "B. Location at the angle of the mandible",
+        "C. 'Beak sign' pointing between the internal and external carotid arteries",
+        "D. Thick irregular enhancing wall",
+        "E. Internal septations"
+      ],
+      "answer": "C",
+      "detail": "A second branchial cleft cyst (the most common type) often shows a 'beak' of tissue extending between the carotid vessels."
+    },
+    {
+      "number": 27,
+      "question": "The normal position of the duodenojejunal (DJ) junction is located where?",
+      "choices": [
+        "A. To the left of the left pedicle at the level of the duodenal bulb",
+        "B. To the left of the left pedicle below the level of the duodenal bulb",
+        "C. Overlying the vertebral body at the level of the duodenal bulb",
+        "D. To the right of the right pedicle below the level of the duodenal bulb",
+        "E. To the right of the right pedicle above the level of the duodenal bulb"
+      ],
+      "answer": "A",
+      "detail": "Assessment of the DJ junction position is mandatory to exclude malrotation; it should be to the left of the spine and at the same level as the bulb."
+    },
+    {
+      "number": 28,
+      "question": "Contrast enters both ureters and reaches the calyces without urinary tract dilatation on a VCUG. What is the reflux grade?",
+      "choices": [
+        "A. Grade I",
+        "B. Grade II",
+        "C. Grade III",
+        "D. Grade IV",
+        "E. Grade V"
+      ],
+      "answer": "B",
+      "detail": "Grade II reflux reaches the collecting system but does not cause any dilatation or blunting of the calyces."
+    },
+    {
+      "number": 29,
+      "question": "In the early stages of hyaline membrane disease, what is typically the first feature seen on CXR?",
+      "choices": [
+        "A. Reduced lung volumes",
+        "B. Bilateral consolidation",
+        "C. Fine granularity in both lungs",
+        "D. Pleural effusions",
+        "E. White-out of lungs"
+      ],
+      "answer": "C",
+      "detail": "The earliest sign is uniform, fine, granular (ground-glass) opacification of the lungs due to alveolar collapse."
+    },
+    {
+      "number": 30,
+      "question": "What is the most common cause of sudden-onset, severe, unilateral testicular pain in the prepubertal age group?",
+      "choices": [
+        "A. Torsion of appendix testis",
+        "B. Torsion of appendix epididymis",
+        "C. Torsion of testis",
+        "D. Epididymitis",
+        "E. Orchitis"
+      ],
+      "answer": "C",
+      "detail": "Testicular torsion is the most common acute scrotal emergency in children before puberty."
+    },
+    {
+      "number": 31,
+      "question": "Which method of intussusception reduction is considered optimal due to higher success rates and lower radiation doses?",
+      "choices": [
+        "A. Pneumatic (air) reduction",
+        "B. Hydrostatic (barium) reduction",
+        "C. Hydrostatic (water-soluble) reduction",
+        "D. Ultrasound-guided saline reduction",
+        "E. Surgical reduction"
+      ],
+      "answer": "A",
+      "detail": "Air reduction has a success rate of 70–90% and is faster than liquid-based methods, reducing overall radiation."
+    },
+    {
+      "number": 32,
+      "question": "Which of the following is associated with a 'double bubble' sign on neonate abdominal radiographs?",
+      "choices": [
+        "A. Pyloric stenosis",
+        "B. Duodenal atresia",
+        "C. Midgut volvulus",
+        "D. Jejunal atresia",
+        "E. B and C"
+      ],
+      "answer": "E",
+      "detail": "Duodenal atresia is the classic cause, but midgut volvulus can also present this way if the obstruction is at the duodenum."
+    },
+    {
+      "number": 33,
+      "question": "A child with precocious puberty has a 10 cm adrenal mass invading the kidney. No other disease is seen. What is the stage?",
+      "choices": [
+        "A. I",
+        "B. II",
+        "C. III",
+        "D. IV",
+        "E. V"
+      ],
+      "answer": "D",
+      "detail": "In adrenal cortical carcinoma, invasion of adjacent organs (like the kidney) classifies the disease as Stage IV."
+    },
+    {
+      "number": 34,
+      "question": "A newborn girl has a thin-walled, anechoic abdominopelvic cyst with a 'daughter cyst' visible on ultrasound. Diagnosis?",
+      "choices": [
+        "A. Wilms’ tumour",
+        "B. Ovarian cyst",
+        "C. Cystic lymphatic malformation",
+        "D. Choledochal cyst",
+        "E. Cystic teratoma"
+      ],
+      "answer": "B",
+      "detail": "Neonatal ovarian cysts are common due to maternal hormone stimulation; a 'daughter cyst' (small follicle) confirms the diagnosis."
+    },
+    {
+      "number": 35,
+      "question": "A paediatric skull radiograph shows generalized dense bone. Which feature suggests pyknodysostosis over osteopetrosis?",
+      "choices": [
+        "A. Thickened skull base",
+        "B. Absent frontal sinuses",
+        "C. Wormian bones and obtuse mandibular angle",
+        "D. Rugger-jersey spine",
+        "E. Bone-within-bone appearance"
+      ],
+      "answer": "C",
+      "detail": "Pyknodysostosis is distinguished by Wormian bones and the characteristic absence of the normal mandibular angle."
+    },
+    {
+      "number": 36,
+      "question": "If the urachus remains patent throughout its entire length, what is the resulting clinical finding?",
+      "choices": [
+        "A. Urachal cyst",
+        "B. Vesicourachal diverticulum",
+        "C. Patent urachus (urachal fistula)",
+        "D. Urachal sinus",
+        "E. Allantoic remnant"
+      ],
+      "answer": "C",
+      "detail": "A completely patent urachus allows urine to drain from the bladder directly through the umbilicus."
+    },
+    {
+      "number": 37,
+      "question": "Which of the following is a lethal skeletal dysplasia characterized by a 'telephone receiver' femur?",
+      "choices": [
+        "A. Thanatophoric dysplasia",
+        "B. Asphyxiating thoracic dysplasia",
+        "C. Camptomelic dysplasia",
+        "D. Achondroplasia",
+        "E. Ellis–van Creveld syndrome"
+      ],
+      "answer": "A",
+      "detail": "Thanatophoric dysplasia (Type 1) is a lethal condition with severely bowed 'telephone receiver' long bones."
+    },
+    {
+      "number": 38,
+      "question": "Why do immature skeletons often demonstrate greenstick or torus fractures instead of complete fractures?",
+      "choices": [
+        "A. Malleable bones",
+        "B. Thick, strong periosteum",
+        "C. Loosely tethered periosteum",
+        "D. Decreased mineral density",
+        "E. High water content"
+      ],
+      "answer": "B",
+      "detail": "The thick, active periosteum in children is much stronger than in adults and often remains intact on one side of a fracture."
+    },
+    {
+      "number": 39,
+      "question": "A 'snowman' or 'figure-of-8' heart on CXR is a sign of which condition?",
+      "choices": [
+        "A. Tetralogy of Fallot",
+        "B. Total anomalous pulmonary venous return (Supracardiac)",
+        "C. Transposition of the great vessels",
+        "D. Coarctation of the aorta",
+        "E. Ebstein anomaly"
+      ],
+      "answer": "B",
+      "detail": "In supracardiac TAPVR, the dilated vertical vein and SVC form the 'head' of the snowman above the heart."
+    },
+    {
+      "number": 40,
+      "question": "Which syndrome is defined by the association of supravalvular aortic stenosis and mental retardation?",
+      "choices": [
+        "A. Marfan’s syndrome",
+        "B. Maffucci’s syndrome",
+        "C. Morquio’s syndrome",
+        "D. Williams’ syndrome",
+        "E. Mikity–Wilson syndrome"
+      ],
+      "answer": "D",
+      "detail": "Williams’ syndrome (elfin facies) is the classic association for supravalvular aortic stenosis."
+    },
+    {
+      "number": 41,
+      "question": "A fetus has a 12 mm renal pelvis at 35 weeks. What is the recommended postnatal management?",
+      "choices": [
+        "A. Discharge",
+        "B. Ultrasound at 6 weeks",
+        "C. Ultrasound within 24 hours of birth",
+        "D. Immediate VCUG",
+        "E. MAG3 scan at birth"
+      ],
+      "answer": "C",
+      "detail": "A renal pelvis >10 mm antenatally requires early postnatal ultrasound (within 24 hours) to assess for significant obstruction."
+    },
+    {
+      "number": 42,
+      "question": "On hip ultrasound, an alpha angle of 48 degrees suggests which status?",
+      "choices": [
+        "A. Normal joint",
+        "B. Unstable joint / Dysplasia",
+        "C. Dislocated joint",
+        "D. Physiological lag",
+        "E. Healed joint"
+      ],
+      "answer": "B",
+      "detail": "An alpha angle of less than 60 degrees (specifically <50) indicates a shallow acetabulum and potential instability."
+    },
+    {
+      "number": 43,
+      "question": "A child with ALL and low platelets has sudden weakness and a normal CT brain. Best next step?",
+      "choices": [
+        "A. Contrast CT",
+        "B. CT venogram",
+        "C. MR venogram",
+        "D. DWI",
+        "E. Gradient echo (GRE/SWI) MRI"
+      ],
+      "answer": "E",
+      "detail": "In a patient with profound thrombocytopenia, spontaneous hemorrhage must be excluded; GRE or SWI is most sensitive for small hemorrhages."
+    },
+    {
+      "number": 44,
+      "question": "A triangular mass with a rippled border in the right upper lobe of an 18-month-old child after pneumonia treatment is most likely what?",
+      "choices": [
+        "A. Persistent consolidation",
+        "B. Lung abscess",
+        "C. Rhabdomyosarcoma",
+        "C. Teratoma",
+        "E. Normal thymus"
+      ],
+      "answer": "E",
+      "detail": "The 'sail sign' and 'wave sign' (rippled border from rib indentations) are classic features of the normal infant thymus."
+    },
+    {
+      "number": 45,
+      "question": "What is the commonest chest radiograph finding in Tetralogy of Fallot?",
+      "choices": [
+        "A. Pulmonary plethora",
+        "B. Bulging right heart border",
+        "C. Concavity at the level of the pulmonary trunk",
+        "D. Elevated cardiac apex",
+        "E. C and D"
+      ],
+      "answer": "E",
+      "detail": "The combination of an elevated apex (RVH) and pulmonary trunk concavity (reduced flow) creates the classic 'boot-shaped' heart."
+    },
+    {
+      "number": 46,
+      "question": "A 5-week-old has projectile vomiting. Ultrasound shows a pyloric canal 18 mm long and muscle 3 mm thick. Management?",
+      "choices": [
+        "A. Discharge",
+        "B. Repeat ultrasound in 1 week",
+        "C. Barium swallow",
+        "D. Pyloromyotomy",
+        "E. Medical management"
+      ],
+      "answer": "D",
+      "detail": "Measurements of canal length >15-17 mm and muscle thickness >3 mm are diagnostic for hypertrophic pyloric stenosis."
+    },
+    {
+      "number": 47,
+      "question": "Which condition causes massive colonic distension in a neonate failing to pass meconium and is relieved by a water-soluble enema?",
+      "choices": [
+        "A. Colonic atresia",
+        "B. Hirschsprung’s disease",
+        "C. Meconium plug syndrome",
+        "D. Meconium ileus",
+        "E. Necrotizing enterocolitis"
+      ],
+      "answer": "C",
+      "detail": "Meconium plug syndrome (or small left colon syndrome) is often seen in infants of diabetic mothers and is cured by the diagnostic enema."
+    },
+    {
+      "number": 48,
+      "question": "What is the most common cause of colonic polyps in children, typically presenting with rectal bleeding?",
+      "choices": [
+        "A. Familial adenomatous polyposis",
+        "B. Juvenile polyposis",
+        "C. Peutz–Jeghers syndrome",
+        "D. Gardner syndrome",
+        "E. Turcot syndrome"
+      ],
+      "answer": "B",
+      "detail": "Juvenile polyps are hamartomatous and the most frequent polyps found in the pediatric population."
+    },
+    {
+      "number": 49,
+      "question": "The 'pancake flat' vertebral body (Vertebra Plana) in a child is a classic sign of which condition?",
+      "choices": [
+        "A. Osteomyelitis",
+        "B. Ewing’s sarcoma",
+        "C. Eosinophilic granuloma",
+        "D. Steroid usage",
+        "E. Osteogenesis imperfecta"
+      ],
+      "answer": "C",
+      "detail": "Vertebra plana in a child should immediately prompt consideration of Langerhans cell histiocytosis (EG)."
+    },
+    {
+      "number": 50,
+      "question": "CT shows the large bowel on the left and the small bowel on the right. The SMA is to the right of the SMV. Diagnosis?",
+      "choices": [
+        "A. Normal",
+        "B. Non-rotation",
+        "C. Malrotation",
+        "D. Reversed rotation",
+        "E. Midgut volvulus"
+      ],
+      "answer": "B",
+      "detail": "Non-rotation is a type of malrotation where the entire small bowel stays on the right and the colon on the left."
+    },
+    {
+      "number": 51,
+      "question": "A girl with reduced pain/temperature sensation has 7 mm tonsillar ectopia and syringohydromyelia. Diagnosis?",
+      "choices": [
+        "A. Chiari I malformation",
+        "B. Chiari II malformation",
+        "C. Chiari III malformation",
+        "D. Dandy–Walker syndrome",
+        "E. Diastematomyelia"
+      ],
+      "answer": "A",
+      "detail": "Chiari I is defined by tonsillar ectopia (>5 mm) and is frequently associated with syrinx formation."
+    },
+    {
+      "number": 52,
+      "question": "A 31-week fetus has hydrops, cardiac enlargement, and a cerebral median tubular cystic space with high-velocity flow. Diagnosis?",
+      "choices": [
+        "A. Vein of Galen malformation",
+        "B. Arachnoid cyst",
+        "C. Porencephalic cyst",
+        "D. Schizencephaly",
+        "E. Encephalocele"
+      ],
+      "answer": "A",
+      "detail": "The high-flow vascular malformation leads to high-output cardiac failure and hydrops in the fetus."
+    },
+    {
+      "number": 53,
+      "question": "Which is the most common intracranial finding on CT in cases of non-accidental injury (NAI)?",
+      "choices": [
+        "A. Epidural haematoma",
+        "B. Subdural haematoma",
+        "C. Subarachnoid haemorrhage",
+        "D. Acute cerebral contusion",
+        "E. Cortical tubers"
+      ],
+      "answer": "B",
+      "detail": "Subdural hematomas (especially interhemispheric ones) are the most frequent brain injury seen in child abuse."
+    },
+    {
+      "number": 54,
+      "question": "A 12-year-old has large septated cystic collections around both kidneys causing scalloping of the renal outlines. Diagnosis?",
+      "choices": [
+        "A. Renal lymphangiectasia",
+        "B. Bilateral Wilms’ tumours",
+        "C. Bilateral adrenal neuroblastoma",
+        "D. Bilateral hydronephrosis",
+        "E. Medullary sponge kidney"
+      ],
+      "answer": "A",
+      "detail": "Renal lymphangiectasia is a rare condition where dilated lymphatics form perinephric and parapelvic cysts."
+    },
+    {
+      "number": 55,
+      "question": "A 15-year-old with renal failure and nerve deafness likely has which hereditary condition?",
+      "choices": [
+        "A. Von Hippel–Lindau",
+        "B. Tuberous sclerosis",
+        "C. Alport’s syndrome",
+        "D. ADPKD",
+        "E. NF1"
+      ],
+      "answer": "C",
+      "detail": "Alport’s syndrome is a hereditary nephritis associated with sensorineural hearing loss and ocular abnormalities."
+    },
+    {
+      "number": 56,
+      "question": "A 2-month-old has hyperlucency in the LUL with contralateral shift and compression of the LLL. Diagnosis?",
+      "choices": [
+        "A. Congenital lobar emphysema",
+        "B. Macleod’s syndrome",
+        "C. Bronchiolitis obliterans",
+        "D. Foreign body",
+        "E. Carcinoid"
+      ],
+      "answer": "A",
+      "detail": "CLE presents with hyperexpansion of a lobe (usually LUL) and progressive respiratory distress in early infancy."
+    },
+    {
+      "number": 57,
+      "question": "A [99mTc]-pertechnetate study shows a focal area of increased activity in the RLQ that parallels the stomach. Diagnosis?",
+      "choices": [
+        "A. Meckel’s diverticulum",
+        "B. Appendicitis",
+        "C. Duodenal duplication cyst",
+        "D. Intussusception",
+        "E. Peptic ulcer disease"
+      ],
+      "answer": "A",
+      "detail": "Pertechnetate is taken up by heterotopic gastric mucosa, which is present in symptomatic Meckel’s diverticula."
+    },
+    {
+      "number": 58,
+      "question": "A full-term baby born to a diabetic mother fails to pass meconium. Enema shows a transition at the splenic flexure. Diagnosis?",
+      "choices": [
+        "A. Hirschsprung’s",
+        "B. Meconium plug syndrome",
+        "C. Colonic atresia",
+        "D. Meconium ileus",
+        "E. Duodenal atresia"
+      ],
+      "answer": "B",
+      "detail": "Also known as small left colon syndrome, this is highly associated with maternal diabetes and resolves with the enema."
+    },
+    {
+      "number": 59,
+      "question": "Which phakomatosis is associated with multiple renal cysts, pancreatic cysts, and posterior fossa hemangioblastomas?",
+      "choices": [
+        "A. NF1",
+        "B. NF2",
+        "C. Von Hippel–Lindau",
+        "D. Tuberous sclerosis",
+        "E. Sturge–Weber"
+      ],
+      "answer": "C",
+      "detail": "VHL is characterized by visceral cysts and vascular tumors of the CNS and retina."
+    },
+    {
+      "number": 60,
+      "question": "In a patient with cystic fibrosis, upper-lobe-predominant bronchiectasis is common. What is the classic appearance?",
+      "choices": [
+        "A. Signet ring sign",
+        "B. Finger-in-glove (mucus plugging)",
+        "C. Tram-track opacities",
+        "D. Honeycombing",
+        "E. A, B, and C"
+      ],
+      "answer": "E",
+      "detail": "CF bronchiectasis features airway thickening (tram-tracks), dilatation (signet rings), and mucus plugging (finger-in-glove)."
+    },
+    {
+      "number": 61,
+      "question": "A child with colicky pain and a purpuric rash on the legs has bowel wall thickening on CT. Diagnosis?",
+      "choices": [
+        "A. Crohn’s disease",
+        "B. Henoch–Schönlein purpura",
+        "C. Ulcerative colitis",
+        "D. Intussusception",
+        "E. Lymphoma"
+      ],
+      "answer": "B",
+      "detail": "HSP is a systemic vasculitis that frequently involves the GI tract, presenting with hemorrhage and wall thickening."
+    },
+    {
+      "number": 62,
+      "question": "Which finding is part of the 'hypoperfusion complex' in a child following blunt abdominal trauma?",
+      "choices": [
+        "A. Small-calibre aorta and IVC",
+        "B. Hyperenhancing kidneys and adrenals",
+        "C. Hyperenhancing bowel wall",
+        "D. All of the above",
+        "E. Splenomegaly"
+      ],
+      "answer": "D",
+      "detail": "The shock bowel / hypoperfusion complex is a marker of severe hypovolaemia and poor prognosis."
+    },
+    {
+      "number": 63,
+      "question": "What is the most sensitive investigation for diagnosing pediatric discitis?",
+      "choices": [
+        "A. Plain film",
+        "B. Ultrasound",
+        "C. CT",
+        "D. MRI",
+        "E. Bone scan"
+      ],
+      "answer": "D",
+      "detail": "MRI is highly sensitive and can show marrow edema and disc changes long before they are visible on other modalities."
+    },
+    {
+      "number": 64,
+      "question": "Which feature helps distinguish Meconium Aspiration Syndrome (MAS) from RDS on a chest radiograph?",
+      "choices": [
+        "A. Low lung volumes",
+        "B. Air bronchograms",
+        "C. Hyperinflation with air trapping",
+        "D. Bilateral granular opacities",
+        "E. Pleural effusions"
+      ],
+      "answer": "C",
+      "detail": "Unlike RDS, MAS occurs in full-term babies and features hyperinflation and patchy 'ropey' opacities."
+    },
+    {
+      "number": 65,
+      "question": "Flaring of the iliac wings, flat acetabular roofs, and decreased iliac angles (giving a low iliac index) are pelvic signs of?",
+      "choices": [
+        "A. Achondroplasia",
+        "B. Down’s syndrome",
+        "C. Osteogenesis imperfecta",
+        "D. Morquio syndrome",
+        "E. Hurler syndrome"
+      ],
+      "answer": "B",
+      "detail": "The 'elephant ear' iliac wings and low iliac index are characteristic pelvic findings in Down’s syndrome."
+    },
+    {
+      "number": 66,
+      "question": "What is the most common cause of neonatal intestinal obstruction?",
+      "choices": [
+        "A. Meconium ileus",
+        "B. Hirschsprung’s disease",
+        "C. Ileal atresia",
+        "D. Imperforate anus",
+        "E. Malrotation"
+      ],
+      "answer": "C",
+      "detail": "Small bowel atresia (ileal and jejunal) is the leading cause of neonatal obstruction."
+    },
+    {
+      "number": 67,
+      "question": "Where is the germinal matrix located in the developing brain (24-32 weeks)?",
+      "choices": [
+        "A. Posterior to the trigone",
+        "B. Anterior to the caudothalamic groove",
+        "C. Within the choroid plexus",
+        "D. In the cerebellar vermis",
+        "E. Subcortical white matter"
+      ],
+      "answer": "B",
+      "detail": "This highly vascular region is the site of germinal matrix hemorrhage in premature infants."
+    },
+    {
+      "number": 68,
+      "question": "Which skeletal finding is NOT typically seen in pediatric rickets?",
+      "choices": [
+        "A. Fraying of the metaphysis",
+        "B. Cupping of the metaphysis",
+        "C. Widening of the growth plate",
+        "D. Narrowing of the growth plate",
+        "E. Bowing of long bones"
+      ],
+      "answer": "D",
+      "detail": "Rickets causes failure of mineralization, leading to a widened (not narrowed) growth plate and splayed, cupped metaphyses."
+    },
+    {
+      "number": 69,
+      "question": "What is the most common lead point/cause for intussusception in children?",
+      "choices": [
+        "A. Meckel’s diverticulum",
+        "B. Lymphoma",
+        "C. Hypertrophied Peyer's patches (viral)",
+        "D. Enteric cyst",
+        "E. Polyp"
+      ],
+      "answer": "C",
+      "detail": "In 90% of cases, pediatric intussusception is idiopathic and thought to be triggered by lymphoid tissue swelling following a viral illness."
+    },
+    {
+      "number": 70,
+      "question": "Mesial temporal sclerosis is best identified on MRI by which finding?",
+      "choices": [
+        "A. Reduced hippocampal volume",
+        "B. Increased T2/FLAIR signal in the hippocampus",
+        "C. Loss of normal internal morphology",
+        "D. All of the above",
+        "E. Temporal horn collapse"
+      ],
+      "answer": "D",
+      "detail": "The combination of volume loss, high T2 signal, and loss of normal architectural interdigitations identifies MTS."
+    },
+    {
+      "number": 71,
+      "question": "Which structure is always absent or abnormal in all types of holoprosencephaly?",
+      "choices": [
+        "A. Falx cerebri",
+        "B. Corpus callosum",
+        "C. Septum pellucidum",
+        "D. Optic chiasm",
+        "E. Thalamus"
+      ],
+      "answer": "C",
+      "detail": "The absence of the septum pellucidum is a consistent feature and a sensitive indicator of midline cleavage failure."
+    },
+    {
+      "number": 72,
+      "question": "A neonate has hazy LUL opacification that becomes hyperlucent 2 months later with shift. Diagnosis?",
+      "choices": [
+        "A. Congenital lobar emphysema",
+        "B. Macleod’s syndrome",
+        "C. Bronchogenic cyst",
+        "D. Sequestration",
+        "E. Cystic adenomatoid malformation"
+      ],
+      "answer": "A",
+      "detail": "CLE can present as a fluid-filled hazy lobe early on (failing to clear fetal lung fluid) before becoming air-filled and hyperlucent."
+    },
+    {
+      "number": 73,
+      "question": "An incidental finding of a small atrophic ovary with stippled calcification in a 13-year-old girl is likely what?",
+      "choices": [
+        "A. Ovarian teratoma",
+        "B. Amputated ovary (old torsion)",
+        "C. Follicular cyst",
+        "D. Leiomyoma",
+        "E. Normal variation"
+      ],
+      "answer": "B",
+      "detail": "An 'amputated' ovary is the result of torsion that led to infarction and subsequent atrophy."
+    },
+    {
+      "number": 74,
+      "question": "Spontaneous neonatal pneumothorax is a known association for which condition?",
+      "choices": [
+        "A. Biliary atresia",
+        "B. Renal anomalies (hypoplasia/agenesis)",
+        "C. Cardiac failure",
+        "D. Duodenal atresia",
+        "E. NF1"
+      ],
+      "answer": "B",
+      "detail": "A search for renal anomalies via ultrasound is recommended when a neonate has an otherwise unexplained pneumothorax."
+    },
+    {
+      "number": 75,
+      "question": "Which finding makes a Dandy-Walker malformation 'classic' rather than a 'variant'?",
+      "choices": [
+        "A. Hypoplastic vermis",
+        "B. Enlarged posterior fossa and high torcula",
+        "C. Dilated 4th ventricle",
+        "D. Hydrocephalus",
+        "E. Corpus callosum agenesis"
+      ],
+      "answer": "B",
+      "detail": "The 'classic' malformation includes vermian hypoplasia, a massively dilated 4th ventricle, and an expanded posterior fossa with an elevated torcula."
+    },
+    {
+      "number": 76,
+      "question": "Which fracture is considered pathognomonic for non-accidental injury (NAI)?",
+      "choices": [
+        "A. Mid-shaft femur",
+        "B. Metaphyseal corner (bucket handle) fracture",
+        "C. Diaphyseal transverse",
+        "D. Linear skull fracture",
+        "E. Clavicle fracture"
+      ],
+      "answer": "B",
+      "detail": "The metaphyseal corner fracture is caused by a unique shearing force and is highly specific for child abuse."
+    },
+    {
+      "number": 77,
+      "question": "In the context of NAI, which rib fracture location is most characteristic of abuse?",
+      "choices": [
+        "A. Anterior",
+        "B. Lateral",
+        "C. Posterior",
+        "D. Lower ribs",
+        "E. Upper ribs"
+      ],
+      "answer": "C",
+      "detail": "Posterior rib fractures (near the spine) result from forceful squeezing of the chest wall."
+    },
+    {
+      "number": 78,
+      "question": "Which paediatric tumor typically shows a 'dumbbell' shape as it crosses the cribriform plate?",
+      "choices": [
+        "A. JNA",
+        "B. Inverting papilloma",
+        "C. Esthesioneuroblastoma",
+        "D. SNUC",
+        "E. Lymphoma"
+      ],
+      "answer": "C",
+      "detail": "Esthesioneuroblastoma arises from olfactory cells and classically has an intracranial and extracranial 'waist' at the cribriform plate."
+    },
+    {
+      "number": 79,
+      "question": "A neonate has granular opacities and air bronchograms on CXR but was born at 39 weeks. Most likely cause?",
+      "choices": [
+        "A. RDS",
+        "B. Beta-haemolytic streptococcal pneumonia",
+        "C. MAS",
+        "D. TTN",
+        "E. PIE"
+      ],
+      "answer": "B",
+      "detail": "Group B Strep pneumonia can perfectly mimic the imaging features of RDS but occurs in full-term infants."
+    },
+    {
+      "number": 80,
+      "question": "No biliary clearance into the bowel after 24 hours on phenobarbital-augmented HIDA scan is diagnostic of?",
+      "choices": [
+        "A. Biliary atresia",
+        "B. Neonatal hepatitis",
+        "C. Alagille syndrome",
+        "D. Choledochal cyst",
+        "E. Normal"
+      ],
+      "answer": "A",
+      "detail": "Total absence of bowel activity despite good hepatic tracer uptake is the hallmark of biliary atresia."
+    },
+    {
+      "number": 81,
+      "question": "Which of the following skeletal locations is NOT a common site for avulsion fractures in children?",
+      "choices": [
+        "A. ASIS",
+        "B. Ischial tuberosity",
+        "C. Tibial spine",
+        "D. Medial epicondyle",
+        "E. Radial head"
+      ],
+      "answer": "E",
+      "detail": "Radial head fractures are typically compressive; the others are all classic growing-apophysis avulsion sites."
+    },
+    {
+      "number": 82,
+      "question": "A 13-year-old male with severe epistaxis and a mass widening the pterygopalatine fossa has which condition?",
+      "choices": [
+        "A. Antrochoanal polyp",
+        "B. JNA (Juvenile Nasopharyngeal Angiofibroma)",
+        "C. Esthesioneuroblastoma",
+        "D. Chordoma",
+        "E. Rhabdomyosarcoma"
+      ],
+      "answer": "B",
+      "detail": "JNA is a highly vascular tumor centered on the sphenopalatine foramen, occurring almost exclusively in male teenagers."
+    },
+    {
+      "number": 83,
+      "question": "What is the primary feeding vessel for a JNA?",
+      "choices": [
+        "A. Internal carotid",
+        "B. Ophthalmic artery",
+        "C. Internal maxillary artery",
+        "D. Facial artery",
+        "E. Lingual artery"
+      ],
+      "answer": "C",
+      "detail": "The internal maxillary artery (a branch of the ECA) is the main blood supply and the target for pre-op embolization."
+    },
+    {
+      "number": 84,
+      "question": "Osteogenesis imperfecta is characterized by which radiographic finding?",
+      "choices": [
+        "A. Thickened cortices",
+        "B. Exuberant callus formation and multiple fractures",
+        "C. Narrowing of long bones",
+        "D. Increased bone mineral density",
+        "E. Absent periosteum"
+      ],
+      "answer": "B",
+      "detail": "Weak bones in OI lead to multiple fractures, bowing, and distinctive bulky (hyperplastic) callus formation."
+    },
+    {
+      "number": 85,
+      "question": "A 'starry sky' appearance on pediatric liver ultrasound (bright portal triads) suggests?",
+      "choices": [
+        "A. Cirrhosis",
+        "B. Hepatoblastoma",
+        "C. Viral hepatitis",
+        "D. Fatty liver",
+        "E. Biliary atresia"
+      ],
+      "answer": "C",
+      "detail": "Acute hepatitis reduces liver echogenicity, making the normal portal triads stand out brightly."
+    },
+    {
+      "number": 86,
+      "question": "A 2-year-old boy with precocious puberty has a 10 cm heterogeneous liver mass with coarse calcifications. Diagnosis?",
+      "choices": [
+        "A. HCC",
+        "B. Hepatoblastoma",
+        "C. Hemangioma",
+        "D. Mesenchymal hamartoma",
+        "E. Metastasis"
+      ],
+      "answer": "B",
+      "detail": "Hepatoblastoma is associated with precocious puberty (due to HCG secretion) and is the most common primary liver tumor of childhood."
+    },
+    {
+      "number": 87,
+      "question": "Which of the following is NORMAL on neonatal renal ultrasound?",
+      "choices": [
+        "A. Cortex more echogenic than the liver",
+        "B. Large, prominent, hypoechoic medullary pyramids",
+        "C. Scalloped/lobulated renal contour",
+        "D. All of the above",
+        "E. Dilation of the renal pelvis >10 mm"
+      ],
+      "answer": "D",
+      "detail": "Neonatal kidneys are unique for their high cortical echogenicity, large pyramids, and persistent fetal lobulation."
+    },
+    {
+      "number": 88,
+      "question": "A finding of renal artery aneurysms in a child with hypertension favors a diagnosis of?",
+      "choices": [
+        "A. NF1",
+        "B. VHL",
+        "C. Tuberous sclerosis",
+        "D. Sturge-Weber",
+        "E. Fibromuscular dysplasia"
+      ],
+      "answer": "A",
+      "detail": "NF1 causes dysplasia of arterial walls, classically leading to orificial renal artery stenosis or aneurysms."
+    },
+    {
+      "number": 89,
+      "question": "Which cervical cyst is characteristically found in the midline, anywhere from the tongue base to the thyroid?",
+      "choices": [
+        "A. Branchial cleft cyst",
+        "B. Thyroglossal duct cyst",
+        "C. Cystic hygroma",
+        "D. Dermoid cyst",
+        "E. Ranula"
+      ],
+      "answer": "B",
+      "detail": "Thyroglossal duct cysts are the most common midline congenital neck masses."
+    },
+    {
+      "number": 90,
+      "question": "A rib-based inhomogeneous mass with a large intrathoracic component and rib destruction in a child is most likely?",
+      "choices": [
+        "A. Osteosarcoma",
+        "B. Ewing’s sarcoma (Askin tumour)",
+        "C. Metastasis",
+        "D. Neuroblastoma",
+        "E. Chondrosarcoma"
+      ],
+      "answer": "B",
+      "detail": "An Askin tumor is a primitive neuroectodermal tumor (PNET) of the Ewing's family that arises from the chest wall."
+    },
+    {
+      "number": 91,
+      "question": "Which fracture in a non-ambulant infant is highly suggestive of NAI?",
+      "choices": [
+        "A. Mid-shaft clavicle",
+        "B. Toddler's fracture",
+        "C. Spiral tibia fracture",
+        "D. Buckle fracture of radius",
+        "E. Greenstick ulna"
+      ],
+      "answer": "C",
+      "detail": "While spiral fractures are common in walking toddlers, they are highly suspicious in infants who cannot yet walk."
+    },
+    {
+      "number": 92,
+      "question": "A 'yo-yo' appearance on MRI of a thumb injury is diagnostic of?",
+      "choices": [
+        "A. Gamekeeper's thumb",
+        "B. Stener lesion",
+        "C. Bennett fracture",
+        "D. Rolando fracture",
+        "E. Skier's thumb"
+      ],
+      "answer": "B",
+      "detail": "A Stener lesion occurs when the UCL is torn and caught superficial to the adductor aponeurosis, preventing healing."
+    },
+    {
+      "number": 93,
+      "question": "What is the 'next step' when a Stener lesion is suspected based on imaging?",
+      "choices": [
+        "A. Stress radiographs",
+        "B. Cast immobilization",
+        "C. Surgical repair",
+        "D. Discharge",
+        "E. Repeat MRI in 2 weeks"
+      ],
+      "answer": "C",
+      "detail": "A Stener lesion will not heal with immobilization and requires surgery to reposition the ligament."
+    },
+    {
+      "number": 94,
+      "question": "Which midline posterior fossa tumor in a child is 'T1 bright' and 'fat-containing'?",
+      "choices": [
+        "A. Epidermoid",
+        "B. Dermoid",
+        "C. Medulloblastoma",
+        "D. Ependymoma",
+        "E. JPA"
+      ],
+      "answer": "B",
+      "detail": "Dermoids contain sebaceous material (fat) and hair, appearing T1 bright and hypodense on CT."
+    },
+    {
+      "number": 95,
+      "question": "A 4 mm, blind-ending, compressible, fluid-filled tubular structure in the RLQ of a child is likely?",
+      "choices": [
+        "A. Acute appendicitis",
+        "B. Normal appendix",
+        "C. Mesenteric lymphadenitis",
+        "D. Meckel's diverticulum",
+        "E. Enteric cyst"
+      ],
+      "answer": "B",
+      "detail": "A normal pediatric appendix is compressible and should measure less than 6 mm in diameter."
+    },
+    {
+      "number": 96,
+      "question": "A 16-year-old female with primary amenorrhoea and a history of imperforate anus has a distended uterus. Diagnosis?",
+      "choices": [
+        "A. Pregnancy",
+        "B. Haematometrocolpos",
+        "C. Endometrial cancer",
+        "D. Cervical stenosis",
+        "E. Adenomyosis"
+      ],
+      "answer": "B",
+      "detail": "Imperforate anus is associated with other VACTERL or genitourinary anomalies like a transverse vaginal septum, leading to trapped menstrual blood."
+    },
+    {
+      "number": 97,
+      "question": "What is the commonest site for a pediatric neuroblastoma to occur?",
+      "choices": [
+        "A. Posterior mediastinum",
+        "B. Pelvis",
+        "C. Adrenal gland",
+        "D. Neck",
+        "E. Brain"
+      ],
+      "answer": "C",
+      "detail": "The adrenal gland is the site of origin in approximately 50% of neuroblastoma cases."
+    },
+    {
+      "number": 98,
+      "question": "Total anomalous pulmonary venous return (TAPVR) of the supracardiac type has which classic look?",
+      "choices": [
+        "A. Boot-shaped heart",
+        "B. Snowman-shaped heart",
+        "C. Egg-on-a-string heart",
+        "D. Box-shaped heart",
+        "E. Scimitar sign"
+      ],
+      "answer": "B",
+      "detail": "The head of the 'snowman' is formed by the anomalous veins draining into the vertical vein and SVC."
+    },
+    {
+      "number": 99,
+      "question": "Acute inflammation and circumferential wall thickening of the caecum in a neutropenic child is termed?",
+      "choices": [
+        "A. Appendicitis",
+        "B. Typhlitis",
+        "C. Crohn’s disease",
+        "D. Intussusception",
+        "E. Diverticulitis"
+      ],
+      "answer": "B",
+      "detail": "Typhlitis (neutropenic enterocolitis) is a life-threatening infection of the caecum in immunocompromised patients."
+    },
+    {
+      "number": 100,
+      "question": "A child has a large, cystic liver mass with internal septations identified at birth. Most likely diagnosis?",
+      "choices": [
+        "A. Hepatoblastoma",
+        "B. Mesenchymal hamartoma",
+        "C. Infantile hemangioendothelioma",
+        "D. Choledochal cyst",
+        "E. Hydatid cyst"
+      ],
+      "answer": "B",
+      "detail": "Mesenchymal hamartoma is the classic large cystic 'benign' liver tumor of infancy/newborns."
+    }
+  ]
+}

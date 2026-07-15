@@ -6,30 +6,57 @@ document.addEventListener('DOMContentLoaded', function () {
   const minusBtn = document.querySelector('.number-btn.minus');
   const plusBtn = document.querySelector('.number-btn.plus');
 
+  // Updated constraints: Min is 1, Max is 120 (FRCR standard)
+  const MIN_QS = 1;
+  const MAX_QS = 120;
+  const DEFAULT_QS = 40;
+
   if (minusBtn) {
     minusBtn.addEventListener('click', (e) => {
       e.preventDefault();
-      const currentValue = parseInt(questionCount.value, 10) || 40;
-      if (currentValue > 1) questionCount.value = currentValue - 1;
+      const currentValue = parseInt(questionCount.value, 10) || DEFAULT_QS;
+      if (currentValue > MIN_QS) questionCount.value = currentValue - 1;
     });
   }
 
   if (plusBtn) {
     plusBtn.addEventListener('click', (e) => {
       e.preventDefault();
-      const currentValue = parseInt(questionCount.value, 10) || 40;
-      if (currentValue < 400) questionCount.value = currentValue + 1;
+      const currentValue = parseInt(questionCount.value, 10) || DEFAULT_QS;
+      if (currentValue < MAX_QS) questionCount.value = currentValue + 1;
     });
   }
 
   if (questionCount) {
     questionCount.addEventListener('change', () => {
       const value = parseInt(questionCount.value, 10);
-      if (isNaN(value)) questionCount.value = 40;
-      else if (value < 1) questionCount.value = 1;
-      else if (value > 400) questionCount.value = 400;
+      if (isNaN(value)) questionCount.value = DEFAULT_QS;
+      else if (value < MIN_QS) questionCount.value = MIN_QS;
+      else if (value > MAX_QS) questionCount.value = MAX_QS;
     });
   }
+
+  // --- FRCR Modular Session Launcher ---
+  // Expose to window so the inline onclick handlers in your HTML cards work perfectly
+  window.launchModularSession = function(moduleFileName, mode) {
+    // 1. Pack the selected modular file
+    const filesToLoad = [moduleFileName];
+    sessionStorage.setItem('filesToLoad', JSON.stringify(filesToLoad));
+    
+    // 2. Set the module default count of 100 questions
+    sessionStorage.setItem('questionCount', '100');
+    if (questionCount) {
+      questionCount.value = 100;
+    }
+    
+    // 3. Route to the corresponding page based on clicked mode
+    console.log(`Launching FRCR Module: ${moduleFileName} in ${mode} mode with 100 Qs.`);
+    if (mode === 'study') {
+      window.location.href = 'studymode.html';
+    } else {
+      window.location.href = 'exammode.html';
+    }
+  };
 
   // --- Modal open handlers (guarded) ---
   const mskCheckbox = document.getElementById('mskCheckbox');
@@ -50,7 +77,6 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  // UPDATED: Added Cardiac Modal trigger
   const cardiacUnit = document.querySelector('input[name="unit"][value="cardiac"]');
   if (cardiacUnit) {
     cardiacUnit.addEventListener('click', function(e) {
@@ -106,7 +132,6 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   // --- Modal close helpers ---
-  // UPDATED: Added 'cardiacModal' to close group array
   function closeAllModals() {
     ['mskModal','thoracicModal','cardiacModal','neuroradModal','giModal','pedsModal','guModal','breastModal'].forEach(id => {
       const el = document.getElementById(id);
@@ -116,7 +141,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   function closeModal() { const m = document.getElementById('mskModal'); if (m) m.style.display = 'none'; }
   function closeThoracicModal() { const m = document.getElementById('thoracicModal'); if (m) m.style.display = 'none'; }
-  function closeCardiacModal() { const m = document.getElementById('cardiacModal'); if (m) m.style.display = 'none'; } // UPDATED: Created closer
+  function closeCardiacModal() { const m = document.getElementById('cardiacModal'); if (m) m.style.display = 'none'; }
   function closeNeuroradModal() { const m = document.getElementById('neuroradModal'); if (m) m.style.display = 'none'; }
   function closeGiModal() { const m = document.getElementById('giModal'); if (m) m.style.display = 'none'; }
   function closePedsModal() { const m = document.getElementById('pedsModal'); if (m) m.style.display = 'none'; }
@@ -126,7 +151,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // expose to inline onclick handlers
   window.closeModal = closeModal;
   window.closeThoracicModal = closeThoracicModal;
-  window.closeCardiacModal = closeCardiacModal; // UPDATED: Exposed closeCardiacModal
+  window.closeCardiacModal = closeCardiacModal;
   window.closeNeuroradModal = closeNeuroradModal;
   window.closeGiModal = closeGiModal;
   window.closePedsModal = closePedsModal;
@@ -148,7 +173,6 @@ document.addEventListener('DOMContentLoaded', function () {
     closeThoracicModal();
   };
 
-  // UPDATED: Added Cardiac selection handler
   window.handleCardiacSubunitSelection = function() {
     const checked = document.querySelectorAll('#cardiacModal input[type="checkbox"]:checked');
     const c = document.querySelector('input[name="unit"][value="cardiac"]');
@@ -191,18 +215,22 @@ document.addEventListener('DOMContentLoaded', function () {
     closeBreastModal();
   };
 
-  // --- Click outside to close modals & uncheck associated unit ---
-  // UPDATED: Added 'cardiacModal' to the array loop
+  // --- Click outside to close modals ---
   window.addEventListener('click', function(event) {
     ['mskModal','thoracicModal','cardiacModal','neuroradModal','giModal','pedsModal','guModal','breastModal'].forEach(modalId => {
       const modalEl = document.getElementById(modalId);
       if (modalEl && event.target === modalEl) {
         modalEl.style.display = 'none';
+        
+        const checkedCount = modalEl.querySelectorAll('input[type="checkbox"]:checked').length;
         const unitValue = modalId.replace('Modal','').toLowerCase();
         const checkbox = unitValue === 'msk'
           ? document.getElementById('mskCheckbox')
           : document.querySelector(`input[name="unit"][value="${unitValue}"]`);
-        if (checkbox) checkbox.checked = false;
+        
+        if (checkbox && checkedCount === 0) {
+          checkbox.checked = false;
+        }
       }
     });
   });
@@ -211,19 +239,25 @@ document.addEventListener('DOMContentLoaded', function () {
   const startBtn = document.querySelector('.start-btn');
   if (startBtn) {
     startBtn.addEventListener('click', function() {
-      const allSelectedSubunits = [];
-      // UPDATED: Added 'cardiac' to modal query selection loop
+      let filesToLoad = [];
+
+      // Check standard modular sub-unit modals first
       ['msk','thoracic','cardiac','neurorad','gi','peds','gu','breast'].forEach(modal => {
         const boxes = document.querySelectorAll(`#${modal}Modal input[type="checkbox"]:checked`);
-        boxes.forEach(cb => allSelectedSubunits.push(cb.value));
+        boxes.forEach(cb => filesToLoad.push(cb.value));
       });
 
-      const selectedUnits = [];
-      document.querySelectorAll('input[name="unit"]:checked').forEach(cb => selectedUnits.push(cb.value));
+      // Fall back to standard parent checkboxes if no subunits are flagged
+      if (filesToLoad.length === 0) {
+        document.querySelectorAll('input[name="unit"]:checked').forEach(cb => filesToLoad.push(cb.value));
+      }
 
-      const filesToLoad = allSelectedSubunits.length > 0 ? allSelectedSubunits : selectedUnits;
-      if (filesToLoad.length === 0) filesToLoad.push('sample');
+      // Ultimate fallback
+      if (filesToLoad.length === 0) {
+        filesToLoad.push('sample');
+      }
 
+      // Save standard settings to Session Storage
       sessionStorage.setItem('filesToLoad', JSON.stringify(filesToLoad));
       const qcVal = questionCount ? questionCount.value : '40';
       sessionStorage.setItem('questionCount', qcVal);

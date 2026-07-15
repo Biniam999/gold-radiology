@@ -1,0 +1,1304 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "A 70-year-old woman presents with sudden onset right hemiplegia and expressive dysphasia. She is normotensive. CT shows a subcortical acute hemorrhage in the left frontal lobe, smaller subacute hemorrhages elsewhere, lacunar infarcts, and marked brain atrophy. What is the most likely diagnosis?",
+      "choices": [
+        "A. malignant hypertension",
+        "B. acute disseminated encephalomyelitis",
+        "C. neurosarcoidosis",
+        "D. neuroamyloidosis",
+        "E. haemorrhagic metastases"
+      ],
+      "answer": "D",
+      "detail": "Cerebral amyloid angiopathy (neuroamyloidosis) is a leading cause of spontaneous lobar hemorrhage in normotensive elderly patients, often associated with leukoencephalopathy and atrophy."
+    },
+    {
+      "number": 2,
+      "question": "Which brain structure is abnormal or absent in all forms of holoprosencephaly, serving as the most sensitive indicator of a midline cleavage abnormality?",
+      "choices": [
+        "A. falx cerebri",
+        "B. third ventricle",
+        "C. fourth ventricle",
+        "D. corpus callosum",
+        "E. septum pellucidum"
+      ],
+      "answer": "E",
+      "detail": "Absence of the septum pellucidum is a hallmark of all types of holoprosencephaly and septo-optic dysplasia."
+    },
+    {
+      "number": 3,
+      "question": "In an AIDS patient with multiple enhancing supratentorial masses, which imaging feature favors a diagnosis of toxoplasmosis rather than primary CNS lymphoma?",
+      "choices": [
+        "A. subependymal distribution",
+        "B. lesions hyperdense on unenhanced CT",
+        "C. lesion size > 3 cm",
+        "D. hypovascularity on MR perfusion study",
+        "E. increased uptake of thallium-201 on SPECT"
+      ],
+      "answer": "D",
+      "detail": "Toxoplasmosis is typically hypovascular on perfusion MRI and cold on Thallium SPECT, whereas CNS lymphoma is hypervascular and thallium-avid."
+    },
+    {
+      "number": 4,
+      "question": "According to the Consensus Conference (2002), which carotid Doppler finding is most suggestive of an internal carotid artery stenosis greater than 70%?",
+      "choices": [
+        "A. ICA peak systolic velocity of 120 cm/s",
+        "B. ICA end-diastolic velocity of 80 cm/s",
+        "C. ratio of PSV in ICA to CCA of > 4.0",
+        "D. loss of flow in CCA during diastole",
+        "E. no spectral broadening"
+      ],
+      "answer": "C",
+      "detail": "Criteria for >70% stenosis include a PSV >230 cm/s and an ICA/CCA PSV ratio >4.0."
+    },
+    {
+      "number": 5,
+      "question": "An MRI demonstrates a subdural haematoma that is high signal on T1W images and high signal with a hypointense rim on T2W images. What is its most likely age?",
+      "choices": [
+        "A. < 6 hours",
+        "B. 8–72 hours",
+        "C. 3 days to 1 week",
+        "D. 1 week to several months",
+        "E. several months to years"
+      ],
+      "answer": "D",
+      "detail": "This signal pattern represents the late subacute stage, where extracellular methemoglobin provides high T1/T2 signal and a peripheral hemosiderin rim develops."
+    },
+    {
+      "number": 6,
+      "question": "A 75-year-old man develops left-sided weakness after aortic valve replacement. CT reveals a hypodensity of -30 HU within the M1 segment of the right MCA. What is the diagnosis?",
+      "choices": [
+        "A. thromboembolic occlusion",
+        "B. fat embolism syndrome",
+        "C. middle cerebral artery fat embolism",
+        "D. middle cerebral artery air embolism",
+        "E. middle cerebral artery dissection"
+      ],
+      "answer": "C",
+      "detail": "A negative attenuation value (-30 HU) within a vessel on CT is diagnostic for fat."
+    },
+    {
+      "number": 7,
+      "question": "Degenerative spinal vertebral body endplate changes (Modic changes) that demonstrate high signal on both T1W and T2W MR images are classified as:",
+      "choices": [
+        "A. Type I",
+        "B. Type II",
+        "C. Type III",
+        "D. Type IV",
+        "E. Type V"
+      ],
+      "answer": "B",
+      "detail": "Modic Type II changes represent fatty marrow replacement of the endplates."
+    },
+    {
+      "number": 8,
+      "question": "A 14-year-old boy presents with gait abnormality, kyphoscoliosis, and tremors. MRI shows mild cerebellar atrophy and marked thinning of the cervicomedullary junction/upper cervical cord. Diagnosis?",
+      "choices": [
+        "A. multiple sclerosis",
+        "B. neurosarcoidosis",
+        "C. Friedreich’s ataxia",
+        "D. neurofibromatosis",
+        "E. lymphoma"
+      ],
+      "answer": "C",
+      "detail": "Thinning of the cervical cord and cervicomedullary junction in a young patient with these clinical features is classic for Friedreich's ataxia."
+    },
+    {
+      "number": 9,
+      "question": "Which MRI feature would most strongly suggest an intramedullary ependymoma over transverse myelitis/demyelination?",
+      "choices": [
+        "A. multiple lesions",
+        "B. expansion of the cord",
+        "C. high signal on T2W images",
+        "D. enhancement with gadolinium",
+        "E. peripheral low signal cap on all sequences"
+      ],
+      "answer": "E",
+      "detail": "The 'hemosiderin cap' (peripheral low signal) is highly suggestive of a cord ependymoma due to chronic hemorrhage."
+    },
+    {
+      "number": 10,
+      "question": "A saccular aneurysm presenting with a sudden severe headache and subarachnoid hemorrhage is most likely located where in the circle of Willis?",
+      "choices": [
+        "A. MCA trifurcation",
+        "B. PCOM origin",
+        "C. ACOM",
+        "D. Basilar tip",
+        "E. PICA origin"
+      ],
+      "answer": "C",
+      "detail": "The Anterior Communicating Artery (ACOM) is the most common site for intracranial saccular aneurysms."
+    },
+    {
+      "number": 11,
+      "question": "A 43-year-old man has multiple neck masses that enhance peripherally and contain calcification. CT also shows a cavitating right lung apex lesion. Diagnosis?",
+      "choices": [
+        "A. tuberculosis",
+        "B. metastatic laryngeal carcinoma",
+        "C. metastatic papillary thyroid carcinoma",
+        "D. metastatic lung carcinoma",
+        "E. lymphoma"
+      ],
+      "answer": "A",
+      "detail": "Cavitating lung lesions and necrotic/calcified lymph nodes are classic for tuberculosis."
+    },
+    {
+      "number": 12,
+      "question": "In a 22-year-old patient with Von Hippel–Lindau syndrome and ataxia, what is the most likely posterior fossa MRI finding?",
+      "choices": [
+        "A. cystic lesion with an enhancing mural nodule",
+        "B. multiple ring-enhancing lesions",
+        "C. gyriform cortical calcifications",
+        "D. calcified subependymal nodules",
+        "E. ill-defined mass with central necrosis"
+      ],
+      "answer": "A",
+      "detail": "VHL is associated with hemangioblastomas, which characteristically appear as posterior fossa cysts with a vivid mural nodule."
+    },
+    {
+      "number": 13,
+      "question": "The 'H-sign' on MRI (symmetrical bilateral linear signal in sacral alae) in an elderly osteoporotic patient is indicative of:",
+      "choices": [
+        "A. insufficiency fracture",
+        "B. metastases",
+        "C. ankylosing spondylitis",
+        "D. Reiter’s syndrome",
+        "E. post-radiotherapy change"
+      ],
+      "answer": "A",
+      "detail": "Bilateral linear marrow edema in the sacral alae is the classic look for a sacral insufficiency fracture."
+    },
+    {
+      "number": 14,
+      "question": "Which imaging finding favors a carotid–cavernous sinus fistula over Graves’ disease or orbital pseudotumor?",
+      "choices": [
+        "A. distal tapering of extraocular muscles",
+        "B. stranding in the orbital fat",
+        "C. muscle isointensity to fat on T2",
+        "D. dilated superior ophthalmic vein",
+        "E. muscle swelling involving the tendons"
+      ],
+      "answer": "D",
+      "detail": "A dilated, enhancing superior ophthalmic vein is a hallmark of carotid-cavernous fistula."
+    },
+    {
+      "number": 15,
+      "question": "A 5-year-old boy has an isodense 4th ventricle mass with punctate calcifications that extends through the foramina of Luschka. Diagnosis?",
+      "choices": [
+        "A. haemangioblastoma",
+        "B. juvenile pilocytic astrocytoma",
+        "C. medulloblastoma",
+        "D. brainstem glioma",
+        "E. ependymoma"
+      ],
+      "answer": "E",
+      "detail": "Ependymomas are 'plastic' or 'toothpaste' tumors that squeeze through the outlets of the 4th ventricle and commonly calcify."
+    },
+    {
+      "number": 16,
+      "question": "Which image window parameters are best suited for detecting the 'Insular Ribbon Sign' in early ischemic stroke?",
+      "choices": [
+        "A. width 400, centre 40",
+        "B. width 80, centre 20",
+        "C. width 8, centre 32",
+        "D. width 0, centre 0",
+        "E. width 1500, centre -500"
+      ],
+      "answer": "C",
+      "detail": "Narrow 'stroke windows' (width ~8-30 HU) help distinguish the subtle density loss of early cytotoxic edema from normal tissue."
+    },
+    {
+      "number": 17,
+      "question": "An MRI shows abnormal T2 signal in white matter, caudate, and basal ganglia in an HIV patient. Involvement of the subcortical U fibers strongly suggests:",
+      "choices": [
+        "A. HIV encephalopathy",
+        "B. toxoplasmosis",
+        "C. progressive multifocal leukoencephalopathy",
+        "D. cryptococcosis",
+        "E. CMV ventriculitis"
+      ],
+      "answer": "C",
+      "detail": "PML involves the subcortical U fibers and grey matter, whereas HIV encephalopathy typically spares them."
+    },
+    {
+      "number": 18,
+      "question": "What is the most sensitive MRI sequence for detecting the ovoid 'Dawson's fingers' lesions in multiple sclerosis?",
+      "choices": [
+        "A. axial T1W",
+        "B. axial T2W",
+        "C. axial FLAIR",
+        "D. axial proton density",
+        "E. axial T1W post-gadolinium"
+      ],
+      "answer": "C",
+      "detail": "FLAIR is the most sensitive sequence for periventricular MS lesions as it nullifies the bright T2 signal of CSF."
+    },
+    {
+      "number": 19,
+      "question": "A CT shows an irregular frontal mass crossing the corpus callosum with ring enhancement and significant edema. What is the diagnosis?",
+      "choices": [
+        "A. progressive multifocal leukoencephalopathy",
+        "B. glioblastoma multiforme",
+        "C. lymphoma",
+        "D. abscess",
+        "E. metastasis"
+      ],
+      "answer": "B",
+      "detail": "A high-grade tumor crossing the corpus callosum is the 'butterfly glioma' appearance of GBM."
+    },
+    {
+      "number": 20,
+      "question": "A neck lymph node located anterior to the sternocleidomastoid, below the hyoid bone, and above the cricoid ring is in which level?",
+      "choices": [
+        "A. level I",
+        "B. level II",
+        "C. level III",
+        "D. level IV",
+        "E. level V"
+      ],
+      "answer": "C",
+      "detail": "Level III consists of mid-jugular nodes between the hyoid and cricoid landmarks."
+    },
+    {
+      "number": 21,
+      "question": "A 17-year-old presents with paralysis of upward gaze (Parinaud’s syndrome). What is the most likely location of the lesion?",
+      "choices": [
+        "A. thalamus",
+        "B. occipital lobe",
+        "C. optic chiasm",
+        "D. pineal gland",
+        "E. cerebellar vermis"
+      ],
+      "answer": "D",
+      "detail": "Parinaud's syndrome results from compression of the superior colliculi, most often by a pineal tumor like a germinoma."
+    },
+    {
+      "number": 22,
+      "question": "A young woman has refractory temporal lobe epilepsy and a solid-cystic mass with calcification and faint enhancement in the peripheral temporal lobe. Diagnosis?",
+      "choices": [
+        "A. arachnoid cyst",
+        "B. ganglioglioma",
+        "C. epidermoid",
+        "D. meningioma",
+        "E. DNET"
+      ],
+      "answer": "B",
+      "detail": "Gangliogliomas are common in the temporal lobe, frequently calcify, and present with seizures in young adults."
+    },
+    {
+      "number": 23,
+      "question": "A slow-growing tumor in the frontal lobe of a 40-year-old male expands the cortex and shows nodular calcification. Diagnosis?",
+      "choices": [
+        "A. meningioma",
+        "B. oligodendroglioma",
+        "C. astrocytoma",
+        "D. glioblastoma multiforme",
+        "E. ganglioglioma"
+      ],
+      "answer": "B",
+      "detail": "Oligodendrogliomas are famous for expanding the cortex and for having calcification in 90% of cases."
+    },
+    {
+      "number": 24,
+      "question": "What is the most common radiation-induced intracranial tumor?",
+      "choices": [
+        "A. ependymoma",
+        "B. oligodendroglioma",
+        "C. lymphoma",
+        "D. glioblastoma multiforme",
+        "E. meningioma"
+      ],
+      "answer": "E",
+      "detail": "Meningiomas are the most frequent tumor resulting from prior CNS radiation therapy."
+    },
+    {
+      "number": 25,
+      "question": "Which structure lies immediately lateral to the putamen in the basal ganglia?",
+      "choices": [
+        "A. internal capsule",
+        "B. globus pallidus",
+        "C. external capsule",
+        "D. thalamus",
+        "E. insular cortex"
+      ],
+      "answer": "C",
+      "detail": "Anatomy: Globus pallidus (medial), Putamen, then External Capsule (lateral)."
+    },
+    {
+      "number": 26,
+      "question": "A buccal soft-tissue mass showing slow-flow sinusoidal spaces and circular calcifications (phleboliths) is most likely a:",
+      "choices": [
+        "A. benign lymph node",
+        "B. pleomorphic adenoma",
+        "C. arteriovenous malformation",
+        "D. hemangioma",
+        "E. venous vascular malformation"
+      ],
+      "answer": "E",
+      "detail": "Circular calcifications are phleboliths, characteristic of a low-flow venous malformation."
+    },
+    {
+      "number": 27,
+      "question": "In a child with low IQ, skin patches, paraspinal 'dumbbell' masses, and scalloped vertebrae, the diagnosis is most likely:",
+      "choices": [
+        "A. neurofibromatosis type 1",
+        "B. neurofibromatosis type 2",
+        "C. tuberous sclerosis",
+        "D. Marfan’s syndrome",
+        "E. Ehlers–Danlos syndrome"
+      ],
+      "answer": "A",
+      "detail": "NF1 features plexiform neurofibromas and characteristic spinal anomalies like dural ectasia/scalloping."
+    },
+    {
+      "number": 28,
+      "question": "Which procedure is the preferred method for sampling a suspected vascular carotid body tumor?",
+      "choices": [
+        "A. FNA rather than core biopsy",
+        "B. multiple core biopsy passes",
+        "C. surgical excision without sampling",
+        "D. biopsy midpoint between ICA and ECA",
+        "E. biopsy is strictly contraindicated"
+      ],
+      "answer": "A",
+      "detail": "FNA is preferred over core biopsy for these highly vascular masses to minimize bleeding risk."
+    },
+    {
+      "number": 29,
+      "question": "A 25-year-old woman develops a visual field defect and severe headache after postpartum hemorrhage. Most likely diagnosis?",
+      "choices": [
+        "A. intracerebral haemorrhage",
+        "B. reversible posterior leukoencephalopathy",
+        "C. subarachnoid haemorrhage",
+        "D. Sheehan’s syndrome",
+        "E. vertebral artery dissection"
+      ],
+      "answer": "D",
+      "detail": "Sheehan's syndrome is pituitary infarction secondary to hypovolemic shock during delivery."
+    },
+    {
+      "number": 30,
+      "question": "Which vein travels in the ambient cistern around the midbrain to join the internal cerebral vein and form the vein of Galen?",
+      "choices": [
+        "A. superficial middle cerebral vein",
+        "B. basal vein of Rosenthal",
+        "C. vein of Labbé",
+        "D. vein of Trolard",
+        "E. thalamostriate vein"
+      ],
+      "answer": "B",
+      "detail": "The basal vein of Rosenthal courses through the ambient cistern."
+    },
+    {
+      "number": 31,
+      "question": "Brain herniation that causes shift of the cingulate gyrus beneath the falx and potentially compresses the ACA is called:",
+      "choices": [
+        "A. transforaminal herniation",
+        "B. sphenoid herniation",
+        "C. ascending transtentorial herniation",
+        "D. descending transtentorial herniation",
+        "E. subfalcine herniation"
+      ],
+      "answer": "E",
+      "detail": "Subfalcine herniation is the most common brain herniation and can lead to ACA territory infarction."
+    },
+    {
+      "number": 32,
+      "question": "A melanoma patient presents with a lesion causing a right superior homonymous quadrantanopia. Where is the lesion?",
+      "choices": [
+        "A. right temporal lobe",
+        "B. right occipital lobe",
+        "C. left temporal lobe",
+        "D. left occipital lobe",
+        "E. optic chiasm"
+      ],
+      "answer": "C",
+      "detail": "Superior quadrantanopia results from involvement of Meyer's loop, which passes through the temporal lobe (contralateral to the visual field defect)."
+    },
+    {
+      "number": 33,
+      "question": "Where are the dural venous sinuses anatomically located?",
+      "choices": [
+        "A. between skull and dura",
+        "B. between the two layers of dura",
+        "C. between dura and arachnoid",
+        "D. between arachnoid and pia",
+        "E. between pia and brain"
+      ],
+      "answer": "B",
+      "detail": "The sinuses are venous channels situated between the endosteal and meningeal layers of the dura mater."
+    },
+    {
+      "number": 34,
+      "question": "Bilateral T2 high signal injury to the globus pallidus is a classic imaging sign for which poisoning?",
+      "choices": [
+        "A. lead",
+        "B. methanol",
+        "C. carbon monoxide",
+        "D. carbon dioxide",
+        "E. mercury"
+      ],
+      "answer": "C",
+      "detail": "Carbon monoxide poisoning has a specific predilection for the globus pallidus."
+    },
+    {
+      "number": 35,
+      "question": "A woman with a history of blurred vision and current facial numbness has multiple periventricular white matter lesions. Diagnosis?",
+      "choices": [
+        "A. neurosarcoidosis",
+        "B. multiple sclerosis",
+        "C. acute disseminated encephalomyelitis",
+        "D. metachromatic leukodystrophy",
+        "E. Rasmussen’s encephalitis"
+      ],
+      "answer": "B",
+      "detail": "Dissemination in space (periventricular, cerebellar) and time (different symptom episodes) is characteristic of MS."
+    },
+    {
+      "number": 36,
+      "question": "Fulminant encephalitis in a patient with fever and coma, showing asymmetrical T2 high signal in temporal lobes and insula, is likely:",
+      "choices": [
+        "A. HIV encephalitis",
+        "B. CMV encephalitis",
+        "C. toxoplasmosis",
+        "D. herpes simplex encephalitis",
+        "E. lymphoma"
+      ],
+      "answer": "D",
+      "detail": "HSE type 1 characteristically affects the limbic system (temporal lobes, hippocampi, insula)."
+    },
+    {
+      "number": 37,
+      "question": "A pericallosal mass that is hyperintense on T1W images, does not enhance, and is associated with corpus callosum agenesis is a:",
+      "choices": [
+        "A. dermoid",
+        "B. lipoma",
+        "C. arachnoid cyst",
+        "D. epidermoid",
+        "E. lymphoma"
+      ],
+      "answer": "B",
+      "detail": "Intracranial lipomas are often associated with midline developmental defects like callosal agenesis."
+    },
+    {
+      "number": 38,
+      "question": "Postural headaches and diffuse pachymeningeal enhancement on MRI suggest which diagnosis?",
+      "choices": [
+        "A. intracranial hypotension",
+        "B. intracranial hypertension",
+        "C. migraine",
+        "D. Chiari I",
+        "E. Dandy–Walker"
+      ],
+      "answer": "A",
+      "detail": "Spontaneous intracranial hypotension (low CSF pressure) features postural headaches and compensatory meningeal enhancement."
+    },
+    {
+      "number": 39,
+      "question": "A 1 cm lytic lesion associated with the apex of a non-vital carious tooth is likely a:",
+      "choices": [
+        "A. dentigerous cyst",
+        "B. radicular cyst",
+        "C. ameloblastoma",
+        "D. odontogenic keratocyst",
+        "E. Stafne bone cyst"
+      ],
+      "answer": "B",
+      "detail": "The radicular (periapical) cyst is the most common odontogenic cyst, resulting from dental pulp inflammation at the root apex."
+    },
+    {
+      "number": 40,
+      "question": "A 2-year-old boy presents with opsoclonus-myoclonus (dancing eyes-dancing feet). Brain MRI is most likely to show:",
+      "choices": [
+        "A. normal appearances",
+        "B. cerebellar mural nodule",
+        "C. brainstem glioma",
+        "D. pontine demyelination",
+        "E. medulloblastoma"
+      ],
+      "answer": "A",
+      "detail": "While a paraneoplastic syndrome of neuroblastoma, the brain MRI in opsoclonus-myoclonus is typically normal."
+    },
+    {
+      "number": 41,
+      "question": "In MRI spectroscopy, which metabolite peak at 2.0 ppm is considered a marker of neuronal viability and decreases with high-grade tumors?",
+      "choices": [
+        "A. Choline",
+        "B. Creatine",
+        "C. Lactate",
+        "D. N-acetylaspartate (NAA)",
+        "E. Myoinositol"
+      ],
+      "answer": "D",
+      "detail": "NAA is a neuronal marker; its reduction indicates loss of neurons or replacement by tumor."
+    },
+    {
+      "number": 42,
+      "question": "A 'bubbly' T2-bright cortical lesion in the temporal lobe of a child with drug-resistant seizures is most characteristic of:",
+      "choices": [
+        "A. PXA",
+        "B. ganglioglioma",
+        "C. DNET",
+        "D. oligodendroglioma",
+        "E. JPA"
+      ],
+      "answer": "C",
+      "detail": "DNET (Dysembryoplastic Neuroepithelial Tumor) is a classically 'bubbly' temporal lobe lesion in pediatric seizure patients."
+    },
+    {
+      "number": 43,
+      "question": "Which benign intraventricular tumor typically arises from the septum pellucidum in a young adult and contains cystic spaces?",
+      "choices": [
+        "A. subependymoma",
+        "B. central neurocytoma",
+        "C. colloid cyst",
+        "D. ependymoma",
+        "E. choroid plexus papilloma"
+      ],
+      "answer": "B",
+      "detail": "Central neurocytoma is a characteristic 'Swiss cheese' appearing tumor attached to the septum pellucidum in 20-40 year olds."
+    },
+    {
+      "number": 44,
+      "question": "Calcification of the pineal gland in a child under age 7 should raise suspicion for which tumor?",
+      "choices": [
+        "A. germinoma",
+        "B. pineoblastoma",
+        "C. pineocytoma",
+        "D. JPA",
+        "E. medulloblastoma"
+      ],
+      "answer": "A",
+      "detail": "Pineal calcification is rare in young children; germinomas 'engulf' the gland while pineoblastomas 'expand' it."
+    },
+    {
+      "number": 45,
+      "question": "A LeFort 1 fracture involves the separation of which facial structure from the maxilla?",
+      "choices": [
+        "A. the face",
+        "B. the maxilla",
+        "C. the palate",
+        "D. the zygomatic arch",
+        "E. the mandible"
+      ],
+      "answer": "C",
+      "detail": "LeFort 1 is the 'floating palate' fracture pattern."
+    },
+    {
+      "number": 46,
+      "question": "What is the hallmark radiographic finding of an acquired cholesteatoma in the middle ear?",
+      "choices": [
+        "A. sclerosis of the mastoid",
+        "B. erosion of the scutum",
+        "C. ossification of the labyrinth",
+        "D. enlargement of the cochlea",
+        "E. fluid in the attic"
+      ],
+      "answer": "B",
+      "detail": "Erosion of the scutum (the sharp bony spur in the attic) is a very specific early sign of acquired cholesteatoma."
+    },
+    {
+      "number": 47,
+      "question": "Enhancement of the cochlea and semicircular canals on T1W post-contrast MRI indicates:",
+      "choices": [
+        "A. Bell’s palsy",
+        "B. labyrinthitis",
+        "C. schwannoma",
+        "D. otosclerosis",
+        "E. normal anatomy"
+      ],
+      "answer": "B",
+      "detail": "Inflammation of the inner ear structures causes enhancement of the membranous labyrinth."
+    },
+    {
+      "number": 48,
+      "question": "The '7UP and COKE Down' mnemonic is used to remember the relationship of which nerves in the IAC?",
+      "choices": [
+        "A. CN 7 and CN 8",
+        "B. CN 5 and CN 6",
+        "C. CN 9 and CN 10",
+        "D. ICA and ECA",
+        "E. LS and TS"
+      ],
+      "answer": "A",
+      "detail": "The facial nerve (7) is superior, and the cochlear nerve (8) is inferior."
+    },
+    {
+      "number": 49,
+      "question": "A male teenager with recurrent severe nosebleeds and a vascular mass in the sphenopalatine foramen has:",
+      "choices": [
+        "A. inverting papilloma",
+        "B. esthesioneuroblastoma",
+        "C. juvenile nasal angiofibroma (JNA)",
+        "D. squamous cell carcinoma",
+        "E. antrochoanal polyp"
+      ],
+      "answer": "C",
+      "detail": "JNA is a highly vascular tumor seen nearly exclusively in adolescent males."
+    },
+    {
+      "number": 50,
+      "question": "Which salivary duct stone location is most common, associated with Wharton's duct?",
+      "choices": [
+        "A. parotid",
+        "B. sublingual",
+        "C. submandibular",
+        "D. minor salivary glands",
+        "E. thyroglossal"
+      ],
+      "answer": "C",
+      "detail": "Sialolithiasis is most common in the submandibular gland duct (Wharton's)."
+    },
+    {
+      "number": 51,
+      "question": "A mucous retention cyst extending under the myohvoid muscle into the submandibular space is termed a:",
+      "choices": [
+        "A. simple ranula",
+        "B. plunging ranula",
+        "C. thyroglossal duct cyst",
+        "D. dermoid",
+        "E. laryngocele"
+      ],
+      "answer": "B",
+      "detail": "Once a ranula 'plunges' or 'dives' past the myohyoid muscle, it is a plunging ranula."
+    },
+    {
+      "number": 52,
+      "question": "Which sinonasal tumor classically has a 'dumbbell' shape with a waist at the cribriform plate?",
+      "choices": [
+        "A. JNA",
+        "B. inverting papilloma",
+        "C. esthesioneuroblastoma",
+        "D. SNUC",
+        "E. lymphoma"
+      ],
+      "answer": "C",
+      "detail": "Esthesioneuroblastoma arises from olfactory cells and grows through the cribriform plate."
+    },
+    {
+      "number": 53,
+      "question": "What is the most sensitive sequence for evaluating intracranial hemorrhage age and detecting chronic microbleeds?",
+      "choices": [
+        "A. T1W",
+        "B. T2W",
+        "C. FLAIR",
+        "D. DWI",
+        "E. Gradient Echo (GRE) or SWI"
+      ],
+      "answer": "E",
+      "detail": "GRE and SWI utilize magnetic susceptibility to detect hemosiderin, making them highly sensitive for hemorrhage."
+    },
+    {
+      "number": 54,
+      "question": "The 'target sign' (T2 bright rim, T2 dark center) in a peripheral nerve sheath tumor is characteristic of:",
+      "choices": [
+        "A. schwannoma",
+        "B. neurofibroma",
+        "C. meningioma",
+        "D. ganglioglioma",
+        "E. ependymoma"
+      ],
+      "answer": "B",
+      "detail": "Neurofibromas often demonstrate this zonal signal pattern on T2W MRI."
+    },
+    {
+      "number": 55,
+      "question": "Which intracranial herniation poses a direct risk of compressing the CN III nerve and the PCA?",
+      "choices": [
+        "A. subfalcine",
+        "B. transforaminal",
+        "C. sphenoid",
+        "D. descending transtentorial (uncal)",
+        "E. ascending transtentorial"
+      ],
+      "answer": "D",
+      "detail": "Uncal herniation pushes the temporal lobe over the tentorium, compressing midbrain structures and the 3rd nerve."
+    },
+    {
+      "number": 56,
+      "question": "The 'hot thallium' scan is used to differentiate CNS lymphoma from which other condition?",
+      "choices": [
+        "A. glioblastoma",
+        "B. metastasis",
+        "C. toxoplasmosis",
+        "D. infarct",
+        "E. MS"
+      ],
+      "answer": "C",
+      "detail": "Lymphoma is thallium-avid (hot); toxoplasmosis is thallium-cold."
+    },
+    {
+      "number": 57,
+      "question": "In the CRITOE elbow ossification sequence, which center appears after the radial head and before the trochlea?",
+      "choices": [
+        "A. capitellum",
+        "B. internal (medial) epicondyle",
+        "C. olecranon",
+        "D. external (lateral) epicondyle",
+        "E. coracoid"
+      ],
+      "answer": "B",
+      "detail": "The sequence is Capitellum (1y), Radial head (5y), Internal epicondyle (7y), Trochlea (10y), Olecranon (10y), External epicondyle (11y)."
+    },
+    {
+      "number": 58,
+      "question": "A 'sail sign' in a pediatric chest radiograph is most often due to:",
+      "choices": [
+        "A. right upper lobe collapse",
+        "B. pneumothorax",
+        "C. normal thymus",
+        "D. pericardial effusion",
+        "E. lymphoma"
+      ],
+      "answer": "C",
+      "detail": "The sail sign represents the normal, healthy thymus in an infant."
+    },
+    {
+      "number": 59,
+      "question": "A 'double bubble' sign on a neonatal abdominal film is classic for:",
+      "choices": [
+        "A. pyloric stenosis",
+        "B. duodenal atresia",
+        "C. jejunal atresia",
+        "D. malrotation",
+        "E. Hirschsprung's"
+      ],
+      "answer": "B",
+      "detail": "Duodenal atresia is the most famous cause of the double bubble (stomach and duodenal bulb distension)."
+    },
+    {
+      "number": 60,
+      "question": "Bilateral acoustic schwannomas (vestibular neuromas) are pathognomonic for:",
+      "choices": [
+        "A. NF1",
+        "B. NF2",
+        "C. Tuberous Sclerosis",
+        "D. VHL",
+        "E. Sturge-Weber"
+      ],
+      "answer": "B",
+      "detail": "NF2 is defined by 'MISME' findings, with bilateral acoustic schwannomas being the most characteristic."
+    },
+    {
+      "number": 61,
+      "question": "Which spinal cord segment typically myelinated first, following the caudal to cranial pattern?",
+      "choices": [
+        "A. cervical",
+        "B. thoracic",
+        "C. lumbar",
+        "D. sacral",
+        "E. brainstem"
+      ],
+      "answer": "E",
+      "detail": "The brainstem and posterior limb of the internal capsule are normally myelinated at birth."
+    },
+    {
+      "number": 62,
+      "question": "The 'string of beads' angiographic appearance is the buzzword for:",
+      "choices": [
+        "A. atherosclerosis",
+        "B. vasculitis",
+        "C. fibromuscular dysplasia (FMD)",
+        "D. Moyamoya",
+        "E. Standing waves"
+      ],
+      "answer": "C",
+      "detail": "FMD causes alternating areas of stenosis and dilation, giving the beaded appearance."
+    },
+    {
+      "number": 63,
+      "question": "A 'tardus parvus' waveform on Doppler is a sign of severe stenosis located where?",
+      "choices": [
+        "A. within the stenosis",
+        "B. proximal to the stenosis",
+        "C. distal to the stenosis",
+        "D. in the contralateral vessel",
+        "E. it is a normal variant"
+      ],
+      "answer": "C",
+      "detail": "Tardus parvus (slow rise, small peak) occurs downstream from a severe obstruction."
+    },
+    {
+      "number": 64,
+      "question": "The 'empty delta' sign on contrast CT indicates:",
+      "choices": [
+        "A. brain death",
+        "B. dural venous sinus thrombosis",
+        "C. arterial stroke",
+        "D. aneurysm",
+        "E. normal anatomy"
+      ],
+      "answer": "B",
+      "detail": "The sign represents collateral flow around a thrombosed superior sagittal sinus."
+    },
+    {
+      "number": 65,
+      "question": "A 'popcorn' calcification in a pediatric brain tumor most often suggests:",
+      "choices": [
+        "A. GBM",
+        "B. ependymoma",
+        "C. oligodendroglioma",
+        "D. JPA",
+        "E. lymphoma"
+      ],
+      "answer": "C",
+      "detail": "Oligodendrogliomas are known for dense, popcorn-like or ribbon-like calcifications."
+    },
+    {
+      "number": 66,
+      "question": "The most common site for a pediatric neuroblastoma to occur is:",
+      "choices": [
+        "A. brain",
+        "B. neck",
+        "C. posterior mediastinum",
+        "D. adrenal gland",
+        "E. pelvis"
+      ],
+      "answer": "D",
+      "detail": "About 50% of neuroblastomas originate in the adrenal gland."
+    },
+    {
+      "number": 67,
+      "question": "A 'snowman' shaped heart on CXR is diagnostic for which type of TAPVR?",
+      "choices": [
+        "A. supracardiac",
+        "B. cardiac",
+        "C. infracardiac",
+        "D. mixed",
+        "E. partial"
+      ],
+      "answer": "A",
+      "detail": "In supracardiac TAPVR, the anomalous veins form a large vertical vein and SVC 'head' above the heart."
+    },
+    {
+      "number": 68,
+      "question": "Which intracranial tumor is T1 and T2 bright in the petrous apex, distinguishing it from cholesteatoma?",
+      "choices": [
+        "A. cholesteatoma",
+        "B. cholesterol granuloma",
+        "C. meningioma",
+        "D. schwannoma",
+        "E. glomus tumor"
+      ],
+      "answer": "B",
+      "detail": "Cholesterol granulomas contain blood products (methemoglobin), making them bright on both T1 and T2."
+    },
+    {
+      "number": 69,
+      "question": "A 'Yo-Yo' appearance on thumb MRI refers to which lesion?",
+      "choices": [
+        "A. Bennett fracture",
+        "B. Gamekeeper's thumb",
+        "C. Stener lesion",
+        "D. Rolando fracture",
+        "E. Skier's thumb"
+      ],
+      "answer": "C",
+      "detail": "A Stener lesion is an adductor aponeurosis entrapment of the UCL; surgery is required."
+    },
+    {
+      "number": 70,
+      "question": "The most accurate measurement for dating a pregnancy at 10 weeks is:",
+      "choices": [
+        "A. biparietal diameter",
+        "B. femur length",
+        "C. crown-rump length",
+        "D. gestational sac diameter",
+        "E. abdominal circumference"
+      ],
+      "answer": "C",
+      "detail": "CRL is the gold standard for first-trimester dating."
+    },
+    {
+      "number": 71,
+      "question": "A 'floating palate' is which LeFort fracture type?",
+      "choices": [
+        "A. Type 1",
+        "B. Type 2",
+        "C. Type 3",
+        "D. Type 4",
+        "E. Tripod"
+      ],
+      "answer": "A",
+      "detail": "LeFort 1 separates the palate from the rest of the maxilla."
+    },
+    {
+      "number": 72,
+      "question": "Which finding is essentially 'pathognomonic' for non-accidental injury in a child?",
+      "choices": [
+        "A. mid-shaft femur fracture",
+        "B. metaphyseal corner fracture",
+        "C. linear skull fracture",
+        "D. clavicle fracture",
+        "E. buckle fracture of the radius"
+      ],
+      "answer": "B",
+      "detail": "The metaphyseal corner (bucket handle) fracture is highly specific for child abuse."
+    },
+    {
+      "number": 73,
+      "question": "The 'Artery of Percheron' supplies which structures bilaterally?",
+      "choices": [
+        "A. caudate heads",
+        "B. paramedian thalami",
+        "C. occipital lobes",
+        "D. hippocampi",
+        "E. internal capsules"
+      ],
+      "answer": "B",
+      "detail": "Percheron is a solitary trunk variant that feeds both thalami; its occlusion causes bilateral thalamic infarcts."
+    },
+    {
+      "number": 74,
+      "question": "A 'salt and pepper' appearance on MRI of a skull base mass is classic for:",
+      "choices": [
+        "A. meningioma",
+        "B. schwannoma",
+        "C. paraganglioma",
+        "D. chordoma",
+        "E. metastasis"
+      ],
+      "answer": "C",
+      "detail": "Paragangliomas (Glomus tumors) show hypervascularity with multiple small flow voids."
+    },
+    {
+      "number": 75,
+      "question": "Which systemic vasculitis is the most common to involve the central nervous system?",
+      "choices": [
+        "A. Polyarteritis Nodosa (PAN)",
+        "B. Wegener’s",
+        "C. Takayasu",
+        "D. Temporal Arteritis",
+        "E. SLE"
+      ],
+      "answer": "A",
+      "detail": "PAN is the leading systemic vasculitis causing CNS involvement."
+    },
+    {
+      "number": 76,
+      "question": "A 'Puff of Smoke' on cerebral angiography is diagnostic for:",
+      "choices": [
+        "A. vasculitis",
+        "B. AVM",
+        "C. Moyamoya",
+        "D. arteriosclerosis",
+        "E. FMD"
+      ],
+      "answer": "C",
+      "detail": "Moyamoya disease features progressive stenosis with compensatory hypertrophied basal perforators."
+    },
+    {
+      "number": 77,
+      "question": "Which midline posterior fossa tumor in a child is fat-containing and T1 bright?",
+      "choices": [
+        "A. epidermoid",
+        "B. medulloblastoma",
+        "C. JPA",
+        "D. dermoid",
+        "E. ependymoma"
+      ],
+      "answer": "D",
+      "detail": "Dermoid cysts contain fatty sebaceous material and are T1-bright."
+    },
+    {
+      "number": 78,
+      "question": "What is the commonest site of a dural venous sinus thrombosis?",
+      "choices": [
+        "A. cavernous sinus",
+        "B. superior sagittal sinus",
+        "C. transverse sinus",
+        "D. straight sinus",
+        "E. sigmoid sinus"
+      ],
+      "answer": "B",
+      "detail": "The superior sagittal sinus is involved in 75% of venous sinus thrombosis cases."
+    },
+    {
+      "number": 79,
+      "question": "The 'Insular Ribbon Sign' represents cytotoxic edema in the territory of which artery?",
+      "choices": [
+        "A. ACA",
+        "B. PCA",
+        "C. MCA",
+        "D. Basilar",
+        "E. SCA"
+      ],
+      "answer": "C",
+      "detail": "Loss of the grey-white boundary of the insula is a very early CT sign of MCA territory stroke."
+    },
+    {
+      "number": 80,
+      "question": "Which condition is associated with 'noise-induced vertigo' (Tullio’s phenomenon)?",
+      "choices": [
+        "A. large vestibular aqueduct syndrome",
+        "B. superior semicircular canal dehiscence",
+        "C. labyrinthitis",
+        "D. otosclerosis",
+        "E. Meniere's"
+      ],
+      "answer": "B",
+      "detail": "Dehiscence of the bony canal roof allows sound waves to trigger vestibular symptoms."
+    },
+    {
+      "number": 81,
+      "question": "A 'Swiss cheese' appearance of an intraventricular tumor in a young adult is diagnostic for:",
+      "choices": [
+        "A. colloid cyst",
+        "B. central neurocytoma",
+        "C. ependymoma",
+        "D. choroid plexus papilloma",
+        "E. metastasis"
+      ],
+      "answer": "B",
+      "detail": "Central neurocytomas frequently have multiple cystic spaces and calcifications."
+    },
+    {
+      "number": 82,
+      "question": "The 'dense MCA sign' on CT represents:",
+      "choices": [
+        "A. chronic calcification",
+        "B. high flow",
+        "C. atherosclerotic plaque",
+        "D. intraluminal thrombus",
+        "E. normal variant"
+      ],
+      "answer": "D",
+      "detail": "Hyperdensity in the MCA indicates acute clot."
+    },
+    {
+      "number": 83,
+      "question": "Which tumor type is most common to cause a 'butterfly glioma' appearance?",
+      "choices": [
+        "A. Lymphoma",
+        "B. GBM",
+        "C. Metastasis",
+        "D. Meningioma",
+        "E. Abscess"
+      ],
+      "answer": "B",
+      "detail": "GBM crossing the corpus callosum creates the bilateral frontal 'butterfly' look."
+    },
+    {
+      "number": 84,
+      "question": "An MRI sequence that demonstrates low T1 and high T2 signal in spinal endplates (Type 1 Modic) can mimic:",
+      "choices": [
+        "A. fatty replacement",
+        "B. sclerosis",
+        "C. osteomyelitis",
+        "D. osteoporosis",
+        "E. normal aging"
+      ],
+      "answer": "C",
+      "detail": "The marrow edema in Type 1 Modic changes can be mistaken for infection."
+    },
+    {
+      "number": 85,
+      "question": "A 'floating face' (face separated from the cranium) is characteristic of which LeFort fracture?",
+      "choices": [
+        "A. LeFort 1",
+        "B. LeFort 2",
+        "C. LeFort 3",
+        "D. Tripod",
+        "E. Blowout"
+      ],
+      "answer": "C",
+      "detail": "LeFort 3 involves craniofacial dissociation."
+    },
+    {
+      "number": 86,
+      "question": "Which phakomatosis is associated with multiple renal cysts, pancreatic cysts, and hemangioblastomas?",
+      "choices": [
+        "A. NF1",
+        "B. NF2",
+        "C. Tuberous Sclerosis",
+        "D. VHL",
+        "E. Sturge-Weber"
+      ],
+      "answer": "D",
+      "detail": "VHL is characterized by vascular tumors of the CNS and multiple visceral cysts."
+    },
+    {
+      "number": 87,
+      "question": "In the 'Rule of 3s' for stroke evolution, enhancement typically peaks at:",
+      "choices": [
+        "A. 3 hours",
+        "B. 3 days",
+        "C. 3 weeks",
+        "D. 3 months",
+        "E. 1 year"
+      ],
+      "answer": "C",
+      "detail": "Stroke enhancement starts at 3 days, peaks at 3 weeks, and is gone by 3 months."
+    },
+    {
+      "number": 88,
+      "question": "A 'V-shaped' bilateral infarct of the paramedian thalami is pathognomonic for:",
+      "choices": [
+        "A. Artery of Heubner",
+        "B. Basilar tip occlusion",
+        "C. Artery of Percheron",
+        "D. Anterior choroidal",
+        "E. PICA"
+      ],
+      "answer": "C",
+      "detail": "The Artery of Percheron supplies both thalami and the rostral midbrain."
+    },
+    {
+      "number": 89,
+      "question": "Which tumor type restricts diffusion most consistently due to high cellularity?",
+      "choices": [
+        "A. GBM",
+        "B. Lymphoma",
+        "C. Metastasis",
+        "D. JPA",
+        "E. Meningioma"
+      ],
+      "answer": "B",
+      "detail": "Lymphoma is the classic restrictor; epidermoids and abscesses also restrict."
+    },
+    {
+      "number": 90,
+      "question": "A 'caput medusa' appearance on imaging is diagnostic for:",
+      "choices": [
+        "A. AVM",
+        "B. DVA (Developmental Venous Anomaly)",
+        "C. Cavernoma",
+        "D. Telangiectasia",
+        "E. Sinus thrombosis"
+      ],
+      "answer": "B",
+      "detail": "A DVA features a tree of small vessels draining into a large central vein."
+    },
+    {
+      "number": 91,
+      "question": "The most common site for a facial fracture to cause a CSF leak is the:",
+      "choices": [
+        "A. anterior skull base",
+        "B. posterior fossa",
+        "C. sphenoid sinus",
+        "D. mandible",
+        "E. zygoma"
+      ],
+      "answer": "A",
+      "detail": "Anterior skull base fractures are the primary cause of post-traumatic CSF rhinorrhea."
+    },
+    {
+      "number": 92,
+      "question": "A 'ribbon' pattern of calcification on CT is a hallmark of:",
+      "choices": [
+        "A. meningioma",
+        "B. GBM",
+        "C. oligodendroglioma",
+        "D. astrocytoma",
+        "E. ependymoma"
+      ],
+      "answer": "C",
+      "detail": "Nodular or ribbon-like calcifications are classic for oligodendrogliomas."
+    },
+    {
+      "number": 93,
+      "question": "A T1 bright 'crescent sign' in the vessel wall of the neck indicates:",
+      "choices": [
+        "A. atherosclerosis",
+        "B. aneurysm",
+        "C. vascular dissection",
+        "D. normal fat",
+        "E. tumor"
+      ],
+      "answer": "C",
+      "detail": "The crescent represents intramural hematoma within a dissected vessel wall."
+    },
+    {
+      "number": 94,
+      "question": "Which tumor type has a 'cerebriform' pattern on MRI and arises from the lateral nasal wall?",
+      "choices": [
+        "A. squamous cell CA",
+        "B. inverting papilloma",
+        "C. esthesioneuroblastoma",
+        "D. JNA",
+        "E. lymphoma"
+      ],
+      "answer": "B",
+      "detail": "The convoluted 'brain-like' look is characteristic of inverting papilloma."
+    },
+    {
+      "number": 95,
+      "question": "A 'pancake flat' vertebra (Vertebra Plana) in a child is classic for:",
+      "choices": [
+        "A. Ewing's",
+        "B. Osteomyelitis",
+        "C. Eosinophilic Granuloma",
+        "D. Osteogenesis Imperfecta",
+        "E. Metastasis"
+      ],
+      "answer": "C",
+      "detail": "Langerhans cell histiocytosis (EG) is the leading cause of vertebra plana in children."
+    },
+    {
+      "number": 96,
+      "question": "The 'double' PCL appearance (PCL + displaced meniscus) is a sign of a:",
+      "choices": [
+        "A. ACL tear",
+        "B. bucket handle tear",
+        "C. PCL tear",
+        "D. discoid meniscus",
+        "E. baker's cyst"
+      ],
+      "answer": "B",
+      "detail": "A flipped medial meniscus fragment lying anterior to the PCL creates the 'double PCL' sign."
+    },
+    {
+      "number": 97,
+      "question": "What is the primary feeding vessel for a juvenile nasal angiofibroma?",
+      "choices": [
+        "A. Internal carotid",
+        "B. Ophthalmic artery",
+        "C. Internal maxillary artery",
+        "D. Facial artery",
+        "E. Lingual artery"
+      ],
+      "answer": "C",
+      "detail": "The internal maxillary artery is the primary target for pre-op embolization of JNA."
+    },
+    {
+      "number": 98,
+      "question": "A 'yo-yo' appearance on thumb MRI is a specific description of a:",
+      "choices": [
+        "A. Bennett fracture",
+        "B. Stener lesion",
+        "C. Rolando fracture",
+        "D. UCL sprain",
+        "E. normal variant"
+      ],
+      "answer": "B",
+      "detail": "The retracted UCL tendon creates the 'yo-yo' on the string appearance."
+    },
+    {
+      "number": 99,
+      "question": "Which complication of a facial fracture is characterized as an 'airless, expanded sinus'?",
+      "choices": [
+        "A. abscess",
+        "B. tumor",
+        "C. mucocele",
+        "D. hemorrhage",
+        "E. pneumocephalus"
+      ],
+      "answer": "C",
+      "detail": "Mucoceles develop when the sinus outflow tract is blocked."
+    },
+    {
+      "number": 100,
+      "question": "The 'onion skin' ultrasound appearance in a testicular mass is classic for:",
+      "choices": [
+        "A. seminoma",
+        "B. teratoma",
+        "C. epidermoid cyst",
+        "D. lymphoma",
+        "E. abscess"
+      ],
+      "answer": "C",
+      "detail": "The concentric echogenic layers of a testicular epidermoid cyst are pathognomonic."
+    }
+  ]
+}

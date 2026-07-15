@@ -1,0 +1,1306 @@
+
+{
+
+  "questions": [
+    {
+      "number": 1,
+      "question": "The 'A-ring' of the esophagus is anatomically defined as which of the following?",
+      "choices": [
+        "A. The mucosal ring at the GE junction",
+        "B. The muscular ring above the vestibule",
+        "C. The border between the pharynx and cervical esophagus",
+        "D. A thin constriction at the squamocolumnar junction",
+        "E. A ring associated with an epiphrenic diverticulum"
+      ],
+      "answer": "B",
+      "detail": "The A-ring is a muscular ring located above the vestibule that is dynamic on swallow."
+    },
+    {
+      "number": 2,
+      "question": "Which esophageal ring is considered non-dynamic and represents a thin mucosal constriction at the GE junction?",
+      "choices": [
+        "A. A-ring",
+        "B. B-ring",
+        "C. Z-line",
+        "D. Cricopharyngeus",
+        "E. Schatzki ring"
+      ],
+      "answer": "B",
+      "detail": "The B-ring is a mucosal ring below the vestibule that is not dynamic."
+    },
+    {
+      "number": 3,
+      "question": "Symptomatic dysphagia occurs when a B-ring narrows to a diameter of less than:",
+      "choices": [
+        "A. 5 mm",
+        "B. 10 mm",
+        "C. 13 mm",
+        "D. 20 mm",
+        "E. 25 mm"
+      ],
+      "answer": "C",
+      "detail": "Historically, symptomatic dysphagia is defined by a ring narrowed to less than 13 mm."
+    },
+    {
+      "number": 4,
+      "question": "A 'Schatzki Ring' is technically defined as:",
+      "choices": [
+        "A. Any muscular ring in the mid-esophagus",
+        "B. A narrowed, symptomatic B-ring",
+        "C. A mucosal ring above the vestibule",
+        "D. A ring associated with Barrett’s esophagus",
+        "E. A ring caused by an aberrant subclavian artery"
+      ],
+      "answer": "B",
+      "detail": "If a B-ring is narrowed and the patient is symptomatic, it is called a Schatzki ring."
+    },
+    {
+      "number": 5,
+      "question": "The 'Z-line' represents the transition between which two types of epithelium?",
+      "choices": [
+        "A. Squamous and transitional",
+        "B. Squamous and gastric (columnar)",
+        "C. Ciliated and squamous",
+        "D. Columnar and cuboidal",
+        "E. Gastric and duodenal"
+      ],
+      "answer": "B",
+      "detail": "The Z-line is the squamocolumnar junction, or the boundary between esophageal and gastric epithelium."
+    },
+    {
+      "number": 6,
+      "question": "Which muscle is known as the 'true upper esophageal sphincter'?",
+      "choices": [
+        "A. Digastric",
+        "B. Stylohyoid",
+        "C. Cricopharyngeus",
+        "D. Mylohyoid",
+        "E. Sternocleidomastoid"
+      ],
+      "answer": "C",
+      "detail": "The cricopharyngeus muscle acts as the true upper esophageal sphincter."
+    },
+    {
+      "number": 7,
+      "question": "At what vertebral level is the cricopharyngeus typically located?",
+      "choices": [
+        "A. C1-C2",
+        "B. C3-C4",
+        "C. C5-C6",
+        "D. T1-T2",
+        "E. T4-T5"
+      ],
+      "answer": "C",
+      "detail": "The typical level for this muscle is around C5–C6."
+    },
+    {
+      "number": 8,
+      "question": "During the act of swallowing, the larynx undergoes which two movements?",
+      "choices": [
+        "A. Depresses and moves posteriorly",
+        "B. Elevates and moves anteriorly",
+        "C. Rotates and moves inferiorly",
+        "D. Elevates and moves posteriorly",
+        "E. It remains stationary"
+      ],
+      "answer": "B",
+      "detail": "Swallowing causes the larynx to elevate and move anteriorly."
+    },
+    {
+      "number": 9,
+      "question": "When performing a thoracic barium swallow in the Left Posterior Oblique (LPO) position, which hand should hold the barium cup?",
+      "choices": [
+        "A. Left hand",
+        "B. Right hand",
+        "C. Both hands",
+        "D. The hand does not matter",
+        "E. The technician must hold it"
+      ],
+      "answer": "A",
+      "detail": "To avoid obscuring the field of view, LPO uses the Left Hand and RPO uses the Right Hand."
+    },
+    {
+      "number": 10,
+      "question": "What is the classic radiographic buzzword for Barrett’s esophagus on a barium study?",
+      "choices": [
+        "A. 'Cobblestone' appearance",
+        "B. 'Lead pipe' colon",
+        "C. 'Reticular mucosal pattern'",
+        "D. 'Shaggy' appearance",
+        "E. 'Ringed' esophagus"
+      ],
+      "answer": "C",
+      "detail": "A high stricture with a hiatal hernia and a reticular mucosal pattern is classic for Barrett’s."
+    },
+    {
+      "number": 11,
+      "question": "Barrett’s esophagus is a precursor to which type of malignancy?",
+      "choices": [
+        "A. Squamous cell carcinoma",
+        "B. Adenocarcinoma",
+        "C. Small cell carcinoma",
+        "D. Lymphoma",
+        "E. GIST"
+      ],
+      "answer": "B",
+      "detail": "Barrett’s develops from chronic reflux and is a precursor to adenocarcinoma."
+    },
+    {
+      "number": 12,
+      "question": "'Feline Esophagus' is characterized by fine, transient transverse folds that are only seen in the:",
+      "choices": [
+        "A. Upper 1/3 of the esophagus",
+        "B. Lower 2/3 of the esophagus",
+        "C. Entire length of the esophagus",
+        "D. Upper 2/3 of the esophagus",
+        "E. Mid-esophagus only"
+      ],
+      "answer": "B",
+      "detail": "These folds are transient and located only in the lower 2/3 of the esophagus."
+    },
+    {
+      "number": 13,
+      "question": "While Feline Esophagus can be a normal variant, it has a high association with:",
+      "choices": [
+        "A. Achalasia",
+        "B. Reflux esophagitis",
+        "C. Scleroderma",
+        "D. Candidiasis",
+        "E. Caustic ingestion"
+      ],
+      "answer": "B",
+      "detail": "There is a high association between feline esophagus and reflux esophagitis."
+    },
+    {
+      "number": 14,
+      "question": "Esophageal Squamous Cell Carcinoma is most commonly associated with which demographic and location?",
+      "choices": [
+        "A. White males; lower esophagus",
+        "B. Black males; mid-esophagus",
+        "C. White females; mid-esophagus",
+        "D. Black females; lower esophagus",
+        "E. Adolescent males; upper esophagus"
+      ],
+      "answer": "B",
+      "detail": "Squamous cell CA favors black males who drink and smoke, and typically occurs in the mid-esophagus."
+    },
+    {
+      "number": 15,
+      "question": "Esophageal Adenocarcinoma is most commonly associated with which demographic and location?",
+      "choices": [
+        "A. Black males; mid-esophagus",
+        "B. White males; lower esophagus",
+        "C. White females; mid-esophagus",
+        "D. Black females; lower esophagus",
+        "E. Elderly females; upper esophagus"
+      ],
+      "answer": "B",
+      "detail": "Adenocarcinoma favors white males with chronic reflux/Barrett’s and occurs in the lower esophagus."
+    },
+    {
+      "number": 16,
+      "question": "In esophageal cancer staging, the distinction between T3 and T4 is based on:",
+      "choices": [
+        "A. Depth of mucosal invasion",
+        "B. Invasion into adjacent structures",
+        "C. Lymph node involvement",
+        "D. Presence of distant metastases",
+        "E. Size of the primary mass"
+      ],
+      "answer": "B",
+      "detail": "T3 refers to adventitia involvement, while T4 indicates invasion into adjacent structures."
+    },
+    {
+      "number": 17,
+      "question": "What is the most common flavor of gastric herniation, accounting for 95% of cases?",
+      "choices": [
+        "A. Sliding (Type 1)",
+        "B. Rolling para-esophageal (Type 2)",
+        "C. Mixed",
+        "D. Gastroschisis",
+        "E. Omphalocele"
+      ],
+      "answer": "A",
+      "detail": "The sliding (Type 1) hiatal hernia is the most common, accounting for 95% of cases."
+    },
+    {
+      "number": 18,
+      "question": "In a 'Sliding' (Type 1) hiatal hernia, the GE junction is located:",
+      "choices": [
+        "A. Below the diaphragm",
+        "B. Above the diaphragm",
+        "C. Exactly at the level of the diaphragm",
+        "D. In the posterior mediastinum",
+        "E. Near the pylorus"
+      ],
+      "answer": "B",
+      "detail": "In a Type 1 (sliding) hernia, the GE junction is above the diaphragm; in Type 2, it remains below."
+    },
+    {
+      "number": 19,
+      "question": "Which type of hiatal hernia has a reportedly higher rate of incarceration?",
+      "choices": [
+        "A. Type 1",
+        "B. Type 2",
+        "C. Type 3",
+        "D. Type 4",
+        "E. They are equal"
+      ],
+      "answer": "B",
+      "detail": "Para-esophageal (Type 2) hernias have a higher risk of incarceration."
+    },
+    {
+      "number": 20,
+      "question": "A 'Nissen' fundoplication involves what degree of wrap of the gastric fundus?",
+      "choices": [
+        "A. 180 degrees",
+        "B. 270 degrees",
+        "C. 360 degrees",
+        "D. 90 degrees",
+        "E. 45 degrees"
+      ],
+      "answer": "C",
+      "detail": "A Nissen fundoplication is a 360-degree wrap."
+    },
+    {
+      "number": 21,
+      "question": "An early complication of fundoplication (around week 2) presenting with total esophageal obstruction is usually due to:",
+      "choices": [
+        "A. Post-op edema or a wrap made too tight",
+        "B. Slipped Nissen",
+        "C. Recurrent hiatal hernia",
+        "D. Gastric leak",
+        "E. Gastric band slippage"
+      ],
+      "answer": "A",
+      "detail": "Post-operative edema or an overly tight wrap can cause early narrowing or total obstruction."
+    },
+    {
+      "number": 22,
+      "question": "What is the most common reason for recurrent reflux following a fundoplication?",
+      "choices": [
+        "A. Short esophagus",
+        "B. Slipped Nissen",
+        "C. Wound infection",
+        "D. Candidiasis",
+        "E. Dumping syndrome"
+      ],
+      "answer": "B",
+      "detail": "Recurrent reflux after fundoplication is most commonly due to a slipped Nissen wrap."
+    },
+    {
+      "number": 23,
+      "question": "A fundoplication wrap is considered 'slipped' if the length of the narrowed esophagus is:",
+      "choices": [
+        "A. < 1 cm",
+        "B. < 2 cm",
+        "C. > 2 cm",
+        "D. Exactly 5 cm",
+        "E. Not visible on barium"
+      ],
+      "answer": "C",
+      "detail": "A wrap length of greater than 2 cm suggests it has slipped."
+    },
+    {
+      "number": 24,
+      "question": "For the purpose of a multiple choice test, a 'short esophagus' is defined as a fixed hiatal hernia greater than:",
+      "choices": [
+        "A. 1 cm",
+        "B. 2 cm",
+        "C. 5 cm",
+        "D. 10 cm",
+        "E. 15 cm"
+      ],
+      "answer": "C",
+      "detail": "A fixed/non-reducible hiatal hernia greater than 5 cm defines a short esophagus."
+    },
+    {
+      "number": 25,
+      "question": "What is the surgical treatment for a 'short esophagus'?",
+      "choices": [
+        "A. Collis gastroplasty (lengthening + fundoplication)",
+        "B. Billroth 1",
+        "C. Roux-en-Y",
+        "D. Pyloromyotomy",
+        "E. Sistrunk procedure"
+      ],
+      "answer": "A",
+      "detail": "Collis gastroplasty is used to lengthen the esophagus before fundoplication in cases of short esophagus."
+    },
+    {
+      "number": 26,
+      "question": "A 'shaggy' or 'plaque-like' appearance of the esophagus on a barium study in an HIV patient is characteristic of:",
+      "choices": [
+        "A. Herpes",
+        "B. Candidiasis",
+        "C. CMV",
+        "D. Reflux",
+        "E. Glycogenic acanthosis"
+      ],
+      "answer": "B",
+      "detail": "A shaggy contour and discrete mucosal plaques are classic for Candida esophagitis in HIV patients."
+    },
+    {
+      "number": 27,
+      "question": "Which condition is known as a benign mimic of esophageal candidiasis and occurs in asymptomatic elderly patients?",
+      "choices": [
+        "A. Herpes",
+        "B. Glycogenic acanthosis",
+        "C. CMV",
+        "D. Crohn's",
+        "E. Barrett's"
+      ],
+      "answer": "B",
+      "detail": "Glycogenic acanthosis mimics the appearance of Candida but is seen in asymptomatic elderly patients."
+    },
+    {
+      "number": 28,
+      "question": "Esophageal 'Herpes' ulcers are characteristically described as:",
+      "choices": [
+        "A. Large, flat, and ovoid",
+        "B. Small and multiple with a halo of edema",
+        "C. Long, linear, and confluent",
+        "D. Deep and 'flask-shaped'",
+        "E. Associated with a 'coned' appearance"
+      ],
+      "answer": "B",
+      "detail": "Herpes esophagitis typically produces small, multiple ulcers surrounded by a halo of edema."
+    },
+    {
+      "number": 29,
+      "question": "CMV and HIV ulcers in the esophagus are radiographically identical and appear as:",
+      "choices": [
+        "A. Small with a halo",
+        "B. Large, flat, and ovoid",
+        "C. Concentric rings",
+        "D. Shaggy mucosa",
+        "E. Reticular patterns"
+      ],
+      "answer": "B",
+      "detail": "Both CMV and HIV cause large, flat, ovoid ulcers in the esophagus."
+    },
+    {
+      "number": 30,
+      "question": "Crohn’s disease involvement in the esophagus is rare, but the classic buzzword is:",
+      "choices": [
+        "A. 'Aphthous Ulcers'",
+        "B. 'Lead pipe'",
+        "C. 'Apple core'",
+        "D. 'String sign'",
+        "E. 'Caterpillar sign'"
+      ],
+      "answer": "A",
+      "detail": "Discrete ulcers surrounded by mounds of edema in Crohn's disease are called aphthous ulcers."
+    },
+    {
+      "number": 31,
+      "question": "Where is the most common location for an esophageal duplication cyst?",
+      "choices": [
+        "A. Antrum",
+        "B. Ileum (Esophagus is #2)",
+        "C. Duodenum",
+        "D. Rectum",
+        "E. Sigmoid"
+      ],
+      "answer": "B",
+      "detail": "While these can be in the esophagus, the ileum is the most common location overall for GI duplication cysts."
+    },
+    {
+      "number": 32,
+      "question": "On CT, an esophageal duplication cyst will appear as a water-density mass in the:",
+      "choices": [
+        "A. Anterior mediastinum",
+        "B. Middle mediastinum",
+        "C. Posterior mediastinum",
+        "D. Neck",
+        "E. Perirenal space"
+      ],
+      "answer": "C",
+      "detail": "These cysts are typically water-density masses found in the posterior mediastinum abutting the esophagus."
+    },
+    {
+      "number": 33,
+      "question": "'Zenker’s Diverticulum' is a pulsion diverticulum that arises from the:",
+      "choices": [
+        "A. Hypopharynx",
+        "B. Cervical esophagus",
+        "C. Mid-esophagus",
+        "D. Epiphrenic region",
+        "E. Antrum"
+      ],
+      "answer": "A",
+      "detail": "Zenker’s diverticulum arises from the hypopharynx, not the cervical esophagus."
+    },
+    {
+      "number": 34,
+      "question": "The site of weakness associated with a Zenker’s Diverticulum is called:",
+      "choices": [
+        "A. Fossa of Lanzert",
+        "B. Fossa of Waldeyer",
+        "C. Killian Dehiscence (or triangle)",
+        "D. Gastrinoma triangle",
+        "E. Triangle cord"
+      ],
+      "answer": "C",
+      "detail": "Zenker’s diverticulum protrudes through a site of weakness called the Killian Dehiscence."
+    },
+    {
+      "number": 35,
+      "question": "A pulsion diverticulum that is anterior and lateral in the cervical esophagus is a:",
+      "choices": [
+        "A. Zenker’s",
+        "B. Killian-Jamieson",
+        "C. Traction diverticulum",
+        "D. Epiphrenic diverticulum",
+        "E. Pseudodiverticulosis"
+      ],
+      "answer": "B",
+      "detail": "The Killian-Jamieson diverticulum is a pulsion type located anteriorly and laterally in the cervical esophagus."
+    },
+    {
+      "number": 36,
+      "question": "A 'Traction Diverticulum' is typically located in the mid-esophagus, and its shape is:",
+      "choices": [
+        "A. Round",
+        "B. Triangular",
+        "C. Oval",
+        "D. Saccular",
+        "E. Linear"
+      ],
+      "answer": "B",
+      "detail": "Traction diverticula are triangular in shape because they result from external scarring pulling the wall."
+    },
+    {
+      "number": 37,
+      "question": "Traction diverticula occur secondary to scarring from which two common diseases?",
+      "choices": [
+        "A. Reflux and Scleroderma",
+        "B. Granulomatous disease (TB) or Sarcoid",
+        "C. AIDS and Candidiasis",
+        "D. Achalasia and Chagas",
+        "E. HPV and CMV"
+      ],
+      "answer": "B",
+      "detail": "Traction results from external scarring/pulling, often from granulomatous diseases like TB or sarcoid."
+    },
+    {
+      "number": 38,
+      "question": "Epiphrenic diverticula are pulsion types located just above the diaphragm, usually on the:",
+      "choices": [
+        "A. Left side",
+        "B. Right side",
+        "C. Posterior wall",
+        "D. Anterior wall",
+        "E. Midline"
+      ],
+      "answer": "B",
+      "detail": "Epiphrenic diverticula are typically found on the right side, just above the diaphragm."
+    },
+    {
+      "number": 39,
+      "question": "'Esophageal Pseudodiverticulosis' represents dilated submucosal glands usually due to:",
+      "choices": [
+        "A. Acute infection",
+        "B. Chronic reflux esophagitis",
+        "C. Trauma",
+        "D. SMA syndrome",
+        "E. Radiation"
+      ],
+      "answer": "B",
+      "detail": "This condition represents dilated submucosal glands and is usually caused by chronic reflux."
+    },
+    {
+      "number": 40,
+      "question": "What is the most common benign mucosal lesion of the esophagus?",
+      "choices": [
+        "A. Lipoma",
+        "B. Papilloma",
+        "C. Hemangioma",
+        "D. GIST",
+        "E. Neurofibroma"
+      ],
+      "answer": "B",
+      "detail": "Esophageal papillomas are the most common benign mucosal lesion of the esophagus."
+    },
+    {
+      "number": 41,
+      "question": "Plummer-Vinson Syndrome features a triad of iron deficiency anemia, dysphagia (esophageal web), and:",
+      "choices": [
+        "A. Cleft palate",
+        "B. 'Spoon-shaped nails'",
+        "C. Blue sclera",
+        "D. Absent clavicles",
+        "E. Precocious puberty"
+      ],
+      "answer": "B",
+      "detail": "The classic trivia association for Plummer-Vinson syndrome is 'spoon-shaped nails'."
+    },
+    {
+      "number": 42,
+      "question": "Esophageal webs carry an increased risk for which malignancy?",
+      "choices": [
+        "A. Adenocarcinoma",
+        "B. Squamous cell carcinoma",
+        "C. Lymphoma",
+        "D. GIST",
+        "E. Sarcoma"
+      ],
+      "answer": "B",
+      "detail": "Esophageal webs are a risk factor for squamous cell carcinoma of the esophagus and hypopharynx."
+    },
+    {
+      "number": 43,
+      "question": "A young man with a long history of dysphagia, atopia, and peripheral eosinophilia has a 'ringed' esophagus on barium. This is:",
+      "choices": [
+        "A. Achalasia",
+        "B. Eosinophilic Esophagitis",
+        "C. Scleroderma",
+        "D. Candida",
+        "E. Caustic ingestion"
+      ],
+      "answer": "B",
+      "detail": "The presence of concentric rings ('ringed esophagus') in a young man with dysphagia and atopia is the hallmark of eosinophilic esophagitis."
+    },
+    {
+      "number": 44,
+      "question": "What is the first-line treatment for Eosinophilic Esophagitis?",
+      "choices": [
+        "A. PPIs",
+        "B. Steroids",
+        "C. Surgery",
+        "D. Antibiotics",
+        "E. Barium enema"
+      ],
+      "answer": "B",
+      "detail": "Patients with eosinophilic esophagitis typically fail PPI therapy but respond to steroids."
+    },
+    {
+      "number": 45,
+      "question": "'Corkscrew' tertiary contractions in the distal esophagus on a barium study suggest:",
+      "choices": [
+        "A. Achalasia",
+        "B. Esophageal spasm",
+        "C. Nutcracker esophagus",
+        "D. Scleroderma",
+        "E. Reflux"
+      ],
+      "answer": "B",
+      "detail": "Multiple tertiary contractions on a barium study create a 'corkscrew' appearance characteristic of esophageal spasm."
+    },
+    {
+      "number": 46,
+      "question": "'Nutcracker esophagus' is distinguished from spasm by requiring manometric findings greater than:",
+      "choices": [
+        "A. 100 mmHg",
+        "B. 120 mmHg",
+        "C. 150 mmHg",
+        "D. 180 mmHg",
+        "E. 200 mmHg"
+      ],
+      "answer": "D",
+      "detail": "Nutcracker esophagus is defined by high pressure on manometry, specifically greater than 180 mmHg."
+    },
+    {
+      "number": 47,
+      "question": "'Dysphagia Lusoria' refers to swallowing difficulty caused by compression from:",
+      "choices": [
+        "A. An aberrant right subclavian artery",
+        "B. A double aortic arch",
+        "C. A pulmonary sling",
+        "D. An innominate artery",
+        "E. A Zenker diverticulum"
+      ],
+      "answer": "A",
+      "detail": "Swallowing difficulty caused by an aberrant right subclavian artery is called Dysphagia Lusoria."
+    },
+    {
+      "number": 48,
+      "question": "Achalasia is a motor disorder characterized by a 'Bird Beak' appearance and:",
+      "choices": [
+        "A. Absent primary peristalsis",
+        "B. Hyper-peristalsis",
+        "C. Rapid gastric emptying",
+        "D. Low-output CHF",
+        "E. Presence of a Z-line"
+      ],
+      "answer": "A",
+      "detail": "Achalasia features a failure of the LES to relax and a characteristic absence of primary peristalsis."
+    },
+    {
+      "number": 49,
+      "question": "Achalasia carries an increased risk for which two conditions?",
+      "choices": [
+        "A. Adenocarcinoma and Scleroderma",
+        "B. Squamous cell CA and Candida",
+        "C. GIST and HPV",
+        "D. Barrett’s and Reflux",
+        "E. Chagas and HIV"
+      ],
+      "answer": "B",
+      "detail": "The stasis associated with achalasia leads to an increased risk of both squamous cell carcinoma and fungal (Candida) infection."
+    },
+    {
+      "number": 50,
+      "question": "'Chagas Disease' is caused by a parasite from a fly that produces an esophageal appearance identical to:",
+      "choices": [
+        "A. Scleroderma",
+        "B. Achalasia",
+        "C. Reflux",
+        "D. Candidiasis",
+        "E. Barrett's"
+      ],
+      "answer": "B",
+      "detail": "Chagas disease paralyzes the esophagus, resulting in a radiographic appearance identical to achalasia."
+    },
+    {
+      "number": 51,
+      "question": "'Pseudoachalasia' (secondary achalasia) is typically caused by:",
+      "choices": [
+        "A. Parasites",
+        "B. Cancer at the GE junction",
+        "C. Viral infection",
+        "D. Prior radiation",
+        "E. Anabolic steroids"
+      ],
+      "answer": "B",
+      "detail": "Pseudoachalasia results from a cancer at the GE junction creating a fixed obstruction that mimics the primary motor disorder."
+    },
+    {
+      "number": 52,
+      "question": "Scleroderma involves the esophagus in what percentage of patients?",
+      "choices": [
+        "A. 10%",
+        "B. 25%",
+        "C. 50%",
+        "D. 80%",
+        "E. 100%"
+      ],
+      "answer": "D",
+      "detail": "The esophagus is involved in approximately 80% of patients with scleroderma."
+    },
+    {
+      "number": 53,
+      "question": "Esophageal scleroderma leads to an incompetent LES, which results in:",
+      "choices": [
+        "A. Severe chronic reflux and Barrett’s",
+        "B. High-output CHF",
+        "C. Improved peristalsis",
+        "D. Decreased risk of cancer",
+        "E. 'Corkscrew' contractions"
+      ],
+      "answer": "A",
+      "detail": "The incompetent LES in scleroderma allows massive reflux, which can lead to severe esophagitis, strictures, and Barrett’s esophagus."
+    },
+    {
+      "number": 54,
+      "question": "'Uphill Varices' are caused by portal hypertension and are confined to the:",
+      "choices": [
+        "A. Bottom half of the esophagus",
+        "B. Top half of the esophagus",
+        "C. Mid-esophagus only",
+        "D. Pharynx",
+        "E. Duodenum"
+      ],
+      "answer": "A",
+      "detail": "Uphill varices resulting from portal hypertension are typically located in the lower half of the esophagus."
+    },
+    {
+      "number": 55,
+      "question": "'Downhill Varices' are caused by SVC obstruction and are confined to the:",
+      "choices": [
+        "A. Bottom half of the esophagus",
+        "B. Top half of the esophagus",
+        "C. Mid-esophagus only",
+        "D. Lower 2/3 of the esophagus",
+        "E. Antrum"
+      ],
+      "answer": "B",
+      "detail": "SVC obstruction leads to 'downhill' varices, which are confined to the upper portion of the esophagus."
+    },
+    {
+      "number": 56,
+      "question": "A long esophageal stricture should prompt a differential including an NG tube left in too long, radiation, and:",
+      "choices": [
+        "A. Caustic ingestion (classic lye)",
+        "B. Crohn's disease",
+        "C. Achalasia",
+        "D. Herpes",
+        "E. Barrett's"
+      ],
+      "answer": "A",
+      "detail": "Lye or caustic ingestion is a classic cause of a long esophageal stricture."
+    },
+    {
+      "number": 57,
+      "question": "What is the most common mesenchymal tumor of the GI tract?",
+      "choices": [
+        "A. Adenocarcinoma",
+        "B. Lymphoma",
+        "C. GIST (Gastrointestinal Stromal Tumor)",
+        "D. Leiomyoma",
+        "E. Sarcoma"
+      ],
+      "answer": "C",
+      "detail": "GIST is the most common mesenchymal tumor of the GI tract, with 70% occurring in the stomach."
+    },
+    {
+      "number": 58,
+      "question": "Gastric GISTs are rarely associated with which high-yield imaging feature?",
+      "choices": [
+        "A. Calcification",
+        "B. Ulceration",
+        "C. Lymph node enlargement",
+        "D. Liver metastases",
+        "E. Exophytic growth"
+      ],
+      "answer": "C",
+      "detail": "GISTs are typically not associated with lymphadenopathy, a feature that helps distinguish them from adenocarcinoma."
+    },
+    {
+      "number": 59,
+      "question": "'Carney’s Triad' (GIST, Extra-adrenal Pheochromocytoma, and Pulmonary Chondroma) is associated with:",
+      "choices": [
+        "A. NF-1",
+        "B. GIST",
+        "C. VHL",
+        "D. Multiple Sclerosis",
+        "E. Crohn's"
+      ],
+      "answer": "B",
+      "detail": "GIST is a core component of the Carney's triad."
+    },
+    {
+      "number": 60,
+      "question": "Gastric Adenocarcinoma is predominantly a disease of the elderly, with a median age of:",
+      "choices": [
+        "A. 20",
+        "B. 40",
+        "C. 50",
+        "D. 70",
+        "E. 90"
+      ],
+      "answer": "D",
+      "detail": "The median age for gastric adenocarcinoma is 70, and it is rare in patients under 40."
+    },
+    {
+      "number": 61,
+      "question": "What is the most tested risk factor for gastric adenocarcinoma?",
+      "choices": [
+        "A. Smoking",
+        "B. Alcohol",
+        "C. H. Pylori",
+        "D. Aspirin use",
+        "E. C-section history"
+      ],
+      "answer": "C",
+      "detail": "H. pylori infection is the leading risk factor for the development of gastric adenocarcinoma."
+    },
+    {
+      "number": 62,
+      "question": "Metastatic spread of gastric adenocarcinoma to the ovary is called a:",
+      "choices": [
+        "A. Virchow Node",
+        "B. Krukenberg Tumor",
+        "C. Sister Mary Joseph nodule",
+        "D. Stierlin sign",
+        "E. Fleischner sign"
+      ],
+      "answer": "B",
+      "detail": "Metastatic GI cancer spreading to the ovary is known as a Krukenberg tumor."
+    },
+    {
+      "number": 63,
+      "question": "A swollen left supraclavicular node in the setting of gastric cancer is called a:",
+      "choices": [
+        "A. Krukenberg node",
+        "B. Virchow Node",
+        "C. Sentinel node",
+        "D. Rouviere node",
+        "E. Parrot node"
+      ],
+      "answer": "B",
+      "detail": "A Virchow node refers to a left supraclavicular node enlarged by metastatic spread from a GI primary."
+    },
+    {
+      "number": 64,
+      "question": "Gastric ulcers have what percentage chance of being cancer?",
+      "choices": [
+        "A. 0%",
+        "B. 5%",
+        "C. 25%",
+        "D. 50%",
+        "E. 95%"
+      ],
+      "answer": "B",
+      "detail": "Gastric ulcers carry an approximately 5% risk of being malignant."
+    },
+    {
+      "number": 65,
+      "question": "'Multiple gastric ulcers' is a classic radiographic buzzword for:",
+      "choices": [
+        "A. H. Pylori",
+        "B. Chronic aspirin therapy",
+        "C. Zollinger-Ellison",
+        "D. Adenocarcinoma",
+        "E. Menetrier's"
+      ],
+      "answer": "B",
+      "detail": "Up to 80% of patients on chronic aspirin therapy will demonstrate multiple gastric ulcers."
+    },
+    {
+      "number": 66,
+      "question": "'Multiple duodenal ulcers' (which are normally solitary) should make you think of:",
+      "choices": [
+        "A. Aspirin use",
+        "B. Zollinger-Ellison (Gastrinoma)",
+        "C. Crohn's disease",
+        "D. Scleroderma",
+        "E. Whipples"
+      ],
+      "answer": "B",
+      "detail": "Multiple duodenal ulcers are a sign of hypersecretion of gastric acid from a gastrinoma."
+    },
+    {
+      "number": 67,
+      "question": "Gastric Lymphoma (MALT) is most commonly associated with which risk factor?",
+      "choices": [
+        "A. Smoking",
+        "B. H. Pylori",
+        "C. Alcohol",
+        "D. Aspirin",
+        "E. Prior Billroth surgery"
+      ],
+      "answer": "B",
+      "detail": "Like gastric adenocarcinoma, MALT lymphoma is strongly linked to H. pylori infection."
+    },
+    {
+      "number": 68,
+      "question": "A key piece of trivia for Gastric Lymphoma is that, even when extensive, it rarely causes:",
+      "choices": [
+        "A. Wall thickening",
+        "B. Gastric outlet obstruction",
+        "C. Ulceration",
+        "D. Metastasis",
+        "E. Rugal thickening"
+      ],
+      "answer": "B",
+      "detail": "Because it is a 'soft' infiltrative tumor, gastric lymphoma rarely causes outlet obstruction even when very large."
+    },
+    {
+      "number": 69,
+      "question": "Which primary gastric tumor is most likely to 'cross the pylorus'?",
+      "choices": [
+        "A. Adenocarcinoma",
+        "B. Lymphoma",
+        "C. GIST",
+        "D. Leiomyoma",
+        "E. Menetrier's"
+      ],
+      "answer": "B",
+      "detail": "Gastric lymphoma is the tumor classically described as having the ability to cross the pylorus into the duodenum."
+    },
+    {
+      "number": 70,
+      "question": "'Linitis Plastica' refers to a rigid, contracted 'leather bottle' appearance of the stomach, most classically caused by:",
+      "choices": [
+        "A. GIST",
+        "B. Melanoma or Breast (Lobular) mets",
+        "C. Candidiasis",
+        "D. Scleroderma",
+        "E. Menetrier's"
+      ],
+      "answer": "B",
+      "detail": "Linitis plastica is the classic appearance for metastatic lobular breast cancer or melanoma to the stomach."
+    },
+    {
+      "number": 71,
+      "question": "'Areae Gastricae' refers to a normal fine reticular pattern in the stomach that ENLARGES in which two groups?",
+      "choices": [
+        "A. Young children and neonates",
+        "B. Elderly patients and those with H. Pylori",
+        "C. Pregnant women and those on steroids",
+        "D. Athletes and those with CF",
+        "E. HIV patients and those with Crohn's"
+      ],
+      "answer": "B",
+      "detail": "The reticular pattern of the areae gastricae enlarges normally with age and pathologically with H. pylori infection."
+    },
+    {
+      "number": 72,
+      "question": "'Menetrier’s Disease' is an idiopathic gastropathy characterized by rugal thickening that:",
+      "choices": [
+        "A. Spares the fundus and involves the antrum",
+        "B. Involves the fundus and spares the antrum",
+        "C. Involves the entire stomach",
+        "D. Spares the mucosa",
+        "E. Is associated with high albumin"
+      ],
+      "answer": "B",
+      "detail": "The hallmark of Menetrier's is rugal thickening involving the fundus and body while sparing the antrum."
+    },
+    {
+      "number": 73,
+      "question": "The 'childhood form' of Menetrier’s Disease is thought to be related to:",
+      "choices": [
+        "A. H. Pylori",
+        "B. CMV",
+        "C. HPV",
+        "D. HIV",
+        "E. Ascaris"
+      ],
+      "answer": "B",
+      "detail": "The childhood variant of Menetrier’s gastropathy is linked to CMV infection."
+    },
+    {
+      "number": 74,
+      "question": "What is the most common GI tract location for Sarcoidosis?",
+      "choices": [
+        "A. Esophagus",
+        "B. Stomach (Antrum)",
+        "C. Ileum",
+        "D. Rectum",
+        "E. Duodenum"
+      ],
+      "answer": "B",
+      "detail": "The stomach (antrum) is the most common site of sarcoidosis in the GI tract."
+    },
+    {
+      "number": 75,
+      "question": "'Ram’s Horn Deformity' refers to a tubular, conical shape of the distal stomach seen in:",
+      "choices": [
+        "A. Reflux",
+        "B. Scarring (Peptic ulcers) or Granulomatous Disease (Sarcoid, TB, Crohn's)",
+        "C. Gastric band slippage",
+        "D. Billroth 1 surgery",
+        "E. Candidiasis"
+      ],
+      "answer": "B",
+      "detail": "Tapering of the antrum resulting in a 'Ram's Horn' shape can be caused by various scarring processes or granulomatous diseases."
+    },
+    {
+      "number": 76,
+      "question": "'Organoaxial' gastric volvulus is more common and typically occurs in:",
+      "choices": [
+        "A. Infants with midgut volvulus",
+        "B. Old ladies with para-esophageal hernias",
+        "C. Teenagers after trauma",
+        "D. Patients with CF",
+        "E. Men on anabolic steroids"
+      ],
+      "answer": "B",
+      "detail": "Organoaxial volvulus, where the stomach flips over its long axis, is most common in elderly women with para-esophageal hernias."
+    },
+    {
+      "number": 77,
+      "question": "In 'Mesenteroaxial' gastric volvulus, the gastric antrum is located:",
+      "choices": [
+        "A. Below the GE junction",
+        "B. Above the GE junction",
+        "C. Inside a hiatal hernia",
+        "D. To the right of the spine",
+        "E. In the pelvis"
+      ],
+      "answer": "B",
+      "detail": "In mesenteroaxial volvulus, which is more common in children, the antrum rotates above the level of the GE junction."
+    },
+    {
+      "number": 78,
+      "question": "A 'Gastric Diverticulum' is most commonly found in the:",
+      "choices": [
+        "A. Posterior fundus",
+        "B. Anterior antrum",
+        "C. Pylorus",
+        "D. Lesser curvature",
+        "E. Greater curvature"
+      ],
+      "answer": "A",
+      "detail": "Gastric diverticula are typically located in the posterior fundus."
+    },
+    {
+      "number": 79,
+      "question": "Isolated 'Gastric Varices' should immediately make you look for:",
+      "choices": [
+        "A. SVC obstruction",
+        "B. Splenic vein thrombus",
+        "C. SMA syndrome",
+        "D. Portal vein aneurysm",
+        "E. Hepatic artery occlusion"
+      ],
+      "answer": "B",
+      "detail": "Isolated gastric varices (without esophageal varices) are a sign of splenic vein thrombosis."
+    },
+    {
+      "number": 80,
+      "question": "Most gastric varices are formed by which vessel?",
+      "choices": [
+        "A. Short gastric vein",
+        "B. Left gastric (coronary vein)",
+        "C. Right gastric vein",
+        "D. Splenic artery",
+        "E. Renal vein"
+      ],
+      "answer": "B",
+      "detail": "The left gastric (coronary) vein is the most common source of gastric varices."
+    },
+    {
+      "number": 81,
+      "question": "For a lap gastric band, what is the ideal 'phi angle' (position of the band)?",
+      "choices": [
+        "A. 10–20 degrees",
+        "B. 4–58 degrees (or 5–50 degrees)",
+        "C. Exactly 90 degrees",
+        "D. 180 degrees",
+        "E. 360 degrees"
+      ],
+      "answer": "B",
+      "detail": "The ideal 'phi angle' for a gastric band should be between 4 and 58 degrees."
+    },
+    {
+      "number": 82,
+      "question": "What is the most common complication of a lap gastric band?",
+      "choices": [
+        "A. Band slippage",
+        "B. Stomal stenosis (band too tight)",
+        "C. Gastric leak",
+        "D. Erosion into the lumen",
+        "E. Internal hernia"
+      ],
+      "answer": "B",
+      "detail": "Stomal stenosis resulting from a band that is too tight is the most common complication."
+    },
+    {
+      "number": 83,
+      "question": "In a Billroth 1 surgery, the pylorus is removed and the proximal stomach is sewn to the:",
+      "choices": [
+        "A. Jejunum",
+        "B. Duodenum",
+        "C. Ileum",
+        "D. Esophagus",
+        "E. Colon"
+      ],
+      "answer": "B",
+      "detail": "A Billroth 1 procedure is a gastroduodenostomy."
+    },
+    {
+      "number": 84,
+      "question": "A 'Billroth 2' surgery involves a partial gastrectomy where the stomach is attached to the:",
+      "choices": [
+        "A. Duodenum",
+        "B. Jejunum",
+        "C. Ileum",
+        "D. Rectum",
+        "E. Skin"
+      ],
+      "answer": "B",
+      "detail": "A Billroth 2 procedure is a gastrojejunostomy."
+    },
+    {
+      "number": 85,
+      "question": "Gastric remnants after old peptic ulcer surgeries (Billroths) carry a 3–6x increased risk of:",
+      "choices": [
+        "A. Adenocarcinoma (after 15 years)",
+        "B. Squamous cell CA",
+        "C. Lymphoma",
+        "D. GIST",
+        "E. Menetrier's"
+      ],
+      "answer": "A",
+      "detail": "The gastric stump following a Billroth procedure has a significantly increased risk of developing adenocarcinoma after about 15 years."
+    },
+    {
+      "number": 86,
+      "question": "'Dumping Syndrome' is caused by rapid gastric emptying and is classically seen after which procedure?",
+      "choices": [
+        "A. Lap band",
+        "B. Billroth 2",
+        "C. Pyloromyotomy",
+        "D. Sistrunk",
+        "E. Whipple"
+      ],
+      "answer": "B",
+      "detail": "Dumping syndrome resulting from rapid transit of food is classically associated with Billroth 2 surgery."
+    },
+    {
+      "number": 87,
+      "question": "'Afferent Loop Syndrome' in a Billroth 2 patient results from obstruction of the:",
+      "choices": [
+        "A. Feeding limb",
+        "B. Bilio-pancreatic limb",
+        "C. Esophagus",
+        "D. Pylorus",
+        "E. Rectum"
+      ],
+      "answer": "B",
+      "detail": "Obstruction of the afferent (bilio-pancreatic) limb in a Billroth 2 leads to dilatation and pain."
+    },
+    {
+      "number": 88,
+      "question": "'Jejunogastric Intussusception' is a rare, high-mortality complication where the jejunum herniates into the:",
+      "choices": [
+        "A. Duodenum",
+        "B. Stomach",
+        "C. Billroth 1 wrap",
+        "D. Antrum",
+        "E. Omentum"
+      ],
+      "answer": "B",
+      "detail": "This rare complication involves the jejunum (usually the efferent limb) herniating back into the stomach."
+    },
+    {
+      "number": 89,
+      "question": "When looking for a post-op 'Leak' (gastrojejunal anastomosis), which imaging position is most useful?",
+      "choices": [
+        "A. Supine",
+        "B. Supine Left Posterior Oblique (LPO)",
+        "C. Prone",
+        "D. Right Lateral Decubitus",
+        "E. Standing"
+      ],
+      "answer": "B",
+      "detail": "Most gastrojejunal leaks drain to the left, making the LPO position highly useful for detection."
+    },
+    {
+      "number": 90,
+      "question": "Which vital sign is considered the single most reliable sign of a post-surgical perforation?",
+      "choices": [
+        "A. Fever > 101 F",
+        "B. Heart rate > 120 bpm",
+        "C. Blood pressure < 90/60",
+        "D. Respiratory rate > 20",
+        "E. Oxygen saturation < 90%"
+      ],
+      "answer": "B",
+      "detail": "A heart rate greater than 120 bpm is highly suspicious for post-surgical perforation."
+    },
+    {
+      "number": 91,
+      "question": "A 'Gastro-Gastric Fistula' is a chronic complication of Roux-en-Y surgery where contrast from the pouch enters the:",
+      "choices": [
+        "A. Excluded stomach",
+        "B. Pylorus",
+        "C. Lung",
+        "D. Heart",
+        "E. Perirenal space"
+      ],
+      "answer": "A",
+      "detail": "In this complication, contrast enters the remnant 'excluded' stomach, often leading to weight gain."
+    },
+    {
+      "number": 92,
+      "question": "'Marginal Ulcers' in a Roux-en-Y patient are typically found:",
+      "choices": [
+        "A. In the esophagus",
+        "B. Just distal to the 'G-J' anastomosis (in the jejunum)",
+        "C. In the antrum",
+        "D. At the IC valve",
+        "E. In the excluded stomach"
+      ],
+      "answer": "B",
+      "detail": "Marginal ulcers form in the jejunum just distal to the gastrojejunal anastomosis."
+    },
+    {
+      "number": 93,
+      "question": "'Simple Mechanical' bowel obstruction is defined by a bowel segment being obstructed at:",
+      "choices": [
+        "A. A single point",
+        "B. Two or more adjacent points",
+        "C. Three non-adjacent points",
+        "D. The pylorus only",
+        "E. The anus only"
+      ],
+      "answer": "A",
+      "detail": "A single point of obstruction defines simple mechanical SBO."
+    },
+    {
+      "number": 94,
+      "question": "'Closed Loop' obstruction occurs when a segment is obstructed at:",
+      "choices": [
+        "A. A single point",
+        "B. Two or more adjacent points",
+        "C. The ligament of Treitz",
+        "D. Only in the colon",
+        "E. Only in the esophagus"
+      ],
+      "answer": "B",
+      "detail": "Obstruction at two adjacent points creates a 'closed loop'."
+    },
+    {
+      "number": 95,
+      "question": "In Roux-en-Y, 'Ante-Colic' refers to the Roux-Limb passing:",
+      "choices": [
+        "A. Behind the transverse colon",
+        "B. In front of the transverse colon",
+        "C. Through the mesentery",
+        "D. Into the excluded stomach",
+        "E. Below the rectum"
+      ],
+      "answer": "B",
+      "detail": "In the ante-colic configuration, the limb passes in front of the transverse colon."
+    },
+    {
+      "number": 96,
+      "question": "A 'Retro-Colic' Roux-Limb requires a defect in the transverse mesocolon, which is a potential source of:",
+      "choices": [
+        "A. Internal hernia",
+        "B. Dumping syndrome",
+        "C. Stomal stenosis",
+        "D. Gastric varices",
+        "E. Reflux"
+      ],
+      "answer": "A",
+      "detail": "The defect created in the transverse mesocolon for a retro-colic limb is a potential site for internal herniation."
+    },
+    {
+      "number": 97,
+      "question": "'Petersen’s Hernia' is an internal hernia that occurs:",
+      "choices": [
+        "A. Through the fossa of Waldeyer",
+        "B. Behind the Roux limb mesentery",
+        "C. Through the fossa of Lanzert",
+        "D. At the pylorus",
+        "E. In the anterior abdominal wall"
+      ],
+      "answer": "B",
+      "detail": "Petersen's hernia occurs behind the Roux limb mesentery."
+    },
+    {
+      "number": 98,
+      "question": "'Thin (< 3mm) Straight Folds with Dilation' on a small bowel follow-through suggest:",
+      "choices": [
+        "A. Ischemia",
+        "B. Mechanical obstruction or Paralytic ileus",
+        "C. Whipple's disease",
+        "D. Crohn's disease",
+        "E. Lymphoma"
+      ],
+      "answer": "B",
+      "detail": "Dilated small bowel loops with thin, straight folds are characteristic of mechanical obstruction or paralytic ileus."
+    },
+    {
+      "number": 99,
+      "question": "'Thick Straight Folds (> 3mm)' in a diffuse distribution should make you think of:",
+      "choices": [
+        "A. Ischemia",
+        "B. Low protein (cirrhosis) or Venous congestion",
+        "C. Celiac sprue",
+        "D. SBO",
+        "E. Meckel's diverticulum"
+      ],
+      "answer": "B",
+      "detail": "Diffuse straight thickening of folds suggests states like low oncotic pressure or venous congestion."
+    },
+    {
+      "number": 100,
+      "question": "'Tethering' of small bowel loops (loops pulled toward a mass) is characteristic of:",
+      "choices": [
+        "A. Ascites",
+        "B. Carcinoid tumor",
+        "C. Crohn's disease",
+        "D. Scleroderma",
+        "E. Giardia"
+      ],
+      "answer": "B",
+      "detail": "Tethering is a classic feature where loops are pulled toward a mesenteric mass, most classically seen in carcinoid tumors."
+    }
+  ]
+}

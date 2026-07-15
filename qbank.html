@@ -297,6 +297,139 @@
       <button type="button" class="done-btn" onclick="handleBreastSubunitSelection()">Done</button>
     </div>
   </div>
+  <section class="frcr-section">
+      <hr class="section-divider">
+      <h2 class="section-title">FRCR Mock Self-Assessments</h2>
+      <p class="section-subtitle">Simulate real exam conditions with timed practice papers.</p>
+      
+      <div class="frcr-grid">
+        <div class="frcr-card">
+          <div class="paper-badge">120 Qs</div>
+          <h3>FRCR Paper 1</h3>
+          <p>Comprehensive mock covering core modules.</p>
+          <div class="frcr-actions">
+            <button onclick="launchFRCR(1, 'study')" class="frcr-btn study">Study Mode</button>
+            <button onclick="launchFRCR(1, 'exam')" class="frcr-btn exam">Exam Mode</button>
+          </div>
+        </div>
+
+        <div class="frcr-card">
+          <div class="paper-badge">120 Qs</div>
+          <h3>FRCR Paper 2</h3>
+          <p>Comprehensive mock covering core modules.</p>
+          <div class="frcr-actions">
+            <button onclick="launchFRCR(2, 'study')" class="frcr-btn study">Study Mode</button>
+            <button onclick="launchFRCR(2, 'exam')" class="frcr-btn exam">Exam Mode</button>
+          </div>
+        </div>
+
+        <div class="frcr-card">
+          <div class="paper-badge">120 Qs</div>
+          <h3>FRCR Paper 3</h3>
+          <p>Comprehensive mock covering core modules.</p>
+          <div class="frcr-actions">
+            <button onclick="launchFRCR(3, 'study')" class="frcr-btn study">Study Mode</button>
+            <button onclick="launchFRCR(3, 'exam')" class="frcr-btn exam">Exam Mode</button>
+          </div>
+        </div>
+
+        <div class="frcr-card">
+          <div class="paper-badge">120 Qs</div>
+          <h3>FRCR Paper 4</h3>
+          <p>Comprehensive mock covering core modules.</p>
+          <div class="frcr-actions">
+            <button onclick="launchFRCR(4, 'study')" class="frcr-btn study">Study Mode</button>
+            <button onclick="launchFRCR(4, 'exam')" class="frcr-btn exam">Exam Mode</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <script>
+      function launchFRCR(paperNumber, mode) {
+        // Automatically targets files named "frcr_paper1.json", "frcr_paper2.json", etc.
+        const fileName = `frcr_paper${paperNumber}`;
+        
+        sessionStorage.setItem('filesToLoad', JSON.stringify([fileName]));
+        sessionStorage.setItem('questionCount', '120'); // Adjust standard exam limit if desired
+        
+        if (mode === 'study') {
+          window.location.href = 'studymode.html';
+        } else {
+          window.location.href = 'exammode.html';
+        }
+      }
+    </script>
+    <!-- FRCR Modular Questions Section -->
+<div class="frcr-modules-section" style="margin-top: 50px;">
+  <hr class="section-divider">
+  <h3 class="section-title">FRCR Part 1: Modular Topics</h3>
+  <p class="section-subtitle">Targeted preparation by systemic specialty (100 Qs each)</p>
+  
+  <div class="frcr-grid">
+    
+    <div class="frcr-card">
+      <span class="paper-badge">Module 1</span>
+      <h3>Cardiothoracic & Vascular</h3>
+      <p>Systemic coverage of thoracic, cardiac, and vascular anatomy, pathology, and imaging physics.</p>
+      <div class="frcr-actions">
+        <button class="frcr-btn study" onclick="launchModularSession('frcr_mod1', 'study')">Study Mode</button>
+        <button class="frcr-btn exam" onclick="launchModularSession('frcr_mod1', 'exam')">Exam Mode</button>
+      </div>
+    </div>
+
+    <div class="frcr-card">
+      <span class="paper-badge">Module 2</span>
+      <h3>Musculoskeletal & Trauma</h3>
+      <p>Comprehensive review of musculoskeletal imaging, trauma radiology, and bone/soft tissue pathology.</p>
+      <div class="frcr-actions">
+        <button class="frcr-btn study" onclick="launchModularSession('frcr_mod2', 'study')">Study Mode</button>
+        <button class="frcr-btn exam" onclick="launchModularSession('frcr_mod2', 'exam')">Exam Mode</button>
+      </div>
+    </div>
+
+    <div class="frcr-card">
+      <span class="paper-badge">Module 3</span>
+      <h3>Gastrointestinal</h3>
+      <p>Focused prep on abdominal, hepatobiliary, pancreatic, and gastrointestinal tract imaging.</p>
+      <div class="frcr-actions">
+        <button class="frcr-btn study" onclick="launchModularSession('frcr_mod3', 'study')">Study Mode</button>
+        <button class="frcr-btn exam" onclick="launchModularSession('frcr_mod3', 'exam')">Exam Mode</button>
+      </div>
+    </div>
+
+    <div class="frcr-card">
+      <span class="paper-badge">Module 4</span>
+      <h3>GU, Gynae, OB & Breast</h3>
+      <p>Genitourinary system, adrenal glands, obstetrics, gynaecological pathology, and breast imaging.</p>
+      <div class="frcr-actions">
+        <button class="frcr-btn study" onclick="launchModularSession('frcr_mod4', 'study')">Study Mode</button>
+        <button class="frcr-btn exam" onclick="launchModularSession('frcr_mod4', 'exam')">Exam Mode</button>
+      </div>
+    </div>
+
+    <div class="frcr-card">
+      <span class="paper-badge">Module 5</span>
+      <h3>Paediatrics</h3>
+      <p>Essential pediatric radiology, developmental variants, congenital anomalies, and pediatric emergencies.</p>
+      <div class="frcr-actions">
+        <button class="frcr-btn study" onclick="launchModularSession('frcr_mod5', 'study')">Study Mode</button>
+        <button class="frcr-btn exam" onclick="launchModularSession('frcr_mod5', 'exam')">Exam Mode</button>
+      </div>
+    </div>
+
+    <div class="frcr-card">
+      <span class="paper-badge">Module 6</span>
+      <h3>CNS & Head & Neck</h3>
+      <p>Neuroradiology of the brain and spine, head and neck pathology, and sensory organ imaging.</p>
+      <div class="frcr-actions">
+        <button class="frcr-btn study" onclick="launchModularSession('frcr_mod6', 'study')">Study Mode</button>
+        <button class="frcr-btn exam" onclick="launchModularSession('frcr_mod6', 'exam')">Exam Mode</button>
+      </div>
+    </div>
+
+  </div>
+</div>
 
   <footer>
     <p>© 2026 GOLD RADIOLOGY. All rights reserved.</p>
