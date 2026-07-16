@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Updated constraints: Min is 1, Max is 120 (FRCR standard)
   const MIN_QS = 1;
-  const MAX_QS = 120;
-  const DEFAULT_QS = 40;
+  const MAX_QS = 500;
+  const DEFAULT_QS = 100;
 
   if (minusBtn) {
     minusBtn.addEventListener('click', (e) => {
