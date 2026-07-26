@@ -1,0 +1,459 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "What is the typical radiographic pattern of conventional osteoarthritis in the knee?",
+      "choices": [
+        "Symmetrical narrowing of all three compartments",
+        "Asymmetrical involvement of the medial tibiofemoral compartment",
+        "Isolated patellofemoral narrowing with erosions",
+        "Narrowing of the lateral tibiofemoral compartment only",
+        "Widening of the intercondylar notch"
+      ],
+      "answer": "B",
+      "detail": "The typical pattern for knee OA is asymmetrical involvement of the medial tibiofemoral compartment, whereas symmetrical narrowing is more suggestive of rheumatoid arthritis."
+    },
+    {
+      "number": 2,
+      "question": "Which finding in the knee should raise concern for rheumatoid arthritis over conventional osteoarthritis?",
+      "choices": [
+        "Large osteophytes",
+        "Subchondral sclerosis",
+        "Symmetrical narrowing of all three joint spaces",
+        "Asymmetrical medial compartment narrowing",
+        "Presence of a Baker's cyst"
+      ],
+      "answer": "C",
+      "detail": "Symmetrical narrowing across all three joint spaces (medial/lateral tibiofemoral and patellofemoral) is a hallmark of RA, whereas OA typically begins in the medial articulation."
+    },
+    {
+      "number": 3,
+      "question": "Squaring of the patella and a widened intercondylar notch are characteristic radiographic findings for which two conditions?",
+      "choices": [
+        "Gout and CPPD",
+        "Hemophilia and Juvenile Idiopathic Arthritis (JIA)",
+        "Osteoarthritis and Rheumatoid Arthritis",
+        "Septic arthritis and PVNS",
+        "Osgood-Schlatter and Sinding-Larsen-Johansson"
+      ],
+      "answer": "B",
+      "detail": "Articular hyperemia in both hemophilia and JIA leads to characteristic overgrowth findings such as patellar squaring and a widened intercondylar notch."
+    },
+    {
+      "number": 4,
+      "question": "Chondrocalcinosis of the menisci and articular cartilage is the hallmark of:",
+      "choices": [
+        "Gout",
+        "CPP arthritis (CPPD)",
+        "Rheumatoid arthritis",
+        "Hemophilia",
+        "Septic arthritis"
+      ],
+      "answer": "B",
+      "detail": "Prominent chondrocalcinosis is the primary imaging feature of calcium pyrophosphate deposition disease (CPPD) in the knee."
+    },
+    {
+      "number": 5,
+      "question": "In the setting of a knee dislocation, which imaging modality is typically recommended even if distal pulses are intact?",
+      "choices": [
+        "Radiography",
+        "Ultrasound",
+        "CT Angiography",
+        "MRI",
+        "Bone Scan"
+      ],
+      "answer": "C",
+      "detail": "Knee dislocations carry a high risk of popliteal artery injury; CT angiography is recommended even if pulses are intact."
+    },
+    {
+      "number": 6,
+      "question": "Which statement regarding tibial plateau fractures is correct?",
+      "choices": [
+        "They are classified by the Weber classification.",
+        "Lateral tibial plateau fractures are more stable than medial ones.",
+        "Medial tibial plateau fractures are more stable than lateral ones.",
+        "They always involve the patellar tendon.",
+        "They are best evaluated with ultrasound."
+      ],
+      "answer": "B",
+      "detail": "According to the Schatzker classification, lateral tibial plateau fractures are considered more stable than medial fractures."
+    },
+    {
+      "number": 7,
+      "question": "A distracted patellar fracture is most commonly caused by:",
+      "choices": [
+        "A direct blow to the knee.",
+        "Extreme sudden tension of the extensor mechanism.",
+        "Chronic repetitive microtrauma.",
+        "A lateral patellar dislocation.",
+        "Valgus stress."
+      ],
+      "answer": "B",
+      "detail": "Extreme sudden tension of the extensor mechanism results in a distracted fracture, whereas a direct blow typically causes a comminuted fracture."
+    },
+    {
+      "number": 8,
+      "question": "Which part of the meniscus is considered the 'red zone' with the potential for spontaneous healing?",
+      "choices": [
+        "The central portion",
+        "The peripheral third",
+        "The anterior meniscal root",
+        "The posterior meniscal root",
+        "The meniscofemoral ligaments"
+      ],
+      "answer": "B",
+      "detail": "The peripheral third of the meniscus is vascularized (the 'red zone') and has healing potential, unlike the avascular central portion."
+    },
+    {
+      "number": 9,
+      "question": "What is the most common type of meniscal tear, typically occurring in the posterior horn of the medial meniscus?",
+      "choices": [
+        "Vertical (longitudinal) tear",
+        "Bucket handle tear",
+        "Oblique/horizontal tear",
+        "Radial tear",
+        "Meniscal root tear"
+      ],
+      "answer": "C",
+      "detail": "Oblique or horizontal tears are the most common type and are often degenerative in nature."
+    },
+    {
+      "number": 10,
+      "question": "The 'absent bow tie sign' on sagittal MRI images of the knee indicates:",
+      "choices": [
+        "A normal variant meniscus.",
+        "A discoid meniscus.",
+        "A displaced meniscal fragment (e.g., bucket-handle tear).",
+        "Meniscal root avulsion.",
+        "Mucoid degeneration."
+      ],
+      "answer": "C",
+      "detail": "The 'absent bow tie' sign indicates that the normal meniscal body or horn is displaced, which is a hallmark of bucket-handle tears."
+    },
+    {
+      "number": 11,
+      "question": "A 'double PCL sign' in the setting of a bucket-handle tear is most commonly associated with:",
+      "choices": [
+        "A lateral meniscal tear.",
+        "A medial meniscal tear with an intact ACL.",
+        "A medial meniscal tear with a torn ACL.",
+        "An isolated ACL tear.",
+        "A PCL interstitial tear."
+      ],
+      "answer": "B",
+      "detail": "A medial bucket-handle fragment displaces into the notch when the ACL is intact, creating the 'double PCL' appearance."
+    },
+    {
+      "number": 12,
+      "question": "A 'double delta sign' is a clue that a bucket-handle tear involves:",
+      "choices": [
+        "The medial meniscus.",
+        "The lateral meniscus.",
+        "Both menisci simultaneously.",
+        "The anterior cruciate ligament.",
+        "The meniscal roots."
+      ],
+      "answer": "B",
+      "detail": "Lateral meniscal fragments can flip anteriorly because they are not impeded by the ACL, creating the 'double delta' sign."
+    },
+    {
+      "number": 13,
+      "question": "A meniscus that demonstrates a 'bowtie' appearance across three or more contiguous 4 mm sagittal slices (at least 12 mm thick) is classified as:",
+      "choices": [
+        "A horizontal tear.",
+        "A discoid meniscus.",
+        "A vertical tear.",
+        "A bucket-handle tear.",
+        "Meniscal extrusion."
+      ],
+      "answer": "B",
+      "detail": "The imaging criterion for a discoid meniscus is the presence of a bowtie appearance for at least 12 mm (three 4 mm slices) on sagittal images."
+    },
+    {
+      "number": 14,
+      "question": "A 'celery stalk appearance' of the ACL on MRI is characteristic of:",
+      "choices": [
+        "A full-thickness tear.",
+        "Mucoid degeneration.",
+        "An acute sprain.",
+        "A post-operative cyclops lesion.",
+        "Partial avulsion."
+      ],
+      "answer": "B",
+      "detail": "Mucoid degeneration of the ACL presents with thickening, intermediate T2 signal, and a striated 'celery stalk' appearance."
+    },
+    {
+      "number": 15,
+      "question": "O’Donoghue’s triad of knee injuries includes which structures?",
+      "choices": [
+        "ACL, PCL, and MCL",
+        "ACL, MCL, and medial meniscus",
+        "PCL, LCL, and lateral meniscus",
+        "ACL, LCL, and medial meniscus",
+        "Patellar tendon, MCL, and lateral meniscus"
+      ],
+      "answer": "B",
+      "detail": "This classic triad represents a common traumatic injury pattern involving the ACL, MCL, and medial meniscus."
+    },
+    {
+      "number": 16,
+      "question": "Which bone marrow edema pattern is highly suggestive of an ACL injury?",
+      "choices": [
+        "Medial femoral condyle and medial tibial plateau",
+        "Lateral femoral condyle and posterolateral tibial plateau",
+        "Patella and trochlea",
+        "Tibial tubercle and Hoffa's fat pad",
+        "Lateral tibial plateau only"
+      ],
+      "answer": "B",
+      "detail": "A characteristic bone contusion pattern involving the lateral femoral condyle and posterolateral tibial plateau is a strong secondary sign of an ACL tear."
+    },
+    {
+      "number": 17,
+      "question": "A Segond fracture, seen on a radiograph, is a critical clue for which injury?",
+      "choices": [
+        "PCL tear",
+        "MCL tear",
+        "ACL tear",
+        "Meniscal root tear",
+        "Patellar tendon rupture"
+      ],
+      "answer": "C",
+      "detail": "A Segond fracture (lateral tibial plateau avulsion) is highly associated with ACL and IT band injuries."
+    },
+    {
+      "number": 18,
+      "question": "Following ACL reconstruction, what is a 'cyclops lesion'?",
+      "choices": [
+        "A new full-thickness tear of the graft.",
+        "Nodular scarring in Hoffa’s fat pad.",
+        "Bone marrow edema in the lateral condyle.",
+        "A displaced meniscal fragment.",
+        "Calcification of the MCL."
+      ],
+      "answer": "B",
+      "detail": "A cyclops lesion is a post-operative complication involving nodular fibrous scarring anterior to the ACL graft in Hoffa’s fat pad."
+    },
+    {
+      "number": 19,
+      "question": "Which statement regarding the PCL is correct?",
+      "choices": [
+        "It is thinner and weaker than the ACL.",
+        "It is more commonly injured than the ACL.",
+        "It typically presents with frank discontinuity of fibers when injured.",
+        "It is normally low signal on all MRI sequences.",
+        "It arises posteriorly in the intercondylar notch compared to the ACL."
+      ],
+      "answer": "D",
+      "detail": "The PCL is a strong, thick ligament that is normally hypointense on all standard MRI sequences."
+    },
+    {
+      "number": 20,
+      "question": "MCL injuries are most commonly caused by:",
+      "choices": [
+        "Varus stress (impact on the medial knee).",
+        "Valgus stress (impact on the lateral knee).",
+        "Direct axial loading.",
+        "Extreme hyperextension.",
+        "Rotational force with the foot fixed."
+      ],
+      "answer": "B",
+      "detail": "Valgus stress, or impact on the lateral aspect of the knee, is the most common cause of MCL injury."
+    },
+    {
+      "number": 21,
+      "question": "A 'Pellegrini-Stieda lesion' refers to:",
+      "choices": [
+        "Avulsion of the ACL from the tibia.",
+        "Chronic ossification of the PCL.",
+        "Post-traumatic calcification medial to the medial femoral condyle.",
+        "Friction of the IT band against the lateral femur.",
+        "Fragmentation of the tibial tubercle."
+      ],
+      "answer": "C",
+      "detail": "This lesion represents post-traumatic calcification, typically following a prior MCL avulsion injury."
+    },
+    {
+      "number": 22,
+      "question": "Which of the following is considered a surgical near-emergency in knee trauma?",
+      "choices": [
+        "Isolated Grade 1 MCL sprain",
+        "Injury to the posterolateral corner (PLC)",
+        "Chronic Osgood-Schlatter disease",
+        "IT band syndrome",
+        "Grade 1 patellar tendinosis"
+      ],
+      "answer": "B",
+      "detail": "PLC injuries require prompt surgical intervention due to poor outcomes associated with delay, making them surgical near-emergencies."
+    },
+    {
+      "number": 23,
+      "question": "Iliotibial (IT) band syndrome is a common cause of anterolateral knee pain in:",
+      "choices": [
+        "Elderly patients with OA.",
+        "Runners.",
+        "Adolescents with open growth plates.",
+        "Diabetic patients.",
+        "Patients with hemophilia."
+      ],
+      "answer": "B",
+      "detail": "IT band syndrome results from friction between the IT band and lateral femur, commonly seen in runners."
+    },
+    {
+      "number": 24,
+      "question": "On a radiograph, a 'patella baja' appearance (patella too low) is a sign of:",
+      "choices": [
+        "Patellar tendon rupture.",
+        "Quadriceps tendon tear.",
+        "Lateral patellar dislocation.",
+        "ACL injury.",
+        "Osgood-Schlatter disease."
+      ],
+      "answer": "B",
+      "detail": "A tear of the quadriceps tendon allows the patella to sit lower than normal (patella baja)."
+    },
+    {
+      "number": 25,
+      "question": "'Jumper’s knee' refers to which condition?",
+      "choices": [
+        "Patellar fracture",
+        "Quadriceps tendinosis",
+        "Patellar tendinosis",
+        "Osgood-Schlatter disease",
+        "Sinding-Larsen-Johansson disease"
+      ],
+      "answer": "C",
+      "detail": "Jumper’s knee is clinically synonymous with patellar tendinosis, showing thickening and increased signal on MRI."
+    },
+    {
+      "number": 26,
+      "question": "A traumatic lateral patellar dislocation classically leaves bone contusions in which two locations?",
+      "choices": [
+        "Medial femoral condyle and lateral patellar facet",
+        "Lateral femoral condyle and medial patellar facet",
+        "Lateral femoral condyle and lateral patellar facet",
+        "Tibial tubercle and patella",
+        "Lateral tibial plateau and trochlea"
+      ],
+      "answer": "B",
+      "detail": "A distinctive marrow edema pattern involving the lateral femoral condyle and medial patellar facet is highly suggestive of a prior dislocation."
+    },
+    {
+      "number": 27,
+      "question": "Osgood-Schlatter disease is an osteochondrosis of the:",
+      "choices": [
+        "Superior pole of the patella.",
+        "Inferior pole of the patella.",
+        "Tibial tubercle.",
+        "Medial femoral condyle.",
+        "Lateral tibial plateau."
+      ],
+      "answer": "C",
+      "detail": "Osgood-Schlatter is caused by repetitive microtrauma to the tibial tubercle apophysis in adolescents."
+    },
+    {
+      "number": 28,
+      "question": "According to the Outerbridge classification, Grade 4 cartilage injury is defined as:",
+      "choices": [
+        "Heterogeneous signal.",
+        "Superficial fissuring < 50%.",
+        "Deep fissuring > 50%.",
+        "Full-thickness defect.",
+        "Cartilage softening."
+      ],
+      "answer": "D",
+      "detail": "Grade 4 represents the most severe classification, indicating a full-thickness cartilage defect."
+    },
+    {
+      "number": 29,
+      "question": "What is the key imaging difference between a subchondral insufficiency fracture (SIF) and avascular necrosis (AVN) in the knee?",
+      "choices": [
+        "SIF shows serpiginous signal; AVN shows bone plate thickening.",
+        "SIF shows bone plate thickening/irregularity; AVN shows serpiginous signal.",
+        "SIF always occurs in children; AVN always in the elderly.",
+        "AVN is always associated with a meniscal tear; SIF is not.",
+        "There is no imaging difference."
+      ],
+      "answer": "B",
+      "detail": "AVN features serpiginous signal abnormality, while SIF is characterized by collapse and irregularity of the subchondral bone plate."
+    },
+    {
+      "number": 30,
+      "question": "Pigmented villonodular synovitis (PVNS) characteristically appears on Gradient Echo (GRE) MRI as:",
+      "choices": [
+        "Homogeneously bright masses.",
+        "Extremely dark masses accentuated by susceptibility artifact.",
+        "Fat-equivalent signal masses.",
+        "Simple fluid signal masses.",
+        "Bone-equivalent sclerotic masses."
+      ],
+      "answer": "B",
+      "detail": "The hemosiderin content in PVNS causes dramatic 'blooming' (dark signal) on GRE images due to susceptibility artifact."
+    },
+    {
+      "number": 31,
+      "question": "The same pathological process as PVNS, when occurring outside of a joint, is called:",
+      "choices": [
+        "Lipoma arborescens.",
+        "Giant cell tumor of the tendon sheath.",
+        "Synovial sarcoma.",
+        "Desmoid tumor.",
+        "Morton neuroma."
+      ],
+      "answer": "B",
+      "detail": "PVNS and Giant Cell Tumor (GCT) of the tendon sheath represent the same pathological process in different locations."
+    },
+    {
+      "number": 32,
+      "question": "Lipoma arborescens is characterized by:",
+      "choices": [
+        "Malignant fatty infiltration of the bone.",
+        "Overgrowth of intracapsular synovial fatty tissue.",
+        "Hemosiderin deposition in the synovium.",
+        "Full-thickness cartilage defects.",
+        "Fluid in the prepatellar bursa."
+      ],
+      "answer": "B",
+      "detail": "Lipoma arborescens is a benign overgrowth of intra-articular synovial fatty tissue."
+    },
+    {
+      "number": 33,
+      "question": "What is the characteristic anatomical location of a Baker's cyst?",
+      "choices": [
+        "Between the lateral head of gastrocnemius and the LCL.",
+        "Between the semimembranosus tendon and the medial head of gastrocnemius.",
+        "Deep to the patellar tendon.",
+        "Within Hoffa's fat pad.",
+        "Between the biceps femoris and the fibular head."
+      ],
+      "answer": "B",
+      "detail": "Baker's cysts are classically located between the semimembranosus tendon and the medial head of the gastrocnemius ('M&M' location)."
+    },
+    {
+      "number": 34,
+      "question": "'Tennis leg' refers to a tear of which two structures?",
+      "choices": [
+        "Achilles tendon or soleus.",
+        "Plantaris tendon or medial head of gastrocnemius.",
+        "Popliteus or lateral head of gastrocnemius.",
+        "Tibialis posterior or flexor digitorum longus.",
+        "ACL or MCL."
+      ],
+      "answer": "B",
+      "detail": "Tears of the plantaris tendon or the medial head of the gastrocnemius are termed 'tennis leg'."
+    },
+    {
+      "number": 35,
+      "question": "When planning a biopsy of the thigh, why is it critical not to traverse the rectus femoris muscle?",
+      "choices": [
+        "It is the only site where hematomas occur.",
+        "It is a primary extensor traversing both hip and knee; sacrifice for seeding would be disabling.",
+        "It contains the popliteal artery.",
+        "It is highly susceptible to contrast reactions.",
+        "It is too thin to provide a safe track."
+      ],
+      "answer": "B",
+      "detail": "The rectus femoris is a critical extensor; traversing it risk contamination that might necessitate its sacrifice, causing significant disability."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "In the macroscopic anatomy of a long bone, which specific region is defined as the growth plate?",
+      "choices": [
+        "Epiphysis",
+        "Physis",
+        "Metaphysis",
+        "Diaphysis",
+        "Apophysis"
+      ],
+      "answer": "B",
+      "detail": "The physis is the growth plate, located between the epiphysis and the metaphysis in a developing long bone."
+    },
+    {
+      "number": 2,
+      "question": "Within a synovial joint, what is the clinical significance of the 'bare area'?",
+      "choices": [
+        "It is the site where articular cartilage is thickest.",
+        "It is the primary location for osteophyte formation in osteoarthritis.",
+        "It is the region of exposed bone within the capsule where rheumatoid erosions first occur.",
+        "It is the only area of the joint not lined by the synovium.",
+        "It is the site of attachment for the ligamentum teres."
+      ],
+      "answer": "C",
+      "detail": "The bare area is located just inside the synovium and is a region of bone not covered by thick cartilage, making it the initial site for marginal erosions in rheumatoid arthritis,."
+    },
+    {
+      "number": 3,
+      "question": "Which statement accurately describes the macroscopic distribution of bone components?",
+      "choices": [
+        "Cortical bone is located centrally and filled with marrow.",
+        "Trabecular bone forms the thick outer shell providing rigid support.",
+        "Trabecular bone is located centrally and filled with marrow elements.",
+        "Cortical bone is loosely arranged in struts.",
+        "Both components provide support only for the axial skeleton."
+      ],
+      "answer": "C",
+      "detail": "Cortical bone is the thick outer shell, while trabecular bone is located centrally and contains marrow elements,."
+    },
+    {
+      "number": 4,
+      "question": "At the microscopic level, where are the neurovascular elements located within cortical bone?",
+      "choices": [
+        "Canaliculi",
+        "Lacunae",
+        "Central Haversian canal",
+        "Peripheral cement line",
+        "Trabecular struts"
+      ],
+      "answer": "C",
+      "detail": "In cortical bone, osteons are tightly packed around a central Haversian canal that contains the neurovascular elements."
+    },
+    {
+      "number": 5,
+      "question": "What is a primary microscopic difference between the osteons of cortical bone and those of trabecular bone?",
+      "choices": [
+        "Trabecular bone lacks interconnected osteocytes.",
+        "Cortical bone lacks a lamellar structure.",
+        "The Haversian canal is typically absent in trabecular bone.",
+        "Osteocytes in cortical bone are not located in lacunae.",
+        "Trabecular bone lacks peripheral cement lines."
+      ],
+      "answer": "C",
+      "detail": "While trabecular bone shares features like a lamellar structure with cortical bone, it lacks the central Haversian canal because its osteons are loosely arranged in struts rather than tightly packed."
+    }
+  ]
+}

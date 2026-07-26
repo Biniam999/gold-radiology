@@ -1,0 +1,459 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "A fracture at the metaphyseal-diaphyseal junction of the proximal fifth metatarsal (Zone 2) is specifically known as a:",
+      "choices": [
+        "Pseudojones fracture",
+        "Jones fracture",
+        "Lisfranc fracture",
+        "Tillaux fracture",
+        "Maisonneuve fracture"
+      ],
+      "answer": "B",
+      "detail": "A Jones fracture occurs at the metaphyseal-diaphyseal junction (Zone 2) and carries a worse prognosis than Zone 1 avulsion fractures due to relatively poor blood supply in this region."
+    },
+    {
+      "number": 2,
+      "question": "Which tendon or structure attaches to the base of the fifth metatarsal and is responsible for Zone 1 avulsion fractures?",
+      "choices": [
+        "Peroneus longus",
+        "Peroneus brevis",
+        "Tibialis posterior",
+        "Plantar fascia",
+        "Achilles tendon"
+      ],
+      "answer": "B",
+      "detail": "The peroneus brevis tendon and the lateral aspect of the plantar aponeurosis attach at the base of the fifth metatarsal (Zone 1)."
+    },
+    {
+      "number": 3,
+      "question": "What is the anatomical definition of the Lisfranc ligament?",
+      "choices": [
+        "Connects the 1st metatarsal to the 2nd metatarsal",
+        "Connects the medial cuneiform to the 2nd metatarsal base",
+        "Connects the 1st cuneiform to the 1st metatarsal",
+        "Connects the cuboid to the 4th metatarsal",
+        "Connects the navicular to the 2nd cuneiform"
+      ],
+      "answer": "B",
+      "detail": "The Lisfranc ligament runs from the 1st (medial) cuneiform to the base of the 2nd metatarsal."
+    },
+    {
+      "number": 4,
+      "question": "In a 'divergent' Lisfranc injury, what is the characteristic pattern of displacement?",
+      "choices": [
+        "All metatarsals dislocate laterally.",
+        "The 1st metatarsal dislocates medially, while the 2nd through 5th metatarsals dislocate laterally.",
+        "The 1st and 2nd metatarsals dislocate medially, the rest laterally.",
+        "All metatarsals dislocate medially.",
+        "Only the 2nd metatarsal is displaced superiorly."
+      ],
+      "answer": "B",
+      "detail": "Lisfranc injuries are classified as homolateral (all MTs dislocate laterally) or divergent (1st MT dislocates medially, others dislocate laterally)."
+    },
+    {
+      "number": 5,
+      "question": "Which radiographic finding is an early sign of a subtle Lisfranc injury?",
+      "choices": [
+        "Widening of the teardrop distance",
+        "Offset of the second metatarsal base relative to the middle cuneiform",
+        "Sclerosis of the navicular bone",
+        "Talar beaking",
+        "Decreased Boehler angle"
+      ],
+      "answer": "B",
+      "detail": "On frontal or weight-bearing views, the medial base of the 2nd metatarsal should be perfectly aligned with the medial aspect of the 2nd cuneiform; any offset suggests injury."
+    },
+    {
+      "number": 6,
+      "question": "Fracture of the great toe sesamoids is typically caused by which mechanism?",
+      "choices": [
+        "Direct axial loading (fall from height)",
+        "Extreme hyperextension (turf toe mechanism)",
+        "Inversion stress",
+        "Forced plantarflexion",
+        "Chronic overuse in runners"
+      ],
+      "answer": "B",
+      "detail": "Sesamoid fractures are typically caused by extreme hyperextension or transient dorsal dislocation of the 1st MTP joint."
+    },
+    {
+      "number": 7,
+      "question": "How can a bipartite sesamoid (normal variant) be distinguished from a sesamoid fracture?",
+      "choices": [
+        "Bipartite sesamoids are always larger than the other sesamoid.",
+        "Bipartite sesamoids have irregular, non-corticated margins.",
+        "Bipartite sesamoids are typically triangular.",
+        "Bipartite sesamoids have rounded, completely corticated margins.",
+        "Bipartite sesamoids only occur on the fibular (lateral) side."
+      ],
+      "answer": "D",
+      "detail": "Unlike fractures, bipartite sesamoids are round with completely corticated margins."
+    },
+    {
+      "number": 8,
+      "question": "A Boehler angle of less than how many degrees is considered diagnostic of a calcaneal fracture?",
+      "choices": [
+        "10°",
+        "20°",
+        "30°",
+        "40°",
+        "50°"
+      ],
+      "answer": "B",
+      "detail": "The normal Boehler angle is 20–40°. A decrease to less than 20° is diagnostic of a calcaneal fracture."
+    },
+    {
+      "number": 9,
+      "question": "The Sanders classification for calcaneal fractures is based on the number of fragments seen on which imaging modality and plane?",
+      "choices": [
+        "Lateral radiograph",
+        "Axial CT",
+        "Coronal CT",
+        "Sagittal MRI",
+        "Oblique radiograph"
+      ],
+      "answer": "C",
+      "detail": "The Sanders classification is CT-based and depends on the number of comminuted fragments involving the posterior subtalar facet seen on coronal images."
+    },
+    {
+      "number": 10,
+      "question": "What does a positive 'Hawkins sign' indicate on a radiograph following a talar neck fracture?",
+      "choices": [
+        "Impending avascular necrosis",
+        "A non-union of the fracture",
+        "Subchondral lucency indicating intact vascularity and healing",
+        "Functional deficiency of the syndesmosis",
+        "Rupture of the deltoid ligament"
+      ],
+      "answer": "C",
+      "detail": "The Hawkins sign is a subchondral lucent band of the talar dome, indicating bone resorption (presence of vascularity) and is a good prognostic sign for healing."
+    },
+    {
+      "number": 11,
+      "question": "Osteonecrosis of the navicular bone in a young boy is known as:",
+      "choices": [
+        "Müller-Weiss disease",
+        "Freiberg infraction",
+        "Kohler disease",
+        "Sever disease",
+        "Kienbock disease"
+      ],
+      "answer": "C",
+      "detail": "Kohler disease is self-limited osteonecrosis of the navicular in children. Müller-Weiss disease is the equivalent condition in adults."
+    },
+    {
+      "number": 12,
+      "question": "Which condition is described as 'calcaneal apophysitis' and is a common cause of heel pain in children?",
+      "choices": [
+        "Kohler disease",
+        "Freiberg infraction",
+        "Sever disease",
+        "Osgood-Schlatter disease",
+        "Haglund disease"
+      ],
+      "answer": "C",
+      "detail": "Sever disease is calcaneal apophysitis and a frequent cause of pediatric heel pain."
+    },
+    {
+      "number": 13,
+      "question": "Where does talocalcaneal coalition most commonly occur?",
+      "choices": [
+        "Anterior subtalar facet",
+        "Posterior subtalar facet",
+        "Middle subtalar facet (at the sustentaculum tali)",
+        "Tarsometatarsal joint",
+        "Talonavicular joint"
+      ],
+      "answer": "C",
+      "detail": "Talocalcaneal coalition occurs most commonly at the middle subtalar facet, representing fusion of the medial talus and the sustentaculum tali."
+    },
+    {
+      "number": 14,
+      "question": "The 'C sign' on a lateral radiograph of the ankle is a classic indicator of:",
+      "choices": [
+        "Calcaneonavicular coalition",
+        "Talocalcaneal coalition",
+        "Ankle syndesmosis injury",
+        "Lisfranc injury",
+        "Achilles tendon rupture"
+      ],
+      "answer": "B",
+      "detail": "The C sign represents the continuous C-shaped contour of the fused middle subtalar facet in talocalcaneal coalition."
+    },
+    {
+      "number": 15,
+      "question": "The 'anteater sign' seen on a lateral radiograph represents which type of tarsal coalition?",
+      "choices": [
+        "Talocalcaneal",
+        "Calcaneonavicular",
+        "Talonavicular",
+        "Medial cuneiform-navicular",
+        "Cuboid-calcaneal"
+      ],
+      "answer": "B",
+      "detail": "The anteater sign refers to the elongated anterior process of the calcaneus, characteristic of calcaneonavicular coalition."
+    },
+    {
+      "number": 16,
+      "question": "Which ligament is the most commonly torn in a typical inversion ankle sprain?",
+      "choices": [
+        "Calcaneofibular ligament (CFL)",
+        "Posterior talofibular ligament (PTFL)",
+        "Anterior talofibular ligament (ATFL)",
+        "Deep deltoid ligament",
+        "Anterior tibiofibular ligament"
+      ],
+      "answer": "C",
+      "detail": "The ATFL is the weakest of the lateral collateral complex and the most commonly torn ligament in ankle sprains."
+    },
+    {
+      "number": 17,
+      "question": "A 'high ankle sprain' refers to an injury of which structure?",
+      "choices": [
+        "Achilles tendon",
+        "Deltoid ligament complex",
+        "Syndesmotic ligaments (specifically the anterior tibiofibular ligament)",
+        "Plantar fascia",
+        "Spring ligament"
+      ],
+      "answer": "C",
+      "detail": "A high ankle sprain is an injury to the syndesmosis, typically the anterior tibiofibular ligament, occurring without a fracture."
+    },
+    {
+      "number": 18,
+      "question": "Which ligament complex maintains the longitudinal arch of the foot and is located directly deep to the posterior tibialis tendon?",
+      "choices": [
+        "Deltoid ligament",
+        "Spring (calcaneonavicular) ligament",
+        "Anterior talofibular ligament",
+        "Bifurcate ligament",
+        "Long plantar ligament"
+      ],
+      "answer": "B",
+      "detail": "The spring ligament complex (specifically the superomedial oblique component) works with the posterior tibialis tendon to maintain the arch of the foot."
+    },
+    {
+      "number": 19,
+      "question": "The deltoid ligament is the predominant stabilizer of which aspect of the ankle?",
+      "choices": [
+        "Lateral",
+        "Medial",
+        "Anterior",
+        "Posterior",
+        "Superior"
+      ],
+      "answer": "B",
+      "detail": "The deltoid ligament (superficial and deep components) is the primary medial stabilizer of the ankle."
+    },
+    {
+      "number": 20,
+      "question": "According to the Weber classification, a Weber C fracture is defined as:",
+      "choices": [
+        "A distal fibular fracture below the level of the syndesmosis.",
+        "A fibular fracture at the level of the ankle joint.",
+        "A high fibular fracture above the level of the syndesmosis.",
+        "A fracture of the medial malleolus only.",
+        "A comminuted fracture of the tibial plafond."
+      ],
+      "answer": "C",
+      "detail": "Weber C fractures occur above the syndesmosis, resulting in functional deficiency of the syndesmosis and usually requiring surgical treatment."
+    },
+    {
+      "number": 21,
+      "question": "In the Lauge-Hansen classification, which pattern accounts for approximately 90% of all ankle fractures?",
+      "choices": [
+        "Supination-Adduction (SA)",
+        "Pronation-Abduction (PA)",
+        "Supination-External Rotation (SER)",
+        "Pronation-External Rotation (PER)",
+        "Axial Loading"
+      ],
+      "answer": "C",
+      "detail": "Approximately 90% of ankle fractures follow the SER pattern."
+    },
+    {
+      "number": 22,
+      "question": "Widening of the medial clear space on an ankle radiograph following trauma is indicative of:",
+      "choices": [
+        "ATFL tear",
+        "Deltoid ligament disruption",
+        "Peroneal tendon dislocation",
+        "Fracture of the posterior malleolus",
+        "Spring ligament tear"
+      ],
+      "answer": "B",
+      "detail": "Widening of the medial clear space indicates deltoid ligament disruption, signifying an unstable Stage IV injury in the SER classification."
+    },
+    {
+      "number": 23,
+      "question": "A 'Maisonneuve fracture' is characterized by a high proximal fibular fracture associated with:",
+      "choices": [
+        "A fracture of the calcaneus.",
+        "A tear of the interosseous membrane or medial malleolar fracture.",
+        "An avulsion of the 5th metatarsal base.",
+        "A compression fracture of the talar neck.",
+        "Dislocation of the Lisfranc joint."
+      ],
+      "answer": "B",
+      "detail": "A Maisonneuve fracture involves a high fibular fracture and a disrupted syndesmosis/interosseous membrane; it is often signaled by medial malleolar injury or widening of the ankle mortise."
+    },
+    {
+      "number": 24,
+      "question": "Which named ankle fracture is specifically a Salter-Harris III fracture of the lateral tibial epiphysis seen in adolescents?",
+      "choices": [
+        "Triplane fracture",
+        "Pilon fracture",
+        "Tillaux fracture",
+        "Wagstaffe-LeFort fracture",
+        "Jones fracture"
+      ],
+      "answer": "C",
+      "detail": "A Tillaux fracture is a Salter-Harris III injury of the lateral tibial epiphysis."
+    },
+    {
+      "number": 25,
+      "question": "A 'Pilon fracture' results from which mechanism of injury?",
+      "choices": [
+        "Inversion",
+        "External rotation",
+        "Axial loading",
+        "Forced plantarflexion",
+        "Eversion"
+      ],
+      "answer": "C",
+      "detail": "A pilon fracture is caused by axial loading, resulting in a comminuted fracture of the distal tibia and disruption of the tibial plafond."
+    },
+    {
+      "number": 26,
+      "question": "Which tendon is the most commonly injured in the ankle?",
+      "choices": [
+        "Tibialis anterior",
+        "Tibialis posterior",
+        "Achilles tendon",
+        "Peroneus longus",
+        "Flexor hallucis longus"
+      ],
+      "answer": "C",
+      "detail": "The Achilles tendon is the most frequently injured tendon in the ankle."
+    },
+    {
+      "number": 27,
+      "question": "Thickening of the Achilles tendon on a radiograph in a patient with hyperlipidemia is likely due to:",
+      "choices": [
+        "Acute rupture",
+        "Tendinosis",
+        "Xanthomas",
+        "Haglund disease",
+        "Accessory soleus muscle"
+      ],
+      "answer": "C",
+      "detail": "While thickening often represents tendinosis, in patients with hyperlipidemia, it can be caused by xanthomas."
+    },
+    {
+      "number": 28,
+      "question": "An anterior ankle mass is the classic clinical presentation for a rupture of which tendon?",
+      "choices": [
+        "Achilles",
+        "Tibialis posterior",
+        "Tibialis anterior",
+        "Peroneus brevis",
+        "Extensor digitorum longus"
+      ],
+      "answer": "C",
+      "detail": "Rupture of the tibialis anterior is less common than other tendons and classically presents as an anterior ankle mass."
+    },
+    {
+      "number": 29,
+      "question": "Dysfunction or tearing of the posterior tibialis tendon (PTT) is the most common cause of which acquired deformity?",
+      "choices": [
+        "Hallux valgus",
+        "Claw toe",
+        "Flat foot (pes planus)",
+        "High arch (pes cavus)",
+        "Hammer toe"
+      ],
+      "answer": "C",
+      "detail": "PTT dysfunction is the most common cause of acquired adult flatfoot deformity, especially in diabetic patients."
+    },
+    {
+      "number": 30,
+      "question": "What is the correct order of structures in the tarsal tunnel from anterior to posterior?",
+      "choices": [
+        "Tom, Harry, and Dick",
+        "Tom, Dick, ANd Harry",
+        "Dick, Tom, ANd Harry",
+        "Harry, Dick, ANd Tom",
+        "Tom, ANd Dick, Harry"
+      ],
+      "answer": "B",
+      "detail": "The mnemonic 'Tom, Dick, ANd Harry' stands for Tibialis posterior, Flexor Digitorum longus, Artery/Nerve (posterior tibial), and Flexor Hallucis longus."
+    },
+    {
+      "number": 31,
+      "question": "Which joint is most commonly affected by osteoarthritis in the foot?",
+      "choices": [
+        "Talonavicular joint",
+        "1st Metatarsophalangeal (MTP) joint",
+        "Calcaneocuboid joint",
+        "2nd MTP joint",
+        "Tarsometatarsal joint"
+      ],
+      "answer": "B",
+      "detail": "The 1st MTP joint is the most common site for OA in the foot, often leading to hallux rigidus."
+    },
+    {
+      "number": 32,
+      "question": "What imaging finding distinguishes diabetic foot osteomyelitis from Charcot (neuropathic) arthropathy on MRI?",
+      "choices": [
+        "Marrow edema on STIR",
+        "Joint disorganization and debris",
+        "Presence of a cutaneous ulcer and sinus tract",
+        "Subchondral cystic change",
+        "Polyarticular involvement"
+      ],
+      "answer": "C",
+      "detail": "Osteomyelitis is almost always associated with a cutaneous ulcer and sinus tract, while Charcot joints typically have an intact cortex and no ulcer."
+    },
+    {
+      "number": 33,
+      "question": "Morton 'neuroma' is not a true neoplasm but rather:",
+      "choices": [
+        "A malignant nerve sheath tumor.",
+        "Perineural fibrosis and degeneration around a plantar digital nerve.",
+        "A ganglion cyst arising from the MTP joint.",
+        "A stress fracture of the metatarsal head.",
+        "Intramuscular myxoma."
+      ],
+      "answer": "B",
+      "detail": "Morton neuroma is a non-neoplastic fibrotic mass occurring most commonly in the 2nd or 3rd intermetatarsal spaces."
+    },
+    {
+      "number": 34,
+      "question": "Where is a Morton neuroma typically located on MRI?",
+      "choices": [
+        "Dorsal aspect of the 1st interspace",
+        "Plantar aspect of the 2nd or 3rd interspace",
+        "Medial aspect of the 5th metatarsal head",
+        "Within the tarsal tunnel",
+        "Deep to the Achilles tendon"
+      ],
+      "answer": "B",
+      "detail": "Morton neuromas are typically plantar and inter-metatarsal, presenting as dumbbell-shaped low T2 signal masses."
+    },
+    {
+      "number": 35,
+      "question": "Dual-energy CT (DECT) is specifically useful in the foot and ankle to identify which condition?",
+      "choices": [
+        "Stress fractures",
+        "Morton neuroma",
+        "Gout (monosodium urate deposition)",
+        "Achilles tendon rupture",
+        "Lisfranc ligament tears"
+      ],
+      "answer": "C",
+      "detail": "Dual-energy CT can color-code mineralizations to distinguish monosodium urate (gout) from calcium-based crystals."
+    }
+  ]
+}

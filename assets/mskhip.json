@@ -1,0 +1,329 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Which artery provides the predominant blood supply to the femoral head?",
+      "choices": [
+        "Profunda femoris artery",
+        "Medial femoral circumflex artery",
+        "Lateral femoral circumflex artery",
+        "Obturator artery",
+        "Superior gluteal artery"
+      ],
+      "answer": "B",
+      "detail": "The predominant blood supply to the femoral head is the medial femoral circumflex artery. Injury to its extra-osseous branches during trauma increases the risk of avascular necrosis."
+    },
+    {
+      "number": 2,
+      "question": "Which radiographic line represents the border of the posterior column of the acetabulum?",
+      "choices": [
+        "Iliopectineal line",
+        "Ilioischial line",
+        "Shenton's line",
+        "Klein's line",
+        "Perkins line"
+      ],
+      "answer": "B",
+      "detail": "The ilioischial line represents the border of the posterior column, while the iliopectineal line represents the border of the anterior column."
+    },
+    {
+      "number": 3,
+      "question": "In an adult patient, an isolated fracture of the lesser trochanter should be considered which of the following until proven otherwise?",
+      "choices": [
+        "Normal variant",
+        "Fatigue fracture",
+        "Pathologic fracture",
+        "Avulsion of the gluteus medius",
+        "Insufficiency fracture"
+      ],
+      "answer": "C",
+      "detail": "While lesser trochanter avulsions occur in athletic adolescents, in an adult, this specific fracture is highly suspicious for an underlying pathologic fracture."
+    },
+    {
+      "number": 4,
+      "question": "Why is a basicervical femoral fracture typically treated with internal fixation (ORIF) rather than arthroplasty, even if displaced?",
+      "choices": [
+        "It is an intracapsular fracture.",
+        "It is extracapsular and carries a lower risk of avascular necrosis.",
+        "It only occurs in young athletes.",
+        "The blood supply to the head is always preserved.",
+        "It is histologically a bone-forming tumor."
+      ],
+      "answer": "B",
+      "detail": "Basicervical fractures occur just distal to the joint capsule; being extracapsular, they have a lower risk of AVN and can be successfully treated with ORIF."
+    },
+    {
+      "number": 5,
+      "question": "Which statement regarding 'occult' hip fractures is correct?",
+      "choices": [
+        "They are never seen on CT.",
+        "They occur in approximately 50% of trauma cases.",
+        "MRI is the gold standard for diagnosis with essentially 100% sensitivity.",
+        "Dual-energy CT is the only way to visualize them.",
+        "They only involve the greater trochanter."
+      ],
+      "answer": "C",
+      "detail": "Occult fractures are not evident on radiographs (present in up to 10% of negative films). MRI is the gold standard for diagnosis with nearly 100% sensitivity."
+    },
+    {
+      "number": 6,
+      "question": "A 'tip of the iceberg' fracture of the hip refers to a radiographic finding of a greater trochanter fracture that often masks an occult:",
+      "choices": [
+        "Femoral neck fracture",
+        "Subtrochanteric fracture",
+        "Intertrochanteric fracture",
+        "Acetabular wall fracture",
+        "Labral tear"
+      ],
+      "answer": "C",
+      "detail": "Greater trochanter fractures are often the 'tip of the iceberg,' as the true extent often involves an intertrochanteric fracture that is occult on radiography but evident on MRI."
+    },
+    {
+      "number": 7,
+      "question": "In a posterior hip dislocation, what is a characteristic radiographic finding?",
+      "choices": [
+        "The femur is in external rotation.",
+        "The femoral head is displaced inferiorly.",
+        "The lesser trochanter is obscured due to internal rotation.",
+        "The femoral head appears larger than the contralateral side.",
+        "Shenton's line is always preserved."
+      ],
+      "answer": "C",
+      "detail": "In posterior dislocations, the femur is typically in internal rotation and flexion, which rotates the lesser trochanter behind the medial femoral cortex, obscuring it."
+    },
+    {
+      "number": 8,
+      "question": "What is the most common pattern of femoral head migration in hip osteoarthritis (OA)?",
+      "choices": [
+        "Axial (concentric) migration",
+        "Medial migration",
+        "Superolateral migration",
+        "Inferomedial migration",
+        "Protrusio deformity"
+      ],
+      "answer": "C",
+      "detail": "Hip OA characteristically features superior-lateral cartilage space narrowing, leading to superolateral migration of the femoral head."
+    },
+    {
+      "number": 9,
+      "question": "A 'protrusio deformity' in a female patient is defined as medial deviation of the femoral head beyond the ilioischial line by more than:",
+      "choices": [
+        "1 mm",
+        "3 mm",
+        "6 mm",
+        "10 mm",
+        "12 mm"
+      ],
+      "answer": "C",
+      "detail": "Protrusio is defined as medial deviation >3 mm in males and >6 mm in females beyond the ilioischial line."
+    },
+    {
+      "number": 10,
+      "question": "Which condition is a common cause of axial (concentric) migration of the femoral head?",
+      "choices": [
+        "Osteoarthritis",
+        "Rheumatoid Arthritis (RA)",
+        "CPPD",
+        "Femoroacetabular impingement",
+        "Osteoid osteoma"
+      ],
+      "answer": "B",
+      "detail": "RA causes concentric acetabular cartilage loss, leading to axial migration, whereas OA more commonly causes superolateral migration."
+    },
+    {
+      "number": 11,
+      "question": "Cam-type femoroacetabular impingement (FAI) is characterized by:",
+      "choices": [
+        "Overcoverage of the acetabulum.",
+        "An osseous convexity at the femoral head/neck junction.",
+        "Common occurrence in middle-aged females.",
+        "The 'crossover sign.'",
+        "Symmetrical narrowing of the SI joint."
+      ],
+      "answer": "B",
+      "detail": "Cam-type FAI features an osseous bump at the head/neck junction and is most common in young athletic males."
+    },
+    {
+      "number": 12,
+      "question": "An alpha angle of greater than how many degrees is considered abnormal when assessing for Cam-type FAI?",
+      "choices": [
+        "40°",
+        "45°",
+        "55°",
+        "65°",
+        "70°"
+      ],
+      "answer": "C",
+      "detail": "An alpha angle of >55 degrees is considered abnormal and defines the degree of the femoral osseous bump."
+    },
+    {
+      "number": 13,
+      "question": "The 'crossover sign' on a frontal radiograph is a classic indicator of which condition?",
+      "choices": [
+        "Cam-type FAI",
+        "Pincer-type FAI",
+        "Posterior hip dislocation",
+        "Developmental dysplasia of the hip",
+        "Avascular necrosis"
+      ],
+      "answer": "B",
+      "detail": "The crossover sign represents cranial acetabular retroversion, signifying overcoverage in pincer-type FAI."
+    },
+    {
+      "number": 14,
+      "question": "Developmental dysplasia of the hip (DDH) is characterized by which of the following?",
+      "choices": [
+        "An abnormally deep acetabulum.",
+        "A normal alpha angle on ultrasound.",
+        "Increased incidence in breech births.",
+        "Equal leg lengths.",
+        "Primary occurrence in boys."
+      ],
+      "answer": "C",
+      "detail": "DDH involves an abnormally shallow acetabulum and has an increased incidence in breech births, firstborns, and girls."
+    },
+    {
+      "number": 15,
+      "question": "What is the threshold for a normal alpha angle on a pediatric coronal hip ultrasound?",
+      "choices": [
+        "<45°",
+        ">50°",
+        ">60°",
+        "<60°",
+        ">70°"
+      ],
+      "answer": "C",
+      "detail": "A normal alpha angle in pediatric hip ultrasound is greater than 60 degrees; an angle less than 60 suggests DDH."
+    },
+    {
+      "number": 16,
+      "question": "On a pediatric pelvic radiograph, the ossified femoral head should sit in which quadrant?",
+      "choices": [
+        "Outer upper",
+        "Outer lower",
+        "Inner upper",
+        "Inner lower",
+        "Over the iliac crest"
+      ],
+      "answer": "D",
+      "detail": "The femoral head should sit in the inner lower quadrant formed by the Hilgenreiner and Perkins lines."
+    },
+    {
+      "number": 17,
+      "question": "Septic hip arthritis in a child is considered an orthopedic emergency because it can lead to:",
+      "choices": [
+        "Cam-type FAI.",
+        "Joint destruction and growth arrest.",
+        "Slipped capital femoral epiphysis.",
+        "Internal rotation of the femur.",
+        "A basicervical fracture."
+      ],
+      "answer": "B",
+      "detail": "Rapid intervention is required in pediatric septic hip arthritis to prevent permanent joint destruction and growth arrest."
+    },
+    {
+      "number": 18,
+      "question": "Which radiographic finding, though insensitive, may suggest a hip effusion?",
+      "choices": [
+        "Narrowing of the teardrop distance.",
+        "Widening of the teardrop distance.",
+        "Sclerosis of the lesser trochanter.",
+        "Superolateral migration of the head.",
+        "An alpha angle of 58°."
+      ],
+      "answer": "B",
+      "detail": "Widening of the space between the pelvic teardrop and the medial femoral head suggests the presence of a joint effusion."
+    },
+    {
+      "number": 19,
+      "question": "Early-stage Legg-Calvé-Perthes (LCP) disease typically demonstrates which finding on a Tc-99m MDP bone scan?",
+      "choices": [
+        "Increased uptake (hot)",
+        "Photopenic defect (cold)",
+        "Normal uptake",
+        "Double-density sign",
+        "Fallen-fragment sign"
+      ],
+      "answer": "B",
+      "detail": "Early LCP shows a photopenic (cold) defect in the femoral epiphysis, whereas late LCP shows increased uptake due to repair."
+    },
+    {
+      "number": 20,
+      "question": "A radiographic clue for Slipped Capital Femoral Epiphysis (SCFE) is the lack of intersection of the femoral head by which line?",
+      "choices": [
+        "Hilgenreiner line",
+        "Perkins line",
+        "Klein’s line",
+        "Ilioischial line",
+        "Shenton’s line"
+      ],
+      "answer": "C",
+      "detail": "Klein's line is drawn along the lateral margin of the femoral neck; lack of intersection with the femoral head suggests SCFE."
+    },
+    {
+      "number": 21,
+      "question": "While Klein's line is drawn on the AP view, SCFE is often best evaluated on which projection?",
+      "choices": [
+        "Cross-table lateral",
+        "AP pelvis",
+        "Frog-leg lateral",
+        "Grashey view",
+        "Norgaard view"
+      ],
+      "answer": "C",
+      "detail": "Physeal widening and displacement in SCFE are best evaluated on the frog-leg lateral projection."
+    },
+    {
+      "number": 22,
+      "question": "Calcific tendinopathy about the hip most commonly involves which tendons?",
+      "choices": [
+        "Iliopsoas and sartorius",
+        "Gluteal and rectus tendons",
+        "Adductor longus and gracilis",
+        "Hamstring origin",
+        "Ligamentum teres"
+      ],
+      "answer": "B",
+      "detail": "The gluteus medius and rectus femoris tendons are common sites for globular calcific deposits about the hip."
+    },
+    {
+      "number": 23,
+      "question": "What is the typical volume of injectate administered for a diagnostic hip MR arthrogram?",
+      "choices": [
+        "3 mL",
+        "5–7 mL",
+        "10–12 mL",
+        "15–20 mL",
+        "25–30 mL"
+      ],
+      "answer": "C",
+      "detail": "A total intra-articular volume of 10–12 mL is typically used for diagnostic hip MR arthrography."
+    },
+    {
+      "number": 24,
+      "question": "The central depression in the femoral head that serves as the attachment site for the ligamentum teres is the:",
+      "choices": [
+        "Pulvinar",
+        "Fovea capitis",
+        "Triradiate cartilage",
+        "Basicervical region",
+        "Intertrochanteric crest"
+      ],
+      "answer": "B",
+      "detail": "The fovea capitis is the only area of the femoral head not covered by articular cartilage and serves as the attachment for the ligamentum teres."
+    },
+    {
+      "number": 25,
+      "question": "Which anatomical structure is not covered by cartilage and is located at the center of the acetabulum?",
+      "choices": [
+        "Labrum",
+        "Pulvinar",
+        "Transverse ligament",
+        "Fovea capitis",
+        "Iliac crest"
+      ],
+      "answer": "B",
+      "detail": "The pulvinar is located at the center of the acetabulum and is not covered by articular cartilage."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "A 22-year-old long-distance runner presents with localized tibial pain. MRI demonstrates bone marrow edema without a visible cortical line. This injury, often described as 'abnormal stress on normal bone,' is specifically termed a:",
+      "choices": [
+        "Insufficiency fracture",
+        "Pathologic fracture",
+        "Fatigue fracture",
+        "Atypical fracture",
+        "Segmental fracture"
+      ],
+      "answer": "C",
+      "detail": "A fatigue fracture is an injury of normal bone caused by repetitive submaximal force ('abnormal stress on normal bone'), and is often used synonymously with the term 'stress fracture'."
+    },
+    {
+      "number": 2,
+      "question": "An 80-year-old female with severe osteoporosis presents with a sacral fracture following a minor fall. This type of injury, described as 'normal stress on abnormal bone,' is defined as an:",
+      "choices": [
+        "Fatigue fracture",
+        "Insufficiency fracture",
+        "Atypical fracture",
+        "Butterfly fracture",
+        "Oblique fracture"
+      ],
+      "answer": "B",
+      "detail": "An insufficiency fracture is an injury to abnormal bone weakened by a metabolic process, most commonly osteoporosis, where normal physiological stress results in a fracture."
+    },
+    {
+      "number": 3,
+      "question": "Which of the following fracture terms describes a fracture pattern where a central triangular bone fragment is separated from two larger bone fragments?",
+      "choices": [
+        "Spiral",
+        "Transverse",
+        "Butterfly",
+        "Segmental",
+        "Oblique"
+      ],
+      "answer": "C",
+      "detail": "A butterfly fracture involves a wedge-shaped triangular fragment separated from the main bone, whereas a segmental fracture involves an isolated segment of bone between two distinct fracture lines."
+    },
+    {
+      "number": 4,
+      "question": "A patient on long-term bisphosphonate therapy presents with a fracture isolated to the lateral cortex of the proximal-to-mid femoral shaft. This is classified as which specific type of injury?",
+      "choices": [
+        "Fatigue fracture",
+        "Pathologic fracture",
+        "Atypical fracture",
+        "Spiral fracture",
+        "Transverse fracture"
+      ],
+      "answer": "C",
+      "detail": "An atypical fracture is a special type of insufficiency fracture that characteristically occurs in the lateral cortex of the proximal-to-mid femur."
+    },
+    {
+      "number": 5,
+      "question": "According to the spectrum of 'bone stress injury,' which of the following represents the earliest stage of injury before a cortical fracture develops?",
+      "choices": [
+        "Sclerotic involution",
+        "Bone marrow edema and periosteal reaction",
+        "Butterfly fragment formation",
+        "Segmental displacement",
+        "Fat-suppressed T1 signal intensity"
+      ],
+      "answer": "B",
+      "detail": "Bone stress injury is a spectrum starting with periosteal reaction in early stages, progressing to bone marrow edema in mid-grade injuries, and finally resulting in a cortical fracture in advanced stages."
+    }
+  ]
+}

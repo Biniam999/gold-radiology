@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "According to the mnemonic 'GEIChA,' which of the following is **NOT** a primary differential consideration for a lucent epiphyseal (or epiphyseal equivalent) lesion?",
+      "choices": [
+        "Giant cell tumor",
+        "Eosinophilic granuloma",
+        "Infection",
+        "Chondroblastoma",
+        "Enchondroma"
+      ],
+      "answer": "E",
+      "detail": "The **GEIChA** mnemonic for lucent epiphyseal lesions includes **G**iant cell tumor, **E**osinophilic granuloma, **I**nfection, **Ch**ondroblastoma, and **A**neurysmal bone cyst. **Enchondroma** is typically a metaphyseal or diaphyseal lesion."
+    },
+    {
+      "number": 2,
+      "question": "A 65-year-old man presents with a solitary 'ivory vertebra' (diffusely sclerotic vertebral body). Which imaging feature would most strongly favor a diagnosis of Paget disease over osteoblastic metastasis?",
+      "choices": [
+        "Destruction of the pedicle",
+        "Associated paraspinal soft-tissue mass",
+        "Expansion of the vertebral body",
+        "History of prostate cancer",
+        "Preservation of the intervertebral disc height"
+      ],
+      "answer": "C",
+      "detail": "While both can cause an ivory vertebra, **expansion of the vertebral body** and cortical thickening are classic for Paget disease. A paraspinal mass favors lymphoma, and a history of prostate or breast cancer favors osteoblastic metastasis."
+    },
+    {
+      "number": 3,
+      "question": "Using the 'FAMEB' mnemonic for an expansile or lytic rib lesion, which diagnosis is most likely if the lesion demonstrates a 'ground-glass' internal matrix?",
+      "choices": [
+        "Fibrous dysplasia",
+        "Aneurysmal bone cyst",
+        "Metastasis",
+        "Enchondroma",
+        "Brown tumor"
+      ],
+      "answer": "A",
+      "detail": "The **FAMEB** mnemonic stands for **F**ibrous dysplasia (**ground-glass matrix**), **A**neurysmal bone cyst (expansile), **M**etastasis/Myeloma (soft tissue component), **E**nchondroma (chondroid matrix), and **B**rown tumor (signs of hyperparathyroidism)."
+    },
+    {
+      "number": 4,
+      "question": "A radiograph shows diffusely dense (sclerotic) bones throughout the axial skeleton. The presence of a small, calcified spleen on the same film should lead to a diagnosis of:",
+      "choices": [
+        "Renal osteodystrophy",
+        "Myelofibrosis",
+        "Sickle cell disease",
+        "Osteopetrosis",
+        "Mastocytosis"
+      ],
+      "answer": "C",
+      "detail": "In the differential for diffusely sclerotic bones, a **small calcified spleen** is a key clue for **Sickle cell disease** due to prior auto-infarction. Splenomegaly would instead favor myelofibrosis."
+    },
+    {
+      "number": 5,
+      "question": "Which of the following is considered an 'epiphyseal equivalent' location when applying the differential diagnosis for lucent epiphyseal lesions?",
+      "choices": [
+        "Femoral diaphysis",
+        "Tibial metaphysis",
+        "Patella",
+        "Radial neck",
+        "Mid-shaft of a rib"
+      ],
+      "answer": "C",
+      "detail": "**Epiphyseal equivalents**—where epiphyseal-type tumors like Chondroblastoma or GCT may occur—include **apophyses, the patella, carpal bones, and the calcaneus**."
+    }
+  ]
+}

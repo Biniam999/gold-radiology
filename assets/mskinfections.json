@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Which synovial fluid white blood cell (WBC) count is considered 92% specific for a diagnosis of septic arthritis?",
+      "choices": [
+        ">10,000 / μL",
+        ">25,000 / μL",
+        ">50,000 / μL",
+        ">75,000 / μL",
+        ">100,000 / μL"
+      ],
+      "answer": "C",
+      "detail": "A fluid WBC count of >50,000 is highly specific (92%) for septic arthritis, although it is only seen in 62% of cases. A count of >100,000 is 99% specific but has very low sensitivity."
+    },
+    {
+      "number": 2,
+      "question": "What is the most common route of spread for osteomyelitis in the pediatric population?",
+      "choices": [
+        "Contiguous spread from a soft tissue ulcer",
+        "Direct inoculation from a puncture wound",
+        "Hematogenous spread",
+        "Iatrogenic spread following surgery",
+        "Spread through the Batson plexus"
+      ],
+      "answer": "C",
+      "detail": "In children, hematogenous spread is the most common route of infection, typically caused by Staphylococcus aureus. In adults, contiguous spread or direct inoculation is more common."
+    },
+    {
+      "number": 3,
+      "question": "In the pathology of chronic osteomyelitis, what is the term for a piece of necrotic bone that has become separated from viable bone?",
+      "choices": [
+        "Involucrum",
+        "Cloaca",
+        "Sequestrum",
+        "Sinus tract",
+        "Brodie abscess"
+      ],
+      "answer": "C",
+      "detail": "A sequestrum is necrotic bone separated from viable bone by granulation tissue; it can harbor living organisms and act as a nidus for recurrent infection."
+    },
+    {
+      "number": 4,
+      "question": "Why can hematogenous osteomyelitis in infants (up to 12 months old) involve the epiphysis and the adjacent joint?",
+      "choices": [
+        "The physis is not yet formed.",
+        "Bridging vessels cross the physis in this age group.",
+        "The periosteum is more tightly adherent than in adults.",
+        "Infants lack a central medullary cavity.",
+        "The Batson plexus is more prominent in infancy."
+      ],
+      "answer": "B",
+      "detail": "In infants, vessels bridge the physis, allowing metaphyseal infection to spread into the epiphysis and joint. In older children, these capillaries do not cross the physis."
+    },
+    {
+      "number": 5,
+      "question": "Which imaging finding is a key feature distinguishing diabetic foot osteomyelitis from Charcot (neuropathic) arthropathy on MRI?",
+      "choices": [
+        "Bone marrow edema on STIR sequences",
+        "Presence of a cutaneous ulcer and a sinus tract to the bone",
+        "Multi-articular involvement in the midfoot",
+        "Enhancement of the marrow on post-gadolinium T1 images",
+        "Low T1 marrow signal in a reticular pattern"
+      ],
+      "answer": "B",
+      "detail": "Diabetic foot osteomyelitis is almost always associated with a cutaneous ulcer and sinus tract, and the cortex is often disrupted. Charcot joints typically have an intact cortex and no associated ulcer/sinus tract."
+    },
+    {
+      "number": 6,
+      "question": "A 'Brodie abscess' is a characteristic radiographic lesion of which phase of osteomyelitis?",
+      "choices": [
+        "Acute hematogenous",
+        "Subacute",
+        "Chronic sclerosing",
+        "Chronic active",
+        "Necrotizing"
+      ],
+      "answer": "B",
+      "detail": "A Brodie abscess is a hallmark of subacute osteomyelitis, consisting of a walled-off intra-osseous abscess with central lucency and peripheral sclerosis."
+    },
+    {
+      "number": 7,
+      "question": "Osteomyelitis caused by Pseudomonas aeruginosa is classically associated with which clinical scenario?",
+      "choices": [
+        "Sickle cell disease",
+        "Puncture wound through a sneaker",
+        "IV drug use with spinal involvement",
+        "Post-operative infection after hardware placement",
+        "Congenital transmission in utero"
+      ],
+      "answer": "B",
+      "detail": "Pseudomonas aeruginosa is the classic organism responsible for osteomyelitis following a puncture wound to the foot through a sneaker."
+    },
+    {
+      "number": 8,
+      "question": "In adult vertebral osteomyelitis, where does the infection typically begin?",
+      "choices": [
+        "Centrally within the intervertebral disc",
+        "Within the posterior elements",
+        "In the subendplate region of the vertebral body",
+        "Within the epidural space",
+        "At the attachment of the ligamentum flavum"
+      ],
+      "answer": "C",
+      "detail": "In adults, infection typically begins in the subendplate region and then spreads to the disc and adjacent body. In children, isolated discitis can occur because the disc is still directly vascularized."
+    },
+    {
+      "number": 9,
+      "question": "On a three-phase Tc-99m MDP bone scan, how is acute osteomyelitis distinguished from cellulitis?",
+      "choices": [
+        "Cellulitis is negative on all three phases.",
+        "Osteomyelitis is only positive on the delayed phase.",
+        "Osteomyelitis is positive on all three phases, while cellulitis is negative on the delayed phase.",
+        "Cellulitis is only positive on the delayed phase.",
+        "Both are positive on all three phases, but osteomyelitis is more intense."
+      ],
+      "answer": "C",
+      "detail": "Acute osteomyelitis shows increased uptake on the flow, blood pool, and delayed phases. Cellulitis shows increased flow and blood pool activity but is negative on delayed images."
+    },
+    {
+      "number": 10,
+      "question": "What is the MRI hallmark for the reliable diagnosis of osteomyelitis in the marrow?",
+      "choices": [
+        "Hazy reticular T1 signal change",
+        "Subcortical thin linear signal change",
+        "Confluent intramedullary low T1 signal (darker than muscle)",
+        "High T2 signal that does not involve the cortex",
+        "Preserved fatty marrow signal on all sequences"
+      ],
+      "answer": "C",
+      "detail": "Confluent intramedullary signal change (low T1/high T2) is strongly associated with osteomyelitis. Hazy reticular or subcortical patterns are generally not associated with infection."
+    },
+    {
+      "number": 11,
+      "question": "Which aggressive soft-tissue infection is a surgical emergency characterized by gas bubbles in the tissues on CT?",
+      "choices": [
+        "Pyomyositis",
+        "Cellulitis",
+        "Necrotizing fasciitis",
+        "Chronic recurrent multifocal osteomyelitis",
+        "Diabetic foot ulcer"
+      ],
+      "answer": "C",
+      "detail": "Necrotizing fasciitis is an aggressive infection (often Clostridium) requiring immediate debridement; the characteristic finding is gas within the soft tissues."
+    },
+    {
+      "number": 12,
+      "question": "The 'Wimberger sign' (deep erosion of the medial proximal tibial metaphysis) is a classic finding in which infection?",
+      "choices": [
+        "Tuberculosis (Pott disease)",
+        "Congenital syphilis",
+        "SAPHO syndrome",
+        "Sclerosing osteomyelitis of Garré",
+        "Chronic recurrent multifocal osteomyelitis"
+      ],
+      "answer": "B",
+      "detail": "The Wimberger sign refers to destructive erosion of the medial proximal tibial metaphysis in congenital syphilis."
+    },
+    {
+      "number": 13,
+      "question": "Which condition is an inflammatory, nonpyogenic disorder of the bone that can mimic pyogenic osteomyelitis but lacks abscesses or sequestra?",
+      "choices": [
+        "Brodie abscess",
+        "Chronic recurrent multifocal osteomyelitis (CRMO)",
+        "Necrotizing fasciitis",
+        "Pott disease",
+        "Osteitis"
+      ],
+      "answer": "B",
+      "detail": "CRMO is a nonpyogenic inflammatory disorder characterized by migratory lytic/sclerotic lesions; it does not feature abscesses, sequestra, or fistulae."
+    },
+    {
+      "number": 14,
+      "question": "What is the clinical significance of a chronic drainage sinus tract in the setting of chronic osteomyelitis?",
+      "choices": [
+        "It indicates the infection has been successfully cleared.",
+        "It predisposes the patient to squamous cell carcinoma.",
+        "It is pathognomonic for Salmonella infection.",
+        "It prevents the development of an involucrum.",
+        "It is the primary site for Brodie abscess formation."
+      ],
+      "answer": "B",
+      "detail": "Chronic drainage from a sinus tract in long-standing osteomyelitis predisposes the patient to the development of squamous cell carcinoma."
+    },
+    {
+      "number": 15,
+      "question": "In a child presenting with a hip effusion and limp, what is the most common organism responsible if the diagnosis is septic arthritis?",
+      "choices": [
+        "Salmonella",
+        "Pseudomonas aeruginosa",
+        "Staphylococcus aureus",
+        "Mycobacterium tuberculosis",
+        "Streptococcus pneumoniae"
+      ],
+      "answer": "C",
+      "detail": "Staphylococcus aureus is the most common cause of hematogenous osteomyelitis and secondary septic arthritis in children."
+    }
+  ]
+}

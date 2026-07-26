@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Following the shoulder, the elbow is the second most common joint dislocation in adults. Which pattern is by far the most frequent?",
+      "choices": [
+        "Anterior",
+        "Posterior",
+        "Divergent",
+        "Medial",
+        "Lateral"
+      ],
+      "answer": "B",
+      "detail": "Posterior dislocations are the most common pattern of elbow dislocation in adults."
+    },
+    {
+      "number": 2,
+      "question": "The 'terrible triad' of the elbow, a pattern of severe instability, consists of a posterior elbow dislocation combined with fractures of which two structures?",
+      "choices": [
+        "Olecranon and radial neck",
+        "Coronoid process and radial head",
+        "Medial epicondyle and trochlea",
+        "Lateral epicondyle and capitellum",
+        "Ulnar styloid and distal radius"
+      ],
+      "answer": "B",
+      "detail": "The 'terrible triad' involves a posterior dislocation along with fractures of the coronoid process and the radial head, indicating significant joint instability."
+    },
+    {
+      "number": 3,
+      "question": "In the initial stages of a posterior elbow dislocation, soft tissue damage typically first involves which structure?",
+      "choices": [
+        "Medial (ulnar) collateral ligament",
+        "Lateral ulnar collateral ligament (LUCL)",
+        "Distal biceps tendon",
+        "Triceps tendon",
+        "Annular ligament"
+      ],
+      "answer": "B",
+      "detail": "Damage in a posterior dislocation typically begins on the lateral side, first involving the lateral ulnar collateral ligament (LUCL)."
+    },
+    {
+      "number": 4,
+      "question": "What is the most common elbow fracture in adults?",
+      "choices": [
+        "Olecranon fracture",
+        "Radial head fracture",
+        "Coronoid process fracture",
+        "Supracondylar fracture",
+        "Medial epicondyle avulsion"
+      ],
+      "answer": "B",
+      "detail": "Radial head fractures are the most frequent fractures encountered in the adult elbow."
+    },
+    {
+      "number": 5,
+      "question": "On a lateral elbow radiograph, which 'fat pad sign' is considered nearly diagnostic of a fracture in an adult patient?",
+      "choices": [
+        "Visualization of the anterior fat pad (sail sign)",
+        "Elevation of the posterior fat pad",
+        "Obliteration of the supinator fat stripe",
+        "Widening of the radiocapitellar joint",
+        "Absence of the anterior fat pad"
+      ],
+      "answer": "B",
+      "detail": "Elevation of the posterior fat pad signifies a joint effusion and is nearly diagnostic of a fracture, typically of the radial head in adults."
+    },
+    {
+      "number": 6,
+      "question": "A 'Monteggia fracture-dislocation' is defined as:",
+      "choices": [
+        "Fracture of the distal third of the radius with distal ulnar dislocation.",
+        "Fracture of the ulnar diaphysis with radial head dislocation at the elbow.",
+        "Radial head fracture with tearing of the interosseous membrane and DRUJ dislocation.",
+        "Intra-articular fracture of the distal radius with dorsal subluxation.",
+        "Avulsion of the medial epicondyle with elbow dislocation."
+      ],
+      "answer": "B",
+      "detail": "A Monteggia injury involves a fracture of the proximal-to-mid ulnar diaphysis and a dislocation of the radial head at the elbow."
+    },
+    {
+      "number": 7,
+      "question": "Which named injury involves a fracture of the distal third of the radius combined with a dislocation of the distal radioulnar joint (DRUJ)?",
+      "choices": [
+        "Monteggia",
+        "Galeazzi",
+        "Essex-Lopresti",
+        "Colles",
+        "Smith"
+      ],
+      "answer": "B",
+      "detail": "A Galeazzi fracture-dislocation is characterized by a fracture of the distal radius and dislocation of the distal radioulnar joint."
+    },
+    {
+      "number": 8,
+      "question": "An 'Essex-Lopresti fracture-dislocation' is characterized by a radial head fracture and dislocation of the DRUJ due to tearing of which structure?",
+      "choices": [
+        "Lateral ulnar collateral ligament",
+        "Medial collateral ligament",
+        "Interosseous membrane",
+        "Annular ligament",
+        "Lacertus fibrosus"
+      ],
+      "answer": "C",
+      "detail": "This complex injury includes a radial head fracture, dislocation of the DRUJ, and a tear of the interosseous membrane."
+    },
+    {
+      "number": 9,
+      "question": "In athletes, tearing of the medial (ulnar) collateral ligament (MCL) is typically caused by which mechanism of injury?",
+      "choices": [
+        "Varus stress",
+        "Valgus stress",
+        "Direct axial loading",
+        "Forced elbow flexion",
+        "Sudden triceps contraction"
+      ],
+      "answer": "B",
+      "detail": "Failure of the MCL is primarily caused by valgus stress, such as the tensile force generated during the late cocking phase of throwing."
+    },
+    {
+      "number": 10,
+      "question": "On a MR arthrogram of the elbow, the 'T-sign' (contrast tracking deep to the ligament) is indicative of a partial tear of which structure?",
+      "choices": [
+        "Lateral ulnar collateral ligament",
+        "Distal biceps tendon",
+        "Medial (ulnar) collateral ligament",
+        "Triceps tendon insertion",
+        "Annular ligament"
+      ],
+      "answer": "C",
+      "detail": "The 'T-sign' on MR arthrography represents undersurface stripping of the MCL attachment at the ulnar sublime tubercle."
+    },
+    {
+      "number": 11,
+      "question": "Which structure, when intact, helps prevent significant proximal retraction of a torn distal biceps tendon?",
+      "choices": [
+        "Sublime tubercle",
+        "Bicipital aponeurosis (lacertus fibrosus)",
+        "Annular ligament",
+        "Radial tuberosity",
+        "Interosseous membrane"
+      ],
+      "answer": "B",
+      "detail": "The bicipital aponeurosis (lacertus fibrosus) helps prevent proximal retraction of a torn distal biceps; if the tendon is significantly retracted, the lacertus is likely torn as well."
+    },
+    {
+      "number": 12,
+      "question": "Triceps tendon tears are relatively rare and frequently involve which radiographic finding?",
+      "choices": [
+        "Radial head dislocation",
+        "'T-sign' at the medial epicondyle",
+        "Bony avulsion of the olecranon",
+        "Widening of the coronoid process",
+        "Subluxation of the radial tuberosity"
+      ],
+      "answer": "C",
+      "detail": "Distal triceps tears are often associated with a bony avulsion at the insertion site on the olecranon."
+    },
+    {
+      "number": 13,
+      "question": "The pediatric elbow ossification centers generally appear in a specific order remembered by the mnemonic CRITOE. What structure does the 'I' represent?",
+      "choices": [
+        "Interosseous membrane",
+        "Internal (medial) epicondyle",
+        "Infraspinatus",
+        "Ischial tuberosity",
+        "Intermediate trochlea"
+      ],
+      "answer": "B",
+      "detail": "The 'I' in CRITOE stands for the Internal (medial) epicondyle."
+    },
+    {
+      "number": 14,
+      "question": "In a normal pediatric elbow, the 'anterior humeral line' drawn along the anterior humeral cortex should pass through which part of the capitellum?",
+      "choices": [
+        "The anterior third",
+        "The posterior third",
+        "The middle third",
+        "Superior to it entirely",
+        "It should not intersect the capitellum"
+      ],
+      "answer": "C",
+      "detail": "In a normal elbow, the anterior humeral line should pass through the middle third of the ossified capitellum."
+    },
+    {
+      "number": 15,
+      "question": "Which radiographic line is used to evaluate for elbow dislocation or nursemaid's elbow by ensuring it passes through the capitellum on all views?",
+      "choices": [
+        "Hilgenreiner line",
+        "Perkins line",
+        "Radiocapitellar line",
+        "Klein's line",
+        "Shenton's line"
+      ],
+      "answer": "C",
+      "detail": "The radiocapitellar line, drawn through the radial shaft, must intersect the capitellum on every radiographic view; failure to do so suggests subluxation or dislocation."
+    }
+  ]
+}

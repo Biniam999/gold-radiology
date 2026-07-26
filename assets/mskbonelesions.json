@@ -1,0 +1,654 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "A 35-year-old man has an incidental finding of a small, spiculated sclerotic focus in his femur. The lesion has normal uptake on a bone scan. What is the most likely diagnosis?",
+      "choices": [
+        "Osteoblastic metastasis",
+        "Osteoid osteoma",
+        "Enostosis (bone island)",
+        "Osteoma",
+        "Osteosarcoma"
+      ],
+      "answer": "C",
+      "detail": "Enostoses are common incidental small spiculated osteoblastic medullary foci that typically show normal uptake on bone scans."
+    },
+    {
+      "number": 2,
+      "question": "Which syndrome is characterized by the presence of multiple bone islands and keloid formation?",
+      "choices": [
+        "Gardner syndrome",
+        "Maffucci syndrome",
+        "Osteopoikilosis",
+        "Ollier disease",
+        "McCune-Albright syndrome"
+      ],
+      "answer": "C",
+      "detail": "Osteopoikilosis is an autosomal dominant syndrome featuring multiple bone islands and keloid formation."
+    },
+    {
+      "number": 3,
+      "question": "A radiograph of the tibia shows a thickened, irregular wavy cortex with a classic 'candle-wax' appearance. This finding is characteristic of:",
+      "choices": [
+        "Osteopetrosis",
+        "Melorheostosis",
+        "Paget disease",
+        "Fibrous dysplasia",
+        "Osteoma"
+      ],
+      "answer": "B",
+      "detail": "Melorheostosis is a non-neoplastic cortical proliferation presenting with a characteristic 'candle-wax' appearance."
+    },
+    {
+      "number": 4,
+      "question": "A 14-year-old boy presents with femur pain that is worse at night and completely relieved by aspirin. Imaging shows a 1.5 cm radiolucent nidus surrounded by sclerosis. What is the most likely diagnosis?",
+      "choices": [
+        "Osteoblastoma",
+        "Osteoid osteoma",
+        "Brodie abscess",
+        "Stress fracture",
+        "Eosinophilic granuloma"
+      ],
+      "answer": "B",
+      "detail": "The classic presentation of osteoid osteoma is night pain relieved by aspirin in a teenager, with a small nidus less than 2 cm."
+    },
+    {
+      "number": 5,
+      "question": "Which statement regarding osteoblastoma is correct compared to osteoid osteoma?",
+      "choices": [
+        "It is histologically identical but larger than 2 cm.",
+        "Pain is typically relieved by aspirin.",
+        "It most commonly occurs in the femoral diaphysis.",
+        "It is much more common than osteoid osteoma.",
+        "It is usually a blastic lesion on radiographs."
+      ],
+      "answer": "A",
+      "detail": "Osteoblastoma is histologically similar to osteoid osteoma but >2 cm; its pain is not typically relieved by aspirin, and it favors the posterior elements of the spine."
+    },
+    {
+      "number": 6,
+      "question": "Conventional intramedullary osteosarcoma most commonly occurs in which location?",
+      "choices": [
+        "Diaphysis of the humerus",
+        "Metaphysis about the knee",
+        "Posterior elements of the spine",
+        "Epiphysis of the proximal femur",
+        "Diaphysis of the radius"
+      ],
+      "answer": "B",
+      "detail": "Conventional osteosarcoma (75% of cases) usually occurs in the metaphysis of the femur or tibia about the knee."
+    },
+    {
+      "number": 7,
+      "question": "Which radiographic feature is a hallmark of an aggressive bone lesion like osteosarcoma?",
+      "choices": [
+        "Sclerotic margins",
+        "Narrow zone of transition",
+        "Codman triangle",
+        "Well-circumscribed appearance",
+        "Normal bone scan"
+      ],
+      "answer": "C",
+      "detail": "Aggressive periosteal reactions like the Codman triangle or sunburst appearance are hallmarks of aggressive malignancies."
+    },
+    {
+      "number": 8,
+      "question": "A 25-year-old male presents with a 'cauliflower-like' exophytic mass arising from the posterior distal femoral metaphysis. A thin lucent line separates the mass from the underlying cortex. What is the most likely diagnosis?",
+      "choices": [
+        "Osteochondroma",
+        "Parosteal osteosarcoma",
+        "Periosteal osteosarcoma",
+        "Myositis ossificans",
+        "Conventional osteosarcoma"
+      ],
+      "answer": "B",
+      "detail": "Parosteal osteosarcoma arises from the outer periosteum, classically at the posterior distal femur with a cauliflower appearance and a lucent cleavage plane."
+    },
+    {
+      "number": 9,
+      "question": "Telangiectatic osteosarcoma is a destructive lytic lesion that frequently mimics which benign entity on imaging?",
+      "choices": [
+        "Simple bone cyst",
+        "Nonossifying fibroma",
+        "Aneurysmal bone cyst",
+        "Giant cell tumor",
+        "Chondroblastoma"
+      ],
+      "answer": "C",
+      "detail": "Telangiectatic osteosarcoma is an osteolytic destructive lesion that can mimic a benign aneurysmal bone cyst (ABC)."
+    },
+    {
+      "number": 10,
+      "question": "Gardner syndrome involves multiple intestinal polyps and soft-tissue desmoid tumors associated with which bone lesion?",
+      "choices": [
+        "Osteosarcoma",
+        "Osteoma",
+        "Bone islands",
+        "Fibrous dysplasia",
+        "Ewing sarcoma"
+      ],
+      "answer": "B",
+      "detail": "Gardner syndrome is characterized by multiple osteomas (usually of the skull or sinuses), intestinal polyposis, and desmoid tumors."
+    },
+    {
+      "number": 11,
+      "question": "A 20-year-old has multiple lytic lesions in the small bones of the hands containing 'rings and arcs' calcification. This is most likely:",
+      "choices": [
+        "Osteopoikilosis",
+        "Ollier disease",
+        "Multiple hereditary exostoses",
+        "Sarcoidosis",
+        "Gout"
+      ],
+      "answer": "B",
+      "detail": "Ollier disease is characterized by multiple enchondromas, which classically show chondroid (rings and arcs) matrix and favor the hands and feet."
+    },
+    {
+      "number": 12,
+      "question": "Maffucci syndrome is defined by multiple enchondromas associated with:",
+      "choices": [
+        "Soft-tissue desmoid tumors",
+        "Intestinal polyposis",
+        "Soft-tissue hemangiomas",
+        "Keloid formation",
+        "Café-au-lait spots"
+      ],
+      "answer": "C",
+      "detail": "Maffucci syndrome involves multiple enchondromas plus soft-tissue hemangiomas (often containing phleboliths)."
+    },
+    {
+      "number": 13,
+      "question": "What is the pathognomonic radiographic feature of an osteochondroma?",
+      "choices": [
+        "Ground-glass matrix",
+        "Corticomedullary continuity with the host bone",
+        "A fallen-fragment sign",
+        "A sunburst periosteal reaction",
+        "Location in the epiphysis"
+      ],
+      "answer": "B",
+      "detail": "Key features of osteochondroma are the continuity of the cortex and communication of the medullary cavities with the host bone."
+    },
+    {
+      "number": 14,
+      "question": "A benign chondroid lesion located eccentrically in the epiphysis of a skeletally immature patient is most likely:",
+      "choices": [
+        "Giant cell tumor",
+        "Chondroblastoma",
+        "Enchondroma",
+        "Chondrosarcoma",
+        "Osteoid osteoma"
+      ],
+      "answer": "B",
+      "detail": "Chondroblastoma is a benign lesion uniquely located in the epiphysis of skeletally immature patients."
+    },
+    {
+      "number": 15,
+      "question": "Unlike most other chondroid lesions, chondroblastoma typically demonstrates which MRI signal characteristic?",
+      "choices": [
+        "Lobulated T2 hyperintensity",
+        "High signal on T1-weighted images",
+        "Low or intermediate signal on T2-weighted images",
+        "Fluid-fluid levels on all sequences",
+        "Signal following fat on all sequences"
+      ],
+      "answer": "C",
+      "detail": "While most chondroid lesions are T2 hyperintense, chondroblastoma typically demonstrates low or intermediate signal on T2."
+    },
+    {
+      "number": 16,
+      "question": "A common incidental lucent lesion in the leg of a child that features a narrow zone of transition and a thin sclerotic margin is:",
+      "choices": [
+        "Fibrous dysplasia",
+        "Nonossifying fibroma (NOF)",
+        "Simple bone cyst",
+        "Ewing sarcoma",
+        "Osteoid osteoma"
+      ],
+      "answer": "B",
+      "detail": "NOF is a common, asymptomatic, well-defined lucent lesion in children that often undergoes spontaneous involution in adulthood."
+    },
+    {
+      "number": 17,
+      "question": "Fibrous dysplasia of the long bones classically leads to which deformity?",
+      "choices": [
+        "Madelung deformity",
+        "Shepherd’s crook deformity",
+        "Blount disease",
+        "Genu valgum",
+        "Saber shin"
+      ],
+      "answer": "B",
+      "detail": "Fibrous dysplasia can cause a bowing deformity known as the 'shepherd’s crook'."
+    },
+    {
+      "number": 18,
+      "question": "An eccentric lucent epiphyseal lesion in a 30-year-old patient that crosses the closed physis to involve the metaphysis is most likely:",
+      "choices": [
+        "Chondroblastoma",
+        "Aneurysmal bone cyst",
+        "Giant cell tumor",
+        "Osteosarcoma",
+        "Eosinophilic granuloma"
+      ],
+      "answer": "C",
+      "detail": "Giant cell tumors are eccentric epiphyseal lucent lesions in skeletally mature patients ages 20–40."
+    },
+    {
+      "number": 19,
+      "question": "Which pediatric bone tumor is an aggressive small round blue cell malignancy that classically presents with an 'onion-skin' periosteal reaction?",
+      "choices": [
+        "Osteosarcoma",
+        "Ewing sarcoma",
+        "Leukemia",
+        "Chondrosarcoma",
+        "Neuroblastoma metastasis"
+      ],
+      "answer": "B",
+      "detail": "Ewing sarcoma is a highly aggressive pediatric tumor characterized by a permeative pattern and aggressive lamellated (onion-skin) reaction."
+    },
+    {
+      "number": 20,
+      "question": "A 12-year-old girl presents with a 'vertebra plana' appearance of a cervical vertebra. What is the most likely diagnosis?",
+      "choices": [
+        "Leukemia",
+        "Osteosarcoma",
+        "Eosinophilic granuloma (LCH)",
+        "Ewing sarcoma",
+        "Simple bone cyst"
+      ],
+      "answer": "C",
+      "detail": "Complete vertebral body collapse (vertebra plana) in a child is a classic manifestation of eosinophilic granuloma."
+    },
+    {
+      "number": 21,
+      "question": "The 'fallen-fragment sign' is pathognomonic for which lesion?",
+      "choices": [
+        "Aneurysmal bone cyst",
+        "Simple bone cyst",
+        "Fibrous dysplasia",
+        "Giant cell tumor",
+        "Osteosarcoma"
+      ],
+      "answer": "B",
+      "detail": "The fallen-fragment sign, where a cortical fragment falls into the cyst, is pathognomonic for a simple (unicameral) bone cyst."
+    },
+    {
+      "number": 22,
+      "question": "Which lesion is characterized as an expansile, multicystic lesion containing blood-filled sinusoids and is frequently located in the posterior elements of the spine?",
+      "choices": [
+        "Simple bone cyst",
+        "Osteoblastoma",
+        "Aneurysmal bone cyst (ABC)",
+        "Hemangioma",
+        "Plasmacytoma"
+      ],
+      "answer": "C",
+      "detail": "ABCs are expansile, multicystic lesions containing blood sinusoids and can be located anywhere, including the posterior spinal elements."
+    },
+    {
+      "number": 23,
+      "question": "A 60-year-old man presents with a solitary sclerotic vertebral body ('ivory vertebra'). What is the most important differential consideration?",
+      "choices": [
+        "Prostate cancer metastasis",
+        "Eosinophilic granuloma",
+        "Osteoid osteoma",
+        "Simple bone cyst",
+        "Intraosseous lipoma"
+      ],
+      "answer": "A",
+      "detail": "Differentials for an ivory vertebral body include osteoblastic metastasis (like prostate or breast cancer), Paget disease, or lymphoma."
+    },
+    {
+      "number": 24,
+      "question": "A 'do not touch' lesion located at the posteromedial distal femoral metaphysis that appears as a saucer-shaped cortical irregularity is a:",
+      "choices": [
+        "Nonossifying fibroma",
+        "Cortical desmoid",
+        "Osteoid osteoma",
+        "Periosteal osteosarcoma",
+        "Myositis ossificans"
+      ],
+      "answer": "B",
+      "detail": "A cortical desmoid is a 'do not touch' lesion due to repetitive stress, appearing as a saucer-shaped irregularity at the distal femoral metaphysis."
+    },
+    {
+      "number": 25,
+      "question": "A 50-year-old patient with hyperparathyroidism presents with multiple well-defined lucent bone lesions. These are most likely:",
+      "choices": [
+        "Metastases",
+        "Brown tumors",
+        "Multiple myeloma",
+        "Enchondromas",
+        "Simple bone cysts"
+      ],
+      "answer": "B",
+      "detail": "Hyperparathyroidism can cause Brown tumors, which are lucent bone lesions that can mimic neoplasms."
+    },
+    {
+      "number": 26,
+      "question": "Multiple bone lesions with a 'ground-glass' internal matrix in a child suggest:",
+      "choices": [
+        "Enchondromatosis",
+        "Multiple hereditary exostoses",
+        "Fibrous dysplasia",
+        "Mastocytosis",
+        "Osteopetrosis"
+      ],
+      "answer": "C",
+      "detail": "Ground-glass matrix is the characteristic internal appearance of fibrous dysplasia."
+    },
+    {
+      "number": 27,
+      "question": "Plasmacytoma is a localized form of which malignancy?",
+      "choices": [
+        "Lymphoma",
+        "Ewing sarcoma",
+        "Multiple myeloma",
+        "Osteosarcoma",
+        "Chondrosarcoma"
+      ],
+      "answer": "C",
+      "detail": "Multiple myeloma most commonly presents as multiple lytic lesions, while a single lesion is termed a plasmacytoma."
+    },
+    {
+      "number": 28,
+      "question": "Which primary malignancy is most commonly associated with purely lytic osseous metastases?",
+      "choices": [
+        "Prostate",
+        "Breast",
+        "Lung",
+        "Thyroid",
+        "Kidney"
+      ],
+      "answer": "C",
+      "detail": "Lung cancer is the most common cause of purely lytic metastases."
+    },
+    {
+      "number": 29,
+      "question": "Osteopetrosis typically presents with which radiographic finding?",
+      "choices": [
+        "Diffusely lucent bones",
+        "Diffusely dense (sclerotic) bones",
+        "Multiple 'punched-out' lesions",
+        "Extensive periosteal reaction",
+        "Ground-glass matrix"
+      ],
+      "answer": "B",
+      "detail": "Osteopetrosis is a cause of diffusely dense or sclerotic bones."
+    },
+    {
+      "number": 30,
+      "question": "In a child, 'floating teeth' is a characteristic radiographic finding associated with:",
+      "choices": [
+        "Leukemia",
+        "Osteosarcoma",
+        "Osseous Langerhans cell histiocytosis (LCH)",
+        "Lead poisoning",
+        "Scurvy"
+      ],
+      "answer": "C",
+      "detail": "Involvement of the maxilla in LCH can lead to the appearance of 'floating teeth'."
+    },
+    {
+      "number": 31,
+      "question": "A 'metaphyseal lucent band' on knee radiographs of a child is a distinctive feature of:",
+      "choices": [
+        "Rickets",
+        "Lead poisoning",
+        "Leukemia",
+        "Osteosarcoma",
+        "Scurvy"
+      ],
+      "answer": "C",
+      "detail": "Metaphyseal lucent bands are one of the most distinctive radiographic features of pediatric leukemia."
+    },
+    {
+      "number": 32,
+      "question": "Multiple hereditary exostoses (MHE) is associated with an increased risk of transformation into which malignancy?",
+      "choices": [
+        "Osteosarcoma",
+        "Ewing sarcoma",
+        "Chondrosarcoma",
+        "Adamantinoma",
+        "Lymphoma"
+      ],
+      "answer": "C",
+      "detail": "Osteochondromas (the lesions in MHE) carry an increased risk of malignant transformation into chondrosarcoma."
+    },
+    {
+      "number": 33,
+      "question": "Adamantinoma is a rare malignant lytic lesion that classically occurs in which bone?",
+      "choices": [
+        "Femur",
+        "Humerus",
+        "Tibia",
+        "Pelvis",
+        "Scapula"
+      ],
+      "answer": "C",
+      "detail": "Adamantinoma is a rare malignant lytic lesion characteristically found in the tibia."
+    },
+    {
+      "number": 34,
+      "question": "Lead poisoning in children is radiographically characterized by:",
+      "choices": [
+        "Metaphyseal lucent bands",
+        "Wide sclerotic metaphyseal bands",
+        "Punched-out skull lesions",
+        "Vertebra plana",
+        "Ground glass matrix"
+      ],
+      "answer": "B",
+      "detail": "Lead poisoning causes wide sclerotic metaphyseal bands known as 'lead lines'."
+    },
+    {
+      "number": 35,
+      "question": "A giant variant of a bone island is defined by a size greater than:",
+      "choices": [
+        "1 cm",
+        "2 cm",
+        "3 cm",
+        "4 cm",
+        "5 cm"
+      ],
+      "answer": "B",
+      "detail": "A bone island >2 cm is considered a giant variant and can be difficult to distinguish from low-grade osteosarcoma."
+    },
+    {
+      "number": 36,
+      "question": "Which statement regarding the bone scan appearance of osteoid osteoma is true?",
+      "choices": [
+        "It is typically normal.",
+        "It shows a characteristic 'double density' sign.",
+        "It shows a 'cold' photopenic defect.",
+        "It only shows uptake in the late phase.",
+        "It is indistinguishable from a bone island."
+      ],
+      "answer": "B",
+      "detail": "Osteoid osteoma typically features intense uptake on bone scan, often showing a 'double density sign' (intense nidus within reactive sclerosis)."
+    },
+    {
+      "number": 37,
+      "question": "Secondary aneurysmal bone cysts are most commonly associated with which spinal lesion?",
+      "choices": [
+        "Osteoid osteoma",
+        "Osteoblastoma",
+        "Osteosarcoma",
+        "Chordoma",
+        "Plasmacytoma"
+      ],
+      "answer": "B",
+      "detail": "Secondary ABCs may be seen in association with other lesions, especially spinal osteoblastomas."
+    },
+    {
+      "number": 38,
+      "question": "Chondromyxoid fibroma rarely demonstrates which typical chondroid imaging feature?",
+      "choices": [
+        "High T2 signal",
+        "Chondroid matrix calcification",
+        "Eccentric location",
+        "Sclerotic margins",
+        "Cortical thinning"
+      ],
+      "answer": "B",
+      "detail": "Although a cartilage tumor, chondromyxoid fibroma rarely demonstrates chondroid matrix calcification."
+    },
+    {
+      "number": 39,
+      "question": "Intraosseous lipomas frequently contain which imaging feature that helps favor the diagnosis over a simple bone cyst?",
+      "choices": [
+        "Ground glass matrix",
+        "Central or ring-like calcification",
+        "Wide zone of transition",
+        "Codman triangle",
+        "Fluid-fluid levels"
+      ],
+      "answer": "B",
+      "detail": "Central or ring-like calcification within a circumscribed lucent lesion (often in the calcaneus) favors intraosseous lipoma."
+    },
+    {
+      "number": 40,
+      "question": "Which condition is an important differential for an ivory vertebral body and is often associated with a paraspinal soft-tissue mass?",
+      "choices": [
+        "Paget disease",
+        "Osteoblastic metastasis",
+        "Lymphoma",
+        "Osteoblastoma",
+        "Chordoma"
+      ],
+      "answer": "C",
+      "detail": "Bone lymphoma can cause an ivory vertebral body and is often associated with an adjacent soft-tissue mass."
+    },
+    {
+      "number": 41,
+      "question": "Which benign chondroid lesion arises from mature hyaline cartilage rests and is the most common tumor of the hand bones?",
+      "choices": [
+        "Chondroblastoma",
+        "Osteochondroma",
+        "Enchondroma",
+        "Chondromyxoid fibroma",
+        "Osteoma"
+      ],
+      "answer": "C",
+      "detail": "Enchondromas are very common in the small bones of the hands."
+    },
+    {
+      "number": 42,
+      "question": "A fracture of which anatomical site in an adult should raise immediate concern for a pathologic fracture?",
+      "choices": [
+        "Distal radius",
+        "Lesser trochanter",
+        "Ulnar styloid",
+        "Surgical neck of the humerus",
+        "Lateral malleolus"
+      ],
+      "answer": "B",
+      "detail": "An isolated fracture of the lesser trochanter in an adult is a strong indicator of an underlying pathologic fracture."
+    },
+    {
+      "number": 43,
+      "question": "Which benign sclerotic dysplasia features linear bands of sclerosis in long bones and fan-like sclerosis in the pelvis?",
+      "choices": [
+        "Melorheostosis",
+        "Osteopoikilosis",
+        "Osteopathia striata",
+        "Paget disease",
+        "Osteopetrosis"
+      ],
+      "answer": "C",
+      "detail": "Osteopathia striata is characterized by linear striated bands of sclerosis in long bones."
+    },
+    {
+      "number": 44,
+      "question": "McCune-Albright syndrome involves polyostotic fibrous dysplasia, café-au-lait spots, and which other clinical feature?",
+      "choices": [
+        "Intestinal polyposis",
+        "Soft-tissue hemangiomas",
+        "Precocious puberty",
+        "Keloid formation",
+        "Night pain"
+      ],
+      "answer": "C",
+      "detail": "McCune-Albright syndrome consists of fibrous dysplasia, skin pigmentation, and endocrinopathies like precocious puberty."
+    },
+    {
+      "number": 45,
+      "question": "Which finding on a radiograph favors Paget disease as the cause of an ivory vertebra over metastasis?",
+      "choices": [
+        "Indistinct margins",
+        "Expansion of the vertebral body",
+        "Pedicle destruction",
+        "Associated soft tissue mass",
+        "Preservation of disk height"
+      ],
+      "answer": "B",
+      "detail": "Vertebral body expansion and cortical thickening are classic features of Paget disease."
+    },
+    {
+      "number": 46,
+      "question": "A 'hole within a hole' lytic lesion in the pelvis is a characteristic radiographic description for:",
+      "choices": [
+        "Metastasis",
+        "Multiple myeloma",
+        "Langerhans cell histiocytosis (LCH)",
+        "Ewing sarcoma",
+        "Brown tumor"
+      ],
+      "answer": "C",
+      "detail": "In flat bones like the pelvis, LCH often produces a 'hole within a hole' appearance."
+    },
+    {
+      "number": 47,
+      "question": "Which benign tumor mimic is characterized by heterotopic ossification following trauma and typically shows a peripheral rim of calcification?",
+      "choices": [
+        "Osteosarcoma",
+        "Myositis ossificans",
+        "Brown tumor",
+        "Cortical desmoid",
+        "Lead line"
+      ],
+      "answer": "B",
+      "detail": "Myositis ossificans features heterotopic ossification with a zonation pattern showing peripheral calcification."
+    },
+    {
+      "number": 48,
+      "question": "Blastic (sclerotic) metastases are most commonly associated with which primary malignancy?",
+      "choices": [
+        "Renal cell carcinoma",
+        "Lung cancer",
+        "Prostate cancer",
+        "Thyroid cancer",
+        "Colon cancer"
+      ],
+      "answer": "C",
+      "detail": "Prostate cancer is the classic cause of blastic (sclerotic) osseous metastases."
+    },
+    {
+      "number": 49,
+      "question": "An eccentric metaphyseal lucent lesion with a 'buttressing' periosteal reaction in a teenager is most suggestive of:",
+      "choices": [
+        "Simple bone cyst",
+        "Giant cell tumor",
+        "Aneurysmal bone cyst",
+        "Fibrous dysplasia",
+        "Chondroblastoma"
+      ],
+      "answer": "C",
+      "detail": "ABCs are expansile (aneurysmal) and often feature 'buttressing' smooth periosteal reactions."
+    },
+    {
+      "number": 50,
+      "question": "Which bone lesion is believed to arise from the periosteum and frequently undergoes spontaneous sclerotic involution as the patient reaches adulthood?",
+      "choices": [
+        "Simple bone cyst",
+        "Osteoblastoma",
+        "Nonossifying fibroma (NOF)",
+        "Enchondroma",
+        "Osteoid osteoma"
+      ],
+      "answer": "C",
+      "detail": "NOF lesions are believed to arise from the periosteum and usually involute spontaneously into sclerotic bone at skeletal maturity."
+    }
+  ]
+}

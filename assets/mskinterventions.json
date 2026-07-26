@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "For diagnostic MR arthrography, what is the standard recommended dilution ratio for gadolinium-containing contrast?",
+      "choices": [
+        "1:10",
+        "1:50",
+        "1:100 to 1:200",
+        "1:500",
+        "1:1000"
+      ],
+      "answer": "C",
+      "detail": "For MR arthrography, a 1:100 or 1:200 dilution is prepared (e.g., 0.1 mL gadolinium in 10 mL saline), which may then be admixed with iodinated contrast for fluoroscopic visualization."
+    },
+    {
+      "number": 2,
+      "question": "Which of the following is an appropriate substitute for iodinated contrast in a patient with a known severe iodine allergy undergoing a fluoroscopic-guided joint injection?",
+      "choices": [
+        "Barium sulfate",
+        "Air or Gadolinium",
+        "Technetium-99m",
+        "Sterile water only",
+        "High-osmolar ionic contrast"
+      ],
+      "answer": "B",
+      "detail": "In patients allergic to iodinated contrast, air or gadolinium can be used for visualization during the procedure."
+    },
+    {
+      "number": 3,
+      "question": "According to the ALARA principle for radiation dose reduction, which fluoroscopic mode should be utilized routinely during MSK procedures unless specific problem-solving is required?",
+      "choices": [
+        "Continuous high-dose mode",
+        "'Pulse' mode",
+        "High-resolution mode",
+        "Magnification mode",
+        "Constant mA mode"
+      ],
+      "answer": "B",
+      "detail": "Using 'pulse' mode reduces the number of frames obtained per second and is a key method for decreasing radiation exposure."
+    },
+    {
+      "number": 4,
+      "question": "What is the ideal marker placement for the 'rotator interval' approach in shoulder arthrography?",
+      "choices": [
+        "Lower inner quadrant of the humeral head",
+        "Lower outer quadrant of the humeral head",
+        "Upper inner quadrant of the humeral head",
+        "Upper outer quadrant of the humeral head",
+        "Center of the glenoid fossa"
+      ],
+      "answer": "C",
+      "detail": "Ideal BB marker placement for the rotator interval approach is at the upper inner quadrant of the humeral head."
+    },
+    {
+      "number": 5,
+      "question": "What is the typical total intra-articular volume of injectate administered for a diagnostic shoulder or hip MR arthrogram?",
+      "choices": [
+        "2–5 mL",
+        "5–7 mL",
+        "10–12 mL",
+        "15–20 mL",
+        "25–30 mL"
+      ],
+      "answer": "C",
+      "detail": "A total volume of 10–12 mL is typically used for both hip and shoulder diagnostic injections."
+    },
+    {
+      "number": 6,
+      "question": "For diagnostic wrist injections, why is the volume restricted to approximately 3 mL?",
+      "choices": [
+        "To prevent gadolinium toxicity.",
+        "To avoid contrast extravasating out of the joint and complicating interpretation.",
+        "Because the radiocarpal joint cannot hold more than 1 mL.",
+        "To reduce the radiation dose to the hand.",
+        "To prevent spontaneous rupture of the TFCC."
+      ],
+      "answer": "B",
+      "detail": "Injecting more than ~3 mL in the wrist increases the risk of contrast leaking out, which makes it harder to identify true pathology."
+    },
+    {
+      "number": 7,
+      "question": "During a radiocarpal joint injection, visualization of contrast leaking into the distal radioulnar joint (DRUJ) is definitive evidence of:",
+      "choices": [
+        "A scapholunate ligament tear.",
+        "A lunotriquetral ligament tear.",
+        "A tear of the triangular fibrocartilage (TFC).",
+        "Normal joint communication.",
+        "Adhesive capsulitis of the wrist."
+      ],
+      "answer": "C",
+      "detail": "Abnormal communication between the radiocarpal compartment and the DRUJ indicates a TFC tear."
+    },
+    {
+      "number": 8,
+      "question": "Which device is generally preferred for the highest diagnostic yield when performing a biopsy of a soft tissue mass?",
+      "choices": [
+        "Fine needle aspiration (FNA) needle",
+        "25-gauge spinal needle",
+        "Coaxial spring-loaded biopsy device",
+        "Scalpel for incisional biopsy",
+        "Large-bore trocar without a sleeve"
+      ],
+      "answer": "C",
+      "detail": "Soft tissue biopsies are generally performed with a coaxial spring-loaded device, targeting the most avidly enhancing or PET-avid portions of the mass."
+    },
+    {
+      "number": 9,
+      "question": "Most musculoskeletal soft tissue biopsies can be successfully performed under the guidance of which imaging modality?",
+      "choices": [
+        "Fluoroscopy",
+        "Ultrasound",
+        "PET-CT",
+        "MRI",
+        "Scintigraphy"
+      ],
+      "answer": "B",
+      "detail": "The majority of MSK soft tissue biopsies are performed via ultrasound, though CT is also a reasonable modality."
+    },
+    {
+      "number": 10,
+      "question": "When planning a biopsy for a suspected malignancy, why is it essential to discuss the needle tract with an orthopedic oncologist?",
+      "choices": [
+        "To ensure the tract is as long as possible for better sampling.",
+        "To ensure the biopsy tract can be completely resected during definitive surgery.",
+        "To avoid crossing the skin.",
+        "To prevent the need for local anesthesia.",
+        "To ensure the needle does not touch the bone."
+      ],
+      "answer": "B",
+      "detail": "Collaborative planning ensures that any potential tumor tract seeding is managed by making the tract resectable during definitive surgery."
+    }
+  ]
+}

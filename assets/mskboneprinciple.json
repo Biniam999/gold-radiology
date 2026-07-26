@@ -1,0 +1,135 @@
+
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Which of the following radiographic features is considered a hallmark of a non-aggressive bone lesion?",
+      "choices": [
+        "Permeative appearance",
+        "Wide zone of transition",
+        "Endosteal scalloping",
+        "Sclerotic margins",
+        "Associated soft tissue component"
+      ],
+      "answer": "D",
+      "detail": "Sclerotic margins and a narrow zone of transition are characteristic of non-aggressive lesions, whereas permeative patterns and wide zones of transition indicate aggressive behavior."
+    },
+    {
+      "number": 2,
+      "question": "According to the Lodwick classification of bone destruction, which pattern is defined by multiple tiny holes infiltrating the bone and is highly associated with Ewing sarcoma?",
+      "choices": [
+        "Type 1A",
+        "Type 1B",
+        "Type 2 (Moth-eaten)",
+        "Type 3 (Permeative)",
+        "Pseudopermeative"
+      ],
+      "answer": "D",
+      "detail": "The Lodwick Type 3 permeative pattern features multiple tiny holes and is seen in highly aggressive lesions such as Ewing sarcoma, lymphoma, and leukemia."
+    },
+    {
+      "number": 3,
+      "question": "A 'popcorn-like' or 'rings and arcs' radiographic appearance of a tumor matrix is characteristic of which cell of origin?",
+      "choices": [
+        "Osteoid",
+        "Fibrous",
+        "Chondroid",
+        "Vascular",
+        "Hematopoietic"
+      ],
+      "answer": "C",
+      "detail": "Matrix produced by chondroid lesions, such as enchondroma or chondrosarcoma, classically presents with a 'rings and arcs' or 'popcorn-like' appearance."
+    },
+    {
+      "number": 4,
+      "question": "The 'fallen-fragment sign' is considered a pathognomonic finding for which of the following lesions when a pathologic fracture is present?",
+      "choices": [
+        "Aneurysmal bone cyst (ABC)",
+        "Simple bone cyst (SBC)",
+        "Giant cell tumor (GCT)",
+        "Non-ossifying fibroma (NOF)",
+        "Fibrous dysplasia"
+      ],
+      "answer": "B",
+      "detail": "The fallen-fragment sign represents a cortical fracture fragment that has migrated into the dependent portion of a hollow or fluid-filled simple bone cyst."
+    },
+    {
+      "number": 5,
+      "question": "In a patient over 40 years of age, which two entities are the most likely considerations for an aggressive lytic bone lesion?",
+      "choices": [
+        "Eosinophilic granuloma and Ewing sarcoma",
+        "Osteosarcoma and Chondrosarcoma",
+        "Metastasis and Myeloma",
+        "Infection and ABC",
+        "Giant cell tumor and Fibrous dysplasia"
+      ],
+      "answer": "C",
+      "detail": "In patients over age 40, metastasis and myeloma are the two most likely causes of an aggressive lytic bone lesion."
+    },
+    {
+      "number": 6,
+      "question": "Which of the following bone lesions is classically characterized by a 'ground glass' matrix, representing a blurring of the normal trabeculae?",
+      "choices": [
+        "Osteoid osteoma",
+        "Chondroblastoma",
+        "Enchondroma",
+        "Fibrous dysplasia",
+        "Simple bone cyst"
+      ],
+      "answer": "D",
+      "detail": "A ground glass matrix is a classic feature of fibrous dysplasia, which is a benign fibro-osseous lesion."
+    },
+    {
+      "number": 7,
+      "question": "Which bone lesion is typically located eccentrically within a long bone rather than centrally?",
+      "choices": [
+        "Simple bone cyst",
+        "Enchondroma",
+        "Giant cell tumor",
+        "Eosinophilic granuloma",
+        "Osteosarcoma"
+      ],
+      "answer": "C",
+      "detail": "Giant cell tumors, aneurysmal bone cysts, and chondroblastomas are classically located eccentrically within the bone, whereas simple bone cysts are central."
+    },
+    {
+      "number": 8,
+      "question": "How does a 'pseudopermeative' appearance (seen in benign conditions like osteoporosis) typically differ from a true aggressive permeative lesion?",
+      "choices": [
+        "It features a narrow zone of transition.",
+        "It is associated with a soft tissue mass.",
+        "It will extend all the way to the cortex.",
+        "It produces a cloud-like matrix.",
+        "It is only seen in patients under age 20."
+      ],
+      "answer": "C",
+      "detail": "Unlike the true permeative appearance of an aggressive malignancy, the pseudopermeative appearance seen in benign conditions like osteoporosis or osseous hemangioma will extend to the cortex."
+    },
+    {
+      "number": 9,
+      "question": "An expansile or 'aneurysmal' radiographic appearance is most suggestive of which lesion?",
+      "choices": [
+        "Simple bone cyst",
+        "Non-ossifying fibroma",
+        "Aneurysmal bone cyst",
+        "Fibrous dysplasia",
+        "Enchondroma"
+      ],
+      "answer": "C",
+      "detail": "An aneurysmal or expansile appearance is a characteristic unique feature of an aneurysmal bone cyst."
+    },
+    {
+      "number": 10,
+      "question": "Which Lodwick classification subtype is characterized by geographic destruction with thin, sclerotic margins and is almost always non-aggressive?",
+      "choices": [
+        "Type 1A",
+        "Type 1B",
+        "Type 1C",
+        "Type 2",
+        "Type 3"
+      ],
+      "answer": "A",
+      "detail": "Lodwick Type 1A lesions are characterized by geographic destruction with thin sclerotic margins and are almost always non-aggressive."
+    }
+  ]
+}

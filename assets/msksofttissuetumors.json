@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Which imaging feature would most strongly suggest a well-differentiated liposarcoma (ALT) over a simple benign lipoma?",
+      "choices": [
+        "A mass larger than 10 cm",
+        "Presence of minimal, wispy internal septations",
+        "Thickened or irregular septations with nodular enhancement",
+        "Signal intensity that perfectly follows fat on all sequences",
+        "Subcutaneous location in the forearm"
+      ],
+      "answer": "C",
+      "detail": "While a minority of lipomas contain wispy septations, thickened, irregular septations or nodular enhancing foci are findings that should raise concern for well-differentiated liposarcoma/ALT."
+    },
+    {
+      "number": 2,
+      "question": "A pathognomonic 'cable-like' or 'cord-like' appearance of a nerve on MRI due to fatty proliferation between fascicles is characteristic of:",
+      "choices": [
+        "Schwannoma",
+        "Neurofibroma",
+        "Fibrolipomatous hamartoma",
+        "Morton neuroma",
+        "Malignant peripheral nerve sheath tumor"
+      ],
+      "answer": "C",
+      "detail": "Fibrolipomatous hamartoma has a pathognomonic cable-like appearance due to fibroadipose tissue infiltrating the nerve fascicles, most commonly the median nerve."
+    },
+    {
+      "number": 3,
+      "question": "Elastofibroma dorsi is a benign reactive pseudotumor that characteristically arises in which location?",
+      "choices": [
+        "Adductor compartment of the thigh",
+        "Subscapular region deep to the latissimus dorsi",
+        "Palmar surface of the hand",
+        "Plantar aponeurosis of the foot",
+        "Posterior elements of the lumbar spine"
+      ],
+      "answer": "B",
+      "detail": "Elastofibroma dorsi classically presents as a crescentic-shaped mass with alternating fatty and fibrous striations in the infrascapular region, deep to the latissimus dorsi."
+    },
+    {
+      "number": 4,
+      "question": "The 'target sign' (central low T2 signal intensity) seen in a peripheral nerve sheath tumor represents:",
+      "choices": [
+        "A central region of necrosis",
+        "A fibrocollagenous core",
+        "A dense calcified nidus",
+        "Acute hemorrhage",
+        "Myxoid matrix"
+      ],
+      "answer": "B",
+      "detail": "The target sign reflects a central region of low T2 signal thought to be a fibrocollagenous core; while suggestive of benignity, it can also be seen in malignant variants."
+    },
+    {
+      "number": 5,
+      "question": "Which of the following statements correctly distinguishes a neurofibroma from a schwannoma on MRI?",
+      "choices": [
+        "Neurofibromas are encapsulated, while schwannomas are not.",
+        "Schwannomas involve the entire cross-section of the nerve.",
+        "Schwannomas are often eccentric to and separable from the parent nerve.",
+        "Neurofibromas never demonstrate the target sign.",
+        "Schwannomas are highly associated with NF1."
+      ],
+      "answer": "C",
+      "detail": "Schwannomas are typically eccentric to and separable from the nerve, whereas neurofibromas represent a fusiform expansion involving the entire cross-sectional area of the nerve."
+    },
+    {
+      "number": 6,
+      "question": "A 25-year-old presents with a large, T2-hyperintense mass near the knee joint that does not communicate with the joint space. What high-grade malignancy should be considered?",
+      "choices": [
+        "Lipoma arborescens",
+        "Synovial sarcoma",
+        "Myxoma",
+        "Morton neuroma",
+        "Plantar fibromatosis"
+      ],
+      "answer": "B",
+      "detail": "Synovial sarcoma is a high-grade tumor in young adults that often occurs in the vicinity of joints and typically appears isointense to fluid on T2W images, though it does not actually arise from synovial tissue."
+    },
+    {
+      "number": 7,
+      "question": "Which syndrome is characterized by the presence of multiple intramuscular myxomas and fibrous dysplasia?",
+      "choices": [
+        "Gardner syndrome",
+        "Mazabraud syndrome",
+        "Maffucci syndrome",
+        "McCune-Albright syndrome",
+        "Ollier disease"
+      ],
+      "answer": "B",
+      "detail": "Mazabraud syndrome is the clinical association of fibrous dysplasia with intramuscular myxomas."
+    },
+    {
+      "number": 8,
+      "question": "Desmoid fibromatosis is a benign but locally aggressive neoplasm that is classically associated with which condition?",
+      "choices": [
+        "Neurofibromatosis Type 1",
+        "Gardner syndrome",
+        "Maffucci syndrome",
+        "McCune-Albright syndrome",
+        "SAPHO syndrome"
+      ],
+      "answer": "B",
+      "detail": "Desmoid fibromatosis (commonly in the abdominal wall) is associated with Gardner syndrome, a colonic polyposis syndrome."
+    },
+    {
+      "number": 9,
+      "question": "A dumbbell-shaped, enhancing hypoechoic mass in the second or third intermetatarsal space of the foot is most likely a:",
+      "choices": [
+        "Plantar fibroma",
+        "Morton neuroma",
+        "Synovial sarcoma",
+        "Lipoma",
+        "Ganglioneuroma"
+      ],
+      "answer": "B",
+      "detail": "Morton neuroma is a benign fibrotic mass (not a true neuroma) classically found at the metatarsal heads in the second or third interspaces with a dumbbell shape."
+    },
+    {
+      "number": 10,
+      "question": "In a patient with Neurofibromatosis Type 1, any new or rapidly enlarging soft tissue mass should be investigated for:",
+      "choices": [
+        "Schwannoma",
+        "Malignant peripheral nerve sheath tumor (MPNST)",
+        "Lipoma",
+        "Nodular fasciitis",
+        "Myxoma"
+      ],
+      "answer": "B",
+      "detail": "MPNST is highly associated with NF1 (50% of cases), and any new or enlarging mass in these patients requires urgent investigation."
+    },
+    {
+      "number": 11,
+      "question": "The 'split fat pad sign' seen in soft tissue masses refers to:",
+      "choices": [
+        "A triangle of preserved fat at the proximal and distal margins of a neurogenic tumor.",
+        "Fat signal within the septations of an ALT.",
+        "Replacement of normal marrow fat by tumor.",
+        "Alternating bands of fat and fiber in elastofibroma dorsi.",
+        "A cutaneous ulcer overlying a lipoma."
+      ],
+      "answer": "A",
+      "detail": "The split fat pad sign is a feature suggestive of a neurogenic tumor, appearing as a triangle of preserved fat at its longitudinal margins."
+    },
+    {
+      "number": 12,
+      "question": "Myxoid liposarcoma is unique among adipocytic neoplasms because it typically appears:",
+      "choices": [
+        "Homogeneously T1 hyperintense",
+        "Homogeneously T2 hyperintense due to myxoid content",
+        "Sclerotic on plain film",
+        "Like a 'cauliflower' arising from the periosteum",
+        "Within the nerve fascicles"
+      ],
+      "answer": "B",
+      "detail": "Myxoid liposarcoma has high myxoid content, creating a characteristic relatively homogeneous hyperintense appearance on T2W images; fatty elements may not be visible."
+    },
+    {
+      "number": 13,
+      "question": "Which benign, rapidly growing soft tissue mass is often myxoid and can mimic a sarcoma on imaging?",
+      "choices": [
+        "Lipoma",
+        "Nodular fasciitis",
+        "Elastofibroma dorsi",
+        "Fibrolipomatous hamartoma",
+        "Morton neuroma"
+      ],
+      "answer": "B",
+      "detail": "Nodular fasciitis is a benign but rapidly growing lesion that can mimic sarcoma clinically and on imaging due to its T2 hyperintensity and enhancement."
+    },
+    {
+      "number": 14,
+      "question": "Undifferentiated pleomorphic sarcoma (UPS) was historically known as:",
+      "choices": [
+        "Malignant fibrous histiosarcoma",
+        "Fibrosarcoma",
+        "Osteosarcoma",
+        "Liposarcoma",
+        "Angiosarcoma"
+      ],
+      "answer": "A",
+      "detail": "UPS is a high-grade sarcoma historically referred to as malignant fibrous histiosarcoma."
+    },
+    {
+      "number": 15,
+      "question": "Macrodystrophia lipomatosa is a rare congenital gigantism (e.g., of a finger) associated with which tumor?",
+      "choices": [
+        "Lipoma",
+        "Fibrolipomatous hamartoma of nerve",
+        "Synovial sarcoma",
+        "Rhabdomyosarcoma",
+        "Desmoid fibromatosis"
+      ],
+      "answer": "B",
+      "detail": "Macrodystrophia lipomatosa is associated with fibrolipomatous hamartoma, causing localized overgrowth of fibroadipose tissue in a digit."
+    },
+    {
+      "number": 16,
+      "question": "Ledderhose disease refers to which specific condition?",
+      "choices": [
+        "Palmar fibromatosis",
+        "Plantar fibromatosis",
+        "Dupuytren contracture",
+        "Nodular fasciitis",
+        "Myxoid liposarcoma"
+      ],
+      "answer": "B",
+      "detail": "Plantar fibromatosis is also known as Ledderhose disease, whereas palmar fibromatosis is known as Dupuytren disease."
+    },
+    {
+      "number": 17,
+      "question": "Which modality is considered excellent for determining the need for biopsy in an enlarging mass in an NF1 patient?",
+      "choices": [
+        "Ultrasound",
+        "Radiography",
+        "PET-CT",
+        "Non-contrast CT",
+        "Bone scan"
+      ],
+      "answer": "C",
+      "detail": "In patients with NF1, PET-CT is an excellent modality to assess for metabolic activity and determine the need for biopsy of a suspected MPNST."
+    },
+    {
+      "number": 18,
+      "question": "A 'myxoma' is typically found within which tissue type?",
+      "choices": [
+        "Nerve sheath",
+        "Subcutaneous fat",
+        "Muscle",
+        "Joint synovium",
+        "Cortical bone"
+      ],
+      "answer": "C",
+      "detail": "Myxomas are benign tumors that typically occur within muscles and appear near-fluid signal intensity with minimal enhancement."
+    },
+    {
+      "number": 19,
+      "question": "Dermatofibrosarcoma protuberans (DFSP) is classified as an:",
+      "choices": [
+        "Intermediate-grade cutaneous malignancy",
+        "High-grade bone malignancy",
+        "Benign fatty tumor",
+        "High-grade muscle tumor",
+        "Non-neoplastic reactive mass"
+      ],
+      "answer": "A",
+      "detail": "DFSP is a slowly growing, intermediate-grade cutaneous malignancy presenting as a superficial skin nodule."
+    },
+    {
+      "number": 20,
+      "question": "When planning a biopsy for a soft tissue mass that may require surgical resection, why is close consultation with an orthopedic oncologist essential?",
+      "choices": [
+        "To reduce the risk of contrast reactions",
+        "To ensure the biopsy tract can be resected during definitive surgery",
+        "To maximize the radiation dose to the tumor",
+        "To prevent the use of spring-loaded devices",
+        "To avoid the use of ultrasound guidance"
+      ],
+      "answer": "B",
+      "detail": "Collaborative planning ensures the biopsy tract can be resected, reducing the risk of tumor tract seeding and contamination of additional compartments."
+    }
+  ]
+}

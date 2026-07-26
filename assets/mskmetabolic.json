@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "According to WHO criteria for post-menopausal women, what T-score on a DEXA scan defines a diagnosis of osteoporosis?",
+      "choices": [
+        "At or greater than –1.0",
+        "Between –1.0 and –2.5",
+        "At or less than –2.5",
+        "At or less than –3.0",
+        "A Z-score of –2.0 or lower"
+      ],
+      "answer": "C",
+      "detail": "For post-menopausal women and men over 50, osteoporosis is defined as a T-score of –2.5 or lower."
+    },
+    {
+      "number": 2,
+      "question": "Which radiographic sign is a pediatric manifestation of scurvy characterized by increased epiphyseal sclerosis?",
+      "choices": [
+        "Pelkin’s fracture",
+        "Frankel line",
+        "Wimberger ring sign",
+        "Trümmerfeld zone",
+        "Looser zone"
+      ],
+      "answer": "C",
+      "detail": "The Wimberger ring sign represents increased epiphyseal sclerosis due to disorganized ossification in pediatric scurvy."
+    },
+    {
+      "number": 3,
+      "question": "A 60-year-old patient presents with diffuse osteopenia and an incomplete linear lucency through the medial proximal femoral cortex. This specific finding is known as a:",
+      "choices": [
+        "Codman triangle",
+        "Looser zone",
+        "Romanus lesion",
+        "Rugger jersey line",
+        "Blade of grass"
+      ],
+      "answer": "B",
+      "detail": "Looser zones, or pseudofractures, are cortical stress fractures filled with poorly mineralized osteoid and are highly specific for osteomalacia."
+    },
+    {
+      "number": 4,
+      "question": "In contrast to all other inflammatory or degenerative arthropathies, which condition characteristically features early joint space widening?",
+      "choices": [
+        "Rheumatoid arthritis",
+        "Osteoarthritis",
+        "Acromegaly",
+        "Hemochromatosis",
+        "Amyloidosis"
+      ],
+      "answer": "C",
+      "detail": "Acromegaly causes early joint space widening due to articular cartilage hypertrophy before progressing to secondary osteoarthritis."
+    },
+    {
+      "number": 5,
+      "question": "Subperiosteal bone resorption occurring specifically at the radial aspects of the second and third middle phalanges is pathognomonic for:",
+      "choices": [
+        "Scurvy",
+        "Osteomalacia",
+        "Hyperparathyroidism",
+        "Paget disease",
+        "Renal osteodystrophy"
+      ],
+      "answer": "C",
+      "detail": "This specific pattern of subperiosteal resorption is a hallmark of hyperparathyroidism."
+    },
+    {
+      "number": 6,
+      "question": "Which radiographic sign of the spine describes sclerotic striping of the vertebral body endplates and is characteristic of renal osteodystrophy?",
+      "choices": [
+        "Picture frame vertebra",
+        "Ivory vertebra",
+        "Rugger jersey spine",
+        "H-shaped vertebra",
+        "Bamboo spine"
+      ],
+      "answer": "C",
+      "detail": "The rugger jersey spine describes symmetric endplate sclerosis at all levels, which is a classic feature of renal osteodystrophy."
+    },
+    {
+      "number": 7,
+      "question": "A short fourth or fifth metacarpal in a patient with obesity, round facies, and short stature is a classic finding for:",
+      "choices": [
+        "Turner syndrome",
+        "Scleroderma",
+        "Pseudohypoparathyroidism",
+        "Acromegaly",
+        "Gaucher disease"
+      ],
+      "answer": "C",
+      "detail": "Shortened fourth or fifth metacarpals are classic for both pseudohypoparathyroidism (PHP) and pseudo-pseudohypoparathyroidism (PPHP)."
+    },
+    {
+      "number": 8,
+      "question": "The 'blade of grass' or 'flame-shaped' margin in a long bone is an imaging hallmark of which phase of Paget disease?",
+      "choices": [
+        "Osteolytic phase (Phase I)",
+        "Mixed phase (Phase II)",
+        "Sclerotic phase (Phase III)",
+        "Malignant transformation",
+        "Secondary osteoarthritis"
+      ],
+      "answer": "A",
+      "detail": "The lytic phase of Paget disease progresses with a sharply marginated 'blade of grass' or 'flame-shaped' border."
+    },
+    {
+      "number": 9,
+      "question": "Which condition produces a 'picture frame' vertebral body due to cortical thickening of the entire periphery?",
+      "choices": [
+        "Renal osteodystrophy",
+        "Osteopetrosis",
+        "Mixed-phase Paget disease",
+        "Osteoblastic metastasis",
+        "Sickle cell disease"
+      ],
+      "answer": "C",
+      "detail": "Mixed-phase Paget disease thickens the cortex of the entire vertebral body periphery, creating a 'picture frame' appearance."
+    },
+    {
+      "number": 10,
+      "question": "In Paget disease, 'osteoporosis circumscripta' refers to a sharply marginated geographic lytic region in which location?",
+      "choices": [
+        "Distal femur",
+        "Iliac wing",
+        "Skull",
+        "Vertebral body",
+        "Proximal humerus"
+      ],
+      "answer": "C",
+      "detail": "Osteoporosis circumscripta is the characteristic appearance of the osteolytic phase (Phase I) of Paget disease in the skull."
+    },
+    {
+      "number": 11,
+      "question": "Which rare metabolic disorder results from a deficiency of osteoclastic carbonic anhydrase, leading to diffuse, brittle bone sclerosis?",
+      "choices": [
+        "Osteogenesis imperfecta",
+        "Osteopetrosis",
+        "Melorheostosis",
+        "Myelofibrosis",
+        "Mastocytosis"
+      ],
+      "answer": "B",
+      "detail": "Osteopetrosis is caused by a deficiency in osteoclastic resorptive ability, resulting in diffuse skeletal sclerosis."
+    },
+    {
+      "number": 12,
+      "question": "H-shaped (Lincoln-log) vertebral bodies, caused by endplate avascular necrosis, are most commonly associated with which two conditions?",
+      "choices": [
+        "Paget disease and Osteopetrosis",
+        "Sickle cell disease and Gaucher disease",
+        "Hyperparathyroidism and Thalassemia",
+        "Thalassemia and Myelofibrosis",
+        "Scurvy and Rickets"
+      ],
+      "answer": "B",
+      "detail": "Characteristic H-shaped vertebral bodies are created by endplate avascular necrosis in both Gaucher and sickle cell disease."
+    },
+    {
+      "number": 13,
+      "question": "Patients with sickle cell disease have a 100x increased risk of osteomyelitis, most frequently caused by which organism?",
+      "choices": [
+        "Staphylococcus aureus",
+        "Pseudomonas aeruginosa",
+        "Salmonella species",
+        "Mycobacterium tuberculosis",
+        "Streptococcus pneumoniae"
+      ],
+      "answer": "C",
+      "detail": "Salmonella species are a frequent and classic cause of osteomyelitis in the setting of sickle cell disease."
+    },
+    {
+      "number": 14,
+      "question": "Marrow expansion obliterating the paranasal sinuses and leading to 'rodent-like facies' is classic for:",
+      "choices": [
+        "Sickle cell disease",
+        "Gaucher disease",
+        "Thalassemia",
+        "Mastocytosis",
+        "Paget disease"
+      ],
+      "answer": "C",
+      "detail": "In thalassemia, severe marrow expansion can obliterate facial sinuses, resulting in rodent-like facies."
+    },
+    {
+      "number": 15,
+      "question": "Which clinical sign of the skull results from dramatic marrow expansion in both sickle cell disease and thalassemia?",
+      "choices": [
+        "Salt-and-pepper appearance",
+        "Cotton wool appearance",
+        "Hair-on-end striations",
+        "Beveled edge lesions",
+        "Tam O’Shanter skull"
+      ],
+      "answer": "C",
+      "detail": "Widening of the medullary cavity from chronic stimulation of red cell production causes 'hair-on-end' striations."
+    },
+    {
+      "number": 16,
+      "question": "The 'Erlenmeyer flask' deformity of long bones, caused by abnormal modeling, is characteristic of which two disorders?",
+      "choices": [
+        "Scurvy and Rickets",
+        "Gaucher disease and Thalassemia",
+        "Paget disease and Acromegaly",
+        "Osteopetrosis and Osteomalacia",
+        "Hyperparathyroidism and Hypothyroidism"
+      ],
+      "answer": "B",
+      "detail": "Abnormal modeling of long bones in Gaucher disease and thalassemia leads to the characteristic Erlenmeyer flask deformity."
+    },
+    {
+      "number": 17,
+      "question": "Thyroid acropachy is a rare cause of diaphyseal periosteal reaction classically involving which bones?",
+      "choices": [
+        "Femur and Tibia",
+        "Ribs and Sternum",
+        "Metacarpals and Phalanges",
+        "Vertebral bodies",
+        "Skull base"
+      ],
+      "answer": "C",
+      "detail": "Thyroid acropachy characteristically causes periosteal reactions in the metatarsals, metacarpals, and phalanges."
+    },
+    {
+      "number": 18,
+      "question": "Calcification of the basal ganglia and subcutaneous tissues is a common imaging feature of:",
+      "choices": [
+        "Hyperparathyroidism",
+        "Hypoparathyroidism",
+        "Acromegaly",
+        "Scurvy",
+        "Thalassemia"
+      ],
+      "answer": "B",
+      "detail": "Hypoparathyroidism is associated with metastatic calcium deposition, especially in subcutaneous tissues and the basal ganglia."
+    },
+    {
+      "number": 19,
+      "question": "A short fourth metacarpal is a known radiographic finding in which condition associated with a 45,X karyotype?",
+      "choices": [
+        "McCune-Albright syndrome",
+        "Turner syndrome",
+        "Gorlin syndrome",
+        "Down syndrome",
+        "Jeune syndrome"
+      ],
+      "answer": "B",
+      "detail": "A short fourth metacarpal is a characteristic finding in both Turner syndrome and pseudohypoparathyroidism."
+    },
+    {
+      "number": 20,
+      "question": "A 'cotton wool skull' appearance with patchy sclerosis throughout the calvarium is characteristic of which phase of Paget disease?",
+      "choices": [
+        "Osteolytic phase",
+        "Mixed lytic and sclerotic phase",
+        "Final sclerotic phase",
+        "Phase of malignant degeneration",
+        "Quiescent phase"
+      ],
+      "answer": "B",
+      "detail": "The 'cotton wool skull' is the hallmark of Phase II (the mixed phase) of Paget disease."
+    }
+  ]
+}

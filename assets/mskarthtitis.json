@@ -1,0 +1,589 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Which radiographic feature is a hallmark of conventional osteoarthritis and helps distinguish it from inflammatory arthritis?",
+      "choices": [
+        "Marginal erosions",
+        "Periarticular osteopenia",
+        "Symmetrical joint space narrowing",
+        "Subchondral sclerosis",
+        "Joint ankylosis"
+      ],
+      "answer": "D",
+      "detail": "Osteoarthritis is characterized by subchondral sclerosis due to reactive bone remodeling. It classically features a lack of periarticular osteopenia, which is a hallmark of inflammatory conditions like RA."
+    },
+    {
+      "number": 2,
+      "question": "In the hand, which joint is most commonly affected by conventional osteoarthritis?",
+      "choices": [
+        "Metacarpophalangeal (MCP) joints",
+        "Distal interphalangeal (DIP) joints",
+        "Proximal interphalangeal (PIP) joints",
+        "Radiocarpal joint",
+        "Midcarpal joint"
+      ],
+      "answer": "B",
+      "detail": "The order of involvement in hand OA is DIP joints > 1st CMC joint > PIP joints. Unlike RA, the MCP joints are typically spared in osteoarthritis."
+    },
+    {
+      "number": 3,
+      "question": "What is the characteristic radiographic appearance of erosive osteoarthritis in the DIP joints?",
+      "choices": [
+        "Pencil-in-cup deformity",
+        "Martini-glass appearance",
+        "Gull-wing appearance",
+        "Sausage digit",
+        "Hook-like osteophytes"
+      ],
+      "answer": "C",
+      "detail": "Central erosions combined with marginal osteophytes at the DIP joints create the classic 'gull-wing' appearance in erosive osteoarthritis."
+    },
+    {
+      "number": 4,
+      "question": "What is the most common pattern of femoral head migration in hip osteoarthritis?",
+      "choices": [
+        "Axial migration",
+        "Medial migration",
+        "Superolateral migration",
+        "Inferomedial migration",
+        "Concentric migration"
+      ],
+      "answer": "C",
+      "detail": "Hip OA most commonly causes superior-lateral cartilage space narrowing, leading to superolateral migration of the femoral head. Axial migration is more typical of Rheumatoid Arthritis."
+    },
+    {
+      "number": 5,
+      "question": "In rheumatoid arthritis, where do marginal erosions first occur?",
+      "choices": [
+        "Subchondral bone plate",
+        "Central articular surface",
+        "The 'bare area'",
+        "Enthesis sites",
+        "Diaphyseal cortex"
+      ],
+      "answer": "C",
+      "detail": "RA erosions first occur at the 'bare area,' which is a region of exposed bone within the joint capsule not covered by thick cartilage."
+    },
+    {
+      "number": 6,
+      "question": "Which radiographic finding is the earliest change associated with Rheumatoid Arthritis?",
+      "choices": [
+        "Marginal erosions",
+        "Joint subluxations",
+        "Soft-tissue swelling and periarticular osteopenia",
+        "Bony ankylosis",
+        "Subchondral cysts"
+      ],
+      "answer": "C",
+      "detail": "The earliest radiographic changes of RA are soft-tissue swelling and periarticular osteopenia, reflecting underlying synovitis and hyperemia."
+    },
+    {
+      "number": 7,
+      "question": "A patient with advanced RA presents with flexion at the PIP joint and hyperextension at the DIP joint. This is known as:",
+      "choices": [
+        "Swan neck deformity",
+        "Boutonnière deformity",
+        "Mallet finger",
+        "Gamekeeper's thumb",
+        "Jersey finger"
+      ],
+      "answer": "B",
+      "detail": "Boutonnière deformity is defined by PIP flexion and DIP hyperextension. Swan neck deformity is the opposite: PIP hyperextension and DIP flexion."
+    },
+    {
+      "number": 8,
+      "question": "What defines a 'protrusio deformity' in a female patient with severe hip RA?",
+      "choices": [
+        "Medial deviation of the femoral head >1 mm beyond the ilioischial line",
+        "Medial deviation of the femoral head >3 mm beyond the ilioischial line",
+        "Medial deviation of the femoral head >6 mm beyond the ilioischial line",
+        "Axial migration with preserved joint space",
+        "Lateral subluxation of the femoral head"
+      ],
+      "answer": "C",
+      "detail": "Protrusio deformity is defined as medial deviation >3 mm in males and >6 mm in females beyond the ilioischial line."
+    },
+    {
+      "number": 9,
+      "question": "What is the most common direction of atlantoaxial subluxation in Rheumatoid Arthritis?",
+      "choices": [
+        "Posterior",
+        "Vertical",
+        "Anterior",
+        "Rotatory",
+        "Lateral"
+      ],
+      "answer": "C",
+      "detail": "Anterior subluxation is the most common direction and is caused by inflammation and resultant laxity of the transverse ligament."
+    },
+    {
+      "number": 10,
+      "question": "Which finding in the spine is considered pathognomonic for degenerative disc change?",
+      "choices": [
+        "Endplate sclerosis",
+        "Osteophyte formation",
+        "Vacuum phenomenon",
+        "Disc space narrowing",
+        "Vertebral body remodeling"
+      ],
+      "answer": "C",
+      "detail": "The presence of gas in the intervertebral disc (vacuum phenomenon) is a classic sign of degenerative change."
+    },
+    {
+      "number": 11,
+      "question": "Unlike Rheumatoid Arthritis, Juvenile Idiopathic Arthritis (JIA) has a higher propensity for which finding in the wrist?",
+      "choices": [
+        "Marginal erosions",
+        "Periarticular osteopenia",
+        "Carpal ankylosis",
+        "Ulnar styloid erosion",
+        "Soft tissue swelling"
+      ],
+      "answer": "C",
+      "detail": "While late-stage RA may uncommonly cause ankylosis, JIA has a higher propensity for carpal ankylosis."
+    },
+    {
+      "number": 12,
+      "question": "In RA of the knee, which compartment is typically affected?",
+      "choices": [
+        "Medial tibiofemoral only",
+        "Lateral tibiofemoral only",
+        "Patellofemoral only",
+        "All three compartments symmetrically",
+        "Only the bare areas"
+      ],
+      "answer": "D",
+      "detail": "RA causes symmetrical cartilage space narrowing involving all three joint spaces in the knee. OA tends to first affect the medial compartment."
+    },
+    {
+      "number": 13,
+      "question": "Posterior atlantoaxial subluxation in a patient with RA is most likely due to:",
+      "choices": [
+        "Transverse ligament laxity",
+        "Alar ligament tear",
+        "Odontoid erosion",
+        "Facet joint fusion",
+        "Spinous process fracture"
+      ],
+      "answer": "C",
+      "detail": "While anterior subluxation is due to ligament laxity, posterior subluxation in RA is usually due to odontoid erosion."
+    },
+    {
+      "number": 14,
+      "question": "The 'outside-in' theory of RA pathogenesis suggests erosions begin where?",
+      "choices": [
+        "Inside the marrow",
+        "At the central articular cartilage",
+        "Just inside the synovium at the bare area",
+        "At the mid-diaphysis",
+        "In the subcutaneous tophi"
+      ],
+      "answer": "C",
+      "detail": "Synovial joint anatomy shows the bare area just inside the synovium is the site of first erosions in RA."
+    },
+    {
+      "number": 15,
+      "question": "Which hand joint is classically spared in Rheumatoid Arthritis?",
+      "choices": [
+        "MCPs",
+        "PIPs",
+        "DIPs",
+        "Carpals",
+        "Ulnar styloid"
+      ],
+      "answer": "C",
+      "detail": "RA commonly involves the MCPs, PIPs, and carpals, but the DIPs are usually spared."
+    },
+    {
+      "number": 16,
+      "question": "Which of the following conditions is associated with symmetric sacroiliitis?",
+      "choices": [
+        "Psoriatic arthritis",
+        "Reactive arthritis",
+        "Ankylosing spondylitis",
+        "Septic arthritis",
+        "Osteoarthritis"
+      ],
+      "answer": "C",
+      "detail": "Symmetric sacroiliitis is caused by Ankylosing Spondylitis (AS) and IBD-associated arthropathy (both start with vowels)."
+    },
+    {
+      "number": 17,
+      "question": "Asymmetric sacroiliitis is a hallmark of which condition?",
+      "choices": [
+        "IBD-associated arthropathy",
+        "Ankylosing spondylitis",
+        "Psoriatic arthritis",
+        "Rheumatoid arthritis",
+        "Osteoarthritis"
+      ],
+      "answer": "C",
+      "detail": "Asymmetric sacroiliitis is characteristic of Psoriatic Arthritis and Reactive Arthritis (both start with consonants)."
+    },
+    {
+      "number": 18,
+      "question": "A 'Romanus lesion' in ankylosing spondylitis refers to:",
+      "choices": [
+        "A syndesmophyte bridging two vertebrae",
+        "Sclerosis of the entire vertebral body",
+        "Erosion of the anterior superior margin of a vertebral body",
+        "Ossification of the posterior longitudinal ligament",
+        "Fusion of the facet joints"
+      ],
+      "answer": "C",
+      "detail": "A Romanus lesion is an erosion at the discovertebral junction; the subsequent sclerosis at this site is the 'shiny corner sign'."
+    },
+    {
+      "number": 19,
+      "question": "What is the classic radiographic sign of late-stage ankylosing spondylitis involving the spine?",
+      "choices": [
+        "Romanus lesions",
+        "Bamboo spine",
+        "Vacuum phenomenon",
+        "Rugger jersey spine",
+        "Picture frame vertebra"
+      ],
+      "answer": "B",
+      "detail": "The 'bamboo spine' appearance in AS is caused by thin, vertical, symmetric bridging syndesmophytes."
+    },
+    {
+      "number": 20,
+      "question": "In psoriatic arthritis, the radiographic hallmark in the hand is:",
+      "choices": [
+        "Reducible subluxations",
+        "Pencil-in-cup erosions",
+        "Periarticular osteopenia",
+        "Ulnar deviation without erosions",
+        "Symmetrical carpal narrowing"
+      ],
+      "answer": "B",
+      "detail": "Pencil-in-cup erosions, most common at the DIP joints, are a hallmark of psoriatic arthritis."
+    },
+    {
+      "number": 21,
+      "question": "A 'sausage digit' is a characteristic radiographic finding for:",
+      "choices": [
+        "Rheumatoid arthritis",
+        "Gout",
+        "Psoriatic arthritis",
+        "Systemic lupus erythematosus",
+        "Osteoarthritis"
+      ],
+      "answer": "C",
+      "detail": "Diffuse soft-tissue swelling of an entire digit produces the characteristic sausage digit in psoriatic arthritis."
+    },
+    {
+      "number": 22,
+      "question": "Reactive arthropathy (formerly Reiter disease) predominantly affects which area?",
+      "choices": [
+        "Cervical spine",
+        "Hands",
+        "Feet",
+        "Hips",
+        "Shoulders"
+      ],
+      "answer": "C",
+      "detail": "Reactive arthropathy predominantly affects the feet, often involving the calcaneus with fluffy periosteal reaction and enthesophytes."
+    },
+    {
+      "number": 23,
+      "question": "What is the key radiographic finding of Systemic Lupus Erythematosus (SLE) in the hands?",
+      "choices": [
+        "Aggressive marginal erosions",
+        "Reducible subluxations in the absence of erosive change",
+        "Periarticular calcification",
+        "Tuft resorption",
+        "Sausage digits"
+      ],
+      "answer": "B",
+      "detail": "SLE is characterized by reducible subluxations (often swan neck deformities) without erosions, distinguishing it from RA."
+    },
+    {
+      "number": 24,
+      "question": "Which condition is characterized by intramuscular and subcutaneous soft-tissue calcifications?",
+      "choices": [
+        "Psoriatic arthritis",
+        "Rheumatoid arthritis",
+        "Polymyositis",
+        "Gout",
+        "Osteoarthritis"
+      ],
+      "answer": "C",
+      "detail": "The imaging hallmark of Polymyositis and Dermatomyositis is extensive soft-tissue calcification, particularly intramuscular."
+    },
+    {
+      "number": 25,
+      "question": "Acro-osteolysis (distal tuft resorption) combined with soft tissue calcification is characteristic of:",
+      "choices": [
+        "Rheumatoid arthritis",
+        "Scleroderma",
+        "Gout",
+        "CPPD",
+        "Ankylosing spondylitis"
+      ],
+      "answer": "B",
+      "detail": "Scleroderma typically presents with acro-osteolysis and soft tissue calcification."
+    },
+    {
+      "number": 26,
+      "question": "The 'main-en-lorgnette' or opera-glass hand deformity is a severe manifestation of:",
+      "choices": [
+        "Still disease",
+        "Osteoarthritis",
+        "Psoriatic arthritis mutilans",
+        "Reactive arthropathy",
+        "Hemophilia"
+      ],
+      "answer": "C",
+      "detail": "This severe variant causes marked deformity and telescoping digits, also known as opera-glass hand."
+    },
+    {
+      "number": 27,
+      "question": "Symmetrical erosions and widening of the SI joints in a young man with back stiffness is the earliest sign of:",
+      "choices": [
+        "RA",
+        "AS",
+        "Psoriatic arthritis",
+        "Gout",
+        "Septic arthritis"
+      ],
+      "answer": "B",
+      "detail": "Ankylosing spondylitis (AS) predominantly affects young men and presents with early symmetric SI joint changes."
+    },
+    {
+      "number": 28,
+      "question": "Which inflammatory arthritis is thought to be a sequela of infectious diarrhea or urethritis?",
+      "choices": [
+        "RA",
+        "Reactive arthropathy",
+        "Psoriatic arthritis",
+        "AS",
+        "SLE"
+      ],
+      "answer": "B",
+      "detail": "Reactive arthropathy is thought to follow specific gastrointestinal or genitourinary infections."
+    },
+    {
+      "number": 29,
+      "question": "The 'dagger sign' in the spine is associated with which condition?",
+      "choices": [
+        "RA",
+        "AS",
+        "DISH",
+        "OA",
+        "SLE"
+      ],
+      "answer": "B",
+      "detail": "The dagger sign is associated with Ankylosing Spondylitis due to ossification of the interspinous ligaments."
+    },
+    {
+      "number": 30,
+      "question": "Unilateral sacroiliitis should raise immediate suspicion for:",
+      "choices": [
+        "AS",
+        "Psoriatic arthritis",
+        "Septic arthritis",
+        "RA",
+        "Reactive arthritis"
+      ],
+      "answer": "C",
+      "detail": "An important cause of unilateral sacroiliitis is septic arthritis, particularly in immunocompromised patients or IV drug users."
+    },
+    {
+      "number": 31,
+      "question": "Which radiographic finding is the hallmark of Calcium Pyrophosphate Deposition (CPPD) disease?",
+      "choices": [
+        "Marginal erosions",
+        "Chondrocalcinosis",
+        "Periarticular osteopenia",
+        "Sausage digit",
+        "Subchondral sclerosis"
+      ],
+      "answer": "B",
+      "detail": "Chondrocalcinosis (calcification of hyaline or fibrocartilage) is the hallmark of CPPD."
+    },
+    {
+      "number": 32,
+      "question": "In CPPD of the hand, where are hook-like osteophytes typically located?",
+      "choices": [
+        "Ulnar aspect of the 5th MCP",
+        "Radial aspect of the 2nd and 3rd metacarpal heads",
+        "Distal aspect of the PIP joints",
+        "Base of the 1st CMC joint",
+        "Volar aspect of the DIP joints"
+      ],
+      "answer": "B",
+      "detail": "CPPD characteristically produces hook-like osteophytes from the radial aspect of the 2nd and 3rd metacarpal heads."
+    },
+    {
+      "number": 33,
+      "question": "Advanced CPPD arthritis in the wrist can lead to which pattern of carpal instability?",
+      "choices": [
+        "DISI",
+        "VISI",
+        "SLAC arthropathy",
+        "Ulnar translocation",
+        "Pan-carpal ankylosis"
+      ],
+      "answer": "C",
+      "detail": "Advanced CPP arthritis features fragmentation of the scaphoid and proximal migration of the capitate, resulting in SLAC arthropathy."
+    },
+    {
+      "number": 34,
+      "question": "Gouty erosions are classically described as:",
+      "choices": [
+        "Central with a 'gull-wing' appearance",
+        "Marginal with 'pencil-in-cup' deformity",
+        "Juxta-articular with 'overhanging edges'",
+        "Intramedullary with 'sunburst' reaction",
+        "Diffuse with 'bamboo' appearance"
+      ],
+      "answer": "C",
+      "detail": "Gout produces juxta-articular erosions with overhanging edges (tophi) while often preserving joint space until late stages."
+    },
+    {
+      "number": 35,
+      "question": "What is the 'double contour sign' on ultrasound indicative of?",
+      "choices": [
+        "CPPD",
+        "Gout",
+        "RA",
+        "Septic arthritis",
+        "OA"
+      ],
+      "answer": "B",
+      "detail": "The double contour sign represents urate crystals deposited on the hyperechoic cartilage surface."
+    },
+    {
+      "number": 36,
+      "question": "Milwaukee shoulder is a destructive arthritis characterized by the deposition of which crystal?",
+      "choices": [
+        "Calcium pyrophosphate dihydrate",
+        "Monosodium urate",
+        "Calcium hydroxyapatite",
+        "Cholesterol",
+        "Iron"
+      ],
+      "answer": "C",
+      "detail": "Milwaukee shoulder is a rare intra-articular variant of calcium hydroxyapatite deposition leading to rapid shoulder destruction."
+    },
+    {
+      "number": 37,
+      "question": "Which arthropathy features joint space widening in its early stages due to cartilage hypertrophy?",
+      "choices": [
+        "Hemochromatosis",
+        "Acromegaly",
+        "Amyloidosis",
+        "Sarcoidosis",
+        "JIA"
+      ],
+      "answer": "B",
+      "detail": "In contrast to all other arthropathies, acromegaly causes early joint space widening."
+    },
+    {
+      "number": 38,
+      "question": "The 'shoulder-pad sign' is a clinical finding associated with:",
+      "choices": [
+        "Sarcoidosis",
+        "Scleroderma",
+        "Amyloid arthropathy",
+        "Hemophilic arthropathy",
+        "Psoriatic arthritis"
+      ],
+      "answer": "C",
+      "detail": "Bulky soft-tissue nodules in the shoulder superimposed on atrophic muscles produce the shoulder-pad sign."
+    },
+    {
+      "number": 39,
+      "question": "What is a characteristic radiographic finding of hemophilic arthropathy in the elbow?",
+      "choices": [
+        "Enlarged radial head and widened trochlear notch",
+        "Marginal erosions of the olecranon",
+        "Subchondral cysts of the coronoid process",
+        "Chondrocalcinosis of the annular ligament",
+        "Radial head subluxation"
+      ],
+      "answer": "A",
+      "detail": "Chronic articular hyperemia in hemophilia leads to characteristic overgrowth changes like an enlarged radial head and widened trochlear notch."
+    },
+    {
+      "number": 40,
+      "question": "Which joint is most commonly affected by the hypertrophic variant of neuropathic arthropathy in diabetic patients?",
+      "choices": [
+        "Shoulder",
+        "Hip",
+        "Knee",
+        "Foot and ankle",
+        "Wrist"
+      ],
+      "answer": "D",
+      "detail": "Diabetes-related neuropathic arthropathy (Charcot joint) typically affects the foot and ankle."
+    },
+    {
+      "number": 41,
+      "question": "The atrophic variant of neuropathic arthropathy, featuring humeral head resorption, is classically associated with:",
+      "choices": [
+        "Diabetes",
+        "Syringomyelia",
+        "Amyloidosis",
+        "Alcohol abuse",
+        "Leprosy"
+      ],
+      "answer": "B",
+      "detail": "The atrophic variant of neuropathic arthropathy in the shoulder is classic for syringomyelia."
+    },
+    {
+      "number": 42,
+      "question": "Primary synovial osteochondromatosis is characterized by intra-articular bodies that are:",
+      "choices": [
+        "Varied in size and shape",
+        "Numerous and similar in size/shape",
+        "Always non-ossified",
+        "Located only in the small joints of the hand",
+        "Associated with rapid joint destruction"
+      ],
+      "answer": "B",
+      "detail": "The hallmark of primary synovial osteochondromatosis is multiple bodies of similar size and shape, whereas those in OA are fewer and varied."
+    },
+    {
+      "number": 43,
+      "question": "Which finding distinguishes diabetic foot osteomyelitis from Charcot arthropathy?",
+      "choices": [
+        "Marrow edema on MRI",
+        "Bony cortex disruption and presence of a sinus tract",
+        "Polyarticular involvement",
+        "Location in the midfoot",
+        "Joint space narrowing"
+      ],
+      "answer": "B",
+      "detail": "Osteomyelitis is almost always associated with a cutaneous ulcer and sinus tract, whereas Charcot joints usually have an intact cortex."
+    },
+    {
+      "number": 44,
+      "question": "In a patient with an acute mono-articular arthritis, which fluid WBC count is 92% specific for septic arthritis?",
+      "choices": [
+        ">10,000",
+        ">25,000",
+        ">50,000",
+        ">100,000",
+        ">200,000"
+      ],
+      "answer": "C",
+      "detail": "A fluid WBC count of >50,000 is highly specific (92%) for septic arthritis."
+    },
+    {
+      "number": 45,
+      "question": " 'Spadelike' enlargement of the terminal tufts of the distal phalanges is characteristic of:",
+      "choices": [
+        "Psoriatic arthritis",
+        "Acromegaly",
+        "RA",
+        "SLE",
+        "Scleroderma"
+      ],
+      "answer": "B",
+      "detail": "Excess growth hormone in acromegaly leads to characteristic spadelike enlargement of the distal tufts."
+    }
+  ]
+}

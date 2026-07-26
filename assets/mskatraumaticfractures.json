@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "A 75-year-old female with known osteoporosis presents with a sacral fracture after sitting down forcefully. This injury is best described as:",
+      "choices": [
+        "Fatigue fracture",
+        "Pathologic fracture",
+        "Insufficiency fracture",
+        "Fragility fracture",
+        "Atypical fracture"
+      ],
+      "answer": "C",
+      "detail": "An insufficiency fracture is specifically defined as the failure of abnormal bone, weakened by metabolic processes like osteoporosis, when subjected to normal physiological stress."
+    },
+    {
+      "number": 2,
+      "question": "A 22-year-old marathon runner presents with localized tibial pain. MRI shows periosteal reaction and marrow edema but no discrete cortical line. By definition, this 'abnormal stress on normal bone' is a:",
+      "choices": [
+        "Pathologic fracture",
+        "Fatigue fracture",
+        "Fragility fracture",
+        "Atypical fracture",
+        "Segmental fracture"
+      ],
+      "answer": "B",
+      "detail": "A fatigue fracture, often used synonymously with 'stress fracture,' occurs when normal bone is subjected to repetitive submaximal force."
+    },
+    {
+      "number": 3,
+      "question": "Which of the following is a major diagnostic criterion for an 'atypical femoral fracture'?",
+      "choices": [
+        "Location in the medial femoral neck",
+        "Associated with high-velocity trauma",
+        "Origin in the lateral subtrochanteric cortex",
+        "Presence of a 'fallen-fragment sign'",
+        "Highly comminuted fracture pattern"
+      ],
+      "answer": "C",
+      "detail": "Atypical femoral fractures are a distinct type of insufficiency fracture that characteristically originate in the lateral subtrochanteric (proximal diaphyseal) cortex."
+    },
+    {
+      "number": 4,
+      "question": "A patient on long-term bisphosphonate therapy presents with thigh pain. Radiographs reveal focal cortical thickening of the lateral subtrochanteric cortex. What is the most appropriate next step in imaging?",
+      "choices": [
+        "Triple-phase bone scan",
+        "Radiograph of the contralateral femur",
+        "Ultrasound of the soft tissues",
+        "CT of the pelvis",
+        "MRI of the knee"
+      ],
+      "answer": "B",
+      "detail": "Because atypical femoral fractures associated with bisphosphonate use are bilateral in a significant number of patients, imaging the contralateral femur is a necessary next step."
+    },
+    {
+      "number": 5,
+      "question": "An isolated fracture of the lesser trochanter in an adult patient should be considered which of the following until proven otherwise?",
+      "choices": [
+        "Fatigue fracture",
+        "Pathologic fracture",
+        "Avulsion fracture of the sartorius",
+        "Atypical femoral fracture",
+        "Normal variant"
+      ],
+      "answer": "B",
+      "detail": "In the adult population, an isolated fracture of the lesser trochanter is a red flag for a pathologic fracture, often indicating an underlying malignancy."
+    }
+  ]
+}

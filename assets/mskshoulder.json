@@ -1,0 +1,524 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Which radiographic view is obtained in 40° of external rotation and is best for demonstrating glenohumeral joint space narrowing in profile?",
+      "choices": [
+        "Axillary view",
+        "West Point view",
+        "Grashey view",
+        "Stryker notch view",
+        "Transscapular Y view"
+      ],
+      "answer": "C",
+      "detail": "The Grashey view shows the glenohumeral joint in profile, making it the most sensitive view for detecting cartilage space narrowing in shoulder osteoarthritis."
+    },
+    {
+      "number": 2,
+      "question": "The 'atrophic variant' of neuropathic arthropathy in the shoulder is highly associated with which underlying condition?",
+      "choices": [
+        "Diabetes mellitus",
+        "Syringomyelia",
+        "Amyloidosis",
+        "Leprosy",
+        "Chronic alcoholism"
+      ],
+      "answer": "B",
+      "detail": "The atrophic variant features sharp resorption of the humeral head and is classically associated with syringomyelia, which should be confirmed with a cervical spine MRI."
+    },
+    {
+      "number": 3,
+      "question": "Which rotator cuff muscle is the only one that inserts on the lesser tuberosity of the humerus?",
+      "choices": [
+        "Supraspinatus",
+        "Infraspinatus",
+        "Teres minor",
+        "Subscapularis",
+        "Long head of the biceps"
+      ],
+      "answer": "D",
+      "detail": "The subscapularis inserts on the lesser tuberosity, whereas the supraspinatus, infraspinatus, and teres minor all insert on the greater tuberosity."
+    },
+    {
+      "number": 4,
+      "question": "What is the normal measurement for the coracoclavicular (CC) distance in an adult shoulder?",
+      "choices": [
+        "<5 mm",
+        "<8 mm",
+        "<11–13 mm",
+        "<15–20 mm",
+        "<25 mm"
+      ],
+      "answer": "C",
+      "detail": "While there is wide variation, the CC distance is typically less than 11–13 mm; side-to-side asymmetry of more than 50% is considered abnormal."
+    },
+    {
+      "number": 5,
+      "question": "A Grade III acromioclavicular (AC) joint injury involves disruption of both the AC and CC ligaments with how much widening of the CC space?",
+      "choices": [
+        "<25%",
+        "25–100%",
+        "100–300%",
+        "Greater than 300%",
+        "Inferior displacement"
+      ],
+      "answer": "B",
+      "detail": "Grade III AC injuries involve complete disruption of both the AC and CC ligament complexes with 25–100% widening of the CC space."
+    },
+    {
+      "number": 6,
+      "question": "Which rotator cuff tendon is most commonly affected by calcific tendinopathy?",
+      "choices": [
+        "Subscapularis",
+        "Infraspinatus",
+        "Teres minor",
+        "Supraspinatus",
+        "Long head of the biceps"
+      ],
+      "answer": "D",
+      "detail": "The supraspinatus tendon is the most frequent site for calcific tendinopathy in the shoulder."
+    },
+    {
+      "number": 7,
+      "question": "Milwaukee shoulder is a destructive arthritis caused by the intra-articular deposition of which crystal?",
+      "choices": [
+        "Monosodium urate",
+        "Calcium pyrophosphate dihydrate",
+        "Calcium hydroxyapatite",
+        "Cholesterol",
+        "Calcium oxalate"
+      ],
+      "answer": "C",
+      "detail": "Milwaukee shoulder is a rare, aggressive arthritis characterized by the deposition of calcium hydroxyapatite crystals, leading to rapid joint and rotator cuff destruction."
+    },
+    {
+      "number": 8,
+      "question": "On a shoulder MR arthrogram, the presence of contrast within the subacromial-subdeltoid bursa is diagnostic of:",
+      "choices": [
+        "Adhesive capsulitis",
+        "A partial articular-surface tear",
+        "A full-thickness rotator cuff tear",
+        "Subcoracoid impingement",
+        "A normal variant"
+      ],
+      "answer": "C",
+      "detail": "Because the subacromial-subdeltoid bursa does not normally communicate with the glenohumeral joint, the presence of contrast within it indicates a full-thickness tear."
+    },
+    {
+      "number": 9,
+      "question": "The bursa located between the subscapularis muscle and the anterior surface of the scapula is the:",
+      "choices": [
+        "Subacromial bursa",
+        "Subdeltoid bursa",
+        "Subcoracoid bursa",
+        "Subscapular bursa",
+        "Adventitial bursa"
+      ],
+      "answer": "D",
+      "detail": "The subscapular bursa sits between the scapula and subscapularis, whereas the subcoracoid bursa sits between the subscapularis and the coracoid process."
+    },
+    {
+      "number": 10,
+      "question": "Primary external impingement of the rotator cuff is most commonly caused by anatomical variations in the:",
+      "choices": [
+        "Glenoid labrum",
+        "Coracoacromial arch",
+        "Anatomical neck of the humerus",
+        "Surgical neck of the humerus",
+        "Quadrangular space"
+      ],
+      "answer": "B",
+      "detail": "Variations in the coracoacromial arch, such as a hooked acromion or subacromial enthesophytes, are the most common causes of primary external impingement."
+    },
+    {
+      "number": 11,
+      "question": "Which MRI plane is best for identifying an os acromiale?",
+      "choices": [
+        "Coronal",
+        "Sagittal",
+        "Axial",
+        "Oblique-coronal",
+        "Oblique-sagittal"
+      ],
+      "answer": "C",
+      "detail": "Axial images are most effective for identifying an os acromiale, which is a persistent accessory ossification center of the acromion."
+    },
+    {
+      "number": 12,
+      "question": "The 'critical zone' of the supraspinatus tendon, prone to rupture due to decreased vascularity, is located approximately how far from its insertion?",
+      "choices": [
+        "1 mm",
+        "5 mm",
+        "1 cm",
+        "2 cm",
+        "3 cm"
+      ],
+      "answer": "C",
+      "detail": "This undervascularized region is located approximately 1 cm proximal to the tendon's insertion on the greater tuberosity."
+    },
+    {
+      "number": 13,
+      "question": "What does a PAINT lesion represent on shoulder MRI?",
+      "choices": [
+        "Full-thickness tear with retraction",
+        "Partial articular tear with intratendinous extension",
+        "Partial bursal surface tear",
+        "Calcific tendinopathy with bursal rupture",
+        "Fatty atrophy of the infraspinatus"
+      ],
+      "answer": "B",
+      "detail": "PAINT stands for Partial Articular tear with Intratendinous extension."
+    },
+    {
+      "number": 14,
+      "question": "In the Goutallier classification for fatty muscle atrophy, Grade 3 is defined as:",
+      "choices": [
+        "Normal muscle with no fat",
+        "Muscle containing a few fatty streaks",
+        "More muscle than fat",
+        "Equal amounts of muscle and fat",
+        "More fat than muscle"
+      ],
+      "answer": "D",
+      "detail": "Grade 3 atrophy indicates that the muscle contains equal amounts of muscle and fat."
+    },
+    {
+      "number": 15,
+      "question": "Superior migration of the humeral head is a classic late imaging feature of chronic full-thickness tears seen in:",
+      "choices": [
+        "Osteoarthritis",
+        "CPPD",
+        "Rheumatoid Arthritis",
+        "Gout",
+        "Adhesive capsulitis"
+      ],
+      "answer": "C",
+      "detail": "Chronic full-thickness rotator cuff tears, common in advanced Rheumatoid Arthritis, lead to superior migration of the humeral head."
+    },
+    {
+      "number": 16,
+      "question": "Which ligament is the most important static stabilizer of the shoulder in abduction and external rotation?",
+      "choices": [
+        "Superior glenohumeral ligament (SGHL)",
+        "Middle glenohumeral ligament (MGHL)",
+        "Inferior glenohumeral ligament (IGHL)",
+        "Coracohumeral ligament (CHL)",
+        "Coracoacromial ligament (CAL)"
+      ],
+      "answer": "C",
+      "detail": "The IGHL, particularly its anterior band, is the primary static stabilizer when the shoulder is abducted and externally rotated."
+    },
+    {
+      "number": 17,
+      "question": "The 'rotator interval' is a triangular region containing which three structures?",
+      "choices": [
+        "Supraspinatus, Infraspinatus, and CHL",
+        "CHL, Long head of biceps tendon (LHBT), and SGHL",
+        "SGHL, MGHL, and Subscapularis",
+        "LHBT, MGHL, and IGHL",
+        "Supraspinatus, Subscapularis, and MGHL"
+      ],
+      "answer": "B",
+      "detail": "The rotator interval, located between the supraspinatus and subscapularis, contains the CHL, LHBT, and SGHL."
+    },
+    {
+      "number": 18,
+      "question": "Thickening and edema of the IGHL to what measurement is suggestive of adhesive capsulitis?",
+      "choices": [
+        ">1 mm",
+        ">2 mm",
+        ">3 mm",
+        ">4 mm",
+        ">6 mm"
+      ],
+      "answer": "D",
+      "detail": "Thickening and enhancement of the IGHL (>4 mm) are MRI findings that support a clinical diagnosis of adhesive capsulitis (frozen shoulder)."
+    },
+    {
+      "number": 19,
+      "question": "Which three structures form the 'biceps pulley' to stabilize the long head of the biceps tendon?",
+      "choices": [
+        "SGHL, CHL, and distal subscapularis fibers",
+        "MGHL, IGHL, and supraspinatus fibers",
+        "SGHL, MGHL, and teres minor fibers",
+        "CHL, CAL, and infraspinatus fibers",
+        "IGHL and the posterior joint capsule"
+      ],
+      "answer": "A",
+      "detail": "These structures form a functional sling to stabilize the long head of the biceps within the bicipital groove."
+    },
+    {
+      "number": 20,
+      "question": "In the 'TUBS' acronym for traumatic shoulder instability, what does the 'B' stand for?",
+      "choices": [
+        "Bicep",
+        "Bony",
+        "Bankart",
+        "Bilateral",
+        "Brachial"
+      ],
+      "answer": "C",
+      "detail": "TUBS stands for Traumatic, Unidirectional, Bankart, and Surgical, describing the typical pattern of traumatic anterior instability."
+    },
+    {
+      "number": 21,
+      "question": "Which acronym describes acquired shoulder instability due to repetitive overstress in athletes?",
+      "choices": [
+        "TUBS",
+        "AMBRI",
+        "AIOS",
+        "SLAP",
+        "GLAD"
+      ],
+      "answer": "C",
+      "detail": "AIOS stands for Acquired, Instability, Overstress, and Surgery."
+    },
+    {
+      "number": 22,
+      "question": "An impaction fracture of the posterolateral humeral head caused by an anterior-inferior dislocation is known as a:",
+      "choices": [
+        "Bankart lesion",
+        "Hill-Sachs lesion",
+        "Trough sign",
+        "Bennett lesion",
+        "HAGL lesion"
+      ],
+      "answer": "B",
+      "detail": "A Hill-Sachs lesion occurs when the posterolateral humeral head strikes the anterior-inferior glenoid margin during a dislocation event."
+    },
+    {
+      "number": 23,
+      "question": "Posterior shoulder dislocations are classically associated with which clinical events?",
+      "choices": [
+        "Repetitive throwing",
+        "Seizures or electrocution",
+        "Falling on an outstretched hand",
+        "Downward blows to the lateral shoulder",
+        "Genetic joint laxity"
+      ],
+      "answer": "B",
+      "detail": "Severe muscle spasms during seizures or electrocution can force the humeral head to dislocate posteriorly."
+    },
+    {
+      "number": 24,
+      "question": "The 'lightbulb sign' and the 'trough sign' (reverse Hill-Sachs) are radiographic indicators of which injury?",
+      "choices": [
+        "Anterior dislocation",
+        "Posterior dislocation",
+        "Multidirectional instability",
+        "AC joint separation",
+        "Adhesive capsulitis"
+      ],
+      "answer": "B",
+      "detail": "The lightbulb sign results from fixed internal rotation, while the trough sign is an impaction fracture of the anteromedial humeral head."
+    },
+    {
+      "number": 25,
+      "question": "A 'Bankart lesion' is defined as detachment of the anteroinferior labrum with:",
+      "choices": [
+        "Avulsion of the superior labrum",
+        "Stripping of the scapular periosteum",
+        "Intact scapular periosteum",
+        "Ossification of the labrum",
+        "Isolated cartilage damage"
+      ],
+      "answer": "B",
+      "detail": "A Bankart lesion involves anteroinferior labral detachment and stripping of the scapular periosteum; if the periosteum is intact, it is termed a Perthes or ALPSA lesion."
+    },
+    {
+      "number": 26,
+      "question": "Which labral lesion involves an avulsed anteroinferior labrum displaced inferomedially while the scapular periosteum remains intact?",
+      "choices": [
+        "GLOM sign",
+        "ALPSA lesion",
+        "Perthes lesion",
+        "HAGL lesion",
+        "GLAD lesion"
+      ],
+      "answer": "B",
+      "detail": "ALPSA stands for Anterior Labro-ligamentous Periosteal Sleeve Avulsion."
+    },
+    {
+      "number": 27,
+      "question": "Visualizing a Perthes lesion often requires which specific positioning during MR arthrography?",
+      "choices": [
+        "Internal rotation",
+        "External rotation",
+        "ABER (abduction-external rotation)",
+        "Traction",
+        "Prone positioning"
+      ],
+      "answer": "C",
+      "detail": "ABER positioning stresses the labrum and helps unmask labral detachment from the periosteum."
+    },
+    {
+      "number": 28,
+      "question": "HAGL refers to the avulsion of which structure from the humerus?",
+      "choices": [
+        "Anterior glenoid labrum",
+        "Supraspinatus footprint",
+        "Inferior glenohumeral ligament (IGHL)",
+        "Middle glenohumeral ligament (MGHL)",
+        "Superior labrum"
+      ],
+      "answer": "C",
+      "detail": "HAGL stands for Humeral Avulsion of the Glenohumeral Ligament (specifically the IGHL)."
+    },
+    {
+      "number": 29,
+      "question": "A 'GLAD' lesion consists of a superficial anteroinferior labral tear combined with:",
+      "choices": [
+        "Disruption of the CC ligaments",
+        "Adjacent glenoid articular cartilage injury",
+        "A Hill-Sachs fracture",
+        "Stripping of the scapular periosteum",
+        "Biceps tendon retraction"
+      ],
+      "answer": "B",
+      "detail": "GLAD stands for Glenoid Labral Articular Disruption; it is usually not associated with instability."
+    },
+    {
+      "number": 30,
+      "question": "The 'Buford complex' is a normal variant characterized by:",
+      "choices": [
+        "Absent anterosuperior labrum and a cord-like MGHL",
+        "Sublabral foramen and a thickened SGHL",
+        "Double-layered posterior labrum",
+        "Communication between joint and subacromial bursa",
+        "Ossification of the coracoacromial ligament"
+      ],
+      "answer": "A",
+      "detail": "The Buford complex is a common normal variant that should not be mistaken for a labral tear."
+    },
+    {
+      "number": 31,
+      "question": "Entrapment of the suprascapular nerve at the suprascapular notch results in atrophy of which muscle(s)?",
+      "choices": [
+        "Supraspinatus only",
+        "Infraspinatus only",
+        "Both Supraspinatus and Infraspinatus",
+        "Teres minor and Deltoid",
+        "Subscapularis and Teres major"
+      ],
+      "answer": "C",
+      "detail": "Because the suprascapular notch is proximal to the nerve branches for both muscles, entrapment there affects both."
+    },
+    {
+      "number": 32,
+      "question": "Isolated atrophy of the infraspinatus muscle suggests nerve entrapment at which location?",
+      "choices": [
+        "Suprascapular notch",
+        "Spinoglenoid notch",
+        "Quadrilateral space",
+        "Rotator interval",
+        "Bicipital groove"
+      ],
+      "answer": "B",
+      "detail": "The nerve branch for the infraspinatus travels through the spinoglenoid notch after the supraspinatus branch has already exited."
+    },
+    {
+      "number": 33,
+      "question": "Which muscle forms the superior border of the quadrilateral space?",
+      "choices": [
+        "Humerus",
+        "Long head of triceps",
+        "Teres minor",
+        "Teres major",
+        "Subscapularis"
+      ],
+      "answer": "C",
+      "detail": "The borders of the quadrilateral space are: Teres minor (superior), Teres major (inferior), Long head of triceps (medial), and Humerus (lateral)."
+    },
+    {
+      "number": 34,
+      "question": "Axillary nerve entrapment in the quadrilateral space characteristically causes atrophy in which muscle?",
+      "choices": [
+        "Infraspinatus",
+        "Supraspinatus",
+        "Teres minor",
+        "Teres major",
+        "Subscapularis"
+      ],
+      "answer": "C",
+      "detail": "The axillary nerve innervates the teres minor and deltoid; atrophy in these muscles suggests quadrilateral space syndrome."
+    },
+    {
+      "number": 35,
+      "question": "What is Parsonage-Turner syndrome?",
+      "choices": [
+        "Chronic mechanical impingement",
+        "Idiopathic brachial neuropathy",
+        "Post-traumatic fatty degeneration",
+        "Congenital nerve agenesis",
+        "Malignant nerve sheath tumor"
+      ],
+      "answer": "B",
+      "detail": "Parsonage-Turner is an idiopathic condition of the brachial plexus and is a diagnosis of exclusion for rotator cuff atrophy."
+    },
+    {
+      "number": 36,
+      "question": "A 'Bennett lesion' is an extra-articular posterior ossification thought to result from avulsion of which structure?",
+      "choices": [
+        "Superior labrum",
+        "Long head of the biceps",
+        "Posterior band of the IGHL",
+        "Supraspinatus tendon",
+        "Coracohumeral ligament"
+      ],
+      "answer": "C",
+      "detail": "Common in baseball pitchers, the Bennett lesion results from avulsion of the posterior band of the inferior glenohumeral ligament."
+    },
+    {
+      "number": 37,
+      "question": "Which imaging finding is highly specific for a labral tear, even if the labrum itself appears normal?",
+      "choices": [
+        "Marrow edema in the humerus",
+        "A paralabral cyst",
+        "Joint effusion",
+        "Fatty atrophy of the subscapularis",
+        "Widening of the rotator interval"
+      ],
+      "answer": "B",
+      "detail": "Paralabral cysts form adjacent to labral tears and are considered highly specific for their presence."
+    },
+    {
+      "number": 38,
+      "question": "What is the typical total intra-articular volume of injectate for a diagnostic shoulder MR arthrogram?",
+      "choices": [
+        "2–5 mL",
+        "5–7 mL",
+        "10–12 mL",
+        "15–20 mL",
+        "25–30 mL"
+      ],
+      "answer": "C",
+      "detail": "A volume of 10–12 mL is typically used for both hip and shoulder diagnostic MR arthrography."
+    },
+    {
+      "number": 39,
+      "question": "In the rotator interval approach for shoulder arthrography, where is the needle ideally placed?",
+      "choices": [
+        "Lower inner quadrant of the humeral head",
+        "Upper outer quadrant of the humeral head",
+        "Upper inner quadrant of the humeral head",
+        "Lower outer quadrant of the humeral head",
+        "Center of the glenoid fossa"
+      ],
+      "answer": "C",
+      "detail": "Ideal marker placement for the rotator interval approach is at the upper inner quadrant of the humeral head."
+    },
+    {
+      "number": 40,
+      "question": "A normal tendon oriented at 55 degrees relative to the magnet may show artifactually increased signal on short TE sequences. This is known as:",
+      "choices": [
+        "Susceptibility artifact",
+        "Chemical shift artifact",
+        "Magic angle artifact",
+        "Aliasing artifact",
+        "Truncation artifact"
+      ],
+      "answer": "C",
+      "detail": "The magic angle phenomenon disappears on long TE sequences (like T2-weighted images), allowing it to be distinguished from true pathology."
+    }
+  ]
+}

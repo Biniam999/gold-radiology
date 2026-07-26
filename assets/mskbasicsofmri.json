@@ -1,0 +1,95 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "What is the normal MRI appearance of a healthy tendon across all standard imaging sequences?",
+      "choices": [
+        "Hyperintense (bright)",
+        "Intermediate (gray) signal",
+        "Hypointense (dark)",
+        "Striated hyperintensity",
+        "High signal on T2 only"
+      ],
+      "answer": "C",
+      "detail": "A normal, healthy tendon is characterized by low signal intensity (dark) on all standard MRI sequences."
+    },
+    {
+      "number": 2,
+      "question": "The magic angle artifact occurs when tendon fibers are oriented at which specific angle relative to the bore of the magnet (B0)?",
+      "choices": [
+        "15 degrees",
+        "35 degrees",
+        "45 degrees",
+        "55 degrees",
+        "90 degrees"
+      ],
+      "answer": "D",
+      "detail": "Due to the anisotropy of tendon fibers, artifactually increased signal occurs when the tendon is oriented 55 degrees relative to the main magnetic field."
+    },
+    {
+      "number": 3,
+      "question": "Which of the following MRI parameters is most susceptible to the magic angle artifact?",
+      "choices": [
+        "Long repetition time (TR)",
+        "Long echo time (TE)",
+        "Short echo time (TE)",
+        "Fat suppression",
+        "High receiver bandwidth"
+      ],
+      "answer": "C",
+      "detail": "The magic angle artifact is specifically seen on short TE sequences, such as T1-weighted or proton density (PD) images."
+    },
+    {
+      "number": 4,
+      "question": "How can a radiologist reliably distinguish magic angle artifact from true tendon pathology on MRI?",
+      "choices": [
+        "The signal remains high on T2-weighted sequences.",
+        "The signal disappears on sequences with a long TE.",
+        "The tendon appears thickened and enlarged.",
+        "The signal is only seen on gradient-echo sequences.",
+        "The tendon morphology becomes irregular."
+      ],
+      "answer": "B",
+      "detail": "Unlike true pathology, the magic angle artifact disappears with a long TE (e.g., T2-weighted images), and the tendon will maintain normal morphology."
+    },
+    {
+      "number": 5,
+      "question": "What is the characteristic MRI finding of tenosynovitis on fluid-sensitive sequences?",
+      "choices": [
+        "Intermediate intra-substance signal",
+        "Fluid completely surrounding the tendon circumferentially",
+        "A 'celery stalk' appearance of the tendon fibers",
+        "Fluid tracking only along the deep surface of the tendon",
+        "Signal that follows fat on all sequences"
+      ],
+      "answer": "B",
+      "detail": "On MRI, tenosynovitis (inflammation of the tendon sheath) appears as fluid completely surrounding the tendon."
+    },
+    {
+      "number": 6,
+      "question": "Which term is preferred to describe age-related or overuse-related tendon changes, as the underlying process is typically not inflammatory?",
+      "choices": [
+        "Tendinitis",
+        "Tenosynovitis",
+        "Myxoid degeneration",
+        "Enthesitis",
+        "Peritendinitis"
+      ],
+      "answer": "C",
+      "detail": "Aging or overuse leads to myxoid degeneration (clinically synonymous with tendinosis); the term 'tendinitis' is discouraged because the process is not primarily due to inflammation."
+    },
+    {
+      "number": 7,
+      "question": "Which statement regarding the MRI appearance of tendinosis (myxoid degeneration) is correct?",
+      "choices": [
+        "It is characterized by low signal on all sequences.",
+        "It always involves a complete gap in the tendon fibers.",
+        "It shows intermediate intra-substance signal on both T1 and T2 images.",
+        "It can be easily distinguished from a partial-thickness tear.",
+        "It is only seen in pediatric patients."
+      ],
+      "answer": "C",
+      "detail": "Tendinosis demonstrates intermediate intra-substance signal, and the tendon may be normal or enlarged. Importantly, MRI cannot reliably distinguish between myxoid degeneration and a partial tear."
+    }
+  ]
+}

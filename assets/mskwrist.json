@@ -1,0 +1,329 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "When evaluating carpal alignment on a frontal radiograph, disruption of the 'Arcs of Gilula' is a key indicator of:",
+      "choices": [
+        "Osteoarthritis",
+        "Rheumatoid arthritis",
+        "Carpal ligamentous injury or fracture",
+        "Carpal coalition",
+        "Madelung deformity"
+      ],
+      "answer": "C",
+      "detail": "The three Arcs of Gilula represent the smooth contours of the carpal rows; any step-off or discontinuity indicates a significant injury such as a fracture or ligamentous disruption."
+    },
+    {
+      "number": 2,
+      "question": "In 'Dorsal Intercalated Segmental Instability' (DISI), which carpal bone is tilted dorsally?",
+      "choices": [
+        "Scaphoid",
+        "Triquetrum",
+        "Lunate",
+        "Capitate",
+        "Hamate"
+      ],
+      "answer": "C",
+      "detail": "DISI is characterized by the lunate tilting dorsally while the radius and capitate remain in relatively normal alignment, typically due to a scapholunate ligament tear."
+    },
+    {
+      "number": 3,
+      "question": "Volar Intercalated Segmental Instability (VISI) is most commonly caused by a tear of which ligament?",
+      "choices": [
+        "Scapholunate ligament",
+        "Lunotriquetral ligament",
+        "Radial collateral ligament",
+        "Ulnar collateral ligament",
+        "Pisiform-hamate ligament"
+      ],
+      "answer": "B",
+      "detail": "VISI features a volar (forward) tilt of the lunate, typically resulting from a lunotriquetral ligament tear."
+    },
+    {
+      "number": 4,
+      "question": "Which statement correctly distinguishes a perilunate dislocation from a lunate dislocation on a lateral radiograph?",
+      "choices": [
+        "In perilunate dislocation, the lunate is dislocated volarly.",
+        "In lunate dislocation, the lunate remains aligned with the radius.",
+        "In perilunate dislocation, the lunate remains aligned with the radius, but the capitate does not.",
+        "In lunate dislocation, the capitate is dislocated dorsally.",
+        "There is no difference; they are the same injury."
+      ],
+      "answer": "C",
+      "detail": "In a perilunate dislocation, the lunate-radius alignment is preserved while the rest of the carpus (capitate) is displaced. In a lunate dislocation, the lunate itself is displaced volarly."
+    },
+    {
+      "number": 5,
+      "question": "The 'Terry Thomas sign' refers to which radiographic finding?",
+      "choices": [
+        "Proximal migration of the capitate",
+        "Disruption of the third arc of Gilula",
+        "Increased distance of the scapholunate interval",
+        "Tearing of the TFCC",
+        "AVN of the lunate"
+      ],
+      "answer": "C",
+      "detail": "Named after an actor with a gap between his teeth, this sign indicates scapholunate dissociation."
+    },
+    {
+      "number": 6,
+      "question": "In Scapholunate Advanced Collapse (SLAC) wrist, which bone migrates proximally?",
+      "choices": [
+        "Lunate",
+        "Scaphoid",
+        "Capitate",
+        "Triquetrum",
+        "Hamate"
+      ],
+      "answer": "C",
+      "detail": "In SLAC wrist, the capitate migrates proximally to fill the abnormal gap created between the scaphoid and lunate following chronic ligamentous injury."
+    },
+    {
+      "number": 7,
+      "question": "Which carpal bone is the most frequently injured?",
+      "choices": [
+        "Lunate",
+        "Triquetrum",
+        "Scaphoid",
+        "Trapezium",
+        "Pisiform"
+      ],
+      "answer": "C",
+      "detail": "The scaphoid is the most common carpal fracture and often requires MRI for detection if initial radiographs are occult."
+    },
+    {
+      "number": 8,
+      "question": "The blood supply to the scaphoid runs in which specific direction?",
+      "choices": [
+        "Proximal to distal",
+        "Distal to proximal (retrograde)",
+        "Directly into the waist from the radial artery",
+        "Through the scapholunate ligament",
+        "From the volar surface only"
+      ],
+      "answer": "B",
+      "detail": "Blood enters the scaphoid distally and flows proximally; therefore, fractures of the proximal pole have the highest risk of avascular necrosis."
+    },
+    {
+      "number": 9,
+      "question": "A triquetral fracture is best seen on a lateral radiograph as:",
+      "choices": [
+        "Widening of the scapholunate interval",
+        "Volar tilt of the lunate",
+        "An avulsion fragment dorsal to the triquetrum",
+        "Proximal migration of the hamate",
+        "Sclerosis of the proximal pole"
+      ],
+      "answer": "C",
+      "detail": "Triquetral fractures classically appear as a small dorsal avulsion fragment on the lateral view."
+    },
+    {
+      "number": 10,
+      "question": "Kienbock disease (AVN of the lunate) is most strongly associated with which radiographic finding?",
+      "choices": [
+        "Positive ulnar variance",
+        "Negative ulnar variance",
+        "Terry Thomas sign",
+        "DISI deformity",
+        "SLAC arthropathy"
+      ],
+      "answer": "B",
+      "detail": "Kienbock disease is associated with negative ulnar variance (ulna shorter than radius), which increases the mechanical load on the lunate."
+    },
+    {
+      "number": 11,
+      "question": "Which two tendons are contained within the first extensor compartment of the wrist?",
+      "choices": [
+        "ECRL and ECRB",
+        "EPL and EPB",
+        "APL and EPB",
+        "ED and EI",
+        "ECU and EDM"
+      ],
+      "answer": "C",
+      "detail": "The first compartment contains the Abductor pollicis longus (APL) and Extensor pollicis brevis (EPB)."
+    },
+    {
+      "number": 12,
+      "question": "Edema and fluid specifically surrounding the first extensor compartment on MRI is diagnostic of:",
+      "choices": [
+        "SLAC wrist",
+        "Gamekeeper’s thumb",
+        "De Quervain’s tenosynovitis",
+        "Intersection syndrome",
+        "Kienbock disease"
+      ],
+      "answer": "C",
+      "detail": "De Quervain’s is a stenosing tenosynovitis of the APL and EPB tendons in the first compartment."
+    },
+    {
+      "number": 13,
+      "question": "In the anatomy of the Triangular Fibrocartilage Complex (TFCC), the TFC disc attaches on its radial aspect to the:",
+      "choices": [
+        "Ulnar styloid",
+        "Ulnar fovea",
+        "Radial articular cartilage",
+        "Scaphoid fossa",
+        "Lunate fossa"
+      ],
+      "answer": "C",
+      "detail": "The TFC disc attaches directly to the radial articular cartilage on its radial side and the ulnar styloid/fovea on its ulnar side."
+    },
+    {
+      "number": 14,
+      "question": "A key finding on wrist arthrography indicating a TFC tear is abnormal communication between the radiocarpal joint and the:",
+      "choices": [
+        "Midcarpal joint",
+        "First CMC joint",
+        "Distal radioulnar joint (DRUJ)",
+        "Scapholunate interval",
+        "Pisotriquetral recess"
+      ],
+      "answer": "C",
+      "detail": "Contrast injected into the radiocarpal joint that leaks into the DRUJ is definitive evidence of a TFC tear."
+    },
+    {
+      "number": 15,
+      "question": "'Mallet finger' results from disruption of the:",
+      "choices": [
+        "Flexor digitorum profundus at the distal phalanx",
+        "Extensor tendon at the distal phalanx",
+        "Volar plate at the PIP joint",
+        "Ulnar collateral ligament of the thumb",
+        "Central slip of the extensor tendon"
+      ],
+      "answer": "B",
+      "detail": "Mallet finger is an extensor injury at the distal phalanx, often featuring a dorsal avulsion fragment."
+    },
+    {
+      "number": 16,
+      "question": "A 'Jersey finger' is characterized by which radiographic finding?",
+      "choices": [
+        "Dorsal avulsion of the distal phalanx",
+        "Volar avulsion of the distal phalanx",
+        "Dorsal avulsion of the middle phalanx",
+        "Volar avulsion of the middle phalanx",
+        "Fracture of the metacarpal neck"
+      ],
+      "answer": "B",
+      "detail": "Jersey finger is a flexor injury (DIP flexion) resulting in a volar avulsion."
+    },
+    {
+      "number": 17,
+      "question": "Boutonnière deformity is a classic feature of:",
+      "choices": [
+        "Psoriatic arthritis",
+        "Osteoarthritis",
+        "Rheumatoid arthritis",
+        "Scleroderma",
+        "Gout"
+      ],
+      "answer": "C",
+      "detail": "While it can be traumatic, Boutonnière deformity (PIP flexion and DIP hyperextension) is a classic feature of advanced RA due to extensor tendon slip injury."
+    },
+    {
+      "number": 18,
+      "question": "'Gamekeeper’s thumb' is an injury to which structure?",
+      "choices": [
+        "Radial collateral ligament",
+        "Ulnar collateral ligament (UCL)",
+        "Adductor aponeurosis",
+        "Flexor pollicis longus",
+        "Opponens pollicis"
+      ],
+      "answer": "B",
+      "detail": "Gamekeeper's (or skier's) thumb is an injury of the UCL at the thumb MCP joint, caused by forced abduction."
+    },
+    {
+      "number": 19,
+      "question": "A 'Stener lesion' occurs when which structure becomes trapped between the torn UCL ends?",
+      "choices": [
+        "Flexor pollicis brevis",
+        "Opponens pollicis",
+        "Adductor aponeurosis",
+        "Abductor pollicis longus",
+        "First dorsal interosseous"
+      ],
+      "answer": "C",
+      "detail": "The adductor aponeurosis interposes between the retracted UCL, preventing healing and requiring surgery."
+    },
+    {
+      "number": 20,
+      "question": "On MRI, a Stener lesion is characterized by which sign?",
+      "choices": [
+        "Double contour sign",
+        "Yo-yo on a string sign",
+        "Target sign",
+        "T-sign",
+        "C-sign"
+      ],
+      "answer": "B",
+      "detail": "The retracted UCL looks like a 'yo-yo' balled up on the 'string' of the adductor aponeurosis."
+    },
+    {
+      "number": 21,
+      "question": "A 'Bennett fracture' is specifically defined as an:",
+      "choices": [
+        "Extra-articular fracture of the 1st metacarpal base",
+        "Intra-articular fracture of the 1st metacarpal base",
+        "Comminuted fracture of the 1st metacarpal base",
+        "Transverse fracture of the 5th metacarpal neck",
+        "Avulsion of the 2nd metacarpal base"
+      ],
+      "answer": "B",
+      "detail": "A Bennett fracture is a simple intra-articular fracture of the thumb metacarpal base."
+    },
+    {
+      "number": 22,
+      "question": "How is a 'Rolando fracture' distinguished from a Bennett fracture?",
+      "choices": [
+        "It is extra-articular.",
+        "It involves the 5th metacarpal.",
+        "It is a comminuted intra-articular fracture.",
+        "It is purely an avulsion of the UCL.",
+        "It is always associated with a Stener lesion."
+      ],
+      "answer": "C",
+      "detail": "A Rolando fracture is essentially a comminuted version of a Bennett fracture."
+    },
+    {
+      "number": 23,
+      "question": "A 'Boxer’s fracture' characteristically involves the:",
+      "choices": [
+        "1st metacarpal base",
+        "2nd metacarpal shaft",
+        "3rd metacarpal head",
+        "5th metacarpal neck",
+        "Proximal phalanx of the index finger"
+      ],
+      "answer": "D",
+      "detail": "This fracture characteristically involves the neck of the 5th metacarpal."
+    },
+    {
+      "number": 24,
+      "question": "A 'volar plate fracture' typically occurs at the base of the:",
+      "choices": [
+        "Distal phalanx",
+        "Middle phalanx",
+        "Proximal phalanx",
+        "Thumb metacarpal",
+        "Triquetrum"
+      ],
+      "answer": "B",
+      "detail": "Volar plate fractures are avulsions of the volar aspect of the proximal middle phalanx at the PIP joint."
+    },
+    {
+      "number": 25,
+      "question": "Which carpal coalition is the most common?",
+      "choices": [
+        "Capitohamate",
+        "Scapholunate",
+        "Lunotriquetral",
+        "Pisiform-triquetral",
+        "Trapezium-trapezoid"
+      ],
+      "answer": "C",
+      "detail": "Lunotriquetral coalition is the most common carpal coalition, followed by capitohamate."
+    }
+  ]
+}
