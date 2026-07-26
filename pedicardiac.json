@@ -1,0 +1,225 @@
+{
+  "questions": [
+    {
+      "number": 26,
+      "question": "Which acyanotic congenital heart lesion classically presents with radiographic evidence of pulmonary edema in the neonatal period?",
+      "choices": [
+        "Atrial septal defect (ASD)",
+        "Ventricular septal defect (VSD)",
+        "Hypoplastic left heart (HLH)",
+        "Patent ductus arteriosus (PDA)",
+        "Endocardial cushion defect (ECD)"
+      ],
+      "answer": "C",
+      "detail": "HLH presents with neonatal pulmonary edema because the left heart cannot keep up with venous return, whereas lesions like ASD and VSD usually show increased arterial flow (shunt vascularity) in childhood."
+    },
+    {
+      "number": 27,
+      "question": "Survival in hypoplastic left heart syndrome is dependent on which of the following?",
+      "choices": [
+        "Closure of the ductus venosus",
+        "A patent ductus arteriosus (PDA)",
+        "Left-isomerism",
+        "A right-sided aortic arch",
+        "Spontaneous regression of rhabdomyomas"
+      ],
+      "answer": "B",
+      "detail": "HLH survival depends on a PDA allowing right-to-left shunting to supply the systemic circulation."
+    },
+    {
+      "number": 28,
+      "question": "Which acyanotic shunt lesion is associated with a \"machine-like murmur\" and classically causes heart failure at 7–10 days of life as pulmonary resistance falls?",
+      "choices": [
+        "ASD",
+        "VSD",
+        "PDA",
+        "Coarctation of the aorta",
+        "AVSD"
+      ],
+      "answer": "C",
+      "detail": "Large PDAs produce a machine-like murmur; premature infants often develop CHF from a PDA as pulmonary resistance drops in the first week of life."
+    },
+    {
+      "number": 29,
+      "question": "Which cardiac lesion is most strongly associated with Trisomy 21 (Down syndrome)?",
+      "choices": [
+        "Coarctation of the aorta",
+        "Tetralogy of Fallot",
+        "AVSD / Endocardial cushion defect",
+        "HLH",
+        "Ebstein anomaly"
+      ],
+      "answer": "C",
+      "detail": "AVSD (common AV canal) has a strong and classic association with Down syndrome."
+    },
+    {
+      "number": 30,
+      "question": "Which cyanotic lesion presents with massive cardiomegaly and decreased pulmonary vascularity, appearing identical to Ebstein anomaly on a radiograph?",
+      "choices": [
+        "Tetralogy of Fallot",
+        "Transposition of the great arteries (TGA)",
+        "Pulmonary atresia with intact ventricular septum",
+        "TAPVR",
+        "Truncus arteriosus"
+      ],
+      "answer": "C",
+      "detail": "Both Ebstein's anomaly and pulmonary atresia with intact septum cause massive right atrial enlargement and decreased pulmonary flow."
+    },
+    {
+      "number": 31,
+      "question": "What is the classic radiographic appearance of the heart in Tetralogy of Fallot (TOF)?",
+      "choices": [
+        "Egg-on-a-string",
+        "Snowman sign",
+        "Boot-shaped heart",
+        "Figure-of-8",
+        "Box-shaped"
+      ],
+      "answer": "C",
+      "detail": "In TOF, right ventricular hypertrophy uplifts the cardiac apex, creating a boot-shaped (coeur en sabot) appearance."
+    },
+    {
+      "number": 32,
+      "question": "Which of the following is NOT one of the four components of Tetralogy of Fallot?",
+      "choices": [
+        "RV hypertrophy",
+        "VSD",
+        "ASD",
+        "Aorta overriding the VSD",
+        "RV outflow tract obstruction"
+      ],
+      "answer": "C",
+      "detail": "The four components are RV outflow obstruction, RV hypertrophy, VSD, and an overriding aorta; if an ASD is also present, it is called pentalogy of Fallot."
+    },
+    {
+      "number": 33,
+      "question": "What causes the \"egg-on-a-string\" appearance in D-transposition of the great arteries?",
+      "choices": [
+        "Right atrial enlargement",
+        "Narrow mediastinal waist due to parallel great vessels and thymic stress",
+        "Left atrial enlargement splaying the bronchi",
+        "Dilation of the vertical vein",
+        "Massive pericardial effusion"
+      ],
+      "answer": "B",
+      "detail": "The \"egg\" is the heart, and the \"string\" is the narrow superior mediastinum caused by the parallel orientation of the aorta and pulmonary artery."
+    },
+    {
+      "number": 34,
+      "question": "The \"snowman sign\" (Type I Supracardiac) is a classic radiographic finding for which condition?",
+      "choices": [
+        "TGA",
+        "HLH",
+        "TAPVR",
+        "Truncus arteriosus",
+        "Tricuspid atresia"
+      ],
+      "answer": "C",
+      "detail": "In supracardiac TAPVR, a dilated vertical vein and left innominate vein form the \"head\" of the snowman."
+    },
+    {
+      "number": 35,
+      "question": "Stage 1 of the surgical treatment for HLH is known as the:",
+      "choices": [
+        "Norwood procedure",
+        "Bidirectional Glenn",
+        "Modified Fontan",
+        "Jatene procedure",
+        "Rastelli procedure"
+      ],
+      "answer": "A",
+      "detail": "The Norwood is the first of a three-stage staged repair for HLH, typically performed in the first few days of life."
+    },
+    {
+      "number": 36,
+      "question": "In HLH repair, which procedure involves connecting the IVC to the right pulmonary artery?",
+      "choices": [
+        "Norwood",
+        "Glenn",
+        "Modified Fontan",
+        "Jatene",
+        "Arterial switch"
+      ],
+      "answer": "C",
+      "detail": "The modified Fontan (Stage 3) connects the IVC to the pulmonary circulation, creating an effective single-ventricle heart."
+    },
+    {
+      "number": 37,
+      "question": "The \"LeCompte maneuver\" is an imaging finding seen after which surgery?",
+      "choices": [
+        "Modified Fontan",
+        "Jatene procedure (Arterial switch)",
+        "Rastelli procedure",
+        "Norwood procedure",
+        "Blalock-Taussig shunt"
+      ],
+      "answer": "B",
+      "detail": "The LeCompte maneuver involves moving the pulmonary artery anterior to the aorta during an arterial switch for D-TGA, causing the pulmonary trunk to \"straddle\" the aorta."
+    },
+    {
+      "number": 38,
+      "question": "Which cyanotic lesion features a single great artery and a high frequency (36%) of a right-sided aortic arch?",
+      "choices": [
+        "Tetralogy of Fallot",
+        "TGA",
+        "Truncus arteriosus",
+        "TAPVR",
+        "Tricuspid atresia"
+      ],
+      "answer": "C",
+      "detail": "Truncus arteriosus features a single great vessel and has a high incidence of a right-sided aortic arch (36%)."
+    },
+    {
+      "number": 39,
+      "question": "Right-isomerism (asplenia) is associated with which of the following?",
+      "choices": [
+        "Multiple splenules",
+        "Bilateral trilobed lungs and severe CHD (e.g., TAPVR)",
+        "Interruption of the IVC",
+        "Biliary atresia",
+        "Less severe CHD, such as simple ASD"
+      ],
+      "answer": "B",
+      "detail": "Right-isomerism (asplenia) involves bilateral right-sidedness (trilobed lungs) and very severe heart disease, whereas left-isomerism (polysplenia) is associated with biliary atresia and interrupted IVC."
+    },
+    {
+      "number": 40,
+      "question": "What is the most common primary cardiac tumor in infants, and what is its classic clinical association?",
+      "choices": [
+        "Teratoma; PHACES syndrome",
+        "Myxoma; Carney complex",
+        "Rhabdomyoma; Tuberous sclerosis",
+        "Hemangioma; PHACES syndrome",
+        "Fibroma; Gorlin syndrome"
+      ],
+      "answer": "C",
+      "detail": "Rhabdomyoma is the most common pediatric cardiac tumor and is strongly linked to tuberous sclerosis."
+    },
+    {
+      "number": 41,
+      "question": "A multilocular cystic and solid mass is seen abutting the aorta and pulmonary artery in a neonate with a massive pericardial effusion. What is the diagnosis?",
+      "choices": [
+        "Rhabdomyoma",
+        "Cardiac teratoma",
+        "Cardiac hemangioma",
+        "Bronchogenic cyst",
+        "Pericardial cyst"
+      ],
+      "answer": "B",
+      "detail": "Pericardial teratomas are cystic/solid masses that can cause massive perinatal pericardial effusions."
+    },
+    {
+      "number": 42,
+      "question": "On cardiac MRI, which feature differentiates cardiac hemangiomas from teratomas?",
+      "choices": [
+        "Hemangiomas are T2 hypointense.",
+        "Teratomas enhance avidly on first-pass perfusion.",
+        "Hemangiomas enhance avidly on first-pass perfusion.",
+        "Teratomas are always intramyocardial.",
+        "Hemangiomas never cause effusions."
+      ],
+      "answer": "C",
+      "detail": "On first-pass myocardial perfusion, hemangiomas enhance avidly, whereas teratomas are hypoenhancing."
+    }
+  ]
+}

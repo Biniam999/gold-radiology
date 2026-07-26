@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Which extra-axial hemorrhage is classically described as having a lentiform (biconvex) shape and does NOT cross cranial sutures?",
+      "choices": [
+        "Subdural hematoma",
+        "Subarachnoid hemorrhage",
+        "Arterial epidural hematoma",
+        "Venous epidural hematoma",
+        "Intraventricular hemorrhage"
+      ],
+      "answer": "C",
+      "detail": "Arterial epidural hematomas are external to the dura, which is tightly adherent at the sutures, preventing the blood from crossing them."
+    },
+    {
+      "number": 2,
+      "question": "The 'swirl sign' seen within an acute epidural hematoma on CT represents:",
+      "choices": [
+        "Chronic hemosiderin deposition",
+        "Active, hyperacute unclotted blood",
+        "Calcification of the dura",
+        "Communication with a dural sinus",
+        "Clotted blood from a prior injury"
+      ],
+      "answer": "B",
+      "detail": "This sign describes mixed high- and low-attenuation blood, where the low-attenuation component indicates active bleeding."
+    },
+    {
+      "number": 3,
+      "question": "Tearing of which vessels is the most common cause of a subdural hematoma (SDH)?",
+      "choices": [
+        "Middle meningeal artery",
+        "Internal carotid artery",
+        "Cortical bridging veins",
+        "Basilar artery perforators",
+        "Lenticulostriate arteries"
+      ],
+      "answer": "C",
+      "detail": "SDHs typically result from the tearing of cerebral bridging veins as they traverse the CSF space to enter the dural sinuses."
+    },
+    {
+      "number": 4,
+      "question": "A subacute subdural hematoma (1–3 weeks post-injury) can become 'isodense' and difficult to see on CT. Which of the following is a key secondary sign alerting the radiologist to its presence?",
+      "choices": [
+        "Widening of the sulci",
+        "White matter buckling",
+        "Absence of midline shift",
+        "Dural calcification",
+        "Hyperdensity of the transverse sinus"
+      ],
+      "answer": "B",
+      "detail": "Clues for isodense SDH include mass effect, white matter buckling, and an apparently thickened cortex."
+    },
+    {
+      "number": 5,
+      "question": "Venous epidural hematomas are rare compared to arterial ones and are most commonly located in the:",
+      "choices": [
+        "High convexity parasagittal region",
+        "Anterior middle cranial fossa or posterior fossa",
+        "Suprasellar cistern",
+        "Temporal bone squamous portion",
+        "Interhemispheric fissure"
+      ],
+      "answer": "B",
+      "detail": "These are due to the laceration of dural sinuses rather than meningeal arteries."
+    },
+    {
+      "number": 6,
+      "question": "Cortical contusions characteristically involve which part of the brain anatomy?",
+      "choices": [
+        "Deep white matter tracts",
+        "The gyral crests",
+        "The depths of the sulci",
+        "The ependymal lining",
+        "The brainstem only"
+      ],
+      "answer": "B",
+      "detail": "Contusions occur where the cortical surface makes traumatic contact with the rough inner table of the skull, typically affecting the gyral crests."
+    },
+    {
+      "number": 7,
+      "question": "In the subacute stage of healing, which traumatic intra-axial lesion should be included in the differential diagnosis of a ring-enhancing mass?",
+      "choices": [
+        "Diffuse axonal injury",
+        "Hyperacute subdural hematoma",
+        "Cortical contusion",
+        "Acute intraventricular hemorrhage",
+        "Subfalcine herniation"
+      ],
+      "answer": "C",
+      "detail": "A subacute cortical contusion may demonstrate ring enhancement, which can persist into the chronic stage."
+    },
+    {
+      "number": 8,
+      "question": "Diffuse axonal injury (DAI) is caused by which mechanism of injury?",
+      "choices": [
+        "Direct impact (coup)",
+        "Low-velocity penetrating trauma",
+        "Rotational deceleration and shear-strain deformation",
+        "Chronic hypertension",
+        "Rupture of a mycotic aneurysm"
+      ],
+      "answer": "C",
+      "detail": "DAI results when rotational forces exceed the limited elastic capacity of the axons."
+    },
+    {
+      "number": 9,
+      "question": "According to the grading system for DAI, Grade II injury specifically involves which anatomical structure?",
+      "choices": [
+        "Gray-white matter junctions only",
+        "The dorsolateral rostral midbrain",
+        "The corpus callosum",
+        "The pituitary stalk",
+        "The cerebellar peduncles"
+      ],
+      "answer": "C",
+      "detail": "Grade I involves the gray-white junctions; Grade II additionally involves the corpus callosum; Grade III involves the midbrain."
+    },
+    {
+      "number": 10,
+      "question": "Which MRI sequence is most sensitive for detecting the punctate hemorrhagic foci characteristic of DAI?",
+      "choices": [
+        "T1-weighted spin echo",
+        "T2-weighted FLAIR",
+        "Susceptibility-weighted imaging (SWI) or GRE",
+        "Diffusion-weighted imaging (DWI)",
+        "Post-contrast T1"
+      ],
+      "answer": "C",
+      "detail": "These sequences are highly sensitive to the susceptibility effects of small amounts of blood products like hemosiderin."
+    },
+    {
+      "number": 11,
+      "question": "Patients with significant intraventricular hemorrhage (IVH) are at an increased chronic risk for which complication?",
+      "choices": [
+        "Communicating hydrocephalus",
+        "Noncommunicating hydrocephalus due to ependymal scarring",
+        "Arteriovenous malformation",
+        "Cortical laminar necrosis",
+        "Paradoxical herniation"
+      ],
+      "answer": "B",
+      "detail": "Scarring may obstruct the cerebral aqueduct, leading to obstructive hydrocephalus."
+    },
+    {
+      "number": 12,
+      "question": "Small Duret hemorrhages in the pons are a sign of which traumatic process?",
+      "choices": [
+        "Primary direct impact to the brainstem",
+        "Shearing of basilar artery perforators during downward herniation",
+        "Rupture of a PICA aneurysm",
+        "Thrombosis of the vein of Galen",
+        "Diffuse axonal injury Grade I"
+      ],
+      "answer": "B",
+      "detail": "Downward force on the brainstem during central herniation shears these small perforating vessels, leading to hemorrhages within the medulla or brainstem."
+    },
+    {
+      "number": 13,
+      "question": "The 'Kernohan notch phenomenon' is a paradoxical finding where a patient has hemiparesis on the SAME side as the primary brain injury/herniation. This is caused by:",
+      "choices": [
+        "Compression of the ipsilateral MCA",
+        "Compression of the contralateral cerebral peduncle against the tentorium",
+        "Infarction of the ipsilateral thalamus",
+        "Tearing of the contralateral bridging veins",
+        "Global hypoxic-ischemic injury"
+      ],
+      "answer": "B",
+      "detail": "The herniating uncus pushes the brainstem, causing the opposite cerebral peduncle to be notched by the tentorial edge."
+    },
+    {
+      "number": 14,
+      "question": "A 'white cerebellum sign' on a noncontrast head CT in a trauma patient indicates:",
+      "choices": [
+        "Acute primary cerebellar hemorrhage",
+        "Relative hyperattenuation of the cerebellum compared to edematous, hypoattenuating supratentorial brain",
+        "Diffuse axonal injury of the posterior fossa",
+        "Cerebellar tonsillar herniation",
+        "Calcification from prior trauma"
+      ],
+      "answer": "B",
+      "detail": "This sign is seen in global hypoxic-ischemic encephalopathy where the cerebellum is relatively spared."
+    },
+    {
+      "number": 15,
+      "question": "Terson syndrome is a specific traumatic association involving:",
+      "choices": [
+        "Epidural hematoma and temporal bone fracture",
+        "Vitreous or retinal hemorrhage secondary to subarachnoid hemorrhage",
+        "DAI Grade III and midbrain infarction",
+        "Paradoxical herniation and craniectomy",
+        "Scalp hematoma and underlying depressed skull fracture"
+      ],
+      "answer": "B",
+      "detail": "It is likely related to the sudden elevation of intracranial pressure secondary to SAH."
+    }
+  ]
+}

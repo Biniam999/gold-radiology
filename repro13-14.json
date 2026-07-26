@@ -1,0 +1,1302 @@
+{
+    "questions": 
+   [
+    {
+      "number": 1,
+      "question": "How is 'Menstrual Age' defined in relation to 'Embryologic Age'?",
+      "choices": [
+        "Menstrual Age = Embryologic Age + 7 days",
+        "Menstrual Age = Embryologic Age + 14 days",
+        "They are identical",
+        "Menstrual Age starts at the time of fertilization",
+        "Menstrual Age is only used after the 1st trimester"
+      ],
+      "answer": "B",
+      "detail": "Menstrual age is calculated by adding 14 days to the embryologic age."
+    },
+    {
+      "number": 2,
+      "question": "Which term describes a pregnancy between 0 and 10 weeks of menstrual age?",
+      "choices": [
+        "Fetus",
+        "Embryo",
+        "Blastocyst",
+        "Zygote",
+        "Neonate"
+      ],
+      "answer": "B",
+      "detail": "The pregnancy is considered an embryo from 0 to 10 weeks menstrual age."
+    },
+    {
+      "number": 3,
+      "question": "A 'Threatened Abortion' is clinically defined as vaginal bleeding occurring with a:",
+      "choices": [
+        "Dilated cervix",
+        "Closed cervix",
+        "Ruptured sac",
+        "Visible heartbeat",
+        "Twin pregnancy"
+      ],
+      "answer": "B",
+      "detail": "A threatened abortion involves bleeding but the cervix remains closed."
+    },
+    {
+      "number": 4,
+      "question": "How is an 'Inevitable Abortion' distinguished from other early pregnancy failures?",
+      "choices": [
+        "The fetus is already dead",
+        "Cervical dilation is present, often with tissue hanging out",
+        "All products of conception have been expelled",
+        "It only occurs in the 2nd trimester",
+        "It is associated with a molar pregnancy"
+      ],
+      "answer": "B",
+      "detail": "An inevitable abortion features cervical dilation and/or protruding tissue."
+    },
+    {
+      "number": 5,
+      "question": "'Incomplete Abortion' refers to a clinical scenario where:",
+      "choices": [
+        "No products are left in the uterus",
+        "Residual products of conception remain in the uterus",
+        "The fetus is alive but the sac is ruptured",
+        "The cervix is closed and bleeding has stopped",
+        "There is a twin pregnancy with one survivor"
+      ],
+      "answer": "B",
+      "detail": "In an incomplete abortion, some residual products stay in the uterus."
+    },
+    {
+      "number": 6,
+      "question": "Which term is used when all products of conception have been expelled from the uterus?",
+      "choices": [
+        "Missed abortion",
+        "Inevitable abortion",
+        "Complete Abortion",
+        "Threatened abortion",
+        "Silent miscarriage"
+      ],
+      "answer": "C",
+      "detail": "A complete abortion means all products have come out."
+    },
+    {
+      "number": 7,
+      "question": "A 'Missed Abortion' is defined as a situation where:",
+      "choices": [
+        "The mother did not realize she was pregnant",
+        "The fetus is dead but still remains inside the uterus",
+        "There is heavy bleeding with a closed cervix",
+        "Contrast was missed during an HSG",
+        "The sac is empty"
+      ],
+      "answer": "B",
+      "detail": "A missed abortion occurs when the fetus has died but remains in the uterus."
+    },
+    {
+      "number": 8,
+      "question": "The 'Intradecidual Sign' is an early gestational sac that can typically be seen at:",
+      "choices": [
+        "2 weeks",
+        "4.5 weeks",
+        "6 weeks",
+        "8 weeks",
+        "10 weeks"
+      ],
+      "answer": "B",
+      "detail": "This early sign of pregnancy is visible around 4.5 weeks."
+    },
+    {
+      "number": 9,
+      "question": "To identify a true 'Intradecidual Sign,' what landmark should be seen passing by the sac?",
+      "choices": [
+        "The yolk sac",
+        "The thin echogenic line of the uterine cavity",
+        "The cervical os",
+        "The fallopian tube",
+        "A feeding vessel"
+      ],
+      "answer": "B",
+      "detail": "The echogenic uterine cavity line should pass by the sac to confirm its location."
+    },
+    {
+      "number": 10,
+      "question": "The 'Double Decidual Sac Sign' is produced by visualizing which layers?",
+      "choices": [
+        "Myometrium and Serosa",
+        "Decidua Vera and Decidua Capsularis",
+        "Amnion and Chorion",
+        "Endometrium and Myometrium",
+        "Placenta and Cord"
+      ],
+      "answer": "B",
+      "detail": "This sign is created by the layers of the decidua vera and decidua capsularis."
+    },
+    {
+      "number": 11,
+      "question": "What is the first structure typically visible within the gestational sac (GS)?",
+      "choices": [
+        "The embryo",
+        "The Yolk Sac",
+        "The placenta",
+        "The amnion",
+        "The umbilical cord"
+      ],
+      "answer": "B",
+      "detail": "The yolk sac is the first structure seen inside the GS."
+    },
+    {
+      "number": 12,
+      "question": "According to classic teaching, a yolk sac should always be seen when the GS diameter reaches:",
+      "choices": [
+        "2 mm",
+        "5 mm",
+        "8 mm (on Transvaginal US)",
+        "15 mm",
+        "25 mm"
+      ],
+      "answer": "C",
+      "detail": "A yolk sac should be visible once the GS measures 8 mm on TVUS."
+    },
+    {
+      "number": 13,
+      "question": "What is the upper limit of normal for the size of a yolk sac?",
+      "choices": [
+        "3 mm",
+        "6 mm",
+        "10 mm",
+        "15 mm",
+        "20 mm"
+      ],
+      "answer": "B",
+      "detail": "A normal yolk sac should be smaller than 6 mm."
+    },
+    {
+      "number": 14,
+      "question": "A 'Yolk Sac Gone Bad' includes findings such as being too small (<3 mm), solid, calcified, or:",
+      "choices": [
+        "Round",
+        "Too big (> 6 mm)",
+        "Fluid-filled",
+        "Floating",
+        "Double"
+      ],
+      "answer": "B",
+      "detail": "A yolk sac is suspicious if it is larger than 6 mm."
+    },
+    {
+      "number": 15,
+      "question": "At approximately what gestational age do the amnion and chorion typically fuse?",
+      "choices": [
+        "6 weeks",
+        "10 weeks",
+        "14–16 weeks",
+        "20 weeks",
+        "40 weeks"
+      ],
+      "answer": "C",
+      "detail": "Normal amnion-chorion fusion occurs around 14–16 weeks."
+    },
+    {
+      "number": 16,
+      "question": "Disruption of the amnion before 10 weeks can lead to which severe condition?",
+      "choices": [
+        "Molar pregnancy",
+        "Amniotic Band Syndrome",
+        "Placenta previa",
+        "Hydrosalpinx",
+        "Polyhydramnios"
+      ],
+      "answer": "B",
+      "detail": "Early disruption allows the fetus to become tangled in fibrous bands, causing amniotic band syndrome."
+    },
+    {
+      "number": 17,
+      "question": "What is the 'Double Bleb Sign'?",
+      "choices": [
+        "A twin pregnancy",
+        "The earliest visualization of the embryo (yolk and amniotic sacs with flat embryo)",
+        "A type of molar pregnancy",
+        "A sign of fetal demise",
+        "A ruptured subchorionic hemorrhage"
+      ],
+      "answer": "B",
+      "detail": "The double bleb sign is the earliest look at the embryo between two sacs."
+    },
+    {
+      "number": 18,
+      "question": "Which measurement is considered the most accurate way to estimate gestational age?",
+      "choices": [
+        "Mean Sac Diameter",
+        "Biparietal Diameter",
+        "Crown Rump Length (CRL)",
+        "Femur Length",
+        "Abdominal Circumference"
+      ],
+      "answer": "C",
+      "detail": "CRL is more accurate than menstrual history for dating."
+    },
+    {
+      "number": 19,
+      "question": "An embryo is normally visible by ultrasound at:",
+      "choices": [
+        "4 weeks",
+        "6 weeks",
+        "8 weeks",
+        "10 weeks",
+        "12 weeks"
+      ],
+      "answer": "B",
+      "detail": "The embryo is typically visible by 6 weeks."
+    },
+    {
+      "number": 20,
+      "question": "An 'Anembryonic Pregnancy' refers to a gestational sac that:",
+      "choices": [
+        "Is too small for dates",
+        "Does not contain an embryo",
+        "Contains twins",
+        "Is located in the fallopian tube",
+        "Has a normal yolk sac but no heartbeat"
+      ],
+      "answer": "B",
+      "detail": "This refers to a gestational sac without an embryo."
+    },
+    {
+      "number": 21,
+      "question": "A 'Pseudogestational Sac' is an imaging finding associated with:",
+      "choices": [
+        "Normal intrauterine pregnancy",
+        "Ectopic pregnancy",
+        "Molar pregnancy",
+        "Subchorionic hemorrhage",
+        "Fetal demise"
+      ],
+      "answer": "B",
+      "detail": "A pseudogestational sac is seen in the uterus when there is an ectopic pregnancy."
+    },
+    {
+      "number": 22,
+      "question": "Which prognostic factor is most strongly associated with fetal demise in the setting of a subchorionic hemorrhage?",
+      "choices": [
+        "Maternal age",
+        "The percentage of placental detachment",
+        "The location of the hemorrhage",
+        "The patient's blood type",
+        "The presence of a twin"
+      ],
+      "answer": "B",
+      "detail": "The risk of abortion increases significantly with the degree of placental detachment."
+    },
+    {
+      "number": 23,
+      "question": "A subchorionic hematoma is associated with a 2x increased risk of abortion if it involves more than:",
+      "choices": [
+        "10% of the chorion circumference",
+        "25% of the chorion circumference",
+        "50% of the chorion circumference",
+        "2/3 (66%) of the chorion circumference",
+        "It is always a 2x risk"
+      ],
+      "answer": "D",
+      "detail": "Detachment of greater than 2/3 the circumference carries a 2x increased risk."
+    },
+    {
+      "number": 24,
+      "question": "According to strict criteria, a 'Pregnancy Failure' is diagnosed if the CRL is >7 mm and there is:",
+      "choices": [
+        "No yolk sac",
+        "No heartbeat",
+        "No placental flow",
+        "A thick amnion",
+        "A subchorionic bleed"
+      ],
+      "answer": "B",
+      "detail": "A CRL > 7 mm with no heartbeat is diagnostic of failure."
+    },
+    {
+      "number": 25,
+      "question": "Pregnancy failure is also diagnosed if the Mean Sac Diameter (MSD) is at least:",
+      "choices": [
+        "10 mm with no embryo",
+        "15 mm with no embryo",
+        "20 mm with no embryo",
+        "25 mm with no embryo",
+        "50 mm with no embryo"
+      ],
+      "answer": "D",
+      "detail": "An MSD of 25 mm or more without an embryo indicates failure."
+    },
+    {
+      "number": 26,
+      "question": "If a scan shows a GS without a yolk sac, pregnancy failure is certain if a follow-up scan how many weeks later still shows no heartbeat?",
+      "choices": [
+        "1 week",
+        "2 weeks (14 days)",
+        "3 weeks",
+        "4 weeks",
+        "1 month"
+      ],
+      "answer": "B",
+      "detail": "No embryo with a heartbeat 2 weeks after a sac without a yolk sac is diagnostic of failure."
+    },
+    {
+      "number": 27,
+      "question": "If a scan shows a GS WITH a yolk sac, failure is diagnosed if no heartbeat is seen on follow-up after:",
+      "choices": [
+        "3 days",
+        "7 days",
+        "11 days",
+        "14 days",
+        "21 days"
+      ],
+      "answer": "C",
+      "detail": "The threshold is 11 days if a yolk sac was previously present."
+    },
+    {
+      "number": 28,
+      "question": "Approximately what percentage of ectopic pregnancies occur in the fallopian tube?",
+      "choices": [
+        "50%",
+        "75%",
+        "90%",
+        "95%",
+        "100%"
+      ],
+      "answer": "D",
+      "detail": "Nearly 95% of ectopics are tubal."
+    },
+    {
+      "number": 29,
+      "question": "Which specific part of the fallopian tube is the most common site for an ectopic pregnancy?",
+      "choices": [
+        "Fimbriae",
+        "Ampulla",
+        "Isthmus",
+        "Interstitial portion",
+        "Cervix"
+      ],
+      "answer": "B",
+      "detail": "Most occur in the ampulla."
+    },
+    {
+      "number": 30,
+      "question": "An 'Interstitial' ectopic pregnancy occurs where the tube passes through the uterine wall; it is high risk because:",
+      "choices": [
+        "It is always malignant",
+        "It can grow large before rupture and cause catastrophic hemorrhage",
+        "It is associated with twins",
+        "It cannot be seen on ultrasound",
+        "It always involves the ovary"
+      ],
+      "answer": "B",
+      "detail": "Interstitial ectopics are dangerous due to their potential for massive bleeding."
+    },
+    {
+      "number": 31,
+      "question": "At what serum Beta-hCG level (mIU/L) should a gestational sac typically be seen on ultrasound?",
+      "choices": [
+        "500–1000",
+        "1500–2000",
+        "5000",
+        "10,000",
+        "50,000"
+      ],
+      "answer": "B",
+      "detail": "You should see a sac by 1500–2000 mIU/L."
+    },
+    {
+      "number": 32,
+      "question": "A yolk sac should generally be visible by ultrasound when the Beta-hCG reaches:",
+      "choices": [
+        "1500",
+        "2000",
+        "5000",
+        "20,000",
+        "100,000"
+      ],
+      "answer": "C",
+      "detail": "At 5000 mIU/L, a yolk sac should be present."
+    },
+    {
+      "number": 33,
+      "question": "The 'Tubal Ring Sign' is an echogenic ring surrounding an un-ruptured ectopic pregnancy and is approximately:",
+      "choices": [
+        "10% specific",
+        "50% specific",
+        "75% specific",
+        "95% specific",
+        "100% specific"
+      ],
+      "answer": "D",
+      "detail": "The tubal ring sign is 95% specific for ectopic pregnancy."
+    },
+    {
+      "number": 34,
+      "question": "A 'Heterotopic Pregnancy' is defined as:",
+      "choices": [
+        "A twin pregnancy where one twin is a mole",
+        "A baby in the uterus AND a baby in an ectopic location (e.g., the tube)",
+        "A pregnancy in a unicornuate uterus",
+        "An ectopic pregnancy in the cervix",
+        "A pregnancy with two different fathers"
+      ],
+      "answer": "B",
+      "detail": "This involves simultaneous intrauterine and extrauterine pregnancies."
+    },
+    {
+      "number": 35,
+      "question": "If the Beta-hCG is positive but the uterus is empty, the presence of adnexal findings (other than a corpus luteum) has a Positive Predictive Value (PPV) for ectopic pregnancy of:",
+      "choices": [
+        "25–40%",
+        "50–60%",
+        "75–85%",
+        "99%",
+        "0%"
+      ],
+      "answer": "C",
+      "detail": "Adnexal findings carry a 75–85% PPV for ectopic."
+    },
+    {
+      "number": 36,
+      "question": "In a patient with an empty uterus and positive hCG, the addition of a moderate volume of free fluid increases the PPV for ectopic pregnancy to:",
+      "choices": [
+        "70%",
+        "85%",
+        "90%",
+        "97%",
+        "100%"
+      ],
+      "answer": "D",
+      "detail": "Moderate free fluid increases the PPV to 97%."
+    },
+    {
+      "number": 37,
+      "question": "True or False: A normal doubling time for serum Beta-hCG makes an ectopic pregnancy LESS likely.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "A",
+      "detail": "A normal doubling time is a reassuring sign against ectopic pregnancy."
+    },
+    {
+      "number": 38,
+      "question": "Biparietal Diameter (BPD) should be measured at the level of the:",
+      "choices": [
+        "Cerebellum",
+        "Thalamus",
+        "Orbit",
+        "Cisterna magna",
+        "Neck"
+      ],
+      "answer": "B",
+      "detail": "BPD is recorded at the level of the thalamus."
+    },
+    {
+      "number": 39,
+      "question": "BPD measurement is taken from the outermost edge of the near skull to the:",
+      "choices": [
+        "Outermost edge of the far skull",
+        "Inner table of the far skull",
+        "Thalamus",
+        "Midline",
+        "Skin surface"
+      ],
+      "answer": "B",
+      "detail": "The standard is outer-to-inner table."
+    },
+    {
+      "number": 40,
+      "question": "Which skull shape can result in a 'false large' BPD measurement?",
+      "choices": [
+        "Dolichocephaly",
+        "Brachycephaly",
+        "Trigonocephaly",
+        "Plagiocephaly",
+        "Microcephaly"
+      ],
+      "answer": "B",
+      "detail": "Brachycephaly can make the BPD appear falsely large."
+    },
+    {
+      "number": 41,
+      "question": "Unlike BPD, the 'Head Circumference' measurement is:",
+      "choices": [
+        "Affected more by head shape",
+        "Affected LESS by head shape",
+        "Taken at the level of the cerebellum",
+        "Measured from the skin",
+        "Only accurate in the 1st trimester"
+      ],
+      "answer": "B",
+      "detail": "Head circumference is a more stable measurement relative to head shape."
+    },
+    {
+      "number": 42,
+      "question": "Head Circumference measurement should NOT include the:",
+      "choices": [
+        "Bone",
+        "Skin",
+        "Brain parenchyma",
+        "Thalamus",
+        "Ventricles"
+      ],
+      "answer": "B",
+      "detail": "The skin is excluded from the HC measurement."
+    },
+    {
+      "number": 43,
+      "question": "Abdominal Circumference (AC) is recorded at the level of the junction of the:",
+      "choices": [
+        "Stomach and Spleen",
+        "Umbilical vein and Left Portal vein",
+        "Bladder and Rectum",
+        "Kidneys and Adrenals",
+        "Aorta and IVC"
+      ],
+      "answer": "B",
+      "detail": "The junction of the umbilical and left portal veins is the target level."
+    },
+    {
+      "number": 44,
+      "question": "AC measurement should NOT include which of the following?",
+      "choices": [
+        "The spine",
+        "The liver",
+        "The subcutaneous soft tissues",
+        "The stomach bubble",
+        "The ribs"
+      ],
+      "answer": "C",
+      "detail": "Subcutaneous soft tissues are excluded from AC."
+    },
+    {
+      "number": 45,
+      "question": "'Femur Length' (FL) is the longest dimension of the femoral shaft and does NOT include the:",
+      "choices": [
+        "Cortex",
+        "Femoral epiphysis",
+        "Medulla",
+        "Greater trochanter",
+        "Diaphysis"
+      ],
+      "answer": "B",
+      "detail": "The femoral epiphysis is not included in the FL."
+    },
+    {
+      "number": 46,
+      "question": "In the 2nd and 3rd trimesters, gestational age estimates are referred to as a:",
+      "choices": [
+        "Simple GA",
+        "Composite GA",
+        "Biometry Age",
+        "Estimated Due Date",
+        "Growth Index"
+      ],
+      "answer": "B",
+      "detail": "Dating in later pregnancy uses a composite of several parameters."
+    },
+    {
+      "number": 47,
+      "question": "Ultrasound GA estimates in the 2nd trimester (12–18 weeks) are accurate to within:",
+      "choices": [
+        "0.5 weeks",
+        "1.2 weeks",
+        "3.1 weeks",
+        "5 days",
+        "1 month"
+      ],
+      "answer": "B",
+      "detail": "Accuracy is approximately 1.2 weeks in the early 2nd trimester."
+    },
+    {
+      "number": 48,
+      "question": "Accuracy of ultrasound GA estimates at 36–42 weeks decreases to:",
+      "choices": [
+        "1 week",
+        "2 weeks",
+        "3.1 weeks",
+        "5 weeks",
+        "It remains accurate to 0.5 weeks"
+      ],
+      "answer": "C",
+      "detail": "Accuracy drops to 3.1 weeks near term."
+    },
+    {
+      "number": 49,
+      "question": "Estimated Fetal Weight (EFW) is typically calculated by the machine using either BPD and AC, or:",
+      "choices": [
+        "CRL and FL",
+        "AC and FL",
+        "BPD and HC",
+        "HC and CRL",
+        "Weight of the mother"
+      ],
+      "answer": "B",
+      "detail": "AC and FL are standard parameters for EFW calculation."
+    },
+    {
+      "number": 50,
+      "question": "For the 'Biophysical Profile,' a vertical amniotic fluid pocket is considered normal if it measures:",
+      "choices": [
+        "> 0.5 cm",
+        "> 1 cm",
+        "> 2 cm",
+        "> 5 cm",
+        "> 8 cm"
+      ],
+      "answer": "C",
+      "detail": "At least one pocket > 2 cm is required for points in the BPP."
+    },
+    {
+      "number": 51,
+      "question": "When can you first typically start to visualize the placenta on ultrasound?",
+      "choices": [
+        "4 weeks",
+        "8 weeks (as focal thickening)",
+        "12 weeks",
+        "20 weeks",
+        "At birth"
+      ],
+      "answer": "B",
+      "detail": "The placenta begins as focal thickening around 8 weeks."
+    },
+    {
+      "number": 52,
+      "question": "At what gestational age should the placenta take on its characteristic 'disc' shape?",
+      "choices": [
+        "8 weeks",
+        "10 weeks",
+        "12 weeks",
+        "16 weeks",
+        "24 weeks"
+      ],
+      "answer": "C",
+      "detail": "The disc shape is established by 12 weeks."
+    },
+    {
+      "number": 53,
+      "question": "The normal sonographic appearance of the placental parenchyma is described as:",
+      "choices": [
+        "Homogeneous and dark",
+        "Granular",
+        "Cystic",
+        "Shadowing",
+        "Snowstorm"
+      ],
+      "answer": "B",
+      "detail": "The parenchyma appears granular."
+    },
+    {
+      "number": 54,
+      "question": "Placental 'Venous Lakes' are described as focal hypoechoic areas that are:",
+      "choices": [
+        "Always malignant",
+        "An incidental finding of no significance",
+        "Highly associated with Trisomy 21",
+        "A sign of abruption",
+        "Only seen in the 1st trimester"
+      ],
+      "answer": "B",
+      "detail": "Venous lakes generally have no clinical significance."
+    },
+    {
+      "number": 55,
+      "question": "Which placental morphology consists of two near-equal sized lobes connected by a thin strip?",
+      "choices": [
+        "Succenturiate lobe",
+        "Bilobed Placenta",
+        "Circumvallate placenta",
+        "Placenta accreta",
+        "Molar placenta"
+      ],
+      "answer": "B",
+      "detail": "A bilobed placenta has two equal lobes."
+    },
+    {
+      "number": 56,
+      "question": "A 'Succenturiate Lobe' is defined as:",
+      "choices": [
+        "Two equal lobes",
+        "One or more small accessory lobes",
+        "A placenta that covers the cervix",
+        "Rolled edges of the placenta",
+        "A tumor of the placenta"
+      ],
+      "answer": "B",
+      "detail": "This refers to small accessory lobes separate from the main placental mass."
+    },
+    {
+      "number": 57,
+      "question": "Both bilobed and succenturiate placentas carry an increased risk for:",
+      "choices": [
+        "Ovarian cancer",
+        "Type 2 vasa previa and post-partum hemorrhage from retained tissue",
+        "Fetal biometry errors",
+        "Renal agenesis",
+        "Twins"
+      ],
+      "answer": "B",
+      "detail": "These variants predispose to vasa previa and retained products."
+    },
+    {
+      "number": 58,
+      "question": "A 'Circumvallate Placenta' is characterized by:",
+      "choices": [
+        "Small accessory lobes",
+        "Rolled placental edges with a smaller chorionic plate",
+        "Massive calcification",
+        "Pulsating Doppler flow",
+        "Location at the fundus"
+      ],
+      "answer": "B",
+      "detail": "It features rolled edges with a smaller chorionic plate."
+    },
+    {
+      "number": 59,
+      "question": "Patients with a circumvallate placenta are at high risk for:",
+      "choices": [
+        "Placental abruption and IUGR",
+        "Molar pregnancy",
+        "Gestational diabetes",
+        "Macrosomia",
+        "C-section"
+      ],
+      "answer": "A",
+      "detail": "Abruption and growth restriction are key risks."
+    },
+    {
+      "number": 60,
+      "question": "A placenta is considered 'Too Thin' if it measures less than:",
+      "choices": [
+        "0.5 cm",
+        "1 cm",
+        "2 cm",
+        "3 cm",
+        "5 cm"
+      ],
+      "answer": "B",
+      "detail": "< 1 cm is the threshold for a thin placenta."
+    },
+    {
+      "number": 61,
+      "question": "Which of the following is a cause of an abnormally thin placenta?",
+      "choices": [
+        "Fetal hydrops",
+        "Placental insufficiency or Maternal Hypertension",
+        "Maternal diabetes",
+        "Congenital fetal cancer",
+        "Twin pregnancy"
+      ],
+      "answer": "B",
+      "detail": "Insufficiency and hypertension lead to thin placentas."
+    },
+    {
+      "number": 62,
+      "question": "A placenta is considered 'Too Thick' if its measurement exceeds:",
+      "choices": [
+        "2 cm",
+        "3 cm",
+        "4 cm",
+        "10 cm",
+        "20 cm"
+      ],
+      "answer": "C",
+      "detail": "> 4 cm defines a thick placenta."
+    },
+    {
+      "number": 63,
+      "question": "Which condition is associated with an abnormally THICK placenta?",
+      "choices": [
+        "Placental insufficiency",
+        "Fetal Hydrops or Maternal Diabetes",
+        "Maternal hypertension",
+        "Trisomy 13",
+        "Toxemia of pregnancy"
+      ],
+      "answer": "B",
+      "detail": "Hydrops and DM are classic causes of thick placentas."
+    },
+    {
+      "number": 64,
+      "question": "'Placental Abruption' is characteristically described as:",
+      "choices": [
+        "Painless",
+        "PAINFUL",
+        "Asymptomatic",
+        "Benign",
+        "Only occurring at 4 weeks"
+      ],
+      "answer": "B",
+      "detail": "Abruption is typically painful."
+    },
+    {
+      "number": 65,
+      "question": "The hallmark imaging buzzword for placental abruption is:",
+      "choices": [
+        "Painless bleeding",
+        "Disruption of the retroplacental complex",
+        "Snowstorm appearance",
+        "Moth-eaten placenta",
+        "Linguine sign"
+      ],
+      "answer": "B",
+      "detail": "Look for the disruption of the retroplacental blood vessels."
+    },
+    {
+      "number": 66,
+      "question": "How can you distinguish placental abruption from a myometrial contraction or fibroid on imaging?",
+      "choices": [
+        "Abruption has fat; fibroids don't",
+        "Abruption DISRUPTS the retroplacental complex; fibroids DISPLACE it",
+        "Fibroids are always painful",
+        "Contractions are calcified",
+        "There is no way to tell"
+      ],
+      "answer": "B",
+      "detail": "Disruption vs. displacement of the complex is the key discriminator."
+    },
+    {
+      "number": 67,
+      "question": "'Placenta Previa' is clinically characterized by:",
+      "choices": [
+        "Severe abdominal pain",
+        "PAINLESS vaginal bleeding in the third trimester",
+        "High fever",
+        "Lack of fetal movement",
+        "Hypertension"
+      ],
+      "answer": "B",
+      "detail": "The hallmark of previa is painless bleeding."
+    },
+    {
+      "number": 68,
+      "question": "To avoid a 'False Positive' diagnosis of placenta previa, ultrasound should be performed with an:",
+      "choices": [
+        "Full bladder",
+        "Empty bladder",
+        "IUD in place",
+        "5 MHz probe only",
+        "Active contraction"
+      ],
+      "answer": "B",
+      "detail": "A full bladder can compress the lower segment and mimic previa."
+    },
+    {
+      "number": 69,
+      "question": "A 'Low-Lying' placenta is defined as having its margin within how many cm of the internal cervical os?",
+      "choices": [
+        "1 cm",
+        "2 cm",
+        "5 cm",
+        "10 cm",
+        "20 cm"
+      ],
+      "answer": "B",
+      "detail": "The margin must be within 2 cm of the os."
+    },
+    {
+      "number": 70,
+      "question": "'Placenta Accreta' is the most common (75%) and mildest form of creta where the villi:",
+      "choices": [
+        "Invade the bladder",
+        "Attach to the myometrium without invading",
+        "Penetrate the serosa",
+        "Disappear before birth",
+        "Only occur in twins"
+      ],
+      "answer": "B",
+      "detail": "In accreta, the villi attach directly to the myometrium."
+    },
+    {
+      "number": 71,
+      "question": "'Placenta Increta' is defined as villi that:",
+      "choices": [
+        "Are completely normal",
+        "Partially invade the myometrium",
+        "Exit the uterus into the bowel",
+        "Are only seen in molar pregnancies",
+        "Are calcified"
+      ],
+      "answer": "B",
+      "detail": "Increta involves partial invasion into the uterine wall."
+    },
+    {
+      "number": 72,
+      "question": "'Placenta Percreta' is the most severe form where villi penetrate through the:",
+      "choices": [
+        "Endometrium only",
+        "Myometrium only",
+        "Serosa (sometimes invading bladder or bowel)",
+        "Amnion",
+        "Yolk sac"
+      ],
+      "answer": "C",
+      "detail": "Percreta goes through the uterine wall and beyond."
+    },
+    {
+      "number": 73,
+      "question": "What are the two primary risk factors for the development of Placenta Creta?",
+      "choices": [
+        "Smoking and Alcohol",
+        "Prior C-section and Placenta Previa",
+        "High protein diet and Exercise",
+        "Multiple partners and PID",
+        "DES exposure and T-shaped uterus"
+      ],
+      "answer": "B",
+      "detail": "Prior C-section and previa are the leading risk factors."
+    },
+    {
+      "number": 74,
+      "question": "On ultrasound, a 'Placenta Creta' characteristically shows a:",
+      "choices": [
+        "Solid white mass",
+        "Moth-eaten or Swiss cheese appearance",
+        "Snowstorm pattern",
+        "Perfect circular shape",
+        "Water lily sign"
+      ],
+      "answer": "B",
+      "detail": "Look for the 'moth-eaten' appearance with vascular channels."
+    },
+    {
+      "number": 75,
+      "question": "'Placenta Chorioangioma' is defined as a:",
+      "choices": [
+        "Malignant tumor",
+        "Hamartoma of the placenta (most common benign tumor)",
+        "Type of placental abruption",
+        "Remnant of the yolk sac",
+        "Result of maternal cocaine use"
+      ],
+      "answer": "B",
+      "detail": "It is the most common benign placental tumor."
+    },
+    {
+      "number": 76,
+      "question": "How do you distinguish a Placenta Chorioangioma from a placental hematoma?",
+      "choices": [
+        "Chorioangioma is bigger",
+        "Chorioangioma has pulsating Doppler flow at the fetal heart rate",
+        "Hematomas are always near the cord",
+        "Hematomas are bright on T2",
+        "There is no difference"
+      ],
+      "answer": "B",
+      "detail": "Pulsating flow confirms it is a chorioangioma."
+    },
+    {
+      "number": 77,
+      "question": "Large chorioangiomas (> 4 cm) can cause which fetal complication?",
+      "choices": [
+        "Duodenal atresia",
+        "High output failure (Hydrops)",
+        "Renal agenesis",
+        "Spina bifida",
+        "Cleft lip"
+      ],
+      "answer": "B",
+      "detail": "They can sequester platelets and cause high output heart failure."
+    },
+    {
+      "number": 78,
+      "question": "'Velamentous Cord Insertion' is a variant where the cord inserts:",
+      "choices": [
+        "In the center of the placenta",
+        "Into the fetal membranes outside the placental margin",
+        "Directly into the mother's bladder",
+        "Into the cervix",
+        "Only in molar pregnancies"
+      ],
+      "answer": "B",
+      "detail": "It inserts into the membranes first."
+    },
+    {
+      "number": 79,
+      "question": "A 'Marginal Cord Insertion' is defined as a cord inserting within how many cm of the placental margin?",
+      "choices": [
+        "1 cm",
+        "2 cm",
+        "5 cm",
+        "10 cm",
+        "20 cm"
+      ],
+      "answer": "B",
+      "detail": "Insertion within 2 cm of the edge is considered marginal."
+    },
+    {
+      "number": 80,
+      "question": "'Vasa Previa' refers to fetal vessels that:",
+      "choices": [
+        "Are located in the brain",
+        "Cross or almost cross the internal cervical os",
+        "Are only found in the liver",
+        "Disappear during the 3rd trimester",
+        "Are made of maternal blood"
+      ],
+      "answer": "B",
+      "detail": "These vessels cross the cervix, putting them at risk for rupture."
+    },
+    {
+      "number": 81,
+      "question": "'Type 2 Vasa Previa' is associated with which placental variants?",
+      "choices": [
+        "Previa and Abruption",
+        "Bilobed placenta or Succenturiate lobe",
+        "Circumvallate placenta",
+        "Accreta",
+        "Normal placenta"
+      ],
+      "answer": "B",
+      "detail": "Type 2 vessels connect to accessory or bilobed parts."
+    },
+    {
+      "number": 82,
+      "question": "A 'Nuchal Cord' is the term for a cord that is:",
+      "choices": [
+        "Cased in a cyst",
+        "Wrapped around the neck of the fetus",
+        "Too short to reach the baby",
+        "Tied in a knot",
+        "Calcified"
+      ],
+      "answer": "B",
+      "detail": "This is a cord around the fetal neck."
+    },
+    {
+      "number": 83,
+      "question": "Umbilical cord cysts occur in about 3% of pregnancies; those located CENTRALLY are typically:",
+      "choices": [
+        "Omphalomesenteric duct cysts",
+        "Allantoic cysts",
+        "False cysts",
+        "Malignant",
+        "Teratomas"
+      ],
+      "answer": "B",
+      "detail": "Allantoic cysts are usually central."
+    },
+    {
+      "number": 84,
+      "question": "Umbilical cord cysts located PERIPHERALLY are typically:",
+      "choices": [
+        "Allantoic cysts",
+        "Omphalomesenteric duct cysts",
+        "Lymphangiomas",
+        "Simple cysts",
+        "Moles"
+      ],
+      "answer": "B",
+      "detail": "Omphalomesenteric cysts are peripheral."
+    },
+    {
+      "number": 85,
+      "question": "If umbilical cord cysts persist into the 2nd or 3rd trimester, they are associated with:",
+      "choices": [
+        "Macrosomia",
+        "Trisomy 18 and 13",
+        "Normal development",
+        "Maternal diabetes",
+        "Biliary atresia"
+      ],
+      "answer": "B",
+      "detail": "Persistent cysts warrant a search for chromosomal issues."
+    },
+    {
+      "number": 86,
+      "question": "In fetal biometry, a 'Short Femur' (below the 5th percentile) should make you think of:",
+      "choices": [
+        "Normal variant",
+        "Skeletal dysplasia",
+        "Maternal hypertension",
+        "Molar pregnancy",
+        "Twin pregnancy"
+      ],
+      "answer": "B",
+      "detail": "Short limbs are a hallmark of skeletal dysplasia."
+    },
+    {
+      "number": 87,
+      "question": "The 'Double Bubble' sign on antenatal ultrasound or MRI is diagnostic of:",
+      "choices": [
+        "Esophageal atresia",
+        "Duodenal Atresia",
+        "Pyloric stenosis",
+        "Gastric volvulus",
+        "Gallstones"
+      ],
+      "answer": "B",
+      "detail": "This sign indicates duodenal atresia."
+    },
+    {
+      "number": 88,
+      "question": "'Echogenic Bowel' is considered abnormal if its brightness is equal to:",
+      "choices": [
+        "The liver",
+        "The spleen",
+        "The iliac crest bone",
+        "The placenta",
+        "The mother's kidney"
+      ],
+      "answer": "C",
+      "detail": "Bowel should not be as bright as bone."
+    },
+    {
+      "number": 89,
+      "question": "The differential for echogenic bowel includes Cystic Fibrosis, Downs, and:",
+      "choices": [
+        "Macrosomia",
+        "Bowel Atresia or Viral Infection",
+        "Pre-eclampsia",
+        "Placenta previa",
+        "Normal variant"
+      ],
+      "answer": "B",
+      "detail": "These are key associations for bright fetal bowel."
+    },
+    {
+      "number": 90,
+      "question": "'Autosomal Recessive Polycystic Kidney Disease' (ARPKD) classically presents as:",
+      "choices": [
+        "Small shrunken kidneys",
+        "Massively enlarged bilateral kidneys with oligohydramnios",
+        "A single large renal cyst",
+        "Normal kidneys with polyhydramnios",
+        "Absent kidneys"
+      ],
+      "answer": "B",
+      "detail": "Fetal ARPKD features huge, bright kidneys."
+    },
+    {
+      "number": 91,
+      "question": "'Posterior Urethral Valves' (PUV) result in which classic imaging finding?",
+      "choices": [
+        "Unilateral hydronephrosis",
+        "Bilateral hydro (with thick bladder wall) on fetal US or MRI",
+        "A 'pancake' adrenal",
+        "A 'T-shaped' uterus",
+        "Absence of the stomach bubble"
+      ],
+      "answer": "B",
+      "detail": "PUV causes high-pressure bilateral obstruction."
+    },
+    {
+      "number": 92,
+      "question": "'Sacrococcygeal Teratoma' is the most common tumor of the fetus and typically causes:",
+      "choices": [
+        "Cleft palate",
+        "Mass effect on the GI system, hip dislocation, or high output cardiac failure",
+        "Brain tumors",
+        "Renal failure",
+        "Biliary atresia"
+      ],
+      "answer": "B",
+      "detail": "This large pelvic mass can cause severe systemic complications."
+    },
+    {
+      "number": 93,
+      "question": "Which skeletal measurement recorded at the same slice as BPD is affected LESS by head shape?",
+      "choices": [
+        "CRL",
+        "Head Circumference",
+        "AC",
+        "Femur length",
+        "Nuchal fold"
+      ],
+      "answer": "B",
+      "detail": "HC is more stable across different head shapes than BPD."
+    },
+    {
+      "number": 94,
+      "question": "'Composite GA' is typically calculated using BPD, HC, AC, and:",
+      "choices": [
+        "CRL",
+        "Femur Length (FL)",
+        "Umbilical artery flow",
+        "Maternal weight",
+        "Placental thickness"
+      ],
+      "answer": "B",
+      "detail": "FL is the fourth major component of composite dating."
+    },
+    {
+      "number": 95,
+      "question": "For fetal biometry, AC is specifically recorded at the level where what is visible?",
+      "choices": [
+        "The bladder",
+        "The heart",
+        "The stomach bubble",
+        "The kidneys",
+        "The eyes"
+      ],
+      "answer": "C",
+      "detail": "The stomach bubble is typically visible at theportal/umbilical junction."
+    },
+    {
+      "number": 96,
+      "question": "A 'Thin Placenta' (< 1cm) is a sign of:",
+      "choices": [
+        "Fetal hydrops",
+        "Placental Insufficiency",
+        "Gestational diabetes",
+        "Normal aging",
+        "Macrosomia"
+      ],
+      "answer": "B",
+      "detail": "Thin placentas indicate insufficiency."
+    },
+    {
+      "number": 97,
+      "question": "'Placenta Accreta' involves the villi attaching to the:",
+      "choices": [
+        "Endometrium only",
+        "Myometrium",
+        "Bladder",
+        "Peritoneum",
+        "Amnion"
+      ],
+      "answer": "B",
+      "detail": "Villi attach directly to the muscle in accreta."
+    },
+    {
+      "number": 98,
+      "question": "'Vasa Previa Type 1' occurs when vessels connect to a:",
+      "choices": [
+        "Bilobed placenta",
+        "Velamentous cord insertion within the main placental body",
+        "Succenturiate lobe",
+        "Normal cord insertion",
+        "Cervical tumor"
+      ],
+      "answer": "B",
+      "detail": "Type 1 is linked to velamentous insertion."
+    },
+    {
+      "number": 99,
+      "question": "A vertical fluid pocket > 8 cm on ultrasound is the definition of:",
+      "choices": [
+        "Oligohydramnios",
+        "Polyhydramnios",
+        "Normal fluid",
+        "Placenta previa",
+        "Molar pregnancy"
+      ],
+      "answer": "B",
+      "detail": "A single pocket > 8 cm defines polyhydramnios."
+    },
+    {
+      "number": 100,
+      "question": "'Amniotic Band Syndrome' can cause which of the following severe complications?",
+      "choices": [
+        "Diabetes",
+        "Decapitation or limb amputation",
+        "Biliary atresia",
+        "Renal stones",
+        "Twins"
+      ],
+      "answer": "B",
+      "detail": "The bands can constrict and sever fetal parts."
+    }
+  ]
+}

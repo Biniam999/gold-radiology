@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "In which clinical scenario might acute intracranial hemorrhage appear nearly isoattenuating to water on a noncontrast head CT?",
+      "choices": [
+        "Polycythemia vera",
+        "Severe dehydration",
+        "Severe anemia (hemoglobin <8 mg/dL)",
+        "Acute hypertensive crisis",
+        "Recent administration of IV contrast"
+      ],
+      "answer": "C",
+      "detail": "While acute blood is typically hyperdense relative to brain parenchyma, it may appear isoattenuating to water if the patient has severe anemia."
+    },
+    {
+      "number": 2,
+      "question": "What does the 'CTA spot sign' predict in the setting of acute intraparenchymal hemorrhage?",
+      "choices": [
+        "Rapid resolution of the hematoma",
+        "High likelihood of an underlying tumor",
+        "Hematoma expansion and poor clinical outcome",
+        "Presence of a ruptured saccular aneurysm",
+        "Success of supportive blood pressure management"
+      ],
+      "answer": "C",
+      "detail": "The 'spot sign' represents small enhancing foci within a hemorrhage that are not seen on noncontrast studies; it is a key predictor of hematoma growth and worsening clinical status."
+    },
+    {
+      "number": 3,
+      "question": "According to neurosurgical guidelines, spontaneous hemorrhage in which location typically requires surgical evacuation if it exceeds 3 cm in size?",
+      "choices": [
+        "Frontal lobe",
+        "Thalamus",
+        "Posterior fossa",
+        "Basal ganglia",
+        "Corpus callosum"
+      ],
+      "answer": "C",
+      "detail": "Hemorrhages >3 cm in the posterior fossa are generally treated surgically due to the high risk of brainstem compression or obstructive hydrocephalus."
+    },
+    {
+      "number": 4,
+      "question": "Which iron metabolite in the evolution of blood products is the only one that characteristically appears bright (hyperintense) on T1-weighted MRI images?",
+      "choices": [
+        "Oxyhemoglobin",
+        "Deoxyhemoglobin",
+        "Methemoglobin",
+        "Hemosiderin",
+        "Ferritin"
+      ],
+      "answer": "C",
+      "detail": "Methemoglobin (both intracellular and extracellular) is unique because it causes T1 shortening, resulting in hyperintensity."
+    },
+    {
+      "number": 5,
+      "question": "What is the characteristic MRI signal pattern of a hyperacute hematoma (<6 hours)?",
+      "choices": [
+        "T1 hyperintense; T2 hypointense",
+        "T1 isointense; T2 iso- to hyperintense with a dark rim",
+        "T1 bright; T2 bright",
+        "T1 dark; T2 dark",
+        "T1 dark; T2 bright with a blooming rim"
+      ],
+      "answer": "B",
+      "detail": "Hyperacute blood contains diamagnetic oxyhemoglobin, making the center isointense on T1 and iso-to-bright on T2, often with a peripheral dark rim on T2 due to early deoxygenation."
+    },
+    {
+      "number": 6,
+      "question": "How does an acute hematoma (6–72 hours) appear on MRI?",
+      "choices": [
+        "Bright on both T1 and T2",
+        "Dark on both T1 and T2",
+        "Iso-to-mildly hypointense on T1 and hypointense on T2",
+        "Hyperintense on T1 and hyperintense on T2",
+        "T1 isointense and T2 hyperintense"
+      ],
+      "answer": "C",
+      "detail": "As red cells desaturate, the paramagnetic effect of intracellular deoxyhemoglobin makes the hematoma dark on T2-weighted images and iso-to-mildly hypointense on T1."
+    },
+    {
+      "number": 7,
+      "question": "Why are standard MRI 'rules of thumb' for dating blood products not applicable to extra-axial blood, such as a subdural hematoma?",
+      "choices": [
+        "Extra-axial blood does not contain hemoglobin",
+        "Extra-axial blood does not undergo deoxygenation",
+        "Evolution is highly dependent on macrophage elimination, which differs outside the parenchyma",
+        "The blood-brain barrier prevents extra-axial blood from clotting",
+        "T2* blooming does not occur in the subdural space"
+      ],
+      "answer": "C",
+      "detail": "Timing is generally not assigned to extra-axial blood using intra-axial criteria because the elimination of breakdown products by macrophages differs outside the parenchyma."
+    },
+    {
+      "number": 8,
+      "question": "In the chronic stage of hemorrhage, iron stored as hemosiderin and ferritin characteristically appears as:",
+      "choices": [
+        "Hyperintense on T1 and T2",
+        "Hypointense on T2 and show blooming on GRE/SWI",
+        "Isointense on all sequences",
+        "Hyperintense on FLAIR with no susceptibility",
+        "Highly enhancing after gadolinium"
+      ],
+      "answer": "B",
+      "detail": "Iron stores produce T2 shortening and susceptibility artifacts that make them appear as 'dark spots' on T2-weighted and GRE/SWI images."
+    },
+    {
+      "number": 9,
+      "question": "What is the most common cause of spontaneous adult intraparenchymal hemorrhage?",
+      "choices": [
+        "Cerebral amyloid angiopathy",
+        "Arteriovenous malformation (AVM)",
+        "Chronic hypertension",
+        "Metastatic melanoma",
+        "Dural venous sinus thrombosis"
+      ],
+      "answer": "C",
+      "detail": "Chronic hypertension is the leading cause of spontaneous IPH, causing microangiopathic changes and vascular ectasia."
+    },
+    {
+      "number": 10,
+      "question": "Which of the following is a classic site for a hypertensive hemorrhage?",
+      "choices": [
+        "Frontal lobe cortex",
+        "Parietal lobe subcortical white matter",
+        "Thalamus or Basal Ganglia",
+        "Occipital pole",
+        "Splenium of the corpus callosum"
+      ],
+      "answer": "C",
+      "detail": "Hypertensive bleeds typically occur in the basal ganglia, thalamus, cerebellum, or pons."
+    },
+    {
+      "number": 11,
+      "question": "A normotensive elderly adult presents with a lobar hemorrhage. MRI shows multiple cortical/subcortical microhemorrhages on SWI, sparing the basal ganglia. What is the most likely diagnosis?",
+      "choices": [
+        "Hypertensive microangiopathy",
+        "Cerebral amyloid angiopathy (CAA)",
+        "Hemorrhagic transformation of an infarct",
+        "CNS vasculitis",
+        "Multiple cavernous malformations"
+      ],
+      "answer": "B",
+      "detail": "CAA characteristically presents as lobar hemorrhage with cortical/subcortical microbleeds on SWI, typically sparing the basal ganglia."
+    },
+    {
+      "number": 12,
+      "question": "Which imaging finding most strongly suggests an intraparenchymal hemorrhage is secondary to an underlying brain tumor?",
+      "choices": [
+        "A small amount of subarachnoid blood",
+        "Location in the basal ganglia",
+        "More-than-expected edema surrounding a hyperacute hematoma",
+        "Homogeneous signal intensity on all MRI sequences",
+        "Presence of a 'spot sign' on CTA"
+      ],
+      "answer": "C",
+      "detail": "Clues for tumoral hemorrhage include disproportionate edema, heterogeneous blood signal, and the presence of multiple enhancing masses."
+    },
+    {
+      "number": 13,
+      "question": "Which of the following malignancies is NOT among the 'primary' hemorrhagic brain metastases?",
+      "choices": [
+        "Melanoma",
+        "Renal cell carcinoma",
+        "Choriocarcinoma",
+        "Prostate carcinoma",
+        "Thyroid carcinoma"
+      ],
+      "answer": "D",
+      "detail": "The primary hemorrhagic metastases are melanoma, renal cell, choriocarcinoma, and thyroid carcinoma; prostate is not classically listed in this group."
+    },
+    {
+      "number": 14,
+      "question": "A 30-year-old female presents with bilateral thalamic hemorrhages. What etiology should be highly suspected?",
+      "choices": [
+        "Amyloid angiopathy",
+        "Hypertensive crisis",
+        "Deep venous system thrombosis",
+        "Ruptured A-comm aneurysm",
+        "CADASIL"
+      ],
+      "answer": "C",
+      "detail": "Bilateral thalamic involvement is a classic imaging pattern for deep venous system thrombosis."
+    },
+    {
+      "number": 15,
+      "question": "Intraparenchymal hemorrhage in a patient under the age of 50, associated with an enlarged feeding artery, is most likely due to:",
+      "choices": [
+        "Cerebral amyloid angiopathy",
+        "Hypertension",
+        "Arteriovenous malformation (AVM)",
+        "Methanol poisoning",
+        "Pituitary apoplexy"
+      ],
+      "answer": "C",
+      "detail": "AVMs are the most common vascular malformation causing hemorrhage and typically occur in younger patients."
+    },
+    {
+      "number": 16,
+      "question": "What is the pathognomonic imaging finding for 'Diabetic striatopathy'?",
+      "choices": [
+        "Bilateral thalamic T2 hyperintensity",
+        "Unilateral hyperintensity of the striatum on T1-weighted images",
+        "Diffuse cortical laminar necrosis",
+        "Multiple dark spots on SWI in the cerebellum",
+        "A 'martini glass' sign in the vitreous"
+      ],
+      "answer": "B",
+      "detail": "Diabetic striatopathy (hyperglycemia-induced hemichorea-hemiballismus) characteristically shows unilateral T1 hyperintensity in the striatum."
+    },
+    {
+      "number": 17,
+      "question": "In global Hypoxic Ischemic Encephalopathy (HIE), what does the 'white cerebellum sign' represent on CT?",
+      "choices": [
+        "Primary hemorrhage into the cerebellum",
+        "Calcification of the cerebellar cortex",
+        "Relative hyperattenuation of the cerebellum compared to the edematous cerebrum",
+        "Sparing of the basal ganglia with cortical edema",
+        "Global atrophy of the posterior fossa"
+      ],
+      "answer": "C",
+      "detail": "The cerebellum appears bright (dense) on CT relative to the edematous, hypoattenuating supratentorial brain in HIE."
+    },
+    {
+      "number": 18,
+      "question": "Selective hemorrhagic necrosis of the putamina with relative sparing of the globi pallidi is a hallmark of:",
+      "choices": [
+        "Carbon monoxide poisoning",
+        "Methanol poisoning",
+        "Wernicke encephalopathy",
+        "Osmotic demyelination",
+        "Herpes encephalitis"
+      ],
+      "answer": "B",
+      "detail": "Methanol poisoning selectively affects the putamina, often resulting in hemorrhagic necrosis while sparing the globi pallidi."
+    },
+    {
+      "number": 19,
+      "question": "The 'martini glass sign' (Y-shaped soft tissue stalk) is pathognomonic for which condition?",
+      "choices": [
+        "Persistent Hyperplastic Primary Vitreous (PHPV)",
+        "Terson syndrome",
+        "Neurocysticercosis",
+        "Cavernous malformation",
+        "Optic neuritis"
+      ],
+      "answer": "A",
+      "detail": "This sign represents a persistent hyaloid remnant extending from the optic disc to the lens in an infant with PHPV."
+    },
+    {
+      "number": 20,
+      "question": "Terson syndrome refers to the association of vitreous or retinal hemorrhage with:",
+      "choices": [
+        "Diabetic ketoacidosis",
+        "Severe blunt orbital trauma",
+        "Intracranial subarachnoid hemorrhage",
+        "Pituitary macroadenoma",
+        "Chronic hypertension"
+      ],
+      "answer": "C",
+      "detail": "Terson syndrome involves intraocular hemorrhage secondary to SAH, likely caused by a sudden increase in intracranial pressure."
+    }
+  ]
+}

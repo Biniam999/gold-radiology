@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Wernicke encephalopathy is an acute clinical syndrome of ataxia, confusion, and oculomotor dysfunction caused by a deficiency in which vitamin?",
+      "choices": [
+        "Vitamin B6 (Pyridoxine)",
+        "Vitamin B12 (Cobalamin)",
+        "Vitamin B1 (Thiamine)",
+        "Vitamin B3 (Niacin)",
+        "Vitamin A (Retinol)"
+      ],
+      "answer": "C",
+      "detail": "This deficiency is most common in patients with alcohol use disorder or secondary malnutrition, such as from hyperemesis or bariatric surgery."
+    },
+    {
+      "number": 2,
+      "question": "Which combination of brain structures is most frequently affected by symmetric hyperintensity on FLAIR in Wernicke encephalopathy?",
+      "choices": [
+        "Basal ganglia and subcortical U-fibers",
+        "Medial thalami, mammillary bodies, and periaqueductal gray matter",
+        "Splenium of the corpus callosum and dentate nuclei",
+        "Insular and cingulate gyri",
+        "Occipital lobes and perirolandic region"
+      ],
+      "answer": "B",
+      "detail": "Affected areas typically demonstrate symmetric hyperintensity on FLAIR and restricted diffusion, with contrast enhancement seen in up to 50% of cases."
+    },
+    {
+      "number": 3,
+      "question": "In chronic hepatic encephalopathy, symmetric hyperintensity on noncontrast T1-weighted images within the globi pallidi and substantia nigrae is thought to be due to the accumulation of:",
+      "choices": [
+        "Iron",
+        "Copper",
+        "Manganese",
+        "Calcium",
+        "Methemoglobin"
+      ],
+      "answer": "C",
+      "detail": "This finding is a reversible clinical syndrome often seen in patients with chronic liver disease and portal hypertension."
+    },
+    {
+      "number": 4,
+      "question": "Acute hyperammonemic encephalopathy, seen in acute liver failure, characteristically involves symmetric restricted diffusion and FLAIR hyperintensity in the:",
+      "choices": [
+        "Mammillary bodies and medial thalami",
+        "Occipital and parietal lobes (posterior circulation)",
+        "Insular and cingulate gyri",
+        "Dentate nuclei and dorsal pons",
+        "Putamina with sparing of the globi pallidi"
+      ],
+      "answer": "C",
+      "detail": "This pattern typically features relative sparing of the occipital lobes and perirolandic region."
+    },
+    {
+      "number": 5,
+      "question": "The 'lentiform fork sign' (FLAIR hyperintensity outlining the putamina) is an imaging finding associated with metabolic acidosis in the setting of:",
+      "choices": [
+        "Wernicke encephalopathy",
+        "Carbon monoxide poisoning",
+        "Uremic encephalopathy",
+        "Methanol poisoning",
+        "Hepatic encephalopathy"
+      ],
+      "answer": "C",
+      "detail": "Uremic encephalopathy occurs in renal failure; the 'lentiform fork sign' characteristically outlines the lateral and medial boundaries of the putamina."
+    },
+    {
+      "number": 6,
+      "question": "Selective hemorrhagic necrosis of the putamina with relative sparing of the globi pallidi is the hallmark imaging feature of:",
+      "choices": [
+        "Carbon monoxide poisoning",
+        "Methanol poisoning",
+        "Ethylene glycol poisoning",
+        "Metronidazole toxicity",
+        "Hypoglycemic encephalopathy"
+      ],
+      "answer": "B",
+      "detail": "Methanol poisoning causes severe metabolic acidosis and can lead to rapid progression to a comatose state."
+    },
+    {
+      "number": 7,
+      "question": "In contrast to methanol poisoning, carbon monoxide poisoning characteristically results in bilateral symmetric necrosis of the:",
+      "choices": [
+        "Putamina",
+        "Globi pallidi",
+        "Dentate nuclei",
+        "Mammillary bodies",
+        "Subcortical U-fibers"
+      ],
+      "answer": "B",
+      "detail": "This appears as hyperintensity with a hypointense rim on FLAIR and restricted diffusion on DWI."
+    },
+    {
+      "number": 8,
+      "question": "Osmotic demyelination (central pontine myelinolysis) typically occurs following the aggressive correction of:",
+      "choices": [
+        "Hypernatremia",
+        "Hyponatremia",
+        "Hypercalcemia",
+        "Hypokalemia",
+        "Hyperglycemia"
+      ],
+      "answer": "B",
+      "detail": "Rapid osmotic changes cause endothelial damage and myelin-damaging toxin release; extrapontine sites like the thalami or basal ganglia are involved in up to 50% of cases."
+    },
+    {
+      "number": 9,
+      "question": "Marchiafava-Bignami disease is a rare disorder primarily associated with chronic alcohol use and is characterized by demyelination and necrosis of the:",
+      "choices": [
+        "Thalamus",
+        "Dentate nuclei",
+        "Corpus callosum",
+        "Tectal plate",
+        "Internal capsule"
+      ],
+      "answer": "C",
+      "detail": "Imaging shows T2 prolongation and restricted diffusion within the corpus callosum, often extending into the pericallosal white matter."
+    },
+    {
+      "number": 10,
+      "question": "Symmetric hyperintensity on FLAIR involving the cerebellar dentate nuclei and the splenium of the corpus callosum is highly characteristic of toxicity from which drug?",
+      "choices": [
+        "Methotrexate",
+        "Metronidazole",
+        "Cyclosporine",
+        "Cisplatin",
+        "Phenytoin"
+      ],
+      "answer": "B",
+      "detail": "While more common with prolonged treatment, it has been described with short courses; patients typically present with cerebellar dysfunction."
+    },
+    {
+      "number": 11,
+      "question": "Which imaging pattern is most characteristic of methotrexate-induced brain toxicity?",
+      "choices": [
+        "Symmetric hyperintensity of the medial thalami",
+        "Bilateral, asymmetric white matter lesions crossing vascular territories with sparing of subcortical U-fibers",
+        "Diffuse cortical ribboning with sparing of the motor cortex",
+        "Coarse bilateral calcification of the basal ganglia",
+        "Symmetric hyperintensity of the globi pallidi on T1"
+      ],
+      "answer": "B",
+      "detail": "These lesions show diffusion restriction; unlike malignancy, the pattern and enhancement typically disappear without treatment."
+    },
+    {
+      "number": 12,
+      "question": "Fahr disease is an important differential diagnosis for parathyroid dysfunction because it also presents with bilateral basal ganglia calcification, but it is distinguished by:",
+      "choices": [
+        "Low serum calcium",
+        "Elevated parathyroid hormone (PTH)",
+        "Absence of laboratory abnormalities (idiopathic/genetic)",
+        "Presence of the lentiform fork sign",
+        "Restricted diffusion in the dentate nuclei"
+      ],
+      "answer": "C",
+      "detail": "Fahr disease is idiopathic or genetic and lacks the laboratory abnormalities associated with parathyroid dysfunction."
+    },
+    {
+      "number": 13,
+      "question": "In the setting of parathyroid dysfunction or Fahr disease, how does coarse basal ganglia calcification typically appear on T1-weighted MRI?",
+      "choices": [
+        "Hypointense",
+        "Hyperintense",
+        "Isointense",
+        "Flow-void signal",
+        "Restricted diffusion"
+      ],
+      "answer": "B",
+      "detail": "Minerals like dispersed calcium can cause T1 shortening, resulting in hyperintensity."
+    },
+    {
+      "number": 14,
+      "question": "Elevated NAA (N-acetylaspartate) on MR spectroscopy is a characteristic finding in which metabolic leukodystrophy?",
+      "choices": [
+        "Leigh syndrome",
+        "Canavan disease",
+        "Alexander disease",
+        "Metachromatic leukodystrophy",
+        "Krabbe disease"
+      ],
+      "answer": "B",
+      "detail": "While most abnormalities cause decreased NAA, it is characteristically elevated in Canavan disease."
+    },
+    {
+      "number": 15,
+      "question": "On MR spectroscopy, an elevated lactate peak is a clue for mitochondrial encephalopathies such as:",
+      "choices": [
+        "Canavan disease",
+        "Leigh syndrome",
+        "Marchiafava-Bignami disease",
+        "Wernicke encephalopathy",
+        "Hepatic encephalopathy"
+      ],
+      "answer": "B",
+      "detail": "Lactate reflects anaerobic glycolysis and abnormal tissue damage, serving as a clue for conditions like Leigh syndrome."
+    }
+  ]
+}

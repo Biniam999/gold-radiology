@@ -1,0 +1,1306 @@
+{
+    "questions": 
+    
+[
+  {
+    "number": 1,
+    "question": "Pyriform aperture stenosis is anatomically defined on an axial CT by a narrowed or inward bow to the maxillary spines with an aperture measuring less than:",
+    "choices": [
+      "5 mm",
+      "8 mm",
+      "10 mm",
+      "12 mm",
+      "15 mm"
+    ],
+    "answer": "B",
+    "detail": "An aperture < 8 mm is the classic diagnostic threshold."
+  },
+  {
+    "number": 2,
+    "question": "Which physical finding is seen in 75% of kids with Pyriform Aperture Stenosis?",
+    "choices": [
+      "Absence of the uvula",
+      "Central MEGA-incisor",
+      "Cleft palate",
+      "Low-set ears",
+      "Bifid tongue"
+    ],
+    "answer": "B",
+    "detail": "The central MEGA-incisor is the big trivia association for this midline developmental problem."
+  },
+  {
+    "number": 3,
+    "question": "If you identify Pyriform Aperture Stenosis on a CT, what is the mandatory next step in management?",
+    "choices": [
+      "Immediate surgery",
+      "Image the brain",
+      "Echo to rule out VSD",
+      "Renal ultrasound",
+      "Hearing test"
+    ],
+    "answer": "B",
+    "detail": "Because this is a midline defect, 'face predicts brain'; you must image the brain to check for holoprosencephaly or pituitary dysfunction."
+  },
+  {
+    "number": 4,
+    "question": "A newborn presents with 'cyclical cyanosis that improves with crying' and an inability to pass a nasogastric (NG) tube. What is the diagnosis?",
+    "choices": [
+      "Pyriform aperture stenosis",
+      "Bilateral Choanal Atresia",
+      "Croup",
+      "Epiglottitis",
+      "Tracheoesophageal fistula"
+    ],
+    "answer": "B",
+    "detail": "Bilateral choanal atresia causes cyclical cyanosis because neonates are obligate nose-breathers until they cry and mouth-breath."
+  },
+  {
+    "number": 5,
+    "question": "What is the most common syndromic association with Choanal Atresia?",
+    "choices": [
+      "VACTERL",
+      "CHARGE syndrome",
+      "PHACES syndrome",
+      "Williams syndrome",
+      "Turner syndrome"
+    ],
+    "answer": "B",
+    "detail": "CHARGE (Coloboma, Heart defect, Atresia, Retarded growth, GU abnormalities, Ear anomalies) is the most cited syndrome."
+  },
+  {
+    "number": 6,
+    "question": "Which type of Choanal Atresia is the most common?",
+    "choices": [
+      "Bony (90%)",
+      "Membranous (10%)",
+      "Mixed",
+      "Fibrous",
+      "Cartilaginous"
+    ],
+    "answer": "A",
+    "detail": "The bony type accounts for 90% of cases."
+  },
+  {
+    "number": 7,
+    "question": "A midline nasal mass that does NOT change in size with crying or jugular vein compression is likely a:",
+    "choices": [
+      "Nasal encephalocele",
+      "Nasal Dermoid / Epidermoid",
+      "Hemangioma",
+      "Rhabdomyosarcoma",
+      "Choanal polyp"
+    ],
+    "answer": "B",
+    "detail": "Unlike encephaloceles, dermoids/epidermoids are midline and do NOT change with maneuvers that increase intracranial pressure."
+  },
+  {
+    "number": 8,
+    "question": "Which craniofacial syndrome is characterized by a 'tiny retruded chin,' hypoplastic zygomatic arches, and a concave curve of the horizontal ramus?",
+    "choices": [
+      "Apert’s syndrome",
+      "Crouzon’s syndrome",
+      "Treacher Collins syndrome",
+      "Pfeiffer syndrome",
+      "Goldenhar syndrome"
+    ],
+    "answer": "C",
+    "detail": "Treacher Collins features a tiny retruded chin (mandibular hypoplasia) and is dangerous for intubation."
+  },
+  {
+    "number": 9,
+    "question": "What is the most common location of ectopic thyroid tissue?",
+    "choices": [
+      "Lingual thyroid (back of the tongue)",
+      "Substernal",
+      "Lateral neck",
+      "Submandibular",
+      "Pre-hyoid"
+    ],
+    "answer": "A",
+    "detail": "Lingual thyroid at the back of the tongue is the most common site."
+  },
+  {
+    "number": 10,
+    "question": "Which imaging modality is superior for diagnosing ectopic thyroid tissue?",
+    "choices": [
+      "Ultrasound",
+      "CT with contrast",
+      "MRI",
+      "Nuclear Medicine (I-123 or Tc-MIBI)"
+    ],
+    "answer": "D",
+    "detail": "Nukes is superior to ultrasound for identifying functioning ectopic thyroid tissue."
+  },
+  {
+    "number": 11,
+    "question": "What is the most common congenital neck cyst in pediatrics?",
+    "choices": [
+      "Second branchial cleft cyst",
+      "Thyroglossal Duct Cyst (TGDC)",
+      "Dermoid cyst",
+      "Ranula",
+      "Cystic hygroma"
+    ],
+    "answer": "B",
+    "detail": "TGDC is the most common."
+  },
+  {
+    "number": 12,
+    "question": "The classic imaging scenario for a Thyroglossal Duct Cyst is a:",
+    "choices": [
+      "Lateral neck mass anterior to the SCM",
+      "Midline cyst in the neck of a kid",
+      "Cyst hanging off the back of the neck on OB US",
+      "Intra-thyroidal solid mass",
+      "Lateral supraclavicular mass"
+    ],
+    "answer": "B",
+    "detail": "Midline is the buzzword for TGDC."
+  },
+  {
+    "number": 13,
+    "question": "What is the surgical procedure used to remove a Thyroglossal Duct Cyst, including the tract and hyoid bone?",
+    "choices": [
+      "Kasai procedure",
+      "LeCompte maneuver",
+      "Sistrunk procedure",
+      "Mustard procedure",
+      "Fontan procedure"
+    ],
+    "answer": "C",
+    "detail": "The Sistrunk procedure involves removing the cyst, the tract, and the hyoid bone to prevent recurrence."
+  },
+  {
+    "number": 14,
+    "question": "An enhancing nodule identified within a Thyroglossal Duct Cyst should make you highly suspicious for:",
+    "choices": [
+      "Infection",
+      "Papillary Thyroid Cancer",
+      "Medullary Thyroid Cancer",
+      "Hemangioma",
+      "Lymphoma"
+    ],
+    "answer": "B",
+    "detail": "Enhancing nodules in a TGDC usually represent cancer (usually papillary)."
+  },
+  {
+    "number": 15,
+    "question": "A midline sublingual space mass described as a 'sac of marbles' (fat lobules within fluid) is characteristic of a:",
+    "choices": [
+      "Thyroglossal duct cyst",
+      "Dermoid Cyst",
+      "Ranula",
+      "Cystic hygroma",
+      "Branchial cleft cyst"
+    ],
+    "answer": "B",
+    "detail": "The 'sac of marbles' appearance is classic for a dermoid in the floor of the mouth."
+  },
+  {
+    "number": 16,
+    "question": "Which type of Branchial Cleft Cyst is the most common (95%)?",
+    "choices": [
+      "Type I",
+      "Type II",
+      "Type III",
+      "Type IV",
+      "Type V"
+    ],
+    "answer": "B",
+    "detail": "Type II is by far the most common."
+  },
+  {
+    "number": 17,
+    "question": "Where is a Type II Branchial Cleft Cyst typically located?",
+    "choices": [
+      "Midline, above the hyoid",
+      "Lateral neck, anterior to the SCM and at the angle of the mandible",
+      "Posterior triangle of the neck",
+      "Within the parotid gland",
+      "Floor of the mouth"
+    ],
+    "answer": "B",
+    "detail": "It is lateral and classically located at the angle of the mandible, anterior to the sternocleidomastoid (SCM)."
+  },
+  {
+    "number": 18,
+    "question": "Septic thrombophlebitis of the internal jugular vein following a pharyngeal infection is known as:",
+    "choices": [
+      "Mondor disease",
+      "Lemierre’s Syndrome",
+      "Paget-Schroetter syndrome",
+      "Cogan syndrome",
+      "Behcet disease"
+    ],
+    "answer": "B",
+    "detail": "Lemierre’s syndrome is clotted JVP in the setting of pharyngeal infection."
+  },
+  {
+    "number": 19,
+    "question": "What is the bacteria most commonly associated with Lemierre’s Syndrome?",
+    "choices": [
+      "Staph aureus",
+      "E. coli",
+      "Fusobacterium necrophorum",
+      "Pseudomonas",
+      "Streptococcus pyogenes"
+    ],
+    "answer": "C",
+    "detail": "Fusobacterium necrophorum is the bacteria responsible."
+  },
+  {
+    "number": 20,
+    "question": "What is the mandatory 'next step' in imaging when Lemierre's Syndrome is suspected?",
+    "choices": [
+      "Search the lungs for septic emboli",
+      "Get a brain MRI",
+      "Perform a barium swallow",
+      "Order a thyroid scan",
+      "Renal ultrasound"
+    ],
+    "answer": "A",
+    "detail": "You must look for septic emboli in the lungs."
+  },
+  {
+    "number": 21,
+    "question": "A 'neck mass that enlarges with Valsalva' in a child with an idiopathic dilated jugular vein is called:",
+    "choices": [
+      "Septic thrombophlebitis",
+      "Phlebectasia",
+      "Cystic hygroma",
+      "Lemierre's syndrome",
+      "Laryngocele"
+    ],
+    "answer": "B",
+    "detail": "Phlebectasia is a dilated jugular vein that worsens with Valsalva and has no stenosis or collaterals."
+  },
+  {
+    "number": 22,
+    "question": "Which vascular mass typically appears around 6 months of age, plateaus, and then progressively involutes?",
+    "choices": [
+      "Infantile Hemangioma",
+      "Congenital Hemangioma (RICH)",
+      "Cystic hygroma",
+      "Rhabdomyosarcoma",
+      "Lymphatic malformation"
+    ],
+    "answer": "A",
+    "detail": "Infantile hemangiomas are NOT present at birth and show up around 6 months."
+  },
+  {
+    "number": 23,
+    "question": "What is the first-line medical treatment for a rapidly growing infantile hemangioma causing airway or vision problems?",
+    "choices": [
+      "Steroids",
+      "Beta blockers (Propranolol)",
+      "Chemotherapy",
+      "Radiation",
+      "Embolization"
+    ],
+    "answer": "B",
+    "detail": "Propranolol (beta blocker) is the standard medical treatment."
+  },
+  {
+    "number": 24,
+    "question": "A 'cystic mass hanging off the back of the neck' on an OB ultrasound is most likely a:",
+    "choices": [
+      "Hemangioma",
+      "Cystic Hygroma (Lymphangioma)",
+      "Encephalocele",
+      "Branchial cleft cyst",
+      "Thyroglossal duct cyst"
+    ],
+    "answer": "B",
+    "detail": "Cystic hygroma is the classic posterior neck mass on fetal US."
+  },
+  {
+    "number": 25,
+    "question": "What is the most common chromosomal association with a Cystic Hygroma?",
+    "choices": [
+      "Downs syndrome",
+      "Turner Syndrome (45, XO)",
+      "Trisomy 13",
+      "Trisomy 18",
+      "Klinefelter syndrome"
+    ],
+    "answer": "B",
+    "detail": "Turner's is the most common association."
+  },
+  {
+    "number": 26,
+    "question": "Unlike hemangiomas, a Cystic Hygroma characteristically does NOT:",
+    "choices": [
+      "Appear T2 bright",
+      "Have fluid levels",
+      "Enhance",
+      "Have septations",
+      "Occur in the neck"
+    ],
+    "answer": "C",
+    "detail": "Cystic hygromas do NOT enhance, whereas hemangiomas do."
+  },
+  {
+    "number": 27,
+    "question": "A 4-week-old neonate presents with a palpable neck mass and the chin pointing toward the opposite side. What is the diagnosis?",
+    "choices": [
+      "Neuroblastoma",
+      "Fibromatosis Coli (Congenital Torticollis)",
+      "Rhabdomyosarcoma",
+      "Septic thrombophlebitis",
+      "Branchial cleft cyst"
+    ],
+    "answer": "B",
+    "detail": "Fibromatosis coli is benign inflammation of the SCM in a neonate."
+  },
+  {
+    "number": 28,
+    "question": "What is the best imaging test for Fibromatosis Coli?",
+    "choices": [
+      "Ultrasound",
+      "CT with contrast",
+      "MRI",
+      "Plain film",
+      "MIBG"
+    ],
+    "answer": "A",
+    "detail": "Ultrasound is the best test and shows an enlarged sternocleidomastoid (SCM)."
+  },
+  {
+    "number": 29,
+    "question": "If an apparent 'fibromatosis coli' mass contains internal calcifications, what should you suspect instead?",
+    "choices": [
+      "Neuroblastoma",
+      "Rhabdomyosarcoma",
+      "Hemangioma",
+      "LCH",
+      "Abscess"
+    ],
+    "answer": "A",
+    "detail": "Internal calcifications in a neck mass in this demographic suggest neuroblastoma."
+  },
+  {
+    "number": 30,
+    "question": "What is the most common extra-ocular orbital malignancy in children?",
+    "choices": [
+      "Neuroblastoma metastasis",
+      "Rhabdomyosarcoma",
+      "Dermoid",
+      "Optic glioma",
+      "Retinoblastoma"
+    ],
+    "answer": "B",
+    "detail": "Rhabdomyosarcoma is the most common extra-ocular malignancy."
+  },
+  {
+    "number": 31,
+    "question": "A 'mucocele' of the lacrimal sac found in newborns is known as a:",
+    "choices": [
+      "Dacryocystocele",
+      "Ranula",
+      "Branchial cleft cyst",
+      "Thyroglossal duct cyst",
+      "Cystic hygroma"
+    ],
+    "answer": "A",
+    "detail": "Dacryocystocele is the term for a nasolacrimal duct mucocele in newborns."
+  },
+  {
+    "number": 32,
+    "question": "A 'mucous retention cyst' from the sublingual or minor salivary glands that 'plunges' under the mylohyoid muscle is a:",
+    "choices": [
+      "Thyroglossal duct cyst",
+      "Ranula",
+      "Dermoid",
+      "Epidermoid",
+      "Hemangioma"
+    ],
+    "answer": "B",
+    "detail": "Ranulas are lateral and can be called 'plunging' or 'diving'."
+  },
+  {
+    "number": 33,
+    "question": "What does 'PHACES' syndrome stand for?",
+    "choices": [
+      "Posterior fossa (Dandy-Walker), Hemangiomas, Arterial anomalies, Coarctation of aorta/cardiac, Eye abnormalities, Subglottic hemangioma/Sternal cleft",
+      "Polydactyly, Heart, Anal, Choanal atresia, Ear, Spine",
+      "Portal HTN, Hemangioma, ASD, CFH, Erythema, Spleen",
+      "Pituitary, Hypothalamus, Adrenal, Calcium, Enzymes, Skin",
+      "Polymicrogyria, Hydrocephalus, Agenesis of CC, CMV, Encephalocele, Schizencephaly"
+    ],
+    "answer": "A",
+    "detail": "PHACES covers multiorgan involvement associated with large segmental hemangiomas."
+  },
+  {
+    "number": 34,
+    "question": "Which neck mass is described as a 'sac of marbles' in the midline sublingual space?",
+    "choices": [
+      "Thyroglossal duct cyst",
+      "Dermoid/Epidermoid",
+      "Ranula",
+      "Branchial cleft cyst",
+      "Lymphangioma"
+    ],
+    "answer": "B",
+    "detail": "The 'sac of marbles' look is the classic buzzword for a dermoid."
+  },
+  {
+    "number": 35,
+    "question": "A cystic lesion located LATERAL to the midline, anterior to the SCM, is most likely a:",
+    "choices": [
+      "Thyroglossal duct cyst",
+      "Branchial Cleft Cyst",
+      "Dermoid cyst",
+      "Ectopic thyroid",
+      "Midline nasal dermoid"
+    ],
+    "answer": "B",
+    "detail": "Branchial Cleft Cysts are lateral."
+  },
+  {
+    "number": 36,
+    "question": "What is the most common cause of acute upper airway obstruction in young children (6 months to 3 years)?",
+    "choices": [
+      "Epiglottitis",
+      "Croup",
+      "Foreign body aspiration",
+      "Bacterial tracheitis",
+      "Subglottic hemangioma"
+    ],
+    "answer": "B",
+    "detail": "Croup is the most common cause."
+  },
+  {
+    "number": 37,
+    "question": "What is the characteristic radiographic finding for Croup on a frontal neck X-ray?",
+    "choices": [
+      "Thumb sign",
+      "Steeple Sign",
+      "Hourglass sign",
+      "Sail sign",
+      "Spinnaker sign"
+    ],
+    "answer": "B",
+    "detail": "The Steeple sign represents loss of the normal subglottic tracheal shoulders."
+  },
+  {
+    "number": 38,
+    "question": "What is the most common viral etiology for Croup?",
+    "choices": [
+      "RSV",
+      "Parainfluenza virus",
+      "Influenza A",
+      "Adenovirus",
+      "Rhinovirus"
+    ],
+    "answer": "B",
+    "detail": "Parainfluenza is the most common culprit."
+  },
+  {
+    "number": 39,
+    "question": "A 3.5-year-old child presents with high fever, drooling, and a 'Thumb Sign' on a lateral neck X-ray. What is the diagnosis?",
+    "choices": [
+      "Croup",
+      "Epiglottitis",
+      "Bacterial tracheitis",
+      "Retropharyngeal abscess",
+      "Papillomatosis"
+    ],
+    "answer": "B",
+    "detail": "The 'Thumb sign' and drooling are hallmarks of epiglottitis."
+  },
+  {
+    "number": 40,
+    "question": "What is the most common organism responsible for Epiglottitis?",
+    "choices": [
+      "Staph aureus",
+      "Haemophilus influenzae (H-Flu)",
+      "Streptococcus",
+      "Parainfluenza",
+      "Pseudomonas"
+    ],
+    "answer": "B",
+    "detail": "H-Flu is the classic mediator."
+  },
+  {
+    "number": 41,
+    "question": "In Epiglottitis, death by asphyxiation is actually caused by swelling of which structure?",
+    "choices": [
+      "The epiglottis itself",
+      "The aryepiglottic folds",
+      "The vocal cords",
+      "The subglottic trachea",
+      "The uvula"
+    ],
+    "answer": "B",
+    "detail": "Swelling of the aryepiglottic folds causes the obstruction."
+  },
+  {
+    "number": 42,
+    "question": "A 'linear soft tissue filling defect' (a membrane) within the airway of a 6-10 year old is characteristic of:",
+    "choices": [
+      "Croup",
+      "Epiglottitis",
+      "Exudative (Bacterial) Tracheitis",
+      "Foreign body",
+      "Papillomatosis"
+    ],
+    "answer": "C",
+    "detail": "Bacterial tracheitis features linear membranes and plaques."
+  },
+  {
+    "number": 43,
+    "question": "Which bug is the most common cause of Exudative Tracheitis?",
+    "choices": [
+      "H-Flu",
+      "Parainfluenza",
+      "Staph aureus",
+      "Streptococcus",
+      "Klebsiella"
+    ],
+    "answer": "C",
+    "detail": "Staph A. is the usual cause."
+  },
+  {
+    "number": 44,
+    "question": "What is the mandatory next step when you suspect a Retropharyngeal Abscess based on a lateral X-ray?",
+    "choices": [
+      "Barium swallow",
+      "CT with contrast",
+      "Ultrasound",
+      "Endoscopy",
+      "MR Angiogram"
+    ],
+    "answer": "B",
+    "detail": "CT is the next step to evaluate for a drainable abscess and check for extension into the 'Danger Zone'."
+  },
+  {
+    "number": 45,
+    "question": "To distinguish 'pseudothickening' from true retropharyngeal thickening on a lateral X-ray, what should you do?",
+    "choices": [
+      "Repeat the film with an extended neck",
+      "Order an immediate MRI",
+      "Give the child a marshmallow to swallow",
+      "Perform a CT",
+      "Nothing, it's always an abscess"
+    ],
+    "answer": "A",
+    "detail": "Pseudo-thickening occurs when the neck is flexed; repeating with extension is the next step."
+  },
+  {
+    "number": 46,
+    "question": "A 'Subglottic Hemangioma' typically presents with an ASYMMETRIC narrowing of the trachea. Which side does it tend to favor?",
+    "choices": [
+      "Right side",
+      "Left side",
+      "Posterior wall",
+      "Anterior wall",
+      "It is always symmetric"
+    ],
+    "answer": "B",
+    "detail": "It tends to favor the left side."
+  },
+  {
+    "number": 47,
+    "question": "A 'Laryngeal Cleft' is a rare abnormality where contrast appears in the trachea without laryngeal penetration (aspiration). What is the definitive diagnostic step?",
+    "choices": [
+      "Fetal MRI",
+      "Barium swallow",
+      "Endoscopy / Direct visualization",
+      "Ultrasound",
+      "Lateral X-ray"
+    ],
+    "answer": "C",
+    "detail": "Definite diagnosis is always made with endoscopy."
+  },
+  {
+    "number": 48,
+    "question": "'Multiple lung nodules which demonstrate cavitation' in a child with lobulated 'grape-looking' masses in the airway is classic for:",
+    "choices": [
+      "LCH",
+      "Papillomatosis (HPV)",
+      "Tuberculosis",
+      "Fungal pneumonia",
+      "Sarcoidosis"
+    ],
+    "answer": "B",
+    "detail": "Papillomatosis presents with airway masses and cavitary lung nodules."
+  },
+  {
+    "number": 49,
+    "question": "Papillomatosis carries what percentage risk of transformation to squamous cell cancer?",
+    "choices": [
+      "0%",
+      "2%",
+      "10%",
+      "25%",
+      "50%"
+    ],
+    "answer": "B",
+    "detail": "There is a 2% risk of squamous cell cancer."
+  },
+  {
+    "number": 50,
+    "question": "When a child swallows a coin, if the coin appears 'Coronal' (flat/round) on a frontal X-ray, where is it located?",
+    "choices": [
+      "Esophagus",
+      "Trachea",
+      "Right main bronchus",
+      "Stomach",
+      "Pharynx"
+    ],
+    "answer": "A",
+    "detail": "The esophagus is a 'dirty sock' and allows the coin to lay flat (coronal)."
+  },
+  {
+    "number": 51,
+    "question": "If a swallowed coin appears 'turned' (skinny/sagittal) on a frontal X-ray, it is located in the:",
+    "choices": [
+      "Esophagus",
+      "Trachea",
+      "Left main bronchus",
+      "Stomach",
+      "Duodenum"
+    ],
+    "answer": "B",
+    "detail": "The trachea is rigid with a posterior membrane, forcing the coin to rotate into the sagittal orientation."
+  },
+  {
+    "number": 52,
+    "question": "What is the most common SYMPTOMATIC vascular ring anomaly?",
+    "choices": [
+      "Left arch with aberrant right subclavian",
+      "Double Aortic Arch",
+      "Pulmonary Sling",
+      "Innominate artery compression",
+      "Right arch with mirror branching"
+    ],
+    "answer": "B",
+    "detail": "Double Aortic Arch is the most common symptomatic ring."
+  },
+  {
+    "number": 53,
+    "question": "Which vascular variant is the ONLY one to course between the esophagus and the trachea?",
+    "choices": [
+      "Double aortic arch",
+      "Pulmonary Sling",
+      "Aberrant right subclavian artery",
+      "Bovine arch",
+      "Persistent left SVC"
+    ],
+    "answer": "B",
+    "detail": "Pulmonary Sling is unique for going between the two structures."
+  },
+  {
+    "number": 54,
+    "question": "Pulmonary Sling is uniquely associated with which other airway pathology?",
+    "choices": [
+      "Tracheal stenosis (complete rings)",
+      "Epiglottitis",
+      "Croup",
+      "Tracheomalacia",
+      "Bronchogenic cyst"
+    ],
+    "answer": "A",
+    "detail": "It is associated with tracheal stenosis from complete rings."
+  },
+  {
+    "number": 55,
+    "question": "'Dysphagia Lusoria' refers to difficulty swallowing caused by compression from which vessel?",
+    "choices": [
+      "Double aortic arch",
+      "Aberrant Right Subclavian Artery",
+      "Pulmonary sling",
+      "Persistent left SVC",
+      "Innominate artery"
+    ],
+    "answer": "B",
+    "detail": "This describes difficulty swallowing from an aberrant right subclavian."
+  },
+  {
+    "number": 56,
+    "question": "A 'Diverticulum of Kommerell' is an aneurysmal dilatation seen at the proximal portion of:",
+    "choices": [
+      "A bovine arch",
+      "A double aortic arch",
+      "An aberrant right subclavian artery",
+      "A pulmonary sling",
+      "A right aortic arch"
+    ],
+    "answer": "C",
+    "detail": "It is a pouch-like dilation of the proximal aberrant right subclavian."
+  },
+  {
+    "number": 57,
+    "question": "What is the 'next step' if you suspect a foreign body aspiration and the X-ray is normal?",
+    "choices": [
+      "CT scan",
+      "Expiratory film or decubitus film (put the lucent side down)",
+      "Barium swallow",
+      "Nuclear medicine scan",
+      "Discharge home"
+    ],
+    "answer": "B",
+    "detail": "If the lung stays lucent when the bad side is down, it confirms air trapping from a foreign body."
+  },
+  {
+    "number": 58,
+    "question": "Which airway infection peak incidence is around 1 year of age?",
+    "choices": [
+      "Croup",
+      "Epiglottitis",
+      "Bacterial tracheitis",
+      "Retropharyngeal abscess",
+      "Papillomatosis"
+    ],
+    "answer": "A",
+    "detail": "Croup peak is 1 year."
+  },
+  {
+    "number": 59,
+    "question": "In the 'Battle Tactics' for a frontal neck X-ray, how do you tell Croup from a Subglottic Hemangioma?",
+    "choices": [
+      "Croup is symmetric; Hemangioma is asymmetric (one-sided)",
+      "Croup is one-sided; Hemangioma is symmetric",
+      "Hemangioma has a thumb sign",
+      "Croup has a linear filling defect",
+      "They cannot be distinguished"
+    ],
+    "answer": "A",
+    "detail": "Croup has symmetric shouldering; hemangiomas have loss of just one side."
+  },
+  {
+    "number": 60,
+    "question": "A 'steeple sign' on a frontal neck X-ray is the classic buzzword for:",
+    "choices": [
+      "Epiglottitis",
+      "Croup",
+      "Bacterial tracheitis",
+      "Subglottic hemangioma",
+      "Vascular ring"
+    ],
+    "answer": "B",
+    "detail": "Croup is the answer."
+  },
+  {
+    "number": 61,
+    "question": "At what age does a child typically present with Exudative Tracheitis?",
+    "choices": [
+      "1 year",
+      "3 years",
+      "6-10 years",
+      "15 years",
+      "At birth"
+    ],
+    "answer": "C",
+    "detail": "It affects older kids, typically 6-10 years."
+  },
+  {
+    "number": 62,
+    "question": "Which structure's thickening (>6mm at C2 or >22mm at C6) defines a Retropharyngeal Abscess on lateral X-ray?",
+    "choices": [
+      "Prevertebral soft tissues",
+      "Epiglottis",
+      "Aryepiglottic folds",
+      "Uvula",
+      "Thyroid"
+    ],
+    "answer": "A",
+    "detail": "Massive retropharyngeal prevertebral soft tissue thickening is the finding."
+  },
+  {
+    "number": 63,
+    "question": "'Bickers Adams Edwards syndrome' is an X-linked cause of congenital hydrocephalus associated with:",
+    "choices": [
+      "Flexed thumbs",
+      "Absent clavicles",
+      "Fused fingers",
+      "Rocker bottom feet",
+      "Cleft palate"
+    ],
+    "answer": "A",
+    "detail": "Flexed thumbs in a male with hydrocephalus is the classic clue."
+  },
+  {
+    "number": 64,
+    "question": "In a child with 'Sickle Cell,' what is the most likely cause of a 'Big Heart' and lung opacities?",
+    "choices": [
+      "Croup",
+      "Acute Chest Syndrome",
+      "Meconium aspiration",
+      "TTN",
+      "SDD"
+    ],
+    "answer": "B",
+    "detail": "Acute Chest is the leading cause of death in sickle cell patients and presents with big heart and lung opacities."
+  },
+  {
+    "number": 65,
+    "question": "'Colpocephaly' (asymmetric dilation of the occipital horns) is the classic imaging finding for:",
+    "choices": [
+      "Dandy Walker",
+      "Corpus Callosum Agenesis",
+      "Holoprosencephaly",
+      "Chiari I",
+      "Aqueductal stenosis"
+    ],
+    "answer": "B",
+    "detail": "Colpocephaly = CC agenesis."
+  },
+  {
+    "number": 66,
+    "question": "What is the peak age of incidence for a Medulloblastoma?",
+    "choices": [
+      "2 years",
+      "6 years",
+      "15 years",
+      "30 years",
+      "50 years"
+    ],
+    "answer": "B",
+    "detail": "Medulloblastoma peak age is 6 years."
+  },
+  {
+    "number": 67,
+    "question": "Which tumor originates from the ROOF of the 4th ventricle and may project into it?",
+    "choices": [
+      "Ependymoma",
+      "Medulloblastoma",
+      "JPA",
+      "Hemangioblastoma",
+      "Chordoma"
+    ],
+    "answer": "B",
+    "detail": "Medulloblastoma is from the roof; ependymoma is from the floor."
+  },
+  {
+    "number": 68,
+    "question": "Which tumor is known for 'toothpaste' behavior, squeezing out of the 4th ventricle into the basal cisterns?",
+    "choices": [
+      "Medulloblastoma",
+      "Ependymoma",
+      "JPA",
+      "AT/RT",
+      "DNET"
+    ],
+    "answer": "B",
+    "detail": "Ependymoma is the 'toothpaste' tumor."
+  },
+  {
+    "number": 69,
+    "question": "A 'cyst with a nodule' in the posterior fossa of a kid is a:",
+    "choices": [
+      "Hemangioblastoma",
+      "Juvenile Pilocytic Astrocytoma (JPA)",
+      "Medulloblastoma",
+      "Ependymoma",
+      "AT/RT"
+    ],
+    "answer": "B",
+    "detail": "JPA is the kid version; Hemangioblastoma is the adult version."
+  },
+  {
+    "number": 70,
+    "question": "What is the most common TORCH infection?",
+    "choices": [
+      "Toxoplasmosis",
+      "CMV",
+      "Rubella",
+      "HSV",
+      "HIV"
+    ],
+    "answer": "B",
+    "detail": "CMV is 3x more common than Toxo."
+  },
+  {
+    "number": 71,
+    "question": "Which TORCH infection is most strongly associated with Polymicrogyria?",
+    "choices": [
+      "CMV",
+      "Toxo",
+      "Rubella",
+      "HSV",
+      "Syphilis"
+    ],
+    "answer": "A",
+    "detail": "CMV has the highest association with polymicrogyria."
+  },
+  {
+    "number": 72,
+    "question": "Periventricular calcifications in a neonate should make you think of:",
+    "choices": [
+      "CMV",
+      "Toxoplasmosis",
+      "Rubella",
+      "HSV",
+      "HIV"
+    ],
+    "answer": "A",
+    "detail": "CMV targets the germinal matrix, causing periventricular calcifications."
+  },
+  {
+    "number": 73,
+    "question": "Basal ganglia calcifications and hydrocephalus in a neonate should make you think of:",
+    "choices": [
+      "CMV",
+      "Toxoplasmosis",
+      "Rubella",
+      "HSV",
+      "HIV"
+    ],
+    "answer": "B",
+    "detail": "Toxo favors the basal ganglia."
+  },
+  {
+    "number": 74,
+    "question": "The 'Puff of Smoke' appearance on a cerebral angiogram is diagnostic for:",
+    "choices": [
+      "PAN",
+      "Moyamoya",
+      "Sickle Cell",
+      "NF-1",
+      "FMD"
+    ],
+    "answer": "B",
+    "detail": "Moyamoya is the 'puff of smoke'."
+  },
+  {
+    "number": 75,
+    "question": "Moyamoya in a child is most commonly associated with:",
+    "choices": [
+      "Down syndrome",
+      "Sickle Cell Disease",
+      "NF-1",
+      "Prior radiation",
+      "Williams syndrome"
+    ],
+    "answer": "B",
+    "detail": "In a child, lead with Sickle Cell."
+  },
+  {
+    "number": 76,
+    "question": "'Beaked Tectum' and 'Low lying torcula' are classic features of which malformation?",
+    "choices": [
+      "Chiari I",
+      "Chiari II",
+      "Chiari III",
+      "Dandy Walker",
+      "Holoprosencephaly"
+    ],
+    "answer": "B",
+    "detail": "Chiari II features tectal beaking and a low torcula."
+  },
+  {
+    "number": 77,
+    "question": "Chiari II is virtually always associated with which other defect?",
+    "choices": [
+      "Polydactyly",
+      "Myelomeningocele (Neural Tube Defect)",
+      "Horseshoe kidney",
+      "Bicuspid aortic valve",
+      "Pulmonary sling"
+    ],
+    "answer": "B",
+    "detail": "Chiari II and Open NTDs go together."
+  },
+  {
+    "number": 78,
+    "question": "'Meningoencephaloceles' that occur in the occipital region and include features of Chiari II are termed:",
+    "choices": [
+      "Chiari I",
+      "Chiari 1.5",
+      "Chiari III",
+      "Chiari IV",
+      "Dandy Walker"
+    ],
+    "answer": "C",
+    "detail": "Chiari III = Chiari 2 + Occipital Encephalocele."
+  },
+  {
+    "number": 79,
+    "question": "A cephalocele sac that contains spinal cord is called a:",
+    "choices": [
+      "Meningocele",
+      "Myelocele",
+      "Cystocele",
+      "Encephalocele",
+      "Meningo-encephalocele"
+    ],
+    "answer": "B",
+    "detail": "Myelocele contains spinal cord."
+  },
+  {
+    "number": 80,
+    "question": "What is the most common primary brain tumor in infants (under 1 year)?",
+    "choices": [
+      "Medulloblastoma",
+      "Choroid Plexus Papilloma",
+      "JPA",
+      "Ependymoma",
+      "AT/RT"
+    ],
+    "answer": "B",
+    "detail": "Choroid Plexus Papilloma makes up 15% of tumors in infants."
+  },
+  {
+    "number": 81,
+    "question": "In children, Choroid Plexus Papillomas are typically found in the:",
+    "choices": [
+      "4th ventricle",
+      "Lateral ventricle (trigone)",
+      "3rd ventricle",
+      "Foramen of Monro",
+      "Subarachnoid space"
+    ],
+    "answer": "B",
+    "detail": "In kids it's the lateral ventricle; in adults it's the 4th."
+  },
+  {
+    "number": 82,
+    "question": "A 'Gelastic Seizure' (laughing seizure) is the classic clinical history for a:",
+    "choices": [
+      "Craniopharyngioma",
+      "Hypothalamic Hamartoma",
+      "Pituitary adenoma",
+      "Germinoma",
+      "Pineoblastoma"
+    ],
+    "answer": "B",
+    "detail": "Hypothalamic Hamartoma causes gelastic seizures."
+  },
+  {
+    "number": 83,
+    "question": "'Machinery oil' fluid and calcifications in the sella of a child suggest:",
+    "choices": [
+      "Adamantinomatous Craniopharyngioma",
+      "Papillary Craniopharyngioma",
+      "Pituitary microadenoma",
+      "Rathke cleft cyst",
+      "Dermoid"
+    ],
+    "answer": "A",
+    "detail": "Adamantinomatous is the calcified 'kid type' with machinery oil fluid."
+  },
+  {
+    "number": 84,
+    "question": "A 'vertical gaze palsy' (Parinaud syndrome) is associated with masses in which region?",
+    "choices": [
+      "Sella",
+      "Pineal Gland",
+      "Posterior fossa",
+      "Temporal lobe",
+      "Frontal lobe"
+    ],
+    "answer": "B",
+    "detail": "Pineal masses (like Germinomas) cause vertical gaze palsy."
+  },
+  {
+    "number": 85,
+    "question": "'Engulfed' calcification of the pineal gland in a child is characteristic of a:",
+    "choices": [
+      "Germinoma",
+      "Pineoblastoma",
+      "Pineocytoma",
+      "Teratoma",
+      "Dermoid"
+    ],
+    "answer": "A",
+    "detail": "Germinoma = 'Engulfed' calcification."
+  },
+  {
+    "number": 86,
+    "question": "In 'L-Transposition' (Lucky), the heart is 'congenitally corrected' because:",
+    "choices": [
+      "The aorta arises from the RV",
+      "There is an inversion of the ventricles",
+      "A PDA is present",
+      "The PA is draped over the aorta",
+      "There is a large VSD"
+    ],
+    "answer": "B",
+    "detail": "L-transposition involves ventricle inversion, making it compatible with life."
+  },
+  {
+    "number": 87,
+    "question": "The 'LeCompte Maneuver' is a surgical technique used in the Jatene arterial switch that results in:",
+    "choices": [
+      "A box-shaped heart",
+      "The PA draped overtop the Aorta",
+      "An egg-on-a-string appearance",
+      "A snowman appearance",
+      "A boot-shaped heart"
+    ],
+    "answer": "B",
+    "detail": "The PA draped over the aorta is the imaging sign for a corrected D-transposition."
+  },
+  {
+    "number": 88,
+    "question": "What is the most common cyanotic heart disease?",
+    "choices": [
+      "D-Transposition",
+      "Tetralogy of Fallot (TOF)",
+      "TAPVR",
+      "Truncus Arteriosus",
+      "Tricuspid atresia"
+    ],
+    "answer": "B",
+    "detail": "TOF is the most common overall."
+  },
+  {
+    "number": 89,
+    "question": "What is the most common complication following surgery for Tetralogy of Fallot?",
+    "choices": [
+      "Aortic stenosis",
+      "Pulmonary regurgitation",
+      "VSD recurrence",
+      "Tricuspid atresia",
+      "Mitral valve prolapse"
+    ],
+    "answer": "B",
+    "detail": "Pulmonary regurgitation is the most common post-op issue."
+  },
+  {
+    "number": 90,
+    "question": "Truncus Arteriosus is strongly associated with which genetic condition?",
+    "choices": [
+      "Down syndrome",
+      "Turner syndrome",
+      "DiGeorge Syndrome (CATCH-22)",
+      "Williams syndrome",
+      "Holt-Oram syndrome"
+    ],
+    "answer": "C",
+    "detail": "Truncus and DiGeorge are closely linked."
+  },
+  {
+    "number": 91,
+    "question": "What is the most common fetal cardiac tumor, often associated with Tuberous Sclerosis?",
+    "choices": [
+      "Fibroma",
+      "Rhabdomyoma",
+      "Myxoma",
+      "Teratoma",
+      "Lipoma"
+    ],
+    "answer": "B",
+    "detail": "Rhabdomyoma is the most common and often regresses spontaneously."
+  },
+  {
+    "number": 92,
+    "question": "Which pediatric cardiac tumor is the 2nd most common and typically involves the IV septum?",
+    "choices": [
+      "Rhabdomyoma",
+      "Fibroma",
+      "Myxoma",
+      "Hemangioma",
+      "Sarcoma"
+    ],
+    "answer": "B",
+    "detail": "Fibromas are dark/dark on T1/T2 and involve the septum."
+  },
+  {
+    "number": 93,
+    "question": "A 'Massive Box-Shaped Heart' on a newborn CXR is the Aunt Minnie for:",
+    "choices": [
+      "TOF",
+      "Ebstein Anomaly",
+      "TAPVR",
+      "D-Transposition",
+      "Coarctation"
+    ],
+    "answer": "B",
+    "detail": "Ebstein's causes a massive 'box-shaped' heart."
+  },
+  {
+    "number": 94,
+    "question": "'Pulmonary Artery Banding' is performed to:",
+    "choices": [
+      "Increase pulmonary flow",
+      "Reduce pulmonary artery pressure (to 1/3 of systemic)",
+      "Repair a VSD",
+      "Fix transposition",
+      "Close a PDA"
+    ],
+    "answer": "B",
+    "detail": "Banding reduces pressure to protect the lungs."
+  },
+  {
+    "number": 95,
+    "question": "The 'Ross Procedure' involves replacing a diseased aortic valve with the patient's own:",
+    "choices": [
+      "Mitral valve",
+      "Pulmonary valve",
+      "Tricuspid valve",
+      "Pericardium",
+      "Synthetic graft"
+    ],
+    "answer": "B",
+    "detail": "The pulmonary valve replaces the aortic valve."
+  },
+  {
+    "number": 96,
+    "question": "'Boot Shaped Heart' (Coeur en Sabot) is characteristic of:",
+    "choices": [
+      "D-Transposition",
+      "Tetralogy of Fallot (TOF)",
+      "Ebstein anomaly",
+      "TAPVR",
+      "Truncus arteriosus"
+    ],
+    "answer": "B",
+    "detail": "TOF is the correct answer."
+  },
+  {
+    "number": 97,
+    "question": "'Egg on a String' appearance is the Aunt Minnie for:",
+    "choices": [
+      "TOF",
+      "D-Transposition",
+      "TAPVR",
+      "Coarctation",
+      "Ebstein anomaly"
+    ],
+    "answer": "B",
+    "detail": "Transposition is the correct answer."
+  },
+  {
+    "number": 98,
+    "question": "'Snowman' appearance of the heart is characteristic of which type of Total Anomalous Pulmonary Venous Return (TAPVR)?",
+    "choices": [
+      "Type 1 (Supracardiac)",
+      "Type 2 (Cardiac)",
+      "Type 3 (Infracardiac)",
+      "Type 4",
+      "All types"
+    ],
+    "answer": "A",
+    "detail": "Type 1 (Supracardiac) drains above the heart, creating the snowman look."
+  },
+  {
+    "number": 99,
+    "question": "Which type of TAPVR presents as a 'full on pulmonary edema look' in a newborn?",
+    "choices": [
+      "Type 1",
+      "Type 2",
+      "Type 3 (Infracardiac)",
+      "Type 4",
+      "None of the above"
+    ],
+    "answer": "C",
+    "detail": "Type 3 drains below the diaphragm and becomes obstructed, causing edema."
+  },
+  {
+    "number": 100,
+    "question": "'Scimitar Sword' sign is the Aunt Minnie for:",
+    "choices": [
+      "TOF",
+      "PAPVR with Hypoplasia",
+      "Truncus arteriosus",
+      "Coarctation",
+      "VSD"
+    ],
+    "answer": "B",
+    "detail": "PAPVR with pulmonary hypoplasia is the correct answer."
+  }
+]
+
+}

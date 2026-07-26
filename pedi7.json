@@ -1,0 +1,1307 @@
+{
+    "questions": 
+    
+[
+  {
+    "number": 1,
+    "question": "What is the most common subtype of Esophageal Atresia (EA) / Tracheoesophageal (TE) fistula?",
+    "choices": [
+      "Esophageal Atresia with NO fistula",
+      "H-Type Atresia",
+      "N-Type Fistula",
+      "Double fistula",
+      "Pure Stenosis"
+    ],
+    "answer": "C",
+    "detail": "The N-type fistula is the most common subtype, accounting for 85% of cases."
+  },
+  {
+    "number": 2,
+    "question": "On a frontal chest X-ray of a newborn, an NG tube that \"curls\" or stops in the upper neck/thoracic region is a classic sign of:",
+    "choices": [
+      "Hypertrophic pyloric stenosis",
+      "Esophageal Atresia",
+      "Choanal Atresia",
+      "Midgut Volvulus",
+      "Duodenal Web"
+    ],
+    "answer": "B",
+    "detail": "An NG tube stopped in the upper neck is a classic way to show Esophageal Atresia."
+  },
+  {
+    "number": 3,
+    "question": "In Esophageal Atresia, the presence of \"excessive air in the stomach\" indicates which subtype?",
+    "choices": [
+      "Esophageal Atresia NO fistula",
+      "H-type (or N-type)",
+      "Pure atresia",
+      "Membranous atresia",
+      "It is a normal finding"
+    ],
+    "answer": "B",
+    "detail": "Excessive air in the stomach suggests an H-type or N-type fistula where the airway communicates with the distal GI tract."
+  },
+  {
+    "number": 4,
+    "question": "\"No air in the stomach\" in a newborn with Esophageal Atresia suggests:",
+    "choices": [
+      "N-type fistula",
+      "H-type fistula",
+      "Esophageal Atresia WITHOUT a fistula",
+      "Midgut volvulus",
+      "Duodenal atresia"
+    ],
+    "answer": "C",
+    "detail": "If there is no air in the stomach, it is classically EA without a fistula."
+  },
+  {
+    "number": 5,
+    "question": "What is the most common cardiac anomaly associated with the VACTERL association?",
+    "choices": [
+      "Transposition of the great arteries",
+      "VSD",
+      "Ebstein Anomaly",
+      "Tetralogy of Fallot",
+      "Hypoplastic Left Heart"
+    ],
+    "answer": "B",
+    "detail": "While the acronym covers \"C\" for Cardiac (77% frequency), VSD is generally cited as the most common."
+  },
+  {
+    "number": 6,
+    "question": "Which of the following is NOT part of the VACTERL association?",
+    "choices": [
+      "Vertebral anomalies",
+      "Anal atresia",
+      "Tracheal stenosis",
+      "Renal anomalies",
+      "Limb (radial ray) defects"
+    ],
+    "answer": "C",
+    "detail": "The \"TE\" in VACTERL stands for Tracheoesophageal fistula, not tracheal stenosis."
+  },
+  {
+    "number": 7,
+    "question": "In VACTERL, which organ system is most frequently affected (77%)?",
+    "choices": [
+      "Vertebral",
+      "Anal",
+      "Cardiac",
+      "Renal",
+      "Limb"
+    ],
+    "answer": "C",
+    "detail": "Cardiac anomalies are the most frequent, occurring in 77% of patients."
+  },
+  {
+    "number": 8,
+    "question": "If a child swallows a coin and it appears \"flat\" or circular on a frontal X-ray, where is it located?",
+    "choices": [
+      "Esophagus",
+      "Trachea",
+      "Right main bronchus",
+      "Larynx",
+      "Stomach"
+    ],
+    "answer": "A",
+    "detail": "The esophagus is a \"dirty sock\" and allows the coin to lie in the coronal (flat) plane."
+  },
+  {
+    "number": 9,
+    "question": "A swallowed coin that appears \"turned\" or thin (sagittal) on a frontal X-ray is located in the:",
+    "choices": [
+      "Esophagus",
+      "Trachea",
+      "Pharynx",
+      "Duodenum",
+      "Sigmoid"
+    ],
+    "answer": "B",
+    "detail": "The trachea is rigid with a posterior membrane, forcing the coin into a sagittal (skinny) orientation."
+  },
+  {
+    "number": 10,
+    "question": "What is the mandatory management for a battery stuck in the esophagus?",
+    "choices": [
+      "Follow with serial X-rays",
+      "Give a laxative",
+      "Remove immediately",
+      "Perform a barium swallow",
+      "Wait 24 hours for spontaneous passage"
+    ],
+    "answer": "C",
+    "detail": "Batteries in the esophagus must be removed immediately to prevent alkaline burns/perforation."
+  },
+  {
+    "number": 11,
+    "question": "Which vascular variant is the ONLY one to pass between the esophagus and the trachea?",
+    "choices": [
+      "Double Aortic Arch",
+      "Aberrant right subclavian artery",
+      "Pulmonary Sling",
+      "Bovine Arch",
+      "Left Aortic Arch"
+    ],
+    "answer": "C",
+    "detail": "Pulmonary sling is unique because it is the only variant that goes between the esophagus and trachea."
+  },
+  {
+    "number": 12,
+    "question": "Pulmonary Sling is characteristically associated with which other pathology?",
+    "choices": [
+      "VSD",
+      "Tracheal stenosis (complete rings)",
+      "Coarctation",
+      "Horseshoe kidney",
+      "Bicuspid aortic valve"
+    ],
+    "answer": "B",
+    "detail": "It is classically associated with tracheal stenosis from complete rings."
+  },
+  {
+    "number": 13,
+    "question": "What is the most common SYMPTOMATIC vascular ring?",
+    "choices": [
+      "Left arch with aberrant right subclavian",
+      "Double Aortic Arch",
+      "Pulmonary Sling",
+      "Right aortic arch",
+      "Persistent left SVC"
+    ],
+    "answer": "B",
+    "detail": "Double Aortic Arch is the most common symptomatic ring."
+  },
+  {
+    "number": 14,
+    "question": "\"Dysphagia Lusoria\" refers to difficulty swallowing caused by compression from which vessel?",
+    "choices": [
+      "Double aortic arch",
+      "Aberrant Right Subclavian Artery",
+      "Pulmonary sling",
+      "Innominate artery",
+      "Persistent left SVC"
+    ],
+    "answer": "B",
+    "detail": "This describes swallowing trouble from an aberrant right subclavian."
+  },
+  {
+    "number": 15,
+    "question": "A \"Diverticulum of Kommerell\" is a pouch-like dilation seen at the origin of:",
+    "choices": [
+      "An aberrant right subclavian artery",
+      "A double aortic arch",
+      "A pulmonary sling",
+      "A right hepatic artery",
+      "A ductus arteriosus"
+    ],
+    "answer": "A",
+    "detail": "It is an aneurysmal dilation of the proximal portion of an aberrant right subclavian."
+  },
+  {
+    "number": 16,
+    "question": "A newborn with bilious vomiting and a \"single bubble\" on X-ray should be evaluated for:",
+    "choices": [
+      "Duodenal atresia",
+      "Midgut Volvulus",
+      "Pyloric stenosis",
+      "Hirschsprung disease",
+      "Meconium ileus"
+    ],
+    "answer": "B",
+    "detail": "Bilious vomiting with a single bubble (distended stomach) is ominous for midgut volvulus."
+  },
+  {
+    "number": 17,
+    "question": "The \"Double Bubble\" sign on a newborn gram is the hallmark for:",
+    "choices": [
+      "Gastric atresia",
+      "Duodenal Atresia",
+      "Jejunal atresia",
+      "Malrotation",
+      "Meconium ileus"
+    ],
+    "answer": "B",
+    "detail": "Double bubble = Duodenal Atresia."
+  },
+  {
+    "number": 18,
+    "question": "What percentage of infants with Duodenal Atresia have Down Syndrome?",
+    "choices": [
+      "10%",
+      "30%",
+      "50%",
+      "70%",
+      "90%"
+    ],
+    "answer": "B",
+    "detail": "30% of these kids have Downs."
+  },
+  {
+    "number": 19,
+    "question": "A \"Triple Bubble\" sign on a newborn gram suggests:",
+    "choices": [
+      "Duodenal atresia",
+      "Jejunal Atresia",
+      "Colonic atresia",
+      "Pyloric stenosis",
+      "Normal infant"
+    ],
+    "answer": "B",
+    "detail": "Triple bubble = Jejunal Atresia."
+  },
+  {
+    "number": 20,
+    "question": "Jejunal atresia is believed to be the result of:",
+    "choices": [
+      "Failure to canalize",
+      "An intrauterine vascular insult",
+      "Genetic mutation in Down syndrome",
+      "Maternal diabetes",
+      "Meconium blockage"
+    ],
+    "answer": "B",
+    "detail": "Jejunal atresia is secondary to a vascular insult during development."
+  },
+  {
+    "number": 21,
+    "question": "Seeing distal gas in the setting of a \"double bubble\" excludes which diagnosis?",
+    "choices": [
+      "Duodenal web",
+      "Duodenal Atresia",
+      "Midgut volvulus",
+      "Duodenal stenosis",
+      "Annular pancreas"
+    ],
+    "answer": "B",
+    "detail": "Distal gas excludes atresia; the differential then becomes web, stenosis, or volvulus."
+  },
+  {
+    "number": 22,
+    "question": "Multiple diffusely dilated loops of bowel in a neonate suggest a \"low\" obstruction; the next step is:",
+    "choices": [
+      "Upper GI",
+      "Ultrasound",
+      "Contrast Enema",
+      "CT with IV contrast",
+      "Emergent surgery"
+    ],
+    "answer": "C",
+    "detail": "For a low obstruction, the next step is a contrast enema."
+  },
+  {
+    "number": 23,
+    "question": "Normally, the Ligament of Treitz should be located:",
+    "choices": [
+      "To the right of the spine",
+      "To the left of the spine at the level of the duodenal bulb",
+      "At the level of the iliac crest",
+      "In the pelvis",
+      "Behind the liver"
+    ],
+    "answer": "B",
+    "detail": "Normal position is left of the spine."
+  },
+  {
+    "number": 24,
+    "question": "What is the classic relationship of the SMA and SMV in Malrotation?",
+    "choices": [
+      "SMV is to the left of the SMA",
+      "SMA is to the right of the SMV",
+      "They are always superimposed",
+      "The SMA is absent",
+      "They are swapped with the renal veins"
+    ],
+    "answer": "B",
+    "detail": "Classically, the SMA is to the right of the SMV."
+  },
+  {
+    "number": 25,
+    "question": "A \"Corkscrew Duodenum\" on an Upper GI is diagnostic of:",
+    "choices": [
+      "Duodenal atresia",
+      "Midgut Volvulus",
+      "Pyloric stenosis",
+      "Annular pancreas",
+      "Duodenal web"
+    ],
+    "answer": "B",
+    "detail": "Corkscrew duodenum is the \"Aunt Minnie\" for midgut volvulus."
+  },
+  {
+    "number": 26,
+    "question": "\"Ladd's Bands\" are fibrous stalks that fix the cecum to the abdominal wall and can cause:",
+    "choices": [
+      "Intussusception",
+      "Duodenal obstruction",
+      "Pyloric stenosis",
+      "Gastric volvulus",
+      "Meckel's diverticulitis"
+    ],
+    "answer": "B",
+    "detail": "They can cause intermittent duodenal obstruction."
+  },
+  {
+    "number": 27,
+    "question": "What procedure is performed to prevent midgut volvulus by dividing Ladd's bands and widening the mesentery?",
+    "choices": [
+      "Kasai procedure",
+      "Ladd’s Procedure",
+      "Sistrunk procedure",
+      "Ross procedure",
+      "Fontan procedure"
+    ],
+    "answer": "B",
+    "detail": "The Ladd's procedure is the standard treatment."
+  },
+  {
+    "number": 28,
+    "question": "An infant presents with \"projectile, non-bilious vomiting\" at 6 weeks of age. What is the diagnosis?",
+    "choices": [
+      "Midgut volvulus",
+      "Hypertrophic Pyloric Stenosis (HPS)",
+      "Duodenal atresia",
+      "Hirschsprung disease",
+      "Gastroschisis"
+    ],
+    "answer": "B",
+    "detail": "Projectile, non-bilious vomiting at 3–6 weeks is the classic story for HPS."
+  },
+  {
+    "number": 29,
+    "question": "Which ultrasound criteria are used to diagnose Hypertrophic Pyloric Stenosis?",
+    "choices": [
+      "Wall > 2 mm, Length > 10 mm",
+      "Wall > 4 mm, Length > 14 mm",
+      "Wall > 6 mm, Length > 20 mm",
+      "Presence of air in the pylorus",
+      "Only the \"Caterpillar sign\""
+    ],
+    "answer": "B",
+    "detail": "Diagnosis requires a wall thickness > 4 mm and length > 14 mm."
+  },
+  {
+    "number": 30,
+    "question": "The \"Caterpillar Sign\" on a babygram refers to:",
+    "choices": [
+      "Air in the portal vein",
+      "Multiple areas of peristalsis in a dilated stomach",
+      "The appearance of Ladd's bands",
+      "Pneumatosis intestinalis",
+      "A double bubble"
+    ],
+    "answer": "B",
+    "detail": "It represents hyper-peristalsis in HPS."
+  },
+  {
+    "number": 31,
+    "question": "Hypertrophic Pyloric Stenosis (HPS) characteristically does NOT occur:",
+    "choices": [
+      "In males",
+      "At birth or after 3 months",
+      "In first-born children",
+      "Between 3 and 6 weeks",
+      "After a C-section"
+    ],
+    "answer": "B",
+    "detail": "HPS does NOT occur at birth; it develops later."
+  },
+  {
+    "number": 32,
+    "question": "Which type of Gastric Volvulus is more common in kids and can cause ischemia?",
+    "choices": [
+      "Organoaxial",
+      "Mesenteroaxial",
+      "Transverse",
+      "Pyloric",
+      "Fundal"
+    ],
+    "answer": "B",
+    "detail": "Mesenteroaxial is more common in kids and is a surgical emergency due to ischemia."
+  },
+  {
+    "number": 33,
+    "question": "\"Annular Pancreas\" in a child typically presents as:",
+    "choices": [
+      "Pancreatitis",
+      "Duodenal obstruction",
+      "Jaundice",
+      "Diabetes",
+      "Malabsorption"
+    ],
+    "answer": "B",
+    "detail": "In kids, annular pancreas obstructs the duodenum."
+  },
+  {
+    "number": 34,
+    "question": "On a contrast enema, a \"Microcolon\" that is LONG suggests which two entities?",
+    "choices": [
+      "Colonic atresia and Hirschsprung",
+      "Meconium Ileus and Distal Ileal Atresia",
+      "Small left colon and Hirschsprung",
+      "Volvulus and intussusception",
+      "Normal colon"
+    ],
+    "answer": "B",
+    "detail": "Long microcolon = Meconium Ileus or Distal Ileal Atresia."
+  },
+  {
+    "number": 35,
+    "question": "Meconium Ileus is seen EXCLUSIVELY in patients with:",
+    "choices": [
+      "Down syndrome",
+      "Cystic Fibrosis (CF)",
+      "Diabetes",
+      "VACTERL",
+      "Beckwith-Wiedemann"
+    ],
+    "answer": "B",
+    "detail": "Meconium ileus occurs ONLY in patients with CF."
+  },
+  {
+    "number": 36,
+    "question": "\"Small Left Colon (Meconium Plug) Syndrome\" is most commonly seen in infants of:",
+    "choices": [
+      "CF carriers",
+      "Diabetic mothers",
+      "Advanced maternal age",
+      "Mothers with Rubella",
+      "Post-term delivery"
+    ],
+    "answer": "B",
+    "detail": "It is associated with maternal diabetes or magnesium therapy."
+  },
+  {
+    "number": 37,
+    "question": "Hirschsprung Disease is caused by the failure of which cells to migrate?",
+    "choices": [
+      "Ganglion cells",
+      "Dendritic cells",
+      "Islet cells",
+      "Hepatocytes",
+      "Fibroblasts"
+    ],
+    "answer": "A",
+    "detail": "Failure of ganglion cells to innervate the distal colon."
+  },
+  {
+    "number": 38,
+    "question": "What is the gold standard for diagnosing Hirschsprung Disease?",
+    "choices": [
+      "Contrast enema",
+      "Ultrasound",
+      "Rectal biopsy",
+      "Upper GI",
+      "CT"
+    ],
+    "answer": "C",
+    "detail": "Diagnosis is made by rectal biopsy."
+  },
+  {
+    "number": 39,
+    "question": "A \"sawtooth pattern\" on a contrast enema in a neonate represents bowel spasm and is classic for:",
+    "choices": [
+      "Meconium ileus",
+      "Hirschsprung Disease",
+      "Colonic atresia",
+      "Small left colon",
+      "NEC"
+    ],
+    "answer": "B",
+    "detail": "The sawtooth pattern is a classic enema sign for Hirschsprung."
+  },
+  {
+    "number": 40,
+    "question": "A \"calcified mass in the mid abdomen\" of a newborn on plain film is diagnostic of:",
+    "choices": [
+      "Neuroblastoma",
+      "Meconium Peritonitis",
+      "Teratoma",
+      "Hepatoblastoma",
+      "Adrenal hemorrhage"
+    ],
+    "answer": "B",
+    "detail": "Calcified mass = Meconium Peritonitis (from in-utero perforation)."
+  },
+  {
+    "number": 41,
+    "question": "In an older child (>4 years), what is the most common cause of bowel obstruction?",
+    "choices": [
+      "Intussusception",
+      "Appendicitis",
+      "Midgut volvulus",
+      "Meckel's diverticulum",
+      "Inguinal hernia"
+    ],
+    "answer": "B",
+    "detail": "Appendicitis is the #1 cause after age 4."
+  },
+  {
+    "number": 42,
+    "question": "What is the diagnostic ultrasound threshold for appendicitis?",
+    "choices": [
+      "Non-compressible tube > 4 mm",
+      "Non-compressible tube > 6 mm",
+      "Blind-ending tube with air",
+      "Any visualizable appendix",
+      "Tube > 10 mm"
+    ],
+    "answer": "B",
+    "detail": "It must be non-compressible and > 6 mm."
+  },
+  {
+    "number": 43,
+    "question": "What is the most common cause of bowel obstruction in a boy aged 1 month to 1 year?",
+    "choices": [
+      "Intussusception",
+      "Inguinal Hernia",
+      "Pyloric stenosis",
+      "Appendicitis",
+      "Malrotation"
+    ],
+    "answer": "B",
+    "detail": "Inguinal hernia is the most common cause in this specific age/gender window."
+  },
+  {
+    "number": 44,
+    "question": "Most pediatric inguinal hernias are of which type?",
+    "choices": [
+      "Direct",
+      "Indirect",
+      "Femoral",
+      "Umbilical",
+      "Incisional"
+    ],
+    "answer": "B",
+    "detail": "Indirect hernias are more common in kids."
+  },
+  {
+    "number": 45,
+    "question": "What is the classic age range for \"idiopathic\" Intussusception?",
+    "choices": [
+      "1 week to 1 month",
+      "3 months to 3 years",
+      "5 years to 10 years",
+      "Adolescent",
+      "Any age"
+    ],
+    "answer": "B",
+    "detail": "The range is 3 months to 3 years."
+  },
+  {
+    "number": 46,
+    "question": "An intussusception in a child outside the typical age range should prompt a search for a:",
+    "choices": [
+      "Viral infection",
+      "Lead point (e.g., Meckel's, tumor)",
+      "C-section history",
+      "Dietary change",
+      "Parasite"
+    ],
+    "answer": "B",
+    "detail": "Outside that age, look for lead points (90% within the range don't have them)."
+  },
+  {
+    "number": 47,
+    "question": "What is the maximum pressure allowed during an air reduction of intussusception?",
+    "choices": [
+      "60 mmHg",
+      "90 mmHg",
+      "120 mmHg",
+      "150 mmHg",
+      "200 mmHg"
+    ],
+    "answer": "C",
+    "detail": "Pressure should NOT exceed 120 mmHg."
+  },
+  {
+    "number": 48,
+    "question": "Which vasculitis is a common lead point for intussusception in children?",
+    "choices": [
+      "Takayasu",
+      "Henoch-Schonlein Purpura (HSP)",
+      "PAN",
+      "Kawasaki",
+      "Wegener"
+    ],
+    "answer": "B",
+    "detail": "HSP is a common lead point and has a reduced success rate for reduction."
+  },
+  {
+    "number": 49,
+    "question": "Meckel's Diverticulum is a remnant of the:",
+    "choices": [
+      "Duodenum",
+      "Omphalomesenteric duct",
+      "Wolffian duct",
+      "Mullerian duct",
+      "Urachus"
+    ],
+    "answer": "B",
+    "detail": "It is a persistent omphalomesenteric duct."
+  },
+  {
+    "number": 50,
+    "question": "What is the \"Rule of 2s\" for Meckel’s Diverticulum?",
+    "choices": [
+      "2% of population, 2 types of mucosa, 2 feet from IC valve, 2 inches long",
+      "2 years old, 2 cm wide, 2 mm wall, 2 blood feeders",
+      "20% of kids, 2 lobes, 2 calcifications, 2 ulcers",
+      "2 genders, 2 surgeries, 2 days of pain, 2 nodules",
+      "2 months old, 2 bubbles, 2 fissures, 2 stents"
+    ],
+    "answer": "A",
+    "detail": "These are the classic Step 1 rules for Meckel's."
+  },
+  {
+    "number": 51,
+    "question": "To identify a Meckel's diverticulum that is bleeding, which nuclear medicine scan is used?",
+    "choices": [
+      "Sulfur Colloid",
+      "Tc-Pertechnetate (Meckel's Scan)",
+      "I-123",
+      "Gallium",
+      "Thallium"
+    ],
+    "answer": "B",
+    "detail": "Pertechnetate is taken up by the ectopic gastric mucosa."
+  },
+  {
+    "number": 52,
+    "question": "Gastroschisis is characteristically located on which side of the umbilical cord?",
+    "choices": [
+      "Left",
+      "Right",
+      "Midline",
+      "It is random",
+      "It involves the cord itself"
+    ],
+    "answer": "B",
+    "detail": "Gastroschisis is ALWAYS on the RIGHT."
+  },
+  {
+    "number": 53,
+    "question": "Which abdominal wall defect is associated with a surrounding membrane (peritoneum)?",
+    "choices": [
+      "Gastroschisis",
+      "Omphalocele",
+      "Umbilical hernia",
+      "Cloacal malformation",
+      "Epigastric hernia"
+    ],
+    "answer": "B",
+    "detail": "Omphalocele has a surrounding membrane."
+  },
+  {
+    "number": 54,
+    "question": "Omphalocele has a high association (50%) with which other anomaly?",
+    "choices": [
+      "Intestinal atresia",
+      "Cardiac defects",
+      "Limb defects",
+      "Biliary atresia",
+      "Splenic torsion"
+    ],
+    "answer": "B",
+    "detail": "There is a high association with Cardiac and chromosomal abnormalities."
+  },
+  {
+    "number": 55,
+    "question": "\"Pentalogy of Cantrell\" includes an Omphalocele and which other major finding?",
+    "choices": [
+      "Polydactyly",
+      "Ectopia Cordis",
+      "Cleft palate",
+      "Radial ray defect",
+      "Horseshoe kidney"
+    ],
+    "answer": "B",
+    "detail": "Ectopia cordis (heart outside the chest) is a key component."
+  },
+  {
+    "number": 56,
+    "question": "A \"Duodenal Hematoma\" in a child is a classic injury following:",
+    "choices": [
+      "A viral infection",
+      "Bicycle handlebar trauma (or abuse)",
+      "C-section delivery",
+      "High-fiber diet",
+      "Excessive crying"
+    ],
+    "answer": "B",
+    "detail": "Think \"bicycle handlebar injury\" or abuse."
+  },
+  {
+    "number": 57,
+    "question": "What is the \"meconium ileus equivalent\" seen in older children/adults with CF?",
+    "choices": [
+      "Meconium plug syndrome",
+      "Distal Intestinal Obstruction Syndrome (DIOS)",
+      "Small left colon",
+      "Hirschsprung",
+      "Intussusception"
+    ],
+    "answer": "B",
+    "detail": "DIOS is the CF equivalent in older patients."
+  },
+  {
+    "number": 58,
+    "question": "What is the most definitive imaging finding for Necrotizing Enterocolitis (NEC)?",
+    "choices": [
+      "Dilated bowel loops",
+      "Pneumatosis intestinalis",
+      "Ascites",
+      "Gallstones",
+      "Thicked bowel wall"
+    ],
+    "answer": "B",
+    "detail": "Pneumatosis (air in the wall) is the most definitive finding."
+  },
+  {
+    "number": 59,
+    "question": "If you see pneumatosis intestinalis in a neonate, what should you look for next?",
+    "choices": [
+      "Free air",
+      "Portal Venous Gas",
+      "Splenomegaly",
+      "Intussusception",
+      "Renal stones"
+    ],
+    "answer": "B",
+    "detail": "Look for portal venous gas next; it is an ominous sign."
+  },
+  {
+    "number": 60,
+    "question": "Which type of milk is the only parameter associated with a DECREASED incidence of NEC?",
+    "choices": [
+      "Formula",
+      "Maternal breast milk",
+      "Soy milk",
+      "Goat milk",
+      "Cow milk"
+    ],
+    "answer": "B",
+    "detail": "Maternal breast milk is protective."
+  },
+  {
+    "number": 61,
+    "question": "NEC is most common in which group of infants?",
+    "choices": [
+      "Post-term",
+      "Premature (90% within first 10 days)",
+      "Large for gestational age",
+      "Full term with no health issues",
+      "Females only"
+    ],
+    "answer": "B",
+    "detail": "Premature infants are the primary risk group."
+  },
+  {
+    "number": 62,
+    "question": "\"Complete fatty replacement\" of the pancreas is the most common imaging finding in which adult condition?",
+    "choices": [
+      "Diabetes",
+      "Cystic Fibrosis",
+      "Shwachman-Diamond Syndrome",
+      "Alcoholism",
+      "Hemochromatosis"
+    ],
+    "answer": "B",
+    "detail": "Complete fatty replacement is the classic adult CF look."
+  },
+  {
+    "number": 63,
+    "question": "Shwachman-Diamond Syndrome is the 2nd most common cause of pancreatic insufficiency in kids and features:",
+    "choices": [
+      "Short stature, diarrhea, and eczema",
+      "Tall stature and heart failure",
+      "Gigantism and liver failure",
+      "Deafness and renal stones",
+      "Cleft palate and club foot"
+    ],
+    "answer": "A",
+    "detail": "It presents with diarrhea, short stature, and eczema."
+  },
+  {
+    "number": 64,
+    "question": "Dorsal Pancreatic Agenesis results in a pancreas without a tail and is associated with:",
+    "choices": [
+      "Asplenia",
+      "Polysplenia",
+      "Biliary atresia",
+      "Truncus arteriosus",
+      "Horseshoe kidney"
+    ],
+    "answer": "B",
+    "detail": "It is associated with polysplenia."
+  },
+  {
+    "number": 65,
+    "question": "What is the most common cause of pancreatitis in the pediatric population?",
+    "choices": [
+      "Gallstones",
+      "Alcohol",
+      "Trauma (e.g., seatbelt injury)",
+      "Viral infection",
+      "Scorpion bite"
+    ],
+    "answer": "C",
+    "detail": "Trauma is the leading cause."
+  },
+  {
+    "number": 66,
+    "question": "What is the most common pediatric solid tumor of the pancreas, usually found in female adolescents?",
+    "choices": [
+      "Pancreatoblastoma",
+      "Adenocarcinoma",
+      "Solid and Papillary Epithelial Neoplasm (SPEN)",
+      "Insulinoma",
+      "Glucagonoma"
+    ],
+    "answer": "C",
+    "detail": "SPEN (also known as Solid Pseudopapillary Tumor) is the most common."
+  },
+  {
+    "number": 67,
+    "question": "A pancreatic mass in a 1-year-old child is most likely a:",
+    "choices": [
+      "SPEN",
+      "Adenocarcinoma",
+      "Pancreatoblastoma",
+      "Lymphoma",
+      "Metastasis"
+    ],
+    "answer": "C",
+    "detail": "Use age as a discriminator: Age 1 = Pancreatoblastoma."
+  },
+  {
+    "number": 68,
+    "question": "An infant with a liver mass and high-output CHF (large heart on CXR) likely has:",
+    "choices": [
+      "Hepatoblastoma",
+      "Infantile Hepatic Hemangioma",
+      "Mesenchymal Hamartoma",
+      "HCC",
+      "Metastasis"
+    ],
+    "answer": "B",
+    "detail": "Infantile Hemangioma is associated with high-output CHF."
+  },
+  {
+    "number": 69,
+    "question": "Kasabach-Merritt Syndrome is a \"platelet eater\" condition associated with:",
+    "choices": [
+      "Hepatoblastoma",
+      "Infantile Hepatic Hemangioma",
+      "Mesenchymal hamartoma",
+      "Biliary atresia",
+      "CF"
+    ],
+    "answer": "B",
+    "detail": "It is associated with hemangiomas."
+  },
+  {
+    "number": 70,
+    "question": "What is the most common primary liver tumor of childhood (<5 years old)?",
+    "choices": [
+      "Infantile hemangioma",
+      "Hepatoblastoma",
+      "Mesenchymal hamartoma",
+      "HCC",
+      "Sarcoma"
+    ],
+    "answer": "B",
+    "detail": "Hepatoblastoma is the most common."
+  },
+  {
+    "number": 71,
+    "question": "Which tumor is associated with Beckwith-Wiedemann syndrome and an elevated AFP?",
+    "choices": [
+      "Mesenchymal hamartoma",
+      "Hepatoblastoma",
+      "Infantile hemangioma",
+      "HCC",
+      "Fibrolamellar HCC"
+    ],
+    "answer": "B",
+    "detail": "Hepatoblastoma features elevated AFP and syndromic associations."
+  },
+  {
+    "number": 72,
+    "question": "Hepatoblastoma can cause precocious puberty due to the production of:",
+    "choices": [
+      "AFP",
+      "bHCG",
+      "Estrogen",
+      "Testosterone",
+      "Growth hormone"
+    ],
+    "answer": "B",
+    "detail": "It makes bHCG."
+  },
+  {
+    "number": 73,
+    "question": "A \"predominantly cystic mass\" in the liver of a newborn with a NEGATIVE AFP is a:",
+    "choices": [
+      "Hepatoblastoma",
+      "Mesenchymal Hamartoma",
+      "Infantile hemangioma",
+      "HCC",
+      "Abscess"
+    ],
+    "answer": "B",
+    "detail": "Mesenchymal hamartoma is cystic and AFP negative."
+  },
+  {
+    "number": 74,
+    "question": "The \"Fibrolamellar Subtype\" of HCC is typically seen in young patients (<35) and features:",
+    "choices": [
+      "Elevated AFP",
+      "A central scar that is T2 DARK",
+      "Cirrhosis",
+      "Gallstones",
+      "\"Steeple sign\""
+    ],
+    "answer": "B",
+    "detail": "The scar is T2 dark and does NOT enhance."
+  },
+  {
+    "number": 75,
+    "question": "Fetal hepatomegaly and a big placenta on prenatal US (after 20 weeks) is classic for:",
+    "choices": [
+      "Maternal diabetes",
+      "Congenital Syphilis",
+      "Down syndrome",
+      "Rh incompatibility",
+      "Beckwith-Wiedemann"
+    ],
+    "answer": "B",
+    "detail": "This is the classic scenario for congenital syphilis."
+  },
+  {
+    "number": 76,
+    "question": "\"Transient Abnormal Myelopoiesis\" (TAM) is a pre-leukemic syndrome seen ONLY in infants with:",
+    "choices": [
+      "Turner syndrome",
+      "Down Syndrome (Trisomy 21)",
+      "Klinefelter syndrome",
+      "Williams syndrome",
+      "DiGeorge syndrome"
+    ],
+    "answer": "B",
+    "detail": "TAM is a Down syndrome entity."
+  },
+  {
+    "number": 77,
+    "question": "What is the most common type of Choledochal Cyst?",
+    "choices": [
+      "Type 1 (focal dilation of CBD)",
+      "Type 2 (diverticulum)",
+      "Type 3 (choledochocele)",
+      "Type 4 (intra and extra hepatic)",
+      "Type 5 (Caroli's)"
+    ],
+    "answer": "A",
+    "detail": "Type 1 is by far the most common."
+  },
+  {
+    "number": 78,
+    "question": "\"Caroli’s Disease\" is associated with a \"central dot sign\" which represents:",
+    "choices": [
+      "A gallstone",
+      "The portal vein surrounded by dilated bile ducts",
+      "A calcified cyst",
+      "A tumor nodule",
+      "The hepatic artery"
+    ],
+    "answer": "B",
+    "detail": "The central dot is the portal vein."
+  },
+  {
+    "number": 79,
+    "question": "Prolonged newborn jaundice (>2 weeks) should prompt an evaluation for:",
+    "choices": [
+      "TTN",
+      "Biliary Atresia",
+      "Pyloric stenosis",
+      "Meconium peritonitis",
+      "Intussusception"
+    ],
+    "answer": "B",
+    "detail": "Consider biliary atresia or neonatal hepatitis."
+  },
+  {
+    "number": 80,
+    "question": "What is the name of the corrective surgery for Biliary Atresia that must be done prior to 3 months?",
+    "choices": [
+      "Ladd's procedure",
+      "Kasai Procedure",
+      "Sistrunk procedure",
+      "Ross procedure",
+      "Fontan procedure"
+    ],
+    "answer": "B",
+    "detail": "The Kasai procedure is the necessary surgery."
+  },
+  {
+    "number": 81,
+    "question": "The \"Triangle Cord Sign\" on ultrasound is a finding associated with:",
+    "choices": [
+      "Choledochal cyst",
+      "Biliary Atresia",
+      "Hepatitis",
+      "Malrotation",
+      "Appendicitis"
+    ],
+    "answer": "B",
+    "detail": "It is a triangular echogenic structure near the portal vein in biliary atresia."
+  },
+  {
+    "number": 82,
+    "question": "What is the test of choice to distinguish Biliary Atresia from Neonatal Hepatitis?",
+    "choices": [
+      "CT with contrast",
+      "Hepatobiliary Scintigraphy (HIDA)",
+      "MRCP",
+      "Ultrasound",
+      "Plain film"
+    ],
+    "answer": "B",
+    "detail": "HIDA is the test of choice."
+  },
+  {
+    "number": 83,
+    "question": "If you see a pediatric patient with gallstones, you should think:",
+    "choices": [
+      "Down syndrome",
+      "Sickle Cell Disease",
+      "Maternal diabetes",
+      "CF",
+      "Turner syndrome"
+    ],
+    "answer": "B",
+    "detail": "Sickle cell patients are prone to gallstones."
+  },
+  {
+    "number": 84,
+    "question": "\"Acute Splenic Sequestration Crisis\" in a Sickle Cell patient results in:",
+    "choices": [
+      "A tiny calcified spleen",
+      "A rapidly enlarging, \"greedy\" spleen that hogs blood",
+      "Splenic torsion",
+      "Abscess formation",
+      "Spontaneous rupture"
+    ],
+    "answer": "B",
+    "detail": "The spleen becomes greedy and traps blood, leading to shock."
+  },
+  {
+    "number": 85,
+    "question": "By age 8, most Sickle Cell patients have an \"Auto-Infarcted Spleen,\" which appears as:",
+    "choices": [
+      "A tiny (e.g., 1 cm), possibly calcified spleen",
+      "A massive cystic mass",
+      "Multiple accessary spleens",
+      "A normal spleen",
+      "A \"tiger striped\" spleen"
+    ],
+    "answer": "A",
+    "detail": "The spleen auto-infarcts and becomes tiny."
+  },
+  {
+    "number": 86,
+    "question": "\"Asplenia\" (Right Isomerism) is characteristically associated with:",
+    "choices": [
+      "Polysplenia",
+      "Reversed Aorta/IVC relationship",
+      "Azygos continuation of the IVC",
+      "Two fissures in the left lung",
+      "Biliary Atresia"
+    ],
+    "answer": "B",
+    "detail": "Asplenia = Reversed Aorta/IVC."
+  },
+  {
+    "number": 87,
+    "question": "\"Polysplenia\" (Left Isomerism) is characteristically associated with:",
+    "choices": [
+      "Reversed Aorta/IVC",
+      "Azygos continuation of the IVC (interrupted IVC)",
+      "Increased cardiac malformations",
+      "Two fissures in the right lung",
+      "High risk of TAPVR"
+    ],
+    "answer": "B",
+    "detail": "Polysplenia = Azygos continuation."
+  },
+  {
+    "number": 88,
+    "question": "Bilateral \"right-sidedness\" (two fissures in each lung) is seen in:",
+    "choices": [
+      "Asplenia",
+      "Polysplenia",
+      "Normal patients",
+      "VACTERL",
+      "CF"
+    ],
+    "answer": "A",
+    "detail": "Asplenia features two right sides."
+  },
+  {
+    "number": 89,
+    "question": "What is the classic imaging finding for \"Bilateral Renal Agenesis\" (Potter Sequence)?",
+    "choices": [
+      "Large heart",
+      "Hypoplastic lungs (no pee = no fluid)",
+      "Polyhydramnios",
+      "Gastroschisis",
+      "Large bladder"
+    ],
+    "answer": "B",
+    "detail": "No kidneys -> No pee -> No fluid -> Hypoplastic lungs."
+  },
+  {
+    "number": 90,
+    "question": "Unilateral renal agenesis in women is associated with which genital anomaly in 70% of cases?",
+    "choices": [
+      "Bicornuate uterus",
+      "Unicornuate uterus",
+      "Septate uterus",
+      "Arcuate uterus",
+      "Absent ovaries"
+    ],
+    "answer": "B",
+    "detail": "Unicornuate uterus is the classic association."
+  },
+  {
+    "number": 91,
+    "question": "The \"Pancake Adrenal\" (Lying Down Adrenal) sign on imaging indicates:",
+    "choices": [
+      "Adrenal hemorrhage",
+      "Congenital absence of the kidney",
+      "Neuroblastoma",
+      "Adrenal hyperplasia",
+      "Waterhouse-Friderichsen syndrome"
+    ],
+    "answer": "B",
+    "detail": "The adrenal is not \"molded\" by the kidney and stays flat."
+  },
+  {
+    "number": 92,
+    "question": "What is the most common fusion anomaly of the kidneys?",
+    "choices": [
+      "Crossed fused renal ectopia",
+      "Horseshoe Kidney",
+      "Duplicated system",
+      "Pelvic kidney",
+      "Malrotated kidney"
+    ],
+    "answer": "B",
+    "detail": "Horseshoe kidney is the most common."
+  },
+  {
+    "number": 93,
+    "question": "Horseshoe kidneys get \"hung up\" during ascent by which structure?",
+    "choices": [
+      "SMA",
+      "IMA",
+      "Celiac artery",
+      "Portal vein",
+      "Diaphragm"
+    ],
+    "answer": "B",
+    "detail": "They are stopped by the IMA."
+  },
+  {
+    "number": 94,
+    "question": "What syndrome is the classic testable association for a Horseshoe Kidney?",
+    "choices": [
+      "Williams",
+      "Turner Syndrome",
+      "Down syndrome",
+      "VACTERL",
+      "PHACES"
+    ],
+    "answer": "B",
+    "detail": "Turner's and Horseshoe kidneys go together."
+  },
+  {
+    "number": 95,
+    "question": "In \"Crossed Fused Renal Ectopia,\" which kidney is typically the one that is ectopic and inferior?",
+    "choices": [
+      "The right one",
+      "The left one (crossing to the right)",
+      "Both are superior",
+      "It is always the right crossing to the left",
+      "They are side-by-side"
+    ],
+    "answer": "B",
+    "detail": "The left kidney more commonly crosses over to the right."
+  },
+  {
+    "number": 96,
+    "question": "A teenager presents with flank pain only after \"drinking lots of fluids.\" What is the most likely diagnosis?",
+    "choices": [
+      "Renal stones",
+      "Congenital UPJ Obstruction",
+      "Pyelonephritis",
+      "Diabetes insipidus",
+      "VUR"
+    ],
+    "answer": "B",
+    "detail": "This is the classic history for UPJ obstruction."
+  },
+  {
+    "number": 97,
+    "question": "Congenital UPJ obstruction characteristically does NOT feature:",
+    "choices": [
+      "Dilated renal pelvis",
+      "Thinning of the cortex",
+      "Dilated ureters (Hydro-ureter)",
+      "Bilateral involvement",
+      "Delayed excretion on HIDA/MAG3"
+    ],
+    "answer": "C",
+    "detail": "There is NO HYDROURETER in UPJ obstruction."
+  },
+  {
+    "number": 98,
+    "question": "Autosomal Recessive Polycystic Kidney Disease (ARPKD) is ALWAYS associated with:",
+    "choices": [
+      "Pancreatic cysts",
+      "Congenital hepatic fibrosis",
+      "Splenic infarcts",
+      "Heart failure",
+      "Cerebral aneurysms"
+    ],
+    "answer": "B",
+    "detail": "Hepatic fibrosis is always present in ARPKD."
+  },
+  {
+    "number": 99,
+    "question": "What is the relationship between liver and kidney disease in ARPKD?",
+    "choices": [
+      "They are directly proportional",
+      "They are inversely proportional (worse liver = better kidneys)",
+      "They only occur together in adults",
+      "The kidneys always fail first",
+      "There is no relationship"
+    ],
+    "answer": "B",
+    "detail": "The ratio is inverse."
+  },
+  {
+    "number": 100,
+    "question": "\"Prune Belly\" (Eagle Barrett Syndrome) is a triad occurring in males that includes:",
+    "choices": [
+      "Abdominal muscle deficiency, hydroureteronephrosis, and cryptorchidism",
+      "Liver cysts, renal stones, and deafness",
+      "Cleft palate, club foot, and VSD",
+      "Small penis, breast cancer, and GCTs",
+      "Big head, big heart, and big liver"
+    ],
+    "answer": "A",
+    "detail": "These three findings define the Prune Belly triad."
+  }
+]
+
+}

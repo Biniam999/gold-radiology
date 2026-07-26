@@ -1,0 +1,1296 @@
+{
+    "questions": 
+  [
+    {
+      "number": 1,
+      "question": "Which zone of the prostate is the most common site for adenocarcinoma (70%)?",
+      "choices": [
+        "Transition Zone",
+        "Central Zone",
+        "Peripheral Zone",
+        "Anterior Fibromuscular Stroma",
+        "Verumontanum"
+      ],
+      "answer": "C",
+      "detail": "Approximately 70% of prostate cancers occur in the Peripheral Zone."
+    },
+    {
+      "number": 2,
+      "question": "Where do benign prostatic hyperplasia (BPH) nodules primarily reside?",
+      "choices": [
+        "Peripheral Zone",
+        "Transition Zone (Central Gland)",
+        "Seminal Vesicles",
+        "Prostatic Utricle",
+        "Anterior Fibromuscular Stroma"
+      ],
+      "answer": "B",
+      "detail": "BPH nodules live in the central gland/transition zone."
+    },
+    {
+      "number": 3,
+      "question": "On T2-weighted MRI, how does prostate cancer characteristically appear?",
+      "choices": [
+        "Bright (high signal)",
+        "Dark (low signal)",
+        "Isointense to the peripheral zone",
+        "Calcified",
+        "Anechoic"
+      ],
+      "answer": "B",
+      "detail": "Prostate cancer is typically dark on T2 against the bright background of the normal peripheral zone."
+    },
+    {
+      "number": 4,
+      "question": "What is the characteristic diffusion-weighted imaging (DWI) finding for prostate cancer?",
+      "choices": [
+        "Increased diffusion",
+        "Restricted diffusion (low ADC)",
+        "No change in signal",
+        "High ADC values",
+        "T2 shine-through"
+      ],
+      "answer": "B",
+      "detail": "Cancer restricts on diffusion and shows a low ADC value."
+    },
+    {
+      "number": 5,
+      "question": "Which enhancement curve is classic for prostate cancer, similar to breast cancer?",
+      "choices": [
+        "Type 1 (Slow, progressive)",
+        "Type 2 (Plateau)",
+        "Type 3 (Early enhancement with rapid washout)",
+        "No enhancement",
+        "Peripheral nodular enhancement"
+      ],
+      "answer": "C",
+      "detail": "Prostate cancer typically shows a Type 3 curve (rapid enhancement and washout)."
+    },
+    {
+      "number": 6,
+      "question": "Which imaging study is the 'money' for evaluating prostate cancer metastases to the vertebral bodies?",
+      "choices": [
+        "MRI Brain",
+        "Bone Scan",
+        "CT Chest",
+        "HIDA Scan",
+        "Barium Enema"
+      ],
+      "answer": "B",
+      "detail": "Bone scan is the preferred modality for detecting skeletal metastases."
+    },
+    {
+      "number": 7,
+      "question": "A PSA level below which threshold has a high predictive value for ruling out skeletal metastases?",
+      "choices": [
+        "4",
+        "10",
+        "20",
+        "50",
+        "100"
+      ],
+      "answer": "C",
+      "detail": "A PSA < 20 is highly predictive for the absence of skeletal mets."
+    },
+    {
+      "number": 8,
+      "question": "In prostate cancer staging, what is the most important factor governing treatment?",
+      "choices": [
+        "Tumor volume",
+        "Extra-capsular extension",
+        "Patient age",
+        "Presence of BPH",
+        "Number of biopsy cores"
+      ],
+      "answer": "B",
+      "detail": "The distinction between Stage II and Stage III (extra-capsular extension) is the key treatment discriminator."
+    },
+    {
+      "number": 9,
+      "question": "Stage T3a prostate cancer is defined by:",
+      "choices": [
+        "Abutment of the capsule without bulging",
+        "Extension through the capsule",
+        "Invasion of the seminal vesicles",
+        "Invasion of the bladder",
+        "Distant lymph nodes"
+      ],
+      "answer": "B",
+      "detail": "Stage T3a involves frank extension through the capsule or bulging of the capsule."
+    },
+    {
+      "number": 10,
+      "question": "Stage T3b prostate cancer indicates the tumor has invaded the:",
+      "choices": [
+        "Rectum",
+        "Seminal Vesicles",
+        "Bladder neck",
+        "Neurovascular bundle",
+        "Pubic bone"
+      ],
+      "answer": "B",
+      "detail": "Invasion of the seminal vesicles defines Stage T3b."
+    },
+    {
+      "number": 11,
+      "question": "How do BPH nodules differ from Transition Zone tumors on T2 MRI?",
+      "choices": [
+        "Tumors are well-defined; BPH is 'charcoal'",
+        "BPH is 'Well Defined'; Tumors are 'Charcoal' (smudgy)",
+        "They are identical",
+        "BPH is always bright",
+        "Only tumors enhance"
+      ],
+      "answer": "B",
+      "detail": "BPH nodules are typically well-defined, while Transition Zone cancers appear as smudgy 'charcoal' dark areas."
+    },
+    {
+      "number": 12,
+      "question": "'Smudgy' or 'charcoal' dark T2 signal in the central gland is suspicious for:",
+      "choices": [
+        "Simple BPH",
+        "Transition Zone cancer",
+        "Normal aging",
+        "Prostatitis",
+        "Calcified vas deferens"
+      ],
+      "answer": "B",
+      "detail": "This smudgy appearance is a key MRI finding for cancer in the transition zone."
+    },
+    {
+      "number": 13,
+      "question": "In the prostate, the 'Central Gland' is a term often used collectively for the:",
+      "choices": [
+        "Peripheral and Transition zones",
+        "Transition and Central zones",
+        "Peripheral and Central zones",
+        "Anterior stroma only",
+        "Entire prostate"
+      ],
+      "answer": "B",
+      "detail": "The central gland includes the Transition and Central zones."
+    },
+    {
+      "number": 14,
+      "question": "What percentage of prostate cancer originates in the Transition Zone?",
+      "choices": [
+        "10%",
+        "20%",
+        "70%",
+        "95%",
+        "0%"
+      ],
+      "answer": "B",
+      "detail": "About 20% of prostate cancers arise in the Transition Zone."
+    },
+    {
+      "number": 15,
+      "question": "Which zone accounts for 10% of prostate cancers and is located at the base of the gland?",
+      "choices": [
+        "Transition Zone",
+        "Central Zone",
+        "Peripheral Zone",
+        "Fibromuscular Stroma",
+        "Urogenital diaphragm"
+      ],
+      "answer": "B",
+      "detail": "The Central Zone accounts for 10% of cancers."
+    },
+    {
+      "number": 16,
+      "question": "True or False: BPH nodules can show early enhancement on MRI.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "A",
+      "detail": "BPH nodules can enhance, making them a potential mimic for cancer in the central gland."
+    },
+    {
+      "number": 17,
+      "question": "Nipple enhancement on a female breast MRI is normal, but prostate MRI 'Cancer' must be:",
+      "choices": [
+        "Bright on T2",
+        "Dark on T2",
+        "Non-enhancing",
+        "Calcified",
+        "Only in children"
+      ],
+      "answer": "B",
+      "detail": "The rule is Cancer is dark on T2."
+    },
+    {
+      "number": 18,
+      "question": "What structure lies right behind the prostate and can be invaded by advanced tumors?",
+      "choices": [
+        "Seminal vesicles and Nerve bundles",
+        "Adrenal glands",
+        "Kidneys",
+        "Spleen",
+        "Stomach"
+      ],
+      "answer": "A",
+      "detail": "Urologists specifically look for invasion of the seminal vesicles and nerve bundles."
+    },
+    {
+      "number": 19,
+      "question": "In prostate MRI, a Type 3 curve refers to:",
+      "choices": [
+        "Slow rise",
+        "No rise",
+        "Rapid wash-in and wash-out",
+        "Delayed enhancement only",
+        "Peripheral pooling"
+      ],
+      "answer": "C",
+      "detail": "This washout pattern is highly concerning for malignancy."
+    },
+    {
+      "number": 20,
+      "question": "Which zone is located anteriorly and does not contain glandular tissue?",
+      "choices": [
+        "Peripheral Zone",
+        "Anterior Fibromuscular Zone",
+        "Transition Zone",
+        "Central Zone",
+        "Verumontanum"
+      ],
+      "answer": "B",
+      "detail": "This is a non-glandular zone of the prostate."
+    },
+    {
+      "number": 21,
+      "question": "Calcification of the vas deferens is most commonly associated with:",
+      "choices": [
+        "High protein diet",
+        "Diabetes ('Bad Diabetics')",
+        "Smoking",
+        "Hypertension",
+        "Childhood trauma"
+      ],
+      "answer": "B",
+      "detail": "Calcified vas deferens is a classic finding in diabetics."
+    },
+    {
+      "number": 22,
+      "question": "Pelvic cysts in a male should first be categorized by their location as:",
+      "choices": [
+        "Solid or cystic",
+        "Midline or Lateral",
+        "Superior or Inferior",
+        "Calcified or Fatty",
+        "Left or Right"
+      ],
+      "answer": "B",
+      "detail": "Categorizing as Midline vs Lateral is the primary strategy for male pelvic cysts."
+    },
+    {
+      "number": 23,
+      "question": "Which of the following is a LATERAL pelvic cyst in a male?",
+      "choices": [
+        "Prostatic Utricle Cyst",
+        "Mullerian Duct Cyst",
+        "Seminal Vesicle Cyst",
+        "Ejaculatory Duct Cyst",
+        "Bladder diverticulum"
+      ],
+      "answer": "C",
+      "detail": "Seminal Vesicle Cysts are characteristically lateral to the prostate."
+    },
+    {
+      "number": 24,
+      "question": "Congenital Seminal Vesicle Cysts are associated with which renal anomaly?",
+      "choices": [
+        "Horseshoe kidney",
+        "Renal Agenesis (ipsilateral)",
+        "Medullary sponge kidney",
+        "Polycystic kidney disease",
+        "Simple cysts"
+      ],
+      "answer": "B",
+      "detail": "They are associated with ipsilateral renal agenesis (part of Zinner Syndrome)."
+    },
+    {
+      "number": 25,
+      "question": "Zinner Syndrome is defined by the triad of:",
+      "choices": [
+        "Renal agenesis, ipsilateral seminal vesicle cyst, and vas deferens agenesis",
+        "Small spleen, heart failure, and edema",
+        "Liver cysts, berry aneurms, and renal mass",
+        "Fever, RA, and neutropenia",
+        "T-shaped uterus and clear cell CA"
+      ],
+      "answer": "A",
+      "detail": "Zinner Syndrome links renal and seminal vesicle anomalies."
+    },
+    {
+      "number": 26,
+      "question": "Which MIDLINE male pelvic cyst represents a focal dilation of the prostatic urethra?",
+      "choices": [
+        "Prostatic Utricle Cyst",
+        "Mullerian Duct Cyst",
+        "Seminal Vesicle Cyst",
+        "Gartner Duct Cyst",
+        "Bartholin Cyst"
+      ],
+      "answer": "A",
+      "detail": "The Prostatic Utricle is a remnant of the Mullerian duct that communicates with the urethra."
+    },
+    {
+      "number": 27,
+      "question": "Prostatic utricle cysts are most commonly associated with which condition?",
+      "choices": [
+        "Hypospadias",
+        "Epispadias",
+        "Renal cell carcinoma",
+        "Testicular cancer",
+        "Liver fibrosis"
+      ],
+      "answer": "A",
+      "detail": "Hypospadias is the most common association."
+    },
+    {
+      "number": 28,
+      "question": "A key distinguishing feature of a Prostatic Utricle Cyst is that it:",
+      "choices": [
+        "Does not communicate with the urethra",
+        "Communicates with the urethra and can opacify on a RUG",
+        "Is always lateral",
+        "Contains macroscopic fat",
+        "Is only found in elderly men"
+      ],
+      "answer": "B",
+      "detail": "Because it communicates with the urethra, it can cause 'dribbling' and show up on a RUG."
+    },
+    {
+      "number": 29,
+      "question": "Which midline cyst is 'Tear Drop Shaped' and does NOT communicate with the urethra?",
+      "choices": [
+        "Prostatic Utricle Cyst",
+        "Mullerian Duct Cyst",
+        "Seminal Vesicle Cyst",
+        "Urachal Cyst",
+        "Epidermoid Cyst"
+      ],
+      "answer": "B",
+      "detail": "Mullerian Duct Cysts are tear-drop shaped and do NOT communicate with the urethra."
+    },
+    {
+      "number": 30,
+      "question": "Unlike utricle cysts, Mullerian Duct Cysts characteristically:",
+      "choices": [
+        "Are smaller",
+        "Extend ABOVE the base of the prostate",
+        "Are associated with hypospadias",
+        "Occur in the lateral pelvis",
+        "Contain teeth"
+      ],
+      "answer": "B",
+      "detail": "They typically extend above the prostate base, while utricle cysts do not."
+    },
+    {
+      "number": 31,
+      "question": "A 'Swiss Cheese' appearance of the prostate on ultrasound (Cavitary Prostatitis) suggests:",
+      "choices": [
+        "BPH",
+        "Prostate Abscess",
+        "Prostate cancer",
+        "Seminal vesicle cyst",
+        "Normal variant"
+      ],
+      "answer": "B",
+      "detail": "Prostate abscesses (often E. coli) can create a thick-walled, heterogeneous 'swiss cheese' look."
+    },
+    {
+      "number": 32,
+      "question": "What is the most common organism responsible for a prostate abscess?",
+      "choices": [
+        "Staph aureus",
+        "E. coli",
+        "TB",
+        "Chlamydia",
+        "Gonorrhea"
+      ],
+      "answer": "B",
+      "detail": "E. coli is the primary culprit."
+    },
+    {
+      "number": 33,
+      "question": "Male pelvic cysts associated with Prune Belly Syndrome, Downs, and Imperforate Anus are typically:",
+      "choices": [
+        "Prostatic Utricle Cysts",
+        "Mullerian Duct Cysts",
+        "Seminal Vesicle Cysts",
+        "Gartner Duct Cysts",
+        "Bartholin Cysts"
+      ],
+      "answer": "A",
+      "detail": "These are known associations for Prostatic Utricle Cysts."
+    },
+    {
+      "number": 34,
+      "question": "Which cyst is associated with polycystic kidney disease (PCKD)?",
+      "choices": [
+        "Prostatic Utricle",
+        "Mullerian Duct",
+        "Seminal Vesicle Cyst",
+        "Gartner Duct",
+        "Nabothian"
+      ],
+      "answer": "C",
+      "detail": "Seminal vesicle cysts have an association with PCKD."
+    },
+    {
+      "number": 35,
+      "question": "A 'Pear Shaped' and typically smaller midline cyst is most likely a:",
+      "choices": [
+        "Prostatic Utricle Cyst",
+        "Mullerian Duct Cyst",
+        "Seminal Vesicle Cyst",
+        "Hydatid Cyst",
+        "Simple cyst"
+      ],
+      "answer": "A",
+      "detail": "Utricle cysts are characteristically pear-shaped and smaller."
+    },
+    {
+      "number": 36,
+      "question": "True or False: Mullerian Duct Cysts have a tiny risk of malignancy.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "A",
+      "detail": "There is a tiny risk of malignancy (e.g., endometrial, clear cell)."
+    },
+    {
+      "number": 37,
+      "question": "Acquired seminal vesicle cysts are most commonly caused by:",
+      "choices": [
+        "Smoking",
+        "Prostate surgery or chronic infection/scarring",
+        "High Vitamin C",
+        "Obesity",
+        "DES exposure"
+      ],
+      "answer": "B",
+      "detail": "Prior prostate surgery is a classic history for acquired cysts."
+    },
+    {
+      "number": 38,
+      "question": "Which male cyst can cause 'dribbling both on and off the basketball court'?",
+      "choices": [
+        "Mullerian Duct",
+        "Prostatic Utricle",
+        "Seminal Vesicle",
+        "Urachal",
+        "Epidermoid"
+      ],
+      "answer": "B",
+      "detail": "Prostatic utricle cysts cause dribbling because they communicate with the urethra."
+    },
+    {
+      "number": 39,
+      "question": "In a male, a Gartner Duct cyst is impossible because it is a:",
+      "choices": [
+        "Female-only Wolffian duct remnant",
+        "Male-only Mullerian duct remnant",
+        "Remnant of the allantois",
+        "Malignant tumor",
+        "Type of hernia"
+      ],
+      "answer": "A",
+      "detail": "Gartner duct cysts are in females; the male equivalent is the seminal vesicle/vas system."
+    },
+    {
+      "number": 40,
+      "question": "If a male pelvic cyst is 'Lateral to the Prostate,' it is a:",
+      "choices": [
+        "Utricle cyst",
+        "Mullerian cyst",
+        "Seminal Vesicle cyst",
+        "Urachal cyst",
+        "Bartholin cyst"
+      ],
+      "answer": "C",
+      "detail": "Lateral cysts are Seminal Vesicle cysts."
+    },
+    {
+      "number": 41,
+      "question": "What is the most common primary risk factor for testicular cancer?",
+      "choices": [
+        "Trauma",
+        "Cryptorchidism (undescended testicle)",
+        "Smoking",
+        "Obesity",
+        "High protein diet"
+      ],
+      "answer": "B",
+      "detail": "Cryptorchidism increases cancer risk in both testicles."
+    },
+    {
+      "number": 42,
+      "question": "Does orchiopexy (surgical fixation) of an undescended testicle reduce the risk of cancer?",
+      "choices": [
+        "Yes, significantly",
+        "No",
+        "Only if done before age 1",
+        "Only in white people",
+        "It actually increases the risk"
+      ],
+      "answer": "B",
+      "detail": "Orchiopexy does NOT reduce the increased risk of cancer."
+    },
+    {
+      "number": 43,
+      "question": "What is the 'initial landing station' (first-order lymph nodes) for testicular cancer spread?",
+      "choices": [
+        "Inguinal nodes",
+        "Para-aortic nodes (at the level of the renal hilum)",
+        "Pelvic nodes",
+        "Axillary nodes",
+        "Mediastinal nodes"
+      ],
+      "answer": "B",
+      "detail": "Testicular cancer spreads to para-aortic and paracaval nodes because of its embryological origin."
+    },
+    {
+      "number": 44,
+      "question": "Which nodes are considered 'non-regional' (Stage M1) unless the patient has had prior scrotal surgery?",
+      "choices": [
+        "Para-aortic",
+        "Inguinal and Pelvic nodes",
+        "Paracaval",
+        "Renal hilar nodes",
+        "Retroperitoneal"
+      ],
+      "answer": "B",
+      "detail": "Inguinal/pelvic nodes are not the standard first landing station."
+    },
+    {
+      "number": 45,
+      "question": "What is the most common testicular tumor overall?",
+      "choices": [
+        "Teratoma",
+        "Seminoma (50% of GCTs)",
+        "Yolk Sac Tumor",
+        "Choriocarcinoma",
+        "Lymphoma"
+      ],
+      "answer": "B",
+      "detail": "Seminoma is the most frequent subtype, especially in the 4th decade."
+    },
+    {
+      "number": 46,
+      "question": "Which testicular tumor has the BEST prognosis because it is highly radiosensitive ('it melts with radiation')?",
+      "choices": [
+        "Choriocarcinoma",
+        "Seminoma",
+        "Yolk Sac",
+        "Sertoli Cell",
+        "Leydig Cell"
+      ],
+      "answer": "B",
+      "detail": "Seminomas are very radiosensitive and have the best prognosis."
+    },
+    {
+      "number": 47,
+      "question": "On ultrasound, a Seminoma is classically described as:",
+      "choices": [
+        "Heterogeneous with cysts",
+        "Hypoechoic and Homogeneous (replaces the entire testicle)",
+        "Bright and fatty",
+        "Onion skin appearance",
+        "Water lily sign"
+      ],
+      "answer": "B",
+      "detail": "Seminomas are characteristically hypoechoic and homogeneous."
+    },
+    {
+      "number": 48,
+      "question": "Non-Seminomatous Germ Cell Tumors (NSGCTs) differ from seminomas because they are:",
+      "choices": [
+        "More homogeneous",
+        "More heterogeneous with cystic spaces and macrocalcifications",
+        "Always T2 dark on MRI",
+        "Only found in men over 80",
+        "Benign"
+      ],
+      "answer": "B",
+      "detail": "NSGCTs (teenagers/younger) are heterogeneous."
+    },
+    {
+      "number": 49,
+      "question": "Which testicular tumor is the most common in children under age 2 and is associated with elevated AFP?",
+      "choices": [
+        "Seminoma",
+        "Yolk Sac Tumor",
+        "Choriocarcinoma",
+        "Lymphoma",
+        "Leydig Cell"
+      ],
+      "answer": "B",
+      "detail": "Yolk Sac tumors are the most common in infants and produce AFP."
+    },
+    {
+      "number": 50,
+      "question": "Which highly aggressive testicular tumor spreads characteristically via the BLOOD (hematogenous)?",
+      "choices": [
+        "Seminoma",
+        "Choriocarcinoma",
+        "Teratoma",
+        "Yolk Sac",
+        "Sertoli Cell"
+      ],
+      "answer": "B",
+      "detail": "Choriocarcinoma is the testable exception that spreads via the blood."
+    },
+    {
+      "number": 51,
+      "question": "Elevated serum Beta hCG is associated with which two tumors?",
+      "choices": [
+        "Seminoma and Yolk Sac",
+        "Seminoma and Choriocarcinoma",
+        "Sertoli and Leydig",
+        "Lymphoma and Leukemia",
+        "Teratoma and Epidermoid"
+      ],
+      "answer": "B",
+      "detail": "Beta hCG is the marker for Seminoma and Choriocarcinoma."
+    },
+    {
+      "number": 52,
+      "question": "Elevated serum AFP (Alpha-Fetoprotein) is the marker for:",
+      "choices": [
+        "Seminoma",
+        "Yolk Sac and Mixed Germ Cell Tumors",
+        "Choriocarcinoma",
+        "Leydig Cell",
+        "Lymphoma"
+      ],
+      "answer": "B",
+      "detail": "AFP is associated with Yolk Sac and Non-Seminomatous mixed tumors."
+    },
+    {
+      "number": 53,
+      "question": "Testicular Lymphoma is the most common testicular tumor in which population?",
+      "choices": [
+        "Teenagers",
+        "Men over age 60",
+        "Infants",
+        "Pregnant women",
+        "Professional athletes"
+      ],
+      "answer": "B",
+      "detail": "Lymphoma is the standard answer for a testicular mass in an older man."
+    },
+    {
+      "number": 54,
+      "question": "What is the most common BILATERAL testicular malignancy?",
+      "choices": [
+        "Seminoma",
+        "Lymphoma",
+        "Choriocarcinoma",
+        "Teratoma",
+        "Sertoli Cell"
+      ],
+      "answer": "B",
+      "detail": "Lymphoma is the most common bilateral ball cancer."
+    },
+    {
+      "number": 55,
+      "question": "A 'Burned-Out' testicular tumor refers to a GCT that has:",
+      "choices": [
+        "Exploded",
+        "Regressed into a small mass or calcified scar",
+        "Spread only to the brain",
+        "Turned into a simple cyst",
+        "Disappeared with antibiotics"
+      ],
+      "answer": "B",
+      "detail": "These 'burned-out' tumors can still have viable disease elsewhere in the body."
+    },
+    {
+      "number": 56,
+      "question": "Which benign testicular mass has a pathognomonic 'Onion Skin' appearance?",
+      "choices": [
+        "Seminoma",
+        "Epidermoid Cyst",
+        "Sertoli Cell Tumor",
+        "Lymphoma",
+        "Teratoma"
+      ],
+      "answer": "B",
+      "detail": "Epidermoid cysts show alternating rings, looking like an onion skin."
+    },
+    {
+      "number": 57,
+      "question": "Tubular Ectasia of the Rete Testis is a benign finding located:",
+      "choices": [
+        "In the scrotum only",
+        "Next to the mediastinum testis (usually bilateral)",
+        "At the lower pole",
+        "In the skin",
+        "Only in teenagers"
+      ],
+      "answer": "B",
+      "detail": "This is a normal variant in older men and needs no follow-up."
+    },
+    {
+      "number": 58,
+      "question": "Sertoli Cell Tumors are associated with which syndrome?",
+      "choices": [
+        "VHL",
+        "Peutz-Jeghers (look for lip spots)",
+        "Gardner",
+        "Beckwith-Wiedemann",
+        "Klinefelter"
+      ],
+      "answer": "B",
+      "detail": "They are associated with Peutz-Jeghers syndrome."
+    },
+    {
+      "number": 59,
+      "question": "Which tumor is associated with Klinefelter Syndrome (47XXY)?",
+      "choices": [
+        "Endometrial cancer",
+        "Extra-gonadal Germ Cell Tumors (Mediastinal)",
+        "Renal cell carcinoma",
+        "Osteosarcoma",
+        "Wilms tumor"
+      ],
+      "answer": "B",
+      "detail": "Klinefelter patients have a 300x risk of mediastinal germ cell tumors."
+    },
+    {
+      "number": 60,
+      "question": "A testicular mass in a young man with 'Peutz-Jeghers lips' is a:",
+      "choices": [
+        "Seminoma",
+        "Sertoli Cell Tumor",
+        "Leydig Cell Tumor",
+        "Yolk Sac Tumor",
+        "Lymphoma"
+      ],
+      "answer": "B",
+      "detail": "This is a high-yield clinical association."
+    },
+    {
+      "number": 61,
+      "question": "Multiple hypoechoic masses in the testicle of a 65-year-old male is the buzzword for:",
+      "choices": [
+        "Seminoma",
+        "Lymphoma",
+        "Sarcoidosis",
+        "BPH",
+        "Cysts"
+      ],
+      "answer": "B",
+      "detail": "This is the classic imaging description for testicular lymphoma."
+    },
+    {
+      "number": 62,
+      "question": "'Sarcoid of the balls' characteristically involves which structure MORE commonly than the testicle?",
+      "choices": [
+        "Epididymis",
+        "Scrotal skin",
+        "Seminal vesicles",
+        "Prostate",
+        "Bladder"
+      ],
+      "answer": "A",
+      "detail": "Sarcoidosis favors the epididymis."
+    },
+    {
+      "number": 63,
+      "question": "'Bilateral solid testicular masses' plus 'Congenital Adrenal Hyperplasia' equals:",
+      "choices": [
+        "Seminoma",
+        "Adrenal Rests",
+        "Lymphoma",
+        "TB",
+        "Leukemia"
+      ],
+      "answer": "B",
+      "detail": "Adrenal rests are the reflex diagnosis for this combo."
+    },
+    {
+      "number": 64,
+      "question": "Testicular microlithiasis (tiny microcalcifications) is associated with which cancer?",
+      "choices": [
+        "Seminoma",
+        "Teratoma",
+        "Sertoli Cell",
+        "Leydig Cell",
+        "Lymphoma"
+      ],
+      "answer": "A",
+      "detail": "Microcalcs = Seminoma."
+    },
+    {
+      "number": 65,
+      "question": "Macrocalcifications (BIG) in a testicular mass suggest:",
+      "choices": [
+        "Seminoma",
+        "Germ Cell Tumor (Non-Seminoma / Teratoma)",
+        "Lymphoma",
+        "Simple cyst",
+        "Normal variant"
+      ],
+      "answer": "B",
+      "detail": "Large calcs point toward Non-Seminomatous tumors."
+    },
+    {
+      "number": 66,
+      "question": "What is the most common primary tumor to metastasize to the testicle (secondary tumor)?",
+      "choices": [
+        "Lung",
+        "Lymphoma",
+        "Prostate",
+        "Colon",
+        "Kidney"
+      ],
+      "answer": "B",
+      "detail": "Lymphoma is the most common secondary testicular malignancy."
+    },
+    {
+      "number": 67,
+      "question": "A 'Nubbin Sign' on a testicular nuclear medicine scan indicates:",
+      "choices": [
+        "Normal flow",
+        "Acute (early) Torsion",
+        "Epididymitis",
+        "Abscess",
+        "Cancer"
+      ],
+      "answer": "B",
+      "detail": "This sign represents a focal absence of flow."
+    },
+    {
+      "number": 68,
+      "question": "A 'Halo' of increased activity with central photopenia on a nuclear scan suggests:",
+      "choices": [
+        "Acute Torsion",
+        "Delayed (Missed) Torsion or Abscess",
+        "Normal development",
+        "Seminoma",
+        "Hydrocele"
+      ],
+      "answer": "B",
+      "detail": "This pattern is seen in late torsion or testicular abscess."
+    },
+    {
+      "number": 69,
+      "question": "Which condition shows INCREASED flow and blood pool on a nuclear scan?",
+      "choices": [
+        "Torsion",
+        "Acute Epididymitis",
+        "Missed Torsion",
+        "Cancer",
+        "Simple cyst"
+      ],
+      "answer": "B",
+      "detail": "Inflammation from epididymitis causes hyper-perfusion."
+    },
+    {
+      "number": 70,
+      "question": "Pure testicular teratomas are typically only seen in which age group?",
+      "choices": [
+        "Teenagers",
+        "Young kids < 2 years old",
+        "Men age 50",
+        "Post-menopausal women",
+        "Middle-aged men"
+      ],
+      "answer": "B",
+      "detail": "Pure teratomas are an infant tumor; mixed ones occur in adults."
+    },
+    {
+      "number": 71,
+      "question": "What is the most common CORRECTABLE cause of male infertility?",
+      "choices": [
+        "Cryptorchidism",
+        "Varicocele",
+        "Cystic Fibrosis",
+        "Steroid use",
+        "Smoking"
+      ],
+      "answer": "B",
+      "detail": "Varicoceles are the leading correctable cause."
+    },
+    {
+      "number": 72,
+      "question": "Varicoceles are much more common on which side (90%)?",
+      "choices": [
+        "Left side",
+        "Right side",
+        "Both sides equally",
+        "Only in children",
+        "Only after exercise"
+      ],
+      "answer": "A",
+      "detail": "Left-sided varicoceles are the standard."
+    },
+    {
+      "number": 73,
+      "question": "An ISOLATED RIGHT-SIDED varicocele should prompt an immediate evaluation of the:",
+      "choices": [
+        "Heart",
+        "Abdomen/Retroperitoneum (to look for a mass/cancer)",
+        "Brain",
+        "Lung",
+        "Spleen"
+      ],
+      "answer": "B",
+      "detail": "You must exclude a retroperitoneal process (like RCC) compressing the vein."
+    },
+    {
+      "number": 74,
+      "question": "Obstructive infertility in a male with Cystic Fibrosis (CF) is characteristically due to:",
+      "choices": [
+        "Torsion",
+        "Congenital bilateral absence of the vas deferens",
+        "Testicular cancer",
+        "Hydrocele",
+        "BPH"
+      ],
+      "answer": "B",
+      "detail": "Men with CF are often infertile because they lack the vas deferens."
+    },
+    {
+      "number": 75,
+      "question": "Cryptorchidism is most commonly seen in which infants?",
+      "choices": [
+        "Post-term",
+        "Premature (20%)",
+        "Large for gestational age",
+        "Triplets",
+        "Healthy term babies"
+      ],
+      "answer": "B",
+      "detail": "20% of premature kids have undescended testes."
+    },
+    {
+      "number": 76,
+      "question": "Which condition features a triad of 'Inability to smell' (anosmia) and infertility?",
+      "choices": [
+        "Turner Syndrome",
+        "Kallman Syndrome",
+        "Zinner Syndrome",
+        "Felty Syndrome",
+        "Ormond Disease"
+      ],
+      "answer": "B",
+      "detail": "Kallman Syndrome is the 'can't smell + infertile' zebra."
+    },
+    {
+      "number": 77,
+      "question": "Klinefelter Syndrome (47XXY) features which physical finding related to infertility?",
+      "choices": [
+        "Small spleen",
+        "Tall stature, gynecomastia, and infertility",
+        "Obesity and acne",
+        "Short stature and streaky ovaries",
+        "Blue dots on the scrotum"
+      ],
+      "answer": "B",
+      "detail": "These are the classic Klinefelter findings."
+    },
+    {
+      "number": 78,
+      "question": "'Bell Clapper Deformity' predisposes a patient to:",
+      "choices": [
+        "Cancer",
+        "Testicular Torsion",
+        "Infertility alone",
+        "Hydrocele",
+        "BPH"
+      ],
+      "answer": "B",
+      "detail": "This deformity increases mobility of the testicle."
+    },
+    {
+      "number": 79,
+      "question": "Because the Bell Clapper Deformity is usually bilateral, if one side torses, the other side:",
+      "choices": [
+        "Often undergoes orchiopexy (fixation)",
+        "Is usually normal",
+        "Will never torse",
+        "Is removed",
+        "Should be biopsied"
+      ],
+      "answer": "A",
+      "detail": "Both sides are typically fixed surgically."
+    },
+    {
+      "number": 80,
+      "question": "What is the most common cause of acute onset scrotal pain in ADULTS?",
+      "choices": [
+        "Torsion",
+        "Epididymitis",
+        "Cancer",
+        "BPH",
+        "Kidney stone"
+      ],
+      "answer": "B",
+      "detail": "Epididymitis is the leading cause in adults."
+    },
+    {
+      "number": 81,
+      "question": "In married men (not likely to have Chlamydia/Gonorrhea), what is the typical bug for epididymitis?",
+      "choices": [
+        "Staph",
+        "E. coli (from a urinary source)",
+        "TB",
+        "Mumps",
+        "HIV"
+      ],
+      "answer": "B",
+      "detail": "E. coli is the most likely culprit."
+    },
+    {
+      "number": 82,
+      "question": "Mumps is the classic cause for which ISOLATED condition?",
+      "choices": [
+        "Epididymitis",
+        "Orchitis",
+        "Torsion",
+        "Cancer",
+        "Hydrocele"
+      ],
+      "answer": "B",
+      "detail": "Isolated orchitis = Mumps."
+    },
+    {
+      "number": 83,
+      "question": "'Torsion of the Testicular Appendages' is the most common cause of acute pain in which age group?",
+      "choices": [
+        "Infants",
+        "Ages 7–14",
+        "Men over 60",
+        "Professional athletes",
+        "Post-menopausal women"
+      ],
+      "answer": "B",
+      "detail": "This is a common pediatric emergency."
+    },
+    {
+      "number": 84,
+      "question": "A 'Blue Dot Sign' on physical exam is a hallmark for:",
+      "choices": [
+        "Testicular cancer",
+        "Torsion of a testicular appendage",
+        "Testicular torsion",
+        "Epididymitis",
+        "Varicocele"
+      ],
+      "answer": "B",
+      "detail": "The blue dot indicates an infarcted appendage."
+    },
+    {
+      "number": 85,
+      "question": "Enlargement of the testicular appendage to greater than how many mm suggests torsion?",
+      "choices": [
+        "1 mm",
+        "3 mm",
+        "5 mm",
+        "10 mm",
+        "50 mm"
+      ],
+      "answer": "C",
+      "detail": "> 5 mm is the threshold."
+    },
+    {
+      "number": 86,
+      "question": "A 'Hydrocele' is defined as a collection of:",
+      "choices": [
+        "Blood",
+        "Serous fluid (most common cause of painless swelling)",
+        "Pus",
+        "Urine",
+        "Fat"
+      ],
+      "answer": "B",
+      "detail": "Hydroceles are the most common cause of painless swelling."
+    },
+    {
+      "number": 87,
+      "question": "A complicated hydrocele with septations is either a:",
+      "choices": [
+        "Seminoma or Teratoma",
+        "Hematocele or Pyocele",
+        "Simple cyst",
+        "Varicocele",
+        "Hernia"
+      ],
+      "answer": "B",
+      "detail": "These represent blood or pus in the sac."
+    },
+    {
+      "number": 88,
+      "question": "Henoch-Schonlein Purpura (HSP) is a vasculitis that is the most common cause of:",
+      "choices": [
+        "Cancer",
+        "Idiopathic scrotal edema",
+        "Torsion",
+        "BPH",
+        "Renal failure"
+      ],
+      "answer": "B",
+      "detail": "HSP causes scrotal edema."
+    },
+    {
+      "number": 89,
+      "question": "'Pampiniform plexus' enlargement defines a:",
+      "choices": [
+        "Seminoma",
+        "Varicocele",
+        "Hydrocele",
+        "Hernia",
+        "Abscess"
+      ],
+      "answer": "B",
+      "detail": "Varicoceles are dilated veins of this plexus."
+    },
+    {
+      "number": 90,
+      "question": "Which pituitary tumor can cause male infertility?",
+      "choices": [
+        "GH secreting tumor",
+        "Prolactinoma (making too much prolactin)",
+        "ACTH tumor",
+        "TSH tumor",
+        "Non-functional tumor"
+      ],
+      "answer": "B",
+      "detail": "Prolactinomas are a 'zebra' cause of male infertility."
+    },
+    {
+      "number": 91,
+      "question": "In transgender terminology, a 'Transgender Man' is a:",
+      "choices": [
+        "Female (XX) who identifies as male",
+        "Male (XY) who identifies as female",
+        "Person with two X chromosomes and one Y",
+        "Cisgender male",
+        "Doctor"
+      ],
+      "answer": "A",
+      "detail": "This term refers to the gender identity, not birth sex."
+    },
+    {
+      "number": 92,
+      "question": "'Penoscrotal inversion' (PIV) is a procedure used to create a functional:",
+      "choices": [
+        "Neophallus",
+        "Neovagina",
+        "Urethra",
+        "Bladder",
+        "Scrotum"
+      ],
+      "answer": "B",
+      "detail": "PIV is a common technique for vaginoplasty."
+    },
+    {
+      "number": 93,
+      "question": "The 'PIV' procedure characteristically involves which two components?",
+      "choices": [
+        "Hysterectomy and oophorectomy",
+        "Orchiectomy and 'penile disassembly'",
+        "Psoas hitch",
+        "Billroth 2",
+        "Whipple"
+      ],
+      "answer": "B",
+      "detail": "It involves removing the testicles and using penile skin to create the canal."
+    },
+    {
+      "number": 94,
+      "question": "Which surgery is performed to create a functional 'neopenis'?",
+      "choices": [
+        "Vaginoplasty",
+        "Phalloplasty",
+        "Metoidioplasty (alternative)",
+        "Orchiectomy",
+        "PNL"
+      ],
+      "answer": "B",
+      "detail": "Phalloplasty creates the neopenis."
+    },
+    {
+      "number": 95,
+      "question": "A 'Metoidioplasty' involves using hormones to hypertrophy the:",
+      "choices": [
+        "Labia majora",
+        "Clitoris (to serve as the glans)",
+        "Urethra",
+        "Bladder",
+        "Breasts"
+      ],
+      "answer": "B",
+      "detail": "This technique uses the enlarged clitoris to construct the shaft."
+    },
+    {
+      "number": 96,
+      "question": "A 'radial flap' (RFFF) is a common graft type used for:",
+      "choices": [
+        "Vaginoplasty",
+        "Phalloplasty",
+        "Breast implants",
+        "Knee replacement",
+        "Brain surgery"
+      ],
+      "answer": "B",
+      "detail": "RFFF is a standard donor site for phalloplasty."
+    },
+    {
+      "number": 97,
+      "question": "True or False: Transgender people are necessarily homosexual.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "B",
+      "detail": "Gender identity and sexual orientation are different things."
+    },
+    {
+      "number": 98,
+      "question": "'Puff-like' high-density material seen in the scrotum/pelvis post-op could be:",
+      "choices": [
+        "Cancer",
+        "Testicular prostheses (made of silicone)",
+        "Hydrocele",
+        "Gas",
+        "Stones"
+      ],
+      "answer": "B",
+      "detail": "Silicone prostheses appear as high density on CT."
+    },
+    {
+      "number": 99,
+      "question": "A 'Glottoplasty' or 'Cricothyroid approximation' are neck surgeries done to:",
+      "choices": [
+        "Remove a tumor",
+        "Make a voice 'sound less like a dude'",
+        "Treat TB",
+        "Fix a fracture",
+        "Drain a ranula"
+      ],
+      "answer": "B",
+      "detail": "These are gender-affirming vocal surgeries."
+    },
+    {
+      "number": 100,
+      "question": "A 'Tracheal Shave' (thyroid chondroplasty) is done to:",
+      "choices": [
+        "Treat cancer",
+        "Make the 'Adam's apple' look smaller",
+        "Fix a laryngocele",
+        "Stop snoring",
+        "Improve breathing"
+      ],
+      "answer": "B",
+      "detail": "It reduces the laryngeal prominence."
+    }
+  ]
+}

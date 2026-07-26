@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "What is the most common cause of subarachnoid hemorrhage (SAH) overall?",
+      "choices": [
+        "Aneurysm rupture",
+        "Arteriovenous malformation (AVM)",
+        "Trauma",
+        "Hypertension",
+        "Cerebral amyloid angiopathy"
+      ],
+      "answer": "C",
+      "detail": "Trauma is the most common cause of SAH overall, whereas aneurysm rupture is the most common cause of non-traumatic (spontaneous) SAH."
+    },
+    {
+      "number": 2,
+      "question": "A noncontrast CT scan for suspected SAH is performed 6 hours after the onset of a thunderclap headache. What is the approximate sensitivity of the scan in this timeframe?",
+      "choices": [
+        "50%",
+        "75%",
+        "85%",
+        "Greater than 95%",
+        "100%"
+      ],
+      "answer": "D",
+      "detail": "Noncontrast head CT is >95% sensitive within the first 6 hours, but its sensitivity drops to approximately 50% by day 5."
+    },
+    {
+      "number": 3,
+      "question": "In a patient with a high clinical suspicion of SAH and a negative noncontrast head CT, what is the standard of care to exclude the diagnosis?",
+      "choices": [
+        "MRI with FLAIR sequences",
+        "CT angiography (CTA)",
+        "Catheter angiography (DSA)",
+        "Lumbar puncture to look for xanthochromia",
+        "MR perfusion"
+      ],
+      "answer": "D",
+      "detail": "If clinical suspicion remains high despite a negative CT, a lumbar puncture is performed to look for xanthochromia to definitively exclude the diagnosis."
+    },
+    {
+      "number": 4,
+      "question": "Which imaging finding on MRI is most helpful in distinguishing acute SAH from leptomeningeal metastases?",
+      "choices": [
+        "FLAIR hyperintensity in the sulci",
+        "Leptomeningeal enhancement",
+        "Blooming artifact on GRE or SWI",
+        "Restricted diffusion on DWI",
+        "Increased T1 signal"
+      ],
+      "answer": "C",
+      "detail": "While both conditions cause sulcal FLAIR hyperintensity, blood products in SAH demonstrate susceptibility (blooming) on GRE or SWI, whereas metastases typically show enhancement."
+    },
+    {
+      "number": 5,
+      "question": "Which of the following can cause artifactually increased subarachnoid FLAIR signal in the absence of hemorrhage or infection?",
+      "choices": [
+        "Dehydration",
+        "Recent oxygen or propofol administration",
+        "Hypertensive emergency",
+        "High-protein CSF",
+        "Rapid bolus of gadolinium"
+      ],
+      "answer": "B",
+      "detail": "Recent administration of high-flow oxygen or propofol can artifactually increase subarachnoid FLAIR signal, mimicking hemorrhage."
+    },
+    {
+      "number": 6,
+      "question": "Hemorrhage isolated to the anterior interhemispheric fissure is most suggestive of an aneurysm at which location?",
+      "choices": [
+        "Internal carotid artery (ICA) terminus",
+        "Posterior communicating artery (P-comm)",
+        "Middle cerebral artery (MCA) bifurcation",
+        "Anterior communicating artery (A-comm)",
+        "Basilar tip"
+      ],
+      "answer": "D",
+      "detail": "The localization of blood can hint at the source; A-comm aneurysms typically bleed into the anterior interhemispheric fissure."
+    },
+    {
+      "number": 7,
+      "question": "Rupture of a posterior communicating artery (P-comm) aneurysm characteristically presents with hemorrhage centered in the:",
+      "choices": [
+        "Interhemispheric fissure",
+        "Suprasellar cistern",
+        "Sylvian fissure",
+        "Prepontine cistern",
+        "Fourth ventricle"
+      ],
+      "answer": "B",
+      "detail": "Hemorrhage from a ruptured P-comm aneurysm is characteristically centered within the suprasellar cistern."
+    },
+    {
+      "number": 8,
+      "question": "The Hunt and Hess clinical grading scale for aneurysmal SAH is based on:",
+      "choices": [
+        "The thickness of blood on CT",
+        "The presence of intraventricular blood",
+        "Clinical symptoms and neurologic status",
+        "The size of the aneurysm",
+        "The degree of vasospasm on angiography"
+      ],
+      "answer": "C",
+      "detail": "The Hunt and Hess scale is clinical, ranging from Grade I (mild headache) to Grade V (coma or extensor posturing)."
+    },
+    {
+      "number": 9,
+      "question": "According to the Modified Fisher scale, an SAH thickness of ≥1 mm with associated intraventricular hemorrhage is classified as:",
+      "choices": [
+        "Grade 1",
+        "Grade 2",
+        "Grade 3",
+        "Grade 4",
+        "Grade 5"
+      ],
+      "answer": "D",
+      "detail": "On the Modified Fisher scale, thick SAH (≥1 mm) alone is Grade 3; the addition of intraventricular hemorrhage (IVH) makes it Grade 4."
+    },
+    {
+      "number": 10,
+      "question": "What is the most common cause of morbidity and mortality in patients who survive the initial episode of SAH?",
+      "choices": [
+        "Re-bleeding",
+        "Acute hydrocephalus",
+        "Vasospasm",
+        "Seizures",
+        "Hyponatremia"
+      ],
+      "answer": "C",
+      "detail": "Vasospasm leading to delayed cerebral ischemia is the most common cause of morbidity and mortality in SAH survivors."
+    },
+    {
+      "number": 11,
+      "question": "When does the peak incidence of cerebral vasospasm typically occur following an aneurysm rupture?",
+      "choices": [
+        "0–24 hours",
+        "1–3 days",
+        "7–10 days",
+        "14–21 days",
+        "After 1 month"
+      ],
+      "answer": "C",
+      "detail": "Vasospasm most frequently occurs 7–10 days post-rupture and generally resolves by 21 days."
+    },
+    {
+      "number": 12,
+      "question": "\"Triple H\" therapy, used to treat or prevent delayed cerebral ischemia from vasospasm, stands for:",
+      "choices": [
+        "Hypertension, Hypervolemia, and Hemodilution",
+        "Hypotension, Hyperoxia, and Hydration",
+        "Heparin, Hemostats, and Hypothermia",
+        "Headache, Hydrocephalus, and Herniation",
+        "Hyperventilation, Hyperglycemia, and Hemodilution"
+      ],
+      "answer": "A",
+      "detail": "Triple H therapy involves Hypertension, Hypervolemia, and Hemodilution to maintain cerebral perfusion."
+    },
+    {
+      "number": 13,
+      "question": "Superficial siderosis, a result of chronic or repeated subarachnoid bleeding, is characterized on T2-weighted MRI by:",
+      "choices": [
+        "Diffuse gyral enhancement",
+        "Hypointensity outlining the sulcal surfaces",
+        "Hyperintensity within the basal ganglia",
+        "Widening of the Sylvian fissures",
+        "Dural thickening"
+      ],
+      "answer": "B",
+      "detail": "Superficial siderosis presents as hypointensity outlining sulcal surfaces on T2W images due to hemosiderin deposition on the pial membranes."
+    },
+    {
+      "number": 14,
+      "question": "A patient presenting with sensorineural deafness and ataxia who shows \"black\" sulcal outlines on T2W images likely has:",
+      "choices": [
+        "Multiple sclerosis",
+        "Meningitis",
+        "Superficial siderosis",
+        "CADASIL",
+        "Normal Pressure Hydrocephalus"
+      ],
+      "answer": "C",
+      "detail": "The clinical triad of sensorineural hearing loss, ataxia, and pyramidal signs combined with T2 sulcal hypointensity is diagnostic of superficial siderosis."
+    },
+    {
+      "number": 15,
+      "question": "Acute hydrocephalus occurs in up to 87% of SAH patients and is typically managed with:",
+      "choices": [
+        "A permanent ventriculoperitoneal (VP) shunt",
+        "Oral acetazolamide",
+        "External ventricular drainage (EVD)",
+        "High-dose steroids",
+        "Triple H therapy"
+      ],
+      "answer": "C",
+      "detail": "Acute hydrocephalus in the setting of SAH is typically managed emergently with external ventricular drainage."
+    },
+    {
+      "number": 16,
+      "question": "Saccular (berry) aneurysms typically point in which direction?",
+      "choices": [
+        "Against the direction of blood flow",
+        "In the direction of blood flow leading into a branch point",
+        "Medially toward the sella",
+        "Only toward the right side",
+        "Always superiorly"
+      ],
+      "answer": "B",
+      "detail": "Saccular aneurysms almost always point in the direction of blood flow as it enters a vascular branch point."
+    },
+    {
+      "number": 17,
+      "question": "What size threshold defines a \"giant\" intracranial aneurysm?",
+      "choices": [
+        ">1 cm",
+        ">1.5 cm",
+        ">2 cm",
+        ">2.5 cm",
+        ">5 cm"
+      ],
+      "answer": "D",
+      "detail": "Intracranial aneurysms larger than 2.5 cm are classified as \"giant\"."
+    },
+    {
+      "number": 18,
+      "question": "Which inherited condition is most strongly associated with the development of intracranial aneurysms?",
+      "choices": [
+        "Neurofibromatosis Type 2",
+        "Autosomal dominant polycystic kidney disease (ADPKD)",
+        "Tuberous sclerosis",
+        "Osteogenesis imperfecta",
+        "Achondroplasia"
+      ],
+      "answer": "B",
+      "detail": "ADPKD is a well-known genetic risk factor for intracranial aneurysms, along with Marfan and Ehlers-Danlos syndromes."
+    },
+    {
+      "number": 19,
+      "question": "Charcot-Bouchard aneurysms are minute aneurysms caused by chronic hypertension that characteristically occur in the:",
+      "choices": [
+        "Circle of Willis branch points",
+        "Basal ganglia",
+        "Subarachnoid space",
+        "Watershed zones",
+        "Cortical surface"
+      ],
+      "answer": "B",
+      "detail": "Unlike berry aneurysms, Charcot-Bouchard aneurysms are tiny, hypertensive, and found in the basal ganglia."
+    },
+    {
+      "number": 20,
+      "question": "A \"pupil-sparing\" oculomotor (CN III) nerve palsy is a classic clinical clue for an aneurysm of the:",
+      "choices": [
+        "Anterior communicating artery",
+        "Internal carotid artery (cavernous segment)",
+        "Posterior communicating artery (P-comm)",
+        "Ophthalmic artery",
+        "Superior cerebellar artery"
+      ],
+      "answer": "C",
+      "detail": "P-comm aneurysms can impact CN III; a \"pupil-sparing\" palsy is more common in microvascular disease, while a \"pupil-involved\" palsy (mydriasis) strongly suggests aneurysmal compression."
+    },
+    {
+      "number": 21,
+      "question": "Aneurysms of the cavernous segment of the internal carotid artery (ICA) are unique because they are:",
+      "choices": [
+        "High risk for subarachnoid hemorrhage",
+        "Located within the subarachnoid space",
+        "Extradural",
+        "Most commonly caused by trauma",
+        "Always treated with endovascular coiling"
+      ],
+      "answer": "C",
+      "detail": "Cavernous ICA aneurysms are extradural; therefore, their rupture typically results in a carotid-cavernous fistula rather than SAH."
+    },
+    {
+      "number": 22,
+      "question": "Which vessel serves as the anatomical landmark for the distal dural ring, distinguishing extradural from intradural ICA aneurysms?",
+      "choices": [
+        "Posterior communicating artery",
+        "Anterior choroidal artery",
+        "Ophthalmic artery",
+        "Superior hypophyseal artery",
+        "Vidian artery"
+      ],
+      "answer": "C",
+      "detail": "The origin of the ophthalmic artery serves as the landmark for the distal dural ring; aneurysms at or superior to this are intradural and high risk for SAH."
+    },
+    {
+      "number": 23,
+      "question": "Fusiform aneurysms are most commonly associated with which underlying pathology?",
+      "choices": [
+        "Hemodynamic stress at branch points",
+        "Connective tissue disease",
+        "Atherosclerosis",
+        "Septic emboli",
+        "Acute trauma"
+      ],
+      "answer": "C",
+      "detail": "Unlike saccular aneurysms, fusiform aneurysms lack a defined neck and are typically associated with atherosclerosis or chronic dissection."
+    },
+    {
+      "number": 24,
+      "question": "Which type of aneurysm is fragile, tends to be distal/peripheral in location, and is caused by septic emboli (e.g., from bacterial endocarditis)?",
+      "choices": [
+        "Saccular",
+        "Fusiform",
+        "Mycotic",
+        "Oncotic",
+        "Charcot-Bouchard"
+      ],
+      "answer": "C",
+      "detail": "Mycotic aneurysms are fragile, peripheral, and result from infectious septic emboli."
+    },
+    {
+      "number": 25,
+      "question": "A peripheral \"oncotic\" aneurysm is specifically caused by:",
+      "choices": [
+        "Chronic hypertension",
+        "Fungal infection",
+        "Embolization from a neoplasm (e.g., atrial myxoma)",
+        "Shearing forces in trauma",
+        "Amyloid deposition"
+      ],
+      "answer": "C",
+      "detail": "Oncotic aneurysms result from neoplastic embolization, such as from an atrial myxoma."
+    },
+    {
+      "number": 26,
+      "question": "Perimesencephalic subarachnoid hemorrhage is a benign pattern of bleeding thought to be of which origin?",
+      "choices": [
+        "Arterial (small perforators)",
+        "Venous",
+        "Capillary",
+        "Lymphatic",
+        "Dural sinus"
+      ],
+      "answer": "B",
+      "detail": "Perimesencephalic SAH is a benign, non-aneurysmal pattern thought to be of venous origin."
+    },
+    {
+      "number": 27,
+      "question": "To classify an SAH as \"perimesencephalic,\" the blood must be centered in which location?",
+      "choices": [
+        "Anterior interhemispheric fissure",
+        "Sylvian fissure",
+        "Interpeduncular or prepontine cisterns",
+        "Fourth ventricle",
+        "Superior sagittal sinus"
+      ],
+      "answer": "C",
+      "detail": "For this benign classification, blood must be centered directly anterior to the brainstem in the interpeduncular or prepontine cisterns."
+    },
+    {
+      "number": 28,
+      "question": "Reversible cerebral vasoconstriction syndrome (RCVS) characteristically presents with:",
+      "choices": [
+        "Progressive dementia",
+        "Recurrent thunderclap headaches and prolonged vasoconstriction",
+        "Isolated fourth ventricular hemorrhage",
+        "Chronic venous hypertension",
+        "Absence of any imaging findings"
+      ],
+      "answer": "B",
+      "detail": "RCVS is characterized by recurrent thunderclap headaches and multifocal arterial vasoconstriction that reverses over time."
+    },
+    {
+      "number": 29,
+      "question": "The \"trident\" or \"tau\" sign on a lateral angiogram is characteristic of which vascular anomaly?",
+      "choices": [
+        "A-comm aneurysm",
+        "Persistent trigeminal artery",
+        "Moyamoya disease",
+        "Arteriovenous malformation",
+        "Developmental venous anomaly"
+      ],
+      "answer": "B",
+      "detail": "The Trident or Tau sign is the pathognomonic angiographic appearance of a persistent trigeminal artery."
+    },
+    {
+      "number": 30,
+      "question": "In a patient with intraventricular hemorrhage isolated to the fourth ventricle, which source of bleeding should be highly suspected?",
+      "choices": [
+        "A-comm aneurysm",
+        "MCA aneurysm",
+        "Posterior inferior cerebellar artery (PICA) aneurysm",
+        "Basilar tip aneurysm",
+        "Deep venous thrombosis"
+      ],
+      "answer": "C",
+      "detail": "Isolated fourth ventricular hemorrhage should raise high suspicion for a ruptured PICA aneurysm."
+    }
+  ]
+}

@@ -1,0 +1,1307 @@
+
+{
+    "questions": 
+   [
+    {
+      "number": 1,
+      "question": "What is the generally accepted upper limit for normal ovarian volume in a premenopausal woman?",
+      "choices": [
+        "5 ml",
+        "10 ml",
+        "15–20 ml",
+        "50 ml",
+        "100 ml"
+      ],
+      "answer": "C",
+      "detail": "Ovarian volume is considered normal up until 15 ml, though some sources allow up to 20 ml."
+    },
+    {
+      "number": 2,
+      "question": "A postmenopausal ovary is considered abnormally large if its volume exceeds:",
+      "choices": [
+        "1 cc",
+        "3 cc",
+        "6 cc",
+        "15 cc",
+        "20 cc"
+      ],
+      "answer": "C",
+      "detail": "The postmenopausal ovary should typically not be larger than 6 cc."
+    },
+    {
+      "number": 3,
+      "question": "In the early follicular phase of the menstrual cycle, follicles are typically smaller than:",
+      "choices": [
+        "1 mm",
+        "5 mm",
+        "10 mm",
+        "20 mm",
+        "30 mm"
+      ],
+      "answer": "B",
+      "detail": "Follicles seen during the early menstrual cycle are typically small (< 5 mm in diameter)."
+    },
+    {
+      "number": 4,
+      "question": "By mid-cycle (around day 10), a 'dominant follicle' typically reaches a size of approximately:",
+      "choices": [
+        "5 mm",
+        "10 mm",
+        "20 mm",
+        "40 mm",
+        "50 mm"
+      ],
+      "answer": "C",
+      "detail": "By mid-cycle, the dominant follicle grows significantly, reaching about 20 mm."
+    },
+    {
+      "number": 5,
+      "question": "According to high-yield radiology terminology, an ovarian structure is classified as a 'cyst' only if it measures greater than:",
+      "choices": [
+        "1 cm",
+        "2 cm",
+        "3 cm",
+        "5 cm",
+        "7 cm"
+      ],
+      "answer": "C",
+      "detail": "Structures < 1 cm are follicles; 1–2 cm are dominant follicles; and > 3 cm are termed cysts."
+    },
+    {
+      "number": 6,
+      "question": "The 'Cumulus Oophorus' is a collection of cells in a dominant follicle that indicates:",
+      "choices": [
+        "Ovarian cancer",
+        "Imminent ovulation",
+        "Torsion",
+        "A dermoid plug",
+        "Menopause"
+      ],
+      "answer": "B",
+      "detail": "The presence of the cumulus oophorus signals that ovulation is imminent."
+    },
+    {
+      "number": 7,
+      "question": "Theca Lutein Cysts typically appear on ultrasound as having a:",
+      "choices": [
+        "Solid hyperechoic center",
+        "Multilocular cystic 'spoke-wheel' appearance",
+        "'Venetian blind' shadowing",
+        "'Daughter cyst' pattern",
+        "'Onion skin' appearance"
+      ],
+      "answer": "B",
+      "detail": "Theca lutein cysts characteristically show a multilocular cystic 'spoke-wheel' appearance."
+    },
+    {
+      "number": 8,
+      "question": "Which of the following is NOT typically associated with the development of theca lutein cysts?",
+      "choices": [
+        "Multifetal pregnancy",
+        "Gestational trophoblastic disease (molar pregnancy)",
+        "Ovarian Hyperstimulation Syndrome",
+        "Turner Syndrome",
+        "Use of Clomid"
+      ],
+      "answer": "D",
+      "detail": "Theca lutein cysts are related to b-HCG overstimulation, which is seen in molar pregnancies, multifetal pregnancies, and fertility therapy, but not Turner syndrome."
+    },
+    {
+      "number": 9,
+      "question": "Ovarian Hyperstimulation Syndrome involves theca lutein cysts and which classic extra-ovarian finding?",
+      "choices": [
+        "Renal stones",
+        "Ascites and pleural effusions",
+        "Splenic infarcts",
+        "Brain tumors",
+        "Gallstones"
+      ],
+      "answer": "B",
+      "detail": "OHSS findings include large theca lutein cysts as well as ascites and pleural effusions."
+    },
+    {
+      "number": 10,
+      "question": "A 'Paraovarian Cyst' is distinguished from an ovarian cyst because it:",
+      "choices": [
+        "Always contains fat",
+        "Does NOT distort the adjacent ovary",
+        "Always shadows",
+        "Is always malignant",
+        "Is only seen in men"
+      ],
+      "answer": "B",
+      "detail": "Paraovarian cysts are located adjacent to the ovary but do not distort the ovarian parenchyma itself."
+    },
+    {
+      "number": 11,
+      "question": "Paraovarian cysts are considered remnants of which embryological structure?",
+      "choices": [
+        "Mullerian duct",
+        "Wolffian duct",
+        "Urogenital sinus",
+        "Allantois",
+        "Notochord"
+      ],
+      "answer": "B",
+      "detail": "The paraovarian cyst is a congenital remnant arising from the Wolffian duct."
+    },
+    {
+      "number": 12,
+      "question": "When is the best time to perform a PET scan on a premenopausal woman to minimize physiologic ovarian activity?",
+      "choices": [
+        "The first week of the menstrual cycle",
+        "During ovulation (Day 14)",
+        "During the luteal phase",
+        "During pregnancy",
+        "There is no best time"
+      ],
+      "answer": "A",
+      "detail": "Premenopausal ovaries can be PET-hot during ovulation; imaging during the first week of the cycle minimizes this activity."
+    },
+    {
+      "number": 13,
+      "question": "Unlike premenopausal ovaries, postmenopausal ovaries on a PET scan should:",
+      "choices": [
+        "Be very bright",
+        "NOT be hot",
+        "Show a 'ring of fire'",
+        "Show focal uptake only",
+        "Be twice the size of the liver"
+      ],
+      "answer": "B",
+      "detail": "Postmenopausal ovaries should not demonstrate significant uptake on a PET scan."
+    },
+    {
+      "number": 14,
+      "question": "An incidental simple-appearing ovarian cyst on a premenopausal ultrasound requires no follow-up if it is smaller than:",
+      "choices": [
+        "1 cm",
+        "3 cm",
+        "5 cm",
+        "7 cm",
+        "10 cm"
+      ],
+      "answer": "D",
+      "detail": "For premenopausal women, a simple cyst measuring < 7 cm requires no follow-up."
+    },
+    {
+      "number": 15,
+      "question": "A simple incidental ovarian cyst on a postmenopausal ultrasound requires follow-up in 3 months if it is larger than:",
+      "choices": [
+        "1 cm",
+        "3 cm",
+        "5 cm",
+        "7 cm",
+        "10 cm"
+      ],
+      "answer": "C",
+      "detail": "In postmenopausal women, simple cysts > 5 cm warrant a 3-month follow-up ultrasound."
+    },
+    {
+      "number": 16,
+      "question": "Which of the following is part of the 'Sinister Six' of common benign ovarian masses?",
+      "choices": [
+        "Serous cystadenoma",
+        "Hemorrhagic cyst",
+        "Binner tumor",
+        "Krukenberg tumor",
+        "Struma ovarii"
+      ],
+      "answer": "B",
+      "detail": "The 'Sinister Six' of common benign masses includes follicles, corpora lutea, hemorrhagic cysts, endometriomas, dermoids, and PCOS."
+    },
+    {
+      "number": 17,
+      "question": "A 'Corpus Luteum' can often mimic an ectopic pregnancy on ultrasound because it demonstrates:",
+      "choices": [
+        "'Venetian blind' shadowing",
+        "A 'ring of fire' (intense peripheral blood flow)",
+        "Internal calcifications",
+        "'Onion skin' appearance",
+        "'Water lily' sign"
+      ],
+      "answer": "B",
+      "detail": "The corpus luteum classically demonstrates intense peripheral flow known as a 'ring of fire'."
+    },
+    {
+      "number": 18,
+      "question": "How can a corpus luteum be distinguished from an ectopic pregnancy during a 'push' maneuver with the transducer?",
+      "choices": [
+        "Both will stay attached to the ovary.",
+        "The corpus luteum moves WITH the ovary, while an ectopic moves SEPARATELY.",
+        "The ectopic will always disappear.",
+        "The corpus luteum will turn into a fetus.",
+        "Both will move to the other side."
+      ],
+      "answer": "B",
+      "detail": "An important differentiator is that the corpus luteum moves with the ovary, whereas an ectopic pregnancy moves independently."
+    },
+    {
+      "number": 19,
+      "question": "Which Doppler finding is considered specific (though not sensitive) for ectopic pregnancy?",
+      "choices": [
+        "RI between 0.4 and 0.7",
+        "RI < 0.4 or > 0.7",
+        "Constant forward diastolic flow",
+        "Absent flow",
+        "Tardus parvus"
+      ],
+      "answer": "B",
+      "detail": "An RI measuring less than 0.4 or greater than 0.7 is a specific indicator for ectopic pregnancy."
+    },
+    {
+      "number": 20,
+      "question": "The 'Shading Sign' on T2-weighted MRI (T2 shortening) is a classic buzzword for which pathology?",
+      "choices": [
+        "Fibroid",
+        "Endometrioma",
+        "Dermoid",
+        "Ovarian cancer",
+        "Simple cyst"
+      ],
+      "answer": "B",
+      "detail": "The shading sign (T2 shortening in a T1-bright lesion) is pathognomonic for an endometrioma."
+    },
+    {
+      "number": 21,
+      "question": "What is the traditional clinical triad associated with endometriosis?",
+      "choices": [
+        "Fever, pain, and high WBC",
+        "Infertility, dysmenorrhea, and dyspareunia",
+        "Obesity, acne, and facial hair",
+        "Ascites, pleural effusion, and mass",
+        "Weight loss, jaundice, and mass"
+      ],
+      "answer": "B",
+      "detail": "The triad consists of infertility, painful periods (dysmenorrhea), and painful intercourse (dyspareunia)."
+    },
+    {
+      "number": 22,
+      "question": "If an endometrioma is going to undergo malignant transformation, the most sensitive MRI finding is:",
+      "choices": [
+        "Increase in size",
+        "An enhancing mural nodule",
+        "Development of gas",
+        "Central calcification",
+        "Spontaneous rupture"
+      ],
+      "answer": "B",
+      "detail": "An enhancing mural nodule is the most sensitive imaging feature suggesting malignancy within an endometrioma."
+    },
+    {
+      "number": 23,
+      "question": "Malignant transformation of an endometrioma is rare (<1%) but typically results in which types of cancer?",
+      "choices": [
+        "Squamous cell",
+        "Endometrioid or Clear Cell Carcinoma",
+        "Adenocarcinoma of the cervix",
+        "Sarcoma",
+        "Teratoma"
+      ],
+      "answer": "B",
+      "detail": "Malignant transformation typically yields endometrioid or clear cell carcinoma."
+    },
+    {
+      "number": 24,
+      "question": "'Decidualized Endometrioma' refers to a solid nodule with blood flow found in an endometrioma during:",
+      "choices": [
+        "Menopause",
+        "Pregnancy",
+        "Puberty",
+        "Ovulation",
+        "Fasting"
+      ],
+      "answer": "B",
+      "detail": "Decidualization is a malignancy mimic that can be seen in endometriomas during pregnancy."
+    },
+    {
+      "number": 25,
+      "question": "Polycystic Ovarian Syndrome (PCOS) is characteristically associated with a 'string-of-pearls' appearance and ovaries that are:",
+      "choices": [
+        "Small and atrophic",
+        "Enlarged (> 10 cc)",
+        "Bright on T1",
+        "Purely solid",
+        "Calcified"
+      ],
+      "answer": "B",
+      "detail": "In PCOS, the ovaries are typically enlarged with a volume > 10 cc."
+    },
+    {
+      "number": 26,
+      "question": "The classic ultrasound descriptor for hair within an ovarian dermoid (teratoma) is the:",
+      "choices": [
+        "'Venetian blind' pattern",
+        "'Dot-dash' pattern",
+        "'Onion skin' look",
+        "'Comet-tail' artifact",
+        "'Water lily' sign"
+      ],
+      "answer": "B",
+      "detail": "The 'dot-dash' pattern is a characteristic ultrasound finding for hair fibers within a dermoid."
+    },
+    {
+      "number": 27,
+      "question": "Transformation of a mature cystic teratoma (dermoid) into malignancy is rare and typically results in:",
+      "choices": [
+        "Clear cell carcinoma",
+        "Squamous Cell Carcinoma",
+        "Endometrioid cancer",
+        "Lymphoma",
+        "Choriocarcinoma"
+      ],
+      "answer": "B",
+      "detail": "The rare malignant transformation of a dermoid cyst typically produces Squamous Cell Carcinoma."
+    },
+    {
+      "number": 28,
+      "question": "What is the most common type of ovarian malignancy?",
+      "choices": [
+        "Mucinous tumors",
+        "Serous tumors",
+        "Endometrioid tumors",
+        "Germ cell tumors",
+        "Brenner tumors"
+      ],
+      "answer": "B",
+      "detail": "Serous tumors are the most frequent type of primary ovarian cancer."
+    },
+    {
+      "number": 29,
+      "question": "Serous ovarian tumors are characteristically described as:",
+      "choices": [
+        "Small and solid",
+        "Large, unilocular (few septations), and frequently bilateral",
+        "Multilocular with low-level echoes",
+        "Fat-containing",
+        "Purely cystic with no nodules"
+      ],
+      "answer": "B",
+      "detail": "Serous tumors are typically large, unilocular, and frequently affect both ovaries."
+    },
+    {
+      "number": 30,
+      "question": "'Mucinous' ovarian tumors differ from serous ones because they are more likely to be:",
+      "choices": [
+        "Bilateral",
+        "Multilocular (more septations) and associated with smoking",
+        "Smaller in size",
+        "T2 dark",
+        "Found in children"
+      ],
+      "answer": "B",
+      "detail": "Mucinous tumors are typically multilocular and have a known association with smoking."
+    },
+    {
+      "number": 31,
+      "question": "A potential complication of a ruptured mucinous ovarian tumor is:",
+      "choices": [
+        "Pseudomyxoma peritonei (scalloping of solid organs)",
+        "Heart failure",
+        "Brain abscess",
+        "Biliary atresia",
+        "Splenic infarct"
+      ],
+      "answer": "A",
+      "detail": "Rupture can lead to pseudomyxoma peritonei, with characteristic scalloping along liver and splenic margins."
+    },
+    {
+      "number": 32,
+      "question": "Which ovarian tumor is nicknamed 'Ovarian Transitional Cell Carcinoma'?",
+      "choices": [
+        "Fibroma",
+        "Brenner Tumor",
+        "Struma Ovarii",
+        "Krukenberg",
+        "Endometrioid"
+      ],
+      "answer": "B",
+      "detail": "The Brenner tumor is sometimes referred to as 'Ovarian Transitional Cell Carcinoma'."
+    },
+    {
+      "number": 33,
+      "question": "Unlike ovarian fibromas, Brenner tumors characteristically demonstrate:",
+      "choices": [
+        "High T2 signal",
+        "Common calcifications (80%)",
+        "Fat content",
+        "'Ring of fire' flow",
+        "Rapid wash-out"
+      ],
+      "answer": "B",
+      "detail": "Unlike fibromas, calcifications are very common (seen in 80%) in Brenner tumors."
+    },
+    {
+      "number": 34,
+      "question": "'Struma Ovarii' is a specialized subtype of ovarian teratoma that contains:",
+      "choices": [
+        "Teeth and hair only",
+        "Thyroid tissue",
+        "Brain tissue",
+        "Bone marrow",
+        "Pancreatic enzymes"
+      ],
+      "answer": "B",
+      "detail": "Struma ovarii is an ovarian teratoma that contains thyroid tissue."
+    },
+    {
+      "number": 35,
+      "question": "On MRI, the 'cystic' areas of a Struma Ovarii tumor will show:",
+      "choices": [
+        "Very high T2 signal",
+        "Very low T2 signal (from thick colloid)",
+        "High T1 signal",
+        "Peripheral enhancement",
+        "No signal at all"
+      ],
+      "answer": "B",
+      "detail": "A classic MRI finding is very low T2 signal in the 'cystic' areas, representing thick colloid."
+    },
+    {
+      "number": 36,
+      "question": "'Meigs Syndrome' is defined by which clinical triad?",
+      "choices": [
+        "Splenomegaly, anemia, and neutropenia",
+        "Benign ovarian tumor (fibroma), ascites, and pleural effusion",
+        "Fever, mass, and high WBC",
+        "Obesity, acne, and facial hair",
+        "Jaundice, gallstones, and mass"
+      ],
+      "answer": "B",
+      "detail": "Meigs syndrome is the specific association of an ovarian fibroma, ascites, and pleural effusion."
+    },
+    {
+      "number": 37,
+      "question": "On MRI, an ovarian fibroma classically appears:",
+      "choices": [
+        "T1 bright and T2 bright",
+        "T1 and T2 dark with a 'black garland sign' (T2 dark rim)",
+        "Cystic with a mural nodule",
+        "Fat-containing",
+        "Non-enhancing"
+      ],
+      "answer": "B",
+      "detail": "Fibromas are T1/T2 dark and often demonstrate a 'black garland' of T2-darkness along the rim."
+    },
+    {
+      "number": 38,
+      "question": "A 'Krukenberg Tumor' refers to metastatic disease to the ovaries, typically from which primary site?",
+      "choices": [
+        "Breast",
+        "GI tract (usually stomach)",
+        "Lung",
+        "Thyroid",
+        "Melanoma"
+      ],
+      "answer": "B",
+      "detail": "A Krukenberg tumor is a gastric or GI malignancy that has spread to the ovaries."
+    },
+    {
+      "number": 39,
+      "question": "What is the 'most constant finding' in the diagnosis of ovarian torsion?",
+      "choices": [
+        "Absence of Doppler flow",
+        "An enlarged ovary (greater than 4 cm)",
+        "Presence of a simple cyst",
+        "Ascites",
+        "Calcifications"
+      ],
+      "answer": "B",
+      "detail": "While flow may vary, an enlarged ovary (> 4 cm) is the most constant imaging sign of torsion."
+    },
+    {
+      "number": 40,
+      "question": "Why does the presence of Doppler flow NOT exclude ovarian torsion?",
+      "choices": [
+        "The ovary has no vessels.",
+        "The ovary has a dual blood supply.",
+        "Torsion only affects veins.",
+        "Ultrasound is too insensitive.",
+        "Arteries never twist."
+      ],
+      "answer": "B",
+      "detail": "Because the ovary receives blood from both the uterine and ovarian arteries, flow may still be present despite torsion."
+    },
+    {
+      "number": 41,
+      "question": "The 'Cogwheel Appearance' on ultrasound refers to the longitudinal folds of a thickened:",
+      "choices": [
+        "Endometrium",
+        "Hydrosalpinx (fallopian tube)",
+        "Ovarian mass",
+        "Cervix",
+        "Urethra"
+      ],
+      "answer": "B",
+      "detail": "The 'cogwheel appearance' is a buzzword for the thickened folds of a hydrosalpinx."
+    },
+    {
+      "number": 42,
+      "question": "The 'Waist Sign' is an imaging finding used to help differentiate:",
+      "choices": [
+        "Fibroid from cancer",
+        "Hydrosalpinx from an ovarian mass",
+        "Torsion from a cyst",
+        "Pregnancy from a mole",
+        "Spleen from kidney"
+      ],
+      "answer": "B",
+      "detail": "The 'waist sign' is used to identify a tubular hydrosalpinx and distinguish it from a solid ovarian mass."
+    },
+    {
+      "number": 43,
+      "question": "On ultrasound, a 'Hydrosalpinx' appears as a:",
+      "choices": [
+        "Round solid mass",
+        "Thin (or thick) elongated tubular structure in the pelvis",
+        "'Snowstorm' appearance",
+        "'Bunch of grapes'",
+        "'Target sign'"
+      ],
+      "answer": "B",
+      "detail": "Hydrosalpinx is characterized as a fluid-filled, elongated tubular structure in the adnexa."
+    },
+    {
+      "number": 44,
+      "question": "'Pelvic Inflammatory Disease' (PID) is characteristically associated with which uterine finding on ultrasound?",
+      "choices": [
+        "T-shaped uterus",
+        "'Indefinite Uterus' (ill-defined margins)",
+        "Uterus Didelphys",
+        "Massive calcification",
+        "'Starry sky' appearance"
+      ],
+      "answer": "B",
+      "detail": "The buzzword 'indefinite uterus' refers to the ill-defined uterine margins often seen in PID."
+    },
+    {
+      "number": 45,
+      "question": "'Ovarian Vein Thrombophlebitis' (OVT) is most common postpartum and occurs on the RIGHT side in what percentage of cases?",
+      "choices": [
+        "10%",
+        "25%",
+        "50%",
+        "80%",
+        "100%"
+      ],
+      "answer": "D",
+      "detail": "OVT occurs on the right side in approximately 80% of postpartum cases."
+    },
+    {
+      "number": 46,
+      "question": "A 'Peritoneal Inclusion Cyst' is an inflammatory cyst that occurs when:",
+      "choices": [
+        "A fetus develops in the abdomen.",
+        "Adhesions envelop an active ovary.",
+        "A stone blocks the ureter.",
+        "The bladder ruptures.",
+        "A woman takes Clomid."
+      ],
+      "answer": "B",
+      "detail": "These cysts form when pelvic adhesions trap fluid around a functioning ovary."
+    },
+    {
+      "number": 47,
+      "question": "A key feature of a peritoneal inclusion cyst is that its shape is:",
+      "choices": [
+        "Perfectly round",
+        "'Passive' (conforms to surrounding structures)",
+        "Tubular",
+        "Stellate",
+        "Snowflake-like"
+      ],
+      "answer": "B",
+      "detail": "Unlike simple cysts, peritoneal inclusion cysts are 'passive' and take the shape of surrounding pelvic organs."
+    },
+    {
+      "number": 48,
+      "question": "In Gestational Trophoblastic Disease, why is 'hyperemesis' (severe vomiting) often part of the history?",
+      "choices": [
+        "The patient is just hungry.",
+        "Marked elevation of B-hCG causes vomiting.",
+        "The mole produces stomach acid.",
+        "It is caused by fetal movement.",
+        "It is due to low blood sugar."
+      ],
+      "answer": "B",
+      "detail": "Extremely high levels of b-HCG associated with molar pregnancies cause hyperemesis."
+    },
+    {
+      "number": 49,
+      "question": "A 'Complete Mole' characteristically has which karyotype?",
+      "choices": [
+        "69XXY",
+        "46XX (diploid)",
+        "45XO",
+        "47XXY",
+        "46XY"
+      ],
+      "answer": "B",
+      "detail": "A complete mole has a 46XX diploid karyotype."
+    },
+    {
+      "number": 50,
+      "question": "The classic first-trimester ultrasound appearance of a complete mole is described as:",
+      "choices": [
+        "'Daughter cysts'",
+        "'Snowstorm'",
+        "'Target sign'",
+        "'Oreo cookie' sign",
+        "'Water lily' sign"
+      ],
+      "answer": "B",
+      "detail": "The 'snowstorm' look describes an echogenic solid mass filling the uterus in early molar pregnancy."
+    },
+    {
+      "number": 51,
+      "question": "In the second trimester, a molar pregnancy takes on which classic appearance?",
+      "choices": [
+        "'Snowstorm'",
+        "'Bunch of grapes' (individual cysts 2–30 mm)",
+        "'Single bubble'",
+        "'Lead pipe'",
+        "'Apple core'"
+      ],
+      "answer": "B",
+      "detail": "The 'bunch of grapes' appearance results from the expansion of individual vesicles within the mole."
+    },
+    {
+      "number": 52,
+      "question": "A 'Partial Mole' is characterized by being:",
+      "choices": [
+        "Diploid",
+        "Triploid (69XXY)",
+        "Associated with a normal baby",
+        "Always found in the brain",
+        "Benign and meaningless"
+      ],
+      "answer": "B",
+      "detail": "The partial mole characteristically has a triploid (69XXY) karyotype."
+    },
+    {
+      "number": 53,
+      "question": "'Choriocarcinoma' is an aggressive malignancy that is suspected when serum b-HCG levels rise during which period?",
+      "choices": [
+        "First trimester",
+        "8 to 10 weeks following evacuation of a molar pregnancy",
+        "Only during menopause",
+        "After a renal transplant",
+        "Before puberty"
+      ],
+      "answer": "B",
+      "detail": "Post-evacuation rise in b-HCG between weeks 8 and 10 is highly concerning for choriocarcinoma."
+    },
+    {
+      "number": 54,
+      "question": "Choriocarcinoma is unique because it spreads hematogenously (via blood) to almost anywhere, whereas most other testicular/genital tumors spread via:",
+      "choices": [
+        "Lymphatics",
+        "Nerves",
+        "Direct extension only",
+        "Air",
+        "Biliary ducts"
+      ],
+      "answer": "A",
+      "detail": "Unlike most testicular or genital cancers that favor lymphatics, choriocarcinoma characteristically spreads via the bloodstream."
+    },
+    {
+      "number": 55,
+      "question": "In a cross-section of the penis, which structure contains the urethra?",
+      "choices": [
+        "Corpus Cavernosum",
+        "Corpus Spongiosum",
+        "Tunica Albuginea",
+        "Buck's Fascia",
+        "Deep Fascia"
+      ],
+      "answer": "B",
+      "detail": "The urethra is located within the corpus spongiosum."
+    },
+    {
+      "number": 56,
+      "question": "A 'Fractured Penis' is anatomically defined by a fracture/rupture of the:",
+      "choices": [
+        "Superficial fascia",
+        "Corpus cavernosum and its surrounding tunica albuginea",
+        "Glans only",
+        "Median raphe",
+        "Prostate"
+      ],
+      "answer": "B",
+      "detail": "Penile fracture involves the rupture of the corpus cavernosum and the tunica albuginea."
+    },
+    {
+      "number": 57,
+      "question": "Stigmata of a penile fracture injury can include 'Peyronie Disease,' which is:",
+      "choices": [
+        "An active infection",
+        "Suboptimal angulation from fibrous scar formation",
+        "A type of cancer",
+        "Dilation of the urethra",
+        "Absence of the penis"
+      ],
+      "answer": "B",
+      "detail": "Peyronie disease results from scarring, causing abnormal angulation of the penis."
+    },
+    {
+      "number": 58,
+      "question": "Which genetic syndrome features the association of 'Bilateral Solid Testicular Masses' and 'Adrenal Rests'?",
+      "choices": [
+        "Turner Syndrome",
+        "Congenital Adrenal Hyperplasia",
+        "VHL",
+        "MEN 1",
+        "Klinefelter Syndrome"
+      ],
+      "answer": "B",
+      "detail": "Bilateral solid testicular masses in the setting of CAH are known as adrenal rests."
+    },
+    {
+      "number": 59,
+      "question": "'Klinefelter Syndrome' (47XXY) is associated with a 300x increased risk for which tumor?",
+      "choices": [
+        "Endometrial cancer",
+        "Extra-gonadal Germ Cell Tumors (in the chest)",
+        "Renal cell carcinoma",
+        "Osteosarcoma",
+        "Wilms tumor"
+      ],
+      "answer": "B",
+      "detail": "Klinefelter patients have a massively increased risk for germ cell tumors within the mediastinum."
+    },
+    {
+      "number": 60,
+      "question": "In an infant, a 'Sacrococcygeal Teratoma' is the most common tumor and is located:",
+      "choices": [
+        "In the brain",
+        "In the pelvis (often with a coccyx attachment)",
+        "In the liver",
+        "In the lung",
+        "In the stomach"
+      ],
+      "answer": "B",
+      "detail": "Sacrococcygeal teratoma is the most common tumor of infancy and is found in the pelvic region."
+    },
+    {
+      "number": 61,
+      "question": "What is the 'Next Step' if you identify a unicornuate uterus on imaging?",
+      "choices": [
+        "MRI the brain",
+        "Ultrasound or CT the kidneys (to look for agenesis)",
+        "Perform a PET scan",
+        "Perform a biopsy",
+        "Start antibiotics"
+      ],
+      "answer": "B",
+      "detail": "Unicornuate uterus has a 70% association with ipsilateral renal agenesis, so the kidneys must be evaluated."
+    },
+    {
+      "number": 62,
+      "question": "'Mayer-Rokitansky-Kuster-Hauser' (MRKH) syndrome is characterized by Mullerian agenesis and:",
+      "choices": [
+        "Absent ovaries",
+        "NORMAL ovaries",
+        "T-shaped uterus",
+        "Horseshoe kidney",
+        "Brain tumors"
+      ],
+      "answer": "B",
+      "detail": "A defining hallmark of MRKH is that the ovaries remain normal despite uterine and vaginal absence."
+    },
+    {
+      "number": 63,
+      "question": "'DES exposure' in utero is the classic 'reflex generator' for which uterine anomaly?",
+      "choices": [
+        "Bicornuate",
+        "T-shaped uterus",
+        "Didelphys",
+        "Septate",
+        "Arcuate"
+      ],
+      "answer": "B",
+      "detail": "In utero DES exposure is the classic cause for a T-shaped uterus."
+    },
+    {
+      "number": 64,
+      "question": "A 'Septate Uterus' is distinguished from a bicornuate one because the fundal contour is:",
+      "choices": [
+        "Heart-shaped",
+        "Normal (indentation < 5 mm or convex)",
+        "Tube-like",
+        "Absent",
+        "Severely notched"
+      ],
+      "answer": "B",
+      "detail": "A septate uterus has a normal fundal contour, whereas a bicornuate one has a deep 'heart-shaped' cleft."
+    },
+    {
+      "number": 65,
+      "question": "Which uterine anomaly has the HIGHEST association with miscarriage?",
+      "choices": [
+        "Bicornuate",
+        "Didelphys",
+        "Septate",
+        "Arcuate",
+        "T-shaped"
+      ],
+      "answer": "C",
+      "detail": "The septate uterus carries the highest risk of miscarriage due to poor blood supply to the septum."
+    },
+    {
+      "number": 66,
+      "question": "On HSG, 'Salpingitis Isthmica Nodosa' (SIN) involves which part of the fallopian tube?",
+      "choices": [
+        "The fimbriae",
+        "The proximal 2/3",
+        "The distal 1/3 only",
+        "Only the ampulla",
+        "The entire tube uniformly"
+      ],
+      "answer": "B",
+      "detail": "SIN typically involves the proximal 2/3 of the fallopian tubes."
+    },
+    {
+      "number": 67,
+      "question": "SIN on a board exam is the 'Aunt Minnie' for:",
+      "choices": [
+        "Normal fertility",
+        "Infertility and ectopic pregnancy",
+        "Uterine cancer",
+        "Fibroids",
+        "PID"
+      ],
+      "answer": "B",
+      "detail": "The finding of SIN is strongly associated with infertility and an increased risk of ectopic pregnancy."
+    },
+    {
+      "number": 68,
+      "question": "'Uterine AVMs' are most commonly acquired after which event?",
+      "choices": [
+        "Menopause",
+        "Previous Dilation and Curettage (D&C)",
+        "Exercise",
+        "High protein diet",
+        "Common cold"
+      ],
+      "answer": "B",
+      "detail": "Most uterine AVMs result from prior intrauterine procedures like D&C or C-sections."
+    },
+    {
+      "number": 69,
+      "question": "Post-surgical 'Asherman Syndrome' is defined as clinical infertility resulting from:",
+      "choices": [
+        "Multiple dermoids",
+        "Intrauterine adhesions/synechiae",
+        "Absence of the uterus",
+        "High resistance flow",
+        "Cervical cancer"
+      ],
+      "answer": "B",
+      "detail": "Asherman Syndrome is infertility caused by scarring or adhesions within the uterine cavity."
+    },
+    {
+      "number": 70,
+      "question": "'Endometritis' characteristically presents 2–5 days after delivery with:",
+      "choices": [
+        "Fever, uterine tenderness, and thickened endometrium",
+        "Weight loss and T-shaped uterus",
+        "Jaundice and gallstones",
+        "Incontinence and molar tooth sign",
+        "Sudden cardiac arrest"
+      ],
+      "answer": "A",
+      "detail": "Postpartum fever and tenderness are clinical markers for endometritis."
+    },
+    {
+      "number": 71,
+      "question": "In pelvic floor anatomy, the 'Anterior Compartment' contains the:",
+      "choices": [
+        "Vagina and uterus",
+        "Bladder and urethra",
+        "Anus and rectum",
+        "Ovaries",
+        "Psoas muscle"
+      ],
+      "answer": "B",
+      "detail": "The bladder and urethra comprise the anterior pelvic compartment."
+    },
+    {
+      "number": 72,
+      "question": "A 'Cystocele' is defined as bladder descent greater than 1 cm below the:",
+      "choices": [
+        "H Line",
+        "M Line",
+        "Pubococcygeal Line (PCL)",
+        "Arcuate line",
+        "Midline"
+      ],
+      "answer": "C",
+      "detail": "Descent > 1 cm below the Pubococcygeal Line defines a cystocele."
+    },
+    {
+      "number": 73,
+      "question": "In dynamic pelvic MRI, the 'H Line' is used to measure:",
+      "choices": [
+        "Vertical descent",
+        "Hiatal widening",
+        "Ovarian volume",
+        "Endometrial thickness",
+        "Bladder pressure"
+      ],
+      "answer": "B",
+      "detail": "The H line is a measurement of hiatal widening/enlargement."
+    },
+    {
+      "number": 74,
+      "question": "The 'M Line' on pelvic MRI measures:",
+      "choices": [
+        "Hiatal widening",
+        "Pelvic floor descent (distance from PCL)",
+        "Uterine length",
+        "Cervical width",
+        "Rectal bulge"
+      ],
+      "answer": "B",
+      "detail": "The M line represents the vertical descent of the pelvic floor from the PCL."
+    },
+    {
+      "number": 75,
+      "question": "'Uterine Prolapse' is defined as descent of the cervix greater than 1 cm below the:",
+      "choices": [
+        "H Line",
+        "Pubococcygeal Line (PCL)",
+        "M Line",
+        "Arcuate line",
+        "S3 level"
+      ],
+      "answer": "B",
+      "detail": "Uterine prolapse is when the cervix drops > 1 cm below the PCL."
+    },
+    {
+      "number": 76,
+      "question": "'Red (Carneous) Degeneration' of a fibroid characteristically occurs during pregnancy and shows which MRI sign?",
+      "choices": [
+        "Central popcorn calcification",
+        "A peripheral rim of high T1 signal",
+        "High T2 signal throughout",
+        "Absence of enhancement",
+        "'Snowstorm' appearance"
+      ],
+      "answer": "B",
+      "detail": "The peripheral T1-bright rim (blood/methemoglobin) is the hallmark of red degeneration."
+    },
+    {
+      "number": 77,
+      "question": "On T2-weighted MRI, the 'Junctional Zone' of the uterus is the:",
+      "choices": [
+        "Brightest layer",
+        "Dark (hypointense) middle layer",
+        "Outermost layer",
+        "Only layer seen in infants",
+        "Calcified layer"
+      ],
+      "answer": "B",
+      "detail": "The junctional zone is the distinct dark inner myometrial layer on T2 images."
+    },
+    {
+      "number": 78,
+      "question": "'Adenomyosis' is diagnosed when the T2-dark junctional zone measures greater than:",
+      "choices": [
+        "5 mm",
+        "8 mm",
+        "12 mm",
+        "20 mm",
+        "50 mm"
+      ],
+      "answer": "C",
+      "detail": "A thickness > 12 mm for the junctional zone is diagnostic of adenomyosis."
+    },
+    {
+      "number": 79,
+      "question": "Endometrial thickness in a postmenopausal woman with BLEEDING should be biopsied if it exceeds:",
+      "choices": [
+        "1 mm",
+        "3 mm",
+        "4–5 mm",
+        "15 mm",
+        "20 mm"
+      ],
+      "answer": "C",
+      "detail": "In a postmenopausal bleeder, endometrium > 4–5 mm requires biopsy to exclude cancer."
+    },
+    {
+      "number": 80,
+      "question": "'Lynch Syndrome' (HNPCC) carries a 30–50x increased risk for which cancer?",
+      "choices": [
+        "Ovarian",
+        "Endometrial",
+        "Cervical",
+        "Breast",
+        "Colon only"
+      ],
+      "answer": "B",
+      "detail": "Lynch syndrome is associated with a massive increased risk for endometrial cancer."
+    },
+    {
+      "number": 81,
+      "question": "'Tamoxifen' use for breast cancer is associated with which endometrial changes?",
+      "choices": [
+        "Atrophy",
+        "Subendometrial cysts and polyps",
+        "Complete fatty replacement",
+        "Disappearance of the junctional zone",
+        "'Snowstorm' appearance"
+      ],
+      "answer": "B",
+      "detail": "Tamoxifen use characteristically leads to subendometrial cysts and endometrial polyps."
+    },
+    {
+      "number": 82,
+      "question": "In MRI staging of endometrial cancer, Stage 1b is defined as invasion of:",
+      "choices": [
+        "Less than 50% of the myometrium",
+        "More than 50% of myometrium",
+        "The cervix",
+        "The bladder",
+        "The rectum"
+      ],
+      "answer": "B",
+      "detail": "Stage 1b represents deep tumor invasion (more than 50%) into the myometrium."
+    },
+    {
+      "number": 83,
+      "question": "In cervical cancer, 'Stage 2b' is significant because it involves:",
+      "choices": [
+        "Spread to the upper vagina",
+        "Parametrial invasion (chemo/rad required)",
+        "Spread to the bladder",
+        "Bone mets",
+        "Lymph node involvement only"
+      ],
+      "answer": "B",
+      "detail": "Stage 2b (parametrial invasion) changes management to chemo-radiation rather than surgery."
+    },
+    {
+      "number": 84,
+      "question": "Parametrial invasion is identified on MRI by the disruption of the:",
+      "choices": [
+        "Endometrial stripe",
+        "T2 dark ring of the cervix",
+        "Myometrial-serosal interface",
+        "Iliac vessels",
+        "Psoas muscle"
+      ],
+      "answer": "B",
+      "detail": "Invasion is called when the T2-dark cervical stroma (the dark ring) is disrupted."
+    },
+    {
+      "number": 85,
+      "question": "'Vaginal Rhabdomyosarcoma' is the most common vaginal tumor in children and typically presents as:",
+      "choices": [
+        "A fatty mass",
+        "A solid T2-bright enhancing mass",
+        "Multiple calcifications",
+        "A T-shaped uterus",
+        "Streaky ovaries"
+      ],
+      "answer": "B",
+      "detail": "In children, this tumor appears as a solid T2-bright enhancing mass in the lower uterus or vagina."
+    },
+    {
+      "number": 86,
+      "question": "A metastasis to the ANTERIOR wall upper 1/3 of the vagina is 90% likely from the:",
+      "choices": [
+        "GI tract",
+        "Upper Genital Tract (Cervix/Uterus)",
+        "Bladder",
+        "Lung",
+        "Breast"
+      ],
+      "answer": "B",
+      "detail": "Mets to the anterior upper vagina almost always come from the genital tract (cervix/uterus)."
+    },
+    {
+      "number": 87,
+      "question": "A metastasis to the POSTERIOR wall lower 1/3 of the vagina is 90% likely from the:",
+      "choices": [
+        "Upper genital tract",
+        "GI tract",
+        "Bladder",
+        "Kidney",
+        "Heart"
+      ],
+      "answer": "B",
+      "detail": "Mets to the posterior lower vagina almost always originate from the GI tract."
+    },
+    {
+      "number": 88,
+      "question": "'Nabothian Cysts' are mucous retention cysts located on the:",
+      "choices": [
+        "Endometrium",
+        "Cervix",
+        "Labia majora",
+        "Vagina",
+        "Ovary"
+      ],
+      "answer": "B",
+      "detail": "Nabothian cysts are common benign cysts located on the cervix."
+    },
+    {
+      "number": 89,
+      "question": "'Gartner Duct Cysts' are remnants of the Wolffian ducts and are found in the:",
+      "choices": [
+        "Cervix",
+        "Anterior lateral wall of the upper vagina",
+        "Posterior wall of the lower vagina",
+        "Bladder dome",
+        "Rectum"
+      ],
+      "answer": "B",
+      "detail": "Gartner duct cysts are classically located along the anterolateral wall of the proximal (upper) vagina."
+    },
+    {
+      "number": 90,
+      "question": "Which vaginal cyst is found below the pubic symphysis, 'near the butthole'?",
+      "choices": [
+        "Nabothian",
+        "Gartner Duct",
+        "Bartholin Cyst",
+        "Skene Gland",
+        "Endometrioma"
+      ],
+      "answer": "C",
+      "detail": "Bartholin cysts are located distal to the symphysis, in the vulvar region."
+    },
+    {
+      "number": 91,
+      "question": "'Skene Gland Cysts' are located in the periurethral area and can cause:",
+      "choices": [
+        "Ectopic pregnancy",
+        "Recurrent UTIs and urethral obstruction",
+        "Ovarian torsion",
+        "Twins",
+        "Biliary atresia"
+      ],
+      "answer": "B",
+      "detail": "Because they are periurethral, Skene gland cysts can cause obstructive urinary symptoms and UTIs."
+    },
+    {
+      "number": 92,
+      "question": "'Intravasation' during an HSG refers to:",
+      "choices": [
+        "Tubal rupture",
+        "Contrast backflow into the venous or lymphatic system",
+        "Spillage into the peritoneum",
+        "Filling of the bladder",
+        "Formation of a milk fistula"
+      ],
+      "answer": "B",
+      "detail": "Intravasation is the backflow of contrast from the uterine cavity into the pelvic veins or lymphatics."
+    },
+    {
+      "number": 93,
+      "question": "'Pelvic Congestion Syndrome' is associated with dilated gonadal veins measuring greater than:",
+      "choices": [
+        "2 mm",
+        "5 mm",
+        "10 mm",
+        "20 mm",
+        "50 mm"
+      ],
+      "answer": "C",
+      "detail": "A gonadal vein diameter > 10 mm is diagnostic for pelvic congestion."
+    },
+    {
+      "number": 94,
+      "question": "Symptoms of Pelvic Congestion Syndrome classically IMPROVE after:",
+      "choices": [
+        "Eating",
+        "Menopause",
+        "Standing",
+        "Exercise",
+        "Pregnancy"
+      ],
+      "answer": "B",
+      "detail": "Once estrogen levels drop at menopause, pelvic congestion symptoms typically resolve."
+    },
+    {
+      "number": 95,
+      "question": "Uterine Artery Embolization (UAE) is most successful for which fibroid type?",
+      "choices": [
+        "Degenerated",
+        "Cellular (High T2 signal)",
+        "Calcified",
+        "Hyaline",
+        "Fibrotic"
+      ],
+      "answer": "B",
+      "detail": "Cellular fibroids (demonstrated by high T2 signal) respond best to embolization."
+    },
+    {
+      "number": 96,
+      "question": "A known 5% risk following a UAE procedure is:",
+      "choices": [
+        "Renal failure",
+        "DVT / PE (from pelvic vein compression release)",
+        "Brain abscess",
+        "Biliary sepsis",
+        "Splenic rupture"
+      ],
+      "answer": "B",
+      "detail": "Shrinking the large uterus can release compressed veins and trigger a DVT or PE."
+    },
+    {
+      "number": 97,
+      "question": "In a patient with Turner Syndrome (XO), the ovaries are typically:",
+      "choices": [
+        "Large and cystic",
+        "'Streaky' and small",
+        "Identical to the liver",
+        "Replaced by fat",
+        "Communicating with the bladder"
+      ],
+      "answer": "B",
+      "detail": "Turner syndrome features small, 'streaky' ovaries and a prepubertal uterus."
+    },
+    {
+      "number": 98,
+      "question": "The 'most common' cause of intrauterine adhesions (Asherman's) is:",
+      "choices": [
+        "Infection",
+        "Prior dilation and curettage (D&C)",
+        "Congenital malformation",
+        "Fibroids",
+        "Menopause"
+      ],
+      "answer": "B",
+      "detail": "Intrauterine scarring is most frequently the result of trauma from a prior D&C."
+    },
+    {
+      "number": 99,
+      "question": "If you see a unicornuate uterus with a non-communicating rudimentary horn, the major risk is:",
+      "choices": [
+        "Twins",
+        "Horn rupture during pregnancy (life-threatening)",
+        "Renal failure",
+        "Heart failure",
+        "It is safe"
+      ],
+      "answer": "B",
+      "detail": "Pregnancy in a non-communicating horn nearly always results in a life-threatening rupture."
+    },
+    {
+      "number": 100,
+      "question": "'Transformation' logic for board exams: An endometrioma turns into Clear Cell, and a Dermoid turns into:",
+      "choices": [
+        "Adenocarcinoma",
+        "Squamous Cell Carcinoma",
+        "Lymphoma",
+        "Sarcoma",
+        "Teratoma"
+      ],
+      "answer": "B",
+      "detail": "Endometriomas rarely transform into clear cell; dermoids rarely transform into squamous cell CA."
+    }
+  ]
+}
+

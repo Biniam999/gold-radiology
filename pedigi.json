@@ -1,0 +1,277 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "A premature infant develops abdominal distension. Radiographs show bubbly lucencies within the bowel wall in the right lower quadrant. What is the most specific radiographic sign for the likely diagnosis?",
+      "choices": [
+        "Football sign",
+        "Rigler’s sign",
+        "Pneumatosis intestinalis",
+        "Portal venous gas",
+        "Telltale triangle"
+      ],
+      "answer": "C",
+      "detail": "Pneumatosis (gas in the bowel wall) is the hallmark of Necrotizing Enterocolitis (NEC), with subserosal pneumatosis being more specific than submucosal."
+    },
+    {
+      "number": 2,
+      "question": "What is the most common delayed complication in an infant who has recovered from necrotizing enterocolitis?",
+      "choices": [
+        "Portal vein thrombosis",
+        "Bowel perforation",
+        "Stricture",
+        "Short bowel syndrome",
+        "Intussusception"
+      ],
+      "answer": "C",
+      "detail": "Bowel strictures are the most common delayed complication identified in infants following recovery from NEC."
+    },
+    {
+      "number": 3,
+      "question": "A 6-week-old firstborn male presents with progressive, projectile, non-bilious vomiting. What ultrasound measurements are diagnostic for the most likely condition?",
+      "choices": [
+        "Wall thickness >2 mm; Channel length >10 mm",
+        "Wall thickness >3 mm; Channel length >15 mm",
+        "Wall thickness >4 mm; Channel length >12 mm",
+        "Wall thickness >5 mm; Channel length >20 mm",
+        "Wall thickness >3 mm; Channel length >10 mm"
+      ],
+      "answer": "B",
+      "detail": "A muscle wall thickness greater than 3 mm and a pyloric channel length greater than 15 mm are the standard diagnostic criteria for Hypertrophic Pyloric Stenosis (HPS)."
+    },
+    {
+      "number": 4,
+      "question": "What is the 'caterpillar sign' suggestive of on a plain abdominal radiograph?",
+      "choices": [
+        "Midgut volvulus",
+        "Hypertrophic pyloric stenosis",
+        "Intussusception",
+        "Duodenal atresia",
+        "Hirschsprung disease"
+      ],
+      "answer": "B",
+      "detail": "The caterpillar sign represents the undulating contour of the gastric wall as it peristalses against an obstructed pylorus in HPS."
+    },
+    {
+      "number": 5,
+      "question": "What is the most sensitive sonographic finding for appendicitis in a child?",
+      "choices": [
+        "Appendiceal diameter >6 mm",
+        "Presence of an appendicolith",
+        "Inflamed, echogenic peri-appendiceal fat",
+        "Increased mural vascularity",
+        "Non-compressibility"
+      ],
+      "answer": "C",
+      "detail": "While several findings suggest appendicitis, inflamed, echogenic peri-appendiceal fat is considered the most sensitive sonographic indicator."
+    },
+    {
+      "number": 6,
+      "question": "A neonate presents with sudden onset bilious emesis. An upper GI study shows a 'corkscrew' appearance of the distal duodenum and proximal jejunum. What is the diagnosis?",
+      "choices": [
+        "Duodenal atresia",
+        "Midgut volvulus",
+        "Jejunal atresia",
+        "Intussusception",
+        "Pyloric stenosis"
+      ],
+      "answer": "B",
+      "detail": "The 'corkscrew' appearance is a classic upper GI finding diagnostic of midgut volvulus, which is a surgical emergency presenting with bilious emesis."
+    },
+    {
+      "number": 7,
+      "question": "Where is the normal position of the duodeno-jejunal junction (DJJ) on a frontal upper GI view?",
+      "choices": [
+        "To the right of the midline at L1",
+        "At the level of the duodenal bulb, to the left of the left spinous pedicle",
+        "Midline at the level of L3",
+        "To the left of the midline at the level of the pelvic brim",
+        "Directly posterior to the SMA"
+      ],
+      "answer": "B",
+      "detail": "Identifying the DJJ at the level of the duodenal bulb and to the left of the left spinous pedicle (at L1) is the most critical anatomical landmark for ruling out malrotation."
+    },
+    {
+      "number": 8,
+      "question": "An 18-month-old child presents with colicky pain and 'currant jelly' stools. Ultrasound shows a 3 cm 'target sign' in the right lower quadrant. What is the first-line treatment?",
+      "choices": [
+        "Immediate surgical resection",
+        "Manual reduction via laparotomy",
+        "Pneumatic (air) or contrast enema reduction",
+        "High-dose antibiotics and bowel rest",
+        "Observation for spontaneous resolution"
+      ],
+      "answer": "C",
+      "detail": "Air or contrast enema reduction is the primary treatment for ileocolic intussusception, provided no perforation or peritonitis is present."
+    },
+    {
+      "number": 9,
+      "question": "In a child older than 3 years with intussusception, what must be prioritized in the evaluation?",
+      "choices": [
+        "Screening for cystic fibrosis",
+        "Evaluation for a pathologic lead point",
+        "Checking for maternal diabetes history",
+        "Ruling out VACTERL association",
+        "Measuring the alpha angle of the hip"
+      ],
+      "answer": "B",
+      "detail": "While often idiopathic in infants, intussusception in children over 3 years of age is more frequently associated with a pathologic lead point like lymphoma or a Meckel diverticulum."
+    },
+    {
+      "number": 10,
+      "question": "What is the most common type of esophageal atresia (EA) and tracheoesophageal fistula (TEF)?",
+      "choices": [
+        "Isolated EA without TEF",
+        "Isolated TEF (H-type)",
+        "Proximal EA with distal TEF (Type C)",
+        "Proximal TEF with distal EA",
+        "Double TEF"
+      ],
+      "answer": "C",
+      "detail": "Type C (proximal EA with distal TEF) is the most prevalent form, representing approximately 87% of all EA/TEF cases."
+    },
+    {
+      "number": 11,
+      "question": "A neonate with Down syndrome presents with a 'double bubble' sign on abdominal radiograph and no distal gas. What is the diagnosis?",
+      "choices": [
+        "Pyloric stenosis",
+        "Duodenal atresia",
+        "Midgut volvulus",
+        "Jejunal atresia",
+        "Meconium ileus"
+      ],
+      "answer": "B",
+      "detail": "The 'double bubble' sign without distal gas is diagnostic of duodenal atresia, a condition with a 30% association with Down syndrome."
+    },
+    {
+      "number": 12,
+      "question": "A 'triple bubble' sign on a neonatal radiograph is characteristic of:",
+      "choices": [
+        "Duodenal atresia",
+        "Gastric atresia",
+        "Jejunal atresia",
+        "Meconium plug syndrome",
+        "Hirschsprung disease"
+      ],
+      "answer": "C",
+      "detail": "The triple bubble appearance reflects the dilation of the stomach, duodenum, and proximal jejunum characteristic of jejunal atresia."
+    },
+    {
+      "number": 13,
+      "question": "Which of the following conditions is a cause of microcolon?",
+      "choices": [
+        "Small left colon syndrome",
+        "Meconium ileus",
+        "Jejunal atresia",
+        "Pyloric stenosis",
+        "Celiac disease"
+      ],
+      "answer": "B",
+      "detail": "Microcolon (caliber <1 cm) is caused by distal obstructions such as meconium ileus or ileal atresia."
+    },
+    {
+      "number": 14,
+      "question": "Meconium ileus is the earliest clinical manifestation of which disease?",
+      "choices": [
+        "Hirschsprung disease",
+        "VACTERL association",
+        "Cystic fibrosis",
+        "Beckwith-Wiedemann syndrome",
+        "Biliary atresia"
+      ],
+      "answer": "C",
+      "detail": "Nearly 100% of infants presenting with meconium ileus are found to have cystic fibrosis."
+    },
+    {
+      "number": 15,
+      "question": "A neonate born to a mother with gestational diabetes fails to pass meconium. Contrast enema shows a small caliber colon with an abrupt transition at the splenic flexure. What is the diagnosis?",
+      "choices": [
+        "Meconium ileus",
+        "Small left colon syndrome",
+        "Hirschsprung disease",
+        "Ileal atresia",
+        "Total colonic aganglionosis"
+      ],
+      "answer": "B",
+      "detail": "Small left colon syndrome, often seen in infants of diabetic mothers, characteristically demonstrates a functional transition at the level of the splenic flexure."
+    },
+    {
+      "number": 16,
+      "question": "In Hirschsprung disease, what is the characteristic finding on a lateral view of a contrast enema?",
+      "choices": [
+        "A 'drooping lily' appearance",
+        "A rectosigmoid index > 1",
+        "A tapered, cone-shaped transition zone",
+        "Soap-bubble lucencies",
+        "Whirlpool sign"
+      ],
+      "answer": "C",
+      "detail": "A gradual, cone-shaped transition from the spastic, narrowed rectum to the dilated proximal colon is characteristic of Hirschsprung disease."
+    },
+    {
+      "number": 17,
+      "question": "What nuclear medicine study is the test of choice to differentiate biliary atresia from neonatal hepatitis?",
+      "choices": [
+        "Tc-99m Pertechnetate scan",
+        "Tc-99m DMSA scan",
+        "Tc-99m HIDA scan",
+        "Tc-99m Sulfur Colloid scan",
+        "Gallium-67 scan"
+      ],
+      "answer": "C",
+      "detail": "A Tc-99m HIDA scan is used; biliary atresia is ruled out if there is any evidence of tracer excretion into the bowel."
+    },
+    {
+      "number": 18,
+      "question": "What is the 'triangular cord sign' on ultrasound suggestive of?",
+      "choices": [
+        "Pyloric stenosis",
+        "Intussusception",
+        "Biliary atresia",
+        "Meckel diverticulum",
+        "Chochochal cyst"
+      ],
+      "answer": "C",
+      "detail": "The triangular cord sign on ultrasound represents the obliterated common hepatic duct at the porta hepatis in cases of biliary atresia."
+    },
+    {
+      "number": 19,
+      "question": "A 1-year-old child presents with an enlarging abdominal mass and a markedly elevated Alpha-fetoprotein (AFP) level (>1000 ng/mL). What is the likely diagnosis?",
+      "choices": [
+        "Infantile hemangioma",
+        "Mesenchymal hamartoma",
+        "Hepatoblastoma",
+        "Neuroblastoma",
+        "Wilms tumor"
+      ],
+      "answer": "C",
+      "detail": "Markedly elevated AFP levels serve as a key diagnostic marker for hepatoblastoma."
+    },
+    {
+      "number": 20,
+      "question": "Which pediatric liver mass is most commonly associated with congestive heart failure in the first year of life?",
+      "choices": [
+        "Hepatoblastoma",
+        "Infantile hemangioma",
+        "Mesenchymal hamartoma",
+        "Hepatocellular carcinoma",
+        "Undifferentiated embryonal sarcoma"
+      ],
+      "answer": "B",
+      "detail": "Infantile hemangiomas are vascular tumors that can cause high-output congestive heart failure in up to 25% of cases during the first year of life."
+    },
+    {
+      "number": 21,
+      "question": "Coarse abdominal calcifications abutting the peritoneal surface in a neonate suggest:",
+      "choices": [
+        "Hepatoblastoma",
+        "Neuroblastoma",
+        "Meconium peritonitis",
+        "Adrenal hemorrhage",
+        "Gallstones"
+      ],
+      "answer": "C",
+      "detail": "Meconium peritonitis results from in-utero bowel perforation, leading to meconium spillage and subsequent peritoneal calcification."
+    }
+  ]
+}

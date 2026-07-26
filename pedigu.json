@@ -1,0 +1,238 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "A 4-year-old child with a febrile UTI undergoes a VCUG, which reveals reflux into the collecting system with blunting of the calyces. What is the grade of Vesicoureteral Reflux (VUR)?",
+      "choices": [
+        "Grade I",
+        "Grade II",
+        "Grade III",
+        "Grade IV",
+        "Grade V"
+      ],
+      "answer": "C",
+      "detail": "Grade III VUR is defined by reflux into the collecting system with the loss of the normal \"spiky\" appearance (blunting) of the calyces."
+    },
+    {
+      "number": 2,
+      "question": "According to the Weigert-Meyer rule, which moiety in a duplicated collecting system is prone to obstruction?",
+      "choices": [
+        "The lower pole moiety",
+        "The upper pole moiety",
+        "Both moieties equally",
+        "Only the moiety without a ureterocele",
+        "The moiety with orthotopic insertion"
+      ],
+      "answer": "B",
+      "detail": "The upper pole ureter inserts ectopically (inferior and medial) and is prone to obstruction, while the lower pole ureter inserts normally but is prone to reflux."
+    },
+    {
+      "number": 3,
+      "question": "A male neonate presents with bilateral hydronephrosis. Ultrasound demonstrates a dilated bladder and a dilated posterior urethra, creating a \"keyhole\" appearance. What is the diagnosis?",
+      "choices": [
+        "UPJ obstruction",
+        "UVJ obstruction",
+        "Posterior urethral valves (PUV)",
+        "Prune belly syndrome",
+        "Ureterocele"
+      ],
+      "answer": "C",
+      "detail": "PUV is the most common cause of congenital bladder outlet obstruction in boys; the dilated posterior urethra and bladder create the classic \"keyhole\" sign."
+    },
+    {
+      "number": 4,
+      "question": "What is the most common cause of unilateral hydronephrosis in the pediatric population?",
+      "choices": [
+        "Vesicoureteral reflux",
+        "Posterior urethral valves",
+        "Ureteropelvic junction (UPJ) obstruction",
+        "Multicystic dysplastic kidney",
+        "Ureterovesical junction obstruction"
+      ],
+      "answer": "C",
+      "detail": "UPJ obstruction is the most common congenital GU anomaly in neonates and the leading cause of unilateral hydronephrosis."
+    },
+    {
+      "number": 5,
+      "question": "Which sonographic feature distinguishes Multicystic Dysplastic Kidney (MCDK) from severe hydronephrosis?",
+      "choices": [
+        "Communicating cysts",
+        "Non-communicating cysts",
+        "Dilated ureter",
+        "Presence of a \"keyhole\" sign",
+        "Echogenic renal cortex"
+      ],
+      "answer": "B",
+      "detail": "MCDK is characterized by multiple separate cystic structures that do not connect, whereas in hydronephrosis, the cystic spaces show continuity."
+    },
+    {
+      "number": 6,
+      "question": "Which renal malignancy typically affects children between 3–5 years of age and represents 90% of renal tumors in the first decade?",
+      "choices": [
+        "Mesoblastic nephroma",
+        "Clear cell sarcoma",
+        "Wilms tumor",
+        "Renal cell carcinoma",
+        "Rhabdomyosarcoma"
+      ],
+      "answer": "C",
+      "detail": "Wilms tumor is the most common childhood renal malignancy, usually arising from persistent metanephric blastema between ages 3 and 5."
+    },
+    {
+      "number": 7,
+      "question": "In pediatric renal imaging, what does the \"claw sign\" indicate?",
+      "choices": [
+        "An adrenal origin of a mass",
+        "A tumor originating from the renal parenchyma",
+        "A duplicated collecting system",
+        "Vesicoureteral reflux",
+        "Ureteropelvic junction obstruction"
+      ],
+      "answer": "B",
+      "detail": "The claw sign helps identify that a mass arises from the kidney itself, aiding in the differentiation of Wilms tumor from neuroblastoma."
+    },
+    {
+      "number": 8,
+      "question": "A mass that appears identical to a Wilms tumor on imaging but occurs in an infant younger than 1 year is most likely:",
+      "choices": [
+        "Nephroblastomatosis",
+        "Clear cell sarcoma",
+        "Mesoblastic nephroma",
+        "Multilocular cystic nephroma",
+        "Adrenal hemorrhage"
+      ],
+      "answer": "C",
+      "detail": "Mesoblastic nephroma is a benign \"Wilms mimic\" distinguished primarily by the patient's younger age (≤1 year)."
+    },
+    {
+      "number": 9,
+      "question": "What is the primary clinical significance of nephroblastomatosis?",
+      "choices": [
+        "It is always malignant",
+        "It carries an increased risk of Wilms tumor",
+        "It causes microcolon",
+        "It is associated with Kawasaki disease",
+        "It always leads to renal agenesis"
+      ],
+      "answer": "B",
+      "detail": "Nephroblastomatosis is benign persistent metanephric blastema but serves as a precursor with a high risk for developing Wilms tumor."
+    },
+    {
+      "number": 10,
+      "question": "Beckwith-Wiedemann syndrome is classically associated with an increased risk for which two pediatric malignancies?",
+      "choices": [
+        "Neuroblastoma and Leukemia",
+        "Wilms tumor and Hepatoblastoma",
+        "Hepatoblastoma and Rhabdomyosarcoma",
+        "Wilms tumor and Lymphoma",
+        "Osteosarcoma and Ewing sarcoma"
+      ],
+      "answer": "B",
+      "detail": "This syndrome involves hemihypertrophy and macroglossia, carrying a significantly increased risk for Wilms tumor and hepatoblastoma."
+    },
+    {
+      "number": 11,
+      "question": "A neonate has an avascular, hypoechoic suprarenal mass that involutes on follow-up imaging. This is diagnostic for:",
+      "choices": [
+        "Neuroblastoma",
+        "Adrenal cortical carcinoma",
+        "Adrenal hemorrhage",
+        "Pheochromocytoma",
+        "Teratoma"
+      ],
+      "answer": "C",
+      "detail": "Adrenal hemorrhage is common in neonates and is distinguished from neuroblastoma by its characteristic involution over time."
+    },
+    {
+      "number": 12,
+      "question": "A large midline cystic structure arising from the posterior urethra in a male with hypospadias is likely a:",
+      "choices": [
+        "Müllerian duct cyst",
+        "Prostatic utricle",
+        "Urachal cyst",
+        "Seminal vesicle cyst",
+        "Ovarian dermoid cyst"
+      ],
+      "answer": "B",
+      "detail": "The prostatic utricle is a terminal remnant of the Müllerian duct that can become very large when associated with hypospadias."
+    },
+    {
+      "number": 13,
+      "question": "What imaging appearance is characteristic of the \"botryoid\" variant of rhabdomyosarcoma?",
+      "choices": [
+        "Sunburst calcification",
+        "Bunch of grapes",
+        "\"Egg-on-a-string\"",
+        "\"Snowman\" sign",
+        "\"Target\" sign"
+      ],
+      "answer": "B",
+      "detail": "The botryoid variant of rhabdomyosarcoma, often found in the pelvis, features a characteristic lobulated bunch of grapes appearance."
+    },
+    {
+      "number": 14,
+      "question": "Which benign, multiseptated cystic renal neoplasm is associated with DICER1 mutations?",
+      "choices": [
+        "Multicystic dysplastic kidney",
+        "Multilocular cystic nephroma",
+        "Mesoblastic nephroma",
+        "Polycystic kidney disease",
+        "Cystic Wilms tumor"
+      ],
+      "answer": "B",
+      "detail": "Multilocular cystic nephroma has a bimodal age distribution and is linked to DICER1 mutations and pleuropulmonary blastoma."
+    },
+    {
+      "number": 15,
+      "question": "What nuclear medicine study is the \"gold standard\" for detecting renal cortical scarring?",
+      "choices": [
+        "Tc-99m Pertechnetate scan",
+        "Tc-99m HIDA scan",
+        "Tc-99m DMSA scan",
+        "Tc-99m Sulfur Colloid scan",
+        "Tc-99m MAG3 scan"
+      ],
+      "answer": "C",
+      "detail": "DMSA renal scintigraphy is the standard modality for identifying renal cortical scars following UTIs."
+    },
+    {
+      "number": 16,
+      "question": "Which imaging modality is currently thought to be the most accurate for determining the level (high vs. low) of an imperforate anus?",
+      "choices": [
+        "Prone radiography",
+        "Contrast enema",
+        "Infracoccyageal ultrasound",
+        "Pelvic MRI",
+        "Voiding cystourethrogram"
+      ],
+      "answer": "C",
+      "detail": "While prone radiographs were used historically, infracoccygeal ultrasound is now considered the most accurate method for assessing the level of the lesion."
+    },
+    {
+      "number": 17,
+      "question": "A \"lying down adrenal\" on imaging is a common clue for which condition?",
+      "choices": [
+        "Renal agenesis",
+        "Adrenal hemorrhage",
+        "Neuroblastoma",
+        "Posterior urethral valves",
+        "Horseshoe kidney"
+      ],
+      "answer": "A",
+      "detail": "The \"lying down adrenal\" helps differentiate congenitally absent kidneys (agenesis) from surgically absent ones."
+    },
+    {
+      "number": 18,
+      "question": "Which syndrome features a muscular defect leading to dilation of the entire collecting system, including the bladder and ureters?",
+      "choices": [
+        "VACTERL association",
+        "CHARGE syndrome",
+        "Prune belly syndrome",
+        "Mayer-Rokitansky-Kuster-Hauser syndrome",
+        "Li-Fraumeni syndrome"
+      ],
+      "answer": "C",
+      "detail": "Prune belly syndrome involves a disorder of the abdominal wall and smooth muscles of the urinary tract, causing generalized dilation of the collecting system."
+    }
+  ]
+}

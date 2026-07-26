@@ -1,0 +1,329 @@
+{
+  "questions": [
+    {
+      "number": 19,
+      "question": "A fracture that crosses through both the metaphysis and the epiphysis is classified as which Salter-Harris type?",
+      "choices": [
+        "Type I",
+        "Type II",
+        "Type III",
+        "Type IV",
+        "Type V"
+      ],
+      "answer": "D",
+      "detail": "Type IV Salter-Harris fractures cross through the metaphysis, physis, and epiphysis."
+    },
+    {
+      "number": 20,
+      "question": "What is the standard order of ossification centers in the pediatric elbow?",
+      "choices": [
+        "Capitellum, Trochlea, Radial head, Internal epicondyle, Olecranon, External epicondyle",
+        "Capitellum, Radial head, Internal epicondyle, Trochlea, Olecranon, External epicondyle",
+        "Capitellum, Internal epicondyle, Radial head, Trochlea, Olecranon, External epicondyle",
+        "Capitellum, Radial head, Trochlea, Olecranon, Internal epicondyle, External epicondyle",
+        "Olecranon, Trochlea, Capitellum, Radial head, Internal epicondyle, External epicondyle"
+      ],
+      "answer": "B",
+      "detail": "This order is remembered by the mnemonic CRITOE, appearing at approximate ages 1, 3, 5, 7, 9, and 11."
+    },
+    {
+      "number": 21,
+      "question": "On a 90° lateral elbow radiograph, the anterior humeral line should normally intersect which part of the capitellum?",
+      "choices": [
+        "The anterior third",
+        "The middle third",
+        "The posterior third",
+        "It should not intersect the capitellum",
+        "It should be parallel to the capitellum"
+      ],
+      "answer": "B",
+      "detail": "Drawn along the anterior humeral cortex, this line should pass through the middle third of the ossified capitellum; an abnormal line suggests a supracondylar fracture."
+    },
+    {
+      "number": 22,
+      "question": "Disruption of the radiocapitellar line on any radiographic view is most suggestive of:",
+      "choices": [
+        "Supracondylar fracture",
+        "Nursemaid’s elbow or dislocation",
+        "Medial epicondyle avulsion",
+        "Olecranon fracture",
+        "Buckle fracture"
+      ],
+      "answer": "B",
+      "detail": "The radiocapitellar line should always intersect the capitellum; disruption indicates elbow dislocation or subluxation."
+    },
+    {
+      "number": 23,
+      "question": "A focal cortical irregularity in a child's bone that appears as buckling without a cortical break is a:",
+      "choices": [
+        "Greenstick fracture",
+        "Plastic deformation",
+        "Buckle (Torus) fracture",
+        "Salter-Harris II fracture",
+        "Toddler’s fracture"
+      ],
+      "answer": "C",
+      "detail": "Buckle fractures are unique to the pediatric skeleton and represent buckling of the cortex rather than a clear discontinuity."
+    },
+    {
+      "number": 24,
+      "question": "A 2-year-old child presents with a new limp. Radiographs show a hairline spiral lucency through the distal tibial metadiaphysis. What is the diagnosis?",
+      "choices": [
+        "Buckle fracture",
+        "Toddler’s fracture",
+        "Greenstick fracture",
+        "Non-accidental trauma",
+        "Osteomyelitis"
+      ],
+      "answer": "B",
+      "detail": "This is a common nondisplaced oblique fracture of the tibia in toddlers learning to walk, often caused by rotational forces."
+    },
+    {
+      "number": 25,
+      "question": "Which fracture type is considered highly specific for non-accidental trauma (NAT)?",
+      "choices": [
+        "Mid-clavicle fracture",
+        "Distal radius buckle fracture",
+        "Classic metaphyseal lesion (CML)",
+        "Linear skull fracture",
+        "Anterior rib fracture"
+      ],
+      "answer": "C",
+      "detail": "CMLs (corner or bucket-handle fractures) are highly specific for child abuse and result from violent shaking or pulling."
+    },
+    {
+      "number": 26,
+      "question": "Why are posterior rib fractures highly concerning for abuse in infants?",
+      "choices": [
+        "They are common after CPR",
+        "They result from accidental falls",
+        "They are highly specific for squeezing injuries",
+        "They indicate underlying rickets",
+        "They are always associated with skull fractures"
+      ],
+      "answer": "C",
+      "detail": "Posterior rib fractures are highly specific for abuse; unlike adults, children rarely sustain rib fractures from CPR, and if they do, they are anterior/lateral."
+    },
+    {
+      "number": 27,
+      "question": "What is the primary clinical indication for screening all breech births with hip ultrasound?",
+      "choices": [
+        "Risk of femoral fracture",
+        "Developmental dysplasia of the hip (DDH)",
+        "Septic arthritis",
+        "Legg-Calvé-Perthes disease",
+        "Slipped capital femoral epiphysis"
+      ],
+      "answer": "B",
+      "detail": "Breech birth is a major risk factor for DDH, warranting routine ultrasound screening."
+    },
+    {
+      "number": 28,
+      "question": "A normal bony acetabular roof on ultrasound is indicated by an alpha angle of:",
+      "choices": [
+        "<45 degrees",
+        "<60 degrees",
+        ">60 degrees",
+        "Exactly 50 degrees",
+        ">90 degrees"
+      ],
+      "answer": "C",
+      "detail": "An alpha angle greater than 60 degrees is considered normal during DDH evaluation."
+    },
+    {
+      "number": 29,
+      "question": "Which condition is an orthopedic emergency requiring urgent aspiration of any detected hip effusion?",
+      "choices": [
+        "Transient synovitis",
+        "Legg-Calvé-Perthes disease",
+        "Septic hip arthritis",
+        "Developmental dysplasia of the hip",
+        "Slipped capital femoral epiphysis"
+      ],
+      "answer": "C",
+      "detail": "Septic arthritis is an emergency because joint destruction can occur rapidly without prompt washout and antibiotics."
+    },
+    {
+      "number": 30,
+      "question": "Avascular necrosis of the capital femoral epiphysis in a 4-to-8-year-old boy is known as:",
+      "choices": [
+        "Slipped capital femoral epiphysis (SCFE)",
+        "Legg-Calvé-Perthes (LCP) disease",
+        "Osgood-Schlatter disease",
+        "Sever disease",
+        "Kohler disease"
+      ],
+      "answer": "B",
+      "detail": "LCP is idiopathic AVN of the capital femoral epiphysis, most common in small-sized Caucasian boys."
+    },
+    {
+      "number": 31,
+      "question": "Which of the following is a Salter-Harris Type I equivalent injury of the proximal femur in adolescents?",
+      "choices": [
+        "Legg-Calvé-Perthes disease",
+        "Developmental dysplasia of the hip",
+        "Slipped capital femoral epiphysis (SCFE)",
+        "Pelvic apophyseal avulsion",
+        "Toddler's fracture"
+      ],
+      "answer": "C",
+      "detail": "SCFE is a SH Type I injury where the epiphysis slips relative to the metaphysis."
+    },
+    {
+      "number": 32,
+      "question": "Why is exuberant periostitis common in pediatric osteomyelitis compared to adults?",
+      "choices": [
+        "The periosteum is more tightly adherent in children",
+        "The periosteum is loosely adherent in children",
+        "Children have more cortical vessels",
+        "Bacteria spread faster in adult bone",
+        "Bone growth is slower in children"
+      ],
+      "answer": "B",
+      "detail": "In infants and children, the loosely adherent periosteum is easily lifted by infection, manifesting as prominent periostitis."
+    },
+    {
+      "number": 33,
+      "question": "Which aggressive bone tumor in children often presents with fever, making it difficult to distinguish from osteomyelitis?",
+      "choices": [
+        "Osteosarcoma",
+        "Ewing sarcoma",
+        "Chondroblastoma",
+        "Osteoid osteoma",
+        "Enchondroma"
+      ],
+      "answer": "B",
+      "detail": "Ewing sarcoma frequently presents with systemic symptoms like fever, mimicking the clinical presentation of infection."
+    },
+    {
+      "number": 34,
+      "question": "A sunburst spiculated periosteal reaction and Codman triangle are classic for which tumor?",
+      "choices": [
+        "Ewing sarcoma",
+        "Osteosarcoma",
+        "Eosinophilic granuloma",
+        "Leukemia",
+        "Giant cell tumor"
+      ],
+      "answer": "B",
+      "detail": "Conventional osteosarcoma is the most common primary pediatric bone tumor and features these aggressive periosteal signs."
+    },
+    {
+      "number": 35,
+      "question": "Complete collapse of a vertebral body (\"vertebra plana\") in a child is most commonly caused by:",
+      "choices": [
+        "Leukemia",
+        "Osteomyelitis",
+        "Eosinophilic granuloma (LCH)",
+        "Neuroblastoma metastasis",
+        "Compression fracture"
+      ],
+      "answer": "C",
+      "detail": "EG/LCH is a classic and common cause of vertebra plana in the pediatric population."
+    },
+    {
+      "number": 36,
+      "question": "Lucent metaphyseal bands on radiographs are a distinctive feature of which systemic pediatric malignancy?",
+      "choices": [
+        "Lymphoma",
+        "Osteosarcoma",
+        "Leukemia",
+        "Ewing sarcoma",
+        "Rhabdomyosarcoma"
+      ],
+      "answer": "C",
+      "detail": "Lucent metaphyseal bands are one of the most distinctive radiographic features of pediatric leukemia."
+    },
+    {
+      "number": 37,
+      "question": "What are the two most common bones involved in tarsal coalition?",
+      "choices": [
+        "Talus and Calcaneus; Calcaneus and Navicular",
+        "Talus and Navicular; Navicular and Cuneiform",
+        "Calcaneus and Cuboid; Talus and Navicular",
+        "Talus and Cuneiform; Navicular and Cuboid",
+        "Calcaneus and Cuneiform; Talus and Cuboid"
+      ],
+      "answer": "A",
+      "detail": "These two types account for 90% of all tarsal coalitions."
+    },
+    {
+      "number": 38,
+      "question": "Fibromatosis coli, or idiopathic enlargement of the sternocleidomastoid muscle, is a cause of:",
+      "choices": [
+        "Retropharyngeal abscess",
+        "Torticollis",
+        "Thyroiditis",
+        "Branchial cleft cyst",
+        "Choanal atresia"
+      ],
+      "answer": "B",
+      "detail": "Torticollis in neonates is often caused by fibromatosis coli and usually resolves with physical therapy."
+    },
+    {
+      "number": 39,
+      "question": "Which metabolic bone disease presents with \"rachitic rosary\" and cupping/fraying of the metaphyses?",
+      "choices": [
+        "Scurvy",
+        "Osteogenesis Imperfecta",
+        "Rickets",
+        "Hypothyroidism",
+        "Hypervitaminosis A"
+      ],
+      "answer": "C",
+      "detail": "Rickets is characterized by poor bone mineralization, leading to fraying and cupping of the metaphyses and the rachitic rosary."
+    },
+    {
+      "number": 40,
+      "question": "Multiple intra-osseous benign cartilaginous tumors in an asymmetric distribution are characteristic of:",
+      "choices": [
+        "Maffucci syndrome",
+        "Ollier disease",
+        "McCune-Albright syndrome",
+        "Mazabraud syndrome",
+        "PHACES syndrome"
+      ],
+      "answer": "B",
+      "detail": "Ollier disease is characterized by multiple asymmetric enchondromas without associated vascular abnormalities."
+    },
+    {
+      "number": 41,
+      "question": "Which condition is the only one in the differential for multiple fractures to cause antenatal (in-utero) fractures?",
+      "choices": [
+        "Rickets",
+        "Scurvy",
+        "Osteogenesis Imperfecta (OI)",
+        "Child abuse",
+        "Normal physiologic bone growth"
+      ],
+      "answer": "C",
+      "detail": "OI is the only entity among these that causes fractures before birth."
+    },
+    {
+      "number": 42,
+      "question": "A rare inflammatory disease causing periostitis of the mandible, scapula, and clavicle in infants is:",
+      "choices": [
+        "SAPHO syndrome",
+        "Still disease",
+        "Caffey disease",
+        "Klippel-Feil syndrome",
+        "Fairbank disease"
+      ],
+      "answer": "C",
+      "detail": "Also known as infantile cortical hyperostosis, it is a rare inflammatory cause of periostitis in these specific locations."
+    },
+    {
+      "number": 43,
+      "question": "Medial sloping of the distal radius due to growth disturbance of the medial distal radial physis is:",
+      "choices": [
+        "Panner disease",
+        "Kohler disease",
+        "Madelung deformity",
+        "Kienbock disease",
+        "Scheuermann kyphosis"
+      ],
+      "answer": "C",
+      "detail": "This deformity results from dysplasia of the medial distal radial physis, causing a medial sloping appearance."
+    }
+  ]
+}

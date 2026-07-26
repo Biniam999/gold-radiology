@@ -1,0 +1,1306 @@
+{
+    "questions": 
+  
+[
+  {
+    "number": 1,
+    "question": "Which cranial suture is the first to fuse normally, typically between 2 and 3 months of age?",
+    "choices": [
+      "Coronal",
+      "Metopic (frontal)",
+      "Sagittal",
+      "Lambdoid",
+      "Squamosal"
+    ],
+    "answer": "B",
+    "detail": "The metopic suture is the first to fuse, usually at 2–3 months."
+  },
+  {
+    "number": 2,
+    "question": "Premature fusion of the metopic suture results in which skull shape?",
+    "choices": [
+      "Scaphocephaly",
+      "Brachycephaly",
+      "Trigonocephaly (triangular)",
+      "Turricephaly",
+      "Plagiocephaly"
+    ],
+    "answer": "C",
+    "detail": "Metopic synostosis causes trigonocephaly, giving the head a triangular appearance."
+  },
+  {
+    "number": 3,
+    "question": "What is the most common form of craniosynostosis?",
+    "choices": [
+      "Metopic",
+      "Coronal",
+      "Sagittal (scaphocephaly)",
+      "Lambdoid",
+      "Bilateral Coronal"
+    ],
+    "answer": "C",
+    "detail": "Sagittal synostosis is the most common form."
+  },
+  {
+    "number": 4,
+    "question": "Sagittal synostosis results in a long, narrow head shape often compared to an:",
+    "choices": [
+      "Upside-down boat",
+      "Octopus trap",
+      "Harlequin eye",
+      "Quizzical eye",
+      "Cloverleaf"
+    ],
+    "answer": "A",
+    "detail": "Sagittal synostosis produces scaphocephaly, which looks like an upside-down boat."
+  },
+  {
+    "number": 5,
+    "question": "\"Brachycephaly\" (short, wide head) is typically the result of which suture fusion?",
+    "choices": [
+      "Metopic",
+      "Bilateral Coronal",
+      "Sagittal",
+      "Unilateral Lambdoid",
+      "Squamosal"
+    ],
+    "answer": "B",
+    "detail": "Bilateral coronal synostosis results in brachycephaly."
+  },
+  {
+    "number": 6,
+    "question": "Which term describes a tall, \"pointy\" cranium resulting from bilateral lambdoid synostosis?",
+    "choices": [
+      "Scaphocephaly",
+      "Trigonocephaly",
+      "Turricephaly",
+      "Dolichocephaly",
+      "Anterior Plagiocephaly"
+    ],
+    "answer": "C",
+    "detail": "Turricephaly (or oxycephaly) refers to a tall cranium."
+  },
+  {
+    "number": 7,
+    "question": "Unilateral coronal synostosis causes an elevation of the ipsilateral orbit, known as the:",
+    "choices": [
+      "\"Harlequin Eye\" sign",
+      "\"Quizzical Eye\" appearance",
+      "\"Sun-set Eye\" sign",
+      "\"Oreo Cookie\" sign",
+      "\"Lemon\" sign"
+    ],
+    "answer": "A",
+    "detail": "Unilateral coronal synostosis causes the ipsilateral orbit to elevate, known as the Harlequin Eye."
+  },
+  {
+    "number": 8,
+    "question": "Metopic synostosis causes the medial part of the orbit to slant upward, creating the:",
+    "choices": [
+      "Harlequin eye",
+      "\"Quizzical Eye\" appearance",
+      "\"Banana\" sign",
+      "\"Muffin\" sign",
+      "\"Oreo\" sign"
+    ],
+    "answer": "B",
+    "detail": "Metopic synostosis slants the medial orbit, giving a \"quizzical eye\" look."
+  },
+  {
+    "number": 9,
+    "question": "What is the most common cause of an abnormal skull shape in an infant?",
+    "choices": [
+      "Sagittal synostosis",
+      "Positional (Deformational) Plagiocephaly",
+      "Metopic synostosis",
+      "LCH",
+      "Apert Syndrome"
+    ],
+    "answer": "B",
+    "detail": "Positional plagiocephaly is the most common cause of an abnormal skull shape."
+  },
+  {
+    "number": 10,
+    "question": "In Positional Plagiocephaly, the flattened occiput causes the ipsilateral ear to move:",
+    "choices": [
+      "Anteriorly",
+      "Posteriorly",
+      "Superiorly",
+      "Inferiorly",
+      "Medially"
+    ],
+    "answer": "A",
+    "detail": "In positional molding, the ipsilateral ear moves anteriorly."
+  },
+  {
+    "number": 11,
+    "question": "In true Unilateral Lambdoid Synostosis, the ipsilateral ear moves:",
+    "choices": [
+      "Anteriorly",
+      "Posteriorly/Inferiorly",
+      "Only Superiorly",
+      "It does not move",
+      "Medially"
+    ],
+    "answer": "B",
+    "detail": "In true lambdoid synostosis, the ear moves posteriorly and/or inferiorly."
+  },
+  {
+    "number": 12,
+    "question": "Frontal bossing in true Unilateral Lambdoid Synostosis is:",
+    "choices": [
+      "Ipsilateral",
+      "Contralateral",
+      "Bilateral",
+      "Absent",
+      "Restricted to the vertex"
+    ],
+    "answer": "B",
+    "detail": "Unlike positional molding (ipsilateral), true lambdoid synostosis shows contralateral frontal bossing."
+  },
+  {
+    "number": 13,
+    "question": "What is the primary management for Positional Plagiocephaly?",
+    "choices": [
+      "Surgical suture release",
+      "Conservative (sleep on the other side)",
+      "Radiation therapy",
+      "VP Shunt",
+      "Chronic steroids"
+    ],
+    "answer": "B",
+    "detail": "Management for positional molding is conservative."
+  },
+  {
+    "number": 14,
+    "question": "Apert's syndrome is classically associated with brachycephaly and:",
+    "choices": [
+      "Fused fingers (syndactyly) or \"sock hand\"",
+      "Maxilla and mandible hypoplasia",
+      "Absent clavicles",
+      "Rhizomelia",
+      "Multiple NOFs"
+    ],
+    "answer": "A",
+    "detail": "Apert's features fused fingers and feet (syndactyly)."
+  },
+  {
+    "number": 15,
+    "question": "Crouzon's syndrome is associated with brachycephaly and which other skeletal finding?",
+    "choices": [
+      "1st Arch structures hypoplasia (maxilla/mandible)",
+      "Fused fingers",
+      "Absent clavicles",
+      "Anterior tibial bowing",
+      "Rhizomelia"
+    ],
+    "answer": "A",
+    "detail": "Crouzon's is characterized by 1st arch hypoplasia."
+  },
+  {
+    "number": 16,
+    "question": "Which pediatric lytic skull lesion is described as having a \"beveled hole\" look without a sclerotic border?",
+    "choices": [
+      "Metastatic Neuroblastoma",
+      "Langerhans Cell Histiocytosis (LCH)",
+      "Epidermoid cyst",
+      "Osteomyelitis",
+      "Leptomeningeal cyst"
+    ],
+    "answer": "B",
+    "detail": "LCH is famous for the \"beveled hole\" look."
+  },
+  {
+    "number": 17,
+    "question": "The \"beveled\" appearance of LCH occurs because the lesion favors the:",
+    "choices": [
+      "Outer table",
+      "Inner table",
+      "Diploic space",
+      "Suture lines",
+      "Scalp aponeurosis"
+    ],
+    "answer": "B",
+    "detail": "The lesion favors the inner table, creating the beveled appearance."
+  },
+  {
+    "number": 18,
+    "question": "If a child has known neuroblastoma and develops a skull lesion, the most likely diagnosis is:",
+    "choices": [
+      "LCH",
+      "Metastatic disease",
+      "Parietal foramina",
+      "Cephalohematoma",
+      "Osteopetrosis"
+    ],
+    "answer": "B",
+    "detail": "If neuroblastoma is present, think metastatic disease."
+  },
+  {
+    "number": 19,
+    "question": "Paired, round, benign congenital ossification defects in the parietal bones are:",
+    "choices": [
+      "Wormian bones",
+      "Parietal Foramina",
+      "LCH",
+      "Diastatic fractures",
+      "Encephaloceles"
+    ],
+    "answer": "B",
+    "detail": "These are Parietal Foramina."
+  },
+  {
+    "number": 20,
+    "question": "\"Wormian Bones\" (intrasutural bones) are extra squiggles typically found around the:",
+    "choices": [
+      "Metopic suture",
+      "Coronal suture",
+      "Lambdoid suture",
+      "Squamosal suture",
+      "Frontal sinus"
+    ],
+    "answer": "C",
+    "detail": "Wormian bones are extra bones in the lambdoid sutures."
+  },
+  {
+    "number": 21,
+    "question": "For \"gamesmanship,\" if you see more than 10 Wormian bones, you should first think:",
+    "choices": [
+      "Osteogenesis Imperfecta",
+      "Cleidocranial Dysostosis",
+      "Rickets",
+      "Downs Syndrome",
+      "Hypothyroidism"
+    ],
+    "answer": "A",
+    "detail": "If you see > 10 Wormian bones, lead with Osteogenesis Imperfecta."
+  },
+  {
+    "number": 22,
+    "question": "Wormian bones associated with absent clavicles is the classic \"Aunt Minnie\" for:",
+    "choices": [
+      "Pyknodysostosis",
+      "Cleidocranial Dysostosis",
+      "Kinky Hair Syndrome",
+      "Hajdu-Cheney",
+      "Apert Syndrome"
+    ],
+    "answer": "B",
+    "detail": "This is the classic look for Cleidocranial Dysostosis."
+  },
+  {
+    "number": 23,
+    "question": "Which scalp hemorrhage is located under the periosteum and is limited by suture lines?",
+    "choices": [
+      "Cephalohematoma",
+      "Caput Succedaneum",
+      "Subgaleal hemorrhage",
+      "Epidural hematoma",
+      "Intraparenchymal hemorrhage"
+    ],
+    "answer": "A",
+    "detail": "A cephalohematoma is under the periosteum and limited by sutures."
+  },
+  {
+    "number": 24,
+    "question": "Which scalp hemorrhage is superficial to the aponeurosis and NOT limited by suture lines?",
+    "choices": [
+      "Cephalohematoma",
+      "Caput Succedaneum",
+      "Subgaleal hemorrhage",
+      "Intradermal hemorrhage",
+      "Osteomyelitis"
+    ],
+    "answer": "B",
+    "detail": "Caput Succedaneum is superficial and crosses sutures."
+  },
+  {
+    "number": 25,
+    "question": "Which scalp hemorrhage is deep to the aponeurosis, not limited by sutures, and potentially life-threatening?",
+    "choices": [
+      "Cephalohematoma",
+      "Caput Succedaneum",
+      "Subgaleal hemorrhage",
+      "Epidural hematoma",
+      "Intraventricular hemorrhage"
+    ],
+    "answer": "C",
+    "detail": "Subgaleal hemorrhage is deep to the aponeurosis and potentially life-threatening."
+  },
+  {
+    "number": 26,
+    "question": "A cephalohematoma that becomes infected is most commonly caused by which bug?",
+    "choices": [
+      "E. Coli",
+      "Staph Aureus",
+      "Pseudomonas",
+      "H. Influenza",
+      "Salmonella"
+    ],
+    "answer": "A",
+    "detail": "Infection of a cephalohematoma is typically due to E. Coli."
+  },
+  {
+    "number": 27,
+    "question": "A \"growing skull fracture\" that widens over time due to CSF pulsations is a:",
+    "choices": [
+      "Leptomeningeal Cyst",
+      "Sinus Pericranii",
+      "Cephalocele",
+      "Porencephalic cyst",
+      "LCH lesion"
+    ],
+    "answer": "A",
+    "detail": "This is a Leptomeningeal Cyst."
+  },
+  {
+    "number": 28,
+    "question": "A Sinus Pericranii is a low-flow vascular malformation communicating with:",
+    "choices": [
+      "The carotid artery",
+      "A dural venous sinus (usually superior sagittal)",
+      "The internal jugular vein",
+      "The 4th ventricle",
+      "The cavernous sinus"
+    ],
+    "answer": "B",
+    "detail": "It is a communication with a dural venous sinus."
+  },
+  {
+    "number": 29,
+    "question": "What is the classic imaging \"Aunt Minnie\" for a growing skull fracture on a plain film?",
+    "choices": [
+      "Cavernous cranial defect 2 months after trauma",
+      "Sclerotic bone rim around a suture",
+      "Wormian bones in the lambdoid suture",
+      "Parietal foramina",
+      "Beveled inner table defect"
+    ],
+    "answer": "A",
+    "detail": "A widened cranial defect following trauma is a leptomeningeal cyst."
+  },
+  {
+    "number": 30,
+    "question": "Which unique pediatric fracture is a \"greenstick\" type inward deformity of the skull?",
+    "choices": [
+      "Diastatic fracture",
+      "Ping-Pong Fracture",
+      "Compound fracture",
+      "Comminuted fracture",
+      "Basilar fracture"
+    ],
+    "answer": "B",
+    "detail": "A smooth inward deformity is a ping-pong fracture."
+  },
+  {
+    "number": 31,
+    "question": "A \"retroclival hematoma\" in pediatric trauma is typically located:",
+    "choices": [
+      "Above the tectorial membrane",
+      "Below the tectorial membrane",
+      "Inside the brainstem",
+      "In the diploic space",
+      "Superficial to the galea"
+    ],
+    "answer": "A",
+    "detail": "In NAT, look for this above the tectorial membrane."
+  },
+  {
+    "number": 32,
+    "question": "\"Look High\" in Non-Accidental Trauma (NAT) refers to checking for:",
+    "choices": [
+      "Cephalohematoma",
+      "Thrombosed (hyperdense) cortical vein at the vertex",
+      "LCH",
+      "Wormian bones",
+      "Frontal bossing"
+    ],
+    "answer": "B",
+    "detail": "Check the vertex for a thrombosed cortical vein."
+  },
+  {
+    "number": 33,
+    "question": "The \"Cortical Vein Sign\" helps distinguish BESSI from:",
+    "choices": [
+      "Normal brain",
+      "Subdural Hygroma",
+      "Arachnoid cyst",
+      "Epidural hematoma",
+      "Cephalohematoma"
+    ],
+    "answer": "B",
+    "detail": "In BESSI, cortical veins are adjacent to the inner table (positive sign)."
+  },
+  {
+    "number": 34,
+    "question": "In a Subdural Hygroma, cortical veins are:",
+    "choices": [
+      "Displaced away from the inner table",
+      "Adjacent to the inner table",
+      "Completely absent",
+      "Draining into a cephalocole",
+      "Calcified"
+    ],
+    "answer": "A",
+    "detail": "In subdural hygromas, veins are displaced away from the table."
+  },
+  {
+    "number": 35,
+    "question": "A \"bone defect in the region of the lambdoid suture\" or the \"asterion defect\" is a reflex generator for:",
+    "choices": [
+      "Marfan syndrome",
+      "Neurofibromatosis Type 1 (NF-1)",
+      "Turner syndrome",
+      "Williams syndrome",
+      "LCH"
+    ],
+    "answer": "B",
+    "detail": "This is a random bone buzzword for NF-1."
+  },
+  {
+    "number": 36,
+    "question": "Most craniosynostosis (85%) is considered:",
+    "choices": [
+      "Syndromic",
+      "Isolated (primary)",
+      "Secondary to trauma",
+      "Metabolic",
+      "Drug-induced"
+    ],
+    "answer": "B",
+    "detail": "Most cases are primary/isolated."
+  },
+  {
+    "number": 37,
+    "question": "\"Sock hand\" (symmetrically fused hands and feet) is a feature of:",
+    "choices": [
+      "Apert's Syndrome",
+      "Crouzon's Syndrome",
+      "NF-1",
+      "Cleidocranial Dysostosis",
+      "Turner Syndrome"
+    ],
+    "answer": "A",
+    "detail": "This is Apert's."
+  },
+  {
+    "number": 38,
+    "question": "Cleidocranial Dysostosis features Wormian bones and absent/hypoplastic:",
+    "choices": [
+      "Radii",
+      "Clavicles",
+      "Tibias",
+      "Femurs",
+      "Ribs"
+    ],
+    "answer": "B",
+    "detail": "It features absent clavicles."
+  },
+  {
+    "number": 39,
+    "question": "Pyknodysostosis is a syndrome of dwarfism, osteopetrosis, and:",
+    "choices": [
+      "Acro-osteolysis",
+      "Rhizomelia",
+      "Syndactyly",
+      "Polydactyly",
+      "Radial ray defects"
+    ],
+    "answer": "A",
+    "detail": "Pyknodysostosis is associated with acro-osteolysis."
+  },
+  {
+    "number": 40,
+    "question": "A \"button sequestrum\" is a classic radiographic sign associated with:",
+    "choices": [
+      "Metopic synostosis",
+      "LCH",
+      "Cephalohematoma",
+      "Depressed skull fracture",
+      "Cleidocranial dysostosis"
+    ],
+    "answer": "B",
+    "detail": "LCH is the classic cause of a button sequestrum."
+  },
+  {
+    "number": 41,
+    "question": "Extra-axial fluid spaces are considered enlarged in infancy (BESSI) if they measure greater than:",
+    "choices": [
+      "2 mm",
+      "5 mm",
+      "10 mm",
+      "15 mm",
+      "20 mm"
+    ],
+    "answer": "B",
+    "detail": "Fluid spaces > 5 mm are considered enlarged."
+  },
+  {
+    "number": 42,
+    "question": "BESSI typically presents around month 2 or 3 and usually resolves:",
+    "choices": [
+      "After 2 years with no treatment",
+      "Immediately with steroids",
+      "Only with surgical shunting",
+      "By the end of the first month",
+      "Only if the child is full term"
+    ],
+    "answer": "A",
+    "detail": "It is benign and you grow out of it after 2 years."
+  },
+  {
+    "number": 43,
+    "question": "\"Communicating hydrocephalus\" is characterized by:",
+    "choices": [
+      "Obstruction at the Foramen of Monro",
+      "All 4 ventricles being enlarged",
+      "Only the lateral ventricles being big",
+      "A normal-sized 4th ventricle",
+      "Absence of the falx"
+    ],
+    "answer": "B",
+    "detail": "In communicating hydrocephalus, all ventricles are big."
+  },
+  {
+    "number": 44,
+    "question": "What is the goal of the \"1 for T1, 2 for T2\" rule in pediatric neuroimaging?",
+    "choices": [
+      "Myelination timing (Adult pattern at 1y for T1, 2y for T2)",
+      "Contrast dosing",
+      "Ventricular size ratios",
+      "Radiation safety",
+      "Tumor grading"
+    ],
+    "answer": "A",
+    "detail": "This rule helps remember when the adult myelination pattern is reached."
+  },
+  {
+    "number": 45,
+    "question": "Which part of the brain is the LAST to myelinate?",
+    "choices": [
+      "Brainstem",
+      "Posterior limb of the internal capsule",
+      "Subcortical white matter",
+      "Thalamus",
+      "Basal ganglia"
+    ],
+    "answer": "C",
+    "detail": "Subcortical white matter is the last to finish."
+  },
+  {
+    "number": 46,
+    "question": "Brain myelination generally progresses in which direction?",
+    "choices": [
+      "Superior to inferior",
+      "Inferior to superior and posterior to anterior",
+      "Anterior to posterior",
+      "Peripheral to central",
+      "Motor before sensory"
+    ],
+    "answer": "B",
+    "detail": "Myelination goes inferior to superior and posterior to anterior."
+  },
+  {
+    "number": 47,
+    "question": "Mature white matter on MRI appears:",
+    "choices": [
+      "T1 bright and T2 dark",
+      "T1 dark and T2 bright",
+      "T1 bright and T2 bright",
+      "T1 dark and T2 dark",
+      "Isointense on all sequences"
+    ],
+    "answer": "A",
+    "detail": "Mature myelin is T1 bright and T2 dark."
+  },
+  {
+    "number": 48,
+    "question": "Immature myelin has high water content and appears:",
+    "choices": [
+      "T1 dark and T2 bright",
+      "T1 bright and T2 dark",
+      "T1 bright and T2 bright",
+      "T1 dark and T2 dark",
+      "It is invisible on MRI"
+    ],
+    "answer": "A",
+    "detail": "Immature myelin is T1 dark and T2 bright."
+  },
+  {
+    "number": 49,
+    "question": "A classic point of trivia is that the corpus callosum forms front to back, with which part forming LAST?",
+    "choices": [
+      "Genu",
+      "Body",
+      "Isthmus",
+      "Splenium",
+      "Rostrum"
+    ],
+    "answer": "E",
+    "detail": "The rostrum forms last."
+  },
+  {
+    "number": 50,
+    "question": "Dysgenesis of the corpus callosum typically results in absence of the:",
+    "choices": [
+      "Genu",
+      "Splenium",
+      "Body",
+      "Rostrum",
+      "Entire structure always"
+    ],
+    "answer": "B",
+    "detail": "Because it forms front to back, hypoplasia usually means absence of the splenium."
+  },
+  {
+    "number": 51,
+    "question": "Asymmetric dilation of the occipital horns in corpus callosum agenesis is called:",
+    "choices": [
+      "Colpocephaly",
+      "Trigonocephaly",
+      "Scaphocephaly",
+      "Hydrocephalus",
+      "Porencephaly"
+    ],
+    "answer": "A",
+    "detail": "This is colpocephaly."
+  },
+  {
+    "number": 52,
+    "question": "The \"Classic\" Dandy Walker triad includes vermian hypoplasia, an elevated/rotated vermis, and a:",
+    "choices": [
+      "Small posterior fossa",
+      "Dilated cystic 4th ventricle",
+      "Fused falx",
+      "Beaked tectum",
+      "Banana sign"
+    ],
+    "answer": "B",
+    "detail": "A dilated cystic 4th ventricle completes the triad."
+  },
+  {
+    "number": 53,
+    "question": "\"Hydranencephaly\" is distinguished from severe hydrocephalus by the fact that it:",
+    "choices": [
+      "Still has a falx",
+      "Lacks a falx",
+      "Has a normal 4th ventricle",
+      "Is caused by trauma",
+      "Shows \"sunset eyes\""
+    ],
+    "answer": "A",
+    "detail": "Hydranencephaly still has a falx."
+  },
+  {
+    "number": 54,
+    "question": "Alobar holoprosencephaly is characterized by the absence of which structure?",
+    "choices": [
+      "Anterior falx",
+      "4th ventricle",
+      "Cerebellum",
+      "Posterior pituitary",
+      "Orbit"
+    ],
+    "answer": "A",
+    "detail": "The anterior falx is missing in alobar HPE."
+  },
+  {
+    "number": 55,
+    "question": "Which malformation is associated with \"migrating infarcts\" and failed cortex organization?",
+    "choices": [
+      "Polymicrogyria",
+      "Schizencephaly",
+      "Chiari I",
+      "Dandy Walker",
+      "Holoprosencephaly"
+    ],
+    "answer": "A",
+    "detail": "Polymicrogyria is often associated with zika virus and \"migrating infarcts\"."
+  },
+  {
+    "number": 56,
+    "question": "\"Split Brain\" or CSF-filled clefts lined by gray matter is:",
+    "choices": [
+      "Polymicrogyria",
+      "Schizencephaly",
+      "Porencephaly",
+      "Hydranencephaly",
+      "Holoprosencephaly"
+    ],
+    "answer": "B",
+    "detail": "Schizencephaly is characterized by gray-matter-lined clefts."
+  },
+  {
+    "number": 57,
+    "question": "A cephalocele sac containing only CSF and meninges (NO brain) is called a:",
+    "choices": [
+      "Meningocele",
+      "Meningo-encephalocele",
+      "Cystocele",
+      "Myelocele",
+      "Encephalocele"
+    ],
+    "answer": "A",
+    "detail": "This is a meningocele."
+  },
+  {
+    "number": 58,
+    "question": "A cephalocele sac that contains spinal cord is a:",
+    "choices": [
+      "Cystocele",
+      "Myelocele",
+      "Meningocele",
+      "Encephalocele",
+      "Syromyelocle"
+    ],
+    "answer": "B",
+    "detail": "This is a myelocele."
+  },
+  {
+    "number": 59,
+    "question": "Chiari I malformation is defined as herniation of the cerebellar tonsils more than:",
+    "choices": [
+      "2 mm",
+      "5 mm",
+      "10 mm",
+      "15 mm",
+      "20 mm"
+    ],
+    "answer": "B",
+    "detail": "Tonsillar herniation > 5 mm defines Chiari I."
+  },
+  {
+    "number": 60,
+    "question": "\"Beaked tectum\" and \"low lying torcula\" are classic features of:",
+    "choices": [
+      "Chiari I",
+      "Chiari II",
+      "Chiari III",
+      "Chiari IV",
+      "Chiari 1.5"
+    ],
+    "answer": "B",
+    "detail": "Chiari II features tectal beaking and a low torcula."
+  },
+  {
+    "number": 61,
+    "question": "Chiari II malformation is virtually always associated with which other defect?",
+    "choices": [
+      "Myelomeningocele (Neural Tube Defect)",
+      "Polydactyly",
+      "Absent clavicles",
+      "Bicuspid aortic valve",
+      "Pulmonary sling"
+    ],
+    "answer": "A",
+    "detail": "Chiari II is associated with myelomeningocele."
+  },
+  {
+    "number": 62,
+    "question": "The \"Banana\" and \"Lemon\" signs on ultrasound are classic for:",
+    "choices": [
+      "Dandy Walker",
+      "Chiari II / Spina Bifida path",
+      "Holoprosencephaly",
+      "GMH",
+      "Aqueductal stenosis"
+    ],
+    "answer": "B",
+    "detail": "These are classic for Chiari II/Spina Bifida."
+  },
+  {
+    "number": 63,
+    "question": "The \"Lemon Sign\" (rostral skull shape) is unique because it is:",
+    "choices": [
+      "Present in both 2nd and 3rd trimesters",
+      "Only present in the 2nd trimester (you grow out of it)",
+      "More sensitive and specific than the banana sign",
+      "Pathognomonic for Dandy Walker",
+      "Caused by too much CSF"
+    ],
+    "answer": "B",
+    "detail": "You grow out of the lemon sign."
+  },
+  {
+    "number": 64,
+    "question": "\"Sunset eyes\" or upward gaze paralysis is a clinical trivia sign for:",
+    "choices": [
+      "Aqueductal stenosis / Hydrocephalus",
+      "Chiari I",
+      "Bickers Adams Edwards syndrome",
+      "BESSI",
+      "LCH"
+    ],
+    "answer": "A",
+    "detail": "Sunset eyes indicate hydrocephalus, often from aqueductal stenosis."
+  },
+  {
+    "number": 65,
+    "question": "A male infant with \"flexed thumbs\" and congenital hydrocephalus should make you think of:",
+    "choices": [
+      "Bickers Adams Edwards syndrome (X-linked)",
+      "Chiari II",
+      "PHACES syndrome",
+      "VACTERL",
+      "TORCH infection"
+    ],
+    "answer": "A",
+    "detail": "Flexed thumbs in a male with hydrocephalus is Bickers Adams Edwards."
+  },
+  {
+    "number": 66,
+    "question": "Arachnoid cysts are characterized on imaging by having:",
+    "choices": [
+      "Solid components",
+      "CSF density and NO restricted diffusion",
+      "Restricted diffusion",
+      "Intense enhancement",
+      "Popcorn calcification"
+    ],
+    "answer": "B",
+    "detail": "Arachnoid cysts follow CSF signal and do NOT restrict."
+  },
+  {
+    "number": 67,
+    "question": "Which pediatric brain tumor is a \"cyst with a nodule\" in the posterior fossa?",
+    "choices": [
+      "Juvenile Pilocytic Astrocytoma (JPA)",
+      "Medulloblastoma",
+      "Ependymoma",
+      "AT/RT",
+      "Hemangioblastoma"
+    ],
+    "answer": "A",
+    "detail": "JPA is the classic \"cyst with a nodule\" in a kid."
+  },
+  {
+    "number": 68,
+    "question": "If a \"cyst with a nodule\" is in the posterior fossa of an ADULT, the most likely diagnosis is:",
+    "choices": [
+      "JPA",
+      "Hemangioblastoma",
+      "Medulloblastoma",
+      "Ependymoma",
+      "Meningioma"
+    ],
+    "answer": "B",
+    "detail": "In adults, the same appearance is Hemangioblastoma."
+  },
+  {
+    "number": 69,
+    "question": "JPA and Hemangioblastoma are distinguished by wall enhancement; JPA wall:",
+    "choices": [
+      "Enhances in 50% of cases",
+      "Never enhances",
+      "Always has thick chunky calcification",
+      "Restricts diffusion",
+      "Is invisible on T2"
+    ],
+    "answer": "A",
+    "detail": "JPA wall enhancement occurs in about half of cases, whereas hemangioblastoma walls usually don't."
+  },
+  {
+    "number": 70,
+    "question": "Medulloblastomas arise from the vermis and typically occur at age:",
+    "choices": [
+      "2 years",
+      "6 years",
+      "20 years",
+      "40 years",
+      "Newborn"
+    ],
+    "answer": "B",
+    "detail": "Medulloblastoma peak age is 6 years."
+  },
+  {
+    "number": 71,
+    "question": "Which pediatric tumor is known for \"toothpaste\" behavior, squeezing out of the 4th ventricle?",
+    "choices": [
+      "Medulloblastoma",
+      "Ependymoma",
+      "AT/RT",
+      "JPA",
+      "Chordoma"
+    ],
+    "answer": "B",
+    "detail": "Ependymomas are soft and \"toothpaste-like\"."
+  },
+  {
+    "number": 72,
+    "question": "AT/RT (Atypical Teratoid Rhabdoid Tumor) occurs in very young kids (age 2) and features:",
+    "choices": [
+      "No enhancement",
+      "Calcifications",
+      "A type 1 kinetic curve",
+      "Predominantly fat signal",
+      "Normal NAA on MRS"
+    ],
+    "answer": "B",
+    "detail": "AT/RT is a nasty tumor in infants that often calcifies."
+  },
+  {
+    "number": 73,
+    "question": "The most common TORCH infection is:",
+    "choices": [
+      "Toxoplasmosis",
+      "CMV",
+      "Rubella",
+      "HSV",
+      "HIV"
+    ],
+    "answer": "B",
+    "detail": "CMV is the most common."
+  },
+  {
+    "number": 74,
+    "question": "CMV infection has the highest association with which cortical malformation?",
+    "choices": [
+      "Polymicrogyria",
+      "Schizencephaly",
+      "Agenesis of CC",
+      "Holoprosencephaly",
+      "Porencephaly"
+    ],
+    "answer": "A",
+    "detail": "CMV is strongly linked to polymicrogyria."
+  },
+  {
+    "number": 75,
+    "question": "TORCH infections: Periventricular calcifications should make you think:",
+    "choices": [
+      "CMV",
+      "Toxoplasmosis",
+      "Rubella",
+      "HSV",
+      "Syphilis"
+    ],
+    "answer": "A",
+    "detail": "CMV targets the germinal matrix, causing periventricular calcifications."
+  },
+  {
+    "number": 76,
+    "question": "TORCH infections: Basal ganglia calcifications and hydrocephalus should make you think:",
+    "choices": [
+      "CMV",
+      "Toxoplasmosis",
+      "Rubella",
+      "HSV",
+      "HIV"
+    ],
+    "answer": "B",
+    "detail": "Toxoplasmosis causes basal ganglia calcifications."
+  },
+  {
+    "number": 77,
+    "question": "In HIV/AIDS patients, Toxoplasmosis lesions are characteristically:",
+    "choices": [
+      "Thallium Hot",
+      "Thallium Cold",
+      "PET Hot",
+      "T1 bright and T2 dark",
+      "Restricted on DWI"
+    ],
+    "answer": "B",
+    "detail": "Toxo is Thallium COLD."
+  },
+  {
+    "number": 78,
+    "question": "In HIV/AIDS patients, Primary CNS Lymphoma is characteristically:",
+    "choices": [
+      "Thallium Cold",
+      "Thallium Hot",
+      "T2 bright and T1 dark",
+      "Negative on PET",
+      "Non-enhancing"
+    ],
+    "answer": "B",
+    "detail": "Lymphoma is Thallium HOT."
+  },
+  {
+    "number": 79,
+    "question": "Unlike typical abscesses, Toxoplasmosis lesions usually do NOT:",
+    "choices": [
+      "Enhance",
+      "Show edema",
+      "Restrict diffusion",
+      "Have mass effect",
+      "Respond to treatment"
+    ],
+    "answer": "C",
+    "detail": "Toxo does NOT restrict diffusion, unlike bacterial abscesses."
+  },
+  {
+    "number": 80,
+    "question": "For brain bleeds on MRI, the \"Oreo Cookie\" sign describes the T2 signal (Black, White, Black) for which stage?",
+    "choices": [
+      "Hyperacute",
+      "Acute",
+      "Subacute",
+      "Chronic",
+      "Intracellular MetHb"
+    ],
+    "answer": "C",
+    "detail": "The Oreo sign (and George Washington Bridge for T1) is for subacute blood."
+  },
+  {
+    "number": 81,
+    "question": "Restricted diffusion without bright FLAIR signal should make you think of an infarct that is:",
+    "choices": [
+      "Hyperacute (< 6 hours)",
+      "Acute (24 hours)",
+      "Subacute (1 week)",
+      "Chronic (> 3 weeks)",
+      "Hemorrhagic"
+    ],
+    "answer": "A",
+    "detail": "This signifies a hyperacute infarct."
+  },
+  {
+    "number": 82,
+    "question": "What is the standardization value used to describe metabolic activity in FDG-PET?",
+    "choices": [
+      "CBF",
+      "CBV",
+      "SUV",
+      "TTP",
+      "MTT"
+    ],
+    "answer": "C",
+    "detail": "SUV is the Standardized Uptake Value."
+  },
+  {
+    "number": 83,
+    "question": "On MRS, N-acetylaspartate (NAA) is a marker of:",
+    "choices": [
+      "Cell membrane turnover",
+      "Neuronal integrity (it goes down if neurons are dead)",
+      "Anaerobic metabolism",
+      "Gliosis",
+      "Myelination"
+    ],
+    "answer": "B",
+    "detail": "NAA is a marker of neuronal integrity."
+  },
+  {
+    "number": 84,
+    "question": "On MRS, Choline is a marker of:",
+    "choices": [
+      "Neuronal health",
+      "Cell membrane turnover (elevated in tumors)",
+      "Brain iron",
+      "Ischemia",
+      "Normal aging"
+    ],
+    "answer": "B",
+    "detail": "Choline reflects cell membrane turnover."
+  },
+  {
+    "number": 85,
+    "question": "\"Hunter’s Angle\" on MRS is considered normal if the height of the peaks follows which order (low to high PPM)?",
+    "choices": [
+      "Choline < Creatine < NAA",
+      "Choline > Creatine > NAA (ascending)",
+      "NAA > Choline > Creatine",
+      "It is always a flat line",
+      "Creatine is always the highest"
+    ],
+    "answer": "B",
+    "detail": "Hunter's Angle should ascend from Choline to Creatine to NAA."
+  },
+  {
+    "number": 86,
+    "question": "A \"Puff of smoke\" on a pediatric angiogram is diagnostic for:",
+    "choices": [
+      "PAN",
+      "Moyamoya",
+      "NF-1",
+      "Sickle Cell Disease",
+      "FMD"
+    ],
+    "answer": "B",
+    "detail": "This is the classic look of Moyamoya."
+  },
+  {
+    "number": 87,
+    "question": "Moyamoya in a child is highly associated with which underlying condition?",
+    "choices": [
+      "Sickle Cell Disease",
+      "Down Syndrome",
+      "NF-1",
+      "Cystic Fibrosis",
+      "Asthma"
+    ],
+    "answer": "A",
+    "detail": "In children, lead with Sickle Cell."
+  },
+  {
+    "number": 88,
+    "question": "\"Migrating Infarcts\" are a buzzword for:",
+    "choices": [
+      "Medulloblastoma",
+      "MELAS (Mitochondrial disorder)",
+      "Alexander disease",
+      "MS",
+      "JPA"
+    ],
+    "answer": "B",
+    "detail": "MELAS features migrating infarcts that don't follow vascular territories."
+  },
+  {
+    "number": 89,
+    "question": "Which leukodystrophy is associated with a \"weird big head\" and frontal predominance?",
+    "choices": [
+      "Adrenoleukodystrophy",
+      "Metachromatic leukodystrophy",
+      "Alexander Disease",
+      "Krabbe Disease",
+      "Pelizaeus-Merzbacher"
+    ],
+    "answer": "C",
+    "detail": "Alexander features a big head and frontal predominance."
+  },
+  {
+    "number": 90,
+    "question": "Which leukodystrophy features a \"tigroid pattern\" of stripes in the white matter?",
+    "choices": [
+      "Alexander",
+      "Metachromatic Leukodystrophy",
+      "Canavan",
+      "Krabbe",
+      "Adrenoleukodystrophy"
+    ],
+    "answer": "B",
+    "detail": "Metachromatic leukodystrophy is famous for the tigroid pattern."
+  },
+  {
+    "number": 91,
+    "question": "Canavan disease is unique on MRS for having:",
+    "choices": [
+      "Elevated NAA",
+      "Elevated Lactate",
+      "Elevated Choline",
+      "No NAA peak",
+      "No Creatine peak"
+    ],
+    "answer": "A",
+    "detail": "Canavan is the \"only\" one with elevated NAA."
+  },
+  {
+    "number": 92,
+    "question": "Adrenoleukodystrophy (ALD) is X-linked, male-predominant, and favors the:",
+    "choices": [
+      "Frontal lobes",
+      "Parieto-occipital region",
+      "Brainstem",
+      "Basal ganglia",
+      "Pituitary"
+    ],
+    "answer": "B",
+    "detail": "ALD is parieto-occipital dominant."
+  },
+  {
+    "number": 93,
+    "question": "The \"Cingulate Island Sign\" on FDG-PET is characteristic of:",
+    "choices": [
+      "Alzheimer's",
+      "Dementia with Lewy Bodies",
+      "Picks Disease",
+      "Multi-infarct dementia",
+      "Normal brain"
+    ],
+    "answer": "B",
+    "detail": "DLB features preservation of the mid-posterior cingulate gyrus."
+  },
+  {
+    "number": 94,
+    "question": "Alzheimer's dementia on FDG-PET classically shows low activity in the:",
+    "choices": [
+      "Frontal lobes",
+      "Posterior temporoparietal cortex",
+      "Basal ganglia",
+      "Cerebellum",
+      "Occipital lobes"
+    ],
+    "answer": "B",
+    "detail": "Alzheimer's affects the temporoparietal region."
+  },
+  {
+    "number": 95,
+    "question": "A \"Tau Sign\" on a sagittal MRI represents which vascular variant?",
+    "choices": [
+      "Fetal PCA",
+      "Persistent trigeminal artery",
+      "Azygos ACA",
+      "Duplicated basilar",
+      "Carotid-cavernous fistula"
+    ],
+    "answer": "B",
+    "detail": "The tau sign is diagnostic for a persistent trigeminal artery."
+  },
+  {
+    "number": 96,
+    "question": "CN 3 Palsy (unilateral pupil dilation) is the answer until proven otherwise for which vascular lesion?",
+    "choices": [
+      "Posterior Communicating Artery (PCOM) Aneurysm",
+      "ACOM Aneurysm",
+      "MCA Trifurcation Aneurysm",
+      "Basilar Tip Aneurysm",
+      "PICA Aneurysm"
+    ],
+    "answer": "A",
+    "detail": "PCOM aneurysm causes CN3 palsy."
+  },
+  {
+    "number": 97,
+    "question": "\"Hoarseness\" after a neck or chest procedure should make you think of:",
+    "choices": [
+      "Phrenic nerve damage",
+      "Recurrent laryngeal nerve compression",
+      "CN 7 palsy",
+      "Glossopharyngeal nerve palsy",
+      "Tracheal stenosis"
+    ],
+    "answer": "B",
+    "detail": "Hoarseness involves the recurrent laryngeal nerve."
+  },
+  {
+    "number": 98,
+    "question": "The most common primary brain tumor in kids under one year old is:",
+    "choices": [
+      "Medulloblastoma",
+      "Choroid Plexus Papilloma",
+      "JPA",
+      "Ependymoma",
+      "Glioblastoma"
+    ],
+    "answer": "B",
+    "detail": "Choroid Plexus Papilloma makes up 15% of tumors in infants."
+  },
+  {
+    "number": 99,
+    "question": "In children, Choroid Plexus Papillomas are typically found in the:",
+    "choices": [
+      "4th ventricle",
+      "Lateral ventricle (trigone)",
+      "3rd ventricle",
+      "Foramen of Monro",
+      "Subarachnoid space"
+    ],
+    "answer": "B",
+    "detail": "In kids, it's in the lateral ventricle; in adults, it's the 4th."
+  },
+  {
+    "number": 100,
+    "question": "\"Chemical Meningitis\" is the classic buzzword for the rupture of a:",
+    "choices": [
+      "Dermoid Cyst",
+      "Epidermoid Cyst",
+      "Arachnoid Cyst",
+      "Ependymoma",
+      "Pituitary adenoma"
+    ],
+    "answer": "A",
+    "detail": "Ruptured dermoids cause chemical meningitis."
+  }
+]
+}

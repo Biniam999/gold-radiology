@@ -1,0 +1,196 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "What is the most common cause of hypothyroidism?",
+      "choices": [
+        "Graves disease",
+        "Hashimoto thyroiditis",
+        "De Quervain thyroiditis",
+        "Thyroid lymphoma",
+        "Iodine deficiency"
+      ],
+      "answer": "B",
+      "detail": "Hashimoto thyroiditis is identified as the most frequent cause of hypothyroidism."
+    },
+    {
+      "number": 2,
+      "question": "Hashimoto thyroiditis is an autoimmune condition triggered by autoantibodies against which of the following?",
+      "choices": [
+        "Thyroglobulins",
+        "Aquaporin-4",
+        "Acetylcholine receptors",
+        "Calcium-sensing receptors",
+        "Insulin"
+      ],
+      "answer": "A",
+      "detail": "The disease is caused by autoantibodies that target thyroglobulins."
+    },
+    {
+      "number": 3,
+      "question": "Which of the following is a characteristic ultrasound finding of Hashimoto thyroiditis?",
+      "choices": [
+        "A single, large, solid hypervascular nodule",
+        "Thickened isthmus and a micronodular/coarsened gland",
+        "Multiple simple cysts",
+        "Dense internal calcifications only",
+        "Atrophy in the early stages"
+      ],
+      "answer": "B",
+      "detail": "Ultrasound typically reveals a thickened isthmus and a gland with a coarsened or micronodular texture."
+    },
+    {
+      "number": 4,
+      "question": "Patients diagnosed with Hashimoto thyroiditis have an increased risk of developing which specific malignancy?",
+      "choices": [
+        "Papillary thyroid carcinoma",
+        "Medullary thyroid carcinoma",
+        "Thyroid lymphoma",
+        "Anaplastic carcinoma",
+        "Squamous cell carcinoma"
+      ],
+      "answer": "C",
+      "detail": "There is a recognized increased risk for thyroid lymphoma in patients with this condition."
+    },
+    {
+      "number": 5,
+      "question": "Which subtype of thyroid cancer is considered very rare but associated with the worst clinical prognosis?",
+      "choices": [
+        "Papillary",
+        "Follicular",
+        "Medullary",
+        "Anaplastic",
+        "Hurthle cell"
+      ],
+      "answer": "D",
+      "detail": "Anaplastic thyroid carcinoma is rare but carries the most unfavorable prognosis."
+    },
+    {
+      "number": 6,
+      "question": "How many parathyroid glands do the majority of patients typically possess?",
+      "choices": [
+        "2",
+        "4",
+        "6",
+        "8",
+        "1"
+      ],
+      "answer": "B",
+      "detail": "Most patients have four parathyroid glands."
+    },
+    {
+      "number": 7,
+      "question": "What is the most frequent clinical indication for parathyroid imaging?",
+      "choices": [
+        "Routine screening",
+        "Workup of hypercalcemia for suspected adenoma or hyperplasia",
+        "Monitoring hypothyroidism",
+        "Staging of thyroid squamous cell carcinoma",
+        "Assessment of vocal cord paralysis"
+      ],
+      "answer": "B",
+      "detail": "Imaging is most often performed during the workup of hypercalcemia to evaluate for parathyroid adenoma or hyperplasia."
+    },
+    {
+      "number": 8,
+      "question": "Which syndrome is characteristically linked to the development of parathyroid adenomas or hyperplasia?",
+      "choices": [
+        "MEN I",
+        "MEN IIB",
+        "Li-Fraumeni",
+        "Cowden syndrome",
+        "Von Hippel-Lindau"
+      ],
+      "answer": "A",
+      "detail": "Multiple Endocrine Neoplasia Type I (MEN I) is associated with parathyroid abnormalities."
+    },
+    {
+      "number": 9,
+      "question": "Which of the following is NOT a recognized ectopic location for a parathyroid gland?",
+      "choices": [
+        "Upper mediastinum",
+        "Tracheoesophageal groove",
+        "Thoracic inlet",
+        "Internal auditory canal",
+        "Retropharyngeal space"
+      ],
+      "answer": "D",
+      "detail": "Ectopic parathyroid glands can be found in the upper mediastinum, tracheoesophageal groove, and thoracic inlet, but the internal auditory canal is not a recognized site."
+    },
+    {
+      "number": 10,
+      "question": "Parathyroid localization imaging is most frequently indicated in which of the following clinical settings?",
+      "choices": [
+        "Before the first surgery (primary workup)",
+        "In the re-operative setting for persistent or recurrent disease",
+        "Only if the patient is pregnant",
+        "To distinguish between adenoma and carcinoma",
+        "Only in patients with MEN II"
+      ],
+      "answer": "B",
+      "detail": "Localization studies are most commonly indicated when a patient requires re-operation for persistent or recurrent parathyroid disease."
+    },
+    {
+      "number": 11,
+      "question": "Is it generally considered easy to distinguish between a parathyroid adenoma and a parathyroid carcinoma on imaging studies?",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "B",
+      "detail": "Distinguishing between a parathyroid adenoma and a carcinoma using imaging is rare or difficult."
+    },
+    {
+      "number": 12,
+      "question": "In its end-stage, Hashimoto thyroiditis may manifest as which type of gland on imaging?",
+      "choices": [
+        "Hyperplastic",
+        "Atrophic",
+        "Multinodular",
+        "Hypervascular",
+        "Ectopic"
+      ],
+      "answer": "B",
+      "detail": "While it may initially be enlarged, end-stage Hashimoto thyroiditis often results in an atrophic gland."
+    },
+    {
+      "number": 13,
+      "question": "Graves disease typically presents with which characteristic ultrasound finding?",
+      "choices": [
+        "Marked atrophy",
+        "Diffuse hypervascularity ('thyroid inferno')",
+        "Multiple non-enhancing cysts",
+        "Popcorn-like calcifications",
+        "No abnormalities"
+      ],
+      "answer": "B",
+      "detail": "Graves disease characteristically displays diffuse hypervascularity, often referred to as a 'thyroid inferno'."
+    },
+    {
+      "number": 14,
+      "question": "Anatomically, parathyroid glands are usually found in what relationship to the thyroid gland?",
+      "choices": [
+        "Anterior",
+        "Adjacent",
+        "Superior",
+        "Within the isthmus",
+        "In the submandibular space"
+      ],
+      "answer": "B",
+      "detail": "The parathyroid glands are typically located adjacent to the thyroid gland."
+    },
+    {
+      "number": 15,
+      "question": "Non-Hodgkin lymphoma of the thyroid typically presents on imaging as which of the following?",
+      "choices": [
+        "A simple cyst",
+        "A solid nodule",
+        "A thickened isthmus only",
+        "Diffuse calcification",
+        "A fatty mass"
+      ],
+      "answer": "B",
+      "detail": "The typical imaging presentation for thyroid Non-Hodgkin lymphoma is a solid nodule."
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "What are the three major pairs of salivary glands in order of decreasing size?",
+      "choices": [
+        "Parotid, Sublingual, Submandibular",
+        "Parotid, Submandibular, Sublingual",
+        "Submandibular, Parotid, Sublingual",
+        "Sublingual, Submandibular, Parotid",
+        "Submandibular, Sublingual, Parotid"
+      ],
+      "answer": "B",
+      "detail": "The parotid gland is the largest, followed by the submandibular and then the sublingual gland."
+    },
+    {
+      "number": 2,
+      "question": "Regarding the risk of malignancy in salivary glands, which of the following is TRUE?",
+      "choices": [
+        "Larger glands have a higher risk of malignancy.",
+        "Smaller glands (Sublingual and minor) have the highest risk of malignancy.",
+        "The parotid gland has the highest risk of malignancy.",
+        "Submandibular glands never develop cancer.",
+        "Risk is equal across all glands."
+      ],
+      "answer": "B",
+      "detail": "There is an inverse relationship between gland size and malignancy risk; smaller glands, such as the sublingual and minor salivary glands, are more likely to harbor malignant tumors."
+    },
+    {
+      "number": 3,
+      "question": "The parotid gland is anatomically divided into superficial and deep lobes by the path of which cranial nerve?",
+      "choices": [
+        "CN V (Trigeminal)",
+        "CN VII (Facial)",
+        "CN IX (Glossopharyngeal)",
+        "CN X (Vagus)",
+        "CN XII (Hypoglossal)"
+      ],
+      "answer": "B",
+      "detail": "The facial nerve (CN VII) serves as the anatomical divider between the superficial and deep lobes of the parotid gland."
+    },
+    {
+      "number": 4,
+      "question": "Which vascular structure do radiologists use as a surrogate marker to demarcate the superficial and deep lobes of the parotid gland on imaging?",
+      "choices": [
+        "External carotid artery",
+        "Retromandibular vein",
+        "Internal jugular vein",
+        "Facial artery",
+        "Maxillary vein"
+      ],
+      "answer": "B",
+      "detail": "Because the facial nerve is not typically visible on standard imaging, the retromandibular vein is used as the landmark for the demarcation of parotid lobes."
+    },
+    {
+      "number": 5,
+      "question": "Which salivary gland is unique because it is the only one that contains internal lymph nodes?",
+      "choices": [
+        "Sublingual gland",
+        "Submandibular gland",
+        "Parotid gland",
+        "Minor salivary glands",
+        "None of the above"
+      ],
+      "answer": "C",
+      "detail": "The parotid gland is unique among the major salivary glands for containing intra-glandular lymph nodes."
+    },
+    {
+      "number": 6,
+      "question": "The submandibular gland wraps around the posterior margin of which muscle?",
+      "choices": [
+        "Masseter",
+        "Medial pterygoid",
+        "Mylohyoid",
+        "Genioglossus",
+        "Digastric"
+      ],
+      "answer": "C",
+      "detail": "The submandibular gland characteristically wraps around the posterior border of the mylohyoid muscle."
+    },
+    {
+      "number": 7,
+      "question": "What is the eponym for the submandibular duct, and where does it open?",
+      "choices": [
+        "Stensen duct; opposite the second upper molar",
+        "Wharton duct; on the side of the frenulum of the tongue",
+        "Rivinus duct; at the base of the uvula",
+        "Bartholin duct; within the masticator space",
+        "Stensen duct; in the pyriform sinus"
+      ],
+      "answer": "B",
+      "detail": "The submandibular duct is known as Wharton's duct and opens into the floor of the mouth at the lingual frenulum."
+    },
+    {
+      "number": 8,
+      "question": "What is the most common salivary gland tumor overall?",
+      "choices": [
+        "Warthin tumor",
+        "Mucoepidermoid carcinoma",
+        "Pleomorphic adenoma (Benign mixed tumor)",
+        "Adenoid cystic carcinoma",
+        "Lymphoma"
+      ],
+      "answer": "C",
+      "detail": "Pleomorphic adenoma is the most frequent benign tumor found in the salivary glands."
+    },
+    {
+      "number": 9,
+      "question": "Which tumor is strongly associated with smoking and is often found bilaterally in the parotid tail?",
+      "choices": [
+        "Pleomorphic adenoma",
+        "Warthin tumor",
+        "Oncocytoma",
+        "Acinic cell carcinoma",
+        "Lipoma"
+      ],
+      "answer": "B",
+      "detail": "Warthin tumors (cystadenolymphomas) have a strong clinical association with smoking and frequently present as bilateral masses in the parotid tail."
+    },
+    {
+      "number": 10,
+      "question": "What is the most common malignant salivary gland tumor in both adults and children?",
+      "choices": [
+        "Adenoid cystic carcinoma",
+        "Mucoepidermoid carcinoma",
+        "Salivary duct carcinoma",
+        "Squamous cell carcinoma",
+        "Low-grade adenocarcinoma"
+      ],
+      "answer": "B",
+      "detail": "Mucoepidermoid carcinoma is the most prevalent malignancy of the salivary glands across both pediatric and adult populations."
+    },
+    {
+      "number": 11,
+      "question": "Which malignant salivary tumor is notorious for its propensity for perineural spread along nerves such as the facial nerve?",
+      "choices": [
+        "Pleomorphic adenoma",
+        "Warthin tumor",
+        "Adenoid cystic carcinoma",
+        "Oncocytoma",
+        "Mucoepidermoid carcinoma"
+      ],
+      "answer": "C",
+      "detail": "Adenoid cystic carcinoma is well-known for its aggressive tendency to spread via perineural pathways."
+    },
+    {
+      "number": 12,
+      "question": "Sialolithiasis (salivary stones) is most common in the submandibular gland (80%) because:",
+      "choices": [
+        "The duct is shorter than the parotid duct.",
+        "Secretions are more alkaline and viscous with an uphill drainage course.",
+        "The gland contains more lymph nodes.",
+        "Stensen's duct is narrower than Wharton's duct.",
+        "The submandibular gland is larger than the parotid."
+      ],
+      "answer": "B",
+      "detail": "Submandibular stones are more common due to the uphill course of the Wharton duct and the highly viscous, alkaline nature of the secretions."
+    },
+    {
+      "number": 13,
+      "question": "The imaging appearance of multiple small cysts and 'salt and pepper' punctate calcifications in the parotid glands is characteristic of:",
+      "choices": [
+        "HIV-associated lesions",
+        "Sjögren syndrome",
+        "Chronic sialadenitis",
+        "Warthin tumor",
+        "Sarcoidosis"
+      ],
+      "answer": "B",
+      "detail": "Sjögren syndrome characteristically presents with punctate calcifications and multiple small cystic areas within the parotid glands."
+    },
+    {
+      "number": 14,
+      "question": "A 'Ranula' is a mucous extravasation cyst located in the sublingual space. What defines a 'Plunging Ranula'?",
+      "choices": [
+        "It extends into the maxillary sinus.",
+        "It extends below the mylohyoid muscle into the submandibular space.",
+        "It involves the parotid gland.",
+        "It crosses the midline into the contralateral sublingual space.",
+        "It extends into the retropharyngeal space."
+      ],
+      "answer": "B",
+      "detail": "A plunging ranula is a sublingual space mucocele that has extended inferiorly beyond the mylohyoid muscle."
+    },
+    {
+      "number": 15,
+      "question": "Benign Lymphoepithelial Lesions (BLL) in the parotid glands are most strongly associated with which infectious condition?",
+      "choices": [
+        "Tuberculosis",
+        "HIV infection",
+        "Cat scratch disease",
+        "Syphilis",
+        "Mumps"
+      ],
+      "answer": "B",
+      "detail": "The presence of Benign Lymphoepithelial Lesions in the parotid is a hallmark of HIV infection."
+    },
+    {
+      "number": 16,
+      "question": "On MR sialography, a 'dead tree' appearance of the ducts is a sign of:",
+      "choices": [
+        "Acute sialadenitis",
+        "Chronic sialadenitis",
+        "Pleomorphic adenoma",
+        "Normal aging",
+        "Sjögren syndrome"
+      ],
+      "answer": "B",
+      "detail": "A 'dead tree' appearance on MR sialography represents the pruned, abnormal ductal architecture seen in chronic sialadenitis."
+    }
+  ]
+}

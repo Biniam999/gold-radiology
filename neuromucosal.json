@@ -1,0 +1,260 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "The oral cavity is anatomically defined by which part of the tongue?",
+      "choices": [
+        "Posterior 1/3",
+        "Anterior 2/3",
+        "Only the base of the tongue",
+        "The entire tongue",
+        "Only the tip"
+      ],
+      "answer": "B",
+      "detail": "The anterior two-thirds of the tongue is considered part of the oral cavity, whereas the posterior third is part of the oropharynx."
+    },
+    {
+      "number": 2,
+      "question": "Which part of the tongue is considered part of the oropharynx rather than the oral cavity?",
+      "choices": [
+        "The tip",
+        "The lateral margins",
+        "The posterior 1/3 (base of tongue)",
+        "The ventral surface",
+        "The anterior 1/3"
+      ],
+      "answer": "C",
+      "detail": "The base of the tongue, or the posterior 1/3, is an anatomical subsite of the oropharynx."
+    },
+    {
+      "number": 3,
+      "question": "The pharynx is a muscular tube extending from the skull base to which anatomical landmark?",
+      "choices": [
+        "Hyoid bone",
+        "Cricoid cartilage",
+        "Thoracic inlet",
+        "Sternum",
+        "Tracheal bifurcation"
+      ],
+      "answer": "C",
+      "detail": "The pharyngeal muscular tube begins at the skull base and terminates at the thoracic inlet."
+    },
+    {
+      "number": 4,
+      "question": "The nasopharynx is located directly behind which structure?",
+      "choices": [
+        "Oral cavity",
+        "Larynx",
+        "Nasal cavity",
+        "Esophagus",
+        "Trachea"
+      ],
+      "answer": "C",
+      "detail": "Anatomically, the nasopharynx is situated immediately posterior to the nasal cavity."
+    },
+    {
+      "number": 5,
+      "question": "Which anatomical region extends from the level of the palate to the hyoid bone?",
+      "choices": [
+        "Nasopharynx",
+        "Oropharynx",
+        "Hypopharynx",
+        "Larynx",
+        "Sublingual space"
+      ],
+      "answer": "B",
+      "detail": "The oropharynx occupies the space between the soft palate and the hyoid bone."
+    },
+    {
+      "number": 6,
+      "question": "The hypopharynx extends from the hyoid bone to the:",
+      "choices": [
+        "Nasal cavity",
+        "Palate",
+        "Esophagus",
+        "Thoracic inlet",
+        "Thyroid gland"
+      ],
+      "answer": "C",
+      "detail": "The hypopharynx begins at the level of the hyoid bone and extends down to the esophagus."
+    },
+    {
+      "number": 7,
+      "question": "Which of the following is NOT a subsite of the hypopharynx?",
+      "choices": [
+        "Piriform sinuses",
+        "Posterior pharyngeal wall",
+        "Posterior cricoid region",
+        "Base of tongue",
+        "All are subsites"
+      ],
+      "answer": "D",
+      "detail": "The base of the tongue is considered a subsite of the oropharynx, not the hypopharynx."
+    },
+    {
+      "number": 8,
+      "question": "Mucosal squamous cell carcinoma (SCC) arises from the squamous lining of which three areas?",
+      "choices": [
+        "Pharynx, larynx, and sinonasal cavity",
+        "Parotid, submandibular, and sublingual glands",
+        "Masticator, carotid, and parapharyngeal spaces",
+        "Thyroid, parathyroid, and lymph nodes",
+        "Orbit, face, and scalp"
+      ],
+      "answer": "A",
+      "detail": "Mucosal SCC originates from the epithelial lining of the pharynx, larynx, and sinonasal cavity."
+    },
+    {
+      "number": 9,
+      "question": "In the TNM staging system for mucosal SCC, what is unique about lymph node ('N') measurements in the head and neck?",
+      "choices": [
+        "They are measured by volume.",
+        "They are reported using the longest diameter.",
+        "They are measured by the short axis.",
+        "Only the number of nodes matters.",
+        "Nodes are not measured if they are cystic."
+      ],
+      "answer": "B",
+      "detail": "Unlike some other body regions where short-axis measurements are used, head and neck nodal staging relies on the longest diameter of the nodes."
+    },
+    {
+      "number": 10,
+      "question": "Which folds of mucosa separate the hypopharynx from the supraglottic larynx?",
+      "choices": [
+        "False vocal folds",
+        "True vocal folds",
+        "Aryepiglottic folds",
+        "Epiglottic folds",
+        "Pyriform folds"
+      ],
+      "answer": "C",
+      "detail": "The aryepiglottic folds serve as the boundary separating the hypopharynx from the supraglottic portion of the larynx."
+    },
+    {
+      "number": 11,
+      "question": "Tumors arising from the aryepiglottic folds are staged as:",
+      "choices": [
+        "Oropharyngeal tumors",
+        "Hypopharyngeal tumors",
+        "Supraglottic laryngeal tumors",
+        "Glottic tumors",
+        "Subglottic tumors"
+      ],
+      "answer": "C",
+      "detail": "Because they are part of the laryngeal anatomy, tumors of the aryepiglottic folds are classified as supraglottic laryngeal cancers."
+    },
+    {
+      "number": 12,
+      "question": "The foundation of the laryngeal skeleton is provided by a complete ring of cartilage known as the:",
+      "choices": [
+        "Thyroid cartilage",
+        "Arytenoid cartilage",
+        "Cricoid cartilage",
+        "Epiglottic cartilage",
+        "Corniculate cartilage"
+      ],
+      "answer": "C",
+      "detail": "The cricoid cartilage is unique in the larynx because it is the only complete ring of cartilage, forming the base of the laryngeal skeleton."
+    },
+    {
+      "number": 13,
+      "question": "The false vocal folds can be identified on cross-sectional imaging by the presence of which adjacent structure?",
+      "choices": [
+        "Thyroid cartilage",
+        "Cricoid ring",
+        "Paraglottic fat",
+        "Air in the pyriform sinus",
+        "The hyoid bone"
+      ],
+      "answer": "C",
+      "detail": "The presence of paraglottic fat is a key radiographic landmark for identifying the level of the false vocal folds."
+    },
+    {
+      "number": 14,
+      "question": "Laryngeal chondrosarcomas characteristically demonstrate which type of calcification on CT?",
+      "choices": [
+        "Punctate",
+        "Eggshell",
+        "Popcorn-like",
+        "Amorphous",
+        "Linear"
+      ],
+      "answer": "C",
+      "detail": "Similar to chondroid tumors in other parts of the body, laryngeal chondrosarcomas often exhibit 'popcorn-like' matrix calcification."
+    },
+    {
+      "number": 15,
+      "question": "Lymphoma of the mucosal spaces most frequently arises from which location in a younger population?",
+      "choices": [
+        "Base of tongue",
+        "Piriform sinus",
+        "Adenoids of the nasopharynx",
+        "False vocal cords",
+        "Submandibular gland"
+      ],
+      "answer": "C",
+      "detail": "In younger patients, mucosal space lymphoma typically originates in the lymphoid tissue of the nasopharyngeal adenoids."
+    },
+    {
+      "number": 16,
+      "question": "Which of the following cartilages is the most common site for a laryngeal chondrosarcoma?",
+      "choices": [
+        "Epiglottis",
+        "Arytenoids",
+        "Cricoid or Thyroid cartilage",
+        "Cuneiform",
+        "Corniculate"
+      ],
+      "answer": "C",
+      "detail": "Laryngeal chondrosarcomas are most frequently found arising from the cricoid or thyroid cartilages."
+    },
+    {
+      "number": 17,
+      "question": "(True/False) The entire larynx, including the epiglottis and false vocal cords, is lined with mucosa.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "A",
+      "detail": "The source confirms that the entire larynx is lined with a mucosal layer."
+    },
+    {
+      "number": 18,
+      "question": "The aryepiglottic folds connect the epiglottis anteriorly to which structures posteriorly?",
+      "choices": [
+        "Thyroid cartilage",
+        "Cricoid cartilage",
+        "Arytenoids",
+        "Hyoid bone",
+        "False vocal cords"
+      ],
+      "answer": "C",
+      "detail": "The aryepiglottic folds travel from the epiglottis in the front to the arytenoid cartilages in the back."
+    },
+    {
+      "number": 19,
+      "question": "The oral cavity is bounded superiorly and inferiorly by which structures?",
+      "choices": [
+        "Palate and floor of mouth",
+        "Maxilla and Mandible",
+        "Nose and Throat",
+        "Tongue and Teeth"
+      ],
+      "answer": "A",
+      "detail": "The palate forms the superior boundary of the oral cavity, while the floor of the mouth forms the inferior boundary."
+    },
+    {
+      "number": 20,
+      "question": "A single metastatic lymph node in an adult with head and neck SCC decreases survival by what percentage?",
+      "choices": [
+        "10%",
+        "25%",
+        "50%",
+        "75%",
+        "90%"
+      ],
+      "answer": "C",
+      "detail": "The presence of even one metastatic lymph node is a significant prognostic factor, reducing survival by 50%."
+    }
+  ]
+}

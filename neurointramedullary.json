@@ -1,0 +1,524 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "By definition, where is an intramedullary lesion located?",
+      "choices": [
+        "External to the thecal sac.",
+        "Within the subarachnoid space but outside the cord.",
+        "Within the substance of the spinal cord, deep to the pia.",
+        "Between the dura and the arachnoid.",
+        "Primarily involving the vertebral body."
+      ],
+      "answer": "C",
+      "detail": "Intramedullary lesions are defined by their location within the spinal cord parenchyma, deep to the pial membrane."
+    },
+    {
+      "number": 2,
+      "question": "Which finding is a primary imaging discriminator between neoplastic and non-neoplastic intramedullary lesions?",
+      "choices": [
+        "Contrast enhancement.",
+        "Presence of T2 hyperintensity.",
+        "Expansion of the spinal cord.",
+        "Involvement of the cervical segment.",
+        "Presence of a syrinx."
+      ],
+      "answer": "C",
+      "detail": "Expansion of the spinal cord is a key imaging feature that suggests a neoplastic process rather than an inflammatory or ischemic one."
+    },
+    {
+      "number": 3,
+      "question": "Which two tumors comprise 90% of all intramedullary neoplasms?",
+      "choices": [
+        "Hemangioblastoma and Metastasis.",
+        "Astrocytoma and Ependymoma.",
+        "Lymphoma and Schwannoma.",
+        "Paraganglioma and Meningioma.",
+        "Myxopapillary ependymoma and Medulloblastoma."
+      ],
+      "answer": "B",
+      "detail": "Astrocytomas and ependymomas are the most common intramedullary tumors, accounting for the vast majority of cases."
+    },
+    {
+      "number": 4,
+      "question": "What is the most common intramedullary tumor in children?",
+      "choices": [
+        "Ependymoma.",
+        "Astrocytoma.",
+        "Hemangioblastoma.",
+        "Metastasis.",
+        "Ganglioglioma."
+      ],
+      "answer": "B",
+      "detail": "In the pediatric population, astrocytoma is the most frequently encountered intramedullary neoplasm."
+    },
+    {
+      "number": 5,
+      "question": "Spinal cord astrocytomas are most frequently associated with which inherited syndrome?",
+      "choices": [
+        "Neurofibromatosis Type 2 (NF2).",
+        "Neurofibromatosis Type 1 (NF1).",
+        "Von Hippel-Lindau (VHL).",
+        "Tuberous Sclerosis.",
+        "Cowden syndrome."
+      ],
+      "answer": "B",
+      "detail": "There is a strong clinical association between spinal cord astrocytomas and Neurofibromatosis Type 1."
+    },
+    {
+      "number": 6,
+      "question": "Which imaging feature is characteristically associated with spinal astrocytomas?",
+      "choices": [
+        "Well-defined margins.",
+        "Intense, homogeneous enhancement.",
+        "Ill-defined (infiltrative) margins.",
+        "Frequent \"hemosiderin cap\" sign.",
+        "Always located at the conus medullaris."
+      ],
+      "answer": "C",
+      "detail": "Astrocytomas typically exhibit ill-defined, infiltrative margins, making them difficult to surgically plane from normal cord tissue."
+    },
+    {
+      "number": 7,
+      "question": "What is the most common intramedullary tumor in adults?",
+      "choices": [
+        "Astrocytoma.",
+        "Ependymoma.",
+        "Hemangioblastoma.",
+        "Metastasis.",
+        "Lymphoma."
+      ],
+      "answer": "B",
+      "detail": "Ependymoma is the most common primary intramedullary tumor in the adult population."
+    },
+    {
+      "number": 8,
+      "question": "Spinal ependymomas are associated with which inherited syndrome?",
+      "choices": [
+        "NF1.",
+        "NF2.",
+        "VHL.",
+        "Li-Fraumeni syndrome.",
+        "Sturge-Weber syndrome."
+      ],
+      "answer": "B",
+      "detail": "Spinal ependymomas are characteristically associated with Neurofibromatosis Type 2."
+    },
+    {
+      "number": 9,
+      "question": "The \"hemosiderin cap sign\" (hypointense poles on T2-weighted images) is a classic finding for:",
+      "choices": [
+        "Astrocytoma.",
+        "Ependymoma.",
+        "Transverse myelitis.",
+        "Spinal cord infarction.",
+        "Multiple sclerosis."
+      ],
+      "answer": "B",
+      "detail": "The hemosiderin cap sign, caused by chronic hemorrhage at the poles of the tumor, is highly suggestive of an ependymoma."
+    },
+    {
+      "number": 10,
+      "question": "Intramedullary metastases are rare, but when they occur, which primary malignancy is the most common source?",
+      "choices": [
+        "Breast cancer.",
+        "Lung cancer.",
+        "Melanoma.",
+        "Renal cell carcinoma.",
+        "Prostate cancer."
+      ],
+      "answer": "B",
+      "detail": "Lung cancer is the most frequent primary source for intramedullary spinal cord metastases."
+    },
+    {
+      "number": 11,
+      "question": "The \"flame sign\" (ill-defined triangular enhancement projecting from the lesion margins) is an imaging sign of:",
+      "choices": [
+        "Acute MS lesion.",
+        "Intramedullary metastasis.",
+        "Spinal dAVF.",
+        "Hemangioblastoma.",
+        "Syringomyelia."
+      ],
+      "answer": "B",
+      "detail": "The flame sign refers to the characteristic appearance of edema or infiltrative enhancement seen with intramedullary metastases."
+    },
+    {
+      "number": 12,
+      "question": "In the context of non-neoplastic sagittal cord involvement, \"long segment\" disease is defined as involving at least how many vertebral segments?",
+      "choices": [
+        "1.",
+        "2.",
+        "3 or more.",
+        "The entire cervical spine.",
+        "5 or more."
+      ],
+      "answer": "C",
+      "detail": "Longitudinally extensive transverse myelitis (LETM) is defined as involvement of 3 or more vertebral segments."
+    },
+    {
+      "number": 13,
+      "question": "Which of the following is typically a \"short segment\" (one or two vertebral levels) intramedullary lesion?",
+      "choices": [
+        "Neuromyelitis Optica (NMO).",
+        "Transverse myelitis.",
+        "Multiple sclerosis (MS).",
+        "Cord infarction.",
+        "Spinal dAVF."
+      ],
+      "answer": "C",
+      "detail": "Multiple sclerosis typically presents as short-segment, peripherally located lesions in the spinal cord."
+    },
+    {
+      "number": 14,
+      "question": "Multiple sclerosis in the spinal cord is distinguished from a neoplasm by which primary feature?",
+      "choices": [
+        "Intense contrast enhancement.",
+        "Peripheral location in the cord cross-section.",
+        "Absence of cord expansion.",
+        "Presence of a syrinx.",
+        "Association with NF2."
+      ],
+      "answer": "C",
+      "detail": "The absence of cord expansion is a critical feature that helps distinguish MS plaques from intramedullary tumors."
+    },
+    {
+      "number": 15,
+      "question": "Acute disseminated encephalomyelitis (ADEM) is a monophasic demyelinating disorder that typically follows:",
+      "choices": [
+        "Chronic heavy metal exposure.",
+        "A viral infection or vaccination.",
+        "Spinal trauma.",
+        "Resection of a primary tumor.",
+        "High-dose chemotherapy."
+      ],
+      "answer": "B",
+      "detail": "ADEM is a post-infectious or post-vaccination monophasic inflammatory disorder."
+    },
+    {
+      "number": 16,
+      "question": "Neuromyelitis optica (NMO) characteristically presents as which type of sagittal cord involvement?",
+      "choices": [
+        "Short segment peripheral lesions.",
+        "Long segment central cord involvement.",
+        "Isolated conus medullaris hyperintensity.",
+        "Patchy subcortical white matter disease.",
+        "Flame-shaped enhancement."
+      ],
+      "answer": "B",
+      "detail": "NMO typically presents as a longitudinally extensive central cord lesion (LETM)."
+    },
+    {
+      "number": 17,
+      "question": "Acute flaccid myelitis, a polio-like illness in children, is implicated with outbreaks of which virus?",
+      "choices": [
+        "Herpes Simplex (HSV-1).",
+        "Cytomegalovirus (CMV).",
+        "Enterovirus D68.",
+        "JC virus.",
+        "HIV."
+      ],
+      "answer": "C",
+      "detail": "Enterovirus D68 has been closely linked to seasonal outbreaks of acute flaccid myelitis in children."
+    },
+    {
+      "number": 18,
+      "question": "MRI of acute flaccid myelitis typically shows T2 prolongation within the:",
+      "choices": [
+        "Dorsal columns.",
+        "Spinal cord gray matter.",
+        "Subcortical U-fibers.",
+        "Nerve roots only.",
+        "Epidural space."
+      ],
+      "answer": "B",
+      "detail": "Acute flaccid myelitis characteristically targets the gray matter (anterior horns) of the spinal cord."
+    },
+    {
+      "number": 19,
+      "question": "Tabes dorsalis, a form of tertiary neurosyphilis, is characterized by demyelination of the:",
+      "choices": [
+        "Ventral horns.",
+        "Lateral columns.",
+        "Dorsal columns.",
+        "Central canal.",
+        "Filum terminale."
+      ],
+      "answer": "C",
+      "detail": "Tabes dorsalis specifically involves the degeneration of the dorsal columns of the spinal cord."
+    },
+    {
+      "number": 20,
+      "question": "Intramedullary neurosarcoidosis is often associated with which extra-axial finding?",
+      "choices": [
+        "Dural tail.",
+        "Diffuse or nodular leptomeningeal enhancement.",
+        "Vertebral body destruction.",
+        "Epidural hematoma.",
+        "Flow voids in the subarachnoid space."
+      ],
+      "answer": "B",
+      "detail": "Spinal neurosarcoidosis frequently presents with associated leptomeningeal enhancement."
+    },
+    {
+      "number": 21,
+      "question": "What is the most common spinal vascular malformation?",
+      "choices": [
+        "Intramedullary glomus AVM.",
+        "Dural arteriovenous fistula (dAVF).",
+        "Juvenile metameric AVM.",
+        "Cavernous malformation.",
+        "Capillary telangiectasia."
+      ],
+      "answer": "B",
+      "detail": "Spinal dAVF is the most frequent vascular anomaly of the spine, typically presenting in older males."
+    },
+    {
+      "number": 22,
+      "question": "Foix-Alajouanine myelopathy is the clinical eponym for congestive myelopathy caused by:",
+      "choices": [
+        "Spinal cord infarction.",
+        "Spinal dAVF.",
+        "Transverse myelitis.",
+        "Multiple sclerosis.",
+        "Radiation necrosis."
+      ],
+      "answer": "B",
+      "detail": "This eponym describes the progressive myelopathy resulting from venous congestion due to a spinal dAVF."
+    },
+    {
+      "number": 23,
+      "question": "The hallmark MRI finding of a spinal dAVF is:",
+      "choices": [
+        "A single large enhancing mass.",
+        "A short segment of restricted diffusion.",
+        "A long segment of cord edema with surrounding serpentine flow voids.",
+        "Dense calcification of the central canal.",
+        "Expansion of the vertebral body."
+      ],
+      "answer": "C",
+      "detail": "The classic MRI appearance of a dAVF includes extensive cord edema and dilated, serpentine perimedullary veins (flow voids)."
+    },
+    {
+      "number": 24,
+      "question": "Subacute combined degeneration (SCD) is caused by a deficiency of which vitamin?",
+      "choices": [
+        "B1 (Thiamine).",
+        "B6 (Pyridoxine).",
+        "B12 (Cobalamin).",
+        "Vitamin D.",
+        "Vitamin E."
+      ],
+      "answer": "C",
+      "detail": "SCD is the result of Vitamin B12 deficiency, leading to vacuolar myelopathy."
+    },
+    {
+      "number": 25,
+      "question": "Which imaging pattern in the axial plane is characteristic of SCD?",
+      "choices": [
+        "Central \"H-shaped\" hyperintensity.",
+        "Inverted V-shaped hyperintensity in the dorsal columns.",
+        "Peripheral rim enhancement.",
+        "Scattered \"salt and pepper\" spots.",
+        "Dense cord calcification."
+      ],
+      "answer": "B",
+      "detail": "SCD characteristically presents with symmetric hyperintensity in the dorsal columns, creating an 'inverted V' appearance."
+    },
+    {
+      "number": 26,
+      "question": "Besides B12 deficiency, which of the following can cause the \"inverted V\" sign of dorsal column hyperintensity?",
+      "choices": [
+        "Tabes dorsalis.",
+        "Copper deficiency.",
+        "Nitrous oxide toxicity.",
+        "All of the above.",
+        "None of the above."
+      ],
+      "answer": "D",
+      "detail": "The 'inverted V' sign is seen in B12 deficiency, copper deficiency, nitrous oxide toxicity, and syphilis."
+    },
+    {
+      "number": 27,
+      "question": "Radiation myelopathy is characterized by longitudinally extensive cord hyperintensity that is often demarcated by:",
+      "choices": [
+        "Flow voids.",
+        "T1 hyperintensity of the adjacent vertebrae (fatty marrow).",
+        "A hemosiderin cap.",
+        "Epidural lipomatosis.",
+        "A dural tail."
+      ],
+      "answer": "B",
+      "detail": "Radiation-induced changes are typically confined to the radiation field, demarcated by the fatty conversion of adjacent vertebral marrow."
+    },
+    {
+      "number": 28,
+      "question": "How is \"hydromyelia\" specifically defined?",
+      "choices": [
+        "A fluid-filled cavity within the parenchyma not communicating with the central canal.",
+        "Dilatation of the ependymal cell-lined central canal (>2 mm).",
+        "Inflammation of the pia mater.",
+        "Hemorrhage within the spinal cord.",
+        "CSF leak into the epidural space."
+      ],
+      "answer": "B",
+      "detail": "Hydromyelia refers specifically to the dilation of the central canal itself."
+    },
+    {
+      "number": 29,
+      "question": "What is the most common cause of acquired compressive myelopathy?",
+      "choices": [
+        "Intramedullary tumors.",
+        "Degenerative disease (spondylosis).",
+        "Spinal dAVF.",
+        "Trauma.",
+        "Arachnoiditis."
+      ],
+      "answer": "B",
+      "detail": "Spondylotic change (degenerative disease) is the most frequent cause of spinal cord compression in adults."
+    },
+    {
+      "number": 30,
+      "question": "Which traumatic spinal cord injury pattern has the poorest prognosis?",
+      "choices": [
+        "Cord concussion.",
+        "Cord edema.",
+        "Hemorrhagic contusion.",
+        "Cord hematoma (>4 mm).",
+        "Normal MRI appearance."
+      ],
+      "answer": "D",
+      "detail": "Large intramedullary hematomas (>4 mm) are associated with the worst neurological outcomes in trauma."
+    },
+    {
+      "number": 31,
+      "question": "Spinal cord edema on MRI is characterized by abnormal T2 prolongation with which associated T1 signal?",
+      "choices": [
+        "Hyperintense.",
+        "Normal or low.",
+        "Dense blooming.",
+        "Enhancing.",
+        "Fat-suppressed."
+      ],
+      "answer": "B",
+      "detail": "Cord edema is hyperintense on T2 and typically normal to hypointense on T1-weighted images."
+    },
+    {
+      "number": 32,
+      "question": "The ventriculus terminalis, or \"fifth ventricle,\" is a normal variant located at the:",
+      "choices": [
+        "Cervical-thoracic junction.",
+        "Conus medullaris.",
+        "Filum terminale.",
+        "Foramen magnum.",
+        "Mid-thoracic cord."
+      ],
+      "answer": "B",
+      "detail": "Ventriculus terminalis is a small, ependymal-lined cavity located at the conus medullaris."
+    },
+    {
+      "number": 33,
+      "question": "How is a \"filar cyst\" in a neonate distinguished from persistent ventriculus terminalis?",
+      "choices": [
+        "It connects with the central canal.",
+        "It is superior to the conus.",
+        "It is a normal variant inferior to the conus that does not connect with the central canal.",
+        "It is always hyperintense on T1.",
+        "It shows restricted diffusion."
+      ],
+      "answer": "C",
+      "detail": "Filar cysts are found inferior to the conus medullaris and do not communicate with the central canal."
+    },
+    {
+      "number": 34,
+      "question": "In the context of cord infarction, which artery occlusion causes ventral cord ischemia?",
+      "choices": [
+        "Dorsal spinal artery.",
+        "Anterior spinal artery.",
+        "Radiculomeningeal artery.",
+        "Vertebral artery.",
+        "Internal carotid artery."
+      ],
+      "answer": "B",
+      "detail": "The anterior spinal artery supplies the anterior two-thirds of the cord; its occlusion leads to ventral cord syndrome."
+    },
+    {
+      "number": 35,
+      "question": "A \"syrinx\" is a collective term for cystic lesions including syringomyelia and hydromyelia. Syringomyelia specifically refers to a cavity that:",
+      "choices": [
+        "Communicates with the central canal.",
+        "Does not communicate with the central canal.",
+        "Is located in the epidural space.",
+        "Is lined by bone.",
+        "Enhances avidly."
+      ],
+      "answer": "B",
+      "detail": "Syringomyelia refers to a cystic cavity within the cord parenchyma that does not communicate with the central canal."
+    },
+    {
+      "number": 36,
+      "question": "Which congenital condition is the most common cause of a syrinx?",
+      "choices": [
+        "Klippel-Feil syndrome.",
+        "Chiari malformations (especially Chiari I).",
+        "Tethered cord syndrome.",
+        "Dandy-Walker malformation.",
+        "Achondroplasia."
+      ],
+      "answer": "B",
+      "detail": "Chiari I malformation is the most frequent cause of syrinx formation due to altered CSF dynamics."
+    },
+    {
+      "number": 37,
+      "question": "(Anatomy) The central canal of the spinal cord is lined by which type of cells?",
+      "choices": [
+        "Astrocytes.",
+        "Oligodendrocytes.",
+        "Ependymal cells.",
+        "Schwann cells.",
+        "Arachnoid cap cells."
+      ],
+      "answer": "C",
+      "detail": "The central canal is an ependymal-lined structure."
+    },
+    {
+      "number": 38,
+      "question": "(Prognosis) Which metabolite is characteristically elevated in Canavan disease?",
+      "choices": [
+        "Choline.",
+        "NAA.",
+        "Lactate.",
+        "Lipid.",
+        "Myo-inositol."
+      ],
+      "answer": "B",
+      "detail": "Canavan disease is unique among metabolic disorders for showing markedly elevated NAA on spectroscopy."
+    },
+    {
+      "number": 39,
+      "question": "Long segment T2 hyperintensity in the cervical cord of an elderly male with progressive gait difficulty and \"serpentine\" flow voids is most likely:",
+      "choices": [
+        "Multiple Sclerosis.",
+        "Spinal dAVF.",
+        "Astrocytoma.",
+        "B12 deficiency.",
+        "Transverse Myelitis."
+      ],
+      "answer": "B",
+      "detail": "The combination of long-segment edema and serpentine flow voids is diagnostic of a spinal dAVF."
+    },
+    {
+      "number": 40,
+      "question": "(Clinical) Which antecedent infection is the most common trigger for Guillain-Barré Syndrome?",
+      "choices": [
+        "Herpes Simplex.",
+        "Campylobacter jejuni.",
+        "Enterovirus D68.",
+        "Borrelia burgdorferi.",
+        "Toxoplasma gondii."
+      ],
+      "answer": "B",
+      "detail": "Campylobacter jejuni infection is the most frequently identified trigger for GBS."
+    }
+  ]
+}

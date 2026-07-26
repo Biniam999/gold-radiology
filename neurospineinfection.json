@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "number": 46,
+      "question": "Which patient populations are at an increased risk of spine infection?",
+      "choices": [
+        "Patients with diabetes",
+        "IV drug abusers",
+        "Patients with prior spinal surgery",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": "D",
+      "detail": "Populations at higher risk include those with diabetes, intravenous drug users, and individuals who have undergone previous spinal surgical procedures."
+    },
+    {
+      "number": 47,
+      "question": "Adult hematogenous spine infection typically starts in which location?",
+      "choices": [
+        "The center of the nucleus pulposus",
+        "The spinal cord gray matter",
+        "The vertebral body endplate",
+        "The ligamentum flavum",
+        "The epidural fat"
+      ],
+      "answer": "C",
+      "detail": "In adults, hematogenous spread of infection usually originates at the vertebral body endplate."
+    },
+    {
+      "number": 48,
+      "question": "Why does adult discitis/osteomyelitis typically involve two adjacent vertebrae and the intervening disc?",
+      "choices": [
+        "The disc has its own separate blood supply",
+        "A single segmental artery supplies two adjacent segmental endplates",
+        "The infection is always traumatic",
+        "Bacteria preferentially eat hyaline cartilage",
+        "The anterior longitudinal ligament carries the infection"
+      ],
+      "answer": "B",
+      "detail": "This involvement occurs because a single segmental artery provides the blood supply to two adjacent segmental endplates."
+    },
+    {
+      "number": 49,
+      "question": "What is the optimal imaging modality for suspected discitis/osteomyelitis?",
+      "choices": [
+        "Noncontrast CT",
+        "Radiography",
+        "MRI",
+        "Nuclear medicine bone scan",
+        "Ultrasound"
+      ],
+      "answer": "C",
+      "detail": "MRI is considered the optimal imaging modality for diagnosing suspected discitis/osteomyelitis."
+    },
+    {
+      "number": 50,
+      "question": "What is the most sensitive MR imaging sign for detecting a spinal infection?",
+      "choices": [
+        "Loss of disc height",
+        "Vertebral body fracture",
+        "Paraspinal or epidural inflammatory change",
+        "Intradiscal gas",
+        "Thickening of the dura"
+      ],
+      "answer": "C",
+      "detail": "The most sensitive indicator of spinal infection on MRI is the presence of paraspinal or epidural inflammatory changes."
+    },
+    {
+      "number": 51,
+      "question": "Which of the following is a characteristic MRI finding of discitis/osteomyelitis?",
+      "choices": [
+        "Erosion or destruction of vertebral endplates",
+        "Disc enhancement",
+        "Fluid signal within the disc space",
+        "Edema evident across the disc space",
+        "All of the above"
+      ],
+      "answer": "E",
+      "detail": "Key MRI features include endplate destruction, disc enhancement, fluid signal in the disc space, and edema spanning the disc."
+    },
+    {
+      "number": 52,
+      "question": "In the epidural space, an infection that is 'centrally necrotic' is defined as an:",
+      "choices": [
+        "Phlegmon",
+        "Abscess",
+        "Osteophyte",
+        "Myelitis",
+        "Hematoma"
+      ],
+      "answer": "B",
+      "detail": "A centrally necrotic infection within the epidural space is classified as an abscess."
+    },
+    {
+      "number": 53,
+      "question": "Why is 'fat suppression' an extremely helpful technique for detecting early epidural infection?",
+      "choices": [
+        "It makes bone look brighter",
+        "It suppresses the normal hyperintense signal of epidural fat on T1, making enhancement more conspicuous",
+        "It allows for the measurement of the disc-space height",
+        "It distinguishes between pus and blood",
+        "It is only helpful in children"
+      ],
+      "answer": "B",
+      "detail": "Fat suppression is useful because it removes the bright T1 signal of normal epidural fat, making abnormal contrast enhancement easier to see."
+    },
+    {
+      "number": 54,
+      "question": "Tuberculous osteomyelitis of the spine is also known as:",
+      "choices": [
+        "Binswanger disease",
+        "Pott disease",
+        "Devic disease",
+        "Fahr disease",
+        "Paget disease"
+      ],
+      "answer": "B",
+      "detail": "Pott disease is the eponym for tuberculous osteomyelitis involving the spine."
+    },
+    {
+      "number": 55,
+      "question": "How does Pott disease typically differ from pyogenic discitis regarding the intervertebral discs?",
+      "choices": [
+        "The discs are the first structures destroyed",
+        "The discs are usually spared because M. tuberculosis lacks proteolytic enzymes",
+        "The discs show 'popcorn' calcification",
+        "The discs become hypervascular",
+        "There is no difference; they appear identical"
+      ],
+      "answer": "B",
+      "detail": "In Pott disease, intervertebral discs are typically spared because Mycobacterium tuberculosis does not possess proteolytic enzymes."
+    },
+    {
+      "number": 56,
+      "question": "A 'gibbus deformity' is a classic complication of Pott disease and is defined as:",
+      "choices": [
+        "A lateral curvature of the spine",
+        "An acutely angled kyphosis due to wedge-shaped anterior vertebral compression",
+        "A complete dissolution of the posterior elements",
+        "An overgrowth of epidural fat",
+        "A widening of the spinal canal"
+      ],
+      "answer": "B",
+      "detail": "A gibbus deformity is an acutely angled kyphosis resulting from wedge-shaped compression of the anterior vertebral body."
+    },
+    {
+      "number": 57,
+      "question": "Approximately what percentage of patients with Pott disease also have active pulmonary tuberculosis?",
+      "choices": [
+        "1%",
+        "10%",
+        "50%",
+        "90%",
+        "100%"
+      ],
+      "answer": "B",
+      "detail": "Only about 10% of patients diagnosed with Pott disease present with concurrent active pulmonary tuberculosis."
+    },
+    {
+      "number": 58,
+      "question": "Facet septic arthritis should be suspected when the degree of periarticular inflammatory change is:",
+      "choices": [
+        "Exactly equal to the degree of disc degeneration",
+        "Associated with Modic Type 2 changes",
+        "Out of proportion to a relatively milder degree of joint degeneration",
+        "Only seen in the cervical spine",
+        "Always bilateral and symmetric"
+      ],
+      "answer": "C",
+      "detail": "The diagnosis is suspected when inflammatory changes are significantly greater than what would be expected for the degree of joint degeneration present."
+    },
+    {
+      "number": 59,
+      "question": "On CT, the earliest sign of discitis/osteomyelitis is typically:",
+      "choices": [
+        "Dense sclerosis of the vertebral body",
+        "Osseous erosion or destruction of the endplates",
+        "Hypertrophy of the ligamentum flavum",
+        "Formation of a syndesmophyte",
+        "Vacuum phenomenon (gas) within the disc"
+      ],
+      "answer": "B",
+      "detail": "The initial sign seen on CT scans for these infections is usually the erosion or destruction of the bone at the vertebral endplates."
+    },
+    {
+      "number": 60,
+      "question": "Infection originating in the psoas muscle that spreads to the disc space is an example of spread between which two compartments?",
+      "choices": [
+        "Epidural and Intramedullary",
+        "Retroperitoneum/Psoas and Disc/Vertebral body",
+        "Facet joint and Subarachnoid space",
+        "Intradural and Extradural",
+        "Cervical and Thoracic"
+      ],
+      "answer": "B",
+      "detail": "This represents the spread of infection between the retroperitoneum/psoas compartment and the disc/vertebral body compartment."
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "A cerebral pyogenic abscess typically takes how long to fully develop through its four clinical stages?",
+      "choices": [
+        "24–48 hours",
+        "1 week",
+        "2 weeks",
+        "1 month",
+        "6 months"
+      ],
+      "answer": "C",
+      "detail": "A pyogenic abscess takes approximately two weeks to fully organize and sequester through stages of early and late cerebritis followed by early and late abscess formation."
+    },
+    {
+      "number": 2,
+      "question": "What is the characteristic T2-weighted MRI appearance of the rim of a mature pyogenic abscess?",
+      "choices": [
+        "Thick and irregular hyperintense rim",
+        "Thin, smooth, hypointense rim",
+        "Incomplete C-shaped enhancement",
+        "Internal fat signal",
+        "Diffuse T2 hyperintensity without a rim"
+      ],
+      "answer": "B",
+      "detail": "The wall of a mature abscess is classically thin, smooth, and hypointense on T2W images."
+    },
+    {
+      "number": 3,
+      "question": "Which MRI finding is most diagnostic for distinguishing a pyogenic abscess from a necrotic tumor?",
+      "choices": [
+        "Surrounding vasogenic edema",
+        "Uniform ring enhancement",
+        "Intense central restricted diffusion (bright DWI, dark ADC)",
+        "Absence of mass effect",
+        "Presence of a dural tail"
+      ],
+      "answer": "C",
+      "detail": "The high viscosity of central necrosis in a pyogenic abscess causes restricted diffusion, which helps distinguish it from most necrotic tumors."
+    },
+    {
+      "number": 4,
+      "question": "How does a tuberculoma typically differ from a pyogenic abscess on T2-weighted imaging?",
+      "choices": [
+        "Tuberculomas are always cystic.",
+        "Tuberculomas tend to have central T2 hypointensity.",
+        "Pyogenic abscesses are centrally hypointense on T2.",
+        "Tuberculomas never show restricted diffusion.",
+        "Tuberculomas are only found in the cerebellum."
+      ],
+      "answer": "B",
+      "detail": "A solid tuberculoma typically demonstrates central hypointensity on T2-weighted imaging, whereas pyogenic abscesses typically have a hyperintense center."
+    },
+    {
+      "number": 5,
+      "question": "Lyme disease in the CNS most commonly presents with T2 hyperintensities in which region?",
+      "choices": [
+        "Medial temporal lobes",
+        "Basal ganglia",
+        "Frontal subcortical white matter",
+        "Cerebellar folia",
+        "Splenium of the corpus callosum"
+      ],
+      "answer": "C",
+      "detail": "CNS Lyme disease typically presents with nonspecific T2 prolongation in the frontal subcortical white matter."
+    },
+    {
+      "number": 6,
+      "question": "Herpes encephalitis (HSV-1) characteristically affects which brain region first?",
+      "choices": [
+        "Occipital lobes",
+        "Parietal subcortical U-fibers",
+        "Medial temporal lobes and cingulate gyrus",
+        "Bilateral thalami",
+        "Brainstem and medulla"
+      ],
+      "answer": "C",
+      "detail": "HSV-1 reactivation typically begins in the limbic system, affecting the medial temporal lobes, insular cortex, and cingulate gyrus."
+    },
+    {
+      "number": 7,
+      "question": "Which clinical triad should immediately raise suspicion for herpes encephalitis on imaging?",
+      "choices": [
+        "Ataxia, incontinence, and dementia",
+        "Fever, medial temporal lobe signal abnormality, and acute altered mental status",
+        "Headache, papilledema, and vomiting",
+        "Seizures, basal ganglia calcification, and port-wine stain",
+        "Aphasia, hemiparesis, and visual field defects"
+      ],
+      "answer": "B",
+      "detail": "The combination of fever, altered mental status, and medial temporal lobe abnormalities is a critical clinical-radiologic correlation for HSV-1."
+    },
+    {
+      "number": 8,
+      "question": "In an AIDS patient, how can HIV encephalitis be distinguished from Progressive Multifocal Leukoencephalopathy (PML) on MRI?",
+      "choices": [
+        "HIV encephalitis involves subcortical U-fibers; PML spares them.",
+        "HIV encephalitis is asymmetric; PML is symmetric.",
+        "HIV encephalitis is typically symmetric, spares subcortical U-fibers, and is associated with atrophy.",
+        "PML always shows thick ring enhancement.",
+        "Only HIV encephalitis shows restricted diffusion."
+      ],
+      "answer": "C",
+      "detail": "HIV encephalitis is generally symmetric and spares the subcortical U-fibers, while PML is asymmetric and characteristically involves those fibers."
+    },
+    {
+      "number": 9,
+      "question": "Cytomegalovirus (CMV) encephalitis in an immunocompromised patient most characteristically presents as:",
+      "choices": [
+        "Lobar hemorrhage",
+        "Focal cortical contusions",
+        "Ventriculitis with subependymal enhancement",
+        "Solitary mass in the basal ganglia",
+        "Cortical ribboning of the motor cortex"
+      ],
+      "answer": "C",
+      "detail": "The hallmark imaging feature of CNS CMV is ventriculitis, often presenting as subependymal enhancement throughout the ventricular system."
+    },
+    {
+      "number": 10,
+      "question": "Which imaging feature helps distinguish a fungal abscess from a bacterial abscess?",
+      "choices": [
+        "A perfectly smooth, thin rim",
+        "Intense central restricted diffusion",
+        "Crenated/lobulated borders and nonenhancing intracavitary projections",
+        "Absence of any enhancement",
+        "Location restricted to the thalami"
+      ],
+      "answer": "C",
+      "detail": "Fungal abscesses typically feature nonenhancing intracavitary projections (representing hyphae) and crenated borders, whereas pyogenic bacterial abscesses have smooth rims."
+    },
+    {
+      "number": 11,
+      "question": "Fungal mycotic aneurysms typically differ from bacterial mycotic aneurysms by being:",
+      "choices": [
+        "Saccular and distal",
+        "Fusiform and arising from proximal vasculature",
+        "Isolated to the cortical veins",
+        "Always calcified",
+        "Associated with an \"empty delta\" sign"
+      ],
+      "answer": "B",
+      "detail": "Bacterial mycotic aneurysms are usually saccular and distal, whereas fungal versions are often fusiform and involve more proximal vessel segments."
+    },
+    {
+      "number": 12,
+      "question": "Which fungal organism is the most common cause of CNS fungal infection in AIDS patients?",
+      "choices": [
+        "Aspergillus",
+        "Candida",
+        "Cryptococcus neoformans",
+        "Mucormycosis",
+        "Histoplasma"
+      ],
+      "answer": "C",
+      "detail": "Cryptococcosis is the most frequent CNS fungal infection in AIDS patients."
+    },
+    {
+      "number": 13,
+      "question": "\"Gelatinous pseudocysts\" found along the basal ganglia perivascular spaces are a characteristic imaging finding of:",
+      "choices": [
+        "Toxoplasmosis",
+        "Neurocysticercosis",
+        "Cryptococcosis",
+        "Aspergillosis",
+        "HIV encephalitis"
+      ],
+      "answer": "C",
+      "detail": "Cryptococcus typically spreads along perivascular spaces, creating characteristic water-signal gelatinous pseudocysts."
+    },
+    {
+      "number": 14,
+      "question": "Rhinocerebral mucormycosis is a highly aggressive infection with a propensity for angioinvasion that typically occurs in which patient population?",
+      "choices": [
+        "Immunocompetent children",
+        "Elderly patients with hypertension",
+        "Patients with poorly controlled diabetes mellitus",
+        "Young athletic males",
+        "Patients with chronic lung disease"
+      ],
+      "answer": "C",
+      "detail": "Mucormycosis is highly aggressive and commonly affects patients with poorly controlled diabetes or those undergoing stem-cell transplants."
+    },
+    {
+      "number": 15,
+      "question": "What is the most common parasitic CNS infection in immunocompetent patients?",
+      "choices": [
+        "Toxoplasmosis",
+        "Malaria",
+        "Neurocysticercosis",
+        "Schistosomiasis",
+        "Amoebic encephalitis"
+      ],
+      "answer": "C",
+      "detail": "Neurocysticercosis, caused by the Taenia solium tapeworm, is the leading CNS parasitic infection in immunocompetent hosts."
+    },
+    {
+      "number": 16,
+      "question": "Which stage of neurocysticercosis is characterized by a \"viable\" CSF-intensity cyst, often containing an eccentric \"dot\" representing the scolex?",
+      "choices": [
+        "Colloidal stage",
+        "Nodular/granular stage",
+        "Calcified stage",
+        "Vesicular stage",
+        "Racemose stage"
+      ],
+      "answer": "D",
+      "detail": "The vesicular stage involves viable clear cysts where the scolex is often visible as an internal nodule."
+    },
+    {
+      "number": 17,
+      "question": "In the colloidal stage of neurocysticercosis, the lesions typically demonstrate:",
+      "choices": [
+        "No enhancement",
+        "Peripheral calcification only",
+        "Ring enhancement with increased diffusivity",
+        "Thick, irregular borders with restricted diffusion",
+        "Intense T2 hypointensity"
+      ],
+      "answer": "C",
+      "detail": "Colloidal stage lesions show ring enhancement and increased diffusivity, distinguishing them from pyogenic abscesses which have restricted diffusion."
+    },
+    {
+      "number": 18,
+      "question": "Toxoplasmosis is the most common mass lesion in AIDS patients and characteristically involves which brain structure?",
+      "choices": [
+        "Corpus callosum",
+        "Basal ganglia",
+        "Medulla",
+        "Cerebellar folia",
+        "Optic chiasm"
+      ],
+      "answer": "B",
+      "detail": "Toxoplasmosis characteristically presents as ring-enhancing lesions within the basal ganglia in AIDS patients."
+    },
+    {
+      "number": 19,
+      "question": "The \"asymmetric target sign\" is a relatively specific imaging feature for:",
+      "choices": [
+        "CNS Lymphoma",
+        "Progressive Multifocal Leukoencephalopathy",
+        "Toxoplasmosis",
+        "Glioblastoma",
+        "Neurocysticercosis"
+      ],
+      "answer": "C",
+      "detail": "The asymmetric target sign refers to an eccentric nodule of enhancement along the internal wall of a toxoplasmosis lesion."
+    },
+    {
+      "number": 20,
+      "question": "Which of the following parameters helps differentiate CNS lymphoma from toxoplasmosis on MRI?",
+      "choices": [
+        "Lymphoma has increased diffusivity; Toxoplasmosis has reduced diffusivity.",
+        "Lymphoma is hypometabolic on PET; Toxoplasmosis is hypermetabolic.",
+        "Lymphoma typically has reduced diffusivity (hypercellularity); Toxoplasmosis has increased diffusivity.",
+        "Both always show thick ring enhancement.",
+        "Perfusion shows elevated blood volume in toxoplasmosis."
+      ],
+      "answer": "C",
+      "detail": "Hypercellular tumors like lymphoma typically demonstrate restricted diffusion (low ADC), whereas toxoplasmosis typically shows facilitated diffusion (high ADC)."
+    },
+    {
+      "number": 21,
+      "question": "Creutzfeldt-Jakob disease (CJD) is a neurodegenerative disorder caused by a prion and characteristically demonstrates which MRI finding?",
+      "choices": [
+        "Thick pachymeningeal enhancement",
+        "Cortical ribboning (ribbon-like FLAIR hyperintensity/restricted diffusion)",
+        "Large cystic lesions in the thalami",
+        "Intraparenchymal fat signal",
+        "Serpentine flow voids"
+      ],
+      "answer": "B",
+      "detail": "CJD characteristically presents with cortical ribboning on FLAIR and DWI sequences."
+    },
+    {
+      "number": 22,
+      "question": "In CJD, the \"hockey stick sign\" refers to bright DWI and FLAIR signal within the:",
+      "choices": [
+        "Pulvinar nucleus of the thalamus",
+        "Dorsomedial thalamus",
+        "Putamen and globus pallidus",
+        "Hippocampus",
+        "Midbrain tegmentum"
+      ],
+      "answer": "B",
+      "detail": "The \"hockey stick sign\" refers to the pattern of hyperintensity in the dorsomedial thalami."
+    },
+    {
+      "number": 23,
+      "question": "\"Pott’s puffy tumor\" is a complication of acute frontal sinusitis that involves:",
+      "choices": [
+        "Frontal lobe brain abscess",
+        "Frontal bone osteomyelitis and subgaleal/subperiosteal abscess",
+        "Orbital cellulitis",
+        "Thrombosis of the superior sagittal sinus",
+        "Leptomeningeal metastases"
+      ],
+      "answer": "B",
+      "detail": "Pott’s puffy tumor is an infectious complication involving frontal bone osteomyelitis and subgaleal abscess formation."
+    },
+    {
+      "number": 24,
+      "question": "The most common site of septic dural venous sinus thrombosis is the:",
+      "choices": [
+        "Superior sagittal sinus",
+        "Straight sinus",
+        "Cavernous sinus",
+        "Transverse sinus",
+        "Sigmoid sinus"
+      ],
+      "answer": "C",
+      "detail": "Due to drainage patterns from the face and sinuses, the cavernous sinus is the most common site for septic thrombosis."
+    },
+    {
+      "number": 25,
+      "question": "Lemierre syndrome is a life-threatening condition characterized by:",
+      "choices": [
+        "Frontal lobe hemorrhage",
+        "Septic thrombophlebitis of the tonsillar veins and internal jugular vein",
+        "Ring-enhancing lesions in the spinal cord",
+        "Demyelination of the dorsal columns",
+        "Chronic basilar meningitis"
+      ],
+      "answer": "B",
+      "detail": "Lemierre syndrome follows oropharyngeal infection and is defined by septic thrombophlebitis of the tonsillar and internal jugular veins."
+    }
+  ]
+}

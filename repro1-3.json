@@ -1,0 +1,1305 @@
+{
+    "questions": 
+    [
+    {
+      "number": 1,
+      "question": "In a neonate, the shape of the uterus is typically characterized by:",
+      "choices": [
+        "The fundus being much larger than the cervix.",
+        "The cervix being larger than or equal to the fundus",
+        "A pear-like appearance.",
+        "Absence of a visible endometrium.",
+        "A tube-like shape with equal segments."
+      ],
+      "answer": "B",
+      "detail": "Due to residual maternal and placental hormones, the neonatal cervix is often larger than the fundus."
+    },
+    {
+      "number": 2,
+      "question": "At what age does the female uterus typically transition into a 'tube-like' shape where the cervix and uterus are approximately the same size?",
+      "choices": [
+        "Neonatal period",
+        "Prepuberty",
+        "Puberty",
+        "Menopause",
+        "Pregnancy"
+      ],
+      "answer": "B",
+      "detail": "During prepuberty, the uterus becomes tube-like with equal segments."
+    },
+    {
+      "number": 3,
+      "question": "The adult 'pear-like' uterine configuration, where the fundus is larger than the cervix, is established during:",
+      "choices": [
+        "Infancy",
+        "Puberty",
+        "The first trimester of pregnancy",
+        "Menopause",
+        "Prepuberty"
+      ],
+      "answer": "B",
+      "detail": "Puberty establishes the adult pear-shaped configuration with a dominant fundus."
+    },
+    {
+      "number": 4,
+      "question": "What is the normal volume for neonatal ovaries before they decrease in size until around age 6?",
+      "choices": [
+        "0.1 cc",
+        "0.5 cc",
+        "1 cc",
+        "5 cc",
+        "10 cc"
+      ],
+      "answer": "C",
+      "detail": "Infant ovaries are relatively large, with a volume around 1 cc."
+    },
+    {
+      "number": 5,
+      "question": "Turner Syndrome (XO) is characteristically associated with which uterine and ovarian findings?",
+      "choices": [
+        "Pear-shaped uterus and large cysts.",
+        "Pre-puberty uterus and streaky ovaries",
+        "Bicornuate uterus and dermoids.",
+        "Didelphys uterus and polycystic ovaries.",
+        "T-shaped uterus and endometrial polyps."
+      ],
+      "answer": "B",
+      "detail": "Turner Syndrome features a prepubertal uterus and small, 'streaky' ovaries."
+    },
+    {
+      "number": 6,
+      "question": "Which embryological structure is responsible for the formation of the uterus and the upper 2/3 of the vagina?",
+      "choices": [
+        "Wolffian Ducts",
+        "Mullerian Ducts",
+        "Urogenital Sinus",
+        "Allantois",
+        "Mesonephric Duct"
+      ],
+      "answer": "B",
+      "detail": "The Mullerian ducts form the uterus, fallopian tubes, and the upper 2/3 of the vagina."
+    },
+    {
+      "number": 7,
+      "question": "The prostate in males and the lower 1/3 of the vagina in females are derived from the:",
+      "choices": [
+        "Mullerian Ducts",
+        "Wolffian Ducts",
+        "Urogenital Sinus",
+        "Ectoderm",
+        "Neural Crest"
+      ],
+      "answer": "C",
+      "detail": "The urogenital sinus gives rise to the prostate and the distal 1/3 of the vagina."
+    },
+    {
+      "number": 8,
+      "question": "Wolffian ducts are the 'boy parts' and should normally regress in females; they form which structures in males?",
+      "choices": [
+        "Vas Deferens, Seminal Vesicles, and Epididymis",
+        "Prostate and Penis",
+        "Testicles and Scrotum",
+        "Bladder and Urethra",
+        "Kidneys and Adrenals"
+      ],
+      "answer": "A",
+      "detail": "The Wolffian ducts develop into the male internal genital tract (Vas, Seminal Vesicles, and Epididymis)."
+    },
+    {
+      "number": 9,
+      "question": "A 'Failure to Form' on one side of the Mullerian system leads to which uterine anomaly?",
+      "choices": [
+        "Uterus Didelphys",
+        "Bicornuate Uterus",
+        "Unicornuate Uterus",
+        "Septate Uterus",
+        "Arcuate Uterus"
+      ],
+      "answer": "C",
+      "detail": "Failure of one Mullerian duct to form results in a Unicornuate Uterus."
+    },
+    {
+      "number": 10,
+      "question": "Unicornuate uterus is strongly associated with which extra-pelvic finding?",
+      "choices": [
+        "Horseshoe kidney",
+        "Ipsilateral renal agenesis",
+        "Splenic infarcts",
+        "Biliary atresia",
+        "Polysplenia"
+      ],
+      "answer": "B",
+      "detail": "There is a 70% association between a unicornuate uterus and ipsilateral renal agenesis."
+    },
+    {
+      "number": 11,
+      "question": "Which uterine anomaly represents a 'Failure to Fuse' and is characterized by a complete uterine duplication (two cervices and two uteri)?",
+      "choices": [
+        "Uterus Didelphys",
+        "Bicornuate Uterus",
+        "Septate Uterus",
+        "Arcuate Uterus",
+        "T-shaped Uterus"
+      ],
+      "answer": "A",
+      "detail": "Uterus Didelphys is defined by complete duplication due to fusion failure."
+    },
+    {
+      "number": 12,
+      "question": "In Uterus Didelphys, a vaginal septum is present in what percentage of cases?",
+      "choices": [
+        "10%",
+        "25%",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "answer": "D",
+      "detail": "A vaginal septum is found in 75% of Uterus Didelphys cases."
+    },
+    {
+      "number": 13,
+      "question": "A Bicornuate uterus is distinguished by a deep myometrial cleft, making the uterus appear:",
+      "choices": [
+        "T-shaped",
+        "Heart-shaped",
+        "Pear-shaped",
+        "Tube-like",
+        "Fragmented"
+      ],
+      "answer": "B",
+      "detail": "The deep cleft gives the bicornuate uterus a characteristic heart shape."
+    },
+    {
+      "number": 14,
+      "question": "Exposure to Diethylstilbestrol (DES) in utero is a historical cause of which uterine anomaly?",
+      "choices": [
+        "Bicornuate",
+        "T-shaped",
+        "Didelphys",
+        "Arcuate",
+        "Septate"
+      ],
+      "answer": "B",
+      "detail": "DES exposure is the classic cause of a T-shaped uterus."
+    },
+    {
+      "number": 15,
+      "question": "Besides uterine anomalies, daughters of mothers who took DES have an increased risk for which malignancy?",
+      "choices": [
+        "Squamous cell carcinoma",
+        "Vaginal Clear Cell Carcinoma",
+        "Endometrial adenocarcinoma",
+        "Choriocarcinoma",
+        "Yolk sac tumor"
+      ],
+      "answer": "B",
+      "detail": "In utero DES exposure significantly increases the risk for vaginal clear cell carcinoma."
+    },
+    {
+      "number": 16,
+      "question": "Which uterine anomaly is a 'Failure to Cleave,' where a fibrous or muscular septum remains between two endometrial canals?",
+      "choices": [
+        "Bicornuate",
+        "Didelphys",
+        "Septate",
+        "Arcuate",
+        "Unicornuate"
+      ],
+      "answer": "C",
+      "detail": "The septate uterus results from failure of the septum to resorb (cleave)."
+    },
+    {
+      "number": 17,
+      "question": "Which is the most common Mullerian duct anomaly associated with miscarriage?",
+      "choices": [
+        "Septate Uterus",
+        "Bicornuate Uterus",
+        "Arcuate Uterus",
+        "Uterus Didelphys",
+        "T-shaped Uterus"
+      ],
+      "answer": "A",
+      "detail": "The septate uterus is highly associated with miscarriage because the septum has a poor blood supply."
+    },
+    {
+      "number": 18,
+      "question": "An 'Arcuate Uterus' is characterized by a mild smooth concavity of the fundus and is considered:",
+      "choices": [
+        "A high-risk malformation",
+        "A normal variant",
+        "A precursor to cancer",
+        "A sign of DES exposure",
+        "An indicator of renal agenesis"
+      ],
+      "answer": "B",
+      "detail": "The arcuate uterus is considered a normal variant with no clinical significance."
+    },
+    {
+      "number": 19,
+      "question": "To distinguish Bicornuate from Septate on imaging, a fundal contour indentation greater than 5 mm above the tubal ostia indicates:",
+      "choices": [
+        "Bicornuate",
+        "Septate",
+        "Didelphys",
+        "Normal",
+        "Arcuate"
+      ],
+      "answer": "B",
+      "detail": "According to the source classification, the septate uterus maintains a relatively normal fundal contour height (> 5 mm above the ostia)."
+    },
+    {
+      "number": 20,
+      "question": "A 'Heart Shaped' fundal contour with an indentation less than 5 mm above the tubal ostia indicates:",
+      "choices": [
+        "Bicornuate",
+        "Septate",
+        "T-shaped",
+        "Didelphys",
+        "Normal"
+      ],
+      "answer": "A",
+      "detail": "An external fundal cleft that drops close to the ostia (less than 5 mm above them) defines the Bicornuate uterus."
+    },
+    {
+      "number": 21,
+      "question": "A Hysterosalpingogram (HSG) is best performed during which phase of the menstrual cycle?",
+      "choices": [
+        "Menstrual phase (Days 1–5)",
+        "Proliferative phase (Days 7–12)",
+        "Secretory phase (Days 15–28)",
+        "During ovulation",
+        "Any time during the cycle"
+      ],
+      "answer": "B",
+      "detail": "The proliferative phase (Days 7-12) is ideal as the endometrium is thin and pregnancy is unlikely."
+    },
+    {
+      "number": 22,
+      "question": "Which of the following is an ABSOLUTE contraindication for performing an HSG?",
+      "choices": [
+        "Retroverted uterus",
+        "Active Pelvic Infection",
+        "History of one child",
+        "Obesity",
+        "Post-menopausal status"
+      ],
+      "answer": "B",
+      "detail": "Active pelvic infection is an absolute contraindication to avoid spreading infection into the peritoneum."
+    },
+    {
+      "number": 23,
+      "question": "'Asherman Syndrome' is defined as clinical infertility caused by:",
+      "choices": [
+        "Multiple dermoids",
+        "Intrauterine adhesions/scarring",
+        "Congenital renal agenesis",
+        "Pelvic congestion",
+        "Endometrial polyps"
+      ],
+      "answer": "B",
+      "detail": "Asherman Syndrome is infertility resulting from intrauterine synechiae (adhesions)."
+    },
+    {
+      "number": 24,
+      "question": "What is the most common cause of intrauterine synechiae (scarring)?",
+      "choices": [
+        "High fat diet",
+        "Trauma from prior curettage (D&C)",
+        "Congenital malformation",
+        "Fibroids",
+        "Simple cysts"
+      ],
+      "answer": "B",
+      "detail": "Trauma from a prior D&C is the leading cause of intrauterine adhesions."
+    },
+    {
+      "number": 25,
+      "question": "On an HSG, 'Bubbles' can mimic filling defects but are distinguished from polyps because they are:",
+      "choices": [
+        "Fixed and irregular",
+        "Mobile and transient",
+        "Large and shadowing",
+        "Calcified",
+        "Only seen in the cervix"
+      ],
+      "answer": "B",
+      "detail": "Air bubbles will move and change position during the study, unlike fixed polyps."
+    },
+    {
+      "number": 26,
+      "question": "In the setting of tubal occlusion, 'Hydrosalpinx' appears on HSG as:",
+      "choices": [
+        "An abrupt cutoff of contrast",
+        "A dilated tube with no free intraperitoneal spillage",
+        "Extensive calcification of the tube",
+        "A T-shaped cavity",
+        "A 'snowstorm' appearance"
+      ],
+      "answer": "B",
+      "detail": "Hydrosalpinx is characterized by a dilated, contrast-filled tube without peritoneal spillage."
+    },
+    {
+      "number": 27,
+      "question": "'Mayer-Rokitansky-Kuster-Hauser' (MRKH) syndrome features vaginal atresia, an absent or rudimentary uterus, and:",
+      "choices": [
+        "Absent ovaries",
+        "Normal ovaries",
+        "Horseshoe kidney",
+        "T-shaped uterus",
+        "Heart failure"
+      ],
+      "answer": "B",
+      "detail": "A defining feature of MRKH (Mullerian Agenesis) is that the ovaries remain normal."
+    },
+    {
+      "number": 28,
+      "question": "In MRKH syndrome, renal issues such as agenesis or ectopia occur in what percentage of patients?",
+      "choices": [
+        "10%",
+        "25%",
+        "50%",
+        "90%",
+        "100%"
+      ],
+      "answer": "C",
+      "detail": "Approximately 50% of MRKH patients have associated renal anomalies."
+    },
+    {
+      "number": 29,
+      "question": "Cornus is the Latin/fancy term for the uterus; 'Collis' refers to the:",
+      "choices": [
+        "Ovary",
+        "Vagina",
+        "Cervix",
+        "Fallopian tube",
+        "Fundus"
+      ],
+      "answer": "C",
+      "detail": "Collis refers to the cervix (e.g., Uterus Bicornis Bicollis)."
+    },
+    {
+      "number": 30,
+      "question": "Which variant of a Unicornuate uterus is MOST common (35%)?",
+      "choices": [
+        "Communicating cavitary horn",
+        "Non-communicating cavitary horn",
+        "Noncavitary horn",
+        "Isolated Unicornuate uterus",
+        "Bilateral horns"
+      ],
+      "answer": "D",
+      "detail": "The most common variant is the isolated unicornuate uterus with no horn."
+    },
+    {
+      "number": 31,
+      "question": "Why is a pregnancy in a non-communicating rudimentary horn especially dangerous?",
+      "choices": [
+        "It always leads to twins.",
+        "It nearly always results in life-threatening horn rupture",
+        "It causes immediate renal failure.",
+        "The baby will have Turner syndrome.",
+        "It is never dangerous."
+      ],
+      "answer": "B",
+      "detail": "Pregnancy in a non-communicating horn is at very high risk for rupture and catastrophic hemorrhage."
+    },
+    {
+      "number": 32,
+      "question": "'Cornual' or 'Interstitial' ectopic pregnancies occur where the fallopian tube passes through the uterine wall; they are high risk because:",
+      "choices": [
+        "They are always malignant.",
+        "They can grow large before rupture and cause catastrophic hemorrhage",
+        "They are associated with DES.",
+        "They always involve the ovary.",
+        "They are invisible on ultrasound."
+      ],
+      "answer": "B",
+      "detail": "Because they are protected by the myometrium, they can reach a larger size before rupturing violently."
+    },
+    {
+      "number": 33,
+      "question": "The 'Weigert-Meyer Rule' for duplicated systems states that the upper pole ureter inserts:",
+      "choices": [
+        "Superior and lateral",
+        "Inferior and medial",
+        "Directly into the fundus",
+        "Behind the rectum",
+        "Into the liver"
+      ],
+      "answer": "B",
+      "detail": "The upper pole ureter characteristically inserts ectopically, inferior and medial to the lower pole ureter."
+    },
+    {
+      "number": 34,
+      "question": "In a duplicated system, the LOWER pole is characteristically prone to:",
+      "choices": [
+        "Ureterocele",
+        "Reflux (VUR)",
+        "Obstruction",
+        "Stone formation",
+        "Cancer"
+      ],
+      "answer": "B",
+      "detail": "The lower pole ureter has a shorter intramural tunnel and is prone to reflux."
+    },
+    {
+      "number": 35,
+      "question": "A duplicated system in a young girl can lead to 'Incontinence' because the ureter may insert:",
+      "choices": [
+        "Above the internal os",
+        "Below the sphincter (e.g., into the vagina)",
+        "Into the cecum",
+        "In the peritoneal cavity",
+        "Into the spleen"
+      ],
+      "answer": "B",
+      "detail": "Insertion distal to the external sphincter results in continuous dribbling/incontinence."
+    },
+    {
+      "number": 36,
+      "question": "'Salpingitis Isthmica Nodosa' (SIN) is a nodular scarring of the fallopian tubes that typically involves:",
+      "choices": [
+        "The distal 1/3",
+        "The proximal 2/3 of the tube",
+        "The entire tube uniformly",
+        "Only the fimbriae",
+        "The ovary only"
+      ],
+      "answer": "B",
+      "detail": "SIN characteristically involves the proximal 2/3 of the tube."
+    },
+    {
+      "number": 37,
+      "question": "SIN is an 'Aunt Minnie' on HSG and is strongly associated with:",
+      "choices": [
+        "Infertility and ectopic pregnancy",
+        "Endometrial cancer",
+        "Fibroids",
+        "Turner syndrome",
+        "Renal agenesis"
+      ],
+      "answer": "A",
+      "detail": "SIN is a classic 'Aunt Minnie' associated with infertility and ectopic risk."
+    },
+    {
+      "number": 38,
+      "question": "Uterine Arteriovenous Malformations (AVMs) are most commonly:",
+      "choices": [
+        "Congenital",
+        "Acquired (after D&C, abortion, or surgery)",
+        "Found in post-menopausal women",
+        "Calcified",
+        "Benign and never bleed"
+      ],
+      "answer": "B",
+      "detail": "The vast majority of uterine AVMs are acquired through prior intrauterine procedures."
+    },
+    {
+      "number": 39,
+      "question": "On Doppler ultrasound, a uterine AVM will characteristically show:",
+      "choices": [
+        "High resistance and no flow",
+        "Serpiginous structures with high velocity color flow",
+        "'Snowstorm' pattern",
+        "Posterior shadowing",
+        "Absence of any vessels"
+      ],
+      "answer": "B",
+      "detail": "High-velocity, low-resistance serpiginous vessels are pathognomonic for AVM."
+    },
+    {
+      "number": 40,
+      "question": "'Endometritis' is an inflammation of the endometrium that often presents 2–5 days after delivery with:",
+      "choices": [
+        "Fever, uterine tenderness, and a thickened endometrial cavity",
+        "Weight loss and a T-shaped uterus",
+        "Jaundice and gallstones",
+        "Incontinence and a 'molar tooth' sign",
+        "Sudden cardiac arrest"
+      ],
+      "answer": "A",
+      "detail": "Postpartum fever and uterine tenderness are hallmark signs of endometritis."
+    },
+    {
+      "number": 41,
+      "question": "If an endometrial collection contains GAS in a postpartum woman with a fever, the diagnosis is likely:",
+      "choices": [
+        "Normal healing",
+        "Endometritis (Infection)",
+        "Retained products of conception",
+        "AVM",
+        "Cervical cancer"
+      ],
+      "answer": "B",
+      "detail": "While gas can be normal, in the setting of fever it strongly suggests infection (endometritis)."
+    },
+    {
+      "number": 42,
+      "question": "For the purpose of functional pelvic floor anatomy, the 'Anterior Compartment' contains the:",
+      "choices": [
+        "Vagina and Uterus",
+        "Bladder and Urethra",
+        "Anus and Rectum",
+        "Ovaries and Tubes",
+        "Psoas muscle"
+      ],
+      "answer": "B",
+      "detail": "The bladder and urethra comprise the anterior compartment."
+    },
+    {
+      "number": 43,
+      "question": "The 'Middle Compartment' of the pelvic floor includes which structures?",
+      "choices": [
+        "Bladder and rectum",
+        "Vagina, Cervix, and Uterus",
+        "Adrenals and Kidneys",
+        "Urethra and Anus",
+        "Pubic symphysis"
+      ],
+      "answer": "B",
+      "detail": "The vagina and uterus (genital tract) make up the middle compartment."
+    },
+    {
+      "number": 44,
+      "question": "A 'Cystocele' is defined as descent of the bladder greater than 1 cm below the:",
+      "choices": [
+        "H Line",
+        "M Line",
+        "Pubococcygeal Line (PCL)",
+        "Arcuate line",
+        "Midline"
+      ],
+      "answer": "C",
+      "detail": "Descent > 1 cm below the Pubococcygeal Line (PCL) defines a cystocele."
+    },
+    {
+      "number": 45,
+      "question": "'Urethral Hypermobility' occurs when the urethra is rotated:",
+      "choices": [
+        "Vertically",
+        "Horizontally",
+        "Posteriorly",
+        "Into the rectum",
+        "Not at all"
+      ],
+      "answer": "B",
+      "detail": "Horizontal rotation of the urethra during straining is a sign of hypermobility."
+    },
+    {
+      "number": 46,
+      "question": "Uterine prolapse is defined as descent of the cervix or posterior vaginal fornix greater than 1 cm below the:",
+      "choices": [
+        "H Line",
+        "Pubococcygeal Line (PCL)",
+        "M Line",
+        "S3 level",
+        "Urogenital diaphragm"
+      ],
+      "answer": "B",
+      "detail": "Descent of the middle compartment structures > 1 cm below the PCL is prolapse."
+    },
+    {
+      "number": 47,
+      "question": "A 'Rectocele' is an abnormal bulging of the rectum, typically in which direction?",
+      "choices": [
+        "Posteriorly",
+        "Anteriorly",
+        "Superially",
+        "Into the bladder dome",
+        "Laterally toward the psoas"
+      ],
+      "answer": "B",
+      "detail": "Most rectoceles are anterior bulges due to a weakened rectovaginal septum."
+    },
+    {
+      "number": 48,
+      "question": "In dynamic pelvic MRI, the 'H Line' is a measurement of:",
+      "choices": [
+        "Pelvic floor descent",
+        "Hiatal enlargement (widening)",
+        "Uterine volume",
+        "Bladder wall thickness",
+        "Rectal pressure"
+      ],
+      "answer": "B",
+      "detail": "The H line measures the width of the levator hiatus."
+    },
+    {
+      "number": 49,
+      "question": "The 'M Line' on a dynamic pelvic MRI measures:",
+      "choices": [
+        "Pelvic floor descent (vertical distance from PCL)",
+        "Width of the vagina",
+        "Length of the cervix",
+        "Thickness of the levator ani",
+        "Number of pregnancies"
+      ],
+      "answer": "A",
+      "detail": "The M line represents the vertical descent of the pelvic floor below the PCL."
+    },
+    {
+      "number": 50,
+      "question": "'Levator Ani' muscles include the puborectalis, pubococcygeus, and:",
+      "choices": [
+        "Piriformis",
+        "Iliococcygeus",
+        "Obturator internus",
+        "Psoas major",
+        "Gluteus maximus"
+      ],
+      "answer": "B",
+      "detail": "The iliococcygeus is the third component of the levator ani muscle group."
+    },
+    {
+      "number": 51,
+      "question": "Uterine Artery Embolization (UAE) is most effective for which type of fibroid location?",
+      "choices": [
+        "Submucosal",
+        "Intramural",
+        "Serosal",
+        "Pedunculated",
+        "Broad ligament"
+      ],
+      "answer": "A",
+      "detail": "Submucosal fibroids respond best and have the highest satisfaction rates with UAE."
+    },
+    {
+      "number": 52,
+      "question": "Fibroids with which MRI characteristic are said to respond BETTER to UAE?",
+      "choices": [
+        "T2 dark",
+        "High T2 signal (Cellular fibroids)",
+        "Peripheral calcification",
+        "Presence of macroscopic fat",
+        "Low ADC values"
+      ],
+      "answer": "B",
+      "detail": "Fibroids with high T2 signal (cellular) generally show a better response to UAE."
+    },
+    {
+      "number": 53,
+      "question": "Which clinical trial showed that hospital stays for UAE are shorter than for hysterectomy?",
+      "choices": [
+        "CORAL",
+        "EMMY",
+        "CREST",
+        "MELD",
+        "GUSTO"
+      ],
+      "answer": "B",
+      "detail": "The EMMY trial established shorter recovery and stays for UAE compared to surgery."
+    },
+    {
+      "number": 54,
+      "question": "A known risk of UAE, occurring in about 5% of cases, is:",
+      "choices": [
+        "DVT / PE (from pelvic vein compression release)",
+        "Immediate renal failure",
+        "Brain abscess",
+        "Biliary sepsis",
+        "Splenic rupture"
+      ],
+      "answer": "A",
+      "detail": "The rapid shrinkage of the uterus can release previously compressed veins, leading to PE."
+    },
+    {
+      "number": 55,
+      "question": "What is the recommended agent for embolizing fibroids?",
+      "choices": [
+        "Coils",
+        "Glue (Cyanoacrylate)",
+        "Particles (PVA or Embospheres)",
+        "Gelfoam powder",
+        "Absolute alcohol"
+      ],
+      "answer": "C",
+      "detail": "PVA particles or Embospheres are the standard agents for UAE."
+    },
+    {
+      "number": 56,
+      "question": "'Bilateral' uterine artery embolization is necessary regardless of fibroid location to prevent:",
+      "choices": [
+        "Pain",
+        "Recruitment of new vessels (collaterals)",
+        "Renal toxicity",
+        "Incontinence",
+        "Allergic reaction"
+      ],
+      "answer": "B",
+      "detail": "Embolizing both sides is mandatory to prevent blood supply from crossing over."
+    },
+    {
+      "number": 57,
+      "question": "The distal branches of the uterine artery have a characteristic 'corkscrew' appearance and are named:",
+      "choices": [
+        "Helicine branches",
+        "Arcuate branches",
+        "Spiral valves",
+        "Vasa recta",
+        "Meckel's branches"
+      ],
+      "answer": "A",
+      "detail": "These corkscrew-shaped distal vessels are called helicine branches."
+    },
+    {
+      "number": 58,
+      "question": "How long should UAE be delayed if a patient is taking Gonadotropin-releasing medications (like Lupron)?",
+      "choices": [
+        "1 week",
+        "1 month",
+        "3 months",
+        "1 year",
+        "It should never be delayed"
+      ],
+      "answer": "C",
+      "detail": "A 3-month wait is needed to allow vessels to return to a diameter that can be catheterized."
+    },
+    {
+      "number": 59,
+      "question": "'Intravasation' during an HSG refers to:",
+      "choices": [
+        "Tubal rupture",
+        "Contrast backflow into the venous or lymphatic system",
+        "Inadvertent injection into the bladder",
+        "Spillage into the peritoneal cavity",
+        "Formation of a milk fistula"
+      ],
+      "answer": "B",
+      "detail": "Intravasation is the undesirable backflow of contrast into uterine vessels."
+    },
+    {
+      "number": 60,
+      "question": "The reported risk of 'Peritonitis' following an HSG is approximately:",
+      "choices": [
+        "0.1%",
+        "1%",
+        "5%",
+        "10%",
+        "50%"
+      ],
+      "answer": "B",
+      "detail": "The clinical risk of peritonitis following a standard HSG is roughly 1%."
+    },
+    {
+      "number": 61,
+      "question": "Fallopian Tube Recanalization (FTR) is indicated for which type of tubal obstruction?",
+      "choices": [
+        "Distal (fimbrial)",
+        "Proximal / Interstitial",
+        "Mid-portion only",
+        "Any obstruction regardless of location",
+        "Only those caused by cancer"
+      ],
+      "answer": "B",
+      "detail": "FTR with wires and catheters is effective for proximal/interstitial occlusions."
+    },
+    {
+      "number": 62,
+      "question": "'Pelvic Congestion Syndrome' is associated with dilated gonadal veins measuring greater than:",
+      "choices": [
+        "2 mm",
+        "5 mm",
+        "10 mm",
+        "20 mm",
+        "50 mm"
+      ],
+      "answer": "C",
+      "detail": "A gonadal vein diameter > 10 mm is diagnostic for pelvic congestion."
+    },
+    {
+      "number": 63,
+      "question": "Symptoms of Pelvic Congestion Syndrome classically IMPROVE after:",
+      "choices": [
+        "Eating a fatty meal",
+        "Menopause",
+        "Exercising",
+        "Standing for long periods",
+        "Pregnancy"
+      ],
+      "answer": "B",
+      "detail": "PCS symptoms typically resolve once estrogen levels drop after menopause."
+    },
+    {
+      "number": 64,
+      "question": "A 'Varicocele' is an enlargement of the pampiniform plexus and is much more common on the:",
+      "choices": [
+        "Left side (90%)",
+        "Right side",
+        "Both sides equally",
+        "Right side in children only",
+        "Only in post-menopausal women"
+      ],
+      "answer": "A",
+      "detail": "90% of varicoceles are left-sided due to the angle of the left renal vein."
+    },
+    {
+      "number": 65,
+      "question": "An 'Isolated Right-Sided' varicocele should prompt an evaluation for:",
+      "choices": [
+        "Normal anatomy",
+        "A retroperitoneal process (e.g., cancer) compressing the vein",
+        "Heart failure",
+        "Cystic fibrosis",
+        "Pelvic congestion"
+      ],
+      "answer": "B",
+      "detail": "An isolated right varicocele suggests an underlying mass (like RCC) compressing the vein."
+    },
+    {
+      "number": 66,
+      "question": "What is the most common uterine mass?",
+      "choices": [
+        "Adenomyosis",
+        "Fibroids (Leiomyoma)",
+        "Endometrial cancer",
+        "Nabothian cyst",
+        "Sarcoma"
+      ],
+      "answer": "B",
+      "detail": "Fibroids (leiomyomas) are the most frequent uterine masses."
+    },
+    {
+      "number": 67,
+      "question": "Fibroids are estrogen-responsive; therefore, they tend to grow during pregnancy and:",
+      "choices": [
+        "Grow faster after menopause.",
+        "Involute (shrink) after menopause",
+        "Turn into clear cell carcinoma.",
+        "Cause renal agenesis.",
+        "Spontaneously calcify in teenagers."
+      ],
+      "answer": "B",
+      "detail": "Because they depend on estrogen, fibroids typically shrink after menopause."
+    },
+    {
+      "number": 68,
+      "question": "The 'Venetian Blind' pattern (shadowing) on ultrasound is characteristic of:",
+      "choices": [
+        "Endometritis",
+        "Fibroids",
+        "Nabothian cysts",
+        "Gartner duct cysts",
+        "Uterus Didelphys"
+      ],
+      "answer": "B",
+      "detail": "This distinct linear shadowing is a classic feature of leiomyomas."
+    },
+    {
+      "number": 69,
+      "question": "On MRI, the 'Classic Hyaline' fibroid appears:",
+      "choices": [
+        "T1 bright and T2 bright",
+        "T1 dark and T2 dark",
+        "T1 dark and T2 bright",
+        "Anechoic",
+        "Non-enhancing"
+      ],
+      "answer": "B",
+      "detail": "The standard hyaline degeneration subtype is T1 and T2 dark."
+    },
+    {
+      "number": 70,
+      "question": "'Red (Carneous) Degeneration' of a fibroid characteristically occurs during:",
+      "choices": [
+        "Menopause",
+        "Pregnancy",
+        "Childhood",
+        "The follicular phase",
+        "Puberty"
+      ],
+      "answer": "B",
+      "detail": "Red degeneration is a venous thrombosis process occurring during pregnancy."
+    },
+    {
+      "number": 71,
+      "question": "The classic MRI finding for Red Degeneration of a fibroid is:",
+      "choices": [
+        "Central calcification",
+        "A peripheral rim of high T1 signal",
+        "'Snowstorm' appearance",
+        "'Onion skin' look",
+        "Massive T2 brightness"
+      ],
+      "answer": "B",
+      "detail": "The hallmark is a T1-bright rim representing peripheral blood/methgb."
+    },
+    {
+      "number": 72,
+      "question": "On a sagittal T2 MRI of the uterus, the 'Junctional Zone' is characteristically:",
+      "choices": [
+        "The brightest layer",
+        "The dark (hypointense) middle layer",
+        "The outermost layer",
+        "Invisible in healthy adults",
+        "Calcified"
+      ],
+      "answer": "B",
+      "detail": "The junctional zone is the distinct T2-dark inner myometrial layer."
+    },
+    {
+      "number": 73,
+      "question": "'Adenomyosis' is diagnosed on MRI when the T2 dark junctional zone is thicker than:",
+      "choices": [
+        "5 mm",
+        "8 mm",
+        "12 mm",
+        "20 mm",
+        "50 mm"
+      ],
+      "answer": "C",
+      "detail": "A junctional zone > 12 mm is the threshold for diagnosing adenomyosis."
+    },
+    {
+      "number": 74,
+      "question": "Adenomyosis typically favors which part of the uterus?",
+      "choices": [
+        "The cervix",
+        "The posterior wall",
+        "The fundus only",
+        "The anterior wall exclusively",
+        "The fallopian tubes"
+      ],
+      "answer": "B",
+      "detail": "Adenomyosis characteristically favors the posterior wall and spares the cervix."
+    },
+    {
+      "number": 75,
+      "question": "What is the upper limit of normal for endometrial thickness in a postmenopausal woman WITHOUT bleeding?",
+      "choices": [
+        "1 mm",
+        "5 mm (though some say 8-11 mm if asymptomatic)",
+        "15 mm",
+        "20 mm",
+        "It can be any thickness"
+      ],
+      "answer": "B",
+      "detail": "5 mm is the standard biopsy threshold for postmenopausal bleeding."
+    },
+    {
+      "number": 76,
+      "question": "The 'Trilaminar' appearance of the endometrium is characteristic of which phase?",
+      "choices": [
+        "Menstrual (Rag Week)",
+        "Proliferative",
+        "Secretory",
+        "Luteal",
+        "Menopause"
+      ],
+      "answer": "B",
+      "detail": "The three-layered 'trilaminar' look occurs during the proliferative phase."
+    },
+    {
+      "number": 77,
+      "question": "During the 'Secretory Phase,' the endometrium becomes:",
+      "choices": [
+        "Trilaminar",
+        "Thick, hyperechoic, and homogeneous",
+        "Very thin (< 2 mm)",
+        "Calcified",
+        "'Snowstorm' like"
+      ],
+      "answer": "B",
+      "detail": "Under progesterone influence, the lining becomes uniformly thick and bright."
+    },
+    {
+      "number": 78,
+      "question": "'Lynch Syndrome' (HNPCC) is associated with a 30–50x increased risk for:",
+      "choices": [
+        "Ovarian cancer",
+        "Endometrial cancer",
+        "Cervical cancer",
+        "Vaginal clear cell carcinoma",
+        "Fibroids"
+      ],
+      "answer": "B",
+      "detail": "Endometrial cancer is the most common extra-colonic malignancy in Lynch syndrome."
+    },
+    {
+      "number": 79,
+      "question": "The most common histological type of endometrial cancer (>90%) is:",
+      "choices": [
+        "Squamous cell carcinoma",
+        "Adenocarcinoma",
+        "Clear cell carcinoma",
+        "Sarcoma",
+        "Small cell carcinoma"
+      ],
+      "answer": "B",
+      "detail": "Endometrial cancer is almost exclusively adenocarcinoma."
+    },
+    {
+      "number": 80,
+      "question": "In MRI staging of endometrial cancer, Stage 1b is defined as tumor invasion of:",
+      "choices": [
+        "Less than 50% of the myometrium",
+        "More than 50% of the myometrium",
+        "The cervix",
+        "The bladder",
+        "The rectum"
+      ],
+      "answer": "B",
+      "detail": "Stage 1b represents deep (> 50%) myometrial invasion."
+    },
+    {
+      "number": 81,
+      "question": "'Tamoxifen' use for breast cancer increases the risk for endometrial cancer and is associated with:",
+      "choices": [
+        "Subendometrial cysts and polyps",
+        "Tube-like uterus",
+        "Streaky ovaries",
+        "Renal agenesis",
+        "Rapid involution of fibroids"
+      ],
+      "answer": "A",
+      "detail": "Tamoxifen is famous for causing endometrial hypertrophy, polyps, and subendometrial cysts."
+    },
+    {
+      "number": 82,
+      "question": "'Sonohysterography' (saline infusion ultrasound) is the best test to identify:",
+      "choices": [
+        "Endometrial Polyps",
+        "Cervical cancer staging",
+        "Adenomyosis",
+        "Ovarian torsion",
+        "Renal stones"
+      ],
+      "answer": "A",
+      "detail": "The fluid outlines polyps, making them easy to identify on sonohysterography."
+    },
+    {
+      "number": 83,
+      "question": "Cervical cancer is typically squamous cell and strongly related to:",
+      "choices": [
+        "Smoking only",
+        "HPV (90%)",
+        "DES exposure",
+        "High protein diet",
+        "Turner syndrome"
+      ],
+      "answer": "B",
+      "detail": "90% of cervical cancers are caused by the HPV virus."
+    },
+    {
+      "number": 84,
+      "question": "In cervical cancer staging, Stage 2b is the 'game changer' for treatment because it involves:",
+      "choices": [
+        "Spread to the vagina only",
+        "Parametrial invasion",
+        "Spread to the bladder",
+        "Distant bone mets",
+        "Lymph node involvement only"
+      ],
+      "answer": "B",
+      "detail": "Stage 2b (parametrial invasion) necessitates chemo-radiation over surgery."
+    },
+    {
+      "number": 85,
+      "question": "Parametrial invasion in cervical cancer is identified on MRI by the disruption of the:",
+      "choices": [
+        "Endometrial stripe",
+        "T2 dark ring of the cervix",
+        "Myometrial-serosal interface",
+        "Iliac vessels",
+        "Psoas muscle"
+      ],
+      "answer": "B",
+      "detail": "The tumor must break the T2-dark cervical stroma (ring) to be considered invasive."
+    },
+    {
+      "number": 86,
+      "question": "In postmenopausal women, 'Endometrial Fluid' most commonly means:",
+      "choices": [
+        "Normal variant",
+        "Cervical stenosis (or an obstructing mass)",
+        "Active pregnancy",
+        "Recent ovulation",
+        "Retroverted uterus"
+      ],
+      "answer": "B",
+      "detail": "Fluid trapping in a postmenopausal woman is usually due to cervical stenosis."
+    },
+    {
+      "number": 87,
+      "question": "What is the most common cancer of the vagina (85%)?",
+      "choices": [
+        "Adenocarcinoma",
+        "Squamous Cell Carcinoma",
+        "Rhabdomyosarcoma",
+        "Melanoma",
+        "Lymphoma"
+      ],
+      "answer": "B",
+      "detail": "Squamous cell carcinoma is the predominant primary vaginal cancer."
+    },
+    {
+      "number": 88,
+      "question": "'Vaginal Rhabdomyosarcoma' is the most common vaginal tumor in children and characteristically presents as:",
+      "choices": [
+        "A fatty mass",
+        "A solid T2 bright enhancing mass in the vagina/lower uterus",
+        "Multiple 'popcorn' calcifications",
+        "A T-shaped uterus",
+        "Streaky ovaries"
+      ],
+      "answer": "B",
+      "detail": "In children, this tumor appears as a solid bright mass, sometimes with a 'cluster of grapes' look."
+    },
+    {
+      "number": 89,
+      "question": "A metastasis to the ANTERIOR wall upper 1/3 of the vagina is 90% likely from:",
+      "choices": [
+        "The GI tract",
+        "The upper genital tract",
+        "The lung",
+        "The breast",
+        "The brain"
+      ],
+      "answer": "B",
+      "detail": "The anterior upper vagina is the primary site for spread from the cervix/uterus."
+    },
+    {
+      "number": 90,
+      "question": "A metastasis to the POSTERIOR wall lower 1/3 of the vagina is 90% likely from:",
+      "choices": [
+        "The upper genital tract",
+        "The GI tract",
+        "The bladder",
+        "The thyroid",
+        "The heart"
+      ],
+      "answer": "B",
+      "detail": "The posterior lower vagina is the primary site for spread from the GI tract/rectum."
+    },
+    {
+      "number": 91,
+      "question": "'Nabothian Cysts' are very common and are found in the:",
+      "choices": [
+        "Upper vagina",
+        "Cervix",
+        "Endometrium",
+        "Labia minora",
+        "Fallopian tube"
+      ],
+      "answer": "B",
+      "detail": "Nabothian cysts are benign mucous retention cysts of the cervix."
+    },
+    {
+      "number": 92,
+      "question": "'Gartner Duct Cysts' are remnants of the Wolffian ducts and are found in the:",
+      "choices": [
+        "Cervix",
+        "Anterior lateral wall of the upper vagina",
+        "Posterior wall of the lower vagina",
+        "Ovaries",
+        "Urethra only"
+      ],
+      "answer": "B",
+      "detail": "Gartner duct cysts are classically located along the anterolateral wall of the proximal vagina."
+    },
+    {
+      "number": 93,
+      "question": "Which vaginal cyst is found BELOW the pubic symphysis, 'near the butthole'?",
+      "choices": [
+        "Nabothian Cyst",
+        "Gartner Duct Cyst",
+        "Bartholin Cyst",
+        "Skene Gland Cyst",
+        "Endometrioma"
+      ],
+      "answer": "C",
+      "detail": "Bartholin cysts are located in the vulva, distal to the symphysis."
+    },
+    {
+      "number": 94,
+      "question": "'Skene Gland Cysts' are periurethral and can cause:",
+      "choices": [
+        "Ectopic pregnancy",
+        "Recurrent UTIs and urethral obstruction",
+        "T-shaped uterus",
+        "Renal agenesis",
+        "Vaginal cancer"
+      ],
+      "answer": "B",
+      "detail": "Because they are periurethral, Skene cysts can cause obstructive urinary symptoms."
+    },
+    {
+      "number": 95,
+      "question": "A 'Lipoleiomyoma' is a variant of a fibroid that contains:",
+      "choices": [
+        "Blood",
+        "Macroscopic Fat",
+        "Gas",
+        "Teeth",
+        "Protein"
+      ],
+      "answer": "B",
+      "detail": "These are benign leiomyomas that contain significant fat."
+    },
+    {
+      "number": 96,
+      "question": "The 'Shading Sign' on T2 weighted MRI is a buzzword for:",
+      "choices": [
+        "Fibroids",
+        "Endometrioma",
+        "Dermoid",
+        "Simple cyst",
+        "Cervical cancer"
+      ],
+      "answer": "B",
+      "detail": "T2 shortening (shading) in a T1-bright lesion is diagnostic of an endometrioma."
+    },
+    {
+      "number": 97,
+      "question": "'Myxoid Degeneration' of a fibroid is uncommon and characteristically shows:",
+      "choices": [
+        "Peripheral T1 bright rim",
+        "High T2 signal and minimal enhancement",
+        "Central popcorn calcification",
+        "'Venetian blind' shadowing",
+        "Rapid wash-out"
+      ],
+      "answer": "B",
+      "detail": "Myxoid fibroids are bright on T2 and show very little enhancement."
+    },
+    {
+      "number": 98,
+      "question": "'Pelvic floor relaxation' has two components: vertical descent and widening. Widening is measured by the:",
+      "choices": [
+        "H Line",
+        "M Line",
+        "PCL",
+        "Arcuate line",
+        "S3 line"
+      ],
+      "answer": "A",
+      "detail": "Hiatal widening is measured by the length of the H line."
+    },
+    {
+      "number": 99,
+      "question": "A 'Stellate' or 'Popcorn' calcification on a plain film of the pelvis is the classic look of:",
+      "choices": [
+        "Endometrial cancer",
+        "A degenerating (menopause) fibroid",
+        "A bladder stone",
+        "A dermoid",
+        "SIN"
+      ],
+      "answer": "B",
+      "detail": "Popcorn calcification is the radiographic hallmark of a degenerating fibroid."
+    },
+    {
+      "number": 100,
+      "question": "In MRI staging of endometrial cancer, Stage 2 is defined by tumor invasion of the:",
+      "choices": [
+        "Serosa",
+        "Cervical Stroma",
+        "Bladder",
+        "Rectum",
+        "Ovaries"
+      ],
+      "answer": "B",
+      "detail": "Stage 2 represents invasion of the cervical stroma while remaining confined to the uterus."
+    }
+  ]
+}

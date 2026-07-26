@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Autoimmune encephalitis is primarily characterized as an inflammatory disorder mediated by:",
+      "choices": [
+        "Direct viral invasion",
+        "Bacterial toxins",
+        "Antibodies",
+        "Prion proteins",
+        "Failed autoregulation of blood pressure"
+      ],
+      "answer": "C",
+      "detail": "Autoimmune encephalitis is an antibody-mediated inflammatory disorder that typically affects the limbic system."
+    },
+    {
+      "number": 2,
+      "question": "In the classification of autoimmune encephalitis, Group I antibodies are distinguished from Group II antibodies because they target:",
+      "choices": [
+        "Antigens on the cell surface",
+        "Intracellular antigens",
+        "Myelin basic protein",
+        "The basement membrane",
+        "Only the white matter"
+      ],
+      "answer": "B",
+      "detail": "The primary distinction is their target: Group I antibodies target intracellular antigens, while Group II target cell surface antigens."
+    },
+    {
+      "number": 3,
+      "question": "Which clinical feature is most characteristic of Group I antibody-mediated autoimmune encephalitis?",
+      "choices": [
+        "Higher association with non-paraneoplastic syndromes",
+        "Better response to immunomodulatory therapy",
+        "Close association with paraneoplastic syndromes and worse clinical outcomes",
+        "Predominant occurrence in children following vaccination",
+        "Lack of any imaging abnormalities in most cases"
+      ],
+      "answer": "C",
+      "detail": "Group I antibodies are strongly linked to underlying malignancies (paraneoplastic) and typically have worse outcomes due to irreversible neuronal damage and poor response to therapy."
+    },
+    {
+      "number": 4,
+      "question": "What is the most common paraneoplastic form of autoimmune encephalitis?",
+      "choices": [
+        "Anti-GAD encephalitis",
+        "NMDAr encephalitis",
+        "Anti-Hu encephalitis",
+        "Anti-Ma/Ta encephalitis",
+        "Anti-CV2 encephalitis"
+      ],
+      "answer": "C",
+      "detail": "Anti-Hu is the most frequent paraneoplastic form and is most commonly associated with small-cell lung cancer."
+    },
+    {
+      "number": 5,
+      "question": "Typical MRI findings for Anti-Hu encephalitis include hyperintense lesions on FLAIR sequences located in the:",
+      "choices": [
+        "Occipital lobes and perirolandic region",
+        "Medial temporal lobes",
+        "Periventricular white matter",
+        "Splenium of the corpus callosum",
+        "Bilateral thalami only"
+      ],
+      "answer": "B",
+      "detail": "Imaging for Anti-Hu characteristically shows hyperintense FLAIR signal in the medial temporal lobes, sometimes involving the cerebellum and brainstem."
+    },
+    {
+      "number": 6,
+      "question": "Which Group I antibody is characteristically associated with testicular germ cell tumors?",
+      "choices": [
+        "Anti-Hu",
+        "Anti-CV2",
+        "Anti-Ma/Ta",
+        "Anti-GAD",
+        "NMDAr"
+      ],
+      "answer": "C",
+      "detail": "Anti-Ma/Ta has a strong association with testicular cancer, whereas Anti-CV2 is often associated with malignant thymoma."
+    },
+    {
+      "number": 7,
+      "question": "Although classified as a Group I antibody, which of the following is NOT typically associated with an underlying malignancy?",
+      "choices": [
+        "Anti-Hu",
+        "Anti-Ma/Ta",
+        "Anti-GAD",
+        "Anti-CV2",
+        "All Group I antibodies are paraneoplastic"
+      ],
+      "answer": "C",
+      "detail": "Anti-GAD (glutamic acid decarboxylase) is an exception among Group I antibodies as it is not typically associated with malignancy."
+    },
+    {
+      "number": 8,
+      "question": "Non-paraneoplastic encephalitis associated with Group II antibodies is most commonly associated with:",
+      "choices": [
+        "Small-cell lung cancer",
+        "Viral infection or vaccination",
+        "Chronic smoking",
+        "Heavy metal exposure",
+        "Prion transmission"
+      ],
+      "answer": "B",
+      "detail": "Patients with Group II non-paraneoplastic encephalitis often develop symptoms following vaccination, a viral infection, or in the context of another autoimmune disorder."
+    },
+    {
+      "number": 9,
+      "question": "What is the most common form of Group II (non-paraneoplastic) encephalitis, classically seen in young women and children?",
+      "choices": [
+        "Anti-Hu encephalitis",
+        "Anti-Ma encephalitis",
+        "NMDAr (N-methyl D-aspartate receptor) encephalitis",
+        "Anti-GAD encephalitis",
+        "Hashimoto encephalopathy"
+      ],
+      "answer": "C",
+      "detail": "NMDAr encephalitis is the most common non-paraneoplastic form and frequently affects young women and pediatric populations."
+    },
+    {
+      "number": 10,
+      "question": "Which imaging characteristic is 'unique' to the initial clinical presentation of NMDAr encephalitis?",
+      "choices": [
+        "Immediate thick ring enhancement in the temporal lobes",
+        "The majority of patients have no imaging abnormalities initially",
+        "Diffuse cortical laminar necrosis",
+        "Dense calcification of the basal ganglia",
+        "Symmetric restricted diffusion in the thalami"
+      ],
+      "answer": "B",
+      "detail": "NMDAr encephalitis is unique because initial imaging is often normal. Later, FLAIR hyperintensities may appear in the insular cortex, cingulate gyrus, and temporal lobes."
+    }
+  ]
+}

@@ -1,0 +1,1305 @@
+{
+    "questions": 
+    [
+    {
+      "number": 1,
+      "question": "More than half of fetuses with Down Syndrome (Trisomy 21) have which congenital heart issues?",
+      "choices": [
+        "Tetralogy of Fallot",
+        "AV canal and VSD",
+        "Ebstein anomaly",
+        "Transposition of the Great Arteries",
+        "Coarctation of the Aorta"
+      ],
+      "answer": "B",
+      "detail": "AV canal and VSD are the most common cardiac defects in Down Syndrome."
+    },
+    {
+      "number": 2,
+      "question": "What is the most common intra-abdominal pathology associated with Down Syndrome?",
+      "choices": [
+        "Duodenal Atresia",
+        "Biliary Atresia",
+        "Hirschsprung Disease",
+        "Midgut Volvulus",
+        "Meconium Ileus"
+      ],
+      "answer": "A",
+      "detail": "Duodenal atresia is the primary intra-abdominal association."
+    },
+    {
+      "number": 3,
+      "question": "At what gestational age is it typically 'hard to see' duodenal atresia on ultrasound?",
+      "choices": [
+        "Before 10 weeks",
+        "Before 15 weeks",
+        "Before 22 weeks",
+        "After 30 weeks",
+        "It is visible from the 1st trimester"
+      ],
+      "answer": "C",
+      "detail": "This pathology is generally difficult to visualize prior to 22 weeks."
+    },
+    {
+      "number": 4,
+      "question": "Nuchal Lucency (Translucency) is typically measured between which weeks?",
+      "choices": [
+        "6–8 weeks",
+        "9–12 weeks",
+        "14–16 weeks",
+        "20–22 weeks",
+        "3rd trimester only"
+      ],
+      "answer": "B",
+      "detail": "The measurement window for nuchal lucency is 9 to 12 weeks."
+    },
+    {
+      "number": 5,
+      "question": "A Nuchal Lucency measurement is considered abnormal if it is greater than:",
+      "choices": [
+        "1 mm",
+        "2 mm",
+        "3 mm",
+        "5 mm",
+        "6 mm"
+      ],
+      "answer": "C",
+      "detail": "A measurement > 3 mm is linked to chromosomal abnormalities."
+    },
+    {
+      "number": 6,
+      "question": "Nuchal Fold thickness is measured during the second trimester; what is the abnormal threshold?",
+      "choices": [
+        "> 3 mm",
+        "> 4 mm",
+        "> 6 mm",
+        "> 10 mm",
+        "> 20 mm"
+      ],
+      "answer": "C",
+      "detail": "Fold thickness > 6 mm in the second trimester is non-specific but concerning."
+    },
+    {
+      "number": 7,
+      "question": "An 'Echogenic Focus in the Cardiac Ventricle' (calcified papillary muscle) increases the risk of Down Syndrome by how much?",
+      "choices": [
+        "1.5x",
+        "2x",
+        "4x",
+        "10x",
+        "50x"
+      ],
+      "answer": "C",
+      "detail": "This finding is associated with a 4x increased risk for Down Syndrome."
+    },
+    {
+      "number": 8,
+      "question": "Choroid plexus cysts on a fetal survey are not specific but are seen more frequently in:",
+      "choices": [
+        "Down Syndrome",
+        "Trisomy 18",
+        "Trisomy 13",
+        "Turner Syndrome",
+        "Klinefelter Syndrome"
+      ],
+      "answer": "B",
+      "detail": "Choroid plexus cysts are a more frequent finding in Trisomy 18."
+    },
+    {
+      "number": 9,
+      "question": "In the first trimester Down Syndrome screening, maternal blood is analyzed for free Beta hCG and:",
+      "choices": [
+        "AFP",
+        "Pregnancy associated plasma protein-A (PAPP-A)",
+        "Inhibin A",
+        "Estriol",
+        "Vitamin D"
+      ],
+      "answer": "B",
+      "detail": "Maternal serum screening includes free Beta hCG and PAPP-A."
+    },
+    {
+      "number": 10,
+      "question": "Amniotic Band Syndrome is caused by disruption of the amnion before:",
+      "choices": [
+        "4 weeks",
+        "10 weeks",
+        "16 weeks",
+        "20 weeks",
+        "40 weeks"
+      ],
+      "answer": "B",
+      "detail": "Disruption before 10 weeks allows fetal parts to get tangled in the chorionic cavity."
+    },
+    {
+      "number": 11,
+      "question": "Which of the following is a potential severe result of Amniotic Band Syndrome?",
+      "choices": [
+        "Decapitation or limb amputation",
+        "Biliary atresia",
+        "Duodenal atresia",
+        "Polycystic kidney disease",
+        "Macrosomia"
+      ],
+      "answer": "A",
+      "detail": "Bands can cause devastating injuries like decapitation or limb amputation."
+    },
+    {
+      "number": 12,
+      "question": "Ultrasound diagnosis of Fetal Hydrops requires the presence of at least how many findings (e.g., pleural effusion, ascites)?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "All possible findings"
+      ],
+      "answer": "B",
+      "detail": "Hydrops requires at least two findings such as pleural/pericardial effusion, ascites, or edema."
+    },
+    {
+      "number": 13,
+      "question": "A 'thickened placenta' (> 4–5 cm) is an indirect sign of hydrops nicknamed:",
+      "choices": [
+        "Placentitis",
+        "Placentomegaly",
+        "Molar placenta",
+        "Succenturiate lobe",
+        "Circumvallate placenta"
+      ],
+      "answer": "B",
+      "detail": "Placentomegaly is a term used for an abnormally thick placenta in hydrops."
+    },
+    {
+      "number": 14,
+      "question": "Which Doppler study is useful for predicting hydrops by showing an increase in peak systolic flow?",
+      "choices": [
+        "Umbilical artery",
+        "MCA (Middle Cerebral Artery)",
+        "Uterine artery",
+        "Renal artery",
+        "Aorta"
+      ],
+      "answer": "B",
+      "detail": "MCA Doppler showing increased peak systolic flow can predict the onset of hydrops."
+    },
+    {
+      "number": 15,
+      "question": "Fetal Tachycardia is defined as a heart rate greater than:",
+      "choices": [
+        "140 bpm",
+        "160 bpm",
+        "180 bpm",
+        "200 bpm",
+        "250 bpm"
+      ],
+      "answer": "C",
+      "detail": "A fetal heart rate > 180 bpm defines tachycardia."
+    },
+    {
+      "number": 16,
+      "question": "Fetal Bradycardia is defined as a heart rate less than:",
+      "choices": [
+        "120 bpm",
+        "100 bpm",
+        "80 bpm",
+        "60 bpm",
+        "40 bpm"
+      ],
+      "answer": "B",
+      "detail": "A fetal heart rate < 100 bpm defines bradycardia."
+    },
+    {
+      "number": 17,
+      "question": "The 'Double Bubble' sign on antenatal imaging represents:",
+      "choices": [
+        "Pyloric stenosis",
+        "Duodenal Atresia",
+        "Esophageal atresia",
+        "Gastric volvulus",
+        "Normal bowel"
+      ],
+      "answer": "B",
+      "detail": "The 'double bubble' sign is diagnostic of duodenal atresia."
+    },
+    {
+      "number": 18,
+      "question": "Fetal bowel is considered 'echogenic' (too bright) if its brightness is equal to the:",
+      "choices": [
+        "Liver",
+        "Spleen",
+        "Iliac crest bone",
+        "Placenta",
+        "Uterine wall"
+      ],
+      "answer": "C",
+      "detail": "Bowel echogenicity is graded against the brightness of the fetal iliac crest."
+    },
+    {
+      "number": 19,
+      "question": "Which condition is a 'reflex' diagnosis when massively enlarged bilateral fetal kidneys and oligohydramnios are seen?",
+      "choices": [
+        "ADPKD",
+        "ARPKD (Autosomal Recessive Polycystic Kidney Disease)",
+        "Renal agenesis",
+        "Wilms tumor",
+        "MCDK"
+      ],
+      "answer": "B",
+      "detail": "Massively enlarged bilateral kidneys and oligohydramnios is the fetal hallmark of ARPKD."
+    },
+    {
+      "number": 20,
+      "question": "Posterior Urethral Valves (PUV) classically present on fetal imaging as:",
+      "choices": [
+        "Unilateral hydronephrosis",
+        "Bilateral hydro and a thick-walled bladder",
+        "Absent kidneys",
+        "Simple renal cysts",
+        "Pancake adrenals"
+      ],
+      "answer": "B",
+      "detail": "PUV results in high-pressure obstruction causing bilateral hydronephrosis and a thick bladder."
+    },
+    {
+      "number": 21,
+      "question": "A short femur is defined as a measurement below which percentile?",
+      "choices": [
+        "1st",
+        "5th",
+        "10th",
+        "25th",
+        "50th"
+      ],
+      "answer": "B",
+      "detail": "A femur length < 5th percentile is used to define a short femur."
+    },
+    {
+      "number": 22,
+      "question": "Which is the most common tumor of the fetus or infant?",
+      "choices": [
+        "Neuroblastoma",
+        "Wilms tumor",
+        "Sacrococcygeal Teratoma",
+        "Mesoblastic nephroma",
+        "Hepatoblastoma"
+      ],
+      "answer": "C",
+      "detail": "Sacrococcygeal teratoma is the most frequent tumor encountered in infancy."
+    },
+    {
+      "number": 23,
+      "question": "'Vasa Previa Type 1' occurs when fetal vessels connect to a:",
+      "choices": [
+        "Bilobed placenta",
+        "Velamentous cord insertion",
+        "Succenturiate lobe",
+        "Normal placenta",
+        "Placenta previa"
+      ],
+      "answer": "B",
+      "detail": "Type 1 vasa previa involves vessels connecting to a velamentous cord insertion."
+    },
+    {
+      "number": 24,
+      "question": "'Vasa Previa Type 2' is associated with vessels connecting to which placental variant?",
+      "choices": [
+        "Placenta previa",
+        "Bilobed placenta or succenturiate lobe",
+        "Circumvallate placenta",
+        "Placenta accreta",
+        "Normal placenta"
+      ],
+      "answer": "B",
+      "detail": "Type 2 vasa previa involves vessels connecting to an accessory or bilobed placenta."
+    },
+    {
+      "number": 25,
+      "question": "A single vertical fluid pocket of less than 2 cm is a component of the:",
+      "choices": [
+        "Biophysical Profile (BPP)",
+        "Apgar score",
+        "Bishop score",
+        "MELD score",
+        "NIH stroke scale"
+      ],
+      "answer": "A",
+      "detail": "The BPP requires at least one vertical fluid pocket > 2 cm for points."
+    },
+    {
+      "number": 26,
+      "question": "In fetal circulation, the umbilical vein carries blood from the placenta to the:",
+      "choices": [
+        "Aorta",
+        "Liver / IVC (via ductus venosus)",
+        "Splenic vein",
+        "Lung",
+        "Left atrium"
+      ],
+      "answer": "B",
+      "detail": "Umbilical vein blood reaches the IVC/liver via the ductus venosus."
+    },
+    {
+      "number": 27,
+      "question": "The fetal 'Cystic Rhombencephalon' is a normal structure seen in the posterior fossa at:",
+      "choices": [
+        "4 weeks",
+        "6–8 weeks",
+        "12 weeks",
+        "20 weeks",
+        "3rd trimester"
+      ],
+      "answer": "B",
+      "detail": "This is a normal posterior fossa landmark at 6-8 weeks and should not be mistaken for pathology."
+    },
+    {
+      "number": 28,
+      "question": "'Physiologic Midgut Herniation' into the umbilical cord is a normal process occurring at:",
+      "choices": [
+        "4–6 weeks",
+        "9–11 weeks",
+        "14–16 weeks",
+        "After 20 weeks",
+        "At birth"
+      ],
+      "answer": "B",
+      "detail": "Normal physiologic herniation is seen between weeks 9 and 11."
+    },
+    {
+      "number": 29,
+      "question": "The most common primary lung malignancy in children is:",
+      "choices": [
+        "Carcinoid",
+        "Pleuropulmonary Blastoma (PPB)",
+        "Adenocarcinoma",
+        "Squamous cell carcinoma",
+        "Mesothelioma"
+      ],
+      "answer": "B",
+      "detail": "PPB is the most frequent primary pediatric lung cancer."
+    },
+    {
+      "number": 30,
+      "question": "Which 'Michaelis-Gutmann' body containing condition is associated with chronic E. coli UTIs?",
+      "choices": [
+        "Leukoplakia",
+        "Malakoplakia",
+        "TB",
+        "Sarcoidosis",
+        "GvHD"
+      ],
+      "answer": "B",
+      "detail": "Malakoplakia features Michaelis-Gutmann bodies and is related to chronic infections."
+    },
+    {
+      "number": 31,
+      "question": "The 'Lemon Sign' on a fetal head scan typically disappears after:",
+      "choices": [
+        "12 weeks",
+        "18 weeks",
+        "24 weeks",
+        "32 weeks",
+        "Birth"
+      ],
+      "answer": "C",
+      "detail": "The lemon sign (frontal indentation) usually resolves after 24 weeks."
+    },
+    {
+      "number": 32,
+      "question": "What is the classic look of CMV infection in the fetal brain?",
+      "choices": [
+        "High T2 signal in white matter",
+        "Periventricular calcifications",
+        "Basal ganglia calcifications",
+        "Hydranencephaly",
+        "Frontal lobe atrophy"
+      ],
+      "answer": "B",
+      "detail": "CMV characteristically causes periventricular calcifications."
+    },
+    {
+      "number": 33,
+      "question": "Which TORCH infection has the HIGHEST association with polymicrogyria?",
+      "choices": [
+        "CMV",
+        "Toxoplasmosis",
+        "Rubella",
+        "HSV",
+        "HIV"
+      ],
+      "answer": "A",
+      "detail": "Among TORCH infections, CMV is most strongly linked to polymicrogyria."
+    },
+    {
+      "number": 34,
+      "question": "Toxoplasmosis infection in the fetus classically targets the:",
+      "choices": [
+        "Germinal matrix",
+        "Basal ganglia",
+        "Frontal lobes",
+        "Cerebellum",
+        "Pituitary"
+      ],
+      "answer": "B",
+      "detail": "Fetal toxoplasmosis typically targets the basal ganglia."
+    },
+    {
+      "number": 35,
+      "question": "HSV-2 infection in the newborn prefers endothelial cells, often resulting in bad encephalomalacia and:",
+      "choices": [
+        "Microcephaly only",
+        "Hydranencephaly",
+        "Normal development",
+        "Macrocephaly",
+        "Pituitary apoplexy"
+      ],
+      "answer": "B",
+      "detail": "HSV-2 can lead to severe encephalomalacia and hydranencephaly."
+    },
+    {
+      "number": 36,
+      "question": "A cervix is considered 'short' (incompetent) if its canal measures less than:",
+      "choices": [
+        "1.0 cm",
+        "2.0 cm",
+        "2.5 cm",
+        "4.0 cm",
+        "5.0 cm"
+      ],
+      "answer": "C",
+      "detail": "A measurement < 2.5 cm is the threshold for a short cervix."
+    },
+    {
+      "number": 37,
+      "question": "Maternal hydronephrosis occurs in what percentage of pregnancies?",
+      "choices": [
+        "10%",
+        "25%",
+        "50%",
+        "80%",
+        "100%"
+      ],
+      "answer": "D",
+      "detail": "Mechanical compression causes hydronephrosis in 80% of pregnant women."
+    },
+    {
+      "number": 38,
+      "question": "Maternal hydronephrosis tends to affect which side more often?",
+      "choices": [
+        "Left side",
+        "Right side (5x more common)",
+        "Both sides equally",
+        "Only in twins",
+        "Right side in the 1st trimester only"
+      ],
+      "answer": "B",
+      "detail": "The right side is affected 5x more often due to uterine dextrorotation."
+    },
+    {
+      "number": 39,
+      "question": "Fibroids tend to grow in early pregnancy secondary to elevated:",
+      "choices": [
+        "Progesterone",
+        "Estrogen",
+        "Cortisol",
+        "Beta-hCG",
+        "Testosterone"
+      ],
+      "answer": "B",
+      "detail": "High estrogen in early pregnancy promotes fibroid growth."
+    },
+    {
+      "number": 40,
+      "question": "In later pregnancy, which hormone can have an inhibitory effect on fibroid growth?",
+      "choices": [
+        "Estrogen",
+        "Progesterone",
+        "Oxytocin",
+        "Prolactin",
+        "LH"
+      ],
+      "answer": "B",
+      "detail": "Progesterone levels later in pregnancy can inhibit further fibroid growth."
+    },
+    {
+      "number": 41,
+      "question": "Uterine rupture is most common in the 3rd trimester and occurs most frequently at the site of:",
+      "choices": [
+        "The fundus",
+        "Prior C-section",
+        "The cervix",
+        "The fallopian tube",
+        "The bladder dome"
+      ],
+      "answer": "B",
+      "detail": "Rupture occurs most often through a prior C-section scar."
+    },
+    {
+      "number": 42,
+      "question": "Which of the following is a risk factor for uterine rupture?",
+      "choices": [
+        "Bicornuate uterus",
+        "Unicornuate uterus",
+        "Arcuate uterus",
+        "Simple cyst",
+        "Nabothian cyst"
+      ],
+      "answer": "B",
+      "detail": "Unicornuate uterus and prior uterine surgery are significant risk factors."
+    },
+    {
+      "number": 43,
+      "question": "HELLP Syndrome is defined by Hemolysis, Low Platelets, and:",
+      "choices": [
+        "High blood pressure",
+        "Elevated Liver Enzymes",
+        "High blood sugar",
+        "Low creatinine",
+        "Splenomegaly"
+      ],
+      "answer": "B",
+      "detail": "HELLP stands for Hemolysis, Elevated Liver enzymes, and Low Platelets."
+    },
+    {
+      "number": 44,
+      "question": "What is the characteristic imaging finding of HELLP Syndrome?",
+      "choices": [
+        "Ovarian torsion",
+        "Subcapsular hepatic hematoma",
+        "Splenic infarct",
+        "Renal AML",
+        "Uterine AVM"
+      ],
+      "answer": "B",
+      "detail": "The hallmark imaging finding for HELLP is a subcapsular hepatic hematoma."
+    },
+    {
+      "number": 45,
+      "question": "Peripartum Cardiomyopathy is a dilated cardiomyopathy that can be seen from the last month of pregnancy up to how many months postpartum?",
+      "choices": [
+        "1 month",
+        "5 months",
+        "12 months",
+        "24 months",
+        "5 years"
+      ],
+      "answer": "B",
+      "detail": "The clinical window for this cardiomyopathy is from late pregnancy to 5 months postpartum."
+    },
+    {
+      "number": 46,
+      "question": "Sheehan Syndrome is defined as pituitary apoplexy resulting from:",
+      "choices": [
+        "High protein diet",
+        "Postpartum hemorrhage and acute hypotension",
+        "Maternal diabetes",
+        "Smoking",
+        "Multiple pregnancies"
+      ],
+      "answer": "B",
+      "detail": "Large-volume postpartum hemorrhage leads to hypotension and pituitary apoplexy."
+    },
+    {
+      "number": 47,
+      "question": "In the ACUTE phase of Sheehan Syndrome, the pituitary will likely appear:",
+      "choices": [
+        "T1 bright",
+        "T1 dark",
+        "Calcified",
+        "Absent",
+        "Replaced by fat"
+      ],
+      "answer": "A",
+      "detail": "Acute hemorrhage/apoplexy in the pituitary typically appears T1 bright."
+    },
+    {
+      "number": 48,
+      "question": "The 'late look' of Sheehan Syndrome on MRI is:",
+      "choices": [
+        "A massively enlarged gland",
+        "Ring enhancement around an empty sella",
+        "Homogeneous enhancement",
+        "Multiple microcysts",
+        "A 'snowstorm' appearance"
+      ],
+      "answer": "B",
+      "detail": "Late-stage Sheehan results in an empty sella with a ring of enhancement."
+    },
+    {
+      "number": 49,
+      "question": "Ovarian Vein Thrombophlebitis (OVT) is a cause of postpartum fever that affects the RIGHT side how much more often than the left?",
+      "choices": [
+        "2x",
+        "5x",
+        "10x",
+        "100x",
+        "It is only on the left"
+      ],
+      "answer": "B",
+      "detail": "OVT occurs on the right side 5 times more frequently than the left."
+    },
+    {
+      "number": 50,
+      "question": "Retained Products of Conception (RPOC) typically present with:",
+      "choices": [
+        "Fever and no bleeding",
+        "Continued bleeding after delivery or abortion",
+        "Sudden weight gain",
+        "High resistive indices",
+        "Jaundice"
+      ],
+      "answer": "B",
+      "detail": "Ongoing postpartum bleeding is the most common clinical presentation for RPOC."
+    },
+    {
+      "number": 51,
+      "question": "RPOC should be suspected if the endometrial thickness is greater than which threshold following dilation and curettage (D&C)?",
+      "choices": [
+        "1 mm",
+        "3 mm",
+        "5 mm",
+        "15 mm",
+        "20 mm"
+      ],
+      "answer": "C",
+      "detail": "A thickness > 5 mm post-D&C is concerning for RPOC."
+    },
+    {
+      "number": 52,
+      "question": "General irregular endometrial thickening of greater than how many mm is a sneaky way to show RPOC?",
+      "choices": [
+        "2 mm",
+        "5 mm",
+        "10 mm",
+        "50 mm",
+        "100 mm"
+      ],
+      "answer": "C",
+      "detail": "Irregular thickening > 10 mm often represents retained products."
+    },
+    {
+      "number": 53,
+      "question": "Endometritis characteristically features which triad of symptoms?",
+      "choices": [
+        "Fever, weight loss, and mass",
+        "Fever, uterine tenderness, and recent C-section",
+        "Painless bleeding and hypertension",
+        "Jaundice, gallstones, and pain",
+        "Ascites, pleural effusion, and fibroma"
+      ],
+      "answer": "B",
+      "detail": "Postpartum fever and tenderness are the classic clinical markers."
+    },
+    {
+      "number": 54,
+      "question": "Which of the following grow specifically during pregnancy?",
+      "choices": [
+        "Babies, Splenic Artery Aneurysms, Renal AMLs, and Fibroids",
+        "Liver hemangiomas and Nabothian cysts",
+        "Brain tumors and lung cysts",
+        "Spleens and gallstones",
+        "Kidneys and adrenals"
+      ],
+      "answer": "A",
+      "detail": "For multiple-choice purposes, these four things are known to grow during pregnancy."
+    },
+    {
+      "number": 55,
+      "question": "A subcapsular hepatic hematoma in a pregnant woman with low platelets is pathognomonic for:",
+      "choices": [
+        "OVT",
+        "HELLP Syndrome",
+        "Sheehan Syndrome",
+        "Peripartum Cardiomyopathy",
+        "Uterine rupture"
+      ],
+      "answer": "B",
+      "detail": "This combination is the classic exam presentation for HELLP."
+    },
+    {
+      "number": 56,
+      "question": "A 'trapped uterus' refers to persistent:",
+      "choices": [
+        "Anteflexion",
+        "Retroflexion from adhesions",
+        "Dilation of the cervix",
+        "Incompetence",
+        "Prolapse"
+      ],
+      "answer": "B",
+      "detail": "A uterus 'trapped' in retroflexion by adhesions is a risk for rupture."
+    },
+    {
+      "number": 57,
+      "question": "Macrosomia refers to babies that are 'too big,' defined as being above which percentile?",
+      "choices": [
+        "50th",
+        "75th",
+        "90th",
+        "99th",
+        "100th"
+      ],
+      "answer": "C",
+      "detail": "The 90th percentile is the standard definition for fetal macrosomia."
+    },
+    {
+      "number": 58,
+      "question": "What is the most common cause of fetal macrosomia?",
+      "choices": [
+        "Maternal hypertension",
+        "Maternal diabetes (gestational or type 2)",
+        "High protein diet",
+        "Smoking",
+        "CF"
+      ],
+      "answer": "B",
+      "detail": "Maternal diabetes is the leading contributor to macrosomia."
+    },
+    {
+      "number": 59,
+      "question": "Erb's Palsy is a brachial plexus injury (C5-C6) most commonly associated with:",
+      "choices": [
+        "Shoulder dystocia (risk in macrosomia)",
+        "Duodenal atresia",
+        "Fetal hydrops",
+        "Placenta previa",
+        "ARPKD"
+      ],
+      "answer": "A",
+      "detail": "Shoulder dystocia in large babies is the classic mechanism for Erb's Palsy."
+    },
+    {
+      "number": 60,
+      "question": "Oligohydramnios is defined as an Amniotic Fluid Index (AFI) less than:",
+      "choices": [
+        "2 cm",
+        "5 cm",
+        "10 cm",
+        "20 cm",
+        "50 cm"
+      ],
+      "answer": "B",
+      "detail": "An AFI < 5 cm defines oligohydramnios."
+    },
+    {
+      "number": 61,
+      "question": "Polyhydramnios is defined as an AFI greater than:",
+      "choices": [
+        "5 cm",
+        "10 cm",
+        "15 cm",
+        "20 cm (or a single pocket > 8 cm)",
+        "50 cm"
+      ],
+      "answer": "D",
+      "detail": "An AFI > 20 cm or a single pocket > 8 cm defines polyhydramnios."
+    },
+    {
+      "number": 62,
+      "question": "If you see too little fluid (oligohydramnios), the reflex thought should be:",
+      "choices": [
+        "The baby isn't swallowing",
+        "The baby's kidneys aren't working (not peeing)",
+        "Maternal diabetes",
+        "Twins",
+        "Molar pregnancy"
+      ],
+      "answer": "B",
+      "detail": "Low fluid often means the baby is not producing urine due to renal issues."
+    },
+    {
+      "number": 63,
+      "question": "If you see too much fluid (polyhydramnios), the reflex thought should be:",
+      "choices": [
+        "The baby's kidneys are too good",
+        "The baby isn't drinking (bad GI/swallow)",
+        "Placental insufficiency",
+        "Renal agenesis",
+        "Normal development"
+      ],
+      "answer": "B",
+      "detail": "Excess fluid suggests the baby cannot swallow it, often due to GI obstructions."
+    },
+    {
+      "number": 64,
+      "question": "A 'Two Vessel Cord' (missing one artery) is seen in 1% of pregnancies and is associated with:",
+      "choices": [
+        "Normal outcome 100% of the time",
+        "Chromosomal anomalies and diabetes",
+        "High resistive indices only",
+        "Smoking",
+        "Multiple births only"
+      ],
+      "answer": "B",
+      "detail": "A single umbilical artery increases the risk for anomalies and maternal diabetes."
+    },
+    {
+      "number": 65,
+      "question": "Which maternal artery should NOT have its systolic/diastolic ratio exceed 3 at 34 weeks?",
+      "choices": [
+        "MCA",
+        "Umbilical Artery",
+        "Uterine artery",
+        "Renal artery",
+        "Aorta"
+      ],
+      "answer": "B",
+      "detail": "A ratio > 3 in the umbilical artery suggests pre-eclampsia and IUGR."
+    },
+    {
+      "number": 66,
+      "question": "A 'Painless Vaginal Bleeding' in the 3rd trimester is the clinical trigger for:",
+      "choices": [
+        "Placental abruption",
+        "Placenta Previa",
+        "Uterine rupture",
+        "HELLP Syndrome",
+        "Sheehan Syndrome"
+      ],
+      "answer": "B",
+      "detail": "The hallmark of placenta previa is painless bleeding near term."
+    },
+    {
+      "number": 67,
+      "question": "A 'PAINFUL' premature separation of the placenta is:",
+      "choices": [
+        "Placenta previa",
+        "Placental Abruption",
+        "Placenta accreta",
+        "Vasa previa",
+        "Succenturiate lobe"
+      ],
+      "answer": "B",
+      "detail": "Unlike previa, abruption is characteristically painful."
+    },
+    {
+      "number": 68,
+      "question": "'Placenta Creta' risk factors include advanced maternal age, placenta previa, and:",
+      "choices": [
+        "Smoking",
+        "Prior C-section",
+        "High protein diet",
+        "First-time pregnancy",
+        "Turner Syndrome"
+      ],
+      "answer": "B",
+      "detail": "Prior C-sections and placenta previa are the primary risk factors for Creta."
+    },
+    {
+      "number": 69,
+      "question": "Placenta Chorioangioma is a hamartoma that can cause high output failure (hydrops) if it is larger than:",
+      "choices": [
+        "1 cm",
+        "2 cm",
+        "4 cm",
+        "10 cm",
+        "50 cm"
+      ],
+      "answer": "C",
+      "detail": "Chorioangiomas > 4 cm can lead to fetal high-output heart failure."
+    },
+    {
+      "number": 70,
+      "question": "'Vasa Previa' vessels that cross the internal cervical os are at high risk of:",
+      "choices": [
+        "Turning into cancer",
+        "Rupture during labor (life-threatening)",
+        "Calcifying",
+        "Disappearing",
+        "Causing twins"
+      ],
+      "answer": "B",
+      "detail": "These fetal vessels can rupture during labor, causing catastrophic bleeding."
+    },
+    {
+      "number": 71,
+      "question": "Dizygotic (not-identical) twins are always:",
+      "choices": [
+        "Monochorionic",
+        "Dichorionic and Diamniotic",
+        "Monoamniotic",
+        "Conjoined",
+        "Part of a molar pregnancy"
+      ],
+      "answer": "B",
+      "detail": "Fraternal twins always have separate chorions and sacs."
+    },
+    {
+      "number": 72,
+      "question": "Monozygotic (identical) twins that split before 8 days are:",
+      "choices": [
+        "Monochorionic monoamniotic",
+        "Diamniotic",
+        "Conjoined",
+        "Always in separate placentas",
+        "Triploid"
+      ],
+      "answer": "B",
+      "detail": "Splitting before day 8 results in two amniotic sacs."
+    },
+    {
+      "number": 73,
+      "question": "Splitting of a fertilized ovum AFTER 8 days results in:",
+      "choices": [
+        "Dichorionic twins",
+        "Monoamniotic twins",
+        "Conjoined twins",
+        "Normal singletons",
+        "Molar pregnancy"
+      ],
+      "answer": "B",
+      "detail": "A split after 8 days means the twins share one amniotic sac."
+    },
+    {
+      "number": 74,
+      "question": "Conjoined twins result from a very late split, typically occurring after:",
+      "choices": [
+        "4 days",
+        "8 days",
+        "13 days",
+        "20 days",
+        "40 days"
+      ],
+      "answer": "C",
+      "detail": "Splitting at 13 days or later leads to incomplete separation (conjoined)."
+    },
+    {
+      "number": 75,
+      "question": "The 'Twin-Peak Sign' (beak-like tongue of membrane) EXCLUDES which type of pregnancy?",
+      "choices": [
+        "Dichorionic",
+        "Monochorionic",
+        "Monozygotic",
+        "Dizygotic",
+        "Singleton"
+      ],
+      "answer": "B",
+      "detail": "The 'beak' proves it is dichorionic, which excludes sharing a chorion."
+    },
+    {
+      "number": 76,
+      "question": "The 'T Sign' (absence of a twin peak) is the hallmark for:",
+      "choices": [
+        "Dichorionic pregnancy",
+        "Monochorionic pregnancy",
+        "Dizygotic twins",
+        "Conjoined twins",
+        "Fetal demise"
+      ],
+      "answer": "B",
+      "detail": "A 'T' intersection (thin membrane meeting placenta) defines monochorionicity."
+    },
+    {
+      "number": 77,
+      "question": "Membrane thickness is used to differentiate twins; a 'thick' membrane (1–2 mm) suggests:",
+      "choices": [
+        "Monochorionic",
+        "Dichorionic",
+        "Monoamniotic",
+        "Triplets",
+        "Normal singleton"
+      ],
+      "answer": "B",
+      "detail": "Dichorionic membranes have 4 layers and appear thicker (1-2 mm)."
+    },
+    {
+      "number": 78,
+      "question": "Twin-Twin Transfusion Syndrome (TTTS) occurs ONLY in which type of twins?",
+      "choices": [
+        "Dichorionic",
+        "Monochorionic",
+        "Dizygotic",
+        "Conjoined only",
+        "Fraternal"
+      ],
+      "answer": "B",
+      "detail": "TTTS requires a single placenta with vascular communications."
+    },
+    {
+      "number": 79,
+      "question": "In TTTS, which twin is actually the one that typically gets hydrops and dies?",
+      "choices": [
+        "The skinny wimpy twin",
+        "The greedy fat twin (Recipient)",
+        "Both twins equally",
+        "Neither (they both do well)",
+        "Only the male twin"
+      ],
+      "answer": "B",
+      "detail": "The recipient twin receives too much blood, leading to fluid overload/hydrops."
+    },
+    {
+      "number": 80,
+      "question": "TRAP sequence and TTTS are both characterized by:",
+      "choices": [
+        "TOPS (Twin Oligopolyhydramnios Sequence)",
+        "Hgb differences only",
+        "Absence of any fluid",
+        "Normal heart rates",
+        "Separate placentas"
+      ],
+      "answer": "A",
+      "detail": "Both involve dramatic fluid shifts with one twin having too much and the other too little."
+    },
+    {
+      "number": 81,
+      "question": "'Twin-Embolization Syndrome' refers to the transfer of necrotic tissue from a dead baby to a living one; this can ONLY occur in:",
+      "choices": [
+        "Dichorionic twins",
+        "Monochorionic twins",
+        "Dizygotic twins",
+        "Singletons",
+        "Molar pregnancies"
+      ],
+      "answer": "B",
+      "detail": "Shared circulation is required for necrotic tissue to transfer to the survivor."
+    },
+    {
+      "number": 82,
+      "question": "What are the potential results of Twin-Embolization Syndrome for the surviving fetus?",
+      "choices": [
+        "DIC, tissue ischemia, and infarct",
+        "High IQ",
+        "Macrosomia",
+        "Normal heart rate",
+        "Biliary atresia"
+      ],
+      "answer": "A",
+      "detail": "Survivor risks include DIC, ischemia, and infarction."
+    },
+    {
+      "number": 83,
+      "question": "TAPS (Twin Anemia-Polycythemia Sequence) is characterized by hemoglobin differences but does NOT feature:",
+      "choices": [
+        "Anemia",
+        "TOPS",
+        "Slow flow",
+        "Monochorionic twins",
+        "Vascular communication"
+      ],
+      "answer": "B",
+      "detail": "TAPS is a slow flow hemoglobin shift without the fluid sequence seen in TTTS."
+    },
+    {
+      "number": 84,
+      "question": "Monoamniotic twins (splitting after 8 days) have worse outcomes because they:",
+      "choices": [
+        "Get all tangled up (cord entanglement)",
+        "Have too much fluid",
+        "Are always different genders",
+        "Have two separate placentas",
+        "Are less common"
+      ],
+      "answer": "A",
+      "detail": "Cord entanglement is a major cause of death in monoamniotics."
+    },
+    {
+      "number": 85,
+      "question": "As a general rule, the LATER the fertilized ovum splits:",
+      "choices": [
+        "The better the outcome",
+        "The worse things do",
+        "The more likely they are dizygotic",
+        "The thicker the membrane",
+        "The smaller the placenta"
+      ],
+      "answer": "B",
+      "detail": "Risk increases significantly as the split happens later in development."
+    },
+    {
+      "number": 86,
+      "question": "Dichorionic diamniotic fetuses can have either separate placentas or a:",
+      "choices": [
+        "Monochorionic placenta",
+        "Fused placenta",
+        "Succenturiate placenta",
+        "Molar placenta",
+        "Single umbilical cord"
+      ],
+      "answer": "B",
+      "detail": "Separate placentas can fuse together and appear as one mass on ultrasound."
+    },
+    {
+      "number": 87,
+      "question": "Which twin 'battle tactic' involves looking for the 'beak-like tongue' between membranes?",
+      "choices": [
+        "Twin-Peak Sign",
+        "T Sign",
+        "Molar Tooth sign",
+        "Cobra head sign",
+        "Champagne glass sign"
+      ],
+      "answer": "A",
+      "detail": "The 'beak' confirms a dichorionic diamniotic status."
+    },
+    {
+      "number": 88,
+      "question": "'Azygos continuation' of the IVC is a classic association for which heterotaxia?",
+      "choices": [
+        "Asplenia",
+        "Polysplenia (Bilateral Left Sidedness)",
+        "Situs Solitus",
+        "Normal development",
+        "Horseshoe kidney"
+      ],
+      "answer": "B",
+      "detail": "Azygos continuation is pathognomonic for polysplenia."
+    },
+    {
+      "number": 89,
+      "question": "'Reversed Aorta/IVC' is a feature of which heterotaxia syndrome?",
+      "choices": [
+        "Asplenia (Bilateral Right Sidedness)",
+        "Polysplenia",
+        "Situs Inversus",
+        "Turner Syndrome",
+        "VACTERL"
+      ],
+      "answer": "A",
+      "detail": "The flipped aorta and IVC relationship defines asplenia."
+    },
+    {
+      "number": 90,
+      "question": "How many lung fissures are found in a 'Bilateral Right Sided' (Asplenia) patient?",
+      "choices": [
+        "Two on each side",
+        "One on each side",
+        "None",
+        "Three on the right, zero on the left",
+        "10 total"
+      ],
+      "answer": "A",
+      "detail": "Asplenia means both sides look like the right lung, which has two fissures."
+    },
+    {
+      "number": 91,
+      "question": "How many lung fissures are found in a 'Bilateral Left Sided' (Polysplenia) patient?",
+      "choices": [
+        "Two on each side",
+        "One on each side",
+        "None",
+        "Five total",
+        "100"
+      ],
+      "answer": "B",
+      "detail": "Polysplenia means both sides look like the left lung, which has one fissure."
+    },
+    {
+      "number": 92,
+      "question": "Biliary atresia is associated with which condition in 10% of cases?",
+      "choices": [
+        "Asplenia",
+        "Polysplenia",
+        "Horseshoe kidney",
+        "T-shaped uterus",
+        "Fibroids"
+      ],
+      "answer": "B",
+      "detail": "10% of polysplenia cases have associated biliary atresia."
+    },
+    {
+      "number": 93,
+      "question": "'Situs Solitus' is a fancy way of saying:",
+      "choices": [
+        "Normal anatomy",
+        "Mirror image anatomy",
+        "Ambiguous anatomy",
+        "Absent spleen",
+        "Multiple spleens"
+      ],
+      "answer": "A",
+      "detail": "Solitus means standard normal organ arrangement."
+    },
+    {
+      "number": 94,
+      "question": "'Situs Inversus Totalis' refers to:",
+      "choices": [
+        "Normal anatomy",
+        "Total mirror image transposition",
+        "Absent IVC",
+        "Multiple spleens",
+        "Only the heart is flipped"
+      ],
+      "answer": "B",
+      "detail": "Total mirror image arrangement of all thoracic and abdominal organs."
+    },
+    {
+      "number": 95,
+      "question": "'Situs Ambiguus' is another term for:",
+      "choices": [
+        "Normalcy",
+        "Heterotaxy",
+        "Mirror image",
+        "Azygous continuation",
+        "Renal agenesis"
+      ],
+      "answer": "B",
+      "detail": "Ambiguus refers to the disorganized anatomy of heterotaxy."
+    },
+    {
+      "number": 96,
+      "question": "A vertical fluid pocket > 8 cm on ultrasound is the definition of:",
+      "choices": [
+        "Oligohydramnios",
+        "Polyhydramnios",
+        "Normal fluid",
+        "Placenta previa",
+        "Molar pregnancy"
+      ],
+      "answer": "B",
+      "detail": "A single pocket exceeding 8 cm is polyhydramnios."
+    },
+    {
+      "number": 97,
+      "question": "'Amniotic Band Syndrome' can cause which of the following severe complications?",
+      "choices": [
+        "Diabetes",
+        "Decapitation or limb amputation",
+        "Biliary atresia",
+        "Renal stones",
+        "Twins"
+      ],
+      "answer": "B",
+      "detail": "Constricting bands can literally sever fetal limbs or heads."
+    },
+    {
+      "number": 98,
+      "question": "Monozygotic twins: splitting at 13 days or later leads to:",
+      "choices": [
+        "Separate sacs",
+        "Conjoined twins",
+        "Tripletts",
+        "Molar twins",
+        "Normal development"
+      ],
+      "answer": "B",
+      "detail": "Very late splitting (after day 13) results in incomplete division."
+    },
+    {
+      "number": 99,
+      "question": "Which twin sign 'excludes a monochorionic pregnancy'?",
+      "choices": [
+        "Twin-Peak Sign",
+        "T Sign",
+        "Molar Tooth Sign",
+        "Air-fluid level",
+        "Snowstorm sign"
+      ],
+      "answer": "A",
+      "detail": "The twin-peak sign confirms separate chorions."
+    },
+    {
+      "number": 100,
+      "question": "In TTTS, the fat twin usually does worse and the 'skinny kid' outcome is:",
+      "choices": [
+        "Actually does better",
+        "Always fatal",
+        "Gets hydrops first",
+        "Becomes a giant",
+        "Turns into a mole"
+      ],
+      "answer": "A",
+      "detail": "The donor twin often has a better clinical prognosis than the recipient."
+    }
+  ]
+}

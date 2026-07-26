@@ -1,0 +1,1307 @@
+{
+    "questions": 
+
+[
+  {
+    "number": 1,
+    "question": "How many ribs must be visible above the diaphragm to define hyperinflation in a neonatal chest X-ray?",
+    "choices": [
+      "4 anterior, 6 posterior",
+      "More than 6 anterior, or 8 posterior",
+      "5 anterior, 7 posterior",
+      "7 anterior, 9 posterior",
+      "Any visibility of the 10th rib"
+    ],
+    "answer": "B",
+    "detail": "Neonatal hyperinflation is determined by counting more than 6 anterior or 8 posterior ribs at the level of the diaphragm."
+  },
+  {
+    "number": 2,
+    "question": "Which of the following is a classic sign of hyperinflation on a babygram?",
+    "choices": [
+      "Elevation of the diaphragms",
+      "More vertical course of the ribs",
+      "Flattening of the diaphragms",
+      "Decreased lucency under the heart",
+      "Splaying of the carina"
+    ],
+    "answer": "C",
+    "detail": "Helpful signs of hyperinflation include flattening of the diaphragms and ribs taking on a more horizontal appearance."
+  },
+  {
+    "number": 3,
+    "question": "Which neonatal lung conditions are associated with HIGH lung volumes and perihilar streaking (the MNoP mnemonic)?",
+    "choices": [
+      "Meconium Aspiration, Non-GBS Neonatal Pneumonia",
+      "Surfactant-Deficient Disease, Group B Pneumonia",
+      "TTN, CLE, CCAM",
+      "PIE, BPD, RSV",
+      "Only Meconium Aspiration"
+    ],
+    "answer": "A",
+    "detail": "Meconium, Aspiration, and Non-GBS Neonatal Pneumonia typically present with high lung volumes and a streaky pattern."
+  },
+  {
+    "number": 4,
+    "question": "Meconium Aspiration is most commonly seen in which patient population?",
+    "choices": [
+      "Extreme premies (< 28 weeks)",
+      "Infants born via C-section",
+      "Term or post-mature babies",
+      "Infants of diabetic mothers",
+      "Only in twins"
+    ],
+    "answer": "C",
+    "detail": "Meconium aspiration is more common in term or post-mature babies, often associated with stress/hypoxia."
+  },
+  {
+    "number": 5,
+    "question": "What is the classic radiographic buzzword for Meconium Aspiration?",
+    "choices": [
+      "Ground glass",
+      "\"Ropy appearance\" of asymmetric lung densities",
+      "Egg on a string",
+      "Snowman appearance",
+      "Band-like opacities"
+    ],
+    "answer": "B",
+    "detail": "The hallmark of Meconium Aspiration is a \"ropy appearance\" with hyperinflation and alternating areas of atelectasis."
+  },
+  {
+    "number": 6,
+    "question": "Why does Meconium Aspiration cause hyperinflation despite being \"sticky poop\" in the lungs?",
+    "choices": [
+      "It causes chemical burns that expand alveoli",
+      "It acts like a miniature ball-valve, causing air trapping",
+      "It stimulates surfactant production",
+      "It is always associated with a PDA",
+      "It is purely due to the baby crying harder"
+    ],
+    "answer": "B",
+    "detail": "The meconium acts as a ball-valve, allowing air in but not out, leading to air trapping and increased volumes."
+  },
+  {
+    "number": 7,
+    "question": "Pneumothorax occurs in what percentage of Meconium Aspiration cases?",
+    "choices": [
+      "5%",
+      "10%",
+      "20-40%",
+      "60%",
+      "It never occurs"
+    ],
+    "answer": "C",
+    "detail": "Pneumothorax is a common complication of meconium aspiration, occurring in 20-40% of cases."
+  },
+  {
+    "number": 8,
+    "question": "What is the classic clinical history associated with Transient Tachypnea of the Newborn (TTN)?",
+    "choices": [
+      "Post-term delivery",
+      "History of C-section",
+      "Prematurity with low birth weight",
+      "Maternal Rubella",
+      "Group B Strep positive mother"
+    ],
+    "answer": "B",
+    "detail": "The classic history for TTN is a C-section (where the vagina doesn't squeeze the fluid out) or maternal sedation."
+  },
+  {
+    "number": 9,
+    "question": "When do radiographic findings of Transient Tachypnea of the Newborn (TTN) typically resolve?",
+    "choices": [
+      "Within 6 hours",
+      "By day 3",
+      "After 1 month",
+      "They progress to chronic lung disease",
+      "Only after surfactant therapy"
+    ],
+    "answer": "B",
+    "detail": "Findings peak at one day and are typically resolved by 3 days."
+  },
+  {
+    "number": 10,
+    "question": "Radiographic coarse interstitial markings and fluid in the fissures on a term infant's CXR suggest:",
+    "choices": [
+      "Meconium Aspiration",
+      "Transient Tachypnea of the Newborn (TTN)",
+      "Surfactant-Deficient Disease (SDD)",
+      "Group B Strep Pneumonia",
+      "Pulmonary Hypoplasia"
+    ],
+    "answer": "B",
+    "detail": "Coarse markings and fluid in the fissures are classic radiographic features of TTN."
+  },
+  {
+    "number": 11,
+    "question": "Surfactant-Deficient Disease (SDD/RDS) is primarily a disease of:",
+    "choices": [
+      "Post-term infants",
+      "Pre-mature infants",
+      "Infants of diabetic mothers only",
+      "Babies born via C-section",
+      "Full-term infants with hypoxia"
+    ],
+    "answer": "B",
+    "detail": "SDD is a disease of pre-mature kids who lack surfactant to keep alveoli open."
+  },
+  {
+    "number": 12,
+    "question": "Which radiographic findings characterize Surfactant-Deficient Disease (SDD)?",
+    "choices": [
+      "High lung volumes and ropy opacities",
+      "Low lung volumes and bilateral granular opacities",
+      "High lung volumes and fluid in the fissures",
+      "Normal lung volumes and pleural effusions",
+      "Unilateral lucent lung"
+    ],
+    "answer": "B",
+    "detail": "SDD features low lung volumes and granular (sand-like) opacities."
+  },
+  {
+    "number": 13,
+    "question": "Which finding helps distinguish Group B Strep (GBS) Pneumonia from SDD on a babygram?",
+    "choices": [
+      "SDD has high lung volumes",
+      "GBS never has granular opacities",
+      "Presence of pleural effusions",
+      "SDD only occurs in term infants",
+      "GBS resolves in 3 days"
+    ],
+    "answer": "C",
+    "detail": "Unlike SDD, Group B Strep Pneumonia often (25%) has pleural effusions."
+  },
+  {
+    "number": 14,
+    "question": "A normal chest X-ray at what time interval effectively excludes SDD?",
+    "choices": [
+      "1 hour",
+      "6 hours",
+      "24 hours",
+      "3 days",
+      "1 week"
+    ],
+    "answer": "B",
+    "detail": "A normal plain film at 6 hours effectively excludes SDD."
+  },
+  {
+    "number": 15,
+    "question": "What are the known risks of Surfactant Replacement Therapy?",
+    "choices": [
+      "Pulmonary hemorrhage and PDA",
+      "Sudden cardiac death and VSD",
+      "Scoliosis and rib notching",
+      "Biliary cirrhosis and portal HTN",
+      "Gastroschisis and malrotation"
+    ],
+    "answer": "A",
+    "detail": "Surfactant therapy increases the risk of pulmonary hemorrhage and Patent Ductus Arteriosus (PDA)."
+  },
+  {
+    "number": 16,
+    "question": "Which type of neonatal pneumonia is the MOST common?",
+    "choices": [
+      "Viral (RSV)",
+      "Beta-Hemolytic Strep (GBS)",
+      "Non-GBS Pneumonia",
+      "Chlamydia",
+      "Staph Aureus"
+    ],
+    "answer": "B",
+    "detail": "Group B Strep is the most common type of pneumonia in newborns."
+  },
+  {
+    "number": 17,
+    "question": "Pulmonary Interstitial Emphysema (PIE) is characteristically a consequence of:",
+    "choices": [
+      "Meconium blockage",
+      "Positive pressure ventilation (PEEP)",
+      "Lack of vitamin D",
+      "Chronic aspiration of gastric acid",
+      "Maternal smoking"
+    ],
+    "answer": "B",
+    "detail": "PIE is a consequence of positive pressure ventilation \"pulverizing\" the lungs, causing air to escape into the interstitium."
+  },
+  {
+    "number": 18,
+    "question": "What is the characteristic radiographic appearance of Pulmonary Interstitial Emphysema (PIE)?",
+    "choices": [
+      "Ropy asymmetric densities",
+      "Coarse reticular opacities",
+      "Linear lucencies (bubbles/lines that don't move)",
+      "A large pleural effusion",
+      "\"Oreo cookie\" sign"
+    ],
+    "answer": "C",
+    "detail": "The radiographic buzzword for PIE is \"linear lucencies\" representing air in the interstitium."
+  },
+  {
+    "number": 19,
+    "question": "What is the recommended treatment for unilateral or localized PIE?",
+    "choices": [
+      "Emergent surgery",
+      "Steroids",
+      "Place the patient with the \"bad side\" down",
+      "Surfactant replacement",
+      "Needle decompression"
+    ],
+    "answer": "C",
+    "detail": "The treatment for PIE is to switch ventilation methods or place the affected (bad) side down."
+  },
+  {
+    "number": 20,
+    "question": "Bronchopulmonary Dysplasia (BPD) / Chronic Lung Disease is defined by cystic lucencies and fibrosis after what postnatal age?",
+    "choices": [
+      "1 week",
+      "10 days",
+      "3 to 4 weeks",
+      "6 months",
+      "1 year"
+    ],
+    "answer": "C",
+    "detail": "While PIE occurs in the first week, CLD/BPD is diagnosed after 3–4 weeks of life."
+  },
+  {
+    "number": 21,
+    "question": "What is the classic radiographic appearance of BPD?",
+    "choices": [
+      "Ropy asymmetric densities",
+      "Alternating regions of fibrosis and hyper-aeration",
+      "Small heart and low lung volumes",
+      "Ground glass with sub-pleural sparing",
+      "\"Steeple sign\""
+    ],
+    "answer": "B",
+    "detail": "The classic look of BPD is alternating fibrosis (coarse lines) and hyper-aeration (cysts) with \"band-like opacities.\""
+  },
+  {
+    "number": 22,
+    "question": "\"Pulmonary Hypoplasia\" or \"Tiny Lung\" is characteristically associated with which sequence?",
+    "choices": [
+      "PHACES",
+      "Potter Sequence",
+      "VACTERL",
+      "CHARGE",
+      "DiGeorge"
+    ],
+    "answer": "B",
+    "detail": "Potter Sequence (No kidneys → No pee → No amniotic fluid → Hypoplastic lungs) is the classic association for tiny lungs."
+  },
+  {
+    "number": 23,
+    "question": "Congenital Diaphragmatic Hernias (CDHs) are most commonly of which type?",
+    "choices": [
+      "Morgagni",
+      "Bochdalek",
+      "Hiatal",
+      "Pericardial",
+      "Traumatic"
+    ],
+    "answer": "B",
+    "detail": "Most CDHs are the Bochdalek type (\"B is in the Back\")."
+  },
+  {
+    "number": 24,
+    "question": "On which side do most Bochdalek hernias occur?",
+    "choices": [
+      "Right side",
+      "Left side",
+      "Midline",
+      "They are always bilateral",
+      "It is random"
+    ],
+    "answer": "B",
+    "detail": "Bochdalek hernias are typically posterior and occur on the left side."
+  },
+  {
+    "number": 25,
+    "question": "Which abdominal finding is virtually always present in a patient with a CDH?",
+    "choices": [
+      "Appendicitis",
+      "Malrotation",
+      "Splenomegaly",
+      "Intussusception",
+      "Meckel's diverticulum"
+    ],
+    "answer": "B",
+    "detail": "Essentially all patients with a Congenital Diaphragmatic Hernia have malrotation."
+  },
+  {
+    "number": 26,
+    "question": "Bronchopulmonary Sequestration is anatomically defined as \"extra lung\" that lacks:",
+    "choices": [
+      "Communication with the airway and pulmonary arteries",
+      "A blood supply",
+      "Pleural covering in all types",
+      "Venous drainage",
+      "Nerve endings"
+    ],
+    "answer": "A",
+    "detail": "Sequestrations have no communication with the normal airway or pulmonary arteries; they usually have an aortic feeder."
+  },
+  {
+    "number": 27,
+    "question": "Which type of sequestration is more common (75%) and typically presents in adolescence with recurrent infections?",
+    "choices": [
+      "Intralobar",
+      "Extralobar",
+      "Subdiaphragmatic",
+      "Tracheal",
+      "Cardiac"
+    ],
+    "answer": "A",
+    "detail": "Intralobar is more common and presents later in life with recurrent pneumonia in the same area."
+  },
+  {
+    "number": 28,
+    "question": "Which type of sequestration presents in infancy, often with associated congenital anomalies, and has its own pleural cover?",
+    "choices": [
+      "Intralobar",
+      "Extralobar",
+      "Bronchogenic",
+      "CLE",
+      "CCAM"
+    ],
+    "answer": "B",
+    "detail": "Extralobar presents in infancy and is associated with other \"extra\" findings like heart defects and CDH."
+  },
+  {
+    "number": 29,
+    "question": "What is the most common location for both Intralobar and Extralobar Sequestrations?",
+    "choices": [
+      "Right Upper Lobe",
+      "Left Lower Lobe",
+      "Right Middle Lobe",
+      "Apex",
+      "Below the diaphragm"
+    ],
+    "answer": "B",
+    "detail": "Both types of sequestration favor the Left Lower Lobe."
+  },
+  {
+    "number": 30,
+    "question": "Congenital Lobar Emphysema (CLE) most commonly involves which lobe?",
+    "choices": [
+      "Right Upper Lobe",
+      "Left Upper Lobe (40%)",
+      "Right Middle Lobe",
+      "Left Lower Lobe",
+      "Right Lower Lobe"
+    ],
+    "answer": "B",
+    "detail": "CLE characteristically prefers the Left Upper Lobe."
+  },
+  {
+    "number": 31,
+    "question": "What is the initial radiographic appearance of CLE in a newborn?",
+    "choices": [
+      "Opaque/fluid-filled lung",
+      "Hyper-lucent lung",
+      "\"Steeple sign\"",
+      "Large pleural effusion",
+      "Multiple cavitary nodules"
+    ],
+    "answer": "A",
+    "detail": "In the first few days, the affected lobe is opaque as it clears fluid slowly; it then becomes progressively hyper-lucent."
+  },
+  {
+    "number": 32,
+    "question": "What is the definitive treatment for Congenital Lobar Emphysema (CLE)?",
+    "choices": [
+      "Steroids",
+      "Observation only",
+      "Lobectomy",
+      "Surfactant replacement",
+      "Chest tube placement"
+    ],
+    "answer": "C",
+    "detail": "The treatment for CLE is surgical resection (lobectomy)."
+  },
+  {
+    "number": 33,
+    "question": "Congenital Cystic Adenomatoid Malformation (CCAM/CPAM) is characterized by:",
+    "choices": [
+      "Adenomatoid tissue replacing normal lung, usually in one lobe",
+      "An aortic arterial feeder",
+      "Preference for the left upper lobe",
+      "Being exclusively solid",
+      "Always presenting at age 10"
+    ],
+    "answer": "A",
+    "detail": "CCAM is a malformation of adenomatoid tissue that replaces normal lung, typically localized to one lobe."
+  },
+  {
+    "number": 34,
+    "question": "How can you distinguish CCAM from Sequestration on imaging?",
+    "choices": [
+      "CCAM is always on the left",
+      "Sequestration has a systemic arterial feeder (aorta)",
+      "CCAM never has cysts",
+      "Sequestration communicates with the airway",
+      "There is no way to tell them apart"
+    ],
+    "answer": "B",
+    "detail": "If you see a systemic arterial feeder, it is a Sequestration, not a CCAM."
+  },
+  {
+    "number": 35,
+    "question": "What is the MOST common primary lung malignancy in children?",
+    "choices": [
+      "Inflammatory Myofibroblastic Tumor",
+      "Pleuropulmonary Blastoma (PPB)",
+      "Carcinoid",
+      "Squamous Cell Cancer",
+      "Adenocarcinoma"
+    ],
+    "answer": "B",
+    "detail": "PPB is the most common primary lung malignancy in children."
+  },
+  {
+    "number": 36,
+    "question": "A Pleuropulmonary Blastoma (PPB) in a young child has a 10% association with which renal condition?",
+    "choices": [
+      "Wilms tumor",
+      "ARPKD",
+      "Multilocular cystic nephroma",
+      "Renal agenesis",
+      "Horseshoe kidney"
+    ],
+    "answer": "C",
+    "detail": "PPB is associated with multilocular cystic nephroma in about 10% of cases."
+  },
+  {
+    "number": 37,
+    "question": "What is the MOST common primary benign lung mass in children?",
+    "choices": [
+      "Pleuropulmonary Blastoma",
+      "Inflammatory Myofibroblastic Tumor (IMT)",
+      "Bronchogenic cyst",
+      "Sequestration",
+      "Hemangioma"
+    ],
+    "answer": "B",
+    "detail": "IMT is the most common primary benign lung mass in children."
+  },
+  {
+    "number": 38,
+    "question": "Where is the ideal position for the tip of an Umbilical Venous Catheter (UVC)?",
+    "choices": [
+      "Portal vein",
+      "IVC - Right Atrium junction",
+      "Left Atrium",
+      "Common Iliac Vein",
+      "Hepatic vein"
+    ],
+    "answer": "B",
+    "detail": "The ideal spot for a UVC tip is at the IVC-RA junction."
+  },
+  {
+    "number": 39,
+    "question": "Where should an Umbilical Artery Catheter (UAC) be placed to avoid the renal arteries?",
+    "choices": [
+      "T4-T6",
+      "T8-T10 (high) or L3-L5 (low)",
+      "Exactly at L2",
+      "Right against the aortic valve",
+      "In the common iliac artery"
+    ],
+    "answer": "B",
+    "detail": "Placement should be high (T8-T10) or low (L3-L5) to avoid the origins of the renal arteries."
+  },
+  {
+    "number": 40,
+    "question": "Respiratory Syncytial Virus (RSV) in a child has a classic predilection for causing atelectasis in which lobe?",
+    "choices": [
+      "Left Upper Lobe",
+      "Right Upper Lobe",
+      "Left Lower Lobe",
+      "Right Middle Lobe",
+      "Lingula"
+    ],
+    "answer": "B",
+    "detail": "RSV often causes segmental or lobar atelectasis, with a classic predilection for the RUL."
+  },
+  {
+    "number": 41,
+    "question": "A solitary \"round pneumonia\" in a child younger than 8 is most commonly caused by:",
+    "choices": [
+      "RSV",
+      "Strep Pneumoniae",
+      "Staph Aureus",
+      "H-Flu",
+      "Klebsiella"
+    ],
+    "answer": "B",
+    "detail": "S. Pneumonia is the typical culprit for round pneumonia in the pediatric population."
+  },
+  {
+    "number": 42,
+    "question": "What is the take-home message for a \"round pneumonia\" seen on a pediatric CXR?",
+    "choices": [
+      "Perform emergent CT to exclude cancer",
+      "Follow up with X-ray to confirm resolution",
+      "Immediate biopsy",
+      "Start anti-fungals",
+      "Rule out neuroblastoma metastasis"
+    ],
+    "answer": "B",
+    "detail": "A round pneumonia does not need a CT; follow-up with X-ray to confirm resolution is the next step."
+  },
+  {
+    "number": 43,
+    "question": "Swyer-James syndrome is the classic \"unilateral lucent lung\" that occurs after:",
+    "choices": [
+      "A viral lung infection in childhood (post-infectious obliterative bronchiolitis)",
+      "Congenital absence of the pulmonary artery",
+      "Massive PE",
+      "Chronic aspiration of peanuts",
+      "Radiation therapy for lymphoma"
+    ],
+    "answer": "A",
+    "detail": "It results from post-infectious obliterative bronchiolitis following a viral infection."
+  },
+  {
+    "number": 44,
+    "question": "In Swyer-James syndrome, the affected lucent lobe is typically:",
+    "choices": [
+      "Hyper-expanded",
+      "Smaller than a normal lobe",
+      "Full of ropy secretions",
+      "Calcified",
+      "Associated with rib notching"
+    ],
+    "answer": "B",
+    "detail": "In Swyer-James, the size of the affected lucent lobe is smaller than normal."
+  },
+  {
+    "number": 45,
+    "question": "What is the leading cause of death in pediatric Sickle Cell patients?",
+    "choices": [
+      "Splenic sequestration",
+      "Stroke",
+      "Acute Chest Syndrome",
+      "Renal failure",
+      "Osteomyelitis"
+    ],
+    "answer": "C",
+    "detail": "Acute Chest Syndrome is the leading cause of death in these patients."
+  },
+  {
+    "number": 46,
+    "question": "Which radiographic clue helps identify a patient as having Sickle Cell disease?",
+    "choices": [
+      "Small heart",
+      "H-shaped vertebrae",
+      "Absent clavicles",
+      "Left-sided minor fissure",
+      "\"Steeple sign\""
+    ],
+    "answer": "B",
+    "detail": "Radiographic clues include a big heart, bone infarcts (humeral heads), and H-shaped vertebrae."
+  },
+  {
+    "number": 47,
+    "question": "Cystic Fibrosis (CF) characteristically causes bronchiectasis in which lung distribution?",
+    "choices": [
+      "Lower lobe predominant",
+      "Apical (upper lobe) predominance",
+      "Diffuse and symmetric",
+      "Peripheral only",
+      "Only in the Right Middle Lobe"
+    ],
+    "answer": "B",
+    "detail": "Cystic Fibrosis features bronchiectasis with an upper lobe (apical) predominance."
+  },
+  {
+    "number": 48,
+    "question": "Primary Ciliary Dyskinesia (PCD) is distinguished from CF by which feature?",
+    "choices": [
+      "Upper lobe predominant bronchiectasis",
+      "Lower lobe predominant bronchiectasis",
+      "Absence of the vas deferens",
+      "Normal pancreas",
+      "High lung volumes"
+    ],
+    "answer": "B",
+    "detail": "PCD is characterized by lower lobe predominant bronchiectasis, whereas CF is upper lobe."
+  },
+  {
+    "number": 49,
+    "question": "What percentage of Primary Ciliary Dyskinesia (PCD) patients have Kartagener's Syndrome (situs inversus)?",
+    "choices": [
+      "10%",
+      "25%",
+      "50%",
+      "90%",
+      "100%"
+    ],
+    "answer": "C",
+    "detail": "Only approximately 50% of patients with PCD have Kartagener's Syndrome."
+  },
+  {
+    "number": 50,
+    "question": "The \"Scimitar Sword\" sign is pathognomonic for:",
+    "choices": [
+      "TOF",
+      "PAPVR with Lung Hypoplasia",
+      "ASD",
+      "Coarctation",
+      "Ebstein Anomaly"
+    ],
+    "answer": "B",
+    "detail": "The Scimitar Sword sign represents an anomalous pulmonary vein draining a hypoplastic lung."
+  },
+  {
+    "number": 51,
+    "question": "What is the most common anterior mediastinal \"mass\" in children under age 5?",
+    "choices": [
+      "Lymphoma",
+      "Normal Thymus",
+      "Teratoma",
+      "Neuroblastoma",
+      "Bronchogenic cyst"
+    ],
+    "answer": "B",
+    "detail": "A normal thymus is the most common anterior mediastinal \"mass\" in young children."
+  },
+  {
+    "number": 52,
+    "question": "The \"Sail Sign\" in a pediatric chest X-ray represents the:",
+    "choices": [
+      "Lungs",
+      "Heart",
+      "Normal Thymus",
+      "Left atrium",
+      "Right main bronchus"
+    ],
+    "answer": "C",
+    "detail": "The normal triangular thymus creates the \"sail sign\" on a CXR."
+  },
+  {
+    "number": 53,
+    "question": "\"Thymic Rebound\" occurs after acute stress (chemo, radiation) and may be tricky because it is:",
+    "choices": [
+      "T1 bright",
+      "Calcified",
+      "PET avid",
+      "Associated with bone destruction",
+      "Only seen in adults"
+    ],
+    "answer": "C",
+    "detail": "During the recovery phase, the rebounding thymus can be PET avid, which can be confused with disease recurrence."
+  },
+  {
+    "number": 54,
+    "question": "What is the most common abnormal mediastinal mass in children over age 10?",
+    "choices": [
+      "Neuroblastoma",
+      "Lymphoma",
+      "Teratoma",
+      "Enteric duplication cyst",
+      "Germinoma"
+    ],
+    "answer": "B",
+    "detail": "In children over 10, an anterior mediastinal mass is most likely lymphoma."
+  },
+  {
+    "number": 55,
+    "question": "Which type of lymphoma is far more common in children and involves the thymus 90% of the time?",
+    "choices": [
+      "Non-Hodgkin Lymphoma (NHL)",
+      "Hodgkin Lymphoma",
+      "Burkitt Lymphoma",
+      "MALT Lymphoma",
+      "Mantle Cell Lymphoma"
+    ],
+    "answer": "B",
+    "detail": "Hodgkin Lymphoma is much more common in the pediatric population."
+  },
+  {
+    "number": 56,
+    "question": "Calcification in an anterior mediastinal mass of a child that has not yet been treated suggests:",
+    "choices": [
+      "Lymphoma",
+      "Teratoma",
+      "Thymic rebound",
+      "Leukemia",
+      "Sarcoidosis"
+    ],
+    "answer": "B",
+    "detail": "Lymphoma typically does not calcify unless it has been treated; pre-treatment calcification favors Teratoma."
+  },
+  {
+    "number": 57,
+    "question": "Anterior mediastinal Germ Cell Tumors (GCTs) are strongly associated with which syndrome?",
+    "choices": [
+      "Turner Syndrome",
+      "Klinefelter Syndrome (47 XXY)",
+      "Down Syndrome",
+      "VACTERL",
+      "PHACES"
+    ],
+    "answer": "B",
+    "detail": "Mediastinal Germ Cell Tumors are characteristically linked to Klinefelter syndrome."
+  },
+  {
+    "number": 58,
+    "question": "Which GCT flavor is described as bulky, lobulated, and characteristically \"straddles the midline\"?",
+    "choices": [
+      "Teratoma",
+      "Seminoma",
+      "NSGCT (Non-seminomatous)",
+      "Yolk sac tumor",
+      "Choriocarcinoma"
+    ],
+    "answer": "B",
+    "detail": "Seminomas characteristically straddle the midline in the anterior mediastinum."
+  },
+  {
+    "number": 59,
+    "question": "Middle mediastinal lymphadenopathy in an adolescent with hilar adenopathy, splenomegaly, and fatigue is likely:",
+    "choices": [
+      "TB",
+      "Mononucleosis (EBV)",
+      "Sarcoidosis",
+      "Histoplasmosis",
+      "Cystic Fibrosis"
+    ],
+    "answer": "B",
+    "detail": "This classic clinical triad is highly suggestive of Mononucleosis."
+  },
+  {
+    "number": 60,
+    "question": "Which middle mediastinal duplication cyst is characteristically close to the esophagus and may have air-fluid levels?",
+    "choices": [
+      "Bronchogenic cyst",
+      "Enteric / Esophageal cyst",
+      "Neuroenteric cyst",
+      "Pericardial cyst",
+      "Thymic cyst"
+    ],
+    "answer": "B",
+    "detail": "Enteric cysts abut the esophagus and can communicate with its lumen, potentially showing air-fluid levels."
+  },
+  {
+    "number": 61,
+    "question": "What is the most common posterior mediastinal mass in a child under age 10?",
+    "choices": [
+      "Ganglioneuroma",
+      "Neuroblastoma",
+      "Neuroenteric cyst",
+      "Extramedullary hematopoiesis",
+      "Askin tumor"
+    ],
+    "answer": "B",
+    "detail": "Neuroblastoma is the most common posterior mass in children under 10."
+  },
+  {
+    "number": 62,
+    "question": "On a CXR, which finding associated with a posterior mediastinal mass suggests Neuroblastoma?",
+    "choices": [
+      "\"Sail sign\"",
+      "Rib splaying and erosions",
+      "\"Figure 3 sign\"",
+      "\"Egg on a string\"",
+      "\"Boot shaped heart\""
+    ],
+    "answer": "B",
+    "detail": "Neuroblastoma often involves the adjacent ribs, causing splaying and erosions."
+  },
+  {
+    "number": 63,
+    "question": "Along the neuroblastic spectrum, which tumor is the most mature and found in older children (2nd decade)?",
+    "choices": [
+      "Ganglioneuroma",
+      "Ganglioneuroblastoma",
+      "Undifferentiated Neuroblastoma",
+      "Pheochromocytoma",
+      "Paraganglioma"
+    ],
+    "answer": "A",
+    "detail": "Ganglioneuroma is the most mature and benign form in the neuroblastic spectrum."
+  },
+  {
+    "number": 64,
+    "question": "A \"Neuroenteric Cyst\" in the posterior mediastinum is classically associated with:",
+    "choices": [
+      "Rib splaying",
+      "Vertebral anomalies (scoliosis, hemivertebrae)",
+      "Absent clavicles",
+      "Bicuspid aortic valve",
+      "Polyhydramnios"
+    ],
+    "answer": "B",
+    "detail": "Neuroenteric cysts are characteristically linked to vertebral anomalies like scoliosis or hemivertebrae."
+  },
+  {
+    "number": 65,
+    "question": "Extramedullary Hematopoiesis appears as smooth paraspinal masses typically found:",
+    "choices": [
+      "Above the clavicles",
+      "Below T6",
+      "In the anterior mediastinum",
+      "Associated with rib destruction",
+      "Only in neonates"
+    ],
+    "answer": "B",
+    "detail": "These masses are smooth and typically located in the lower chest, below T6."
+  },
+  {
+    "number": 66,
+    "question": "Which radiographic clue should make you think of Extramedullary Hematopoiesis?",
+    "choices": [
+      "Coarse bone trabeculation",
+      "Rib splaying",
+      "Calcified coronary arteries",
+      "Fat within the mass",
+      "Vertical gaze palsy"
+    ],
+    "answer": "A",
+    "detail": "Look for coarse bone trabeculation and potentially a clinical history of anemia."
+  },
+  {
+    "number": 67,
+    "question": "If you see a \"Big Fucking Mass\" (BFM) in the chest of a child AGE 10+, you should think:",
+    "choices": [
+      "Pleuropulmonary Blastoma",
+      "Askin Tumor (PNET / Ewings)",
+      "Neuroblastoma",
+      "IMT",
+      "Normal Thymus"
+    ],
+    "answer": "B",
+    "detail": "In children over 10, a BFM is likely an Askin Tumor (PNET/Ewings); look for bone (rib) destruction."
+  },
+  {
+    "number": 68,
+    "question": "If you see a \"Big Fucking Mass\" (BFM) in the chest of a child AGE < 2, you should think:",
+    "choices": [
+      "Askin Tumor",
+      "Pleuropulmonary Blastoma (PPB)",
+      "Ganglioneuroma",
+      "Lymphoma",
+      "Normal Thymus"
+    ],
+    "answer": "B",
+    "detail": "In toddlers under 2, a BFM in the chest is likely a Pleuropulmonary Blastoma (PPB)."
+  },
+  {
+    "number": 69,
+    "question": "The primary discriminator for pediatric posterior mediastinal masses is:",
+    "choices": [
+      "Morphology",
+      "Age of the patient",
+      "Always pick Neuroblastoma",
+      "Check for fat",
+      "MRI is the first step"
+    ],
+    "answer": "B",
+    "detail": "Age is the primary discriminator: under 10 favors malignancy (Neuroblastoma); 2nd decade favors benignity (Ganglioneuroma)."
+  },
+  {
+    "number": 70,
+    "question": "\"Cervicothoracic Sign\": If a mediastinal mass goes above the level of the clavicles on a frontal CXR, it is located in the:",
+    "choices": [
+      "Anterior mediastinum",
+      "Middle mediastinum",
+      "Posterior mediastinum",
+      "Pharynx",
+      "Neck only"
+    ],
+    "answer": "C",
+    "detail": "If the mass borders are visible above the clavicles, it must be in the posterior mediastinum."
+  },
+  {
+    "number": 71,
+    "question": "The \"LeCompte Maneuver\" is the surgical signature for a corrected:",
+    "choices": [
+      "TOF",
+      "D-Transposition",
+      "TAPVR",
+      "Coarctation",
+      "VSD"
+    ],
+    "answer": "B",
+    "detail": "The LeCompte maneuver results in the pulmonary artery draped over the aorta in a corrected D-transposition."
+  },
+  {
+    "number": 72,
+    "question": "What is the most common congenital heart disease (overall population)?",
+    "choices": [
+      "VSD",
+      "Bicuspid Aortic Valve",
+      "ASD",
+      "PDA",
+      "TOF"
+    ],
+    "answer": "B",
+    "detail": "Bicuspid Aortic Valve (2%) is likely the most common; VSD is also very common."
+  },
+  {
+    "number": 73,
+    "question": "\"Supra-valvular Aortic Stenosis\" is the buzzword for which syndrome?",
+    "choices": [
+      "Turner Syndrome",
+      "Williams Syndrome",
+      "Down Syndrome",
+      "DiGeorge Syndrome",
+      "Holt-Oram Syndrome"
+    ],
+    "answer": "B",
+    "detail": "Williams Syndrome is characteristically associated with supra-valvular aortic stenosis."
+  },
+  {
+    "number": 74,
+    "question": "\"Bicuspid Aortic Valve and Coarctation\" is the classic cardiac buzzword for:",
+    "choices": [
+      "Williams Syndrome",
+      "Turner Syndrome",
+      "Klinefelter Syndrome",
+      "VACTERL",
+      "Alagille Syndrome"
+    ],
+    "answer": "B",
+    "detail": "Turner Syndrome patients have a high incidence of bicuspid valves and aortic coarctation."
+  },
+  {
+    "number": 75,
+    "question": "What is the infectious etiology of Rheumatic heart disease?",
+    "choices": [
+      "Lithium use",
+      "Group A Beta-hemolytic strep",
+      "Maternal Rubella",
+      "Prematurity",
+      "Syphilis"
+    ],
+    "answer": "B",
+    "detail": "Rheumatic heart disease is an immune-modulated response to Group A Strep infection."
+  },
+  {
+    "number": 76,
+    "question": "A massive \"Box Shaped\" heart on a newborn CXR is the Aunt Minnie for:",
+    "choices": [
+      "TOF",
+      "Ebstein Anomaly",
+      "TAPVR",
+      "D-Transposition",
+      "Coarctation"
+    ],
+    "answer": "B",
+    "detail": "Ebstein's anomaly features a massive \"box-shaped\" heart due to a hypoplastic tricuspid valve."
+  },
+  {
+    "number": 77,
+    "question": "Ebstein Anomaly is classically associated with maternal use of:",
+    "choices": [
+      "Alcohol",
+      "Lithium",
+      "Cocaine",
+      "Valproic acid",
+      "Cigarettes"
+    ],
+    "answer": "B",
+    "detail": "Lithium use is the classic (though rare) association for Ebstein anomaly."
+  },
+  {
+    "number": 78,
+    "question": "Tricuspid Atresia is characteristically associated with which abdominal finding?",
+    "choices": [
+      "Polydactyly",
+      "Asplenia",
+      "Persistent left SVC",
+      "Horseshoe kidney",
+      "Absent clavicles"
+    ],
+    "answer": "B",
+    "detail": "There is a recognized association between Tricuspid Atresia and Asplenia."
+  },
+  {
+    "number": 79,
+    "question": "Which cyanotic heart disease is the most common cause of cyanosis in the first 24 hours of life?",
+    "choices": [
+      "TOF",
+      "D-Transposition",
+      "TAPVR",
+      "Truncus Arteriosus",
+      "Tricuspid Atresia"
+    ],
+    "answer": "B",
+    "detail": "D-Transposition is the leading cause of early cyanosis (first 24 hours)."
+  },
+  {
+    "number": 80,
+    "question": "D-Transposition of the Great Arteries is most common in infants of:",
+    "choices": [
+      "Group B Strep positive mothers",
+      "Diabetic mothers",
+      "Mothers who used Lithium",
+      "Mothers with Rubella",
+      "Advanced maternal age"
+    ],
+    "answer": "B",
+    "detail": "Transposition is seen most commonly in infants of diabetic mothers."
+  },
+  {
+    "number": 81,
+    "question": "An \"Egg on a String\" radiographic heart appearance is characteristic of:",
+    "choices": [
+      "TOF",
+      "D-Transposition",
+      "Ebstein Anomaly",
+      "Coarctation",
+      "TAPVR"
+    ],
+    "answer": "B",
+    "detail": "D-Transposition classically appears as an \"egg on a string\" on a CXR."
+  },
+  {
+    "number": 82,
+    "question": "A \"Boot Shaped\" heart (Coeur en Sabot) is characteristic of:",
+    "choices": [
+      "D-Transposition",
+      "Tetralogy of Fallot (TOF)",
+      "Ebstein Anomaly",
+      "TAPVR",
+      "Truncus Arteriosus"
+    ],
+    "answer": "B",
+    "detail": "TOF classically presents as a \"boot-shaped\" heart."
+  },
+  {
+    "number": 83,
+    "question": "What is the most common cyanotic heart disease overall?",
+    "choices": [
+      "D-Transposition",
+      "Tetralogy of Fallot (TOF)",
+      "TAPVR",
+      "Truncus Arteriosus",
+      "Tricuspid Atresia"
+    ],
+    "answer": "B",
+    "detail": "TOF is the most common overall cyanotic disease."
+  },
+  {
+    "number": 84,
+    "question": "What are the 4 classic findings of Tetralogy of Fallot?",
+    "choices": [
+      "VSD, RVOT Obstruction, Overriding Aorta, RV Hypertrophy",
+      "ASD, LVOT Obstruction, PDA, LV Hypertrophy",
+      "VSD, Tricuspid Atresia, Coarctation, Right Arch",
+      "ASD, Pulmonary Stenosis, Small Heart, Boot shape",
+      "VSD, Aortic Stenosis, Interrupted Arch, LVH"
+    ],
+    "answer": "A",
+    "detail": "The TOF tetrad includes VSD, RVOT obstruction, overriding aorta, and RV hypertrophy."
+  },
+  {
+    "number": 85,
+    "question": "What is the most common complication following surgery for TOF?",
+    "choices": [
+      "VSD recurrence",
+      "Pulmonary regurgitation",
+      "Aortic dissection",
+      "Heart block",
+      "Coronary artery aneurysm"
+    ],
+    "answer": "B",
+    "detail": "Pulmonary regurgitation is the most common post-operative issue for TOF."
+  },
+  {
+    "number": 86,
+    "question": "Truncus Arteriosus is strongly associated with which genetic syndrome?",
+    "choices": [
+      "Turner Syndrome",
+      "DiGeorge Syndrome (CATCH-22)",
+      "Down Syndrome",
+      "Williams Syndrome",
+      "Holt-Oram Syndrome"
+    ],
+    "answer": "B",
+    "detail": "Truncus and DiGeorge Syndrome are closely linked."
+  },
+  {
+    "number": 87,
+    "question": "The \"Figure 3 Sign\" on a CXR is the Aunt Minnie for:",
+    "choices": [
+      "TOF",
+      "Aortic Coarctation",
+      "D-Transposition",
+      "PAPVR",
+      "Ebstein Anomaly"
+    ],
+    "answer": "B",
+    "detail": "The Figure 3 sign is classic for aortic coarctation."
+  },
+  {
+    "number": 88,
+    "question": "Rib notching in coarctation characteristically spares which ribs?",
+    "choices": [
+      "4th - 8th ribs",
+      "1st and 2nd ribs",
+      "9th and 10th ribs",
+      "All ribs on the right side",
+      "Rib notching is never seen"
+    ],
+    "answer": "B",
+    "detail": "It spares the 1st and 2nd ribs because they are fed by the costocervical trunk."
+  },
+  {
+    "number": 89,
+    "question": "\"Pseudocoarctation\" is distinguished from true coarctation by the ABSENCE of:",
+    "choices": [
+      "Aortic kinking",
+      "A pressure gradient, collateral formation, or rib notching",
+      "Aortic arch elongation",
+      "Abnormal narrowing",
+      "Bicuspid aortic valve"
+    ],
+    "answer": "B",
+    "detail": "Pseudocoarctation has no pressure gradient, collateral formation, or rib notching."
+  },
+  {
+    "number": 90,
+    "question": "What is the most common fetal cardiac tumor, and what is its syndrome association?",
+    "choices": [
+      "Fibroma; Turner Syndrome",
+      "Rhabdomyoma; Tuberous Sclerosis",
+      "Myxoma; Down Syndrome",
+      "Teratoma; Klinefelter Syndrome",
+      "Sarcoma; DiGeorge Syndrome"
+    ],
+    "answer": "B",
+    "detail": "Rhabdomyomas are the most common fetal cardiac tumors and are associated with TS."
+  },
+  {
+    "number": 91,
+    "question": "Which pediatric cardiac tumor typically involves the interventricular (IV) septum and is dark on T1 and T2?",
+    "choices": [
+      "Rhabdomyoma",
+      "Fibroma",
+      "Myxoma",
+      "Lipoma",
+      "Hemangioma"
+    ],
+    "answer": "B",
+    "detail": "Fibromas prefer the IV septum and are dark on both T1 and T2."
+  },
+  {
+    "number": 92,
+    "question": "On CXR, the \"Oreo Cookie Sign\" (two lucent lines surrounding a central opaque line) represents:",
+    "choices": [
+      "Neonatal pneumonia",
+      "Pericardial Effusion",
+      "Aortic dissection",
+      "Pneumomediastinum",
+      "Thymic rebound"
+    ],
+    "answer": "B",
+    "detail": "This sign describes pericardial fluid trapped between epicardial and pericardial fat layers."
+  },
+  {
+    "number": 93,
+    "question": "What is the most common cause of pericardial effusion in the general pediatric setting?",
+    "choices": [
+      "Lupus",
+      "Dressler Syndrome",
+      "Renal failure (uremia)",
+      "Post-op trauma",
+      "Viral infection"
+    ],
+    "answer": "C",
+    "detail": "Uremia from renal failure is probably the most common cause."
+  },
+  {
+    "number": 94,
+    "question": "Which heart lesion is the most common indication for Pulmonary Artery Banding?",
+    "choices": [
+      "TOF",
+      "Single ventricle",
+      "Coarctation",
+      "ASD",
+      "PDA"
+    ],
+    "answer": "B",
+    "detail": "The single ventricle is the most common lesion requiring banding to reduce PA pressure."
+  },
+  {
+    "number": 95,
+    "question": "The \"Ross Procedure\" involves replacing a diseased aortic valve with the patient's own:",
+    "choices": [
+      "Mitral valve",
+      "Pulmonary valve",
+      "Tricuspid valve",
+      "Pericardium",
+      "Synthetic graft"
+    ],
+    "answer": "B",
+    "detail": "In the Ross Procedure, the pulmonary valve is moved to replace the aortic valve."
+  },
+  {
+    "number": 96,
+    "question": "A \"Snowman\" appearance on a pediatric CXR is characteristic of which type of Total Anomalous Pulmonary Venous Return (TAPVR)?",
+    "choices": [
+      "Type 1 (Supracardiac)",
+      "Type 2 (Cardiac)",
+      "Type 3 (Infracardiac)",
+      "Type 4",
+      "All types"
+    ],
+    "answer": "A",
+    "detail": "Type 1 (Supracardiac) drains above the heart, creating the snowman look."
+  },
+  {
+    "number": 97,
+    "question": "Which type of TAPVR causes a \"full-on pulmonary edema look\" in a newborn?",
+    "choices": [
+      "Type 1",
+      "Type 2",
+      "Type 3 (Infracardiac)",
+      "Type 4",
+      "None"
+    ],
+    "answer": "C",
+    "detail": "Type 3 drains below the diaphragm and characteristically becomes obstructed, causing pulmonary edema."
+  },
+  {
+    "number": 98,
+    "question": "\"Asplenia\" (Right Isomerism) is characteristically associated with which of the following?",
+    "choices": [
+      "Polysplenia",
+      "Azygos continuation",
+      "Reversed Aorta/IVC relationship",
+      "One fissure in the right lung",
+      "Biliary Atresia"
+    ],
+    "answer": "C",
+    "detail": "Asplenia is associated with a reversed Aorta/IVC relationship and two right sides."
+  },
+  {
+    "number": 99,
+    "question": "\"Polysplenia\" (Left Isomerism) is characteristically associated with:",
+    "choices": [
+      "Reversed Aorta/IVC",
+      "Azygos continuation of the IVC",
+      "Two fissures in the right lung",
+      "High risk of early cyanosis",
+      "Absence of the gallbladder"
+    ],
+    "answer": "B",
+    "detail": "Polysplenia is associated with azygos continuation (interrupted IVC)."
+  },
+  {
+    "number": 100,
+    "question": "For multiple choice gamesmanship, a mediastinal mass with \"Fat\" density is most likely a:",
+    "choices": [
+      "Lymphoma",
+      "Germ Cell Tumor",
+      "Lymphangioma",
+      "Neuroblastoma",
+      "Thymic rebound"
+    ],
+    "answer": "B",
+    "detail": "Fat in a mediastinal mass indicates a Germ Cell Tumor (like a Teratoma)."
+  }
+]
+
+}

@@ -1,0 +1,459 @@
+{
+  "questions": [
+    {
+      "number": 11,
+      "question": "What are the two major anatomic units involved in lumbar spine degeneration?",
+      "choices": [
+        "The vertebral bodies and the thecal sac",
+        "The pedicles and the transverse processes",
+        "The disc-endplate complexes anteriorly and the facet joints/ligamentum flavum posteriorly",
+        "The spinal cord and the nerve roots",
+        "The anterior and posterior longitudinal ligaments"
+      ],
+      "answer": "C",
+      "detail": "Degeneration of the lumbar spine primarily involves the disc-endplate complexes in the anterior column and the facet joints along with the ligamentum flavum in the posterior column."
+    },
+    {
+      "number": 12,
+      "question": "According to Lumbar Disc Nomenclature 2.0, a 'disc bulge' is defined as disc material extending beyond the ring apophyses involving:",
+      "choices": [
+        " <25% of the disc circumference",
+        "25–50% of the disc circumference",
+        ">50% (>180°) of the disc circumference",
+        "Only the central 90°",
+        "The entire disc except for the lateral margins"
+      ],
+      "answer": "C",
+      "detail": "A disc bulge is defined by disc material extending beyond the ring apophyses over more than 50% (greater than 180°) of the disc circumference."
+    },
+    {
+      "number": 13,
+      "question": "How is an 'asymmetric disc bulge' defined?",
+      "choices": [
+        "Material extending between 0° and 90°",
+        "Material extending between 90° and 180°",
+        "Material extending >180° with more on one side",
+        "A bulge that involves the endplate",
+        "Any bulge associated with a Schmorl node"
+      ],
+      "answer": "B",
+      "detail": "An asymmetric disc bulge involves disc material extending between 90° and 180° of the circumference."
+    },
+    {
+      "number": 14,
+      "question": "A focal disc herniation (<90° circumference) where the 'neck' is wider than the 'dome' is a:",
+      "choices": [
+        "Bulge",
+        "Protrusion",
+        "Extrusion",
+        "Sequestration",
+        "Schmorl node"
+      ],
+      "answer": "B",
+      "detail": "A protrusion is a focal herniation where the base or 'neck' of the displaced material is wider than the 'dome' or any other dimension of the displaced material."
+    },
+    {
+      "number": 15,
+      "question": "A focal disc herniation (<90° circumference) where the 'dome' is wider than the 'neck' (analogous to a saccular aneurysm) is an:",
+      "choices": [
+        "Asymmetric bulge",
+        "Protrusion",
+        "Extrusion",
+        "In-situ disc",
+        "Intravertebral herniation"
+      ],
+      "answer": "C",
+      "detail": "An extrusion is a focal herniation where the 'dome' of the displaced disc material is wider than its 'neck' at the site of origin."
+    },
+    {
+      "number": 16,
+      "question": "Which term is synonymous with 'intravertebral herniation' through a gap in the cartilaginous endplate?",
+      "choices": [
+        "Annular fissure",
+        "Modic change",
+        "Schmorl node",
+        "Perched facet",
+        "Gibbus deformity"
+      ],
+      "answer": "C",
+      "detail": "Schmorl nodes represent intravertebral disc herniations through defects in the cartilaginous endplate."
+    },
+    {
+      "number": 17,
+      "question": "A 'subarticular' herniation is also frequently referred to as being in the:",
+      "choices": [
+        "Neural foramen",
+        "Lateral recess",
+        "Extra-foraminal space",
+        "Central canal midline",
+        "Epidural space"
+      ],
+      "answer": "B",
+      "detail": "The term 'subarticular' is synonymous with the lateral recess anatomical zone."
+    },
+    {
+      "number": 18,
+      "question": "In the lumbar spine, which nerve root is typically impinged by a central or subarticular disc herniation at L4–L5?",
+      "choices": [
+        "The exiting L4 nerve root",
+        "The descending L5 nerve root",
+        "The exiting L5 nerve root",
+        "The descending S1 nerve root",
+        "No nerve roots are involved"
+      ],
+      "answer": "B",
+      "detail": "A central or subarticular (lateral recess) herniation at a given lumbar level typically affects the traversing/descending nerve root of the level below (e.g., L5 at the L4-L5 level)."
+    },
+    {
+      "number": 19,
+      "question": "Which nerve root is typically impinged by a foraminal or extra-foraminal disc herniation at L4–L5?",
+      "choices": [
+        "The exiting L4 nerve root",
+        "The descending L5 nerve root",
+        "The descending L4 nerve root",
+        "The exiting L3 nerve root",
+        "The sympathetic chain only"
+      ],
+      "answer": "A",
+      "detail": "Foraminal or extra-foraminal herniations at a specific lumbar level impinge the exiting nerve root of that same level (e.g., L4 at the L4-L5 level)."
+    },
+    {
+      "number": 20,
+      "question": "A 'sequestered fragment' is defined as disc material that:",
+      "choices": [
+        "Has migrated less than 3 mm",
+        "Is still attached to the parent disc by a wide neck",
+        "Has separated from its parent disc",
+        "Is located entirely within the annulus fibrosus",
+        "Has calcified completely"
+      ],
+      "answer": "C",
+      "detail": "A sequestration is a type of disc herniation where the displaced fragment has completely lost continuity with the parent disc."
+    },
+    {
+      "number": 21,
+      "question": "In the cervical spine, where does the C7 nerve root exit?",
+      "choices": [
+        "Below the C7 vertebral body at C7–T1",
+        "Above the C7 vertebral body at C6–C7",
+        "Above the C6 vertebral body at C5–C6",
+        "Through the foramen magnum",
+        "It does not exist"
+      ],
+      "answer": "B",
+      "detail": "In the cervical spine, nerve roots C1 through C7 exit through the neural foramen above their correspondingly numbered vertebral body."
+    },
+    {
+      "number": 22,
+      "question": "In the lumbar spine, where does the L4 nerve root exit?",
+      "choices": [
+        "Above the L4 vertebral body at L3–L4",
+        "Below the L4 vertebral body at L4–L5",
+        "Below the L5 vertebral body at L5–S1",
+        "Medial to the facet joint",
+        "Through the sacral ala"
+      ],
+      "answer": "B",
+      "detail": "In the lumbar spine, nerve roots exit below their correspondingly numbered vertebral body."
+    },
+    {
+      "number": 23,
+      "question": "An 'annular fissure' appears on MRI as:",
+      "choices": [
+        "A focal T1 hyperintense spot in the disc",
+        "A linear hyperintense signal on T2-weighted images in the annulus fibrosus",
+        "A void on all sequences due to gas",
+        "A thick rim of enhancement around the entire disc",
+        "A 'popcorn' calcification"
+      ],
+      "answer": "B",
+      "detail": "On MRI, an annular fissure is characterized by a linear zone of high T2-weighted signal intensity within the annulus fibrosus."
+    },
+    {
+      "number": 24,
+      "question": "Why is 'annular fissure' preferred over the term 'annular tear'?",
+      "choices": [
+        "It implies a traumatic etiology",
+        "The process is thought to be degenerative in most cases",
+        "A fissure must contain gas, whereas a tear contains fluid",
+        "It is easier to measure on CT",
+        "There is no preference; they are used interchangeably by surgeons"
+      ],
+      "answer": "B",
+      "detail": "The term 'fissure' is preferred because these lesions are generally the result of chronic degenerative processes rather than acute traumatic 'tears'."
+    },
+    {
+      "number": 25,
+      "question": "Match the Modic change to its signal: Modic Type 1 (Edema) is:",
+      "choices": [
+        "T1 hyperintense, T2 hyperintense",
+        "T1 hypointense, T2/STIR hyperintense",
+        "T1 hypointense, T2 hypointense",
+        "T1 hyperintense, STIR hypointense",
+        "Normal on all sequences"
+      ],
+      "answer": "B",
+      "detail": "Modic Type 1 changes represent inflammatory marrow edema, appearing hypointense on T1 and hyperintense on T2 and STIR sequences."
+    },
+    {
+      "number": 26,
+      "question": "Modic Type 2 changes represent fatty metaplasia and appear:",
+      "choices": [
+        "Bright on T1 and T2; dark on STIR",
+        "Dark on T1 and T2; bright on STIR",
+        "Dark on all sequences",
+        "Isointense to the disc on T1",
+        "Enhancing avidly after contrast"
+      ],
+      "answer": "A",
+      "detail": "Modic Type 2 changes reflect fatty replacement of the marrow, showing hyperintense (bright) signal on both T1 and T2, and loss of signal on STIR."
+    },
+    {
+      "number": 27,
+      "question": "Modic Type 3 changes represent fibrosis and are:",
+      "choices": [
+        "Hyperintense on T1 and T2",
+        "Hypointense on all sequences",
+        "Hyperintense on STIR only",
+        "Found only in children",
+        "Associated with acute back pain"
+      ],
+      "answer": "B",
+      "detail": "Modic Type 3 changes represent endplate sclerosis and fibrosis, resulting in low signal (hypointensity) on all MRI sequences."
+    },
+    {
+      "number": 28,
+      "question": "Which Modic type is most likely to be associated with active back pain?",
+      "choices": [
+        "Type 1",
+        "Type 2",
+        "Type 3",
+        "All types are equally symptomatic",
+        "None; Modic changes are never symptomatic"
+      ],
+      "answer": "A",
+      "detail": "Modic Type 1 (edematous) changes are the subtype most frequently associated with clinically active back pain."
+    },
+    {
+      "number": 29,
+      "question": "Degenerative changes of the facet joints (facet arthropathy) contribute to stenosis via mass effect from:",
+      "choices": [
+        "Vertebral body expansion",
+        "Osteophytes and reactive ligamentum flavum thickening",
+        "Subaxial subluxation",
+        "Epidural fat overgrowth",
+        "Disc height gain"
+      ],
+      "answer": "B",
+      "detail": "Facet arthropathy leads to spinal stenosis through the development of bony osteophytes and the reactive hypertrophy of the adjacent ligamentum flavum."
+    },
+    {
+      "number": 30,
+      "question": "Facet effusions seen on MRI are significant because they are associated with:",
+      "choices": [
+        "Spinal cord infarction",
+        "Spinal instability (motion on flexion-extension films)",
+        "Tuberculous osteomyelitis",
+        "Acute transverse myelitis",
+        "Successful outcome after conservative therapy"
+      ],
+      "answer": "B",
+      "detail": "The presence of fluid (effusion) within the facet joints on MRI is a significant marker for potential spinal instability."
+    },
+    {
+      "number": 31,
+      "question": "What is a 'synovial cyst' in the context of the spine?",
+      "choices": [
+        "A cyst within the spinal cord parenchyma",
+        "A ganglion cyst associated with facet arthropathy",
+        "A CSF-filled dural sac herniation",
+        "An arachnoid web variant",
+        "A cyst found only in the psoas muscle"
+      ],
+      "answer": "B",
+      "detail": "Spinal synovial cysts are ganglion-like cysts that arise from degenerative facet joints."
+    },
+    {
+      "number": 32,
+      "question": "Ligamentum flavum thickening is rarely seen in isolation and is usually reactive to:",
+      "choices": [
+        "Subjacent facet arthropathy",
+        "Anterior longitudinal ligament ossification",
+        "Disc protrusion",
+        "Scoliosis",
+        "Vertebral body metastasis"
+      ],
+      "answer": "A",
+      "detail": "Hypertrophy of the ligamentum flavum is typically a reactive process secondary to underlying facet joint degeneration."
+    },
+    {
+      "number": 33,
+      "question": "In the grading of spinal stenosis, what is the key characteristic of 'Moderate' stenosis?",
+      "choices": [
+        "Nerve roots are freely distributed",
+        "Slight crowding of nerve roots with preserved posterior fat",
+        "Diffuse crowding resulting in a 'speckled' appearance of CSF and roots",
+        "Individual nerve roots cannot be discretely identified",
+        "The thecal sac is completely effaced"
+      ],
+      "answer": "C",
+      "detail": "Moderate spinal stenosis is characterized by diffuse crowding of the nerve roots, which creates a 'speckled' appearance of the CSF and roots."
+    },
+    {
+      "number": 34,
+      "question": " 'Severe' spinal stenosis is defined as the stage where:",
+      "choices": [
+        "The anterior margin of the thecal sac is flat",
+        "There is minimal crowding of roots",
+        "Nerve roots are no longer individually distinguishable",
+        "Posterior epidural fat is always triangular",
+        "Only the exiting roots are affected"
+      ],
+      "answer": "C",
+      "detail": "In severe spinal stenosis, the nerve roots are so crowded that they can no longer be individually distinguished on imaging."
+    },
+    {
+      "number": 35,
+      "question": "On which MRI sequence is neural foraminal stenosis best assessed?",
+      "choices": [
+        "Axial T2",
+        "Sagittal T1-weighted images",
+        "Sagittal STIR",
+        "Coronal T1",
+        "Post-contrast T1 with fat sat"
+      ],
+      "answer": "B",
+      "detail": "Sagittal T1-weighted imaging is the optimal sequence for evaluating the degree of neural foraminal stenosis."
+    },
+    {
+      "number": 36,
+      "question": " 'Moderate' neural foraminal stenosis is characterized by contact of the nerve root on:",
+      "choices": [
+        "One side only",
+        "Two sides with preserved fat",
+        "Three or four sides with partial effacement of epidural fat",
+        "All sides with complete fat effacement",
+        "No sides (normal)"
+      ],
+      "answer": "C",
+      "detail": "Moderate foraminal stenosis involves the nerve root being contacted on three or four sides with partial effacement of the surrounding epidural fat."
+    },
+    {
+      "number": 37,
+      "question": " 'Severe' neural foraminal stenosis is defined by:",
+      "choices": [
+        "Contact on two sides",
+        "Complete effacement of epidural fat or compression of the nerve root",
+        "Preservation of the 'keyhole' morphology",
+        "Absence of osteophytes",
+        "Isolated ligamentum flavum thickening"
+      ],
+      "answer": "B",
+      "detail": "Severe foraminal stenosis is reached when there is complete effacement of the epidural fat or visible compression of the nerve root itself."
+    },
+    {
+      "number": 38,
+      "question": "Which of the following is a secondary sign of 'active' facet arthropathy on MRI?",
+      "choices": [
+        "Effusion",
+        "Reactive osseous edema (typically into the pedicles)",
+        "Reactive soft tissue edema",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": "D",
+      "detail": "Active facet arthropathy can manifest with joint effusions, reactive edema in the adjacent bone (bone marrow edema), and surrounding soft tissue edema."
+    },
+    {
+      "number": 39,
+      "question": "The vertebral body endplate is composed of which tissue?",
+      "choices": [
+        "Fibrocartilage",
+        "Hyaline cartilage",
+        "Elastic cartilage",
+        "Cortical bone only",
+        "Adipose tissue"
+      ],
+      "answer": "B",
+      "detail": "The vertebral body endplate consists of hyaline cartilage."
+    },
+    {
+      "number": 40,
+      "question": "How does the adult intervertebral disc receive nutrients?",
+      "choices": [
+        "Direct blood supply from the aorta",
+        "Via the anterior longitudinal ligament",
+        "Diffusion of nutrients across the endplate from segmental artery branches",
+        "Drainage from the internal jugular vein",
+        "The disc does not require nutrients"
+      ],
+      "answer": "C",
+      "detail": "Adult intervertebral discs lack a direct blood supply and receive nutrients via diffusion across the cartilaginous endplates from segmental arterial branches."
+    },
+    {
+      "number": 41,
+      "question": "Which clival variant (though mentioned in head/neck Turn) fuses during adolescence and is a site for degenerative change?",
+      "choices": [
+        "Fossa navicularis magna",
+        "Canalis basilaris medianus",
+        "Spheno-occipital synchondrosis",
+        "Fossa pharyngea",
+        "Basion-dental interval"
+      ],
+      "answer": "C",
+      "detail": "The spheno-occipital synchondrosis is a clival landmark that fuses during adolescence and can be a site for degenerative changes later in life."
+    },
+    {
+      "number": 42,
+      "question": "Ossification of the Posterior Longitudinal Ligament (OPLL) most frequently involves which spinal region?",
+      "choices": [
+        "Lumbar",
+        "Thoracic",
+        "Cervical",
+        "Sacral",
+        "Coccygeal"
+      ],
+      "answer": "C",
+      "detail": "OPLL is most commonly found in the cervical spine region."
+    },
+    {
+      "number": 43,
+      "question": "Spondylolysis is defined as a failure of which anatomical structure?",
+      "choices": [
+        "The pedicle",
+        "The lamina",
+        "The pars interarticularis",
+        "The transverse process",
+        "The vertebral body endplate"
+      ],
+      "answer": "C",
+      "detail": "Spondylolysis is defined as a defect or stress fracture in the pars interarticularis of the vertebral arch."
+    },
+    {
+      "number": 44,
+      "question": "The 'Scotty dog' appearance on oblique lumbar radiographs represents the posterior elements. What anatomical part corresponds to the Scotty dog’s 'neck'?",
+      "choices": [
+        "Superior articular process",
+        "Pedicle",
+        "Pars interarticularis",
+        "Transverse process",
+        "Lamina"
+      ],
+      "answer": "C",
+      "detail": "On oblique radiographs, the 'neck' of the 'Scotty dog' represents the pars interarticularis; a break in this neck signifies spondylolysis."
+    },
+    {
+      "number": 45,
+      "question": "Spondylolysis typically results in which type of vertebral slippage?",
+      "choices": [
+        "Retrolisthesis",
+        "Anterolisthesis",
+        "Lateral subluxation",
+        "Vertical impaction",
+        "No slippage occurs"
+      ],
+      "answer": "B",
+      "detail": "A defect in the pars interarticularis frequently leads to the forward slippage of one vertebra over another, known as anterolisthesis."
+    }
+  ]
+}

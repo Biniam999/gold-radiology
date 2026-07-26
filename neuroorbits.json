@@ -1,0 +1,216 @@
+{
+  "questions": [
+    {
+      "number": 26,
+      "question": "How many bones contribute to the formation of the bony orbit?",
+      "choices": ["3", "5", "7", "9", "12"],
+      "answer": "C",
+      "detail": "There are exactly 7 bones that form the structure of the bony orbit."
+    },
+    {
+      "number": 27,
+      "question": "The orbital floor also serves as the roof of which structure?",
+      "choices": ["Ethmoid air cells", "Sphenoid sinus", "Maxillary sinus", "Frontal sinus", "Nasal cavity"],
+      "answer": "C",
+      "detail": "The floor of the orbit corresponds to the roof of the maxillary sinus."
+    },
+    {
+      "number": 28,
+      "question": "Which two structures pass through the Optic Canal?",
+      "choices": [
+        "Optic nerve and Superior ophthalmic vein",
+        "Optic nerve and Ophthalmic artery",
+        "Optic nerve and CN III",
+        "Ophthalmic artery and CN VI",
+        "CN II and CN V1"
+      ],
+      "answer": "B",
+      "detail": "The optic canal transmits both the optic nerve and the ophthalmic artery."
+    },
+    {
+      "number": 29,
+      "question": "The Superior Orbital Fissure transmits all of the following cranial nerves EXCEPT:",
+      "choices": ["CN III", "CN IV", "CN VI", "CN V1", "CN V2"],
+      "answer": "E",
+      "detail": "CN V2 does not pass through the superior orbital fissure."
+    },
+    {
+      "number": 30,
+      "question": "Which cranial nerve travels from the cavernous sinus through the Foramen Rotundum and the Inferior Orbital Fissure?",
+      "choices": ["CN V1", "CN V2", "CN V3", "CN III", "CN VI"],
+      "answer": "B",
+      "detail": "The maxillary nerve (CN V2) follows a path through the foramen rotundum and the inferior orbital fissure."
+    },
+    {
+      "number": 31,
+      "question": "Within the cavernous sinus, which nerve is located centrally alongside the carotid artery?",
+      "choices": ["CN III", "CN IV", "CN V1", "CN VI", "CN V2"],
+      "answer": "D",
+      "detail": "The abducens nerve (CN VI) is the centrally located nerve adjacent to the internal carotid artery within the cavernous sinus."
+    },
+    {
+      "number": 32,
+      "question": "The lacrimal gland is located in which part of the orbit?",
+      "choices": [
+        "Inferomedial angle",
+        "Superolateral (superotemporal) angle",
+        "Deep within the orbital apex",
+        "Behind the globe centrally",
+        "Near the lacrimal sac"
+      ],
+      "answer": "B",
+      "detail": "The lacrimal gland is situated in the superolateral or superotemporal angle of the orbit."
+    },
+    {
+      "number": 33,
+      "question": "Tears drain from the canaliculi into the lacrimal sac, which is lodged in the lacrimal fossa located in the:",
+      "choices": [
+        "Superotemporal orbit",
+        "Inferomedial preseptal orbit",
+        "Orbital apex",
+        "Floor of the maxillary sinus",
+        "Superior meatus"
+      ],
+      "answer": "B",
+      "detail": "The lacrimal sac is located within the lacrimal fossa in the inferomedial preseptal orbit."
+    },
+    {
+      "number": 34,
+      "question": "Imaging of a 'convex rim-enhancing collection' tracking along a bone surface in the orbit is diagnostic of:",
+      "choices": [
+        "Orbital cellulitis",
+        "Preseptal cellulitis",
+        "Subperiosteal abscess",
+        "Orbital pseudotumor",
+        "Optic neuritis"
+      ],
+      "answer": "C",
+      "detail": "A subperiosteal abscess appears as a convex, rim-enhancing collection tracking along the orbital bone surface."
+    },
+    {
+      "number": 35,
+      "question": "Septic cavernous sinus thrombosis most commonly results from the drainage of infection from which area?",
+      "choices": ["Medial face, orbits, or sinuses", "Posterior scalp", "Ear/Mastoid", "Occipital region", "Thyroid gland"],
+      "answer": "A",
+      "detail": "Infections from the medial face, orbits, or paranasal sinuses are the most common sources for septic cavernous sinus thrombosis."
+    },
+    {
+      "number": 36,
+      "question": "A key imaging sign of cavernous sinus thrombosis is:",
+      "choices": [
+        "Concave bulging of the lateral wall",
+        "Convex bulging of the lateral wall and filling defects",
+        "Narrowing of the superior ophthalmic vein",
+        "Absence of enhancement in the pituitary gland",
+        "Calcification of the carotid artery"
+      ],
+      "answer": "B",
+      "detail": "Filling defects and a convex bulge of the lateral wall are primary imaging indicators of cavernous sinus thrombosis."
+    },
+    {
+      "number": 37,
+      "question": "In Thyroid Eye Disease (Graves ophthalmopathy), what is the most common order of extraocular muscle involvement?",
+      "choices": [
+        "Superior, Inferior, Medial, Lateral",
+        "Inferior, Medial, Superior, Lateral (IMSL)",
+        "Lateral, Medial, Superior, Inferior",
+        "Medial, Superior, Lateral, Inferior",
+        "Only the Superior Oblique"
+      ],
+      "answer": "B",
+      "detail": "The typical sequence of muscle involvement in Graves ophthalmopathy follows the IMSL mnemonic: Inferior, Medial, Superior, then Lateral rectus."
+    },
+    {
+      "number": 38,
+      "question": "How is Thyroid Eye Disease distinguished from Orbital Pseudotumor on imaging?",
+      "choices": [
+        "Graves spares the muscle tendons; Pseudotumor involves them.",
+        "Graves involves the tendons; Pseudotumor spares them.",
+        "Graves only involves the lateral rectus.",
+        "Graves never shows fat increase.",
+        "Graves is always unilateral."
+      ],
+      "answer": "A",
+      "detail": "Thyroid eye disease is characterized by sparing the muscle tendons, whereas orbital pseudotumor typically involves them."
+    },
+    {
+      "number": 39,
+      "question": "'Tram-track' calcification along the optic nerve is a classic imaging finding for:",
+      "choices": [
+        "Optic nerve glioma",
+        "Optic nerve sheath meningioma",
+        "Optic neuritis",
+        "Sarcoidosis",
+        "Metastatic disease"
+      ],
+      "answer": "B",
+      "detail": "This specific calcification pattern is characteristic of an optic nerve sheath meningioma."
+    },
+    {
+      "number": 40,
+      "question": "A 'Martini glass sign' (Y-shaped soft tissue stalk) in the vitreous of an infant is pathognomonic for:",
+      "choices": [
+        "Retinoblastoma",
+        "Persistent Hyperplastic Primary Vitreous (PHPV)",
+        "Coats disease",
+        "Retinopathy of prematurity",
+        "Toxocariasis"
+      ],
+      "answer": "B",
+      "detail": "The Martini glass sign represents a pathognomonic finding for Persistent Hyperplastic Primary Vitreous (PHPV)."
+    },
+    {
+      "number": 41,
+      "question": "Which pediatric orbital tumor is associated with 'raccoon eyes' (periorbital ecchymosis) due to metastatic spread?",
+      "choices": ["Wilms tumor", "Neuroblastoma", "Leukemia", "Ewing sarcoma", "Rhabdomyosarcoma"],
+      "answer": "B",
+      "detail": "Metastatic neuroblastoma to the orbit is frequently associated with periorbital ecchymosis, or 'raccoon eyes'."
+    },
+    {
+      "number": 42,
+      "question": "Retinoblastoma is the most common intraocular malignancy of childhood and characteristically demonstrates:",
+      "choices": [
+        "Dense fat signal",
+        "Intralesional calcification",
+        "Purely cystic appearance",
+        "Absence of contrast enhancement",
+        "Association with neurofibromatosis Type 1"
+      ],
+      "answer": "B",
+      "detail": "The presence of intralesional calcification is a hallmark imaging feature of retinoblastoma."
+    },
+    {
+      "number": 43,
+      "question": "A 'dermoid cyst' in the orbit is most commonly located at the:",
+      "choices": ["Inferior orbit", "Frontozygomatic suture", "Orbital apex", "Optic canal", "Medial canthus"],
+      "answer": "B",
+      "detail": "Orbital dermoid cysts are most frequently found near the frontozygomatic suture."
+    },
+    {
+      "number": 44,
+      "question": "Which of the following is a potential indirect sign of cavernous sinus thrombosis on imaging?",
+      "choices": [
+        "Narrowing of the optic canal",
+        "Dilatation or thrombosis of the superior ophthalmic vein",
+        "Maxillary sinus atelectasis",
+        "Atrophy of the lacrimal gland",
+        "Enophthalmos"
+      ],
+      "answer": "B",
+      "detail": "Dilatation or thrombosis of the superior ophthalmic vein can serve as an indirect indicator of cavernous sinus thrombosis."
+    },
+    {
+      "number": 45,
+      "question": "'Coats disease' is a mimic of retinoblastoma that presents with subretinal exudate and is distinguished by:",
+      "choices": [
+        "Intense calcification",
+        "Absence of calcification and a smaller globe",
+        "Increased T1 signal",
+        "Association with NF2",
+        "Homogeneous restricted diffusion"
+      ],
+      "answer": "B",
+      "detail": "Unlike retinoblastoma, Coats disease typically lacks calcification and is associated with a smaller globe."
+    }
+  ]
+}

@@ -1,0 +1,1305 @@
+{
+    "questions": 
+    [
+    {
+      "number": 1,
+      "question": "According to the AAST Renal Injury Scale, a subcapsular hematoma without a parenchymal laceration is classified as:",
+      "choices": [
+        "Grade 1",
+        "Grade 2",
+        "Grade 3",
+        "Grade 4",
+        "Grade 5"
+      ],
+      "answer": "A",
+      "detail": "Grade 1 is defined as a subcapsular hematoma with no active parenchymal laceration."
+    },
+    {
+      "number": 2,
+      "question": "A renal laceration that is greater than 1 cm in depth but does NOT involve the renal pelvis or collecting system is a:",
+      "choices": [
+        "Grade 1",
+        "Grade 2",
+        "Grade 3",
+        "Grade 4",
+        "Grade 5"
+      ],
+      "answer": "C",
+      "detail": "Grade 3 injuries involve a parenchymal laceration greater than 1 cm without evidence of a urine leak."
+    },
+    {
+      "number": 3,
+      "question": "Which grade of renal trauma involves a laceration extending into the renal hilum or a 'fractured kidney'?",
+      "choices": [
+        "Grade 2",
+        "Grade 3",
+        "Grade 4",
+        "Grade 5",
+        "Grade 6"
+      ],
+      "answer": "C",
+      "detail": "A 'fractured kidney' or a laceration extending into the hilum is classified as a Grade 4 injury."
+    },
+    {
+      "number": 4,
+      "question": "A 'Shattered Kidney' is defined as a renal fracture with how many fragments?",
+      "choices": [
+        "2",
+        "3 or more",
+        "At least 5",
+        "10",
+        "The number of fragments does not matter"
+      ],
+      "answer": "B",
+      "detail": "A shattered kidney is defined as having 3 or more fragments."
+    },
+    {
+      "number": 5,
+      "question": "In the setting of trauma, a 'Persistent Nephrogram' (a kidney that stays dense) should make you think of:",
+      "choices": [
+        "Segmental artery injury",
+        "Devascularized kidney",
+        "Renal Vein Injury or Thrombosis",
+        "Ureteral avulsion",
+        "Simple cortical contusion"
+      ],
+      "answer": "C",
+      "detail": "A persistent nephrogram is a rapid pearl suggesting renal vein injury or thrombosis."
+    },
+    {
+      "number": 6,
+      "question": "A 'Wedge-Shaped Perfusion Abnormality' on a post-trauma CT is indicative of:",
+      "choices": [
+        "Renal vein thrombosis",
+        "Segmental Artery Injury",
+        "Devascularized kidney",
+        "UPJ obstruction",
+        "Normal variant"
+      ],
+      "answer": "B",
+      "detail": "Wedge-shaped defects in enhancement point toward segmental arterial injury."
+    },
+    {
+      "number": 7,
+      "question": "Which trauma grade is assigned to a kidney that is completely devascularized?",
+      "choices": [
+        "Grade 3",
+        "Grade 4",
+        "Grade 5",
+        "Grade 1",
+        "Grade 2"
+      ],
+      "answer": "C",
+      "detail": "Grade 5 injuries include the devascularized kidney or renal hilum avulsion."
+    },
+    {
+      "number": 8,
+      "question": "When evaluating a trauma patient on delayed (5–15 min) imaging, a focal collection of contrast that INCREASES in attenuation suggests:",
+      "choices": [
+        "Pseudoaneurysm",
+        "AV fistula",
+        "Active bleeding",
+        "Simple cyst",
+        "Urine leak"
+      ],
+      "answer": "C",
+      "detail": "Contrast collections that increase in density over time represent active hemorrhage."
+    },
+    {
+      "number": 9,
+      "question": "A focal collection of contrast that DECREASES in attenuation on delayed trauma imaging suggests:",
+      "choices": [
+        "Active bleeding",
+        "Pseudoaneurysm or AV fistula",
+        "Urine leak",
+        "Renal cell carcinoma",
+        "Segmental infarct"
+      ],
+      "answer": "B",
+      "detail": "A decrease in attenuation on delays is characteristic of vascular lesions like pseudoaneurysms or AV fistulas."
+    },
+    {
+      "number": 10,
+      "question": "How are renal trauma Grades 1, 2, and 3 typically managed?",
+      "choices": [
+        "Emergent surgery",
+        "Conservatively",
+        "With immediate IR drainage",
+        "With radical nephrectomy",
+        "With a low-salt diet"
+      ],
+      "answer": "B",
+      "detail": "Management for Grade 1–3 renal trauma is typically conservative."
+    },
+    {
+      "number": 11,
+      "question": "Which trauma grades typically require surgical management?",
+      "choices": [
+        "Grade 1 only",
+        "Grades 1 and 2",
+        "Grades 2 and 3",
+        "Grades 4 and 5",
+        "All renal trauma requires surgery"
+      ],
+      "answer": "D",
+      "detail": "Higher-grade injuries (4 and 5) usually necessitate surgical intervention."
+    },
+    {
+      "number": 12,
+      "question": "A 'Fractured Kidney' is specifically defined by a laceration that:",
+      "choices": [
+        "Is less than 1 cm deep",
+        "Extends the full depth of the parenchyma, connecting two cortical surfaces",
+        "Only involves the renal capsule",
+        "Is associated with a staghorn stone",
+        "Is found in a transplanted kidney only"
+      ],
+      "answer": "B",
+      "detail": "By definition, a fractured kidney laceration connects two cortical surfaces."
+    },
+    {
+      "number": 13,
+      "question": "A 'devitalized' or 'non-perfused' kidney on trauma imaging is classified as AAST:",
+      "choices": [
+        "Grade 1",
+        "Grade 2",
+        "Grade 3",
+        "Grade 4",
+        "Grade 5"
+      ],
+      "answer": "E",
+      "detail": "Total devascularization is the hallmark of Grade 5 renal injury."
+    },
+    {
+      "number": 14,
+      "question": "What is the most common urologic complication following a renal transplant?",
+      "choices": [
+        "Obstruction",
+        "Artery thrombosis",
+        "BK Virus infection",
+        "AV fistula",
+        "Chronic rejection"
+      ],
+      "answer": "A",
+      "detail": "Urologic complications like obstruction (typically at the site of ureteral implantation) are more common than vascular ones."
+    },
+    {
+      "number": 15,
+      "question": "A 'safety PCN' is often left in place after an NUS (nephroureteral stent) deployment to:",
+      "choices": [
+        "Prevent urosepsis",
+        "Ensure the internal stent is functioning properly",
+        "Tamponade bleeding",
+        "Collect urine for amylase",
+        "Prevent migration of the stent"
+      ],
+      "answer": "B",
+      "detail": "The safety PCN acts as a backup; if the nephrostogram confirms the system is patent, the safety is pulled."
+    },
+    {
+      "number": 16,
+      "question": "In the setting of a 'Day 10' post-transplant fluid collection, which finding on a MAG3 scan identifies it as a Urinoma?",
+      "choices": [
+        "Photopenic (cold) area",
+        "Accumulation of tracer (hot) outside the expected location",
+        "Tiger-striped appearance",
+        "Normal excretion to the bladder",
+        "No uptake at all"
+      ],
+      "answer": "B",
+      "detail": "Urinomas occur early (around Day 10) and will show active tracer leakage and accumulation."
+    },
+    {
+      "number": 17,
+      "question": "A 'Lymphocele' in a transplant patient is characteristically found at:",
+      "choices": [
+        "Day 1",
+        "2 weeks to 6 months post-op",
+        "5 years",
+        "Before surgery",
+        "Only in infants"
+      ],
+      "answer": "B",
+      "detail": "Lymphoceles are considered late complications, typically appearing at 4–8 weeks or up to 6 months."
+    },
+    {
+      "number": 18,
+      "question": "How do you distinguish a Urinoma from a Lymphocele based on fluid laboratory analysis?",
+      "choices": [
+        "Lymphocele fluid has high amylase",
+        "Urinoma fluid creatinine is much higher than serum creatinine",
+        "They are identical",
+        "Urinoma fluid has lower potassium than serum",
+        "Only biopsy can tell"
+      ],
+      "answer": "B",
+      "detail": "Since urinoma fluid is urine, the creatinine level will be significantly higher than in the serum."
+    },
+    {
+      "number": 19,
+      "question": "'Acute Tubular Necrosis' (ATN) in a transplant kidney typically shows which pattern on a MAG3 nuclear scan?",
+      "choices": [
+        "Poor perfusion (crap flow)",
+        "Preserved perfusion with delayed excretion",
+        "No perfusion and no uptake",
+        "Immediate excretion into the bladder",
+        "Diastolic reversal on Doppler"
+      ],
+      "answer": "B",
+      "detail": "ATN characteristically shows normal or mildly delayed flow (preserved perfusion) but significantly delayed excretion."
+    },
+    {
+      "number": 20,
+      "question": "'Acute Rejection' is distinguished from ATN on nuclear medicine scans by having:",
+      "choices": [
+        "Normal perfusion",
+        "Poor perfusion (crap flow)",
+        "Immediate wash-out",
+        "Low resistive indices",
+        "Macroscopic fat"
+      ],
+      "answer": "B",
+      "detail": "Unlike ATN, acute rejection shows 'crap flow' (poor perfusion) on the initial phase."
+    },
+    {
+      "number": 21,
+      "question": "What are the three classic locations where ureteral stones tend to lodge?",
+      "choices": [
+        "UPJ, UVJ, and the pelvic brim",
+        "Hilum, mid-ureter, and bladder neck",
+        "Proximal, middle, and distal thirds equally",
+        "Only at the renal pelvis",
+        "Only inside the bladder"
+      ],
+      "answer": "A",
+      "detail": "Stones classically lodge at the Ureteropelvic Junction (UPJ), Ureterovesical Junction (UVJ), and where they cross the pelvic brim."
+    },
+    {
+      "number": 22,
+      "question": "'Ureteral Wall Calcifications' on imaging should prompt you to think about:",
+      "choices": [
+        "TB and Schistosomiasis",
+        "Diabetes and HTN",
+        "Smoking and alcohol",
+        "VHL and ADPKD",
+        "Leukemia and Lymphoma"
+      ],
+      "answer": "A",
+      "detail": "Wall calcifications are a major clue for Tuberculosis (TB) or Schistosomiasis."
+    },
+    {
+      "number": 23,
+      "question": "'Ureteritis Cystica' is the presence of numerous tiny subepithelial cysts in the ureter, resulting from:",
+      "choices": [
+        "Acute trauma",
+        "Chronic inflammation (stones/recurrent UTI)",
+        "Congenital malformation",
+        "Cystic fibrosis",
+        "HIV infection"
+      ],
+      "answer": "B",
+      "detail": "It is a response to chronic irritation or inflammation, frequently seen in diabetic patients."
+    },
+    {
+      "number": 24,
+      "question": "'Ureteral Pseudodiverticulosis' (multiple small outpouchings) is bilateral 75% of the time and is associated with:",
+      "choices": [
+        "Malignancy",
+        "Normal pregnancy",
+        "High Vitamin C intake",
+        "Renal agenesis",
+        "Polysplenia"
+      ],
+      "answer": "A",
+      "detail": "This finding is associated with underlying malignancy."
+    },
+    {
+      "number": 25,
+      "question": "Which condition is a 'Lord of the Dark Elves' named chronic granulomatous condition associated with E. coli UTIs?",
+      "choices": [
+        "Leukoplakia",
+        "Malakoplakia",
+        "TB",
+        "Sarcoidosis",
+        "GvHD"
+      ],
+      "answer": "B",
+      "detail": "Malakoplakia is the correct answer; it features Michaelis-Gutmann bodies."
+    },
+    {
+      "number": 26,
+      "question": "Is Malakoplakia considered a premalignant condition?",
+      "choices": [
+        "Yes, it always leads to TCC",
+        "No, it is NOT premalignant and usually improves with antibiotics",
+        "Only in children",
+        "Only if it involves the bladder",
+        "Yes, it is a precursor to SCC"
+      ],
+      "answer": "B",
+      "detail": "Malakoplakia is NOT premalignant, which distinguishes it from Leukoplakia."
+    },
+    {
+      "number": 27,
+      "question": "'Leukoplakia' of the urinary tract is significant because it is:",
+      "choices": [
+        "Benign and infectious",
+        "Premalignant (precursor to Squamous Cell Carcinoma)",
+        "Caused by a virus",
+        "Only seen in the kidney",
+        "A normal variant of the bladder"
+      ],
+      "answer": "B",
+      "detail": "Leukoplakia is a premalignant condition associated with squamous cell CA."
+    },
+    {
+      "number": 28,
+      "question": "Which condition causes 'medial deviation' or 'waisting' of the ureters?",
+      "choices": [
+        "Retroperitoneal adenopathy",
+        "Retroperitoneal Fibrosis (Ormond Disease)",
+        "Aortic aneurysm",
+        "Psoas hypertrophy (proximal)",
+        "Dromedary hump"
+      ],
+      "answer": "B",
+      "detail": "Retroperitoneal Fibrosis (Ormond Disease) characteristically pulls the ureters medially."
+    },
+    {
+      "number": 29,
+      "question": "Lateral deviation of the ureters is characteristically caused by:",
+      "choices": [
+        "Pelvic lipomatosis",
+        "Retroperitoneal Adenopathy or Aortic Aneurysm",
+        "Retroperitoneal fibrosis",
+        "Retrocaval ureter",
+        "Horseshoe kidney"
+      ],
+      "answer": "B",
+      "detail": "Large masses (adenopathy) or aortic aneurysms push the ureters laterally."
+    },
+    {
+      "number": 30,
+      "question": "'Ormond Disease' is another name for:",
+      "choices": [
+        "Renal agenesis",
+        "Retroperitoneal Fibrosis",
+        "Birt-Hogg-Dube",
+        "Zinner Syndrome",
+        "Potter Sequence"
+      ],
+      "answer": "B",
+      "detail": "Retroperitoneal Fibrosis is idiopathic 75% of the time and is known as Ormond disease."
+    },
+    {
+      "number": 31,
+      "question": "Retroperitoneal Fibrosis is frequently associated with which other inflammatory disorders?",
+      "choices": [
+        "IgG4-related diseases (e.g., Autoimmune Pancreatitis)",
+        "Sickle Cell Trait",
+        "VHL Syndrome",
+        "Beckwith-Wiedemann",
+        "Turner Syndrome"
+      ],
+      "answer": "A",
+      "detail": "It is part of the IgG4 spectrum of fibro-inflammatory diseases."
+    },
+    {
+      "number": 32,
+      "question": "A 'Subepithelial Renal Pelvis Hematoma' is a classic mimic for which malignancy?",
+      "choices": [
+        "RCC",
+        "Transitional Cell Carcinoma (TCC)",
+        "Wilms tumor",
+        "Oncocytoma",
+        "Adrenal cortical CA"
+      ],
+      "answer": "B",
+      "detail": "It creates a thickened upper tract wall that mimics Transitional Cell Carcinoma."
+    },
+    {
+      "number": 33,
+      "question": "How do you distinguish a subepithelial hematoma from TCC on CT?",
+      "choices": [
+        "Hematomas enhance avidly",
+        "Hematomas are HYPERDENSE on non-contrast CT and do NOT enhance",
+        "TCC is always fatty",
+        "TCC disappears on delayed images",
+        "There is no CT difference"
+      ],
+      "answer": "B",
+      "detail": "A hematoma will be hyperdense on non-contrast CT and show no enhancement."
+    },
+    {
+      "number": 34,
+      "question": "Which of the following causes 'medial deviation' of the RIGHT ureter specifically?",
+      "choices": [
+        "Aortic aneurysm",
+        "Retrocaval Ureter",
+        "Lymphoma",
+        "Psoas hypertrophy (proximal)",
+        "Simple cyst"
+      ],
+      "answer": "B",
+      "detail": "A retrocaval ureter (found on the right side) pulls that specific ureter medially."
+    },
+    {
+      "number": 35,
+      "question": "Pelvic Lipomatosis is associated with which ureteral deviation?",
+      "choices": [
+        "Medial Deviation",
+        "Lateral Deviation",
+        "Anterior displacement",
+        "No deviation",
+        "It only affects the kidney"
+      ],
+      "answer": "A",
+      "detail": "Like RPF, pelvic lipomatosis causes 'waisting' or medial deviation of the ureters."
+    },
+    {
+      "number": 36,
+      "question": "'Psoas Hypertrophy' can deviate the ureters. Where is it lateral vs. medial?",
+      "choices": [
+        "Always lateral",
+        "Lateral (proximal ureter); Medial (distal ureter)",
+        "Medial (proximal); Lateral (distal)",
+        "Always medial",
+        "It doesn't deviate them"
+      ],
+      "answer": "B",
+      "detail": "Proximal hypertrophy deviates them laterally, while distal deviates them medially."
+    },
+    {
+      "number": 37,
+      "question": "When performing a 'Nuclear Renogram,' what defines 'No Obstruction' after Lasix?",
+      "choices": [
+        "Wash-out in 30 minutes",
+        "Wash-out of 50% of tracer within 10 minutes",
+        "No tracer in the kidneys at 5 minutes",
+        "Immediate excretion in 1 minute",
+        "Reversal of flow"
+      ],
+      "answer": "B",
+      "detail": "A T-1/2 (wash-out of 50%) of less than 10 minutes is the standard for no obstruction."
+    },
+    {
+      "number": 38,
+      "question": "A wash-out taking LONGER than 20 minutes after Lasix administration is considered:",
+      "choices": [
+        "Normal",
+        "Obstructed",
+        "Indeterminate",
+        "Dilated but not obstructed",
+        "Hypotensive"
+      ],
+      "answer": "B",
+      "detail": "A wash-out time of more than 20 minutes is diagnostic for obstruction."
+    },
+    {
+      "number": 39,
+      "question": "What is a common cause for an 'Indeterminate' (10–20 min) wash-out result?",
+      "choices": [
+        "Normal function",
+        "'Reservoir Effect' from a very dilated renal pelvis",
+        "Renal agenesis",
+        "Small kidney",
+        "High blood pressure"
+      ],
+      "answer": "B",
+      "detail": "A very dilated system can slow wash-out due to a 'reservoir effect' without true obstruction."
+    },
+    {
+      "number": 40,
+      "question": "A 'Full or Neurogenic Bladder' can cause a false positive for obstruction because of:",
+      "choices": [
+        "Dehydration",
+        "Back Pressure Effects",
+        "Poor tracer uptake",
+        "Renal vein thrombosis",
+        "Liver failure"
+      ],
+      "answer": "B",
+      "detail": "Back pressure from a full or neurogenic bladder can prevent the kidneys from emptying properly."
+    },
+    {
+      "number": 41,
+      "question": "What is the most common histological subtype of collecting system cancers (90%)?",
+      "choices": [
+        "Squamous Cell Carcinoma",
+        "Transitional Cell Carcinoma (TCC) / Urothelial Carcinoma",
+        "Adenocarcinoma",
+        "Adenoid cystic",
+        "Small cell CA"
+      ],
+      "answer": "B",
+      "detail": "TCC (Urothelial Carcinoma) makes up 90% of collecting system cancers."
+    },
+    {
+      "number": 42,
+      "question": "The 'Goblet Sign' or 'Champagne Glass Sign' on a retrograde pyelogram is characteristic of:",
+      "choices": [
+        "Obstructing stone",
+        "Ureteral TCC",
+        "Ureteral pseudodiverticulosis",
+        "Blood clot",
+        "Normal variant"
+      ],
+      "answer": "B",
+      "detail": "This sign describes the focal dilation below an intraluminal mass, which is typical of TCC."
+    },
+    {
+      "number": 43,
+      "question": "Which of the following is the STRONGEST risk factor for the development of TCC?",
+      "choices": [
+        "High fat diet",
+        "Smoking",
+        "Alcohol",
+        "Previous C-section",
+        "Multiple pregnancies"
+      ],
+      "answer": "B",
+      "detail": "Smoking is the classic and most heavily tested risk factor for TCC."
+    },
+    {
+      "number": 44,
+      "question": "According to high-yield statistics, where does the majority of urinary tract TCC occur?",
+      "choices": [
+        "Renal Pelvis",
+        "Bladder",
+        "Ureter",
+        "Urethra",
+        "Prostate"
+      ],
+      "answer": "B",
+      "detail": "The bladder is 100x more common than the ureter for TCC."
+    },
+    {
+      "number": 45,
+      "question": "If you are diagnosed with an upper tract TCC, what is the chance you will also have or develop a bladder TCC?",
+      "choices": [
+        "4%",
+        "10%",
+        "25%",
+        "40%",
+        "100%"
+      ],
+      "answer": "D",
+      "detail": "Upper tract TCC has a 40% association with subsequent or synchronous bladder TCC."
+    },
+    {
+      "number": 46,
+      "question": "If you are diagnosed with a bladder TCC, what is the chance of having a synchronous renal pelvis or ureteral TCC?",
+      "choices": [
+        "4%",
+        "40%",
+        "75%",
+        "90%",
+        "0%"
+      ],
+      "answer": "A",
+      "detail": "The risk for upper tract disease after a bladder TCC diagnosis is much lower, at 4%."
+    },
+    {
+      "number": 47,
+      "question": "TCC of the ureter is most commonly located in which segment?",
+      "choices": [
+        "Proximal 1/3",
+        "Middle 1/3",
+        "Distal 1/3 (bottom third)",
+        "It is equally distributed",
+        "Only at the UPJ"
+      ],
+      "answer": "C",
+      "detail": "75% of ureteral TCCs occur in the bottom (distal) third."
+    },
+    {
+      "number": 48,
+      "question": "'Balkan Nephropathy' is a degenerative disease endemic to the Balkan States associated with a high rate of:",
+      "choices": [
+        "Renal agenesis",
+        "Renal pelvis and upper ureter TCC",
+        "Horseshoe kidney",
+        "Medullary RCC",
+        "Simple cysts"
+      ],
+      "answer": "B",
+      "detail": "This disease carries a super high risk for upper tract urothelial cancers."
+    },
+    {
+      "number": 49,
+      "question": "Squamous Cell Carcinoma of the urinary tract is most strongly associated with:",
+      "choices": [
+        "Smoking",
+        "Schistosomiasis",
+        "High protein diet",
+        "VHL",
+        "Turner Syndrome"
+      ],
+      "answer": "B",
+      "detail": "Schistosomiasis is the major predisposing factor for Squamous Cell CA."
+    },
+    {
+      "number": 50,
+      "question": "'Fibroepithelial Polyp' is a benign lesion that mimics TCC but characteristically occurs in:",
+      "choices": [
+        "Younger patients (30–40)",
+        "90-year-old men",
+        "Infants",
+        "Diabetics only",
+        "Patients with TB"
+      ],
+      "answer": "A",
+      "detail": "Compared to TCC, polyps favor a younger population, typically between age 30 and 40."
+    },
+    {
+      "number": 51,
+      "question": "While TCC is typically fixed and irregular, a Fibroepithelial Polyp is described as:",
+      "choices": [
+        "Fixed and heterogeneous",
+        "Mobile, smooth, and oblong",
+        "Calcified and shadowing",
+        "Always found in the bladder",
+        "Rapidly enhancing"
+      ],
+      "answer": "B",
+      "detail": "Polyps are characteristically smooth, oblong, and may exhibit mobility."
+    },
+    {
+      "number": 52,
+      "question": "'Stasis' of urine contributes to cancer risk. Which anatomical area has the MOST stasis?",
+      "choices": [
+        "Renal pelvis",
+        "Bladder",
+        "Ureter",
+        "Urethra",
+        "Minor calyx"
+      ],
+      "answer": "B",
+      "detail": "Static urine in the bladder is a major contributor to its high rate of TCC."
+    },
+    {
+      "number": 53,
+      "question": "Hematogenous metastases to the ureter are rare but most commonly originate from:",
+      "choices": [
+        "GI, Prostate, Renal, and Breast",
+        "Lung only",
+        "Brain",
+        "Thyroid",
+        "Skin"
+      ],
+      "answer": "A",
+      "detail": "These primary sites are the most frequent sources that infiltrate periureteral tissues."
+    },
+    {
+      "number": 54,
+      "question": "Aristolochic acid (AA) in the seeds of a specific herb is the toxin responsible for:",
+      "choices": [
+        "Page kidney",
+        "Balkan Nephropathy",
+        "XGP",
+        "Polycystic kidney disease",
+        "Renal failure in neonates"
+      ],
+      "answer": "B",
+      "detail": "AA ingestion is the linked toxin for the high rates of TCC seen in Balkan Nephropathy."
+    },
+    {
+      "number": 55,
+      "question": "For multiple choice purposes, how should a filling defect in the renal pelvis be managed?",
+      "choices": [
+        "Follow-up in 1 year",
+        "Assume it is Clot, Calcium (stone), or Cancer",
+        "Assume it is always a benign polyp",
+        "Start antibiotics immediately",
+        "Ignore it if the patient is under 40"
+      ],
+      "answer": "B",
+      "detail": "Filling defects in the collecting system are considered guilty of being cancer until proven otherwise."
+    },
+    {
+      "number": 56,
+      "question": "'Bilateral' TCC of the ureters occurs in what percentage of cases?",
+      "choices": [
+        "1%",
+        "5%",
+        "20%",
+        "50%",
+        "90%"
+      ],
+      "answer": "B",
+      "detail": "Ureteral TCC is bilateral in approximately 5% of cases."
+    },
+    {
+      "number": 57,
+      "question": "Which cancer is associated with a longstanding Suprapubic catheter?",
+      "choices": [
+        "Bladder TCC",
+        "Squamous Cell Carcinoma",
+        "Adenocarcinoma",
+        "Rhabdomyosarcoma",
+        "Leukemia"
+      ],
+      "answer": "B",
+      "detail": "Chronic irritation, such as from a long-term catheter, is a risk factor for Squamous Cell CA."
+    },
+    {
+      "number": 58,
+      "question": "In the 'GU Cancer Blitz,' which subtype is 'denser than cortex on non-con CT'?",
+      "choices": [
+        "Clear cell RCC",
+        "Papillary RCC",
+        "Translocation Carcinoma",
+        "Medullary RCC",
+        "Chromophobe RCC"
+      ],
+      "answer": "C",
+      "detail": "Translocation carcinoma is unique for being hyperdense on non-contrast imaging."
+    },
+    {
+      "number": 59,
+      "question": "Which RCC subtype is associated with Hereditary Papillary Renal Carcinoma?",
+      "choices": [
+        "Clear Cell",
+        "Papillary",
+        "Chromophobe",
+        "Medullary",
+        "Translocation"
+      ],
+      "answer": "B",
+      "detail": "Papillary RCC is the associated subtype for this hereditary condition."
+    },
+    {
+      "number": 60,
+      "question": "Medullary RCC is characteristically associated with:",
+      "choices": [
+        "VHL",
+        "Birt-Hogg-Dube",
+        "Sickle Cell Trait",
+        "Smoking",
+        "Elderly patients"
+      ],
+      "answer": "C",
+      "detail": "Medullary RCC is the aggressive tumor flavor linked to sickle cell trait."
+    },
+    {
+      "number": 61,
+      "question": "'Prune Belly' (Eagle Barrett) Syndrome is a triad of cryptorchidism, hydroureteronephrosis, and:",
+      "choices": [
+        "Lung cysts",
+        "Deficiency of abdominal musculature",
+        "Multiple limb defects",
+        "Brain tumors",
+        "Gallstones"
+      ],
+      "answer": "B",
+      "detail": "The absent abdominal wall gives the classic 'wide pear' baby appearance."
+    },
+    {
+      "number": 62,
+      "question": "What is the primary clinical concern associated with a 'Urachal Remnant'?",
+      "choices": [
+        "Renal artery stenosis",
+        "Development of Adenocarcinoma",
+        "Biliary atresia",
+        "Pelvic kidney",
+        "Testicular torsion"
+      ],
+      "answer": "B",
+      "detail": "Urachal remnants carry a high risk (90%) for developing adenocarcinoma, usually at the bladder dome."
+    },
+    {
+      "number": 63,
+      "question": "'Hutch Diverticula' are located near the UVJ and are characteristically associated with:",
+      "choices": [
+        "PUV",
+        "Ipsilateral Reflux (secondary VUR)",
+        "Bladder cancer",
+        "Neurogenic bladder",
+        "TB"
+      ],
+      "answer": "B",
+      "detail": "Hutch diverticula are known causes of secondary ipsilateral reflux."
+    },
+    {
+      "number": 64,
+      "question": "'Bladder Ears' are defined as:",
+      "choices": [
+        "Malignant tumors",
+        "Transitory extraperitoneal herniation of the bladder into the inguinal canal",
+        "A sign of end-stage TB",
+        "Calcifications of the ureters",
+        "Diverticula of the dome"
+      ],
+      "answer": "B",
+      "detail": "They are transient extraperitoneal herniations, often seen in infants, that usually have no pathological significance."
+    },
+    {
+      "number": 65,
+      "question": "In a patient over 50, the presence of 'GROSS hematuria' carries a 4x higher risk for:",
+      "choices": [
+        "Simple cysts",
+        "Bladder Cancer",
+        "Nephrocalcinosis",
+        "Page kidney",
+        "Horseshoe kidney"
+      ],
+      "answer": "B",
+      "detail": "Gross hematuria in an older adult is the hallmark prompt for a bladder cancer workup."
+    },
+    {
+      "number": 66,
+      "question": "What does 'diffuse circumferential bladder wall thickening' typically represent in a board question?",
+      "choices": [
+        "TCC",
+        "Inflammation, infection, or outlet obstruction (prostate)",
+        "Squamous cell carcinoma",
+        "Urachal remnant",
+        "Normal anatomy"
+      ],
+      "answer": "B",
+      "detail": "Diffuse thickening is usually benign (inflammation/obstruction), while focal thickening is concerning for cancer."
+    },
+    {
+      "number": 67,
+      "question": "'Squamous Cell Carcinoma' of the bladder is strongly associated with which condition?",
+      "choices": [
+        "Smoking",
+        "Schistosomiasis (and chronic catheters)",
+        "Urachal remnants",
+        "Bladder exstrophy",
+        "MEN 1"
+      ],
+      "answer": "B",
+      "detail": "Squamous Cell CA is strongly linked to Schistosomiasis and chronic irritation."
+    },
+    {
+      "number": 68,
+      "question": "A midline mass with calcifications located at the bladder dome is the Aunt Minnie for:",
+      "choices": [
+        "Bladder TCC",
+        "Urachal Adenocarcinoma",
+        "Squamous cell carcinoma",
+        "Rhabdomyosarcoma",
+        "Leiomyoma"
+      ],
+      "answer": "B",
+      "detail": "Calcifications in a midline mass at the dome are pathognomonic for urachal adenocarcinoma."
+    },
+    {
+      "number": 69,
+      "question": "'Leiomyoma' of the bladder is a benign 'fibroid' that characteristically presents with:",
+      "choices": [
+        "Gross hematuria",
+        "Urinary hesitancy or 'dribbling'",
+        "Weight loss",
+        "Bone metastases",
+        "Jaundice"
+      ],
+      "answer": "B",
+      "detail": "These smooth solid benign tumors cause obstructive symptoms like hesitancy."
+    },
+    {
+      "number": 70,
+      "question": "'Bladder Flap Hematoma' is a surgical complication seen after which procedure?",
+      "choices": [
+        "Radical nephrectomy",
+        "C-section",
+        "Pyloromyotomy",
+        "Liver transplant",
+        "HSG"
+      ],
+      "answer": "B",
+      "detail": "It occurs when blood accumulates behind the bladder following a lower uterine incision during a C-section."
+    },
+    {
+      "number": 71,
+      "question": "A 'Psoas Hitch' is a surgical procedure performed to:",
+      "choices": [
+        "Drain an abscess",
+        "Bridge the gap for a short ureter by stretching the bladder",
+        "Remove a kidney stone",
+        "Treat bladder cancer",
+        "Fix a horseshoe kidney"
+      ],
+      "answer": "B",
+      "detail": "The bladder is surgically anchored to the psoas to bridge the gap and allow for ureteral re-implantation."
+    },
+    {
+      "number": 72,
+      "question": "In 'Emphysematous Cystitis,' where is the gas located?",
+      "choices": [
+        "The kidney meat",
+        "The wall of the bladder",
+        "The renal pelvis",
+        "The peritoneal cavity",
+        "The psoas muscle"
+      ],
+      "answer": "B",
+      "detail": "Emphysematous cystitis is a gas-forming infection localized to the bladder wall."
+    },
+    {
+      "number": 73,
+      "question": "A 'Thimble Bladder' (thick, contracted bladder) is a late sign of:",
+      "choices": [
+        "Smoking",
+        "Tuberculosis (TB)",
+        "Diabetes",
+        "Schistosomiasis",
+        "AIDS"
+      ],
+      "answer": "B",
+      "detail": "Thimble bladder is a hallmark sign of end-stage genitourinary TB."
+    },
+    {
+      "number": 74,
+      "question": "'Pine Cone Bladder' is a buzzword associated with:",
+      "choices": [
+        "Bladder cancer",
+        "Neurogenic Bladder",
+        "Bladder stones",
+        "Diverticulitis",
+        "Normal pregnancy"
+      ],
+      "answer": "B",
+      "detail": "The irregular, spiky 'Christmas tree' appearance is typical of neurogenic bladder dysfunction."
+    },
+    {
+      "number": 75,
+      "question": "'Pear Shaped Bladder' is a radiographic sign associated with:",
+      "choices": [
+        "TB",
+        "Pelvic Lipomatosis or large hematoma",
+        "Bladder TCC",
+        "Renal agenesis",
+        "Simple cysts"
+      ],
+      "answer": "B",
+      "detail": "This sign results from extrinsic compression by pelvic fat (lipomatosis) or a large pelvic hematoma."
+    },
+    {
+      "number": 76,
+      "question": "Which type of bladder rupture is more common (80–90%) and usually associated with a pelvic fracture?",
+      "choices": [
+        "Intraperitoneal",
+        "Extraperitoneal",
+        "Retroperitoneal",
+        "Subperitoneal",
+        "Mediastinal"
+      ],
+      "answer": "B",
+      "detail": "Extraperitoneal rupture is the most common type and is typically managed medically."
+    },
+    {
+      "number": 77,
+      "question": "The 'Molar Tooth Sign' on a cystogram indicates:",
+      "choices": [
+        "Intraperitoneal bladder rupture",
+        "Extraperitoneal bladder rupture (contrast in the space of Retzius)",
+        "Normal bladder filling",
+        "Bladder stones",
+        "Cancer at the dome"
+      ],
+      "answer": "B",
+      "detail": "Contrast tracking into the prevesical space (Retzius) takes on a molar tooth shape in extraperitoneal rupture."
+    },
+    {
+      "number": 78,
+      "question": "'Intraperitoneal Bladder Rupture' characteristically occurs after:",
+      "choices": [
+        "Pelvic fracture",
+        "A direct blow to a FULL bladder (popping the top)",
+        "Normal voiding",
+        "Chronic catheter use",
+        "Walking too much"
+      ],
+      "answer": "B",
+      "detail": "Blowing the top off the bladder dome requires a full bladder and direct trauma."
+    },
+    {
+      "number": 79,
+      "question": "How is Intraperitoneal bladder rupture managed?",
+      "choices": [
+        "Conservative/Medical",
+        "Surgery",
+        "IR drainage",
+        "Antibiotics only",
+        "Low protein diet"
+      ],
+      "answer": "B",
+      "detail": "Unlike extraperitoneal leaks, intraperitoneal ruptures require surgical intervention."
+    },
+    {
+      "number": 80,
+      "question": "'Pseudo Azotemia' (elevated creatinine) in bladder trauma is caused by:",
+      "choices": [
+        "Kidney failure",
+        "Absorption of urinary creatinine across the peritoneal lining",
+        "Dehydration",
+        "Contrast allergy",
+        "Smoking"
+      ],
+      "answer": "B",
+      "detail": "The peritoneum acts as a membrane, absorbing urine back into the blood and mimicking renal failure."
+    },
+    {
+      "number": 81,
+      "question": "The 'Verumontanum' is a landmark in the male urethra that contains a remnant of the:",
+      "choices": [
+        "Wolffian duct",
+        "Mullerian duct (prostatic utricle)",
+        "Urachus",
+        "Allantois",
+        "Pharyngeal pouch"
+      ],
+      "answer": "B",
+      "detail": "The prostatic utricle is a vestigial Mullerian remnant found at the verumontanum."
+    },
+    {
+      "number": 82,
+      "question": "Trauma with 'blood at the meatus' is the clinical trigger for which 'Next Step' study?",
+      "choices": [
+        "CT abdomen",
+        "Retrograde Urethrography (RUG)",
+        "Ultrasound of the bladder",
+        "IVP",
+        "MRI"
+      ],
+      "answer": "B",
+      "detail": "A RUG is mandatory to check for urethral injury before inserting any instrumentation."
+    },
+    {
+      "number": 83,
+      "question": "'Anterior' urethral injuries (e.g., Straddle Injury) classically affect which segment?",
+      "choices": [
+        "Membranous",
+        "Bulbar (and Penile)",
+        "Prostatic",
+        "Renal pelvis",
+        "Bladder neck"
+      ],
+      "answer": "B",
+      "detail": "Anterior injuries involve the bulbar and penile segments."
+    },
+    {
+      "number": 84,
+      "question": "A 'Straddle Injury' typically results in damage to which specific part of the urethra?",
+      "choices": [
+        "Membranous",
+        "Bulbous",
+        "Prostatic",
+        "Fossa navicularis",
+        "Ureter"
+      ],
+      "answer": "B",
+      "detail": "Straddle injuries specifically crush the bulbous urethra against the pubic symphysis."
+    },
+    {
+      "number": 85,
+      "question": "'Posterior' urethral injuries are classically associated with:",
+      "choices": [
+        "Straddle injury",
+        "Pelvic fractures and bladder injury",
+        "Riding a bicycle",
+        "Juggling",
+        "Smoking"
+      ],
+      "answer": "B",
+      "detail": "Posterior tears (Types 2 and 3) are usually the result of major pelvic trauma."
+    },
+    {
+      "number": 86,
+      "question": "A Type 3 urethral injury is the most common and involves:",
+      "choices": [
+        "Stretching only",
+        "Prostatic injury",
+        "Membranous and Bulbar tears with UG diaphragm rupture",
+        "Bladder dome pop",
+        "Kidney stone"
+      ],
+      "answer": "C",
+      "detail": "Type 3 involves both anterior and posterior segments with a torn urogenital diaphragm."
+    },
+    {
+      "number": 87,
+      "question": "In a Type 3 urethral injury, contrast will be seen extravasating into the:",
+      "choices": [
+        "Space of Retzius",
+        "Perineum (scrotum)",
+        "Collecting system",
+        "Lung",
+        "Stomach"
+      ],
+      "answer": "B",
+      "detail": "Rupture of the diaphragm allows contrast to track into the scrotum/perineum."
+    },
+    {
+      "number": 88,
+      "question": "'Gonococcal Urethral Stricture' is distinguished from a traumatic stricture by being:",
+      "choices": [
+        "Short and smooth",
+        "Long and irregular in the distal bulbous urethra",
+        "Only in the prostatic urethra",
+        "Fatty",
+        "Calcified"
+      ],
+      "answer": "B",
+      "detail": "Gonococcal strictures are typically long and irregular, located in the distal bulbous segment."
+    },
+    {
+      "number": 89,
+      "question": "'Condyloma Acuminatum' presents as what finding on a RUG?",
+      "choices": [
+        "A single large mass",
+        "Multiple small filling defects",
+        "Total occlusion",
+        "High-flow AVF",
+        "Molar tooth sign"
+      ],
+      "answer": "B",
+      "detail": "Multiple small defects in the urethra are a sign of condyloma."
+    },
+    {
+      "number": 90,
+      "question": "Urethrorectal Fistulas are characteristically described following which treatment?",
+      "choices": [
+        "Smoking",
+        "Brachytherapy (radiation)",
+        "Antibiotics",
+        "C-section",
+        "Kidney transplant"
+      ],
+      "answer": "B",
+      "detail": "Brachytherapy for prostate cancer is a recognized cause of these fistulas."
+    },
+    {
+      "number": 91,
+      "question": "In a man, a 'Urethral Diverticulum' is almost always the result of:",
+      "choices": [
+        "Congenital defect",
+        "Long-term Foley placement",
+        "Eating aristolochic acid",
+        "Pelvic fracture",
+        "Diabetes"
+      ],
+      "answer": "B",
+      "detail": "Chronic indwelling catheters are the leading cause of urethral diverticula in males."
+    },
+    {
+      "number": 92,
+      "question": "Cancer found within a male urethral diverticulum is nearly ALWAYS:",
+      "choices": [
+        "TCC",
+        "Squamous cell CA",
+        "Adenocarcinoma",
+        "Lymphoma",
+        "Osteosarcoma"
+      ],
+      "answer": "C",
+      "detail": "Diverticulum cancer in males is a classic 'trap' for adenocarcinoma."
+    },
+    {
+      "number": 93,
+      "question": "'Female Urethral Diverticula' are way more common than in males and result from:",
+      "choices": [
+        "Trauma",
+        "Repeated infection of periurethral glands",
+        "Congenital valves",
+        "Kidney stones",
+        "Smoking"
+      ],
+      "answer": "B",
+      "detail": "Chronic infection of the periurethral glands is the leading etiology in females."
+    },
+    {
+      "number": 94,
+      "question": "'Saddle-bag' configuration on a sagittal MRI is the buzzword for:",
+      "choices": [
+        "Prostate cancer",
+        "Female Urethral Diverticulum",
+        "Bladder exstrophy",
+        "Neurogenic bladder",
+        "Horseshoe kidney"
+      ],
+      "answer": "B",
+      "detail": "The 'saddle-bag' configuration is pathognomonic for female urethral diverticula."
+    },
+    {
+      "number": 95,
+      "question": "Malignant tumors of the male urethra (80% of cases) are typically:",
+      "choices": [
+        "TCC",
+        "Squamous Cell Carcinoma",
+        "Adenocarcinoma",
+        "Small cell CA",
+        "GIST"
+      ],
+      "answer": "B",
+      "detail": "Most urethral cancers are squamous cell, except in the prostatic portion."
+    },
+    {
+      "number": 96,
+      "question": "Cancer of the 'Prostatic Urethra' (male) is 90%:",
+      "choices": [
+        "Squamous",
+        "Transitional Cell Carcinoma (TCC)",
+        "Adenocarcinoma",
+        "Teratoma",
+        "Leukemia"
+      ],
+      "answer": "B",
+      "detail": "The prostatic segment behaves like the bladder and predominantly develops TCC."
+    },
+    {
+      "number": 97,
+      "question": "In a renal transplant patient, what does the 'BK Virus' predispose them to?",
+      "choices": [
+        "Artery stenosis",
+        "Urothelial Malignancy",
+        "Urinoma",
+        "AV fistula",
+        "Femoral head AVN"
+      ],
+      "answer": "B",
+      "detail": "BK virus is linked to post-transplant urothelial cancers."
+    },
+    {
+      "number": 98,
+      "question": "'Medial Deviation' of the ureters is a hallmark of:",
+      "choices": [
+        "Aortic aneurysm",
+        "Retroperitoneal Fibrosis",
+        "Retroperitoneal adenopathy",
+        "Polysplenia",
+        "Renal agenesis"
+      ],
+      "answer": "B",
+      "detail": "This 'waisting' of the ureters is the classic imaging appearance of Retroperitoneal Fibrosis."
+    },
+    {
+      "number": 99,
+      "question": "A male with 'flexed thumbs' and hydrocephalus has:",
+      "choices": [
+        "Chiari II",
+        "Bickers Adams Edwards Syndrome",
+        "Dandy-Walker",
+        "ADPKD",
+        "Horseshoe kidney"
+      ],
+      "answer": "B",
+      "detail": "This is an X-linked variant of aqueductal stenosis."
+    },
+    {
+      "number": 100,
+      "question": "'Sunset eyes' or upward gaze paralysis are clinical trivia for:",
+      "choices": [
+        "Renal failure",
+        "Congenital Aqueductal Stenosis",
+        "Bladder exstrophy",
+        "TCC",
+        "Straddle injury"
+      ],
+      "answer": "B",
+      "detail": "These are described clinical signs of congenital obstructive hydrocephalus."
+    }
+  ]
+}

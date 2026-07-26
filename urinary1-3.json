@@ -1,0 +1,1307 @@
+{
+    "questions": 
+   
+ [
+    {
+      "number": 1,
+      "question": "Which retroperitoneal space contains only fat pads?",
+      "choices": [
+        "Perirenal space",
+        "Anterior pararenal space",
+        "Posterior pararenal space",
+        "Retromesenteric plane",
+        "Retrorenal plane"
+      ],
+      "answer": "C",
+      "detail": "The posterior pararenal space is defined as containing only fat pads."
+    },
+    {
+      "number": 2,
+      "question": "The kidneys, adrenals, and proximal ureters are located within which compartment?",
+      "choices": [
+        "Anterior pararenal space",
+        "Perirenal space",
+        "Posterior pararenal space",
+        "Combined interfascial plane",
+        "Lateroconal fascia"
+      ],
+      "answer": "B",
+      "detail": "The perirenal space contains the kidneys, proximal ureters, and adrenals."
+    },
+    {
+      "number": 3,
+      "question": "Which of the following structures is found in the anterior pararenal space?",
+      "choices": [
+        "Adrenal glands",
+        "Pancreas and Duodenum",
+        "Fat pads only",
+        "Distal ureters",
+        "Spleen"
+      ],
+      "answer": "B",
+      "detail": "The anterior pararenal space contains the pancreas, duodenum, and the ascending/descending colon."
+    },
+    {
+      "number": 4,
+      "question": "What is the 'French sounding surname' for the anterior renal fascia?",
+      "choices": [
+        "Zuckerkandl’s fascia",
+        "Gerota’s fascia",
+        "Cloquet’s fascia",
+        "Denonvilliers' fascia",
+        "Waldeyer’s fascia"
+      ],
+      "answer": "B",
+      "detail": "The anterior renal fascia is commonly known as Gerota’s fascia."
+    },
+    {
+      "number": 5,
+      "question": "What is the 'French sounding surname' for the posterior renal fascia?",
+      "choices": [
+        "Gerota’s fascia",
+        "Zuckerkandl’s fascia",
+        "Lunderquist’s fascia",
+        "Cooper’s fascia",
+        "Retzius' fascia"
+      ],
+      "answer": "B",
+      "detail": "The posterior renal fascia is known as Zuckerkandl’s fascia."
+    },
+    {
+      "number": 6,
+      "question": "The 'Retromesenteric Plane' (RMP) is a potential space located between:",
+      "choices": [
+        "The perirenal space and posterior pararenal space",
+        "The anterior pararenal space and perirenal space",
+        "The two kidneys",
+        "The bladder and rectum",
+        "The liver and diaphragm"
+      ],
+      "answer": "B",
+      "detail": "The retromesenteric plane lies between the anterior pararenal and perirenal spaces."
+    },
+    {
+      "number": 7,
+      "question": "Fluid collections from pancreatitis or a duodenal hematoma are typically found in the:",
+      "choices": [
+        "Perirenal space",
+        "Anterior pararenal space",
+        "Posterior pararenal space",
+        "Retrorenal plane",
+        "Combined interfascial plane"
+      ],
+      "answer": "B",
+      "detail": "Pancreatitis fluid collections and duodenal hematomas are characteristic pathologies of the anterior pararenal space."
+    },
+    {
+      "number": 8,
+      "question": "Urine leaks, renal masses, and renal abscesses are pathologies primarily associated with the:",
+      "choices": [
+        "Anterior pararenal space",
+        "Perirenal space",
+        "Posterior pararenal space",
+        "Lateroconal fascia",
+        "Transversalis fascia"
+      ],
+      "answer": "B",
+      "detail": "These pathologies are located within the perirenal space."
+    },
+    {
+      "number": 9,
+      "question": "What is the normal length range for an adult kidney?",
+      "choices": [
+        "5 cm to 10 cm",
+        "9 cm to 15 cm",
+        "12 cm to 18 cm",
+        "15 cm to 20 cm",
+        "20 cm to 25 cm"
+      ],
+      "answer": "B",
+      "detail": "The normal adult kidney should measure between 9 cm and 15 cm in length."
+    },
+    {
+      "number": 10,
+      "question": "If renal echogenicity is GREATER than the liver on ultrasound, it indicates:",
+      "choices": [
+        "A normal variant",
+        "Fatty liver",
+        "Impaired renal function (medical renal disease)",
+        "Renal cell carcinoma",
+        "A simple cyst"
+      ],
+      "answer": "C",
+      "detail": "Increased renal echogenicity relative to the liver suggests impaired renal function."
+    },
+    {
+      "number": 11,
+      "question": "Liver echogenicity significantly GREATER than the kidney on ultrasound is a sign of:",
+      "choices": [
+        "Medical renal disease",
+        "Fatty liver",
+        "Cirrhosis",
+        "Renal lymphoma",
+        "Normal anatomy"
+      ],
+      "answer": "B",
+      "detail": "If the liver is much brighter than the kidney, it indicates fatty liver."
+    },
+    {
+      "number": 12,
+      "question": "A 'Dromedary Hump' is a focal bulge found on which kidney?",
+      "choices": [
+        "Right kidney only",
+        "Left kidney only",
+        "Both kidneys equally",
+        "Only in pediatric patients",
+        "Only in patients with cirrhosis"
+      ],
+      "answer": "B",
+      "detail": "The dromedary hump is a focal bulge on the left kidney caused by adaptation to the adjacent spleen."
+    },
+    {
+      "number": 13,
+      "question": "A 'Prominent Column of Bertin' is a normal variant located between which calyces?",
+      "choices": [
+        "Upper and lower",
+        "Upper and middle (middle third)",
+        "Lower and middle",
+        "It is found in the renal pelvis",
+        "It is found in the ureter"
+      ],
+      "answer": "B",
+      "detail": "The classic location is in the middle third of the kidney, between the upper and middle calyces."
+    },
+    {
+      "number": 14,
+      "question": "On ultrasound, a Column of Bertin will show power Doppler flow that is:",
+      "choices": [
+        "Absent",
+        "Identical to the normal cortex",
+        "Significantly increased (hypervascular)",
+        "Peripheral only",
+        "Only seen on the arterial phase"
+      ],
+      "answer": "B",
+      "detail": "Because it is normal hypertrophied cortical tissue, the flow is identical to the normal cortex."
+    },
+    {
+      "number": 15,
+      "question": "A 'Junctional Parenchyma Defect' is a pseudo-scar seen in which part of the kidney?",
+      "choices": [
+        "Lower pole",
+        "Upper 1/3 of the kidney",
+        "Renal sinus",
+        "Renal pelvis",
+        "Ureteropelvic junction"
+      ],
+      "answer": "B",
+      "detail": "This echogenic line is a pseudo-scar typically seen in the upper 1/3 of the kidney."
+    },
+    {
+      "number": 16,
+      "question": "In 'Fetal Lobulation,' the renal surface indentations overlie the:",
+      "choices": [
+        "Dilated/blunted calyces",
+        "Space between the pyramids",
+        "Renal sinus fat",
+        "Ureter",
+        "Adrenal gland"
+      ],
+      "answer": "B",
+      "detail": "Lobulation is defined by indentations overlying the spaces between pyramids, whereas scarring overlies the calyces."
+    },
+    {
+      "number": 17,
+      "question": "'Reflux Scarring' is distinguished from fetal lobulation because the indentations overlie:",
+      "choices": [
+        "The pyramids",
+        "Dilated or blunted calyces",
+        "The renal artery",
+        "The renal vein",
+        "The psoas muscle"
+      ],
+      "answer": "B",
+      "detail": "In reflux scarring, indentations occur over the blunted calyces, often at the poles."
+    },
+    {
+      "number": 18,
+      "question": "The 'Potter Sequence' results from bilateral renal agenesis leading to:",
+      "choices": [
+        "No kidneys -> No Pee -> No Amniotic Fluid -> Hypoplastic Lungs",
+        "Large kidneys -> Too much pee -> Polyhydramnios -> Giant lungs",
+        "Small kidneys -> Normal pee -> Normal fluid",
+        "Absence of the heart",
+        "Multiple limbs"
+      ],
+      "answer": "A",
+      "detail": "The sequence is no kidneys, leading to no urine, which causes oligohydramnios and results in pulmonary hypoplasia."
+    },
+    {
+      "number": 19,
+      "question": "What percentage of women with unilateral renal agenesis have associated genital anomalies (e.g., unicornuate uterus)?",
+      "choices": [
+        "10%",
+        "25%",
+        "50%",
+        "70%",
+        "95%"
+      ],
+      "answer": "D",
+      "detail": "70% of women with unilateral renal agenesis have associated genital anomalies like a unicornuate uterus."
+    },
+    {
+      "number": 20,
+      "question": "In men with unilateral renal agenesis, 20% are missing which ipsilateral structures?",
+      "choices": [
+        "Epididymis and vas deferens (plus a seminal vesicle cyst)",
+        "Testicle and scrotum",
+        "Prostate and bladder",
+        "Kidney and adrenal",
+        "Penis and urethra"
+      ],
+      "answer": "A",
+      "detail": "20% of men are missing the ipsilateral epididymis and vas deferens and have an ipsilateral seminal vesicle cyst."
+    },
+    {
+      "number": 21,
+      "question": "'Mayer-Rokitansky-Kuster-Hauser' syndrome is characterized by Mullerian duct anomalies and an association with:",
+      "choices": [
+        "Bilateral renal agenesis",
+        "Unilateral renal agenesis",
+        "Horseshoe kidney",
+        "Polycystic kidney disease",
+        "Renal cell carcinoma"
+      ],
+      "answer": "B",
+      "detail": "This syndrome involves uterine anomalies and is associated with unilateral renal agenesis."
+    },
+    {
+      "number": 22,
+      "question": "The 'Lying Down Adrenal' or 'Pancake Adrenal' sign is an indicator of:",
+      "choices": [
+        "Adrenal hemorrhage",
+        "Congenital absence of the kidney",
+        "Adrenal cortical carcinoma",
+        "Pheochromocytoma",
+        "Normal development in an adult"
+      ],
+      "answer": "B",
+      "detail": "An elongated 'pancake' adrenal is a sign that the kidney is congenitally absent from that side."
+    },
+    {
+      "number": 23,
+      "question": "Which renal contrast phase is acquired at 25–40 seconds and shows enhancement of the cortex only?",
+      "choices": [
+        "Corticomedullary Phase (CMP)",
+        "Nephrographic Phase (NP)",
+        "Excretory Phase (EP)",
+        "Non-contrast phase",
+        "Delayed phase"
+      ],
+      "answer": "A",
+      "detail": "The Corticomedullary phase occurs at 25–40 seconds; the cortex is enhanced but the medulla is not."
+    },
+    {
+      "number": 24,
+      "question": "The 'Nephrographic Phase' (NP) occurs at 70–180 seconds and is the most sensitive phase for detecting:",
+      "choices": [
+        "Urothelial cell lesions",
+        "Renal Cell Carcinoma (RCC)",
+        "Papillary necrosis",
+        "Renal artery stenosis",
+        "Urine leaks"
+      ],
+      "answer": "B",
+      "detail": "The nephrographic phase is considered the most sensitive phase for the detection of RCC."
+    },
+    {
+      "number": 25,
+      "question": "Which contrast phase is best for evaluating the morphology of the papilla and identifying TCC lesions?",
+      "choices": [
+        "Corticomedullary Phase",
+        "Nephrographic Phase",
+        "Excretory Phase (EP)",
+        "Arterial phase",
+        "Venous phase"
+      ],
+      "answer": "C",
+      "detail": "The excretory phase (180 seconds – 8 minutes) is used to evaluate papillary morphology and urothelial/TCC lesions."
+    },
+    {
+      "number": 26,
+      "question": "In the setting of cardiac failure or renal artery stenosis, which contrast phase may be delayed?",
+      "choices": [
+        "Corticomedullary Phase",
+        "Non-contrast phase",
+        "Nephrographic phase",
+        "Excretory phase",
+        "All phases are accelerated"
+      ],
+      "answer": "A",
+      "detail": "The CMP can be delayed if the kidneys are poorly perfused or in cardiac failure."
+    },
+    {
+      "number": 27,
+      "question": "A 'Striated Nephrogram' is most classically seen on which contrast phase?",
+      "choices": [
+        "Arterial",
+        "Corticomedullary",
+        "Excretory",
+        "Non-contrast",
+        "It is only seen on ultrasound"
+      ],
+      "answer": "C",
+      "detail": "The striated nephrogram, classic for infection, is seen best on an excretory phase."
+    },
+    {
+      "number": 28,
+      "question": "Which structure is technically NOT part of the retroperitoneum for multiple choice purposes?",
+      "choices": [
+        "Duodenum (2nd and 3rd part)",
+        "Ascending colon",
+        "Pancreatic tail",
+        "Proximal 1/3 of the rectum",
+        "Adrenal glands"
+      ],
+      "answer": "C",
+      "detail": "The pancreatic tail is considered intraperitoneal, not retroperitoneal."
+    },
+    {
+      "number": 29,
+      "question": "The distal 1/3 of the rectum is anatomically classified as:",
+      "choices": [
+        "Intraperitoneal",
+        "Retroperitoneal",
+        "Extraperitoneal (subperitoneal)",
+        "Mediastinal",
+        "Pleural"
+      ],
+      "answer": "C",
+      "detail": "The distal 1/3 of the rectum is entirely extraperitoneal."
+    },
+    {
+      "number": 30,
+      "question": "Which renal fusion anomaly involves the kidney getting 'hung up' on the IMA?",
+      "choices": [
+        "Crossed fused renal ectopia",
+        "Horseshoe Kidney",
+        "Pelvic kidney",
+        "Renal agenesis",
+        "Duplicated system"
+      ],
+      "answer": "B",
+      "detail": "The horseshoe kidney is the most common fusion anomaly and gets trapped by the IMA."
+    },
+    {
+      "number": 31,
+      "question": "What is the most common primary renal malignancy?",
+      "choices": [
+        "Lymphoma",
+        "Renal Cell Carcinoma (RCC)",
+        "Oncocytoma",
+        "AML",
+        "Wilms tumor"
+      ],
+      "answer": "B",
+      "detail": "RCC is the most common primary renal malignancy."
+    },
+    {
+      "number": 32,
+      "question": "RCC is considered the diagnosis until proven otherwise if a mass enhances by more than:",
+      "choices": [
+        "5 HU",
+        "10 HU",
+        "15 HU",
+        "50 HU",
+        "100 HU"
+      ],
+      "answer": "C",
+      "detail": "Enhancement > 15 HU is the threshold for suspicious renal masses."
+    },
+    {
+      "number": 33,
+      "question": "Which RCC subtype is the MOST common in the general population and is associated with Von Hippel-Lindau?",
+      "choices": [
+        "Clear Cell",
+        "Papillary",
+        "Chromophobe",
+        "Medullary",
+        "Translocation"
+      ],
+      "answer": "A",
+      "detail": "Clear cell RCC is the most common subtype and is associated with VHL."
+    },
+    {
+      "number": 34,
+      "question": "'Papillary RCC' is the second most common type and is characteristically:",
+      "choices": [
+        "More vascular than clear cell",
+        "Less vascular and T2 dark",
+        "Always bilateral",
+        "Associated with Sickle Cell trait",
+        "Bright on T2"
+      ],
+      "answer": "B",
+      "detail": "Papillary RCCs are less vascular and typically T2 dark."
+    },
+    {
+      "number": 35,
+      "question": "Which RCC subtype is highly aggressive, occurs in younger patients, and is associated with Sickle Cell Trait?",
+      "choices": [
+        "Clear cell",
+        "Papillary",
+        "Chromophobe",
+        "Medullary",
+        "Translocation"
+      ],
+      "answer": "D",
+      "detail": "Medullary RCC is associated with Sickle Cell Trait."
+    },
+    {
+      "number": 36,
+      "question": "'Chromophobe RCC' is the subtype most strongly associated with which syndrome?",
+      "choices": [
+        "VHL",
+        "Birt-Hogg-Dube",
+        "Tuberous Sclerosis",
+        "MEN 1",
+        "Turner Syndrome"
+      ],
+      "answer": "B",
+      "detail": "Birt-Hogg-Dube is the syndrome associated with chromophobe RCC and oncocytomas."
+    },
+    {
+      "number": 37,
+      "question": "Which RCC subtype is most common in the pediatric setting and often follows a history of cytotoxic chemotherapy?",
+      "choices": [
+        "Clear cell",
+        "Papillary",
+        "Translocation Carcinoma",
+        "Medullary",
+        "Wilms tumor"
+      ],
+      "answer": "C",
+      "detail": "Translocation subtype is the most common RCC in kids."
+    },
+    {
+      "number": 38,
+      "question": "In conventional RCC staging, Stage 3a is defined by invasion of the:",
+      "choices": [
+        "Adrenal gland",
+        "Renal Vein",
+        "Gerota’s fascia",
+        "IVC above the diaphragm",
+        "Distant lymph nodes"
+      ],
+      "answer": "B",
+      "detail": "Stage 3a involves renal vein invasion."
+    },
+    {
+      "number": 39,
+      "question": "Renal Lymphoma typically presents as:",
+      "choices": [
+        "A single large calcified mass",
+        "Bilaterally enlarged kidneys with multiple low-attenuation masses",
+        "A fat-containing lesion",
+        "A cystic lesion with a central scar",
+        "Spontaneous hemorrhage"
+      ],
+      "answer": "B",
+      "detail": "Renal lymphoma usually appears as bilaterally enlarged kidneys with multiple hypodense nodules."
+    },
+    {
+      "number": 40,
+      "question": "Which malignancy is the most common metastatic tumor to invade or infiltrate the kidneys?",
+      "choices": [
+        "Breast cancer",
+        "Lung cancer",
+        "Melanoma",
+        "Lymphoma",
+        "Prostate cancer"
+      ],
+      "answer": "D",
+      "detail": "Lymphoma is the most common tumor to infiltrate the kidneys."
+    },
+    {
+      "number": 41,
+      "question": "The kidney is the most common visceral organ involved in which hematologic malignancy?",
+      "choices": [
+        "Leukemia",
+        "Multiple Myeloma",
+        "Polycythemia Vera",
+        "Thalassemia",
+        "Sickle Cell"
+      ],
+      "answer": "A",
+      "detail": "The kidney is the most common visceral organ involved in leukemia."
+    },
+    {
+      "number": 42,
+      "question": "What is the defining imaging feature of an Angiomyolipoma (AML)?",
+      "choices": [
+        "Central scar",
+        "Macroscopic fat",
+        "Internal calcifications",
+        "T2 darkness",
+        "Restricted diffusion"
+      ],
+      "answer": "B",
+      "detail": "Macroscopic fat is the defining feature found in 95% of AMLs."
+    },
+    {
+      "number": 43,
+      "question": "AMLs are strongly associated with which genetic condition?",
+      "choices": [
+        "VHL",
+        "Tuberous Sclerosis (Bourneville Disease)",
+        "Birt-Hogg-Dube",
+        "Neurofibromatosis type 1",
+        "Beckwith-Wiedemann"
+      ],
+      "answer": "B",
+      "detail": "AMLs are a hallmark of Tuberous Sclerosis."
+    },
+    {
+      "number": 44,
+      "question": "At what size threshold are AMLs considered at risk for bleeding, necessitating treatment?",
+      "choices": [
+        "> 1 cm",
+        "> 2 cm",
+        "> 4 cm",
+        "> 10 cm",
+        "They never bleed"
+      ],
+      "answer": "C",
+      "detail": "AMLs larger than 4 cm have a risk of spontaneous hemorrhage."
+    },
+    {
+      "number": 45,
+      "question": "If a fat-containing renal mass has calcifications, the diagnosis is likely:",
+      "choices": [
+        "AML",
+        "RCC",
+        "Oncocytoma",
+        "Lymphoma",
+        "Simple cyst"
+      ],
+      "answer": "B",
+      "detail": "AMLs should never have calcifications; if fat and calcium are present, think RCC."
+    },
+    {
+      "number": 46,
+      "question": "A 'lipid-poor' AML accounts for about 5% of cases and is characteristically:",
+      "choices": [
+        "T2 bright",
+        "T2 dark",
+        "Fat-containing on CT",
+        "Highly vascular",
+        "Always malignant"
+      ],
+      "answer": "B",
+      "detail": "Lipid-poor AMLs are part of the T2 dark differential."
+    },
+    {
+      "number": 47,
+      "question": "On an academic exam, a renal mass with a 'central scar' is the buzzword for:",
+      "choices": [
+        "RCC",
+        "Oncocytoma",
+        "AML",
+        "Wilms tumor",
+        "Mesoblastic nephroma"
+      ],
+      "answer": "B",
+      "detail": "While RCC can have scars, the academic 'Aunt Minnie' for a central scar is an oncocytoma."
+    },
+    {
+      "number": 48,
+      "question": "'Multilocular Cystic Nephroma' (MLCN) is characterized by a 'Michael Jackson' bimodal occurrence in:",
+      "choices": [
+        "Newborns and teenagers",
+        "Young boys and middle-aged women",
+        "Elderly men and women",
+        "Pregnant women and infants",
+        "Infants of diabetic mothers"
+      ],
+      "answer": "B",
+      "detail": "MLCN characteristically affects young boys and 40-year-old women."
+    },
+    {
+      "number": 49,
+      "question": "A key buzzword for Multilocular Cystic Nephroma is that it:",
+      "choices": [
+        "Invades the renal vein",
+        "Protrudes into the renal pelvis",
+        "Contains macroscopic fat",
+        "Is always bilateral",
+        "Disappears on delayed imaging"
+      ],
+      "answer": "B",
+      "detail": "Protrusion into the renal pelvis is a classic feature of MLCN."
+    },
+    {
+      "number": 50,
+      "question": "'Juxtaglomerular Cell Tumor' should be suspected in a young adult with a renal mass and:",
+      "choices": [
+        "Severe hypertension",
+        "Weight loss",
+        "Painless hematuria",
+        "Hypotension",
+        "Jaundice"
+      ],
+      "answer": "A",
+      "detail": "Severe HTN in a young adult with a renal mass is the trigger for Juxtaglomerular Cell Tumor."
+    },
+    {
+      "number": 51,
+      "question": "In the Bosniak Cyst Classification, a Class 1 cyst has what chance of being cancer?",
+      "choices": [
+        "0%",
+        "5%",
+        "25%",
+        "50%",
+        "100%"
+      ],
+      "answer": "A",
+      "detail": "A Class 1 simple cyst has 0% chance of malignancy."
+    },
+    {
+      "number": 52,
+      "question": "A Bosniak Class 2 cyst is characterized as:",
+      "choices": [
+        "Hyperdense and < 3 cm with thin septations",
+        "Hyperdense and > 3 cm",
+        "Showing any enhancement",
+        "Having a mural nodule",
+        "Protruding into the pelvis"
+      ],
+      "answer": "A",
+      "detail": "Class 2 cysts are small (< 3 cm) and hyperdense."
+    },
+    {
+      "number": 53,
+      "question": "Which Bosniak class describes a hyperdense cyst > 3 cm with a < 5% chance of cancer?",
+      "choices": [
+        "Class 2",
+        "Class 2F",
+        "Class 3",
+        "Class 4",
+        "Class 5"
+      ],
+      "answer": "B",
+      "detail": "Class 2F ('Follow') includes hyperdense cysts > 3 cm."
+    },
+    {
+      "number": 54,
+      "question": "A Bosniak Class 3 cyst, which has thick septations or a mural nodule, carries what chance of malignancy?",
+      "choices": [
+        "5%",
+        "10%",
+        "50%",
+        "95%",
+        "100%"
+      ],
+      "answer": "C",
+      "detail": "Class 3 cysts carry a 50% chance of cancer."
+    },
+    {
+      "number": 55,
+      "question": "Any renal cyst that shows 'Any Enhancement' (> 15 HU) is classified as Bosniak:",
+      "choices": [
+        "Class 2",
+        "Class 2F",
+        "Class 3",
+        "Class 4",
+        "Class 1"
+      ],
+      "answer": "D",
+      "detail": "Class 4 cysts show enhancement and have a near 100% chance of malignancy."
+    },
+    {
+      "number": 56,
+      "question": "A renal mass that is greater than 70 HU and homogeneous on a non-contrast CT is likely:",
+      "choices": [
+        "RCC",
+        "A benign hemorrhagic or proteinaceous cyst",
+        "AML",
+        "Lymphoma",
+        "Abscess"
+      ],
+      "answer": "B",
+      "detail": "Homogeneous masses > 70 HU are benign cysts 99.9% of the time."
+    },
+    {
+      "number": 57,
+      "question": "Autosomal Dominant Polycystic Kidney Disease (ADPKD) is associated with which CNS finding?",
+      "choices": [
+        "Glioblastoma",
+        "Berry Aneurysms",
+        "Medulloblastoma",
+        "Ependymoma",
+        "Meningioma"
+      ],
+      "answer": "B",
+      "detail": "ADPKD patients have an increased risk for Berry aneurysms."
+    },
+    {
+      "number": 58,
+      "question": "In ADPKD, cysts are frequently found in the kidneys and which other organ (70% of the time)?",
+      "choices": [
+        "Spleen",
+        "Liver",
+        "Lung",
+        "Heart",
+        "Brain"
+      ],
+      "answer": "B",
+      "detail": "Liver cysts are seen in 70% of ADPKD patients."
+    },
+    {
+      "number": 59,
+      "question": "Does ADPKD intrinsically increase the risk for RCC?",
+      "choices": [
+        "Yes, significantly",
+        "No, but the required dialysis increases the risk",
+        "Only in pediatric patients",
+        "Only in men",
+        "It actually decreases the risk"
+      ],
+      "answer": "B",
+      "detail": "The disease itself doesn't increase risk, but long-term dialysis (which ADPKD patients often need) does."
+    },
+    {
+      "number": 60,
+      "question": "Autosomal Recessive Polycystic Kidney Disease (ARPKD) ALWAYS features which associated condition?",
+      "choices": [
+        "Berry aneurysms",
+        "Congenital hepatic fibrosis",
+        "Splenic infarcts",
+        "Brain tumors",
+        "Heart failure"
+      ],
+      "answer": "B",
+      "detail": "Congenital hepatic fibrosis is a constant feature of ARPKD."
+    },
+    {
+      "number": 61,
+      "question": "A subacute or chronic renal abscess can be a 'nasty trick' because it mimics:",
+      "choices": [
+        "A simple cyst",
+        "A cystic renal neoplasm",
+        "An AML",
+        "A horseshoe kidney",
+        "Dromedary hump"
+      ],
+      "answer": "B",
+      "detail": "Chronic abscesses can look just like cystic neoplasms on imaging."
+    },
+    {
+      "number": 62,
+      "question": "If you see a nasty cystic lesion, which clinical history would point toward an abscess rather than cancer?",
+      "choices": [
+        "Weight loss and smoking",
+        "Fever, leukocytosis, or prior UTI",
+        "Asymptomatic elderly patient",
+        "History of radiation",
+        "Hemophilia"
+      ],
+      "answer": "B",
+      "detail": "Infection symptoms (fever, high WBC) activate the 'spider-sense' for abscess."
+    },
+    {
+      "number": 63,
+      "question": "'Lithium Nephropathy' typically presents on MRI as:",
+      "choices": [
+        "Large, heterogeneous masses",
+        "Innumerable tiny microcysts (2–5 mm)",
+        "A single large fat-containing mass",
+        "Bilateral renal agenesis",
+        "'Pancake' adrenals"
+      ],
+      "answer": "B",
+      "detail": "Long-term Lithium use leads to innumerable tiny microcysts."
+    },
+    {
+      "number": 64,
+      "question": "'Uremic Cystic Kidney Disease' occurs in patients on dialysis and is characterized by:",
+      "choices": [
+        "Massive renal enlargement",
+        "Small, shrunken kidneys that develop cysts",
+        "Multiple liver cysts",
+        "Resolution of cysts after starting dialysis",
+        "High risk of brain tumors"
+      ],
+      "answer": "B",
+      "detail": "Unlike ADPKD, acquired cystic disease features small kidneys."
+    },
+    {
+      "number": 65,
+      "question": "In Uremic Cystic Kidney Disease, the risk of malignancy is increased by how much?",
+      "choices": [
+        "1.5x",
+        "3–6x",
+        "100x",
+        "There is no increased risk",
+        "50x"
+      ],
+      "answer": "B",
+      "detail": "Malignancy risk increases 3–6 times with dialysis."
+    },
+    {
+      "number": 66,
+      "question": "Von Hippel-Lindau (VHL) syndrome features renal cysts, RCC, and which pancreatic finding?",
+      "choices": [
+        "Adenocarcinoma",
+        "Cysts and Serous Microcystic Adenomas",
+        "Insulinoma",
+        "Fatky replacement",
+        "Pancreatic divisum"
+      ],
+      "answer": "B",
+      "detail": "VHL is associated with pancreatic cysts and serous adenomas."
+    },
+    {
+      "number": 67,
+      "question": "A 'Calyceal Diverticulum' characteristically shows what on a delayed/excretory CT?",
+      "choices": [
+        "A solid enhancing mass",
+        "A round fluid-fluid level (contrast layering under urine)",
+        "Macroscopic fat",
+        "Gas bubbles",
+        "Nothing, it is invisible"
+      ],
+      "answer": "B",
+      "detail": "The fluid-contrast level is the classic look of a calyceal diverticulum."
+    },
+    {
+      "number": 68,
+      "question": "If a calyceal diverticulum shows a fluid-debris level on a NON-contrast study, it represents:",
+      "choices": [
+        "Active bleeding",
+        "'Milk of Calcium'",
+        "Infection",
+        "A solid tumor",
+        "A normal variant"
+      ],
+      "answer": "B",
+      "detail": "Debris layering without contrast indicates Milk of Calcium."
+    },
+    {
+      "number": 69,
+      "question": "'Multicystic Dysplastic Kidney' (MCDK) is characterized by 'no functioning renal tissue,' which is proven by which study?",
+      "choices": [
+        "CT with IV contrast",
+        "MAG 3 nuclear scan",
+        "Ultrasound",
+        "MRI",
+        "Barium enema"
+      ],
+      "answer": "B",
+      "detail": "MCDK shows no excretory function on a MAG 3 scan."
+    },
+    {
+      "number": 70,
+      "question": "MCDK is associated with contralateral renal tract abnormalities 50% of the time, most commonly:",
+      "choices": [
+        "Renal agenesis",
+        "UPJ obstruction",
+        "AML",
+        "TCC",
+        "Nephrocalcinosis"
+      ],
+      "answer": "B",
+      "detail": "The most common contralateral issue is UPJ obstruction."
+    },
+    {
+      "number": 71,
+      "question": "How do you distinguish MCDK from 'Bad Hydro' on imaging?",
+      "choices": [
+        "MCDK is always bilateral",
+        "In hydro, the cystic spaces communicate; in MCDK, they do NOT",
+        "Hydro has no function",
+        "MCDK is always associated with fever",
+        "There is no difference"
+      ],
+      "answer": "B",
+      "detail": "Cystic communication is the differentiator: MCDK has macroscopic cysts that do not communicate."
+    },
+    {
+      "number": 72,
+      "question": "A 'Parapelvic Cyst' is defined as a cyst that:",
+      "choices": [
+        "Originates from the renal sinus",
+        "Originates from parenchyma and bulges INTO the sinus",
+        "Mimics hydronephrosis",
+        "Is always malignant",
+        "Disappears on delayed imaging"
+      ],
+      "answer": "B",
+      "detail": "Parapelvic cysts are cortical cysts that bulge inward."
+    },
+    {
+      "number": 73,
+      "question": "A 'Peripelvic Cyst' originates from the renal sinus and can easily be mistaken for:",
+      "choices": [
+        "RCC",
+        "Hydronephrosis",
+        "AML",
+        "A Column of Bertin",
+        "An adrenal mass"
+      ],
+      "answer": "B",
+      "detail": "Peripelvic cysts (around the pelvis) mimic hydro."
+    },
+    {
+      "number": 74,
+      "question": "What is the best way to distinguish peripelvic cysts from hydronephrosis?",
+      "choices": [
+        "Power Doppler",
+        "Delayed (pyelogram) contrast phase",
+        "Non-contrast CT",
+        "Ultrasound alone",
+        "Patient history of smoking"
+      ],
+      "answer": "B",
+      "detail": "A delayed phase will fill the collecting system with contrast, leaving the cysts unopacified."
+    },
+    {
+      "number": 75,
+      "question": "'Medullary Sponge Kidney' is a congenital cause of medullary nephrocalcinosis associated with which two conditions?",
+      "choices": [
+        "VHL and ADPKD",
+        "Caroli’s Disease and Beckwith-Wiedemann",
+        "CF and Sickle Cell",
+        "Diabetes and HTN",
+        "TB and Schistosomiasis"
+      ],
+      "answer": "B",
+      "detail": "It is associated with Caroli’s and Beckwith-Wiedemann."
+    },
+    {
+      "number": 76,
+      "question": "The 'most common bug' responsible for retrograde pyelonephritis is:",
+      "choices": [
+        "Staph aureus",
+        "E. Coli (the poop bug)",
+        "Klebsiella",
+        "Proteus",
+        "Pseudomonas"
+      ],
+      "answer": "B",
+      "detail": "E. Coli is the most frequent cause of retrograde infection."
+    },
+    {
+      "number": 77,
+      "question": "A 'Striated Nephrogram' (wedge-shaped areas of decreased perfusion) is most commonly caused by:",
+      "choices": [
+        "RCC",
+        "Acute Pyelonephritis",
+        "AML",
+        "Simple cyst",
+        "Page kidney"
+      ],
+      "answer": "B",
+      "detail": "Pyelonephritis is the classic cause of the striated (striped) kidney."
+    },
+    {
+      "number": 78,
+      "question": "How does a renal INFARCT differ from pyelonephritis on a contrast-enhanced CT?",
+      "choices": [
+        "Infarcts extend to the capsule",
+        "Infarcts tend to spare the cortex (Cortical Rim Sign)",
+        "Infection always has a central scar",
+        "Infarcts enhance more avidly",
+        "Infection is always bilateral"
+      ],
+      "answer": "B",
+      "detail": "Infarcts often show the 'cortical rim sign' (preserved thin rim of enhancement), which infection does not."
+    },
+    {
+      "number": 79,
+      "question": "'Pyonephrosis' is the clinical term for a collecting system that is:",
+      "choices": [
+        "Ruptured",
+        "Infected and Obstructed",
+        "Replaced by fat",
+        "Congenitally absent",
+        "Enhancing like a tumor"
+      ],
+      "answer": "B",
+      "detail": "Pyonephrosis indicates an infected/obstructed system and is a surgical emergency."
+    },
+    {
+      "number": 80,
+      "question": "What is the 'Next Step' for a symptomatic renal abscess larger than 3 cm?",
+      "choices": [
+        "Oral antibiotics only",
+        "Urgent drainage (IR Section)",
+        "Immediate nephrectomy",
+        "Repeat CT in 6 months",
+        "Observe for spontaneous resolution"
+      ],
+      "answer": "B",
+      "detail": "Abscesses bigger than 3 cm usually visit IR for drainage."
+    },
+    {
+      "number": 81,
+      "question": "'Emphysematous Pyelonephritis' is a life-threatening infection seen almost EXCLUSIVELY in:",
+      "choices": [
+        "Pregnant women",
+        "Diabetic patients",
+        "Professional athletes",
+        "Children with CF",
+        "HIV patients"
+      ],
+      "answer": "B",
+      "detail": "Diabetics are the primary population affected by this necrotizing infection."
+    },
+    {
+      "number": 82,
+      "question": "Which condition is characteristically seen after an acute drop in BP and shows a 'hypodense non-enhancing rim' that later calcifies?",
+      "choices": [
+        "Medullary nephrocalcinosis",
+        "Cortical Nephrocalcinosis (sequela of cortical necrosis)",
+        "MSK",
+        "Lithium nephropathy",
+        "Pyelonephritis"
+      ],
+      "answer": "B",
+      "detail": "Cortical nephrocalcinosis follows cortical necrosis from shock or trauma."
+    },
+    {
+      "number": 83,
+      "question": "'Xanthogranulomatous Pyelonephritis' (XGP) is an Aunt Minnie on CT described as a:",
+      "choices": [
+        "'Bear Paw' appearance (non-functional kidney with a staghorn stone)",
+        "'Michael Jackson' lesion",
+        "'Pancake' kidney",
+        "'Striated' nephrogram",
+        "'Cobra head' sign"
+      ],
+      "answer": "A",
+      "detail": "XGP is famous for the 'Bear Paw' look and a staghorn stone nidus."
+    },
+    {
+      "number": 84,
+      "question": "'HIV Nephropathy' classically presents as which of the following on ultrasound?",
+      "choices": [
+        "Small, shrunken kidneys",
+        "Big and Bright kidneys (echogenic)",
+        "Multiple large cysts",
+        "Absent kidneys",
+        "Fluid in the renal pelvis"
+      ],
+      "answer": "B",
+      "detail": "The kidneys are classically enlarged and bright in HIV nephropathy."
+    },
+    {
+      "number": 85,
+      "question": "'Papillary Necrosis' most commonly occurs in patients with:",
+      "choices": [
+        "Hypertension",
+        "Diabetes (and Sickle Cell/TB)",
+        "CF",
+        "Leukemia",
+        "VHL"
+      ],
+      "answer": "B",
+      "detail": "Diabetes is the leading cause of papillary necrosis."
+    },
+    {
+      "number": 86,
+      "question": "The presence of gas outlining the ureters and dilated calyces in a diabetic is called:",
+      "choices": [
+        "Emphysematous pyelonephritis",
+        "Emphysematous Pyelitis",
+        "Emphysematous cystitis",
+        "XGP",
+        "Normal bowel gas"
+      ],
+      "answer": "B",
+      "detail": "Gas localized to the collecting system is pyelitis."
+    },
+    {
+      "number": 87,
+      "question": "'Putty Kidney' (extensive renal calcification) is the end-stage appearance of:",
+      "choices": [
+        "Schistosomiasis",
+        "Tuberculosis (TB)",
+        "Diabetes",
+        "Renal cell carcinoma",
+        "Medullary sponge kidney"
+      ],
+      "answer": "B",
+      "detail": "A calcified, autonephrectomized kidney is classic for TB."
+    },
+    {
+      "number": 88,
+      "question": "'Malakoplakia' is a chronic inflammatory condition associated with chronic E. coli UTIs and:",
+      "choices": [
+        "Is highly premalignant",
+        "Is NOT premalignant and improves with antibiotics",
+        "Always leads to SCC",
+        "Features 'Bear Paw' anatomy",
+        "Only affects the lungs"
+      ],
+      "answer": "B",
+      "detail": "Malakoplakia is NOT premalignant, distinguishing it from Leukoplakia."
+    },
+    {
+      "number": 89,
+      "question": "'Leukoplakia' in the urinary tract is considered:",
+      "choices": [
+        "Benign and meaningless",
+        "Premalignant (precursor to Squamous Cell Carcinoma)",
+        "A normal variant of the bladder",
+        "Caused by a virus",
+        "Only seen in infants"
+      ],
+      "answer": "B",
+      "detail": "Leukoplakia is premalignant and associated with squamous cell CA."
+    },
+    {
+      "number": 90,
+      "question": "Which condition results in a 'Page Kidney' and subsequent hypertension?",
+      "choices": [
+        "A simple cyst",
+        "A subcapsular hematoma putting pressure on the 'meat' of the kidney",
+        "A renal artery aneurysm",
+        "Bilateral renal agenesis",
+        "Pelvic kidney"
+      ],
+      "answer": "B",
+      "detail": "Subcapsular hematomas compress the kidney and trigger the renin-angiotensin system."
+    },
+    {
+      "number": 91,
+      "question": "A 'Persistent Nephrogram' (bilateral dense kidneys seen hours later) is characteristic of:",
+      "choices": [
+        "Obstructing stones",
+        "Hypotension/Shock and ATN",
+        "RCC",
+        "Normal function",
+        "Adrenal hemorrhage"
+      ],
+      "answer": "B",
+      "detail": "Persistent bilateral nephrograms are a sign of ATN or shock."
+    },
+    {
+      "number": 92,
+      "question": "'Renal Vein Thrombosis' is a known clinical association of maternal diabetes, sepsis, and:",
+      "choices": [
+        "Dehydration (especially in neonates)",
+        "High Vitamin C intake",
+        "VHL syndrome",
+        "C-section history",
+        "Smoking"
+      ],
+      "answer": "A",
+      "detail": "Dehydration is a major trigger for renal vein thrombosis."
+    },
+    {
+      "number": 93,
+      "question": "What is the 'most common' urologic complication following a renal transplant?",
+      "choices": [
+        "Vascular thrombosis",
+        "Obstruction (typically at the site of ureteral implantation)",
+        "Cancer",
+        "Arterial stenosis",
+        "All are equally common"
+      ],
+      "answer": "B",
+      "detail": "Urologic complications (like obstruction) are more common than vascular ones."
+    },
+    {
+      "number": 94,
+      "question": "A fluid collection seen 'Around Day 10' post-transplant that is 'Hot with Tracer' on a nuclear scan is a:",
+      "choices": [
+        "Hematoma",
+        "Urinoma",
+        "Lymphocele",
+        "Abscess",
+        "Normal finding"
+      ],
+      "answer": "B",
+      "detail": "Urinomas occur early (around day 10) and show tracer accumulation."
+    },
+    {
+      "number": 95,
+      "question": "A 'Lymphocele' is typically found how long after a renal transplant?",
+      "choices": [
+        "24 hours",
+        "4–8 weeks",
+        "1 year",
+        "It is only seen before surgery",
+        "5 years"
+      ],
+      "answer": "B",
+      "detail": "Lymphoceles are late collections, appearing at 4–8 weeks."
+    },
+    {
+      "number": 96,
+      "question": "'Acute Tubular Necrosis' (ATN) in a transplant kidney characteristically shows:",
+      "choices": [
+        "Poor perfusion on nuclear scan",
+        "Normal/Preserved perfusion with delayed excretion",
+        "No perfusion and no uptake",
+        "Immediate excretion into the bladder",
+        "Arterial diastolic reversal"
+      ],
+      "answer": "B",
+      "detail": "ATN has normal perfusion but delayed excretion."
+    },
+    {
+      "number": 97,
+      "question": "'Acute Rejection' of a renal transplant is distinguished from ATN by having:",
+      "choices": [
+        "Normal perfusion",
+        "Poor perfusion",
+        "No RIs elevation",
+        "No uptake on day 1",
+        "Macroscopic fat"
+      ],
+      "answer": "B",
+      "detail": "Acute rejection shows poor perfusion and delayed excretion."
+    },
+    {
+      "number": 98,
+      "question": "A 'Shattered Kidney' in trauma is defined as having how many fragments?",
+      "choices": [
+        "2",
+        "3 or more",
+        "At least 10",
+        "The number doesn't matter",
+        "It must involve the bladder"
+      ],
+      "answer": "B",
+      "detail": "Three or more fragments defines a shattered kidney."
+    },
+    {
+      "number": 99,
+      "question": "According to AAST Grading, a 'Fractured Kidney' (laceration extending into the hilum) is:",
+      "choices": [
+        "Grade 1",
+        "Grade 2",
+        "Grade 3",
+        "Grade 4",
+        "Grade 5"
+      ],
+      "answer": "D",
+      "detail": "A laceration extending into the hilum is a Grade 4 injury."
+    },
+    {
+      "number": 100,
+      "question": "Grade 5 renal trauma includes which of the following?",
+      "choices": [
+        "Subcapsular hematoma",
+        "Laceration < 1 cm",
+        "Renal Hilum Injury (avulsion) or Devascularized Kidney",
+        "Simple kidney stone",
+        "Medial deviation of the ureter"
+      ],
+      "answer": "C",
+      "detail": "Grade 5 is the most severe, involving hilum avulsion or devascularization."
+    }
+  ]
+}
+

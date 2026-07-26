@@ -1,0 +1,524 @@
+{
+  "questions": [
+    {
+      "number": 16,
+      "question": "According to the Denis three-column concept, which structures are included in the 'Middle Column'?",
+      "choices": [
+        "Anterior longitudinal ligament (ALL)",
+        "Anterior 2/3 of the vertebral body",
+        "Posterior longitudinal ligament (PLL) and posterior vertebral cortex",
+        "Ligamentum flavum",
+        "Spinous processes"
+      ],
+      "answer": "C",
+      "detail": "The middle column is composed of the posterior longitudinal ligament and the posterior cortex of the vertebral body."
+    },
+    {
+      "number": 17,
+      "question": "Based on the three-column concept, a spinal injury is generally considered 'unstable' if it involves:",
+      "choices": [
+        "Only the anterior column",
+        "Only the posterior element facets",
+        "Two or more columns",
+        "Only the interspinous ligament",
+        "Only the anterior longitudinal ligament"
+      ],
+      "answer": "C",
+      "detail": "Instability in spinal trauma is typically defined by the involvement of two or more columns."
+    },
+    {
+      "number": 18,
+      "question": "Which ligamentous complex is considered the primary stabilizer of the posterior column?",
+      "choices": [
+        "Anterior longitudinal ligament",
+        "Posterior longitudinal ligament",
+        "Posterior ligamentous complex (PLC)",
+        "Ligamentum nuchae only",
+        "Denticulate ligaments"
+      ],
+      "answer": "C",
+      "detail": "The posterior ligamentous complex (PLC) serves as the primary structural stabilizer for the posterior column."
+    },
+    {
+      "number": 19,
+      "question": "On a lateral cervical spine radiograph, the 'spinal canal' is the space measured between which two lines?",
+      "choices": [
+        "Anterior vertebral and posterior vertebral lines",
+        "Posterior vertebral and spinolaminar lines",
+        "Spinolaminar and spinous process lines",
+        "Anterior vertebral and spinous process lines",
+        "Basion and dental lines"
+      ],
+      "answer": "B",
+      "detail": "The dimensions of the spinal canal are determined by the space between the posterior vertebral line and the spinolaminar line."
+    },
+    {
+      "number": 20,
+      "question": "The 'basion-dental interval' in an adult should normally be less than:",
+      "choices": [
+        "2.5 mm",
+        "5 mm",
+        "12 mm",
+        "15 mm",
+        "20 mm"
+      ],
+      "answer": "C",
+      "detail": "A normal basion-dental interval is defined as being less than 12 mm."
+    },
+    {
+      "number": 21,
+      "question": "The 'atlanto-dental interval' (ADI) in an adult should normally be less than:",
+      "choices": [
+        "2.5 mm",
+        "5 mm",
+        "10 mm",
+        "12 mm",
+        "1 mm"
+      ],
+      "answer": "A",
+      "detail": "In adults, the ADI is considered normal if it is less than 2.5 mm."
+    },
+    {
+      "number": 22,
+      "question": "Which mechanism of injury causes a Jefferson fracture of C1?",
+      "choices": [
+        "Forced hyperflexion",
+        "Forced hyperextension",
+        "Axial loading (axial force)",
+        "Rotational shearing",
+        "Distraction"
+      ],
+      "answer": "C",
+      "detail": "Jefferson fractures, which involve the arches of C1, are caused by axial loading forces."
+    },
+    {
+      "number": 23,
+      "question": "A Type II odontoid fracture is characterized by a break occurring at the:",
+      "choices": [
+        "Tip of the dens",
+        "Base of the dens",
+        "Extension into the C2 vertebral body",
+        "Transverse process of C2",
+        "Spinous process"
+      ],
+      "answer": "B",
+      "detail": "Type II odontoid fractures occur specifically at the base of the dens."
+    },
+    {
+      "number": 24,
+      "question": "Which type of odontoid fracture is usually considered stable?",
+      "choices": [
+        "Type 1",
+        "Type 2",
+        "Type 3",
+        "Both A and C",
+        "None are stable"
+      ],
+      "answer": "A",
+      "detail": "Type 1 odontoid fractures are typically classified as stable injuries."
+    },
+    {
+      "number": 25,
+      "question": "A Hangman’s fracture involves the arches of C2 and is typically caused by which mechanism?",
+      "choices": [
+        "Axial loading",
+        "Hyperextension injury",
+        "Forced hyperflexion",
+        "Lateral bending",
+        "Tearing of the ALL only"
+      ],
+      "answer": "B",
+      "detail": "A Hangman's fracture is a traumatic spondylolisthesis of C2 resulting from forced hyperextension."
+    },
+    {
+      "number": 26,
+      "question": "Which cervical spine fracture is considered the most unstable?",
+      "choices": [
+        "Jefferson fracture",
+        "Clay-shoveler’s fracture",
+        "Flexion teardrop fracture",
+        "Type 1 odontoid fracture",
+        "Unilateral locked facet"
+      ],
+      "answer": "C",
+      "detail": "The flexion teardrop fracture is recognized as the most unstable fracture of the cervical spine."
+    },
+    {
+      "number": 27,
+      "question": "A Clay-shoveler’s fracture is a displaced avulsion fracture of the:",
+      "choices": [
+        "Vertebral body",
+        "Pedicle",
+        "Spinous process",
+        "Transverse process",
+        "Lamina"
+      ],
+      "answer": "C",
+      "detail": "A Clay-shoveler's fracture is an avulsion injury affecting the spinous process."
+    },
+    {
+      "number": 28,
+      "question": "At which spinal levels do Clay-shoveler’s fractures most commonly occur?",
+      "choices": [
+        "C1–C2",
+        "C3–C5",
+        "C6–T1",
+        "T5–T8",
+        "L4–L5"
+      ],
+      "answer": "C",
+      "detail": "These fractures are most frequently seen involving the C6 through T1 levels."
+    },
+    {
+      "number": 29,
+      "question": "According to ACR appropriateness criteria, which is the preferred initial imaging modality for indicated spine trauma?",
+      "choices": [
+        "Radiography",
+        "MRI",
+        "CT",
+        "Ultrasound",
+        "PET-CT"
+      ],
+      "answer": "C",
+      "detail": "CT is the preferred first-line imaging modality for patients with suspected spine trauma."
+    },
+    {
+      "number": 30,
+      "question": "In the trauma setting, MRI is superior to CT for evaluating which of the following?",
+      "choices": [
+        "Fracture lines",
+        "Bony fragments in the canal",
+        "Spinal cord injury and ligamentous disruption",
+        "Cortical bone alignment",
+        "Dental intervals"
+      ],
+      "answer": "C",
+      "detail": "While CT is excellent for bone, MRI is the superior modality for assessing ligamentous disruption and spinal cord injury."
+    },
+    {
+      "number": 31,
+      "question": "The SLICS and TLICS grading systems for spine trauma assign points based on which three categories?",
+      "choices": [
+        "Age, sex, and weight",
+        "Morphology, PLC integrity, and neurological status",
+        "Fracture length, width, and depth",
+        "Blood pressure, heart rate, and GCS",
+        "Mechanism, velocity, and impact angle"
+      ],
+      "answer": "B",
+      "detail": "These clinical grading systems utilize morphology, the integrity of the PLC, and the patient's neurological status."
+    },
+    {
+      "number": 32,
+      "question": "An occipital condyle fracture that is a distraction injury resulting in an avulsion at the alar ligament attachment is classified as:",
+      "choices": [
+        "Type I",
+        "Type II",
+        "Type III",
+        "Stable",
+        "Both B and D"
+      ],
+      "answer": "C",
+      "detail": "A Type III occipital condyle fracture is an unstable avulsion injury at the site of alar ligament attachment."
+    },
+    {
+      "number": 33,
+      "question": "In the setting of traumatic spinal cord injury, which imaging pattern carries the poorest prognosis?",
+      "choices": [
+        "Cord concussion",
+        "Cord edema",
+        "Hemorrhagic contusion",
+        "Cord hematoma (>4 mm)",
+        "Normal MRI"
+      ],
+      "answer": "D",
+      "detail": "The presence of a large intramedullary hematoma (>4 mm) is associated with the worst neurological prognosis."
+    },
+    {
+      "number": 34,
+      "question": "Central cord syndrome characteristically results from which mechanism in an elderly patient with pre-existing stenosis?",
+      "choices": [
+        "Penetrating trauma",
+        "Hyperextension",
+        "Hyperflexion",
+        "Axial loading",
+        "Traction"
+      ],
+      "answer": "B",
+      "detail": "Central cord syndrome typically occurs due to hyperextension injuries in elderly patients who already have spinal stenosis."
+    },
+    {
+      "number": 35,
+      "question": "Brown-Séquard syndrome results from hemicord injury and is typically caused by:",
+      "choices": [
+        "Blunt impact",
+        "Penetrating trauma",
+        "Anterior spinal artery occlusion",
+        "High-dose radiation",
+        "Vitamin deficiency"
+      ],
+      "answer": "B",
+      "detail": "Hemicord injury, leading to Brown-Séquard syndrome, is most commonly the result of penetrating trauma."
+    },
+    {
+      "number": 36,
+      "question": "A 'naked facet sign' on axial CT is indicative of:",
+      "choices": [
+        "Normal anatomy",
+        "Jefferson fracture",
+        "Bilateral interfacetal dislocation (locked facets)",
+        "Clay-shoveler's fracture",
+        "DISH"
+      ],
+      "answer": "C",
+      "detail": "The naked facet sign is a key radiographic indicator of bilateral locked facets."
+    },
+    {
+      "number": 37,
+      "question": "Bilateral locked facets involve anterior dislocation of the affected vertebra by more than:",
+      "choices": [
+        "10%",
+        "25%",
+        "50%",
+        "75%",
+        "90%"
+      ],
+      "answer": "C",
+      "detail": "Bilateral interfacetal dislocation is characterized by an anterior subluxation of the vertebral body exceeding 50%."
+    },
+    {
+      "number": 38,
+      "question": "Indirect imaging findings suggestive of PLC injury include:",
+      "choices": [
+        "Widening of the interspinous distance",
+        "Widening of the facet joints",
+        "Spinous process fracture",
+        "Subluxation/dislocation",
+        "All of the above"
+      ],
+      "answer": "E",
+      "detail": "Evidence of PLC injury includes widening of the facets or interspinous distance, subluxation, and spinous process fractures."
+    },
+    {
+      "number": 39,
+      "question": "Patients with which condition are more vulnerable to hyperextension fractures due to a 'rigid spine'?",
+      "choices": [
+        "DISH",
+        "Ankylosing spondylitis",
+        "Surgical fusion",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": "D",
+      "detail": "A 'rigid spine' caused by DISH, ankylosing spondylitis, or prior surgical fusion increases vulnerability to hyperextension fractures."
+    },
+    {
+      "number": 40,
+      "question": "A Chance fracture is a distraction injury characterized by a transverse fracture through:",
+      "choices": [
+        "The spinous process only",
+        "The vertebral body and posterior elements",
+        "The transverse processes bilaterally",
+        "The dens",
+        "The C1 arches"
+      ],
+      "answer": "B",
+      "detail": "A Chance fracture is a flexion-distraction injury featuring a transverse fracture that involves both the vertebral body and the posterior elements."
+    },
+    {
+      "number": 41,
+      "question": "The AO Spine classification improves upon older systems by incorporating which additional factor?",
+      "choices": [
+        "Cost of treatment",
+        "Patient-specific clinical modifiers",
+        "Surgeon preference",
+        "Time of injury",
+        "Availability of MRI"
+      ],
+      "answer": "B",
+      "detail": "The AO Spine system enhances classification by including clinical modifiers specific to the patient."
+    },
+    {
+      "number": 42,
+      "question": "In the AO classification for subaxial cervical injuries, 'Type F' refers to:",
+      "choices": [
+        "Compression fractures",
+        "Tension band disruption",
+        "Translation injuries",
+        "Facet joint injuries",
+        "Fibrous dysplasia"
+      ],
+      "answer": "D",
+      "detail": "In this classification system, 'Type F' specifically denotes injuries involving the facet joints."
+    },
+    {
+      "number": 43,
+      "question": "A 'burst fracture' involves failure of which columns?",
+      "choices": [
+        "Anterior only",
+        "Posterior only",
+        "Anterior and middle",
+        "Middle and posterior",
+        "All three columns"
+      ],
+      "answer": "C",
+      "detail": "A burst fracture is defined by the failure of both the anterior and middle columns under axial compression."
+    },
+    {
+      "number": 44,
+      "question": "'Gibbus deformity' refers to an acutely angled kyphosis that can be caused by:",
+      "choices": [
+        "Compression fracture",
+        "Pott disease",
+        "Congenital syndromes (e.g., Hurler)",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": "D",
+      "detail": "Gibbus deformity results from wedge-shaped anterior vertebral collapse, which can be caused by trauma, infection (Pott disease), or congenital conditions."
+    },
+    {
+      "number": 45,
+      "question": "Which of the following is considered a 'clinical modifier' in the AO Spine system?",
+      "choices": [
+        "High-risk medical comorbidities",
+        "Vascular injury",
+        "DISH or ankylosing spondylitis",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": "D",
+      "detail": "Clinical modifiers include factors such as vascular injury, underlying rigid spine conditions, and significant medical comorbidities."
+    },
+    {
+      "number": 46,
+      "question": "On MRI, cord edema is characterized by T2 hyperintensity and which T1 signal?",
+      "choices": [
+        "Normal or low",
+        "Hyperintense",
+        "Avidly enhancing",
+        "Blooming",
+        "Fat-saturated"
+      ],
+      "answer": "A",
+      "detail": "Cord edema typically appears bright on T2 images and remains normal to low in signal on T1-weighted sequences."
+    },
+    {
+      "number": 47,
+      "question": "The basion is defined as the midpoint of the anterior margin of the:",
+      "choices": [
+        "C1 arch",
+        "Dens",
+        "Foramen magnum",
+        "Hard palate",
+        "Clivus"
+      ],
+      "answer": "C",
+      "detail": "Anatomically, the basion is the midpoint of the anterior rim of the foramen magnum."
+    },
+    {
+      "number": 48,
+      "question": "Subaxial cervical spine injuries involve which vertebral levels?",
+      "choices": [
+        "C1–C2",
+        "C3–C7",
+        "T1–T12",
+        "L1–L5",
+        "Sacrum"
+      ],
+      "answer": "B",
+      "detail": "The subaxial cervical spine refers to the levels from C3 through C7."
+    },
+    {
+      "number": 49,
+      "question": "Distraction injuries in the thoracolumbar spine (AO Type B) include:",
+      "choices": [
+        "Chance fractures",
+        "Hyperextension injuries",
+        "Wedge compressions",
+        "Both A and B",
+        "Translation injuries"
+      ],
+      "answer": "D",
+      "detail": "Thoracolumbar distraction injuries (Type B) encompass both Chance fractures and hyperextension injuries."
+    },
+    {
+      "number": 50,
+      "question": "An atlanto-dental interval (ADI) of 6 mm in a child is considered:",
+      "choices": [
+        "Normal",
+        "Abnormal (should be <5 mm)",
+        "Highly suspicious for DISH",
+        "Indicative of a Hangman's fracture",
+        "A normal variant of the basion"
+      ],
+      "answer": "B",
+      "detail": "In children, an ADI is considered abnormal if it is 5 mm or greater."
+    },
+    {
+      "number": 51,
+      "question": "Jefferson fractures are symmetrical fractures involving which structures?",
+      "choices": [
+        "Spinous processes",
+        "Transverse processes",
+        "Anterior and posterior arches of C1",
+        "C2 pedicles",
+        "Vertebral endplates"
+      ],
+      "answer": "C",
+      "detail": "Jefferson fractures are characterized by fractures of both the anterior and posterior arches of the C1 vertebra."
+    },
+    {
+      "number": 52,
+      "question": "An anterior teardrop fragment and retropulsion of the vertebral body into the canal on a lateral radiograph is diagnostic of:",
+      "choices": [
+        "Hangman's fracture",
+        "Jefferson fracture",
+        "Flexion teardrop fracture",
+        "Clay-shoveler's fracture",
+        "Chance fracture"
+      ],
+      "answer": "C",
+      "detail": "The combination of an anterior teardrop fragment and posterior retropulsion of the body is pathognomonic for a flexion teardrop fracture."
+    },
+    {
+      "number": 53,
+      "question": "A focus of hypointensity surrounded by hyperintensity on T2-weighted MRI in a trauma patient indicates:",
+      "choices": [
+        "Cord edema",
+        "Cord concussion",
+        "Hemorrhagic contusion",
+        "Syringomyelia",
+        "Multiple sclerosis"
+      ],
+      "answer": "C",
+      "detail": "In trauma, a T2-hypointense focus (blood) within a field of hyperintensity (edema) signifies a hemorrhagic contusion."
+    },
+    {
+      "number": 54,
+      "question": "Which syndrome is characterized by sparing of the dorsal columns but involvement of the anterior 2/3 of the cord?",
+      "choices": [
+        "Central cord syndrome",
+        "Brown-Séquard syndrome",
+        "Ventral/anterior cord syndrome",
+        "Cauda equina syndrome",
+        "Tabes dorsalis"
+      ],
+      "answer": "C",
+      "detail": "Ventral (anterior) cord syndrome specifically involves the anterior two-thirds of the spinal cord while sparing the dorsal columns."
+    },
+    {
+      "number": 55,
+      "question": "The spinal canal space is measured between which two landmarks in the cervical spine?",
+      "choices": [
+        "Posterior vertebral line and spinolaminar line",
+        "Basion and Dens",
+        "Spinolaminar line and spinous processes",
+        "Anterior and posterior longitudinal ligaments",
+        "Pedicle to pedicle"
+      ],
+      "answer": "A",
+      "detail": "The canal space is defined by the interval between the posterior vertebral line and the spinolaminar line."
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "number": 41,
+      "question": "Cervical lymph node levels (I-VII) are defined by:",
+      "choices": [
+        "Fascial planes",
+        "Anatomic landmarks",
+        "The size of the node",
+        "The depth from the skin",
+        "Proximity to the carotid artery only"
+      ],
+      "answer": "B",
+      "detail": "The classification of cervical lymph node levels (I-VII) is strictly based on specific anatomic landmarks."
+    },
+    {
+      "number": 42,
+      "question": "Which level of lymph nodes is located between the medial margins of the anterior bellies of the digastric muscles?",
+      "choices": [
+        "IA",
+        "IB",
+        "IIA",
+        "VI",
+        "VII"
+      ],
+      "answer": "A",
+      "detail": "Level IA (submental) lymph nodes are located between the medial margins of the anterior bellies of the digastric muscles."
+    },
+    {
+      "number": 43,
+      "question": "Level IB lymph nodes are submandibular nodes extending to the posterior margin of the:",
+      "choices": [
+        "Hyoid bone",
+        "Mylohyoid muscle",
+        "Submandibular gland",
+        "Parotid tail",
+        "Mandible"
+      ],
+      "answer": "C",
+      "detail": "Level IB represents the submandibular node group, extending posteriorly to the margin of the submandibular gland."
+    },
+    {
+      "number": 44,
+      "question": "Level II nodes extend from the skull base to the inferior margin of the:",
+      "choices": [
+        "Mandible",
+        "Hyoid bone",
+        "Cricoid cartilage",
+        "Thyroid cartilage",
+        "Clavicle"
+      ],
+      "answer": "B",
+      "detail": "Level II (upper jugular) nodes are defined by the space between the skull base and the inferior margin of the hyoid bone."
+    },
+    {
+      "number": 45,
+      "question": "Which structure serves as the boundary between Level IIA and IIB nodes?",
+      "choices": [
+        "Carotid artery",
+        "Sternocleidomastoid muscle",
+        "Posterior margin of the internal jugular vein (IJV)",
+        "Anterior belly of the digastric",
+        "Styloid process"
+      ],
+      "answer": "C",
+      "detail": "Level IIA and IIB nodes are differentiated by their relationship to the posterior margin of the internal jugular vein."
+    },
+    {
+      "number": 46,
+      "question": "Level III lymph nodes (middle jugular) extend from the hyoid bone to the:",
+      "choices": [
+        "Skull base",
+        "Inferior aspect of the cricoid cartilage",
+        "Clavicle",
+        "Thyroid notch",
+        "Sternal notch"
+      ],
+      "answer": "B",
+      "detail": "Level III nodes, or middle jugular nodes, extend from the level of the hyoid bone down to the inferior aspect of the cricoid cartilage."
+    },
+    {
+      "number": 47,
+      "question": "Level IV nodes (inferior jugular) extend from the cricoid cartilage to the:",
+      "choices": [
+        "Hyoid",
+        "Sternal notch",
+        "Clavicle",
+        "Brachiocephalic vein",
+        "Carotid bifurcation"
+      ],
+      "answer": "C",
+      "detail": "Level IV nodes represent the inferior jugular chain, extending from the cricoid cartilage level down to the clavicle."
+    },
+    {
+      "number": 48,
+      "question": "Level V nodes are the ________ cervical nodes.",
+      "choices": [
+        "Anterior",
+        "Posterior",
+        "Deep",
+        "Visceral",
+        "Supraclavicular"
+      ],
+      "answer": "B",
+      "detail": "Level V nodes are defined as the posterior cervical group."
+    },
+    {
+      "number": 49,
+      "question": "The boundary between Level VA and VB nodes is the:",
+      "choices": [
+        "Hyoid bone",
+        "Inferior cricoid cartilage",
+        "Thyroid cartilage",
+        "Clavicle",
+        "Omohyoid muscle"
+      ],
+      "answer": "B",
+      "detail": "The inferior cricoid cartilage is the anatomical landmark used to separate Level VA from Level VB nodes."
+    },
+    {
+      "number": 50,
+      "question": "Level VI nodes are also known as:",
+      "choices": [
+        "Upper jugular nodes",
+        "Posterior cervical nodes",
+        "Pretracheal nodes",
+        "Superior mediastinal nodes",
+        "Submental nodes"
+      ],
+      "answer": "C",
+      "detail": "Level VI nodes are identified as pretracheal or visceral nodes."
+    },
+    {
+      "number": 51,
+      "question": "Level VII nodes are superior mediastinal nodes extending from the manubrium to the:",
+      "choices": [
+        "Aortic arch",
+        "Brachiocephalic vein",
+        "Diaphragm",
+        "Carina",
+        "Heart"
+      ],
+      "answer": "B",
+      "detail": "Level VII consists of superior mediastinal nodes ranging from the manubrium to the level of the brachiocephalic vein."
+    },
+    {
+      "number": 52,
+      "question": "Cystic lymph nodes in the neck are most commonly seen in which two cancers?",
+      "choices": [
+        "Lymphoma and Melanoma",
+        "Papillary thyroid cancer and head/neck SCC",
+        "Lung and Breast cancer",
+        "Sarcoma and Leukemia",
+        "Renal cell and Prostate cancer"
+      ],
+      "answer": "B",
+      "detail": "The presence of cystic lymph nodes in the neck is most frequently associated with papillary thyroid cancer and head/neck squamous cell carcinoma."
+    },
+    {
+      "number": 53,
+      "question": "The degree of lymph node involvement is significant because a single node reduces SCC survival by:",
+      "choices": [
+        "10%",
+        "25%",
+        "50%",
+        "75%",
+        "It does not affect survival"
+      ],
+      "answer": "C",
+      "detail": "Prognostically, even a single metastatic lymph node in patients with head and neck squamous cell carcinoma reduces the survival rate by 50%."
+    },
+    {
+      "number": 54,
+      "question": "Level VI nodes are bounded laterally by the:",
+      "choices": [
+        "Sternocleidomastoid muscles",
+        "Scalene muscles",
+        "Carotid sheaths",
+        "Trapezius muscles",
+        "Digastric muscles"
+      ],
+      "answer": "C",
+      "detail": "Level VI (pretracheal) nodes are defined laterally by the boundaries of the carotid sheaths."
+    },
+    {
+      "number": 55,
+      "question": "Level I nodes are located ________ to the hyoid bone and ________ to the mandible/mylohyoid.",
+      "choices": [
+        "Superior; inferior",
+        "Inferior; superior",
+        "Anterior; posterior",
+        "Deep; superficial",
+        "Medial; lateral"
+      ],
+      "answer": "A",
+      "detail": "Level I nodes are anatomically positioned superior to the hyoid bone and inferior to the mandible and mylohyoid muscle."
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "A 'Stafne bone cavity' is a normal anatomical variant of the mandible caused by the presence or pressure from which structure?",
+      "choices": [
+        "Parotid gland",
+        "Sublingual gland",
+        "Submandibular gland",
+        "Masseter muscle",
+        "Facial nerve"
+      ],
+      "answer": "C",
+      "detail": "A Stafne bone cavity is a depression in the mandible created by the submandibular gland."
+    },
+    {
+      "number": 2,
+      "question": "Where is a Stafne bone cavity typically located on the mandible?",
+      "choices": [
+        "At the mandibular symphysis",
+        "Near the coronoid process",
+        "At the inner surface of the angle of the mandible, below the inferior alveolar canal",
+        "Within the maxillary sinus floor",
+        "On the lateral surface of the ramus"
+      ],
+      "answer": "C",
+      "detail": "It is typically found on the inner surface of the angle of the mandible."
+    },
+    {
+      "number": 3,
+      "question": "A 'radicular cyst' is an inflammatory odontogenic cyst that characteristically develops at which location?",
+      "choices": [
+        "Crown of an unerupted tooth",
+        "Apex of a non-vital tooth",
+        "Mandibular notch",
+        "Hard palate midline",
+        "Pterygoid plates"
+      ],
+      "answer": "B",
+      "detail": "Radicular cysts are associated with the apex of a non-vital tooth."
+    },
+    {
+      "number": 4,
+      "question": "Which type of odontogenic cyst is classically associated with the crown of an unerupted tooth, such as a third molar?",
+      "choices": [
+        "Radicular cyst",
+        "Dentigerous cyst",
+        "Odontogenic Keratocyst (OKC)",
+        "Nasopalatine duct cyst",
+        "Globulomaxillary cyst"
+      ],
+      "answer": "B",
+      "detail": "A dentigerous cyst is characterized by its association with the crown of an unerupted tooth."
+    },
+    {
+      "number": 5,
+      "question": "An Odontogenic Keratocyst (OKC) is unique among jaw lesions because it typically:",
+      "choices": [
+        "Expands the bone significantly",
+        "Grows along the length of the marrow space with minimal expansion",
+        "Displace teeth aggressively",
+        "Is always associated with a non-vital tooth",
+        "Regresses spontaneously"
+      ],
+      "answer": "B",
+      "detail": "Unlike many other cysts, an OKC tends to grow along the marrow space with minimal cortical expansion."
+    },
+    {
+      "number": 6,
+      "question": "In an adult, a 'soap-bubble' multilocular expansile appearance in the mandible is the classic radiologic presentation of:",
+      "choices": [
+        "Dentigerous cyst",
+        "Ameloblastoma",
+        "Radicular cyst",
+        "Osteomyelitis",
+        "Multiple myeloma"
+      ],
+      "answer": "B",
+      "detail": "Ameloblastoma is well known for its multi-loculated, 'soap-bubble' expansile appearance in the mandible."
+    },
+    {
+      "number": 7,
+      "question": "Which anatomical structure is involved in all three types of Le Fort fracture patterns?",
+      "choices": [
+        "Zygomatic arch",
+        "Frontal bone",
+        "Pterygoid plates",
+        "Mandible",
+        "Ethmoid bone"
+      ],
+      "answer": "C",
+      "detail": "Involvement of the pterygoid plates is the common denominator for all Le Fort fracture patterns."
+    },
+    {
+      "number": 8,
+      "question": "A 'Le Fort II' fracture is also commonly referred to as a:",
+      "choices": [
+        "Transverse maxillary fracture",
+        "Pyramidal fracture",
+        "Craniofacial dissociation",
+        "Blow-out fracture",
+        "ZMC fracture"
+      ],
+      "answer": "B",
+      "detail": "The Le Fort II fracture pattern is also known as a pyramidal fracture."
+    },
+    {
+      "number": 9,
+      "question": "A Zygomaticomaxillary Complex (ZMC) fracture involves the dissociation of the zygoma from which three bones?",
+      "choices": [
+        "Frontal, Maxillary, and Mandible",
+        "Frontal, Maxillary, and Temporal",
+        "Maxillary, Temporal, and Sphenoid",
+        "Ethmoid, Nasal, and Frontal",
+        "Mandible, Maxillary, and Palatine"
+      ],
+      "answer": "B",
+      "detail": "A ZMC fracture dissociates the zygoma from the frontal, maxillary, and temporal bones."
+    },
+    {
+      "number": 10,
+      "question": "Mandibular fractures frequently occur in more than one location because the mandible structurally behaves like a:",
+      "choices": [
+        "Solid block",
+        "Rigid ring",
+        "Flexible hinge",
+        "Floating bone",
+        "Single pillar"
+      ],
+      "answer": "B",
+      "detail": "The mandible acts as a rigid ring; thus, a break in one part often results in a second fracture elsewhere."
+    },
+    {
+      "number": 11,
+      "question": "Which plane of injury is associated with a 'Le Fort III' (craniofacial dissociation) fracture?",
+      "choices": [
+        "Transverse across the maxillary sinuses",
+        "Across the nose and inferior orbital rims",
+        "Through the zygomatic arches and superior orbital fissures",
+        "Isolated to the mandibular ramus",
+        "Only involving the nasal bones"
+      ],
+      "answer": "C",
+      "detail": "Le Fort III fractures involve the zygomatic arches and superior orbital fissures, effectively separating the face from the cranium."
+    },
+    {
+      "number": 12,
+      "question": "Where is a 'torus palatinus'—a common benign bony exostosis—located?",
+      "choices": [
+        "Angle of the mandible",
+        "Midline of the hard palate",
+        "Lateral nasal wall",
+        "Floor of the orbit",
+        "Mastoid tip"
+      ],
+      "answer": "B",
+      "detail": "Torus palatinus is a benign bony growth found at the midline of the hard palate."
+    },
+    {
+      "number": 13,
+      "question": "A Nasopalatine Duct Cyst (Incisive Canal Cyst) is characteristically found in the:",
+      "choices": [
+        "Mandible symphysis",
+        "Midline of the anterior maxilla",
+        "Maxillary sinus",
+        "Base of the skull",
+        "Pterygopalatine fossa (PPF)"
+      ],
+      "answer": "B",
+      "detail": "This cyst is located in the midline of the anterior maxilla."
+    },
+    {
+      "number": 14,
+      "question": "The imaging appearance of an Odontogenic Myxoma is often similar to an ameloblastoma but may specifically show:",
+      "choices": [
+        "Thick calcifications",
+        "'Tennis racket' or straight-line internal septations",
+        "Purely fatty contents",
+        "Intense enhancement",
+        "Association with NF1"
+      ],
+      "answer": "B",
+      "detail": "Odontogenic Myxomas are noted for having 'tennis racket' or straight-line internal septations on imaging."
+    },
+    {
+      "number": 15,
+      "question": "Gorlin syndrome (Basal Cell Nevus Syndrome) is characteristically associated with the development of multiple:",
+      "choices": [
+        "Dentigerous cysts",
+        "Odontogenic Keratocysts (OKCs)",
+        "Ameloblastomas",
+        "Torus mandibularis",
+        "Pleomorphic adenomas"
+      ],
+      "answer": "B",
+      "detail": "Multiple Odontogenic Keratocysts are a hallmark feature of Gorlin syndrome."
+    }
+  ]
+}

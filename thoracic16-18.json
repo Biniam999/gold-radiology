@@ -1,0 +1,1306 @@
+{
+    "questions":
+[
+  {
+    "number": 1,
+    "question": "A 32-year-old male is evaluated for a left-to-right shunt. CT demonstrates a right-sided pulmonary vein draining oxygenated blood into the SVC. Which congenital heart defect is most classically associated with this finding?",
+    "choices": [
+      "Secundum ASD",
+      "Primum ASD",
+      "Sinus venosus ASD",
+      "Membranous VSD",
+      "Coarctation of the aorta"
+    ],
+    "answer": "C",
+    "detail": "PAPVR (especially of the RUL) is strongly associated with sinus venosus type ASDs."
+  },
+  {
+    "number": 2,
+    "question": "Which of the following defines Partial Anomalous Pulmonary Venous Return (PAPVR)?",
+    "choices": [
+      "All pulmonary veins drain into the right atrium.",
+      "One or more pulmonary veins drain into the systemic venous system.",
+      "A pulmonary artery arises from the aorta.",
+      "Pulmonary veins drain into a left-sided SVC.",
+      "Oxygenated blood from the left atrium enters the right atrium."
+    ],
+    "answer": "B",
+    "detail": "This is the definition of PAPVR."
+  },
+  {
+    "number": 3,
+    "question": "\"Scimitar Syndrome\" is a specific form of PAPVR characterized by which of the following triads?",
+    "choices": [
+      "Left-sided PAPVR, pulmonary sequestration, and left arch.",
+      "Right inferior pulmonary vein draining into the IVC, unilateral pulmonary hypoplasia, and right-sided heart.",
+      "Common pulmonary vein ostia, ASD, and pulmonary hypertension.",
+      "D-transposition, VSD, and overriding aorta.",
+      "Right superior pulmonary vein draining into the SVC, azygos continuation, and polysplenia."
+    ],
+    "answer": "B",
+    "detail": "This describes the Scimitar sign and associated syndrome."
+  },
+  {
+    "number": 4,
+    "question": "In \"Meandering Pulmonary Vein,\" what is the critical anatomical detail that differentiates it from PAPVR?",
+    "choices": [
+      "It causes a massive left-to-right shunt.",
+      "It drains oxygenated blood into the IVC.",
+      "It follows an anomalous course but always returns to the left atrium.",
+      "It is associated with right heart failure.",
+      "It is only found in the upper lobes."
+    ],
+    "answer": "C",
+    "detail": "Unlike PAPVR, meandering veins do NOT cause a shunt because they return to the LA."
+  },
+  {
+    "number": 5,
+    "question": "A 55-year-old female with a history of severe mitral regurgitation presents with a dilated right inferior pulmonary vein on CT. This finding is termed a:",
+    "choices": [
+      "Pulmonary sequestration",
+      "Pulmonary artery aneurysm",
+      "Pulmonary vein aneurysm (Varix)",
+      "Persistent left SVC",
+      "Scimitar vein"
+    ],
+    "answer": "C",
+    "detail": "Enlarged pulmonary veins are typically called a varix."
+  },
+  {
+    "number": 6,
+    "question": "Mitral regurgitation is a known cause of which asymmetric pulmonary finding?",
+    "choices": [
+      "Left lower lobe collapse",
+      "Right upper lobe pulmonary edema",
+      "Bilateral pleural plaques",
+      "Left-sided pneumothorax",
+      "Right-sided pulmonary hypoplasia"
+    ],
+    "answer": "B",
+    "detail": "Mitral regurgitation classically causes asymmetric RUL edema."
+  },
+  {
+    "number": 7,
+    "question": "\"Proximal Interruption of the Pulmonary Artery\" most commonly occurs on which side relative to the aortic arch?",
+    "choices": [
+      "On the same side as the arch",
+      "On the opposite side of the arch",
+      "It is always bilateral",
+      "It only involves the left side",
+      "It is unrelated to the arch position"
+    ],
+    "answer": "B",
+    "detail": "Side of interruption is determined by the side of the arch."
+  },
+  {
+    "number": 8,
+    "question": "Interruption of the LEFT pulmonary artery is classically associated with which condition?",
+    "choices": [
+      "Bicuspid aortic valve",
+      "Tetralogy of Fallot (TOF)",
+      "Pulmonary Alveolar Proteinosis",
+      "Scleroderma",
+      "Alpha-1 antitrypsin deficiency"
+    ],
+    "answer": "B",
+    "detail": "Interrupted left PA is specifically associated with TOF and Truncus."
+  },
+  {
+    "number": 9,
+    "question": "On a frontal chest radiograph, regional oligemia (decreased vascular markings) distal to a pulmonary embolism is known as:",
+    "choices": [
+      "Hampton’s Hump",
+      "Fleischner Sign",
+      "Westermark Sign",
+      "Knuckle Sign",
+      "Luftsichel Sign"
+    ],
+    "answer": "C",
+    "detail": "This represents regional oligemia on CXR."
+  },
+  {
+    "number": 10,
+    "question": "A peripheral wedge-shaped opacity on CXR in the setting of pulmonary embolism represents:",
+    "choices": [
+      "Regional oligemia",
+      "Enlarged pulmonary artery",
+      "Pulmonary infarction (Hampton’s Hump)",
+      "Atelectasis",
+      "Pleural effusion"
+    ],
+    "answer": "C",
+    "detail": "This is a peripheral wedge-shaped opacity."
+  },
+  {
+    "number": 11,
+    "question": "When assessing for right heart strain on CT, what is considered a highly reliable sign?",
+    "choices": [
+      "Leftward bowing of the interventricular septum",
+      "Contrast reflux into the azygos vein",
+      "The Right Ventricle (RV) being larger than the Left Ventricle (LV)",
+      "Presence of a pleural effusion",
+      "Dilation of the pulmonary veins"
+    ],
+    "answer": "C",
+    "detail": "Probably the best CT sign of right heart strain."
+  },
+  {
+    "number": 12,
+    "question": "\"Chronic\" Pulmonary Embolism is characterized on CT by which of the following?",
+    "choices": [
+      "Central clot with venous dilation",
+      "Peripheral, web-like clots and shrunken veins with collaterals",
+      "Perivenous soft tissue edema",
+      "Large central \"saddle\" embolus",
+      "Sudden right heart failure in a previously healthy patient"
+    ],
+    "answer": "B",
+    "detail": "These are features of chronic PE."
+  },
+  {
+    "number": 13,
+    "question": "Which imaging modality is described in the text as \"probably superior to CT\" for the evaluation of chronic pulmonary embolism?",
+    "choices": [
+      "Frontal CXR",
+      "V/Q Scan",
+      "Transthoracic Echo",
+      "PET/CT",
+      "Non-gated MRI"
+    ],
+    "answer": "B",
+    "detail": "V/Q is described as \"probably superior to CT\" for chronic PE."
+  },
+  {
+    "number": 14,
+    "question": "A patient with Pulmonary Arterial Hypertension (PAH) has a normal pulmonary capillary wedge pressure. This combination should raise suspicion for:",
+    "choices": [
+      "Mitral Stenosis",
+      "Left atrial myxoma",
+      "Pulmonary Veno-Occlusive Disease (PVOD)",
+      "Chronic PE",
+      "Left heart failure"
+    ],
+    "answer": "C",
+    "detail": "PAH + Normal Wedge pressure should suggest PVOD."
+  },
+  {
+    "number": 15,
+    "question": "What is the most common cause of an iatrogenic pulmonary artery pseudoaneurysm?",
+    "choices": [
+      "Central venous catheter placement",
+      "Swan-Ganz catheterization",
+      "Bronchial artery embolization",
+      "Transthoracic lung biopsy",
+      "Pneumonectomy"
+    ],
+    "answer": "B",
+    "detail": "This is the most common cause of PA pseudoaneurysm."
+  },
+  {
+    "number": 16,
+    "question": "The \"Rasmussen Aneurysm\" is a pulmonary artery pseudoaneurysm associated with:",
+    "choices": [
+      "Behcet Disease",
+      "Chronic PE",
+      "Pulmonary Tuberculosis (TB)",
+      "Tetralogy of Fallot repair",
+      "Histoplasmosis"
+    ],
+    "answer": "C",
+    "detail": "Rasmussen aneurysm is a PA pseudoaneurysm secondary to TB."
+  },
+  {
+    "number": 17,
+    "question": "Hughes-Stovin Syndrome is a rare condition characterized by:",
+    "choices": [
+      "Recurrent thrombophlebitis and pulmonary artery aneurysm rupture",
+      "ASD and PAPVR",
+      "Scleroderma and NSIP",
+      "Multiple pulmonary AVMs",
+      "C-section and TTN"
+    ],
+    "answer": "A",
+    "detail": "This defines Hughes-Stovin."
+  },
+  {
+    "number": 18,
+    "question": "In the evaluation of pulmonary hypertension, what pressure threshold (in mmHg) is used for the diagnosis?",
+    "choices": [
+      "> 10",
+      "> 15",
+      "> 20",
+      "> 25",
+      "> 40"
+    ],
+    "answer": "D",
+    "detail": "Pressures over 25 mmHg make the diagnosis of pulmonary hypertension."
+  },
+  {
+    "number": 19,
+    "question": "A 25-year-old female presents with primary pulmonary hypertension. According to the text, this demographic is:",
+    "choices": [
+      "The most common cause overall",
+      "Extremely rare/uncommon",
+      "Always related to smoking",
+      "Associated with bicuspid aortic valve",
+      "Caused by asbestos exposure"
+    ],
+    "answer": "B",
+    "detail": "Primary idiopathic PAH is very uncommon."
+  },
+  {
+    "number": 20,
+    "question": "In COPD patients, a \"worse outcome\" is predicted if the Main Pulmonary Artery is:",
+    "choices": [
+      "Smaller than the Aorta",
+      "Larger than the Aorta (A/PA ratio < 1)",
+      "Associated with a left-sided arch",
+      "Calcified",
+      "Draining into the IVC"
+    ],
+    "answer": "B",
+    "detail": "COPDers with a PA/A ratio > 1 have increased mortality."
+  },
+  {
+    "number": 21,
+    "question": "The \"Banana and Egg\" sign for identifying a big pulmonary artery on CT involves seeing:",
+    "choices": [
+      "The Main PA at the level of the arch",
+      "The right PA crossing the carina",
+      "Contrast in the hepatic veins",
+      "The Left PA hooking over the bronchus",
+      "A peripheral wedge-shaped opacity"
+    ],
+    "answer": "A",
+    "detail": "This morphologic sign suggests PAH."
+  },
+  {
+    "number": 22,
+    "question": "\"Carina Crossover\" refers to which finding in pulmonary hypertension?",
+    "choices": [
+      "The left PA crossing behind the trachea",
+      "The right PA crossing the carina midline anteriorly",
+      "The Main PA crossing the aortic arch",
+      "Retrograde flow in the bronchial arteries",
+      "Enlarged hilar nodes splaying the carina"
+    ],
+    "answer": "B",
+    "detail": "In PAH, the right PA crosses more cranially than normal."
+  },
+  {
+    "number": 23,
+    "question": "Total Anomalous Pulmonary Venous Return (TAPVR) Type 1 is \"Supracardiac\" and is associated with which radiographic sign?",
+    "choices": [
+      "Egg on a string",
+      "Snowman appearance",
+      "Boot-shaped heart",
+      "Figure 3 sign",
+      "Sail sign"
+    ],
+    "answer": "B",
+    "detail": "TAPVR Type 1 (Supracardiac) drains above the heart, creating this look."
+  },
+  {
+    "number": 24,
+    "question": "TAPVR Type 3 (Infracardiac) is unique because it often presents in the newborn with:",
+    "choices": [
+      "A very large heart and clear lungs",
+      "A \"Snowman\" heart",
+      "A full-on pulmonary edema look due to venous obstruction",
+      "Normal pulmonary vascularity",
+      "Rib notching"
+    ],
+    "answer": "C",
+    "detail": "Type 3 drains below the diaphragm and is often obstructed."
+  },
+  {
+    "number": 25,
+    "question": "For the survival of a patient with TAPVR, which of the following is REQUIRED?",
+    "choices": [
+      "Coarctation of the aorta",
+      "A large PFO or ASD (admixture)",
+      "A right-sided aortic arch",
+      "Pulmonary stenosis",
+      "Bicuspid aortic valve"
+    ],
+    "answer": "B",
+    "detail": "Admixture is required for survival in TAPVR."
+  },
+  {
+    "number": 26,
+    "question": "In Tc-99m MAA VQ scanning, what is the significance of seeing \"tracer in the brain\"?",
+    "choices": [
+      "Normal finding in children",
+      "Evidence of a right-to-left shunt",
+      "Chronic pulmonary hypertension",
+      "Acute massive PE",
+      "Technical artifact from clumped MAA"
+    ],
+    "answer": "B",
+    "detail": "Tracer in the brain signifies a shunt (ASD, VSD, or AVM)."
+  },
+  {
+    "number": 27,
+    "question": "What is the standard size of Tc-99m MAA particles used for perfusion imaging?",
+    "choices": [
+      "1-5 micrometers",
+      "5-10 micrometers",
+      "10-100 micrometers",
+      "150-200 micrometers",
+      " > 500 micrometers"
+    ],
+    "answer": "C",
+    "detail": "Particles must be larger than capillaries (10um) but smaller than arterioles (150um)."
+  },
+  {
+    "number": 28,
+    "question": "In which of the following patients should the number of MAA particles be REDUCED?",
+    "choices": [
+      "Adult smoker",
+      "Patient with one lung",
+      "Patient with a left-to-right shunt",
+      "Patient with diabetes",
+      "Patient with a previous PE"
+    ],
+    "answer": "B",
+    "detail": "Particles are reduced in those with fewer capillaries."
+  },
+  {
+    "number": 29,
+    "question": "If a technician accidentally draws blood into the syringe prior to a Tc-99m MAA injection, what will be seen on the scan?",
+    "choices": [
+      "Tracer in the brain",
+      "Clumped MAA (multiple focal hot spots in the lungs)",
+      "Diffuse background activity",
+      "Tracer in the thyroid",
+      "Absent lung uptake"
+    ],
+    "answer": "B",
+    "detail": "Blood in the syringe prior to injection causes clumping/hot spots."
+  },
+  {
+    "number": 30,
+    "question": "On a Xenon-133 ventilation scan, \"persistent pulmonary activity during washout\" is a sign of:",
+    "choices": [
+      "Acute PE",
+      "Right-to-left shunt",
+      "Air trapping (COPD)",
+      "Pulmonary edema",
+      "Fatty liver"
+    ],
+    "answer": "C",
+    "detail": "Xenon retention during washout indicates air trapping."
+  },
+  {
+    "number": 31,
+    "question": "Xenon-133 accumulation in the Right Upper Quadrant (RUQ) during a VQ scan represents:",
+    "choices": [
+      "Free Pertechnetate",
+      "Fatty infiltration of the liver",
+      "Biliary atresia",
+      "Right lower lobe PE",
+      "Chilaiditi syndrome"
+    ],
+    "answer": "B",
+    "detail": "Xenon is fat-soluble and can accumulate in a fatty liver."
+  },
+  {
+    "number": 32,
+    "question": "A \"unilateral perfusion defect\" of an entire lung with a normal ventilation scan is most commonly caused by:",
+    "choices": [
+      "Massive PE",
+      "Fibrosing mediastinitis",
+      "A central obstructing mass (e.g., bronchogenic carcinoma)",
+      "Swyer-James syndrome",
+      "Previous pneumonectomy"
+    ],
+    "answer": "C",
+    "detail": "This is the most common cause of a unilateral whole-lung perfusion defect."
+  },
+  {
+    "number": 33,
+    "question": "In the setting of a known right-to-left shunt, how many MAA particles should typically be administered?",
+    "choices": [
+      "10K",
+      "50K",
+      "100K",
+      "500K (Standard dose)",
+      "1 Million"
+    ],
+    "answer": "C",
+    "detail": "Standard 500K particles should be reduced to 100K if a shunt is known."
+  },
+  {
+    "number": 34,
+    "question": "For a neonate undergoing a VQ scan, what particle reduction is recommended?",
+    "choices": [
+      "Reduce to 10K - 50K particles",
+      "No reduction needed",
+      "Reduce the radioactive dose instead",
+      "Use Xenon only",
+      "100K particles"
+    ],
+    "answer": "A",
+    "detail": "Neonates have far fewer capillaries and need significant reduction."
+  },
+  {
+    "number": 35,
+    "question": "If you see tracer in the thyroid or stomach during a VQ scan, what are the two main considerations?",
+    "choices": [
+      "Air trapping or fatty liver",
+      "Massive PE or Right heart strain",
+      "Free Tc or a Right-to-left shunt",
+      "Pneumothorax or Hemothorax",
+      "Normal physiology"
+    ],
+    "answer": "C",
+    "detail": "These are the two main reasons for tracer in the thyroid/stomach."
+  },
+  {
+    "number": 36,
+    "question": "Diaphragmatic injury in trauma is three times more common on which side?",
+    "choices": [
+      "The right side",
+      "The left side",
+      "They occur with equal frequency",
+      "It depends on the age of the patient",
+      "It only involves the central tendon"
+    ],
+    "answer": "B",
+    "detail": "The liver acts as a buffer on the right side."
+  },
+  {
+    "number": 37,
+    "question": "The \"Collar Sign\" in diaphragmatic injury represents:",
+    "choices": [
+      "A waist-like appearance of a herniated organ through the diaphragm",
+      "Air extending above the great vessels",
+      "Rib notching in the 4th-8th ribs",
+      "Displaced extrapleural fat",
+      "Deviation of the trachea to the right"
+    ],
+    "answer": "A",
+    "detail": "The \"Collar Sign\" is the waist-like appearance of herniated organs."
+  },
+  {
+    "number": 38,
+    "question": "Which sign describes the absence of lung tissue between the chest wall and upper abdominal organs (liver/stomach) in diaphragmatic injury?",
+    "choices": [
+      "S Sign of Golden",
+      "Dependent Viscera Sign",
+      "Beak Sign",
+      "Flat Waist Sign",
+      "Crescent Sign"
+    ],
+    "answer": "B",
+    "detail": "This is the absence of lung between the chest wall and abdominal organs."
+  },
+  {
+    "number": 39,
+    "question": "Tracheo-bronchial injury most commonly occurs within how many centimeters of the carina?",
+    "choices": [
+      "0.5 cm",
+      "2 cm",
+      "5 cm",
+      "10 cm",
+      "15 cm"
+    ],
+    "answer": "B",
+    "detail": "Airway injury usually occurs within 2 cm of the carina."
+  },
+  {
+    "number": 40,
+    "question": "Injury close to the carina is more likely to cause which of the following?",
+    "choices": [
+      "Tension pneumothorax",
+      "Pneumomediastinum",
+      "Hemopericardium",
+      "Pulmonary contusion",
+      "Subcutaneous emphysema only"
+    ],
+    "answer": "B",
+    "detail": "Injury close to the carina causes pneumomediastinum rather than pneumothorax."
+  },
+  {
+    "number": 41,
+    "question": "Tracheal lacerations most commonly occur at which anatomical junction?",
+    "choices": [
+      "The vocal cords and subglottic space",
+      "The 1st and 2nd tracheal rings",
+      "The junction of the cartilaginous and membranous portions",
+      "The left and right mainstem bronchi",
+      "The trachea and esophagus"
+    ],
+    "answer": "C",
+    "detail": "This is the most common site for tracheal laceration."
+  },
+  {
+    "number": 42,
+    "question": "The \"Macklin Effect\" is a common cause of pneumomediastinum in trauma resulting from:",
+    "choices": [
+      "Rupture of the esophagus",
+      "Direct tracheal laceration",
+      "Alveolar rupture with air dissecting along bronchovascular sheaths",
+      "Penetrating neck trauma",
+      "Iatrogenic bronchial injury"
+    ],
+    "answer": "C",
+    "detail": "This is the definition of the Macklin Effect."
+  },
+  {
+    "number": 43,
+    "question": "A patient presents with vomiting, chest pain, and \"Hammond’s Crunch\" on physical exam. What is the suspected diagnosis?",
+    "choices": [
+      "Boerhaave Syndrome",
+      "Pulmonary Laceration",
+      "Flail Chest",
+      "Fat Embolization Syndrome",
+      "Tension Pneumothorax"
+    ],
+    "answer": "A",
+    "detail": "Ruptured esophagus from vomiting."
+  },
+  {
+    "number": 44,
+    "question": "What is the recommended \"Next Step\" for a patient with suspected Boerhaave Syndrome?",
+    "choices": [
+      "CTPA",
+      "Esophagram with water-soluble contrast",
+      "Bronchoscopy",
+      "Immediate chest tube placement",
+      "MRI of the mediastinum"
+    ],
+    "answer": "B",
+    "detail": "This is the definitive \"Next Step\"."
+  },
+  {
+    "number": 45,
+    "question": "How is \"Pneumopericardium\" distinguished from \"Pneumomediastinum\" on a chest X-ray?",
+    "choices": [
+      "Pneumopericardium air extends above the great vessels.",
+      "Pneumomediastinum air does NOT extend above the great vessels.",
+      "Pneumopericardium air is confined to the sac and does NOT extend above the great vessels.",
+      "Pneumomediastinum air creates a \"Collar Sign.\"",
+      "There is no radiographic way to tell them apart."
+    ],
+    "answer": "C",
+    "detail": "Highly testable differentiator from pneumomediastinum."
+  },
+  {
+    "number": 46,
+    "question": "Which condition is defined as having 3 or more segmental fractures in a rib, or more than 5 adjacent rib fractures?",
+    "choices": [
+      "Pulmonary Contusion",
+      "Hemothorax",
+      "Flail Chest",
+      "Extrapleural Hematoma",
+      "Tension Pneumothorax"
+    ],
+    "answer": "C",
+    "detail": "Defined by these rib fracture counts; causes paradoxical motion."
+  },
+  {
+    "number": 47,
+    "question": "A \"Hemothorax\" should be suspected in the setting of trauma if pleural fluid measures which Hounsfield Unit (HU) density?",
+    "choices": [
+      " < 10 HU",
+      "10-20 HU",
+      "35-70 HU",
+      "100-200 HU",
+      " > 1000 HU"
+    ],
+    "answer": "C",
+    "detail": "This is the characteristic density of blood/hemothorax."
+  },
+  {
+    "number": 48,
+    "question": "In an upright patient, where does pleural air first accumulate in a pneumothorax?",
+    "choices": [
+      "The costophrenic angles",
+      "The base of the lung",
+      "The apex",
+      "Behind the heart",
+      "Within the fissures"
+    ],
+    "answer": "C",
+    "detail": "Pleural air rises in the upright position."
+  },
+  {
+    "number": 49,
+    "question": "The \"Deep Sulcus Sign\" is a classic radiographic sign of a pneumothorax in which patient position?",
+    "choices": [
+      "Upright",
+      "Prone",
+      "Supine",
+      "Lateral decubitus",
+      "Trendelenburg"
+    ],
+    "answer": "C",
+    "detail": "The deep sulcus sign is the Supine appearance of a PTX."
+  },
+  {
+    "number": 50,
+    "question": "What is the emergency treatment for a tension pneumothorax?",
+    "choices": [
+      "15 minutes of compression",
+      "Needle thoracostomy (2nd intercostal space midclavicular)",
+      "Immediate lobectomy",
+      "High-dose steroids",
+      "Observation with serial CXRs"
+    ],
+    "answer": "B",
+    "detail": "Immediate treatment for tension PTX."
+  },
+  {
+    "number": 51,
+    "question": "An \"Extrapleural Hematoma\" is characterized on imaging by which classic finding?",
+    "choices": [
+      "Air extending above the great vessels",
+      "Displaced extrapleural fat",
+      "The \"Comet Tail\" sign",
+      "Alveolar hemorrhage with subpleural sparing",
+      "Gas-fluid level in a lung cyst"
+    ],
+    "answer": "B",
+    "detail": "This is the buzzword/sign for extrapleural hematoma."
+  },
+  {
+    "number": 52,
+    "question": "If a fluid collection persists after a pleural tube has been correctly placed, you should suspect:",
+    "choices": [
+      "Pulmonary Laceration",
+      "Extrapleural Hematoma",
+      "Boerhaave Syndrome",
+      "Macklin Effect",
+      "Fat Embolization"
+    ],
+    "answer": "B",
+    "detail": "Classic history is persistent fluid after tube placement."
+  },
+  {
+    "number": 53,
+    "question": "\"Pulmonary Contusion\" is the most common lung injury from blunt trauma and typically presents as:",
+    "choices": [
+      "Non-segmental areas of consolidation with subpleural sparing",
+      "A round mass with a gas-fluid level",
+      "Multiple centrilobular ground-glass nodules",
+      "A \"Snowman\" heart",
+      "Rib notching"
+    ],
+    "answer": "A",
+    "detail": "Alveolar hemorrhage appearance of contusion."
+  },
+  {
+    "number": 54,
+    "question": "What is the typical timeframe for a pulmonary contusion to appear and then disappear?",
+    "choices": [
+      "Appears at 24 hours, disappears in 1 week",
+      "Appears within 6 hours, disappears within 72 hours",
+      "Appears after 72 hours, persists for months",
+      "Appears at birth, disappears by Day 3",
+      "It is permanent"
+    ],
+    "answer": "B",
+    "detail": "Contusion resolution is rapid."
+  },
+  {
+    "number": 55,
+    "question": "A \"Pulmonary Laceration\" results in a tear in the lung that looks like a:",
+    "choices": [
+      "Pleural plaque",
+      "Pneumatocele (often with a blood-fluid level)",
+      "Saber-sheath trachea",
+      "High-density wedge",
+      "\"Holly leaf\""
+    ],
+    "answer": "B",
+    "detail": "A lung tear results in a pneumatocele."
+  },
+  {
+    "number": 56,
+    "question": "A patient presents 1-2 days after a femur fracture with a clinical triad of rash, altered mental status, and shortness of breath. This is classic for:",
+    "choices": [
+      "Pulmonary Embolism",
+      "Fat Embolization Syndrome",
+      "Pulmonary Contusion",
+      "Tension Pneumothorax",
+      "Mendelson’s Syndrome"
+    ],
+    "answer": "B",
+    "detail": "Occurs 1-2 days post femur fracture with pulmonary edema appearance."
+  },
+  {
+    "number": 57,
+    "question": "Lungs with which underlying condition are \"protected\" from barotrauma during positive pressure ventilation because they don't stretch?",
+    "choices": [
+      "COPD",
+      "Acute lung injury",
+      "Pulmonary fibrosis",
+      "Asthma",
+      "Cystic Fibrosis"
+    ],
+    "answer": "C",
+    "detail": "Lungs that don't stretch are protected from barotrauma."
+  },
+  {
+    "number": 58,
+    "question": "What is the most common radiographic appearance of a \"malpositioned\" chest tube?",
+    "choices": [
+      "Tip in the azygos vein",
+      "Side holes outside the pleura",
+      "Tube in the right upper lobe bronchus",
+      "Tube passing through the heart",
+      "Tip in the esophagus"
+    ],
+    "answer": "B",
+    "detail": "Most common malposition; results in air leaks."
+  },
+  {
+    "number": 59,
+    "question": "If you see hemopericardium in the setting of trauma, what should you suggest to the emergency department?",
+    "choices": [
+      "Tension pneumothorax",
+      "Blunt cardiac injury",
+      "Pulmonary contusion",
+      "Boerhaave Syndrome",
+      "PE"
+    ],
+    "answer": "B",
+    "detail": "Suggest this if hemopericardium is seen in trauma."
+  },
+  {
+    "number": 60,
+    "question": "A \"massive air leak\" in the setting of trauma should make you think of:",
+    "choices": [
+      "Alveolar rupture",
+      "Bronchial or tracheal injury",
+      "Pulmonary contusion",
+      "Hemothorax",
+      "IABP malposition"
+    ],
+    "answer": "B",
+    "detail": "Trauma + massive air leak = airway injury."
+  },
+  {
+    "number": 61,
+    "question": "A \"hot PET scan\" with activity around the periphery of a lesion is a strategy to identify:",
+    "choices": [
+      "Lung cancer",
+      "Pulmonary infarct",
+      "Hamartoma",
+      "Sarcoidosis",
+      "TB"
+    ],
+    "answer": "B",
+    "detail": "Pulmonary infarcts are classically PET hot around the periphery."
+  },
+  {
+    "number": 62,
+    "question": "\"Multi-lobar collapse\" is a classic presentation for:",
+    "choices": [
+      "COPD",
+      "Sarcoidosis",
+      "UIP",
+      "NSIP",
+      "Bronchial atresia"
+    ],
+    "answer": "B",
+    "detail": "Multi-lobar collapse is a strategy buzzword for sarcoid."
+  },
+  {
+    "number": 63,
+    "question": "When you see \"persistent fluid collection after pleural drain placement,\" the answer is:",
+    "choices": [
+      "Extrapleural Hematoma",
+      "Empyema",
+      "Chylothorax",
+      "Transudative effusion",
+      "Malignant effusion"
+    ],
+    "answer": "A",
+    "detail": "Repeated from above, this is a \"Sledgehammer\" association."
+  },
+  {
+    "number": 64,
+    "question": "In the setting of trauma, the presence of a \"ropy appearance\" and hyperinflation should actually make you think of which neonatal condition if seen on a babygram?",
+    "choices": [
+      "TTN",
+      "Meconium Aspiration",
+      "RDS",
+      "PIE",
+      "GBS Pneumonia"
+    ],
+    "answer": "B",
+    "detail": "\"Ropy\" = Meconium."
+  },
+  {
+    "number": 65,
+    "question": "\"Linear lucencies\" on a neonatal CXR in the setting of mechanical ventilation represent:",
+    "choices": [
+      "Normal lung",
+      "BPD",
+      "Pulmonary Interstitial Emphysema (PIE)",
+      "Hemothorax",
+      "Chylothorax"
+    ],
+    "answer": "C",
+    "detail": "Linear lucencies in a ventilated neonate."
+  },
+  {
+    "number": 66,
+    "question": "What is the recommended treatment for an infant with PIE?",
+    "choices": [
+      "Chest tube placement",
+      "High-dose steroids",
+      "Positioning \"bad side down\"",
+      "Immediate surgery",
+      "Systemic anticoagulation"
+    ],
+    "answer": "C",
+    "detail": "Brute force tactic for PIE."
+  },
+  {
+    "number": 67,
+    "question": "A \"Big Fucking Mass\" (B.F.M.) in the chest of a child under age 2 is most likely:",
+    "choices": [
+      "Askin Tumor",
+      "Pleuropulmonary Blastoma (PPB)",
+      "Neuroblastoma",
+      "Teratoma",
+      "Wilms tumor"
+    ],
+    "answer": "B",
+    "detail": "B.F.M. in child < 2."
+  },
+  {
+    "number": 68,
+    "question": "If the child with a B.F.M. is age 10+ and has an \"eaten up rib,\" the diagnosis is:",
+    "choices": [
+      "PPB",
+      "Askin Tumor (PNET/Ewings)",
+      "Ganglioneuroma",
+      "EMH",
+      "Lymphoma"
+    ],
+    "answer": "B",
+    "detail": "B.F.M. in child age 10+ with rib invasion."
+  },
+  {
+    "number": 69,
+    "question": "On an expiratory film, a \"lucency that stays lucent\" (air trapping) is a positive sign for:",
+    "choices": [
+      "Pulmonary embolism",
+      "Bronchial foreign body",
+      "Pneumonia",
+      "Pulmonary infarct",
+      "Contusion"
+    ],
+    "answer": "B",
+    "detail": "\"Lucency side down\" that stays lucent is a positive test."
+  },
+  {
+    "number": 70,
+    "question": "\"Hammond’s Crunch\" is associated with air in which location?",
+    "choices": [
+      "The pleural space",
+      "The pericardial sac",
+      "The mediastinum (Pneumomediastinum)",
+      "The lung parenchyma",
+      "The retroperitoneum"
+    ],
+    "answer": "C",
+    "detail": "Hammond’s crunch is the physical sign of pneumomediastinum."
+  },
+  {
+    "number": 71,
+    "question": "A central line with an \"abrupt bend\" at the tip near the cavo-atrial junction should make you think it is in the:",
+    "choices": [
+      "SVC",
+      "IVC",
+      "Azygos vein",
+      "Left atrium",
+      "Internal mammary vein"
+    ],
+    "answer": "C",
+    "detail": "An abrupt bend near the cavo-atrial junction suggests the azygos."
+  },
+  {
+    "number": 72,
+    "question": "If a central venous catheter is seen on the LEFT side of the heart, what are the two main possibilities?",
+    "choices": [
+      "Azygos or SVC",
+      "Arterial or in a duplicated SVC",
+      "RA or RV",
+      "In the trachea or esophagus",
+      "It is always a normal variant"
+    ],
+    "answer": "B",
+    "detail": "Standard locations for a left-sided central line."
+  },
+  {
+    "number": 73,
+    "question": "Central lines are a known risk factor for which vascular complication?",
+    "choices": [
+      "Pulmonary artery aneurysm",
+      "SVC occlusion",
+      "Aortic dissection",
+      "Pulmonary AVM",
+      "Bronchopleural fistula"
+    ],
+    "answer": "B",
+    "detail": "Central lines are a known risk factor."
+  },
+  {
+    "number": 74,
+    "question": "The \"pseudo-lesion / hot quadrate sign\" on CT is seen in which condition?",
+    "choices": [
+      "PVOD",
+      "SVC syndrome",
+      "Pulmonary hypertension",
+      "Chronic PE",
+      "Hepatopulmonary syndrome"
+    ],
+    "answer": "B",
+    "detail": "Hot quadrate sign is seen with SVC occlusion/syndrome."
+  },
+  {
+    "number": 75,
+    "question": "What is the ideal position for the tip of a Swan-Ganz catheter on a CXR?",
+    "choices": [
+      "In the right ventricle",
+      "In the right atrium",
+      "At the edge of the mediastinal shadow (proximal PA)",
+      " > 5 cm beyond the hilar point",
+      "In the left atrium"
+    ],
+    "answer": "C",
+    "detail": "Ideal Swan-Ganz tip position."
+  },
+  {
+    "number": 76,
+    "question": "\"Distal migration\" of a Swan-Ganz catheter can result in:",
+    "choices": [
+      "Right-sided heart failure",
+      "Arrhythmia",
+      "Pulmonary infarcts",
+      "SVC syndrome",
+      "Tension pneumothorax"
+    ],
+    "answer": "C",
+    "detail": "Distal Swan-Ganz migration causes infarcts."
+  },
+  {
+    "number": 77,
+    "question": "\"Proximal migration\" (too far in/back) of a Swan-Ganz catheter can result in:",
+    "choices": [
+      "Pulmonary infarct",
+      "Arrhythmia",
+      "Bronchopleural fistula",
+      "Air trapping",
+      "Scimitar syndrome"
+    ],
+    "answer": "B",
+    "detail": "Proximal Swan-Ganz migration into the RV causes arrhythmia."
+  },
+  {
+    "number": 78,
+    "question": "An Intra-Aortic Balloon Pump (IABP) is used in cardiogenic shock for the purpose of:",
+    "choices": [
+      "Increasing venous return",
+      "Diastolic augmentation (improving myocardial perfusion)",
+      "Reducing pulmonary artery pressures",
+      "Treating SVC syndrome",
+      "Bypassing the left ventricle"
+    ],
+    "answer": "B",
+    "detail": "IABP provides back pressure to improve perfusion."
+  },
+  {
+    "number": 79,
+    "question": "The correct location for an IABP balloon is in the proximal descending aorta, just BELOW the origin of the:",
+    "choices": [
+      "Brachiocephalic artery",
+      "Right common carotid",
+      "Left common carotid",
+      "Left subclavian artery",
+      "Celiac trunk"
+    ],
+    "answer": "D",
+    "detail": "Correct IABP balloon location."
+  },
+  {
+    "number": 80,
+    "question": "On a CXR, the \"ideal position\" for an IABP tip is in the region of the:",
+    "choices": [
+      "Carina",
+      "Right mainstem bronchus",
+      "Left mainstem bronchus",
+      "Azygos vein",
+      "Aortic valve"
+    ],
+    "answer": "C",
+    "detail": "The CXR landmark for ideal IABP tip position."
+  },
+  {
+    "number": 81,
+    "question": "A common complication of IABP malpositioning (too high) is:",
+    "choices": [
+      "Dissection of the iliacs",
+      "Obstruction of the left subclavian artery",
+      "Renal infarct",
+      "Mesenteric ischemia",
+      "SVC syndrome"
+    ],
+    "answer": "B",
+    "detail": "Complication of IABP being too high."
+  },
+  {
+    "number": 82,
+    "question": "In the stages of CHF, \"Stage 1: Redistribution\" corresponds to a pulmonary capillary wedge pressure of:",
+    "choices": [
+      " < 5",
+      "5-10",
+      "13-18",
+      "18-25",
+      " > 25"
+    ],
+    "answer": "C",
+    "detail": "Stage 1 CHF wedge pressure."
+  },
+  {
+    "number": 83,
+    "question": "\"Kerley Lines and Peribronchial Cuffing\" are features of which stage of CHF?",
+    "choices": [
+      "Stage 1 (Redistribution)",
+      "Stage 2 (Interstitial Edema)",
+      "Stage 3 (Alveolar Edema)",
+      "Stage 4 (Fibrosis)",
+      "It is seen in all stages"
+    ],
+    "answer": "B",
+    "detail": "Associated with Kerley lines and a wedge pressure of 18-25."
+  },
+  {
+    "number": 84,
+    "question": "\"Alveolar Edema\" with airspace \"fluffy\" opacities and pleural effusions occurs when the wedge pressure is:",
+    "choices": [
+      "13-18",
+      "18-25",
+      " > 25",
+      "Normal",
+      "Exactly 10"
+    ],
+    "answer": "C",
+    "detail": "Stage 3 Alveolar Edema wedge pressure."
+  },
+  {
+    "number": 85,
+    "question": "The tip of an Endotracheal Tube (ETT) should ideally be how many centimeters from the carina?",
+    "choices": [
+      "1 cm",
+      "2 cm",
+      "5 cm",
+      "10 cm",
+      "15 cm"
+    ],
+    "answer": "C",
+    "detail": "Tip of ETT should be 5 cm from carina."
+  },
+  {
+    "number": 86,
+    "question": "Neck positioning affects ETT tip height. According to the mnemonic, \"the hose goes where the...\":",
+    "choices": [
+      "Eyes look",
+      "Chin points",
+      "Nose goes",
+      "Head tilts",
+      "Ears lead"
+    ],
+    "answer": "C",
+    "detail": "Neck flexion/extension causes tip to move with the nose."
+  },
+  {
+    "number": 87,
+    "question": "Intubation of which structure is the \"most common goof\" because of its more shallow angle?",
+    "choices": [
+      "Left main stem bronchus",
+      "Right main stem bronchus",
+      "Esophagus",
+      "Azygos vein",
+      "Tracheal bronchus"
+    ],
+    "answer": "B",
+    "detail": "Shallower angle makes this more common."
+  },
+  {
+    "number": 88,
+    "question": "\"Cardiac Resynchronization Therapy Device\" is the specific vocabulary word for which device?",
+    "choices": [
+      "Single chamber pacemaker",
+      "ICD with a single lead",
+      "Bi-ventricular pacemaker (RV + LV leads)",
+      "IABP",
+      "ECMO"
+    ],
+    "answer": "C",
+    "detail": "Vocabulary for resynchronization."
+  },
+  {
+    "number": 89,
+    "question": "Left ventricular (LV) pacing leads reach their destination via which structure?",
+    "choices": [
+      "The SVC",
+      "The IVC",
+      "The Coronary Sinus (to a posterior/lateral vein)",
+      "Through the interventricular septum",
+      "Direct surgical epicardial placement only"
+    ],
+    "answer": "C",
+    "detail": "LV leads reach the posterior/lateral vein via the CS."
+  },
+  {
+    "number": 90,
+    "question": "On a lateral CXR, a correctly placed bi-ventricular LV lead should be seen pointing:",
+    "choices": [
+      "Anteriorly",
+      "Posteriorly",
+      "Superiorly",
+      "Towards the apex",
+      "Medially"
+    ],
+    "answer": "B",
+    "detail": "The LV lead should point posteriorly on lateral view."
+  },
+  {
+    "number": 91,
+    "question": "\"Twiddler’s Syndrome\" refers to:",
+    "choices": [
+      "Sudden ETT displacement during coughing",
+      "Malposition of a Swan-Ganz in the right ventricle",
+      "Lead displacement caused by the patient flipping/twisting the generator pack",
+      "IABP dissection during insertion",
+      "Azygos bend in a central line"
+    ],
+    "answer": "C",
+    "detail": "Mnemonic about social security checks."
+  },
+  {
+    "number": 92,
+    "question": "If a pacemaker lead looks like it is \"poking through the wall\" on a lateral CXR, what is the likely diagnosis?",
+    "choices": [
+      "Twiddler's Syndrome",
+      "Normal variation",
+      "Myocardial perforation",
+      "SVC occlusion",
+      "Pneumopericardium"
+    ],
+    "answer": "C",
+    "detail": "Lead \"poking through the wall\" on lateral CXR."
+  },
+  {
+    "number": 93,
+    "question": "Veno-Arterial (V-A) ECMO provides support for:",
+    "choices": [
+      "Lungs only",
+      "Heart only",
+      "Both Heart and Lungs",
+      "Liver and Kidneys",
+      "The brain only"
+    ],
+    "answer": "C",
+    "detail": "V-A ECMO supports both."
+  },
+  {
+    "number": 94,
+    "question": "In V-A ECMO, which vessels are typically \"sacrificed\" or used for catheter placement?",
+    "choices": [
+      "Left IJ and Left carotid",
+      "Right IJ and Right carotid",
+      "Femoral artery and vein only",
+      "Subclavian artery and vein",
+      "Aorta and SVC"
+    ],
+    "answer": "B",
+    "detail": "These are \"sacrificed\" for V-A ECMO."
+  },
+  {
+    "number": 95,
+    "question": "A \"Lung White Out\" appearance in a patient on ECMO is considered:",
+    "choices": [
+      "Evidence of massive pneumonia",
+      "Severe lung injury/hemorrhage",
+      "A normal and expected finding (due to atelectasis/physiology)",
+      "Malposition of the venous catheter",
+      "Barotrauma"
+    ],
+    "answer": "C",
+    "detail": "\"Lung white out\" is normal on ECMO."
+  },
+  {
+    "number": 96,
+    "question": "A \"crucial complication\" for kids on ECMO, requiring routine head ultrasound screening, is:",
+    "choices": [
+      "Pneumothorax",
+      "Hemorrhage (head bleeds)",
+      "SVC syndrome",
+      "Bronchial stenosis",
+      "Chylothorax"
+    ],
+    "answer": "B",
+    "detail": "Head ultrasounds are routine due to anticoagulation risk."
+  },
+  {
+    "number": 97,
+    "question": "In Veno-Venous (V-V) ECMO, the catheter position is typically:",
+    "choices": [
+      "RA + Aorta",
+      "RA + RA (Dual lumen)",
+      "SVC + IVC",
+      "PA + LA",
+      "Carotid + Jugular"
+    ],
+    "answer": "B",
+    "detail": "Position for V-V lung support."
+  },
+  {
+    "number": 98,
+    "question": "The most common site for \"arrhythmogenic foci\" causing atrial fibrillation is the sleeve of which pulmonary vein?",
+    "choices": [
+      "Right superior",
+      "Right inferior",
+      "Left superior",
+      "Left inferior",
+      "Right middle"
+    ],
+    "answer": "C",
+    "detail": "Most common site for a-fib foci."
+  },
+  {
+    "number": 99,
+    "question": "If you see \"hot clumps of signal in the lungs\" on a Sulfur Colloid Liver-Spleen scan, the cause is:",
+    "choices": [
+      "Septic emboli",
+      "Metastases",
+      "Too much Aluminum (Al) in the Technetium",
+      "Pulmonary hypertension",
+      "Right heart failure"
+    ],
+    "answer": "C",
+    "detail": "Causes clumped signal on sulfur colloid scans."
+  },
+  {
+    "number": 100,
+    "question": "In the \"CAVITY\" mnemonic for lung cavities, the \"V\" stands for Vascular, which includes:",
+    "choices": [
+      "Vasculitis only",
+      "Septic Emboli / Bland Emboli",
+      "Vein of Galen malformation",
+      "Veno-occlusive disease",
+      "V-A ECMO complications"
+    ],
+    "answer": "B",
+    "detail": "The \"V\" in the CAVITY mnemonic."
+  }
+]
+
+}
