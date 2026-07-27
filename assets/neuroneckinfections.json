@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "number": 56,
+      "question": "Ludwig angina is characterized by cellulitis of which region?",
+      "choices": [
+        "Nasopharynx",
+        "Retropharyngeal space",
+        "Floor of the mouth",
+        "Prevertebral space",
+        "Posterior triangle"
+      ],
+      "answer": "C",
+      "detail": "Ludwig angina is a potentially life-threatening cellulitis specifically involving the floor of the mouth."
+    },
+    {
+      "number": 57,
+      "question": "What is the primary clinical priority in a patient with Ludwig angina?",
+      "choices": [
+        "Starting IV steroids",
+        "Ensuring airway patency (due to posterior tongue displacement)",
+        "Drainage of the parotid gland",
+        "Identifying the source tooth",
+        "Assessing for cavernous sinus thrombosis"
+      ],
+      "answer": "B",
+      "detail": "Ensuring airway patency is the top priority because the infection can cause significant posterior tongue displacement, obstructing the airway."
+    },
+    {
+      "number": 58,
+      "question": "Which three spaces are typically involved in Ludwig angina?",
+      "choices": [
+        "Masticator, parotid, and carotid",
+        "Submental, sublingual, and submandibular",
+        "Retropharyngeal, danger, and prevertebral",
+        "Nasopharynx, oropharynx, and hypopharynx",
+        "Level II, III, and IV"
+      ],
+      "answer": "B",
+      "detail": "Ludwig angina characteristically involves the submental, sublingual, and submandibular spaces."
+    },
+    {
+      "number": 59,
+      "question": "In children, retropharyngeal abscesses most commonly result from:",
+      "choices": [
+        "Penetrating trauma (e.g., fish bone)",
+        "Suppuration and rupture of lymph nodes following an upper respiratory infection",
+        "Odontogenic infection",
+        "Spread of otitis media",
+        "Tuberculosis"
+      ],
+      "answer": "B",
+      "detail": "In the pediatric population, these abscesses usually follow an upper respiratory infection that leads to the suppuration and rupture of retropharyngeal lymph nodes."
+    },
+    {
+      "number": 60,
+      "question": "In adults, retropharyngeal infection is most often due to:",
+      "choices": [
+        "Pharyngitis",
+        "Penetrating injury or instrumentation",
+        "Chronic smoking",
+        "Metastatic SCC",
+        "Autoimmune disease"
+      ],
+      "answer": "B",
+      "detail": "Adult retropharyngeal infections are typically caused by penetrating injuries or medical instrumentation rather than nodal suppuration."
+    },
+    {
+      "number": 61,
+      "question": "A peripherally enhancing fluid collection effacing the oropharynx on CT is diagnostic of:",
+      "choices": [
+        "Ludwig angina",
+        "Retropharyngeal abscess",
+        "Peritonsillar abscess",
+        "Lemierre syndrome",
+        "Cat scratch fever"
+      ],
+      "answer": "B",
+      "detail": "On CT, a retropharyngeal abscess presents as a fluid collection with peripheral enhancement that effaces the oropharynx."
+    },
+    {
+      "number": 62,
+      "question": "Which infectious complication causes a 'characteristic hot-potato voice'?",
+      "choices": [
+        "Ludwig angina",
+        "Retropharyngeal abscess",
+        "Peritonsillar abscess",
+        "Cat scratch fever",
+        "Hashimoto thyroiditis"
+      ],
+      "answer": "C",
+      "detail": "Peritonsillar abscess is clinically known for causing a 'hot-potato' voice."
+    },
+    {
+      "number": 63,
+      "question": "Lemierre syndrome is defined as venous thrombophlebitis of the tonsillar/peritonsillar veins with spread to the:",
+      "choices": [
+        "Superior sagittal sinus",
+        "Internal jugular vein (IJV)",
+        "External jugular vein",
+        "Subclavian vein",
+        "Facial vein"
+      ],
+      "answer": "B",
+      "detail": "Lemierre syndrome involves septic thrombophlebitis that spreads from the tonsillar region to the internal jugular vein."
+    },
+    {
+      "number": 64,
+      "question": "The most common infectious agent in Lemierre syndrome is the anaerobe:",
+      "choices": [
+        "Staphylococcus aureus",
+        "Streptococcus pyogenes",
+        "Fusobacterium necrophorum",
+        "Bartonella henselae",
+        "Mycobacterium tuberculosis"
+      ],
+      "answer": "C",
+      "detail": "Fusobacterium necrophorum is the primary anaerobic organism responsible for Lemierre syndrome."
+    },
+    {
+      "number": 65,
+      "question": "Cat scratch fever is caused by which organism?",
+      "choices": [
+        "Fusobacterium necrophorum",
+        "Bartonella henselae",
+        "Borrelia burgdorferi",
+        "Toxoplasma gondii",
+        "Actinomyces"
+      ],
+      "answer": "B",
+      "detail": "Bartonella henselae is the causative agent of cat scratch fever."
+    },
+    {
+      "number": 66,
+      "question": "What is the most common imaging presentation of Cat scratch fever?",
+      "choices": [
+        "Peripherally enhancing fluid collection in the PPS",
+        "Regional lymphadenopathy",
+        "Diffuse thyroid enlargement",
+        "Airway narrowing at the larynx",
+        "Bone destruction of the mandible"
+      ],
+      "answer": "B",
+      "detail": "The most frequent finding on imaging for cat scratch fever is regional lymphadenopathy."
+    },
+    {
+      "number": 67,
+      "question": "A cystic hygroma is a type of congenital lymphatic malformation most commonly found in the:",
+      "choices": [
+        "Sublingual space",
+        "Posterior triangle of the neck",
+        "Floor of the mouth",
+        "Prevertebral space",
+        "Mediastinum"
+      ],
+      "answer": "B",
+      "detail": "Cystic hygromas are congenital lymphatic malformations that preferentially occur in the posterior triangle of the neck."
+    },
+    {
+      "number": 68,
+      "question": "Cystic hygromas are frequently associated with which chromosomal anomalies?",
+      "choices": [
+        "Trisomy 21 (Down) and Turner syndrome",
+        "Klinefelter syndrome",
+        "Marfan syndrome",
+        "DiGeorge syndrome",
+        "NF1"
+      ],
+      "answer": "A",
+      "detail": "There is a strong association between cystic hygromas and chromosomal disorders like Turner syndrome and Trisomy 21."
+    },
+    {
+      "number": 69,
+      "question": "Which type of lymphangioma has the smallest cystic spaces?",
+      "choices": [
+        "Cystic hygroma",
+        "Cavernous lymphangioma",
+        "Capillary lymphangioma",
+        "All have equal space sizes",
+        "Branchial cleft cyst"
+      ],
+      "answer": "C",
+      "detail": "Capillary lymphangiomas are characterized by having the smallest cystic spaces among the types of lymphangiomas."
+    },
+    {
+      "number": 70,
+      "question": "Lateral neck radiographs of a retropharyngeal abscess typically demonstrate:",
+      "choices": [
+        "Air in the soft tissues",
+        "Marked thickening of the prevertebral tissues",
+        "Calcification of the alar fascia",
+        "Narrowing of the vertebral bodies",
+        "Expansion of the larynx"
+      ],
+      "answer": "B",
+      "detail": "A characteristic finding on lateral radiographs for a retropharyngeal abscess is the marked thickening of prevertebral soft tissues."
+    }
+  ]
+}

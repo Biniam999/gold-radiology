@@ -1,0 +1,459 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Which of the following best defines an 'extra-axial' lesion?",
+      "choices": [
+        "A lesion located within the brain parenchyma",
+        "A lesion located underneath the pial membrane",
+        "A lesion external to the pial membrane, involving meninges or CSF spaces",
+        "A lesion primarily involving the white matter tracts",
+        "A lesion originating from the ependymal lining"
+      ],
+      "answer": "C",
+      "detail": "Intra-axial lesions are within the parenchyma underneath the pial membrane, whereas extra-axial lesions are external to the pial membrane, involving the meninges or CSF spaces."
+    },
+    {
+      "number": 2,
+      "question": "Which clinical triad is characteristic of Normal Pressure Hydrocephalus (NPH)?",
+      "choices": [
+        "Headache, vomiting, and papilledema",
+        "Tremor, rigidity, and bradykinesia",
+        "Ataxia, incontinence, and dementia",
+        "Fever, neck stiffness, and photophobia",
+        "Hemiparesis, aphasia, and visual field defects"
+      ],
+      "answer": "C",
+      "detail": "NPH is a form of communicating hydrocephalus defined by the specific clinical triad of ataxia, incontinence, and dementia."
+    },
+    {
+      "number": 3,
+      "question": "In cases of suspected NPH, which radiographic measurement is typically 'acute' or decreased?",
+      "choices": [
+        "Teardrop distance",
+        "Boehler angle",
+        "Callosal angle",
+        "Alpha angle",
+        "Hilgenreiner angle"
+      ],
+      "answer": "C",
+      "detail": "The callosal angle is measured between the lateral ventricles on a coronal image; an acute or decreased angle is a characteristic imaging feature of NPH."
+    },
+    {
+      "number": 4,
+      "question": "The 'Kernohan notch phenomenon' leads to hemiparesis that is:",
+      "choices": [
+        "Contralateral to the side of the herniation",
+        "Ipsilateral to the side of the herniation",
+        "Bilateral and symmetric",
+        "Isolated to the lower extremities",
+        "Only present in paradoxical herniation"
+      ],
+      "answer": "B",
+      "detail": "Compression of the contralateral cerebral peduncle against the tentorial notch (the Kernohan notch) causes hemiparesis on the same side as the primary herniation."
+    },
+    {
+      "number": 5,
+      "question": "Small Duret hemorrhages within the medulla or brainstem are typically caused by:",
+      "choices": [
+        "Rupture of a saccular aneurysm",
+        "Shearing of perforating basilar artery branches due to downward force",
+        "Embolic spread from the Batson plexus",
+        "Venous hypertension from dural sinus thrombosis",
+        "Direct trauma to the calvarium"
+      ],
+      "answer": "B",
+      "detail": "Downward force on the brainstem during central herniation shears small perforating basilar artery branches, leading to Duret hemorrhages."
+    },
+    {
+      "number": 6,
+      "question": "'Sunken skin flap syndrome' is a clinical manifestation of which condition?",
+      "choices": [
+        "Subfalcine herniation",
+        "Uncal herniation",
+        "Paradoxical brain herniation",
+        "Tonsillar ectopia",
+        "Communicating hydrocephalus"
+      ],
+      "answer": "C",
+      "detail": "Paradoxical herniation occurs after a large craniectomy when intracranial pressure falls below atmospheric pressure, causing the brain to shift away from the defect."
+    },
+    {
+      "number": 7,
+      "question": "Which of the following substances causes T1 shortening (hyperintensity on T1-weighted images)?",
+      "choices": [
+        "Calcification in bone",
+        "Deoxyhemoglobin",
+        "Methemoglobin",
+        "Fibrous tissue",
+        "Cerebrospinal fluid"
+      ],
+      "answer": "C",
+      "detail": "T1 shortening/hyperintensity is caused by several substances including fat, proteinaceous material, methemoglobin, and melanin."
+    },
+    {
+      "number": 8,
+      "question": "'Flow-related enhancement' on T1-weighted spin-echo sequences refers to the hyperintense appearance of:",
+      "choices": [
+        "Fast-moving arterial blood",
+        "Slow-flowing blood",
+        "Intracellular hemosiderin",
+        "Highly cellular tumors",
+        "Calcified choroid plexus"
+      ],
+      "answer": "B",
+      "detail": "Flow-related enhancement is a time-of-flight effect where slow-flowing blood appears bright on T1-weighted images."
+    },
+    {
+      "number": 9,
+      "question": "Why do highly cellular tumors, such as lymphoma or medulloblastoma, typically appear hypointense on T2-weighted images?",
+      "choices": [
+        "High fat content",
+        "Low nucleus-to-cytoplasm ratio",
+        "Low lesional water content",
+        "Presence of intracellular methemoglobin",
+        "High levels of diamagnetic minerals"
+      ],
+      "answer": "C",
+      "detail": "A high nucleus-to-cytoplasm ratio in cellular tumors results in low lesional water content, which causes T2 shortening and hypointensity."
+    },
+    {
+      "number": 10,
+      "question": "On a T2-FLAIR sequence, how do white matter and gray matter signal intensities compare?",
+      "choices": [
+        "White matter is brighter than gray matter",
+        "White matter is darker than gray matter",
+        "They are equal in intensity",
+        "Gray matter is dark due to the inversion pulse",
+        "Both are hyperintense to CSF"
+      ],
+      "answer": "B",
+      "detail": "On T2-FLAIR images, white matter is darker than gray matter."
+    },
+    {
+      "number": 11,
+      "question": "Diffusion-weighted imaging (DWI) primarily depicts which physical process?",
+      "choices": [
+        "Longitudinal relaxation of protons",
+        "Brownian motion of water protons",
+        "Blood flow velocity",
+        "Susceptibility to field inhomogeneities",
+        "Chemical shift of metabolites"
+      ],
+      "answer": "B",
+      "detail": "DWI measures the random Brownian motion of water protons; reduced motion (as in acute ischemia) results in a bright signal."
+    },
+    {
+      "number": 12,
+      "question": "Which parameter determines the degree of diffusion weighting in a DWI sequence?",
+      "choices": [
+        "Repetition time (TR)",
+        "Echo time (TE)",
+        "The b-value",
+        "Flip angle",
+        "Inversion time (TI)"
+      ],
+      "answer": "C",
+      "detail": "The b-value determines the degree of weighting based on the amplitude, duration, and timing of the diffusion gradients."
+    },
+    {
+      "number": 13,
+      "question": "In the setting of an acute infarct, diffusion is reduced within minutes due to:",
+      "choices": [
+        "Rupture of the blood-brain barrier",
+        "Failure of the Na/K ATPase pump leading to cytotoxic edema",
+        "Increased extracellular water",
+        "Loss of myelin",
+        "Accumulation of intracellular fat"
+      ],
+      "answer": "B",
+      "detail": "Na/K ATPase pump failure leads to cytotoxic edema, shifting water from the extracellular to the restricted intracellular space."
+    },
+    {
+      "number": 14,
+      "question": "Susceptibility-weighted imaging (SWI) is superior to standard GRE for distinguishing between:",
+      "choices": [
+        "Fat and protein",
+        "Paramagnetic (blood/iron) and diamagnetic (calcification)",
+        "Gray matter and white matter",
+        "CSF and edema",
+        "Tumor and abscess"
+      ],
+      "answer": "B",
+      "detail": "SWI uses magnitude and phase images to help differentiate paramagnetic substances (like blood/iron) from diamagnetic substances (like calcification)."
+    },
+    {
+      "number": 15,
+      "question": "In MR spectroscopy, 'Hunter’s angle' connects which three tall normal peaks?",
+      "choices": [
+        "NAA, Lactate, and Lipid",
+        "Choline, Creatine, and NAA",
+        "Myo-inositol, Glutamine, and GABA",
+        "Choline, Lipid, and Lactate",
+        "Creatine, NAA, and 2-HG"
+      ],
+      "answer": "B",
+      "detail": "Hunter’s angle refers to a line connecting the normal Choline, Creatine, and NAA peaks, which should point upward in a normal spectrum."
+    },
+    {
+      "number": 16,
+      "question": "Which metabolite peak, when present, indicates IDH-mutant status and a more favorable prognosis in gliomas?",
+      "choices": [
+        "Lipid/Lactate",
+        "Choline",
+        "2-hydroxyglutarate (2-HG)",
+        "NAA",
+        "Myo-inositol"
+      ],
+      "answer": "C",
+      "detail": "2-HG is a specific metabolic marker for IDH-mutant diffuse gliomas."
+    },
+    {
+      "number": 17,
+      "question": "Prominent lipid and lactate peaks on MRS are associated with which two conditions?",
+      "choices": [
+        "Low-grade gliomas and meningiomas",
+        "High-grade gliomas (when nonenhancing) or lymphoma (when enhancing)",
+        "Multiple sclerosis and ADEM",
+        "Abscess and metastasis",
+        "Arachnoid cysts and dermoids"
+      ],
+      "answer": "B",
+      "detail": "Lipid and lactate peaks suggest anaerobic metabolism or tissue damage, commonly seen in high-grade gliomas or lymphoma."
+    },
+    {
+      "number": 18,
+      "question": "According to the central volume equation used in MR perfusion, Cerebral Blood Flow (CBF) is equal to:",
+      "choices": [
+        "CBV x MTT",
+        "CBV / MTT",
+        "MTT / CBV",
+        "Tmax x CBV",
+        "TTP / CBF"
+      ],
+      "answer": "B",
+      "detail": "The central volume equation is defined as CBF = Cerebral Blood Volume (CBV) / Mean Transit Time (MTT)."
+    },
+    {
+      "number": 19,
+      "question": "In the post-treatment setting for high-grade gliomas, an elevated Cerebral Blood Volume (CBV) favors:",
+      "choices": [
+        "Edema",
+        "Radiation-induced necrosis",
+        "Tumor recurrence/progression",
+        "Pseudoprogression",
+        "Successful treatment response"
+      ],
+      "answer": "C",
+      "detail": "Elevated CBV on perfusion imaging helps distinguish true tumor recurrence from treatment-related effects like radiation necrosis or pseudoprogression."
+    },
+    {
+      "number": 20,
+      "question": "Parenchymal enhancement following contrast administration is a direct marker of:",
+      "choices": [
+        "High blood flow only",
+        "Intact neuronal metabolism",
+        "Micro or macro disruption of the blood-brain barrier (BBB)",
+        "Accumulation of intracellular water",
+        "Hypercellularity"
+      ],
+      "answer": "C",
+      "detail": "Enhancement in the brain parenchyma signifies that contrast has leaked out of the vasculature due to BBB disruption."
+    },
+    {
+      "number": 21,
+      "question": "Which CNS region normally enhances because it lacks a blood-brain barrier?",
+      "choices": [
+        "Corpus callosum",
+        "Area postrema",
+        "Thalamus",
+        "Hippocampus",
+        "Insula"
+      ],
+      "answer": "B",
+      "detail": "The area postrema, pituitary gland, and pineal gland are among several regions that normally enhance due to the lack of a BBB."
+    },
+    {
+      "number": 22,
+      "question": "Hematogenously disseminated metastatic disease is most commonly found at which location?",
+      "choices": [
+        "Periventricular white matter",
+        "Subcortical gray-white junction",
+        "Central pons",
+        "Deep gray matter nuclei",
+        "Corpus callosum"
+      ],
+      "answer": "B",
+      "detail": "Metastatic emboli tend to lodge where the branching vasculature narrows at the subcortical gray-white junction."
+    },
+    {
+      "number": 23,
+      "question": "Smooth periventricular (subependymal) enhancement is characteristic of:",
+      "choices": [
+        "Herpes encephalitis",
+        "Ventriculitis / infectious ependymitis",
+        "Progressive multifocal leukoencephalopathy (PML)",
+        "Toxoplasmosis",
+        "Creutzfeldt-Jakob disease"
+      ],
+      "answer": "B",
+      "detail": "Linear, smooth enhancement along the ventricles is characteristic of ventriculitis or infectious ependymitis."
+    },
+    {
+      "number": 24,
+      "question": "The 'ivy sign' on FLAIR images is characteristic of which condition?",
+      "choices": [
+        "Acute stroke",
+        "Moyamoya disease",
+        "Multiple sclerosis",
+        "Glioblastoma",
+        "Meningitis"
+      ],
+      "answer": "B",
+      "detail": "The ivy sign represents slow collateral flow within peripheral leptomeningeal vessels, a characteristic finding in moyamoya disease."
+    },
+    {
+      "number": 25,
+      "question": "Which finding distinguishes subarachnoid hemorrhage from leptomeningeal metastases on MRI?",
+      "choices": [
+        "FLAIR hyperintensity in the sulci",
+        "Leptomeningeal enhancement",
+        "Blooming artifact on GRE or SWI",
+        "Restricted diffusion on DWI",
+        "Mass effect"
+      ],
+      "answer": "C",
+      "detail": "While both cause sulcal FLAIR hyperintensity, only subarachnoid hemorrhage will show blooming artifact on susceptibility-weighted sequences due to blood products."
+    },
+    {
+      "number": 26,
+      "question": "According to the 'MAGIC DR' mnemonic for ring-enhancing lesions, what does the 'D' represent?",
+      "choices": [
+        "Dermoid cyst",
+        "Demyelination",
+        "Dural metastasis",
+        "Developmental venous anomaly",
+        "Diffuse axonal injury"
+      ],
+      "answer": "B",
+      "detail": "MAGIC DR stands for Metastasis, Abscess, Glioma, Infarct, Contusion, Demyelination, and Radiation."
+    },
+    {
+      "number": 27,
+      "question": "What is the key finding that helps distinguish a demyelinating lesion from a tumor in cases of ring enhancement?",
+      "choices": [
+        "Intense restricted diffusion",
+        "Lack of significant mass effect relative to lesion size",
+        "Complete, thick enhancing wall",
+        "Presence of central methemoglobin",
+        "Abnormal spectroscopy outside the lesion margin"
+      ],
+      "answer": "B",
+      "detail": "Demyelinating lesions (such as MS) characteristically lack significant mass effect relative to their size and often show an incomplete 'C-shaped' ring of enhancement."
+    },
+    {
+      "number": 28,
+      "question": "Pachymeningeal enhancement on MRI refers to enhancement of which structure?",
+      "choices": [
+        "Pia mater",
+        "Arachnoid mater",
+        "Dura mater",
+        "Subarachnoid space",
+        "Ependymal lining"
+      ],
+      "answer": "C",
+      "detail": "Pachymeninges refers specifically to the dura mater, while leptomeninges refers to the pia and arachnoid mater."
+    },
+    {
+      "number": 29,
+      "question": "Why is enhancement of the normal dura mater not typically visible on MRI?",
+      "choices": [
+        "The blood-brain barrier is too tight",
+        "There is no blood flow to the dura",
+        "There are normally very few water protons in the dura",
+        "The skull blocks the signal",
+        "Gadolinium does not enter the dural space"
+      ],
+      "answer": "C",
+      "detail": "MRI enhancement requires both contrast and water protons; the normal dura contains few water protons, so visible enhancement usually indicates dural edema."
+    },
+    {
+      "number": 30,
+      "question": "Smooth, linear dural enhancement and 'sagging' of the cerebellar tonsils are features of:",
+      "choices": [
+        "Intracranial hypertension",
+        "Intracranial hypotension",
+        "Meningiomatosis",
+        "Systemic lymphoma",
+        "Normal post-operative state"
+      ],
+      "answer": "B",
+      "detail": "Intracranial hypotension leads to prolonged low CSF pressure, resulting in reactive dural enhancement and downward displacement (sagging) of brain structures."
+    },
+    {
+      "number": 31,
+      "question": "A 'dural tail' is a focal area of reactive dural enhancement most commonly associated with:",
+      "choices": [
+        "Glioblastoma",
+        "Meningioma",
+        "Schwannoma",
+        "Ependymoma",
+        "Medulloblastoma"
+      ],
+      "answer": "B",
+      "detail": "A dural tail is a classic imaging finding associated with meningiomas."
+    },
+    {
+      "number": 32,
+      "question": "Which condition presents with gyriform enhancement and restricted diffusivity, typically starting in the medial temporal lobes?",
+      "choices": [
+        "Subacute infarct",
+        "Herpes encephalitis",
+        "SMART syndrome",
+        "Meningitis",
+        "PRES"
+      ],
+      "answer": "B",
+      "detail": "HSV encephalitis is a necrotizing infection characteristically showing gyral enhancement and restricted diffusion in the temporal lobes and limbic system."
+    },
+    {
+      "number": 33,
+      "question": "SMART syndrome (stroke-like migraine attacks after radiation therapy) is a delayed complication occurring:",
+      "choices": [
+        "Within 24 hours of treatment",
+        "During the first week of treatment",
+        "Years or decades after treatment",
+        "Only in patients with MS",
+        "Only in children"
+      ],
+      "answer": "C",
+      "detail": "SMART syndrome is a late complication of radiotherapy, often occurring years or decades after the initial treatment."
+    },
+    {
+      "number": 34,
+      "question": "Gyriform enhancement in a subacute infarct typically lasts for which duration?",
+      "choices": [
+        "24–48 hours",
+        "6 days to 6 weeks",
+        "6 months to 1 year",
+        "Permanently",
+        "Only until the mass effect peaks"
+      ],
+      "answer": "B",
+      "detail": "In a late subacute infarct, gyriform enhancement typically begins around 6 days and can last up to 6 weeks."
+    },
+    {
+      "number": 35,
+      "question": "Which drug or therapy is known to artifactually increase subarachnoid FLAIR signal in the absence of hemorrhage or meningitis?",
+      "choices": [
+        "Aspirin",
+        "Heparin",
+        "Oxygen or propofol therapy",
+        "Dexamethasone",
+        "Antiretroviral therapy"
+      ],
+      "answer": "C",
+      "detail": "Administration of high-flow oxygen or propofol can cause artifactually bright signal in the subarachnoid space on FLAIR images, mimicking hemorrhage."
+    }
+  ]
+}

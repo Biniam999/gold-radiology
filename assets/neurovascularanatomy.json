@@ -1,0 +1,191 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "According to the Gibo classification of the internal carotid artery, which segment extends from the carotid bifurcation to the skull base and gives off no branches?",
+      "choices": ["Petrous", "Cavernous", "Cervical", "Supraclinoid", "Laceral"],
+      "answer": "C",
+      "detail": "The cervical segment (C1) of the ICA extends from the bifurcation to the skull base and is unique for having no branches [1]."
+    },
+    {
+      "number": 2,
+      "question": "The 'carotid siphon' describes a series of back-and-forth bends occurring in which ICA segment?",
+      "choices": ["Petrous", "Cervical", "Cavernous", "Supraclinoid", "Ophthalmic"],
+      "answer": "C",
+      "detail": "The cavernous segment (C4) of the ICA is characterized by the S-shaped 'carotid siphon' [2]."
+    },
+    {
+      "number": 3,
+      "question": "Which small branch of the cavernous ICA supplies the pituitary gland and nearby meninges?",
+      "choices": ["Vidian artery", "Inferolateral trunk", "Meningohypophyseal trunk", "Superior hypophyseal artery", "Caroticotympanic artery"],
+      "answer": "C",
+      "detail": "The meningohypophyseal trunk is a branch of the cavernous ICA that supplies the pituitary and surrounding meninges [2]."
+    },
+    {
+      "number": 4,
+      "question": "The ophthalmic artery is a critical imaging landmark because aneurysms located at or superior to its origin are considered:",
+      "choices": [
+        "Extradural and low risk for SAH.",
+        "Intradural and high risk for SAH.",
+        "Located within the cavernous sinus.",
+        "Purely cavernous.",
+        "Contained within the petrous canal."
+      ],
+      "answer": "B",
+      "detail": "Aneurysms at or above the ophthalmic artery origin are intradural and carry a high risk for subarachnoid hemorrhage (SAH) [2]."
+    },
+    {
+      "number": 5,
+      "question": "Which branch of the supraclinoid ICA supplies the optic chiasm, the head of the hippocampus, and the posterior limb of the internal capsule?",
+      "choices": ["Posterior communicating artery", "Anterior choroidal artery", "Superior hypophyseal artery", "Recurrent artery of Heubner", "Ophthalmic artery"],
+      "answer": "B",
+      "detail": "The anterior choroidal artery supplies these critical structures; its occlusion leads to a very specific infarct pattern [3]."
+    },
+    {
+      "number": 6,
+      "question": "The recurrent artery of Heubner most commonly arises from which arterial segment?",
+      "choices": ["A1 segment of the ACA", "A2 segment of the ACA", "M1 segment of the MCA", "Anterior communicating artery", "Supraclinoid ICA"],
+      "answer": "A",
+      "detail": "This artery typically arises from the A1 segment of the anterior cerebral artery (ACA) [3]."
+    },
+    {
+      "number": 7,
+      "question": "Which structure is primarily supplied by the recurrent artery of Heubner?",
+      "choices": ["Thalamus", "Head of the caudate", "Optic tract", "Lateral putamen", "External capsule"],
+      "answer": "B",
+      "detail": "The recurrent artery of Heubner is the primary blood supply for the head of the caudate nucleus [4]."
+    },
+    {
+      "number": 8,
+      "question": "Lateral lenticulostriate perforator vessels, which supply the lateral basal ganglia and the posterior limb of the internal capsule, arise from the:",
+      "choices": ["Anterior cerebral artery (ACA)", "Middle cerebral artery (MCA)", "Posterior cerebral artery (PCA)", "Internal carotid artery (ICA)", "Anterior communicating artery"],
+      "answer": "B",
+      "detail": "These perforators arise from the M1 segment of the middle cerebral artery (MCA) [4]."
+    },
+    {
+      "number": 9,
+      "question": "A 'fetal PCA' is a common anatomical variant defined as a posterior cerebral artery supplied entirely by the:",
+      "choices": [
+        "Basilar artery via a hypoplastic P-comm.",
+        "Ipsilateral ICA via an enlarged P-comm.",
+        "Contralateral PCA via the A-comm.",
+        "Superior cerebellar artery.",
+        "Vertebral artery."
+      ],
+      "answer": "B",
+      "detail": "In a fetal PCA, the enlarged posterior communicating artery (P-comm) allows the internal carotid artery (ICA) to provide the primary blood supply to the PCA [5]."
+    },
+    {
+      "number": 10,
+      "question": "An 'Artery of Percheron' is a variant where a single dominant thalamic perforator supplies the ventromedial thalami bilaterally. From which segment does it arise?",
+      "choices": ["A1 segment of the ACA", "M1 segment of the MCA", "P1 segment of the PCA", "Basilar artery tip", "Posterior communicating artery"],
+      "answer": "C",
+      "detail": "The Artery of Percheron arises from the P1 segment of the posterior cerebral artery (PCA) [5]."
+    },
+    {
+      "number": 11,
+      "question": "Which rare ACA variant is specifically associated with holoprosencephaly?",
+      "choices": ["Hypoplastic A1", "Duplicated A-comm", "Azygous ACA", "Fenestrated A-comm", "Fetal PCA"],
+      "answer": "C",
+      "detail": "The azygous ACA, where a single trunk supplies both hemispheres, is a rare variant associated with holoprosencephaly [6]."
+    },
+    {
+      "number": 12,
+      "question": "What is the most common persistent carotid-basilar connection?",
+      "choices": ["Persistent hypoglossal artery", "Persistent otic artery", "Persistent trigeminal artery", "Persistent proatlantal intersegmental artery", "Persistent ophthalmic artery"],
+      "answer": "C",
+      "detail": "The persistent trigeminal artery is the most common fetal connection between the carotid and basilar systems [6]."
+    },
+    {
+      "number": 13,
+      "question": "On a lateral angiogram, a persistent trigeminal artery demonstrates a characteristic branching structure known as the:",
+      "choices": ["Ivy sign", "Cord sign", "Trident or Tau sign", "Caput medusa", "Smoke-puff appearance"],
+      "answer": "C",
+      "detail": "The 'Trident' or 'Tau' sign is pathognomonic for a persistent trigeminal artery on lateral angiography [7]."
+    },
+    {
+      "number": 14,
+      "question": "A Saltzman Type I persistent trigeminal artery connects the cavernous ICA directly to the:",
+      "choices": ["Superior cerebellar artery", "Basilar artery", "Vertebral artery", "PICA", "AICA"],
+      "answer": "B",
+      "detail": "Saltzman Type I connects the cavernous ICA directly to the basilar artery distal to the superior cerebellar arteries [7]."
+    },
+    {
+      "number": 15,
+      "question": "The 'venous angle,' used as an angiographic landmark for the foramen of Monro, is the intersection of which two veins?",
+      "choices": ["Internal cerebral vein and Basal vein of Rosenthal", "Septal vein and Thalamostriate vein", "Vein of Galen and Straight sinus", "Vein of Trolard and Vein of Labbé", "Superior sagittal sinus and Inferior sagittal sinus"],
+      "answer": "B",
+      "detail": "The venous angle is formed by the intersection of the septal and thalamostriate veins [7]."
+    },
+    {
+      "number": 16,
+      "question": "Which superficial cerebral vein connects the superficial cortical veins to the superior sagittal sinus?",
+      "choices": ["Vein of Labbé", "Vein of Trolard", "Basal vein of Rosenthal", "Internal cerebral vein", "Vein of Galen"],
+      "answer": "B",
+      "detail": "The Vein of Trolard (Superior anastomotic vein) connects the cortical veins to the superior sagittal sinus [8]."
+    },
+    {
+      "number": 17,
+      "question": "The vein of Labbé characteristically drains the temporal convexity into the:",
+      "choices": ["Superior sagittal sinus", "Straight sinus", "Transverse or sigmoid sinus", "Internal cerebral vein", "Cavernous sinus"],
+      "answer": "C",
+      "detail": "The Vein of Labbé (Inferior anastomotic vein) drains the temporal convexity into the transverse or sigmoid sinus [8]."
+    },
+    {
+      "number": 18,
+      "question": "Which cranial nerve travels through the center of the cavernous sinus alongside the carotid artery, rather than within the sinus wall?",
+      "choices": ["CN III (Oculomotor)", "CN IV (Trochlear)", "CN V1 (Ophthalmic)", "CN V2 (Maxillary)", "CN VI (Abducens)"],
+      "answer": "E",
+      "detail": "CN VI (Abducens) is the only nerve that travels through the center of the cavernous sinus alongside the ICA [9]."
+    },
+    {
+      "number": 19,
+      "question": "Which division of the trigeminal nerve is the only one that does NOT traverse the cavernous sinus?",
+      "choices": ["V1 (Ophthalmic)", "V2 (Maxillary)", "V3 (Mandibular)", "All divisions traverse the sinus.", "Only V1 traverses the sinus."],
+      "answer": "C",
+      "detail": "The mandibular nerve (V3) does not traverse the cavernous sinus [9]."
+    },
+    {
+      "number": 20,
+      "question": "The maxillary nerve (V2) exits the skull through which foramen?",
+      "choices": ["Superior orbital fissure", "Foramen ovale", "Foramen rotundum", "Foramen spinosum", "Dorello's canal"],
+      "answer": "C",
+      "detail": "The maxillary nerve (V2) exits via the foramen rotundum [10]."
+    },
+    {
+      "number": 21,
+      "question": "CN VI (Abducens) enters the petrous portion of the temporal bone through which specific structure?",
+      "choices": ["Meckel’s cave", "Dorello’s canal", "Hypoglossal canal", "Pars nervosa", "Internal auditory canal"],
+      "answer": "B",
+      "detail": "CN VI passes through Dorello’s canal to enter the petrous apex [10]."
+    },
+    {
+      "number": 22,
+      "question": "The jugular foramen is divided into two parts. Which structure is transmitted through the anteromedial 'pars nervosa'?",
+      "choices": ["Internal jugular vein", "CN IX (Glossopharyngeal nerve)", "CN X (Vagus nerve)", "CN XI (Accessory nerve)", "Posterior meningeal artery"],
+      "answer": "B",
+      "detail": "The glossopharyngeal nerve (CN IX) passes through the smaller pars nervosa [10]."
+    },
+    {
+      "number": 23,
+      "question": "Which of the following is transmitted through the larger 'pars vascularis' of the jugular foramen?",
+      "choices": ["CN IX", "Inferior petrosal sinus", "Jacobson nerve", "CN X (Vagus nerve)", "CN XII (Hypoglossal nerve)"],
+      "answer": "D",
+      "detail": "The vagus nerve (CN X) and the internal jugular vein are transmitted through the larger pars vascularis [11]."
+    },
+    {
+      "number": 24,
+      "question": "The 'great anterior radiculomedullary artery,' which provides the primary blood supply to the lower two-thirds of the spinal cord, is also known as the:",
+      "choices": ["Artery of Percheron", "Artery of Heubner", "Artery of Adamkiewicz", "Vidian artery", "Artery of Davidoff and Schechter"],
+      "answer": "C",
+      "detail": "The Artery of Adamkiewicz provides the primary blood supply to the lower 2/3 of the cord [11]."
+    },
+    {
+      "number": 25,
+      "question": "Spinal cord infarction involving the ventral horns of the intramedullary gray matter often results in a characteristic T2-weighted MRI appearance known as the:",
+      "choices": ["Ivy sign", "Cord sign", "Owl eye appearance", "Caput medusa", "Target sign"],
+      "answer": "C",
+      "detail": "Infarction of the ventral horns produces the characteristic 'owl eye' appearance on axial T2-weighted MRI [12]."
+    }
+  ]
+}

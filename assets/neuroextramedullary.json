@@ -1,0 +1,459 @@
+{
+  "questions": [
+    {
+      "number": 41,
+      "question": "Intradural extramedullary lesions are located:",
+      "choices": [
+        "Outside the thecal sac.",
+        "Within the cord parenchyma.",
+        "Within the thecal sac but outside the spinal cord.",
+        "Only in the vertebral bodies.",
+        "Exclusively in the cervical spine."
+      ],
+      "answer": "C",
+      "detail": "Intradural extramedullary lesions are defined by their location within the thecal sac but external to the spinal cord substance."
+    },
+    {
+      "number": 42,
+      "question": "Which imaging sign is characteristic of an intradural extramedullary mass?",
+      "choices": [
+        "Obliteration of the subarachnoid space without cord displacement.",
+        "Displacement of the cord and the presence of a 'CSF cleft' between the mass and cord.",
+        "Direct infiltration of the vertebral body.",
+        "Expansion of the spinal cord.",
+        "Epidural fat displacement."
+      ],
+      "answer": "B",
+      "detail": "Characteristic findings include displacement of the spinal cord and a visible 'CSF cleft' separating the mass from the cord."
+    },
+    {
+      "number": 43,
+      "question": "Which three neoplasms comprise 90% of intradural extramedullary tumors?",
+      "choices": [
+        "Astrocytoma, Ependymoma, and Metastasis.",
+        "Meningioma, Schwannoma, and Neurofibroma.",
+        "Hemangioma, Plasmacytoma, and Lymphoma.",
+        "Chordoma, Chondrosarcoma, and Osteosarcoma.",
+        "Paraganglioma, Dermoid, and Epidermoid."
+      ],
+      "answer": "B",
+      "detail": "The vast majority of tumors in this compartment are meningiomas, schwannomas, or neurofibromas."
+    },
+    {
+      "number": 44,
+      "question": "What is the most common tumor of the cauda equina region?",
+      "choices": [
+        "Meningioma.",
+        "Schwannoma.",
+        "Myxopapillary ependymoma.",
+        "Paraganglioma.",
+        "Neurofibroma."
+      ],
+      "answer": "C",
+      "detail": "Myxopapillary ependymoma is the most frequently encountered tumor in the cauda equina and filum terminale region."
+    },
+    {
+      "number": 45,
+      "question": "Spinal meningiomas are most commonly seen in which patient demographic?",
+      "choices": [
+        "Adolescent males.",
+        "Infants.",
+        "Older women.",
+        "Young men.",
+        "There is no demographic predilection."
+      ],
+      "answer": "C",
+      "detail": "Spinal meningiomas have a strong predilection for older women."
+    },
+    {
+      "number": 46,
+      "question": "Which imaging feature is classically associated with spinal meningioma?",
+      "choices": [
+        "Sausage-shaped appearance.",
+        "Intense enhancement and a 'dural tail.'",
+        "Restricted diffusion.",
+        "Internal fat signal.",
+        "Serpentine flow voids."
+      ],
+      "answer": "B",
+      "detail": "Classic imaging features include intense, homogeneous enhancement and the presence of a 'dural tail'."
+    },
+    {
+      "number": 47,
+      "question": "Myxopapillary ependymomas are classified as which WHO grade?",
+      "choices": [
+        "Grade I (Benign).",
+        "Grade II.",
+        "Grade III.",
+        "Grade IV.",
+        "They are not graded."
+      ],
+      "answer": "A",
+      "detail": "Myxopapillary ependymomas are considered slow-growing, benign lesions and are classified as WHO Grade I."
+    },
+    {
+      "number": 48,
+      "question": "Which tumor is characterized by slow growth, classic 'sausage-shaped' morphology, and frequent hemorrhage resulting in peripheral hemosiderin?",
+      "choices": [
+        "Meningioma.",
+        "Schwannoma.",
+        "Myxopapillary ependymoma.",
+        "Paraganglioma.",
+        "Epidermoid cyst."
+      ],
+      "answer": "C",
+      "detail": "These tumors characteristically exhibit a 'sausage-shaped' appearance and often show peripheral hemosiderin from chronic hemorrhage."
+    },
+    {
+      "number": 49,
+      "question": "Spinal paragangliomas arise almost exclusively in which location?",
+      "choices": [
+        "Cervical cord.",
+        "Thoracic cord.",
+        "Filum terminale and cauda equina region.",
+        "Foramen magnum.",
+        "Epidural space of the sacrum."
+      ],
+      "answer": "C",
+      "detail": "Spinal paragangliomas are rare and occur almost exclusively in the region of the filum terminale and cauda equina."
+    },
+    {
+      "number": 50,
+      "question": "What is the most common 'open' spinal dysraphism?",
+      "choices": [
+        "Myelomeningocele.",
+        "Spina bifida occulta.",
+        "Diastematomyelia.",
+        "Lipomyelomeningocele.",
+        "Neurenteric cyst."
+      ],
+      "answer": "A",
+      "detail": "Myelomeningocele is the most frequent type of open spinal dysraphism."
+    },
+    {
+      "number": 51,
+      "question": "'Closed' spinal dysraphisms are characterized by being:",
+      "choices": [
+        "Associated with Chiari II malformations.",
+        "Covered by intact skin.",
+        "Not covered by skin.",
+        "Always symptomatic at birth.",
+        "Only involving the cervical spine."
+      ],
+      "answer": "B",
+      "detail": "By definition, closed spinal dysraphisms are covered by an intact layer of skin."
+    },
+    {
+      "number": 52,
+      "question": "A 'fatty filum' is identified on MRI as a hyperintense lesion on which sequence?",
+      "choices": [
+        "T2-weighted images.",
+        "T1-weighted images.",
+        "STIR.",
+        "Post-contrast T1 with fat sat.",
+        "Diffusion-weighted images."
+      ],
+      "answer": "B",
+      "detail": "A fatty filum appears hyperintense (bright) on T1-weighted images due to its fat content."
+    },
+    {
+      "number": 53,
+      "question": "What can commonly be mistaken for a fatty filum on post-contrast imaging?",
+      "choices": [
+        "A nerve root.",
+        "An enhancing vessel.",
+        "A metastasis.",
+        "A syrinx.",
+        "Arachnoiditis."
+      ],
+      "answer": "B",
+      "detail": "Normal enhancing blood vessels in the cauda equina region can sometimes mimic the signal of fat on post-contrast images."
+    },
+    {
+      "number": 54,
+      "question": "Spinal epidermoid cysts characteristically demonstrate which imaging finding?",
+      "choices": [
+        "Avid enhancement.",
+        "Restricted diffusion.",
+        "Dense calcification.",
+        "Flow-void signal.",
+        "Dural tail."
+      ],
+      "answer": "B",
+      "detail": "Like their intracranial counterparts, spinal epidermoid cysts characteristically demonstrate restricted diffusion on DWI."
+    },
+    {
+      "number": 55,
+      "question": "How are most spinal epidermoid cysts acquired?",
+      "choices": [
+        "Congenital malformation.",
+        "Implantation of skin elements during spinal puncture.",
+        "Viral infection.",
+        "Hematogenous spread.",
+        "Blunt trauma."
+      ],
+      "answer": "B",
+      "detail": "While some are congenital, most spinal epidermoid cysts are acquired through the accidental implantation of skin elements during a spinal tap or procedure."
+    },
+    {
+      "number": 56,
+      "question": "A rare but potentially fatal complication of dermoid cyst rupture is:",
+      "choices": [
+        "Epidural hematoma.",
+        "Chemical meningitis.",
+        "Spinal cord infarction.",
+        "Communicating hydrocephalus.",
+        "Hardware failure."
+      ],
+      "answer": "B",
+      "detail": "The release of fatty material from a ruptured dermoid cyst into the CSF can trigger severe chemical meningitis."
+    },
+    {
+      "number": 57,
+      "question": "The 'scalpel sign' (focal dorsal indentation of the spinal cord) on sagittal images is diagnostic of:",
+      "choices": [
+        "Arachnoid cyst.",
+        "Arachnoid web.",
+        "Neurenteric cyst.",
+        "Cord herniation.",
+        "Multiple sclerosis."
+      ],
+      "answer": "B",
+      "detail": "The 'scalpel sign' is a pathognomonic finding for an arachnoid web."
+    },
+    {
+      "number": 58,
+      "question": "Neurenteric cysts are composed of endodermal tissue and typically occur:",
+      "choices": [
+        "Dorsal to the thoracic cord.",
+        "Ventral to the cervical cord.",
+        "Within the conus medullaris.",
+        "In the epidural space.",
+        "Attached to the filum terminale."
+      ],
+      "answer": "B",
+      "detail": "Neurenteric cysts are typically found ventral to the spinal cord, most commonly in the cervical region."
+    },
+    {
+      "number": 59,
+      "question": "Patients with neurenteric cysts frequently have associated:",
+      "choices": [
+        "NF1.",
+        "NF2.",
+        "Congenital vertebral body anomalies at the same level.",
+        "Polycystic kidney disease.",
+        "Chiari II malformation."
+      ],
+      "answer": "C",
+      "detail": "These cysts are often associated with congenital vertebral anomalies at the corresponding spinal level."
+    },
+    {
+      "number": 60,
+      "question": "What is the most common cause of spinal arachnoiditis?",
+      "choices": [
+        "Tuberculosis.",
+        "Lumbar spine surgery.",
+        "Chemical injury from steroids.",
+        "Trauma.",
+        "Meningioma."
+      ],
+      "answer": "B",
+      "detail": "Lumbar spine surgery is the leading cause of spinal arachnoiditis."
+    },
+    {
+      "number": 61,
+      "question": "According to the grading system for lumbar arachnoiditis, 'Group 2' is characterized by:",
+      "choices": [
+        "Central conglomeration of nerve roots.",
+        "Peripheral clumping of nerve roots ('empty thecal sac' sign).",
+        "Obliteration of the subarachnoid space by soft tissue.",
+        "Normal appearance of the cauda equina.",
+        "Cord expansion."
+      ],
+      "answer": "B",
+      "detail": "Group 2 is defined by the peripheral clumping of nerve roots, creating the 'empty thecal sac sign'."
+    },
+    {
+      "number": 62,
+      "question": "Which pattern is the most severe form of arachnoiditis?",
+      "choices": [
+        "Group 1.",
+        "Group 2.",
+        "Group 3 (obliteration of the subarachnoid space).",
+        "The empty thecal sac sign.",
+        "Central clumping."
+      ],
+      "answer": "C",
+      "detail": "Group 3 is the most severe stage, characterized by complete obliteration of the subarachnoid space."
+    },
+    {
+      "number": 63,
+      "question": "Spinal MRI findings of Guillain-Barré syndrome characteristically show:",
+      "choices": [
+        "Intramedullary T2 hyperintensity.",
+        "Enhancement and thickening of cauda equina nerve roots.",
+        "A sausage-shaped mass at the conus.",
+        "Multiple dark spots on SWI.",
+        "'Sugar-coating' of the entire cord."
+      ],
+      "answer": "B",
+      "detail": "The hallmark finding of GBS on spinal MRI is the thickening and enhancement of the nerve roots of the cauda equina."
+    },
+    {
+      "number": 64,
+      "question": "Chronic inflammatory demyelinating polyneuropathy (CIDP) differs from GBS by having a course that lasts at least:",
+      "choices": [
+        "24 hours.",
+        "1 week.",
+        "1 month.",
+        "Several months.",
+        "5 years."
+      ],
+      "answer": "D",
+      "detail": "CIDP is distinguished from the acute course of GBS by its chronicity, lasting several months or more."
+    },
+    {
+      "number": 65,
+      "question": "Spinal nerve sheath tumors (schwannomas/neurofibromas) are often associated with which finding on CT?",
+      "choices": [
+        "Dense calcification.",
+        "Expansion of the neural foramen ('dumbbell' shape).",
+        "Vertebral body osteolysis.",
+        "Sclerotic pedicle.",
+        "Absence of any bone changes."
+      ],
+      "answer": "B",
+      "detail": "Nerve sheath tumors often grow through the neural foramen, causing it to expand and creating a 'dumbbell' shape."
+    },
+    {
+      "number": 66,
+      "question": "The 'thecal sac' is the sheath formed by which two meningeal layers?",
+      "choices": [
+        "Pia and Arachnoid.",
+        "Dura and Arachnoid.",
+        "Dura and Pia.",
+        "Pia and Bone.",
+        "Epidural fat and Dura."
+      ],
+      "answer": "B",
+      "detail": "The thecal sac is the protective sheath formed by the dura mater and the arachnoid membrane."
+    },
+    {
+      "number": 67,
+      "question": "A 'dumbbell-shaped' mass extending through a neural foramen into the paraspinal space is most likely:",
+      "choices": [
+        "A meningioma.",
+        "A nerve sheath tumor (schwannoma/neurofibroma).",
+        "A metastasis.",
+        "An epidermoid cyst.",
+        "A syrinx."
+      ],
+      "answer": "B",
+      "detail": "Nerve sheath tumors classically present as dumbbell-shaped masses extending through the neural foramen."
+    },
+    {
+      "number": 68,
+      "question": "'Failed back surgery syndrome' is an indication to evaluate for which inflammatory condition?",
+      "choices": [
+        "Transverse myelitis.",
+        "Multiple sclerosis.",
+        "Arachnoiditis.",
+        "GBS.",
+        "SCD."
+      ],
+      "answer": "C",
+      "detail": "Arachnoiditis is a known complication of spinal surgery and a potential cause of persistent post-surgical pain."
+    },
+    {
+      "number": 69,
+      "question": "Which type of spinal cord herniation is characterized by cord displacement and interruption of the ventral CSF space?",
+      "choices": [
+        "Idiopathic ventral cord herniation.",
+        "Paradoxical herniation.",
+        "Tonsillar herniation.",
+        "Subfalcine herniation.",
+        "Uncal herniation."
+      ],
+      "answer": "A",
+      "detail": "Idiopathic ventral cord herniation involves the cord prolapsing through a dural defect, interrupting the ventral CSF space."
+    },
+    {
+      "number": 70,
+      "question": "The 'empty thecal sac sign' is a marker of which specific condition?",
+      "choices": [
+        "Normal anatomy.",
+        "CSF leak.",
+        "Group 2 arachnoiditis.",
+        "Multiple sclerosis.",
+        "Spinal cord infarction."
+      ],
+      "answer": "C",
+      "detail": "This sign is diagnostic for Group 2 adhesive arachnoiditis."
+    },
+    {
+      "number": 71,
+      "question": "Multiple spinal schwannomas should raise high suspicion for:",
+      "choices": [
+        "NF1.",
+        "NF2.",
+        "VHL.",
+        "Schwannomatosis.",
+        "Both B and D."
+      ],
+      "answer": "E",
+      "detail": "Multiple schwannomas are highly suggestive of NF2 or schwannomatosis."
+    },
+    {
+      "number": 72,
+      "question": "In the lumbar spine, where does the L4 nerve root exit?",
+      "choices": [
+        "Above the L4 vertebral body.",
+        "Below the L4 vertebral body.",
+        "Above the L3 vertebral body.",
+        "Directly into the sacrum.",
+        "Through the foramen magnum."
+      ],
+      "answer": "B",
+      "detail": "Lumbar nerve roots exit through the neural foramen below their corresponding vertebral body."
+    },
+    {
+      "number": 73,
+      "question": "In the cervical spine, where does the C7 nerve root exit?",
+      "choices": [
+        "Below the C7 vertebral body.",
+        "Above the C7 vertebral body (at C6-C7).",
+        "Below the T1 vertebral body.",
+        "Through the C1-C2 joint.",
+        "It does not exist; there is no C7 root."
+      ],
+      "answer": "B",
+      "detail": "In the cervical spine, nerve roots C1-C7 exit above their corresponding numbered vertebral body."
+    },
+    {
+      "number": 74,
+      "question": "Spinal arachnoid cysts are most commonly located in which position relative to the cord?",
+      "choices": [
+        "Ventral to the cervical cord.",
+        "Dorsal to the thoracic cord.",
+        "Centered in the conus medullaris.",
+        "Primarily in the epidural space.",
+        "Only in the sacrum."
+      ],
+      "answer": "B",
+      "detail": "The most common location for a spinal arachnoid cyst is dorsal to the thoracic spinal cord."
+    },
+    {
+      "number": 75,
+      "question": "'Zuckerguss' or sugar-coating enhancement of the cord and nerve roots is a hallmark of:",
+      "choices": [
+        "Arachnoiditis.",
+        "Leptomeningeal metastatic disease (e.g., from medulloblastoma).",
+        "Chronic MS.",
+        "Fatty filum.",
+        "Normal post-operative change."
+      ],
+      "answer": "B",
+      "detail": "'Zuckerguss' (sugar-coating) is a classic imaging sign of leptomeningeal metastatic dissemination."
+    }
+  ]
+}

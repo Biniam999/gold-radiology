@@ -1,0 +1,329 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Which paranasal sinuses are present but hypoplastic at birth?",
+      "choices": [
+        "Frontal and Sphenoid",
+        "Maxillary and Ethmoid",
+        "Sphenoid and Ethmoid",
+        "Frontal and Maxillary",
+        "Only the Ethmoid"
+      ],
+      "answer": "B",
+      "detail": "At birth, the maxillary and ethmoid sinuses are already present but remain hypoplastic."
+    },
+    {
+      "number": 2,
+      "question": "Which sinus is typically the last to pneumatize during childhood development?",
+      "choices": [
+        "Maxillary",
+        "Ethmoid",
+        "Sphenoid",
+        "Frontal",
+        "Mastoid"
+      ],
+      "answer": "D",
+      "detail": "During childhood development, the frontal sinus is typically the final sinus to undergo pneumatization."
+    },
+    {
+      "number": 3,
+      "question": "The nasal cavity and paranasal sinuses are lined with which type of specialized mucosa?",
+      "choices": [
+        "Squamous epithelium",
+        "Schneiderian epithelium",
+        "Transitional epithelium",
+        "Olfactory epithelium only",
+        "Urothelium"
+      ],
+      "answer": "B",
+      "detail": "The specialized mucosa lining the paranasal sinuses and nasal cavity is known as Schneiderian epithelium."
+    },
+    {
+      "number": 4,
+      "question": "The Osteomeatal Complex (OMC) serves as the common drainage pathway for which group of sinuses?",
+      "choices": [
+        "Maxillary, Sphenoid, and Frontal",
+        "Maxillary, Frontal, and Anterior Ethmoid",
+        "Posterior Ethmoid and Sphenoid",
+        "All paranasal sinuses",
+        "Maxillary and Posterior Ethmoid"
+      ],
+      "answer": "B",
+      "detail": "The OMC functions as the collective drainage pathway for the maxillary, frontal, and anterior ethmoid sinuses."
+    },
+    {
+      "number": 5,
+      "question": "Which of the following structures is NOT considered part of the OMC?",
+      "choices": [
+        "Maxillary sinus ostium",
+        "Ethmoid infundibulum",
+        "Uncinate process",
+        "Sphenoethmoidal recess",
+        "Hiatus semilunaris"
+      ],
+      "answer": "D",
+      "detail": "The sphenoethmoidal recess is not a component of the osteomeatal complex."
+    },
+    {
+      "number": 6,
+      "question": "The nasolacrimal duct drains into the nasal cavity at which specific location?",
+      "choices": [
+        "Superior meatus",
+        "Middle meatus",
+        "Inferior meatus",
+        "Sphenoethmoidal recess",
+        "Ethmoid infundibulum"
+      ],
+      "answer": "C",
+      "detail": "The inferior meatus is the specific location where the nasolacrimal duct drains into the nasal cavity."
+    },
+    {
+      "number": 7,
+      "question": "Which thin bone separates the ethmoid air cells from the orbit?",
+      "choices": [
+        "Cribriform plate",
+        "Fovea ethmoidalis",
+        "Lamina papyracea",
+        "Planum sphenoidale",
+        "Uncinate process"
+      ],
+      "answer": "C",
+      "detail": "The lamina papyracea is the thin bony partition that separates the orbit from the ethmoid air cells."
+    },
+    {
+      "number": 8,
+      "question": "The horizontal portion of the ethmoid bone that supports the olfactory bulbs is known as the:",
+      "choices": [
+        "Fovea ethmoidalis",
+        "Cribriform plate",
+        "Planum sphenoidale",
+        "Lesser wing of the sphenoid",
+        "Agger nasi cell"
+      ],
+      "answer": "B",
+      "detail": "The cribriform plate is the horizontal section of the ethmoid bone that supports the olfactory bulbs."
+    },
+    {
+      "number": 9,
+      "question": "Obstruction of the sphenoethmoidal recess prevents drainage of which two structures?",
+      "choices": [
+        "Frontal sinus and Anterior ethmoids",
+        "Maxillary sinus and Posterior ethmoids",
+        "Sphenoid sinus and Posterior ethmoid air cells",
+        "Frontal sinus and Maxillary sinus",
+        "Sphenoid sinus and Anterior ethmoids"
+      ],
+      "answer": "C",
+      "detail": "When the sphenoethmoidal recess is obstructed, it prevents the drainage of the sphenoid sinus and the posterior ethmoid air cells."
+    },
+    {
+      "number": 10,
+      "question": "Silent Sinus Syndrome is characterized by painless atelectasis of which sinus?",
+      "choices": [
+        "Frontal",
+        "Sphenoid",
+        "Ethmoid",
+        "Maxillary",
+        "Agger nasi"
+      ],
+      "answer": "D",
+      "detail": "Silent Sinus Syndrome involves the painless collapse or atelectasis of the maxillary sinus."
+    },
+    {
+      "number": 11,
+      "question": "Which finding is part of the classic presentation of Silent Sinus Syndrome?",
+      "choices": [
+        "Exophthalmos",
+        "Maxillary sinus expansion",
+        "Enophthalmos and unilateral maxillary volume loss",
+        "Recurrent epistaxis",
+        "Tension mucocele"
+      ],
+      "answer": "C",
+      "detail": "The classic presentation includes enophthalmos and unilateral loss of volume in the maxillary sinus."
+    },
+    {
+      "number": 12,
+      "question": "What is the most common site for the development of a paranasal sinus mucocele?",
+      "choices": [
+        "Maxillary sinus",
+        "Sphenoid sinus",
+        "Frontal sinus",
+        "Posterior ethmoid cells",
+        "Nasal cavity"
+      ],
+      "answer": "C",
+      "detail": "The frontal sinus is the most frequent location for paranasal sinus mucocele development."
+    },
+    {
+      "number": 13,
+      "question": "What is the most common cause of a nasal septal perforation?",
+      "choices": [
+        "Cocaine abuse",
+        "Granulomatosis with polyangiitis (Wegener's)",
+        "Iatrogenic/Traumatic (e.g., septoplasty)",
+        "Fungal infection",
+        "Squamous cell carcinoma"
+      ],
+      "answer": "C",
+      "detail": "Nasal septal perforations are most commonly caused by iatrogenic factors, such as septoplasty, or other trauma."
+    },
+    {
+      "number": 14,
+      "question": "The Pterygopalatine Fossa (PPF) communicates with the middle cranial fossa posteriorly via which two routes?",
+      "choices": [
+        "Foramen ovale and Foramen spinosum",
+        "Foramen rotundum and Vidian canal",
+        "Inferior orbital fissure and Pterygomaxillary fissure",
+        "Sphenopalatine foramen and Optic canal",
+        "Pterygopalatine canal and Foramen magnum"
+      ],
+      "answer": "B",
+      "detail": "The PPF communicates posteriorly with the middle cranial fossa through the Vidian canal and the foramen rotundum."
+    },
+    {
+      "number": 15,
+      "question": "Which nerve passes through the Inferior Orbital Fissure from the PPF to provide sensation to the inferior eyelid and upper lip?",
+      "choices": [
+        "Vidian nerve",
+        "Zygomatic nerve",
+        "Infraorbital nerve",
+        "Mandibular nerve (V3)",
+        "Optic nerve"
+      ],
+      "answer": "C",
+      "detail": "The infraorbital nerve passes from the PPF through the inferior orbital fissure to provide sensation to the upper lip and lower eyelid."
+    },
+    {
+      "number": 16,
+      "question": "The PPF communicates laterally with the masticator space through the:",
+      "choices": [
+        "Sphenopalatine foramen",
+        "Pterygopalatine canal",
+        "Pterygomaxillary fissure",
+        "Foramen rotundum",
+        "Hiatus semilunaris"
+      ],
+      "answer": "C",
+      "detail": "Lateral communication between the PPF and the masticator space occurs via the pterygomaxillary fissure."
+    },
+    {
+      "number": 17,
+      "question": "Medial communication between the PPF and the superior meatus of the nasal cavity occurs via the:",
+      "choices": [
+        "Vidian canal",
+        "Sphenopalatine foramen",
+        "Foramen rotundum",
+        "Inferior orbital fissure",
+        "Pterygoid plates"
+      ],
+      "answer": "B",
+      "detail": "The sphenopalatine foramen allows the PPF to communicate medially with the superior meatus of the nasal cavity."
+    },
+    {
+      "number": 18,
+      "question": "Which malignant neural crest tumor arises from the superior nasal cavity and can involve the cribriform plate?",
+      "choices": [
+        "Squamous cell carcinoma",
+        "Inverted papilloma",
+        "Esthesioneuroblastoma (Olfactory neuroblastoma)",
+        "Juvenile nasopharyngeal angiofibroma",
+        "Lymphoma"
+      ],
+      "answer": "C",
+      "detail": "Esthesioneuroblastoma is a malignant neural crest tumor that originates in the superior nasal cavity and may involve the cribriform plate."
+    },
+    {
+      "number": 19,
+      "question": "A 'convoluted cerebriform pattern' on MRI is a characteristic imaging finding for which sinonasal lesion?",
+      "choices": [
+        "Mucosal melanoma",
+        "Inverted papilloma",
+        "Esthesioneuroblastoma",
+        "JNA",
+        "Antrochoanal polyp"
+      ],
+      "answer": "B",
+      "detail": "The convoluted cerebriform pattern on MRI is the hallmark finding for an inverted papilloma."
+    },
+    {
+      "number": 20,
+      "question": "Juvenile Nasopharyngeal Angiofibroma (JNA) characteristically causes widening of which space?",
+      "choices": [
+        "Superior orbital fissure",
+        "Pterygopalatine fossa",
+        "Internal auditory canal",
+        "Mandibular canal",
+        "Frontal recess"
+      ],
+      "answer": "B",
+      "detail": "JNA typically causes widening of the pterygopalatine fossa."
+    },
+    {
+      "number": 21,
+      "question": "Pott’s puffy tumor is a complication of acute frontal sinusitis involving:",
+      "choices": [
+        "Intracranial abscess",
+        "Frontal bone osteomyelitis and subgaleal abscess",
+        "Orbital cellulitis only",
+        "Maxillary sinus opacification",
+        "Cavernous sinus thrombosis"
+      ],
+      "answer": "B",
+      "detail": "Pott’s puffy tumor is an infectious complication involving subgaleal abscess formation and frontal bone osteomyelitis."
+    },
+    {
+      "number": 22,
+      "question": "Which aggressive fungal infection is classically seen in diabetic or immunocompromised patients, extending from the sinuses to the brain?",
+      "choices": [
+        "Aspergillosis",
+        "Mucormycosis",
+        "Candidiasis",
+        "Histoplasmosis",
+        "Cryptococcosis"
+      ],
+      "answer": "B",
+      "detail": "Mucormycosis is an aggressive fungal infection often seen in immunocompromised or diabetic patients, with potential spread from the sinuses to the brain."
+    },
+    {
+      "number": 23,
+      "question": "The anterior skull base is composed of the cribriform plates, the lesser wings of the sphenoid, the planum sphenoidale, and which other structure?",
+      "choices": [
+        "Greater wings of the sphenoid",
+        "Orbital parts of the frontal bone",
+        "Clivus",
+        "Petrous apex",
+        "Tuberculum sellae"
+      ],
+      "answer": "B",
+      "detail": "The orbital parts of the frontal bone are a primary component of the anterior skull base."
+    },
+    {
+      "number": 24,
+      "question": "Which small structure is a common ethmoid variant located at the floor of the orbit or the roof of the maxillary sinus?",
+      "choices": [
+        "Onodi cell",
+        "Agger nasi cell",
+        "Haller cell",
+        "Ethmoid bulla",
+        "Concha bullosa"
+      ],
+      "answer": "C",
+      "detail": "A Haller cell is an ethmoid variant found at the orbital floor and maxillary sinus roof."
+    },
+    {
+      "number": 25,
+      "question": "An Onodi cell is a posterior ethmoid air cell that has pneumatized laterally and superiorly to the:",
+      "choices": [
+        "Frontal sinus",
+        "Maxillary sinus",
+        "Sphenoid sinus and optic nerve",
+        "Hard palate",
+        "Nasolacrimal duct"
+      ],
+      "answer": "C",
+      "detail": "Onodi cells are posterior ethmoid air cells that pneumatize to involve the area of the optic nerve and sphenoid sinus."
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "What is the typical MRI appearance of most white matter injuries?",
+      "choices": [
+        "T1 hyperintensity",
+        "T2 prolongation (hyperintensity)",
+        "T2 shortening (hypointensity)",
+        "Internal fat signal",
+        "Dense calcification"
+      ],
+      "answer": "B",
+      "detail": "Most white matter injuries manifest as T2 prolongation, appearing hyperintense on T2-weighted and FLAIR sequences."
+    },
+    {
+      "number": 2,
+      "question": "Which finding is key for distinguishing demyelinating disease from a brain tumor?",
+      "choices": [
+        "Presence of ring enhancement",
+        "Minimal mass effect relative to the size of the lesion",
+        "Presence of vasogenic edema",
+        "High choline peak on spectroscopy",
+        "Location in the temporal lobe"
+      ],
+      "answer": "B",
+      "detail": "Demyelinating lesions characteristically demonstrate minimal mass effect compared to their overall size, a feature that helps distinguish them from primary or metastatic brain tumors."
+    },
+    {
+      "number": 3,
+      "question": "Which normal structures follow CSF signal on all sequences (including FLAIR) and can mimic chronic lacunar infarcts on CT?",
+      "choices": [
+        "Ependymitis granularis",
+        "Virchow-Robin spaces",
+        "Dawson fingers",
+        "Subcortical U-fibers",
+        "Areas of microangiopathy"
+      ],
+      "answer": "B",
+      "detail": "Virchow-Robin (perivascular) spaces follow CSF signal on all sequences, including FLAIR, which helps differentiate them from lacunar infarcts that typically show a hyperintense rim on FLAIR."
+    },
+    {
+      "number": 4,
+      "question": "What does 'ependymitis granularis' refer to on MRI?",
+      "choices": [
+        "Restricted diffusion in the ventricles",
+        "Frontal horn periventricular T2 hyperintensity due to interstitial CSF backup",
+        "Enhancement of the pial surface",
+        "Ovoid lesions in the corpus callosum",
+        "Calcification of the choroid plexus"
+      ],
+      "answer": "B",
+      "detail": "Ependymitis granularis is a non-inflammatory finding representing hyperintensity at the frontal horns due to interstitial CSF backup."
+    },
+    {
+      "number": 5,
+      "question": "According to the 2017 McDonald criteria, dissemination in space (DIS) can be demonstrated by T2 hyperintense lesions in at least two of which four classically affected areas?",
+      "choices": [
+        "Thalamus, Basal Ganglia, Pons, Medulla",
+        "Periventricular, Spinal cord, Infratentorial, Juxtacortical/Cortical",
+        "Corpus callosum, Internal capsule, Optic chiasm, Area postrema",
+        "Frontal, Parietal, Temporal, and Occipital lobes",
+        "Cerebellum, Midbrain, Choroid plexus, and Pituitary"
+      ],
+      "answer": "B",
+      "detail": "DIS is defined by lesions in at least two of four core MS areas: periventricular, spinal cord, infratentorial, and juxtacortical/cortical."
+    },
+    {
+      "number": 6,
+      "question": "On a single MRI study, how can 'dissemination in time' (DIT) be demonstrated?",
+      "choices": [
+        "Presence of at least 10 T2-bright lesions",
+        "Simultaneous presence of both gadolinium-enhancing and non-enhancing lesions",
+        "Presence of a 'black hole' on T1",
+        "Involvement of the spinal cord and brain simultaneously",
+        "Thinning of the corpus callosum"
+      ],
+      "answer": "B",
+      "detail": "DIT can be established on a single MRI if both gadolinium-enhancing and non-enhancing T2 lesions are present."
+    },
+    {
+      "number": 7,
+      "question": "'Dawson fingers' are ovoid lesions perpendicular to the ventricles caused by inflammation surrounding:",
+      "choices": [
+        "Deep penetrating arteries",
+        "The ependymal lining",
+        "Penetrating venules",
+        "The choroid plexus",
+        "Subcortical U-fibers"
+      ],
+      "answer": "C",
+      "detail": "Dawson fingers represent perivenular inflammation and are oriented perpendicular to the lateral ventricles along the path of deep penetrating venules."
+    },
+    {
+      "number": 8,
+      "question": "The 'central vein sign' is a finding relatively specific for:",
+      "choices": [
+        "PML",
+        "MS",
+        "ADEM",
+        "CADASIL",
+        "PRES"
+      ],
+      "answer": "B",
+      "detail": "The central vein sign, seen as a central hypointensity within a white matter lesion on FLAIR, is considered highly specific for MS."
+    },
+    {
+      "number": 9,
+      "question": "In multiple sclerosis, lesions that appear dark on T1-weighted images are known as 'black holes' and indicate:",
+      "choices": [
+        "Active inflammation",
+        "Severe demyelination and axonal loss",
+        "Acute hemorrhage",
+        "Calcification",
+        "Reversible edema"
+      ],
+      "answer": "B",
+      "detail": "T1 'black holes' in MS correlate with severe demyelination and irreversible axonal loss."
+    },
+    {
+      "number": 10,
+      "question": "Tumefactive MS typically features which imaging clue that helps distinguish it from a tumor?",
+      "choices": [
+        "Significant mass effect",
+        "Thick, complete ring enhancement",
+        "An incomplete or 'C-shaped' ring of enhancement",
+        "Presence of internal necrosis and hemorrhage",
+        "High CBV on perfusion"
+      ],
+      "answer": "C",
+      "detail": "Unlike high-grade tumors, tumefactive MS often presents with an incomplete 'C-shaped' ring of enhancement, with the open portion facing the gray matter."
+    },
+    {
+      "number": 11,
+      "question": "Which rare MS variant is characterized by pathognomonic alternating concentric bands of normal and abnormal myelin?",
+      "choices": [
+        "Marburg variant",
+        "Concentric (Balo) sclerosis",
+        "Devic disease",
+        "Schilder disease",
+        "ADEM"
+      ],
+      "answer": "B",
+      "detail": "Concentric sclerosis of Balo is a rare variant showing a unique 'bullseye' or alternating band appearance of demyelination and preserved myelin."
+    },
+    {
+      "number": 12,
+      "question": "Which antibody is highly specific for Neuromyelitis Optica Spectrum Disorder (NMOSD)?",
+      "choices": [
+        "Anti-Hu",
+        "Anti-MOG",
+        "NMO-IgG (antibody to aquaporin-4)",
+        "Anti-GAD",
+        "ANA"
+      ],
+      "answer": "C",
+      "detail": "NMO-IgG, an antibody targeting the aquaporin-4 water channel, is a highly specific biomarker for NMOSD."
+    },
+    {
+      "number": 13,
+      "question": "A 'bright spotty lesion' on T2-weighted spinal MRI is typical of:",
+      "choices": [
+        "Multiple sclerosis",
+        "NMOSD",
+        "Spinal cord infarction",
+        "Syringomyelia",
+        "Metastatic disease"
+      ],
+      "answer": "B",
+      "detail": "Bright spotty lesions—foci more hyperintense than CSF on T2—are characteristic of spinal cord involvement in NMOSD."
+    },
+    {
+      "number": 14,
+      "question": "In contrast to NMOSD, Anti-MOG antibody-associated disease preferentially involves which part of the spinal cord?",
+      "choices": [
+        "Cervical cord",
+        "Upper thoracic cord",
+        "Thoracolumbar cord and conus medullaris",
+        "Only the dorsal columns",
+        "Isolated to the nerve roots"
+      ],
+      "answer": "C",
+      "detail": "MOGAD (Anti-MOG disease) characteristically involves the lower spinal cord, particularly the thoracolumbar region and conus medullaris."
+    },
+    {
+      "number": 15,
+      "question": "Acute Disseminated Encephalomyelitis (ADEM) is a monophasic disorder most commonly seen in children following:",
+      "choices": [
+        "Chronic hypertension",
+        "A viral infection or vaccination",
+        "Exposure to methotrexate",
+        "Alcohol withdrawal",
+        "Lead poisoning"
+      ],
+      "answer": "B",
+      "detail": "ADEM is a monophasic inflammatory demyelinating condition that typically presents in children within weeks of a viral illness or vaccination."
+    },
+    {
+      "number": 16,
+      "question": "The 'Hurst variant' (acute hemorrhagic leukoencephalitis) is a fulminant form of which condition?",
+      "choices": [
+        "MS",
+        "ADEM",
+        "PRES",
+        "CADASIL",
+        "PML"
+      ],
+      "answer": "B",
+      "detail": "The Hurst variant is an extremely aggressive, rapidly fatal hemorrhagic form of ADEM."
+    },
+    {
+      "number": 17,
+      "question": "Posterior reversible encephalopathy syndrome (PRES) is typically triggered by:",
+      "choices": [
+        "Chronic hypotension",
+        "Acute hypertension or altered autoregulation",
+        "Thiamine deficiency",
+        "JC virus reactivation",
+        "Measles virus"
+      ],
+      "answer": "B",
+      "detail": "PRES results from vasogenic edema, often triggered by acute hypertension, eclampsia, or chemotherapy, which disrupts cerebral autoregulation."
+    },
+    {
+      "number": 18,
+      "question": "Where is the symmetric subcortical white matter abnormality in PRES most commonly located?",
+      "choices": [
+        "Anterior temporal lobes",
+        "Paramedian frontal lobes",
+        "Posterior circulation (occipital and parietal lobes)",
+        "Basal ganglia and thalami",
+        "Medulla and pons"
+      ],
+      "answer": "C",
+      "detail": "PRES characteristically involves the posterior circulation, specifically the subcortical white matter of the occipital and parietal lobes."
+    },
+    {
+      "number": 19,
+      "question": "CADASIL characteristically shows T2 hyperintensity in which specific location?",
+      "choices": [
+        "Occipital lobes",
+        "Anterior temporal lobes or paramedian frontal lobes",
+        "Posterior limb of the internal capsule",
+        "Cerebellar hemispheres",
+        "Medulla"
+      ],
+      "answer": "B",
+      "detail": "CADASIL is an inherited arteriopathy that classically presents with symmetric T2 hyperintensities in the anterior temporal lobes and paramedian frontal lobes."
+    },
+    {
+      "number": 20,
+      "question": "Microangiopathy characteristically spares which structure?",
+      "choices": [
+        "Subcortical white matter",
+        "Pons",
+        "Corpus callosum",
+        "Basal ganglia",
+        "Thalamus"
+      ],
+      "answer": "C",
+      "detail": "Chronic microangiopathy typically spares the corpus callosum; involvement of the callosum should prompt consideration of MS or other entities."
+    },
+    {
+      "number": 21,
+      "question": "Binswanger disease is defined as the clinical combination of:",
+      "choices": [
+        "Seizures and cortical atrophy",
+        "Dementia and severe microangiopathy",
+        "Migraine and temporal lobe lesions",
+        "Ataxia and thiamine deficiency",
+        "Fever and ring-enhancing lesions"
+      ],
+      "answer": "B",
+      "detail": "Binswanger disease refers to the clinical manifestation of dementia in a patient with extensive white matter microangiopathy."
+    },
+    {
+      "number": 22,
+      "question": "Progressive multifocal leukoencephalopathy (PML) characteristically involves:",
+      "choices": [
+        "Symmetric periventricular white matter",
+        "Asymmetric multifocal lesions involving subcortical U-fibers",
+        "The motor cortex exclusively",
+        "Dense enhancement of the basal ganglia",
+        "The corpus callosum only"
+      ],
+      "answer": "B",
+      "detail": "PML presents as asymmetric, multifocal lesions that characteristically involve the subcortical U-fibers."
+    },
+    {
+      "number": 23,
+      "question": "In an AIDS patient, how can HIV Encephalitis be distinguished from PML on MRI?",
+      "choices": [
+        "HIV is asymmetric; PML is symmetric.",
+        "HIV involves U-fibers; PML spares them.",
+        "HIV is typically symmetric, spares U-fibers, and is associated with atrophy.",
+        "Only PML shows restricted diffusion.",
+        "Only HIV shows enhancement."
+      ],
+      "answer": "C",
+      "detail": "Unlike the asymmetric, U-fiber involving lesions of PML, HIV Encephalitis is typically symmetric, spares the U-fibers, and is associated with cerebral atrophy."
+    },
+    {
+      "number": 24,
+      "question": "Subacute sclerosing panencephalitis (SSPE) is caused by reactivation of the:",
+      "choices": [
+        "JC virus",
+        "Measles virus",
+        "HSV-1",
+        "CMV",
+        "HIV"
+      ],
+      "answer": "B",
+      "detail": "SSPE is a rare, fatal demyelinating disease resulting from a persistent, altered measles virus infection."
+    },
+    {
+      "number": 25,
+      "question": "Radiation-induced demyelinating injury typically occurs in which window following therapy?",
+      "choices": [
+        "Within 24 hours",
+        "Several weeks to 6 months",
+        "1 to 2 years",
+        "5 to 10 years",
+        "Permanently"
+      ],
+      "answer": "B",
+      "detail": "Early delayed radiation injury, characterized by demyelination, typically occurs weeks to months after treatment."
+    },
+    {
+      "number": 26,
+      "question": "Methotrexate-induced brain toxicity characteristically presents as white matter lesions that:",
+      "choices": [
+        "Never show restricted diffusion",
+        "Cross vascular territories with relative sparing of subcortical U-fibers",
+        "Always result in permanent encephalomalacia",
+        "Are located exclusively in the posterior fossa",
+        "Result in dense calcification of the basal ganglia"
+      ],
+      "answer": "B",
+      "detail": "Methotrexate toxicity causes white matter lesions that cross vascular boundaries and often spare the subcortical U-fibers."
+    },
+    {
+      "number": 27,
+      "question": "Typical spinal MS lesions are characterized as:",
+      "choices": [
+        "Long segment (>3 segments) and central",
+        "Short segment (1–2 segments) and peripheral",
+        "Involving the entire cross-section of the cord",
+        "Exclusively involving the conus medullaris",
+        "Associated with significant cord expansion"
+      ],
+      "answer": "B",
+      "detail": "MS lesions in the spinal cord are characteristically short (less than two segments) and located peripherally."
+    },
+    {
+      "number": 28,
+      "question": "Guillain-Barré syndrome shows what finding on spinal MRI?",
+      "choices": [
+        "Intramedullary T2 hyperintensity",
+        "Enhancement and thickening of cauda equina nerve roots",
+        "Long-segment cord edema",
+        "Epidural hematoma",
+        "Vertebral body marrow replacement"
+      ],
+      "answer": "B",
+      "detail": "MRI of the spine in Guillain-Barré syndrome characteristically shows thickening and enhancement of the nerve roots of the cauda equina."
+    },
+    {
+      "number": 29,
+      "question": "Which of the following is a differential diagnosis for 'inverted V' T2 prolongation in the dorsal columns?",
+      "choices": [
+        "Multiple sclerosis",
+        "Tabes dorsalis (Tertiary syphilis)",
+        "Subacute combined degeneration (B12 deficiency)",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": "D",
+      "detail": "The 'inverted V' sign of the dorsal columns can be caused by vitamin B12 deficiency, syphilis, or MS."
+    },
+    {
+      "number": 30,
+      "question": "Intramedullary neurosarcoidosis often presents with which associated extra-axial finding?",
+      "choices": [
+        "Dural tail",
+        "Diffuse or nodular leptomeningeal enhancement",
+        "Enlarged pituitary gland",
+        "Subdural hematoma",
+        "Skull base osteolysis"
+      ],
+      "answer": "B",
+      "detail": "Spinal cord sarcoidosis is frequently associated with leptomeningeal enhancement, which can be diffuse or nodular."
+    }
+  ]
+}

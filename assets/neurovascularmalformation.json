@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Which of the following best describes the pathophysiology of a cerebral arteriovenous malformation (AVM)?",
+      "choices": [
+        "A direct communication between dural arteries and a dural sinus.",
+        "Directly connecting arteries and veins without an intervening capillary bed.",
+        "Dilation of small capillaries with interspersed normal brain.",
+        "High-flow shunting into an enlarged median prosencephalic vein.",
+        "Slow-flow venous channels with no arterial component."
+      ],
+      "answer": "B",
+      "detail": "Cerebral AVMs consist of a nidus that directly connects arteries and veins, lacking the normal intervening capillary bed."
+    },
+    {
+      "number": 2,
+      "question": "The Spetzler-Martin scale is used to evaluate surgical risk for AVM resection. Which of the following scenarios represents the highest risk?",
+      "choices": [
+        "A small (<3 cm) AVM in the non-eloquent cortex.",
+        "A medium (3–6 cm) AVM with superficial venous drainage.",
+        "A large (>6 cm) AVM draining to deep venous sinuses in eloquent cortex.",
+        "An AVM with only superficial cortical venous drainage.",
+        "An AVM located in the frontal lobe pole."
+      ],
+      "answer": "C",
+      "detail": "Highest surgical risk is associated with large size (>6 cm), deep venous drainage, and location within eloquent brain tissue."
+    },
+    {
+      "number": 3,
+      "question": "What is a key imaging characteristic of a cerebral AVM regarding its effect on adjacent brain tissue?",
+      "choices": [
+        "It causes significant mass effect and midline shift.",
+        "It is typically surrounded by a thick rim of vasogenic edema.",
+        "It replaces rather than displaces brain tissue, causing minimal mass effect.",
+        "It always presents with an associated developmental venous anomaly.",
+        "It is characterized by intense, homogeneous enhancement of a solid mass."
+      ],
+      "answer": "C",
+      "detail": "Uncomplicated AVMs replace brain parenchyma rather than displacing it, leading to a lack of significant mass effect or surrounding edema."
+    },
+    {
+      "number": 4,
+      "question": "A dural arteriovenous fistula (dAVF) is an acquired lesion characterized by shunting from which source?",
+      "choices": [
+        "A pial artery to a cortical vein.",
+        "A thalamoperforator branch to the deep venous system.",
+        "A dural artery to a dural sinus or cortical vein.",
+        "A cavernous carotid artery to the cavernous sinus.",
+        "A vertebral artery branch to the epidural plexus."
+      ],
+      "answer": "C",
+      "detail": "dAVFs are characterized by abnormal shunting from dural arteries into a dural sinus or a cortical vein."
+    },
+    {
+      "number": 5,
+      "question": "According to the classification of dAVFs, which type carries the highest risk of hemorrhage (66%)?",
+      "choices": [
+        "Type I: No cortical venous drainage.",
+        "Type IIA: Reflux into dural sinus but not cortical veins.",
+        "Type III: Direct cortical venous drainage.",
+        "Type IV: Direct cortical venous drainage with venous ectasia.",
+        "Type V: Spinal venous drainage."
+      ],
+      "answer": "D",
+      "detail": "Type IV dAVFs, which feature direct cortical venous drainage and venous ectasia, carry the highest statistical risk of hemorrhage."
+    },
+    {
+      "number": 6,
+      "question": "Which pediatric vascular malformation is the most common extracardiac cause of high-output cardiac failure in infants?",
+      "choices": [
+        "Arteriovenous malformation (AVM).",
+        "Vein of Galen malformation.",
+        "Capillary telangiectasia.",
+        "Developmental venous anomaly.",
+        "Cavernous malformation."
+      ],
+      "answer": "B",
+      "detail": "The Vein of Galen malformation is the leading extracardiac cause of high-output heart failure in the neonatal/infant population."
+    },
+    {
+      "number": 7,
+      "question": "In a Vein of Galen malformation, the 'enlarged vein' is actually which structure?",
+      "choices": [
+        "The Straight Sinus.",
+        "The Superior Sagittal Sinus.",
+        "The median prosencephalic vein.",
+        "The Basal Vein of Rosenthal.",
+        "The Internal Cerebral Vein."
+      ],
+      "answer": "C",
+      "detail": "The structure classically referred to as the 'vein' in this malformation is actually an embryonic precursor, the median prosencephalic vein."
+    },
+    {
+      "number": 8,
+      "question": "Which low-flow lesion is characterized on MRI by a hypointense rim and central hyperintensity, often showing no appreciable enhancement?",
+      "choices": [
+        "Developmental venous anomaly (DVA).",
+        "Capillary telangiectasia.",
+        "Cavernous malformation (cavernoma).",
+        "Dural arteriovenous fistula.",
+        "Glomus tumor."
+      ],
+      "answer": "C",
+      "detail": "Cavernomas feature a characteristic 'popcorn' appearance with a central mixed-signal core and a surrounding dark hemosiderin rim."
+    },
+    {
+      "number": 9,
+      "question": "What is the clinical significance of a Developmental Venous Anomaly (DVA)?",
+      "choices": [
+        "It has a high risk of spontaneous hemorrhage.",
+        "It is a 'Do Not Touch' lesion that provides functional drainage to normal brain.",
+        "It must be resected if an adjacent cavernous malformation is removed.",
+        "It is most commonly found in the brainstem.",
+        "It characteristically shows restricted diffusion on DWI."
+      ],
+      "answer": "B",
+      "detail": "DVAs are considered 'Do Not Touch' lesions because they provide essential venous drainage to normal brain tissue and should not be resected."
+    },
+    {
+      "number": 10,
+      "question": "On contrast-enhanced MRI, a 'caput medusa' appearance (radially oriented veins) is diagnostic of which lesion?",
+      "choices": [
+        "AVM.",
+        "Capillary telangiectasia.",
+        "Developmental venous anomaly (DVA).",
+        "Vein of Galen malformation.",
+        "dAVF."
+      ],
+      "answer": "C",
+      "detail": "The 'caput medusa' appearance is pathognomonic for a DVA, representing multiple small medullary veins draining into a single dominant collector vein."
+    },
+    {
+      "number": 11,
+      "question": "A 'brush-stroke-like' enhancing lesion in the pons, characterized by interspersed normal brain and susceptibility blooming on GRE, is most likely:",
+      "choices": [
+        "A pontine glioma.",
+        "A cavernous malformation.",
+        "A capillary telangiectasia.",
+        "A subacute infarct.",
+        "A DVA."
+      ],
+      "answer": "C",
+      "detail": "Capillary telangiectasias are characteristically found in the pons and demonstrate faint 'brush-stroke' enhancement and blooming artifact."
+    },
+    {
+      "number": 12,
+      "question": "What is the most common spinal vascular malformation?",
+      "choices": [
+        "Intramedullary glomus AVM.",
+        "Juvenile/metameric AVM.",
+        "Dural arteriovenous fistula (dAVF).",
+        "Pial AVF.",
+        "Cavernous malformation."
+      ],
+      "answer": "C",
+      "detail": "Spinal dAVFs are the most common vascular malformations of the spine."
+    },
+    {
+      "number": 13,
+      "question": "'Foix-Alajouanine myelopathy' is an eponym for congestive myelopathy caused by:",
+      "choices": [
+        "Acute spinal cord infarction.",
+        "Compression by a herniated disc.",
+        "Spinal dAVF.",
+        "Radiation necrosis.",
+        "Multiple sclerosis."
+      ],
+      "answer": "C",
+      "detail": "Foix-Alajouanine myelopathy refers to the progressive neurologic decline caused by venous congestion from a spinal dAVF."
+    },
+    {
+      "number": 14,
+      "question": "A 65-year-old male presents with progressive lower extremity weakness. MRI shows a long segment of cord edema and serpentine intradural flow voids. This is highly suggestive of:",
+      "choices": [
+        "Transverse myelitis.",
+        "Spinal cord metastasis.",
+        "Spinal dAVF.",
+        "Cord compression from spinal stenosis.",
+        "Spinal cord infarction."
+      ],
+      "answer": "C",
+      "detail": "The hallmark of a spinal dAVF is a long segment of spinal cord edema accompanied by serpentine venous flow voids on the cord surface."
+    },
+    {
+      "number": 15,
+      "question": "In cases of spinal cavernous malformations, what is the most common location?",
+      "choices": [
+        "Cervical cord.",
+        "Thoracic cord.",
+        "Conus medullaris.",
+        "Filum terminale.",
+        "Cauda equina"
+      ],
+      "answer": "B",
+      "detail": "While they can occur anywhere, spinal cavernomas are most frequently located in the thoracic segment of the spinal cord."
+    }
+  ]
+}

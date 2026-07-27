@@ -1,0 +1,261 @@
+{
+  "questions": [
+    {
+      "number": 21,
+      "question": "A mass that displaces the parapharyngeal space (PPS) fat anteromedially likely originates in the:",
+      "choices": [
+        "Masticator space",
+        "Parotid space",
+        "Carotid space",
+        "Retropharyngeal space",
+        "Sublingual space"
+      ],
+      "answer": "B",
+      "detail": "Displacement of the **parapharyngeal space (PPS) fat** is a key imaging clue. A mass that displaces this fat **anteromedially** likely originates in the **parotid space**."
+    },
+    {
+      "number": 22,
+      "question": "A mass that displaces the parapharyngeal space (PPS) fat posteromedially likely originates in the:",
+      "choices": [
+        "Parotid space",
+        "Carotid space",
+        "Masticator space",
+        "Buccal space",
+        "Pharyngeal mucosal space"
+      ],
+      "answer": "C",
+      "detail": "A mass that displaces the PPS fat **posteromedially** likely originates in the **masticator space**."
+    },
+    {
+      "number": 23,
+      "question": "A mass that displaces the parapharyngeal space (PPS) fat anteriorly likely originates in the:",
+      "choices": [
+        "Masticator space",
+        "Parotid space",
+        "Carotid space",
+        "Submandibular space",
+        "Oral cavity"
+      ],
+      "answer": "C",
+      "detail": "A mass that displaces the PPS fat **anteriorly** likely originates in the **carotid space**."
+    },
+    {
+      "number": 24,
+      "question": "The carotid space is also known as the:",
+      "choices": [
+        "Prestyloid parapharyngeal space",
+        "Post-styloid parapharyngeal space",
+        "Perivertebral space",
+        "Danger space",
+        "Visceral space"
+      ],
+      "answer": "B",
+      "detail": "The **carotid space** is synonymous with the **post-styloid parapharyngeal space**."
+    },
+    {
+      "number": 25,
+      "question": "Which cranial nerve travels the entire length of the carotid space into the thorax?",
+      "choices": [
+        "CN IX (Glossopharyngeal)",
+        "CN X (Vagus)",
+        "CN XI (Spinal Accessory)",
+        "CN XII (Hypoglossal)",
+        "Sympathetic chain"
+      ],
+      "answer": "B",
+      "detail": "The **vagus nerve (CN X)** travels the entire length of the carotid space and continues into the thorax."
+    },
+    {
+      "number": 26,
+      "question": "The carotid space extends from the skull base to the:",
+      "choices": [
+        "Hyoid bone",
+        "Cricoid cartilage",
+        "Aortic arch",
+        "Diaphragm",
+        "Bifurcation of the trachea"
+      ],
+      "answer": "C",
+      "detail": "The **carotid space** extends from the base of the skull to the level of the **aortic arch**."
+    },
+    {
+      "number": 27,
+      "question": "Does the carotid space contain numerous internal lymph nodes?",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "answer": "B",
+      "detail": "The carotid space does not contain any internal lymph nodes, although there are nodes that surround it."
+    },
+    {
+      "number": 28,
+      "question": "The retropharyngeal space is separated from the pharynx by which fascia?",
+      "choices": [
+        "Alar fascia",
+        "Prevertebral fascia",
+        "Pharyngobasilar fascia",
+        "Carotid sheath",
+        "Buccopharyngeal fascia"
+      ],
+      "answer": "C",
+      "detail": "The **pharyngobasilar fascia** is the structure that separates the **retropharyngeal space** from the pharynx."
+    },
+    {
+      "number": 29,
+      "question": "The 'danger space' is located directly posterior to which fascia?",
+      "choices": [
+        "Pharyngobasilar fascia",
+        "Alar fascia",
+        "Prevertebral fascia",
+        "Buccopharyngeal fascia",
+        "Superficial cervical fascia"
+      ],
+      "answer": "B",
+      "detail": "The **danger space** is situated directly posterior to the **alar fascia**."
+    },
+    {
+      "number": 30,
+      "question": "Why is the 'danger space' clinically significant?",
+      "choices": [
+        "It contains the internal carotid artery.",
+        "It acts as a trapdoor for infection to travel from the neck to the diaphragm.",
+        "It is the primary site for metastatic SCC nodes.",
+        "It contains the vagus nerve.",
+        "It is the only space that crosses the midline."
+      ],
+      "answer": "B",
+      "detail": "The **danger space** is clinically important because it acts as a **trapdoor** for infections to spread from the neck down to the diaphragm."
+    },
+    {
+      "number": 31,
+      "question": "The retropharyngeal space extends from the skull base to the:",
+      "choices": [
+        "Hyoid bone",
+        "Thoracic inlet",
+        "Upper mediastinum",
+        "Diaphragm",
+        "Larynx"
+      ],
+      "answer": "C",
+      "detail": "The **retropharyngeal space** extends from the skull base to the **upper mediastinum**."
+    },
+    {
+      "number": 32,
+      "question": "What is the most common malignant lesion found in the retropharyngeal space?",
+      "choices": [
+        "Primary liposarcoma",
+        "Malignant lymphadenopathy",
+        "Chordoma",
+        "Rhabdomyosarcoma",
+        "Neuroblastoma"
+      ],
+      "answer": "B",
+      "detail": "The most common malignant finding in the retropharyngeal space is **malignant lymphadenopathy**, often from nasopharyngeal squamous cell carcinoma."
+    },
+    {
+      "number": 33,
+      "question": "Primary tumors from which two sites are most frequently associated with retropharyngeal lymphadenopathy?",
+      "choices": [
+        "Oral cavity and Larynx",
+        "Nasopharynx and Thyroid (Papillary)",
+        "Parotid and Submandibular glands",
+        "Lung and Breast",
+        "Esophagus and Trachea"
+      ],
+      "answer": "B",
+      "detail": "Retropharyngeal lymphadenopathy is most frequently associated with primary tumors from the **nasopharynx** and **papillary thyroid** (along with melanoma)."
+    },
+    {
+      "number": 34,
+      "question": "A medially deviated internal carotid artery is an important 'Do Not Touch' variant because it can be injured during:",
+      "choices": [
+        "Parotidectomy",
+        "Spine surgery",
+        "Thyroidectomy",
+        "Dental extraction",
+        "Orbital decompression"
+      ],
+      "answer": "B",
+      "detail": "A **medially deviated internal carotid artery** is a critical 'Do Not Touch' variant due to the risk of injury during **spine surgery**."
+    },
+    {
+      "number": 35,
+      "question": "The masticator space contains which major nerve?",
+      "choices": [
+        "CN V1",
+        "CN V2",
+        "CN V3 (Mandibular nerve)",
+        "CN VII",
+        "CN XII"
+      ],
+      "answer": "C",
+      "detail": "The **mandibular nerve (CN V3)** is the primary nerve found within the masticator space."
+    },
+    {
+      "number": 36,
+      "question": "Most infections in the masticator space are of which origin?",
+      "choices": [
+        "Tonsillar",
+        "Odontogenic (dental)",
+        "Sinusitis",
+        "Otogenic",
+        "Traumatic"
+      ],
+      "answer": "B",
+      "detail": "The majority of infections in the masticator space are of **odontogenic (dental)** origin."
+    },
+    {
+      "number": 37,
+      "question": "Which benign tumor is the most common mass arising from the deep portion of the parotid gland to involve the parapharyngeal space (PPS)?",
+      "choices": [
+        "Warthin tumor",
+        "Schwannoma",
+        "Pleomorphic adenoma",
+        "Oncocytoma",
+        "Paraganglioma"
+      ],
+      "answer": "C",
+      "detail": "The most common mass extending from the deep parotid lobe into the PPS is a **pleomorphic adenoma**."
+    },
+    {
+      "number": 38,
+      "question": "Second branchial cleft cysts characteristically present in which space?",
+      "choices": [
+        "Masticator space",
+        "Parapharyngeal space (PPS)",
+        "Retropharyngeal space",
+        "Sublingual space",
+        "Prevertebral space"
+      ],
+      "answer": "B",
+      "detail": "**Second branchial cleft cysts** characteristically present in the **parapharyngeal space**."
+    },
+    {
+      "number": 39,
+      "question": "Schwannomas in the parapharyngeal space (PPS) usually arise from the sympathetic plexus or which nerve?",
+      "choices": [
+        "CN VII",
+        "CN V2",
+        "CN V3 (Mandibular)",
+        "CN X",
+        "CN XII"
+      ],
+      "answer": "C",
+      "detail": "In the parapharyngeal space, schwannomas typically arise from the **mandibular nerve (CN V3)** or the sympathetic plexus."
+    },
+    {
+      "number": 40,
+      "question": "Malignant tumors of the prestyloid parapharyngeal space are rare but most frequently of which origin?",
+      "choices": [
+        "Neural crest",
+        "Lymphatic",
+        "Salivary gland",
+        "Vascular",
+        "Muscular"
+      ],
+      "answer": "C",
+      "detail": "Primary malignant tumors of the **prestyloid parapharyngeal space** are rare and most often of **salivary gland** origin."
+    }
+  ]
+}

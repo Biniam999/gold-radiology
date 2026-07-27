@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "The 'venous angle,' a key angiographic landmark for the foramen of Monro, is formed by the intersection of which two veins?",
+      "choices": [
+        "Internal cerebral vein and vein of Galen",
+        "Basal vein of Rosenthal and internal cerebral vein",
+        "Septal vein and thalamostriate vein",
+        "Vein of Trolard and vein of Labbé",
+        "Superior sagittal sinus and straight sinus"
+      ],
+      "answer": "C",
+      "detail": "The intersection of the septal vein and the thalamostriate vein forms the venous angle, which serves as a vital landmark for the foramen of Monro."
+    },
+    {
+      "number": 2,
+      "question": "Which superficial cerebral vein characteristically drains the temporal convexity into the transverse or sigmoid sinus?",
+      "choices": [
+        "Vein of Trolard",
+        "Vein of Labbé",
+        "Basal vein of Rosenthal",
+        "Internal cerebral vein",
+        "Septal vein"
+      ],
+      "answer": "B",
+      "detail": "The vein of Labbé is the inferior anastomotic vein that drains the temporal convexity into the lateral dural sinuses (transverse or sigmoid)."
+    },
+    {
+      "number": 3,
+      "question": "During neurosurgery, retraction injury to which specific vein may result in a posterior temporal lobe venous infarction?",
+      "choices": [
+        "Vein of Trolard",
+        "Vein of Labbé",
+        "Internal cerebral vein",
+        "Vein of Galen",
+        "Basal vein of Rosenthal"
+      ],
+      "answer": "B",
+      "detail": "Injury or surgical retraction of the vein of Labbé is a known cause of venous infarction in the posterior temporal lobe."
+    },
+    {
+      "number": 4,
+      "question": "On a noncontrast head CT, increased density (high attenuation) within a thrombosed dural sinus or cortical vein is known as the:",
+      "choices": [
+        "Ivy sign",
+        "Empty delta sign",
+        "Cord sign",
+        "T-sign",
+        "Trough sign"
+      ],
+      "answer": "C",
+      "detail": "The 'cord sign' represents the hyperdense appearance of a fresh thrombus within a vein or sinus on a noncontrast CT."
+    },
+    {
+      "number": 5,
+      "question": "The 'empty delta sign,' indicative of a filling defect in the superior sagittal sinus, is a diagnostic feature of venous thrombosis seen on which imaging study?",
+      "choices": [
+        "Noncontrast CT",
+        "Contrast-enhanced CT",
+        "T2-weighted MRI",
+        "Diffusion-weighted MRI",
+        "Catheter angiography (arterial phase)"
+      ],
+      "answer": "B",
+      "detail": "The empty delta sign is seen on contrast-enhanced CT scans, where contrast outlines the dural walls but fails to fill the thrombosed center of the superior sagittal sinus."
+    },
+    {
+      "number": 6,
+      "question": "Thrombosis of the superior sagittal sinus characteristically leads to venous infarction in which location?",
+      "choices": [
+        "Bilateral thalami",
+        "Posterior temporal lobe",
+        "Parasagittal high convexity cortex",
+        "Basal ganglia",
+        "Cerebellar hemispheres"
+      ],
+      "answer": "C",
+      "detail": "Superior sagittal sinus thrombosis classically results in venous congestion and infarction in the parasagittal high convexity cortex."
+    },
+    {
+      "number": 7,
+      "question": "Infarction of the bilateral thalami is a classic imaging pattern associated with thrombosis of which part of the venous system?",
+      "choices": [
+        "Superior sagittal sinus",
+        "Transverse sinus",
+        "Deep venous system",
+        "Cortical veins",
+        "Cavernous sinus"
+      ],
+      "answer": "C",
+      "detail": "Bilateral thalamic infarction (often with associated basal ganglia involvement) is the hallmark of deep venous system thrombosis."
+    },
+    {
+      "number": 8,
+      "question": "Thrombosis of the transverse sinus most commonly results in a venous infarction involving the:",
+      "choices": [
+        "Frontal pole",
+        "Medulla",
+        "Posterior temporal lobe",
+        "Corpus callosum",
+        "Thalamus"
+      ],
+      "answer": "C",
+      "detail": "Transverse sinus thrombosis (often involving the vein of Labbé) characteristically leads to infarction of the posterior temporal lobe."
+    },
+    {
+      "number": 9,
+      "question": "Which of the following is NOT listed as a common risk factor for cerebral venous thrombosis?",
+      "choices": [
+        "Pregnancy",
+        "Oral contraceptives",
+        "Thrombophilia",
+        "Malignancy",
+        "Chronic hypertension"
+      ],
+      "answer": "E",
+      "detail": "While chronic hypertension is a major risk factor for arterial stroke and hypertensive hemorrhage, it is not a primary risk factor for venous thrombosis, which is more strongly linked to prothrombotic states and malignancy."
+    },
+    {
+      "number": 10,
+      "question": "On MRI, an acute venous thrombus typically appears hyperintense on which two sequences?",
+      "choices": [
+        "T1 and T2-FLAIR",
+        "T1 and ADC",
+        "T2 and DWI",
+        "GRE and SWI",
+        "ADC and T2-FLAIR"
+      ],
+      "answer": "A",
+      "detail": "Acute venous thrombus characteristically demonstrates hyperintensity on both T1-weighted and T2-FLAIR sequences."
+    }
+  ]
+}

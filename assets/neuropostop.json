@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "What are the three general categories of spine procedures?",
+      "choices": [
+        "Inpatient, outpatient, and emergency",
+        "Stabilization/fusion, decompression, and lesion excision",
+        "Cervical, thoracic, and lumbar",
+        "Anterior, posterior, and lateral",
+        "Major, minor, and diagnostic"
+      ],
+      "answer": "B",
+      "detail": "Spine procedures are generally categorized into stabilization/fusion, decompression, and lesion excision."
+    },
+    {
+      "number": 2,
+      "question": "When instrumented fusion is performed, imaging must primarily evaluate for:",
+      "choices": [
+        "Hardware failure (fracture)",
+        "Screw position",
+        "Healing of the fusion mass",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": "D",
+      "detail": "Postoperative imaging for instrumented fusion evaluates hardware failure, screw position, and the healing of the fusion mass."
+    },
+    {
+      "number": 3,
+      "question": "Lucency surrounding spinal screws on CT or radiographs suggests:",
+      "choices": [
+        "Normal healing",
+        "Hardware loosening",
+        "Successful fusion",
+        "Epidural lipomatosis",
+        "Postoperative hemorrhage"
+      ],
+      "answer": "B",
+      "detail": "The presence of lucency around spinal screws is a radiographic sign suggesting hardware loosening."
+    },
+    {
+      "number": 4,
+      "question": "Patients with spinal fusion are at an increased risk for:",
+      "choices": [
+        "Acute vitamin deficiency",
+        "Future fractures due to altered biomechanics",
+        "Congenital dysraphism",
+        "Multiple sclerosis",
+        "Spontaneous regression of old discs"
+      ],
+      "answer": "B",
+      "detail": "Because spinal fusion alters the biomechanics of the spine, patients are at an increased risk for future fractures."
+    },
+    {
+      "number": 5,
+      "question": "In a patient with recurrent pain after decompression, what imaging technique helps differentiate recurrent disc from scar?",
+      "choices": [
+        "Noncontrast CT",
+        "STIR MRI",
+        "Intravenous contrast-enhanced MRI",
+        "Diffusion-weighted imaging",
+        "MR spectroscopy"
+      ],
+      "answer": "C",
+      "detail": "Intravenous contrast-enhanced MRI is the preferred imaging technique to distinguish between a recurrent disc and postoperative scar tissue."
+    },
+    {
+      "number": 6,
+      "question": "A recurrent disc herniation on post-contrast MRI typically:",
+      "choices": [
+        "Enhances homogeneously",
+        "Does not enhance, or enhances only peripherally",
+        "Shows restricted diffusion",
+        "Follows fat signal",
+        "Is always hypointense on T2"
+      ],
+      "answer": "B",
+      "detail": "On post-contrast MRI, a recurrent disc herniation typically shows no enhancement or only peripheral enhancement."
+    },
+    {
+      "number": 7,
+      "question": "Postoperative scar and granulation tissue characteristically demonstrate:",
+      "choices": [
+        "Absence of enhancement",
+        "Homogeneous contrast enhancement",
+        "\"Machine oil\" signal",
+        "Peripheral hemosiderin cap",
+        "Dense calcification"
+      ],
+      "answer": "B",
+      "detail": "In contrast to a recurrent disc, postoperative scar and granulation tissue characteristically show homogeneous contrast enhancement."
+    },
+    {
+      "number": 8,
+      "question": "Which complication involves degeneration of the spinal levels above or below a fusion?",
+      "choices": [
+        "Arachnoiditis",
+        "Adjacent segment degeneration",
+        "Failed back surgery syndrome",
+        "Spondylolysis",
+        "Gibbus deformity"
+      ],
+      "answer": "B",
+      "detail": "Adjacent segment degeneration refers to the degeneration of spinal levels directly above or below a site of fusion."
+    },
+    {
+      "number": 9,
+      "question": "Post-surgical changes of laminectomies are often performed to decompress stenosis caused by:",
+      "choices": [
+        "OPLL",
+        "Epidural lipomatosis",
+        "Disc herniations",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": "D",
+      "detail": "Laminectomies are used to treat spinal stenosis resulting from ossification of the posterior longitudinal ligament (OPLL), epidural lipomatosis, or disc herniations."
+    },
+    {
+      "number": 10,
+      "question": "\"Failed back surgery syndrome\" (recurrent/persistent pain) is a potential indication to look for:",
+      "choices": [
+        "Arachnoiditis",
+        "Recurrent disc",
+        "Hardware failure",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": "D",
+      "detail": "If a patient experiences failed back surgery syndrome, imaging is used to look for causes such as arachnoiditis, recurrent discs, or hardware failure."
+    },
+    {
+      "number": 11,
+      "question": "On MRI, how does a fractured screw typically appear?",
+      "choices": [
+        "As a lucency in the bone",
+        "As a discrete break in the metal hardware",
+        "As a T2 hyperintense signal",
+        "As an \"empty thecal sac\" sign",
+        "As a \"white cerebellum\" sign"
+      ],
+      "answer": "B",
+      "detail": "A fractured screw is identified on MRI as a discrete break in the metal hardware."
+    },
+    {
+      "number": 12,
+      "question": "A patient presents with new gait difficulty months after a cervical tumor excision. Imaging should specifically evaluate for:",
+      "choices": [
+        "Lesion recurrence",
+        "Hardware loosening (if fused)",
+        "Cord edema or syrinx",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": "D",
+      "detail": "Imaging after tumor excision for new neurological symptoms should evaluate for recurrence, hardware issues, or spinal cord changes like edema or a syrinx."
+    },
+    {
+      "number": 13,
+      "question": "Epidural hematoma following surgery can contribute to:",
+      "choices": [
+        "Severe spinal stenosis and cord compression",
+        "Widening of the interspinous distance",
+        "\"Scotty dog\" decapitation",
+        "OPLL",
+        "Fossa navicularis"
+      ],
+      "answer": "A",
+      "detail": "A postoperative epidural hematoma is a serious complication that can cause severe spinal stenosis and compress the spinal cord."
+    },
+    {
+      "number": 14,
+      "question": "Contrast enhancement of a disc protrusion suggests it is:",
+      "choices": [
+        "A sequestered fragment",
+        "Granulation tissue or scar (if homogeneous)",
+        "A malignant tumor",
+        "Intramedullary",
+        "Normal"
+      ],
+      "answer": "B",
+      "detail": "Homogeneous contrast enhancement of what appears to be a disc protrusion suggests that the tissue is actually scar or granulation tissue."
+    },
+    {
+      "number": 15,
+      "question": "Instrumented fusion usually involves which anatomical parts?",
+      "choices": [
+        "Disc spaces and vertebral bodies",
+        "Pedicles and posterior elements (screws/rods)",
+        "Only the spinal cord",
+        "Only the skin",
+        "The basion and dental interval"
+      ],
+      "answer": "B",
+      "detail": "Instrumented fusion typically involves the surgical placement of hardware like screws and rods into the pedicles and posterior elements."
+    },
+    {
+      "number": 16,
+      "question": "\"Zuckerguss\" (sugar-coating) on spinal nerve roots is an imaging sign of:",
+      "choices": [
+        "Normal postoperative scar",
+        "Leptomeningeal metastatic disease",
+        "Epidural lipomatosis",
+        "Spondylolysis",
+        "Spinal cord infarction"
+      ],
+      "answer": "B",
+      "detail": "The \"Zuckerguss\" or sugar-coating appearance on imaging is characteristic of leptomeningeal metastatic disease."
+    },
+    {
+      "number": 17,
+      "question": "The \"empty thecal sac sign\" is a marker of which condition?",
+      "choices": [
+        "Normal anatomy",
+        "Group 2 adhesive arachnoiditis",
+        "Spinal cord herniation",
+        "Epidural abscess",
+        "CSF leak"
+      ],
+      "answer": "B",
+      "detail": "The \"empty thecal sac sign\" is a specific imaging marker used to identify Group 2 adhesive arachnoiditis."
+    },
+    {
+      "number": 18,
+      "question": "\"Foix-Alajouanine myelopathy\" is caused by:",
+      "choices": [
+        "Chronic steroid use",
+        "Spinal dAVF (congestive myelopathy)",
+        "Multiple sclerosis",
+        "Trauma",
+        "B12 deficiency"
+      ],
+      "answer": "B",
+      "detail": "Foix-Alajouanine myelopathy is a congestive myelopathy caused by a spinal dural arteriovenous fistula (dAVF)."
+    },
+    {
+      "number": 19,
+      "question": "The \"scalpel sign\" on sagittal MRI is diagnostic of:",
+      "choices": [
+        "Flexion teardrop fracture",
+        "Arachnoid web",
+        "Epidural lipomatosis",
+        "Neurenteric cyst",
+        "Spinal cord infarction"
+      ],
+      "answer": "B",
+      "detail": "The \"scalpel sign\" seen on sagittal MRI scans is considered diagnostic for an arachnoid web."
+    },
+    {
+      "number": 20,
+      "question": "\"Poor Scotty\" is decapitated (pars interarticularis defect) in which condition?",
+      "choices": [
+        "Epidural lipomatosis",
+        "Spondylolysis",
+        "OPLL",
+        "Hangman's fracture",
+        "Locked facets"
+      ],
+      "answer": "B",
+      "detail": "In spondylolysis, the \"Scotty dog\" seen on oblique radiographs appears decapitated due to a defect in the pars interarticularis."
+    }
+  ]
+}

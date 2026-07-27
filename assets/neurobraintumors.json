@@ -1,0 +1,849 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "What are the '3 H’s' used to identify potential surgical emergencies complicating a brain tumor on CT?",
+      "choices": [
+        "Headache, Hemianopsia, and Hyperreflexia",
+        "Hemorrhage, Hydrocephalus, and Herniation",
+        "Hypertension, Hyperthermia, and Hypernatremia",
+        "Hematoma, Hydranencephaly, and Hyperostosis",
+        "Hypoxia, Hypoglycemia, and Hyponatremia"
+      ],
+      "answer": "B",
+      "detail": "The '3 H’s'—Hemorrhage, Hydrocephalus, and Herniation—are the primary complications of brain tumors that may require emergent surgical intervention."
+    },
+    {
+      "number": 2,
+      "question": "Which of the following is an imaging sign of an extra-axial mass?",
+      "choices": [
+        "Absence of intervening gray matter between the mass and white matter",
+        "Encasement of the internal carotid artery",
+        "Interposition of gray matter between the mass and white matter",
+        "Direct infiltration into the corpus callosum",
+        "Uniform vasogenic edema within the deep white matter"
+      ],
+      "answer": "C",
+      "detail": "Extra-axial masses characteristically show interposition of gray matter between the mass and white matter, as well as a 'CSF cleft'."
+    },
+    {
+      "number": 3,
+      "question": "If a patient over 50 presents with a solitary intra-axial brain mass and has no known history of cancer, the lesion is statistically equally likely to be which two entities?",
+      "choices": [
+        "Meningioma or Schwannoma",
+        "Metastasis or Glioblastoma",
+        "Lymphoma or Abscess",
+        "Ependymoma or Medulloblastoma",
+        "DNET or Ganglioglioma"
+      ],
+      "answer": "B",
+      "detail": "In older adults, a solitary intra-axial mass is most likely to be either a primary glioblastoma or a solitary metastasis."
+    },
+    {
+      "number": 4,
+      "question": "Intrinsic hyperintensity on T1-weighted images in an intra-axial mass, without corresponding susceptibility blooming, should raise suspicion for:",
+      "choices": [
+        "Oligodendroglioma",
+        "Metastatic melanoma",
+        "Pyogenic abscess",
+        "Meningioma",
+        "Primary CNS lymphoma"
+      ],
+      "answer": "B",
+      "detail": "T1 hyperintensity in melanoma is due to the paramagnetic effect of melanin."
+    },
+    {
+      "number": 5,
+      "question": "Which of the following is the most common extra-axial tumor that demonstrates calcification?",
+      "choices": [
+        "Schwannoma",
+        "Meningioma",
+        "Epidermoid cyst",
+        "Chordoma",
+        "Lipoma"
+      ],
+      "answer": "B",
+      "detail": "Meningiomas are the most common extra-axial tumors to show calcification."
+    },
+    {
+      "number": 6,
+      "question": "The 'vast majority' of which intra-axial tumor is characterized by the presence of calcification?",
+      "choices": [
+        "Glioblastoma",
+        "Oligodendroglioma",
+        "Lymphoma",
+        "Hemangioblastoma",
+        "Metastatic lung cancer"
+      ],
+      "answer": "B",
+      "detail": "Calcification is a hallmark of oligodendrogliomas, seen in up to 90% of cases."
+    },
+    {
+      "number": 7,
+      "question": "Which triad of tumors is characteristically associated with internal fat on imaging?",
+      "choices": [
+        "Meningioma, Schwannoma, and Chordoma",
+        "Lipoma, Dermoid cyst, and Teratoma",
+        "GBM, Metastasis, and Lymphoma",
+        "JPA, Ependymoma, and Medulloblastoma",
+        "Colloid cyst, Rathke’s cleft cyst, and Epidermoid"
+      ],
+      "answer": "B",
+      "detail": "Lipomas, dermoid cysts, and teratomas are the primary intracranial tumors containing fat."
+    },
+    {
+      "number": 8,
+      "question": "According to the WHO classification, diffuse gliomas are rarely curable and are graded from:",
+      "choices": [
+        "1 to 2",
+        "1 to 4",
+        "2 to 4",
+        "3 to 4",
+        "Grade 4 only"
+      ],
+      "answer": "C",
+      "detail": "Diffuse gliomas are infiltrative and graded 2–4; WHO grade 1 localized gliomas are often curable."
+    },
+    {
+      "number": 9,
+      "question": "Most glioblastomas are 'IDH-wildtype,' a status that confers which clinical implication compared to IDH-mutant tumors?",
+      "choices": [
+        "Better prognosis",
+        "Worse prognosis",
+        "Higher likelihood of being a low-grade tumor",
+        "Higher rates of calcification",
+        "Predilection for pediatric patients"
+      ],
+      "answer": "B",
+      "detail": "IDH-wildtype status is a marker for more aggressive behavior and worse prognosis in glioblastomas."
+    },
+    {
+      "number": 10,
+      "question": "What defines a 'butterfly glioblastoma'?",
+      "choices": [
+        "A tumor centered in the temporal lobe",
+        "A tumor crossing the midline via the corpus callosum",
+        "A tumor with cystic components and a mural nodule",
+        "A tumor restricted to the posterior fossa",
+        "A tumor connects multiple lobes without crossing the midline"
+      ],
+      "answer": "B",
+      "detail": "A butterfly GBM is a high-grade glioma that crosses the midline, typically through the corpus callosum."
+    },
+    {
+      "number": 11,
+      "question": "The 'T2-FLAIR mismatch sign' is highly specific for identifying which specific molecular subtype of glioma?",
+      "choices": [
+        "IDH-wildtype glioblastoma",
+        "1p19q-codeleted oligodendroglioma",
+        "1p19q-non-codeleted IDH-mutant astrocytoma",
+        "H3 K27M-mutant midline glioma",
+        "BRAF-mutant pilocytic astrocytoma"
+      ],
+      "answer": "C",
+      "detail": "This sign describes a mass that is hyperintense on T2 but hypointense on FLAIR."
+    },
+    {
+      "number": 12,
+      "question": "Which imaging feature is specific for 1p19q-codeleted IDH-mutant oligodendroglioma?",
+      "choices": [
+        "Thick, irregular ring enhancement",
+        "'Toothpaste' tumor filling the 4th ventricle",
+        "Expansile, cortical-based mass with gyriform calcification",
+        "'Ice cream cone' appearance in the CPA",
+        "Homogeneous restricted diffusion"
+      ],
+      "answer": "C",
+      "detail": "Oligodendrogliomas are characteristically expansile, cortical-based, and frequently calcified."
+    },
+    {
+      "number": 13,
+      "question": "Supratentorial cortical primary neoplasms (the 'P-DOG MD' group) most commonly present with which clinical symptom?",
+      "choices": [
+        "Obstructive hydrocephalus",
+        "Sudden onset hemiparesis",
+        "Seizures",
+        "Ataxia",
+        "Visual field defects"
+      ],
+      "answer": "C",
+      "detail": "These cortical-based tumors are highly epileptogenic and frequently present with seizures."
+    },
+    {
+      "number": 14,
+      "question": "A 'bubbly' appearance with a bright rim (hyperintense ring sign) on FLAIR is characteristic of which tumor?",
+      "choices": [
+        "Pleomorphic xanthoastrocytoma (PXA)",
+        "Dysembryoplastic neuroepithelial tumor (DNET)",
+        "Ganglioglioma",
+        "Multinodular and vacuolating neuronal tumor (MVNT)",
+        "Oligodendroglioma"
+      ],
+      "answer": "B",
+      "detail": "DNETs classically appear as 'bubbly' cortical masses with a bright FLAIR rim."
+    },
+    {
+      "number": 15,
+      "question": "Which WHO grade 1 tumor typically appears as a cluster of bubbles (small hyperintense nodules) on T2-weighted imaging, usually without enhancement or mass effect?",
+      "choices": [
+        "DNET",
+        "MVNT",
+        "DIG",
+        "PXA",
+        "Low-grade astrocytoma"
+      ],
+      "answer": "B",
+      "detail": "MVNT typically presents as a non-enhancing cluster of small T2-hyperintense nodules."
+    },
+    {
+      "number": 16,
+      "question": "Pleomorphic xanthoastrocytoma (PXA) is characteristically associated with which MRI finding?",
+      "choices": [
+        "A bubbly appearance on T2",
+        "Gyriform calcification",
+        "An avidly enhancing mass with a cystic component and a 'pial tail'",
+        "'Molar tooth' sign",
+        "Absence of contrast enhancement"
+      ],
+      "answer": "C",
+      "detail": "PXA is often a cystic mass with an enhancing mural nodule and a characteristic 'pial tail'."
+    },
+    {
+      "number": 17,
+      "question": "Which large, multicystic and solid mass is seen in infants and typically causes progressive head enlargement?",
+      "choices": [
+        "Medulloblastoma",
+        "Desmoplastic infantile astrocytoma and ganglioglioma (DIA/DIG)",
+        "Germinoma",
+        "Chordoid glioma",
+        "SEGA"
+      ],
+      "answer": "B",
+      "detail": "DIA/DIG are massive, superficial, multicystic tumors found in infants."
+    },
+    {
+      "number": 18,
+      "question": "Which mnemonic helps remember the main pediatric posterior fossa intra-axial tumors?",
+      "choices": [
+        "MAGIC DR",
+        "MOuSTACHE",
+        "BEAM",
+        "P-DOG MD",
+        "CRITOE"
+      ],
+      "answer": "C",
+      "detail": "BEAM stands for Brainstem glioma, Ependymoma, Astrocytoma (JPA), and Medulloblastoma."
+    },
+    {
+      "number": 19,
+      "question": "What is the most common primary posterior fossa brain neoplasm in adults?",
+      "choices": [
+        "Medulloblastoma",
+        "Hemangioblastoma",
+        "Ependymoma",
+        "Pilocytic astrocytoma",
+        "Chordoma"
+      ],
+      "answer": "B",
+      "detail": "Hemangioblastoma is the most common primary posterior fossa tumor in adults."
+    },
+    {
+      "number": 20,
+      "question": "A 'cauliflower-like' intraventricular mass that avidly enhances in a child is most likely a:",
+      "choices": [
+        "Choroid plexus papilloma",
+        "Ependymoma",
+        "Medulloblastoma",
+        "JPA",
+        "Subependymoma"
+      ],
+      "answer": "A",
+      "detail": "Choroid plexus papillomas are lobulated, cauliflower-like masses within the ventricles."
+    },
+    {
+      "number": 21,
+      "question": "Which posterior fossa tumor is called the 'toothpaste' or 'plastic' tumor because it squeezes through the foramina of Magendie or Luschka?",
+      "choices": [
+        "Medulloblastoma",
+        "Ependymoma",
+        "Pilocytic astrocytoma",
+        "Hemangioblastoma",
+        "Brainstem glioma"
+      ],
+      "answer": "B",
+      "detail": "Ependymomas are 'plastic' and tend to extend through the ventricular foramina into the cisterns."
+    },
+    {
+      "number": 22,
+      "question": "Medulloblastoma is characteristically hyperattenuating on CT and has low ADC values on MRI due to:",
+      "choices": [
+        "High fat content",
+        "High cellularity (densely packed cells)",
+        "Prominent calcification",
+        "Intra-tumoral hemorrhage",
+        "High proteinaceous fluid"
+      ],
+      "answer": "B",
+      "detail": "The high nucleus-to-cytoplasm ratio in medulloblastoma restricts water motion and increases attenuation."
+    },
+    {
+      "number": 23,
+      "question": "'Zuckerguss' (sugar-coating) refers to the imaging appearance of which tumor-related complication?",
+      "choices": [
+        "Calcification of the pineal gland",
+        "Leptomeningeal tumor dissemination over the brain and spine",
+        "Fatty metaplasia of a meningioma",
+        "Microhemorrhages in GBM",
+        "Edema surrounding a metastasis"
+      ],
+      "answer": "B",
+      "detail": "Zuckerguss describes linear enhancement along the brain or cord surface from leptomeningeal spread."
+    },
+    {
+      "number": 24,
+      "question": "What is the most common intracranial germ cell tumor?",
+      "choices": [
+        "Teratoma",
+        "Germinoma",
+        "Choriocarcinoma",
+        "Embryonal carcinoma",
+        "Yolk sac tumor"
+      ],
+      "answer": "B",
+      "detail": "Germinoma is the most common germ cell tumor of the CNS."
+    },
+    {
+      "number": 25,
+      "question": "A tumor that 'engulfs' physiologic pineal calcifications is likely a _________, whereas one that 'explodes' (peripherally displaces) them is likely a _________.",
+      "choices": [
+        "Pineoblastoma; Germinoma",
+        "Germinoma; Pineal parenchymal tumor",
+        "Meningioma; Metastasis",
+        "Chordoma; Chondrosarcoma",
+        "Lipoma; Teratoma"
+      ],
+      "answer": "B",
+      "detail": "Germinomas engulf calcification, while pineal cell tumors displace it peripherally."
+    },
+    {
+      "number": 26,
+      "question": "Which tumor is found in both eyes and the pineal gland in 'trilateral retinoblastoma'?",
+      "choices": [
+        "Medulloblastoma",
+        "Pineoblastoma",
+        "JPA",
+        "Ependymoma",
+        "ATRT"
+      ],
+      "answer": "B",
+      "detail": "Trilateral retinoblastoma involves bilateral retinoblastomas and a pineoblastoma."
+    },
+    {
+      "number": 27,
+      "question": "A 'Swiss cheese' or bubbly, lobulated, enhancing mass attached to the septum pellucidum is the classic appearance of:",
+      "choices": [
+        "Intraventricular meningioma",
+        "Central neurocytoma",
+        "Colloid cyst",
+        "Choroid plexus xanthogranuloma",
+        "SEGA"
+      ],
+      "answer": "B",
+      "detail": "Central neurocytoma is a bubbly mass arising from the septum pellucidum."
+    },
+    {
+      "number": 28,
+      "question": "Which intraventricular mass is associated with Tuberous Sclerosis Complex and is located near the foramen of Monro?",
+      "choices": [
+        "Colloid cyst",
+        "Subependymal giant cell astrocytoma (SEGA)",
+        "Subependymoma",
+        "Ependymoma",
+        "Neurocytoma"
+      ],
+      "answer": "B",
+      "detail": "SEGA is a characteristic feature of Tuberous Sclerosis, found at the foramen of Monro."
+    },
+    {
+      "number": 29,
+      "question": "What is a 'very helpful sign' used to differentiate untreated primary CNS lymphoma (PCNSL) from glioblastoma?",
+      "choices": [
+        "Absence of enhancement in PCNSL",
+        "Presence of intralesional hemorrhage in GBM (extremely rare in PCNSL)",
+        "Presence of fat in PCNSL",
+        "Location in the temporal lobe for PCNSL",
+        "Lack of restricted diffusion in GBM"
+      ],
+      "answer": "B",
+      "detail": "PCNSL almost never hemorrhages before treatment, while GBM frequently does."
+    },
+    {
+      "number": 30,
+      "question": "How does PCNSL typically appear in an immunocompetent patient?",
+      "choices": [
+        "Peripheral ring enhancement",
+        "Homogeneously enhancing mass",
+        "Non-enhancing infiltrative signal",
+        "'Bubbly' T2 hyperintensity",
+        "Multiple small cystic foci"
+      ],
+      "answer": "B",
+      "detail": "In immunocompetent hosts, PCNSL shows solid, homogeneous enhancement."
+    },
+    {
+      "number": 31,
+      "question": "In an immunocompromised patient, the differential diagnosis for a ring-enhancing mass is primarily between Lymphoma and:",
+      "choices": [
+        "Metastasis",
+        "Toxoplasmosis",
+        "Glioblastoma",
+        "Abscess",
+        "Progressive Multifocal Leukoencephalopathy (PML)"
+      ],
+      "answer": "B",
+      "detail": "In AIDS patients, ring-enhancing masses are typically either lymphoma or toxoplasmosis."
+    },
+    {
+      "number": 32,
+      "question": "Which primary tumors are most common in the 'hemorrhagic metastasis' differential?",
+      "choices": [
+        "Lung, Breast, and Prostate",
+        "Melanoma, Renal Cell, Thyroid, and Choriocarcinoma",
+        "Lymphoma, Leukemia, and Multiple Myeloma",
+        "Colorectal, Ovarian, and Bladder",
+        "Osteosarcoma and Liposarcoma"
+      ],
+      "answer": "B",
+      "detail": "These four (Melanoma, Renal Cell, Thyroid, and Choriocarcinoma) are the classic 'primary' hemorrhagic metastases."
+    },
+    {
+      "number": 33,
+      "question": "What is the most common mass of the cerebellopontine angle (CPA), representing >75% of cases?",
+      "choices": [
+        "Meningioma",
+        "Vestibular Schwannoma",
+        "Epidermoid cyst",
+        "Arachnoid cyst",
+        "Lipoma"
+      ],
+      "answer": "B",
+      "detail": "Vestibular schwannoma is by far the most common CPA mass."
+    },
+    {
+      "number": 34,
+      "question": "The 'ice cream cone' appearance in the CPA refers to a vestibular schwannoma where the 'cone' is located in the:",
+      "choices": [
+        "Pre-pontine cistern",
+        "Internal acoustic meatus (widening the porus acousticus)",
+        "Fourth ventricle",
+        "Cerebellar hemisphere",
+        "Meckel's cave"
+      ],
+      "answer": "B",
+      "detail": "The 'cone' part of the appearance is the intracanalicular component in the IAM."
+    },
+    {
+      "number": 35,
+      "question": "How can a CPA meningioma be distinguished from a vestibular schwannoma on imaging?",
+      "choices": [
+        "Meningioma is more likely to enlarge the porus acousticus",
+        "Meningioma often features a dural tail and may calcify",
+        "Schwannoma has higher ADC values",
+        "Schwannoma never becomes cystic",
+        "Meningioma is always hyperintense on T1"
+      ],
+      "answer": "B",
+      "detail": "Dural tails and calcification favor meningioma over schwannoma."
+    },
+    {
+      "number": 36,
+      "question": "The 'MOuSTACHE' mnemonic is used for the differential diagnosis of which region?",
+      "choices": [
+        "Posterior fossa",
+        "Cerebellopontine angle",
+        "Suprasellar/parasellar region",
+        "Foramen of Monro",
+        "Petrous apex"
+      ],
+      "answer": "C",
+      "detail": "MOuSTACHE is a mnemonic for suprasellar masses like Meningioma, Optic glioma, etc."
+    },
+    {
+      "number": 37,
+      "question": "Which craniopharyngioma subtype is common in children and features complex cystic masses with 'machine oil' proteinaceous fluid?",
+      "choices": [
+        "Papillary",
+        "Adamantinomatous",
+        "Chordoid",
+        "Myxopapillary",
+        "Desmoplastic"
+      ],
+      "answer": "B",
+      "detail": "Adamantinomatous craniopharyngioma is a pediatric tumor known for its 'machine oil' cysts."
+    },
+    {
+      "number": 38,
+      "question": "What is the most common primary neoplasm of the clivus in adults?",
+      "choices": [
+        "Chondrosarcoma",
+        "Chordoma",
+        "Metastasis",
+        "Multiple Myeloma",
+        "Meningioma"
+      ],
+      "answer": "B",
+      "detail": "Chordoma is the most common primary clival neoplasm in adults."
+    },
+    {
+      "number": 39,
+      "question": "The 'thumb sign' on sagittal images (posterior tumor projection indention the pons) is classic for:",
+      "choices": [
+        "Vestibular schwannoma",
+        "Chordoma",
+        "Pituitary macroadenoma",
+        "Ependymoma",
+        "JPA"
+      ],
+      "answer": "B",
+      "detail": "The 'thumb sign' is a posterior projection of a clival chordoma indenting the pons."
+    },
+    {
+      "number": 40,
+      "question": "A 'salt and pepper' appearance on MRI (due to flow voids) in a highly vascular jugular foramen mass is diagnostic of a:",
+      "choices": [
+        "Schwannoma",
+        "Meningioma",
+        "Paraganglioma (Glomus tumor)",
+        "Cholesterol granuloma",
+        "Chondrosarcoma"
+      ],
+      "answer": "C",
+      "detail": "Flow voids in paragangliomas create the characteristic 'salt and pepper' appearance."
+    },
+    {
+      "number": 41,
+      "question": "Which malignant neural crest tumor arises from the superior nasal cavity and may show cysts at its intracranial margins?",
+      "choices": [
+        "Squamous cell carcinoma",
+        "Olfactory neuroblastoma (Esthesioneuroblastoma)",
+        "Mucosal melanoma",
+        "Lymphoma",
+        "Sinonasal undifferentiated carcinoma (SNUC)"
+      ],
+      "answer": "B",
+      "detail": "Olfactory neuroblastoma typically arises from the olfactory epithelium and can show marginal cysts."
+    },
+    {
+      "number": 42,
+      "question": "Which phenomenon presents as transient contrast enhancement and edema peaking 3–6 months after therapy, resolving without treatment?",
+      "choices": [
+        "Radiation necrosis",
+        "Pseudoprogression",
+        "Recurrent glioblastoma",
+        "SMART syndrome",
+        "Gliomatosis cerebri"
+      ],
+      "answer": "B",
+      "detail": "Pseudoprogression is a transient post-treatment effect that mimics tumor growth."
+    },
+    {
+      "number": 43,
+      "question": "On MR perfusion, which finding favors recurrent tumor over radiation necrosis?",
+      "choices": [
+        "Markedly low Cerebral Blood Volume (CBV)",
+        "Elevated Cerebral Blood Volume (CBV)",
+        "High ADC values",
+        "Absence of choline on spectroscopy",
+        "Presence of internal fat"
+      ],
+      "answer": "B",
+      "detail": "Elevated CBV indicates neoangiogenesis, which is characteristic of recurrent tumor."
+    },
+    {
+      "number": 44,
+      "question": "What is the most common tumor of the cauda equina region, classically presenting as a sausage-shaped mass at the conus medullaris?",
+      "choices": [
+        "Myxopapillary ependymoma",
+        "Schwannoma",
+        "Meningioma",
+        "Chordoma",
+        "Metastasis"
+      ],
+      "answer": "A",
+      "detail": "Myxopapillary ependymomas are the most common tumors of the cauda equina."
+    },
+    {
+      "number": 45,
+      "question": "'Sugar-coating' (Zuckerguss) on the spinal cord surface is a sign of:",
+      "choices": [
+        "Chronic microvascular ischemia",
+        "Leptomeningeal metastatic disease (drop metastases)",
+        "Multiple sclerosis",
+        "Spinal dAVF",
+        "Normal variants of the pial membrane"
+      ],
+      "answer": "B",
+      "detail": "Drop metastases produce linear 'sugar-coating' enhancement along the cord."
+    },
+    {
+      "number": 46,
+      "question": "Which intracranial tumor is known to 'melt away' with chemoradiation but often recurs aggressively?",
+      "choices": [
+        "Glioblastoma",
+        "Primary CNS Lymphoma",
+        "Meningioma",
+        "Hemangioblastoma",
+        "JPA"
+      ],
+      "answer": "B",
+      "detail": "PCNSL is highly sensitive to steroids and chemoradiation, often disappearing on initial follow-up."
+    },
+    {
+      "number": 47,
+      "question": "A 'convoluted cerebriform pattern' on MR images of a sinonasal mass is characteristic of:",
+      "choices": [
+        "Squamous cell carcinoma",
+        "Inverted papilloma",
+        "Esthesioneuroblastoma",
+        "Rhabdomyosarcoma",
+        "Lymphoma"
+      ],
+      "answer": "B",
+      "detail": "The convoluted cerebriform pattern is the hallmark of inverted papillomas."
+    },
+    {
+      "number": 48,
+      "question": "In pediatric patients, the most common source of metastases to the orbit is:",
+      "choices": [
+        "Breast cancer",
+        "Lung cancer",
+        "Neuroblastoma",
+        "Wilms tumor",
+        "Leukemia"
+      ],
+      "answer": "C",
+      "detail": "Neuroblastoma is the most common pediatric tumor to metastasize to the orbits."
+    },
+    {
+      "number": 49,
+      "question": "'Target sign' (central hypointensity on T2) is an imaging clue for which peripheral nerve sheath tumor?",
+      "choices": [
+        "Schwannoma",
+        "Neurofibroma",
+        "Both A and B",
+        "Neither A nor B",
+        "Meningioma"
+      ],
+      "answer": "C",
+      "detail": "The target sign can be seen in both schwannomas and neurofibromas."
+    },
+    {
+      "number": 50,
+      "question": "'Yin-yang sign' (patches of low and high T2 signal) is a rare MRI feature of which meningioma mimic?",
+      "choices": [
+        "Schwannoma",
+        "Solitary fibrous tumor/hemangiopericytoma",
+        "Metastasis",
+        "Chordoma",
+        "Sarcoidosis"
+      ],
+      "answer": "B",
+      "detail": "This rare T2 appearance is seen in solitary fibrous tumors."
+    },
+    {
+      "number": 51,
+      "question": "Which tumor arises from the ependymal cells of the lamina terminalis and is found in the anterior third ventricle?",
+      "choices": [
+        "Chordoid glioma",
+        "Colloid cyst",
+        "Central neurocytoma",
+        "Ependymoma",
+        "Chordoma"
+      ],
+      "answer": "A",
+      "detail": "Chordoid glioma is a rare tumor of the lamina terminalis."
+    },
+    {
+      "number": 52,
+      "question": "'Machine oil' contents that are hyperattenuating on CT and low signal on T2 are characteristic of:",
+      "choices": [
+        "Craniopharyngioma cysts",
+        "Colloid cysts",
+        "Rathke's cleft cysts",
+        "Dermoid cysts",
+        "Epidermoid cysts"
+      ],
+      "answer": "B",
+      "detail": "Colloid cysts containing viscous fluid appear hyperdense on CT and dark on T2."
+    },
+    {
+      "number": 53,
+      "question": "The presence of a 'pial tail' (pachymeningeal thickening/enhancement) is most specific for which primary tumor?",
+      "choices": [
+        "Glioblastoma",
+        "Meningioma",
+        "Schwannoma",
+        "Metastasis",
+        "Lymphoma"
+      ],
+      "answer": "B",
+      "detail": "A 'pial tail' is a classic feature suggesting meningioma."
+    },
+    {
+      "number": 54,
+      "question": "Which tumor is considered a 'Do Not Touch' vascular hamartoma with a small bleeding risk and a characteristic 'popcorn' appearance on MRI (mixed signal core)?",
+      "choices": [
+        "AVM",
+        "Cavernous malformation (Cavernoma)",
+        "DVA",
+        "Capillary telangiectasia",
+        "Hemangioma"
+      ],
+      "answer": "B",
+      "detail": "Cavernomas have a pathognomonic 'popcorn' appearance on MRI."
+    },
+    {
+      "number": 55,
+      "question": "Which inherited syndrome features multiple cavernous malformations?",
+      "choices": [
+        "NF1",
+        "NF2",
+        "VHL",
+        "Familial cerebral cavernous malformation syndrome",
+        "Tuberous Sclerosis"
+      ],
+      "answer": "D",
+      "detail": "Multiple cavernomas are seen in the familial version of the disease."
+    },
+    {
+      "number": 56,
+      "question": "'Drop metastases' to the spine in children are most commonly caused by:",
+      "choices": [
+        "Ependymoma",
+        "Medulloblastoma",
+        "JPA",
+        "Brainstem glioma",
+        "Choroid plexus carcinoma"
+      ],
+      "answer": "B",
+      "detail": "Medulloblastoma is the most common pediatric tumor to spread via 'drop metastases'."
+    },
+    {
+      "number": 57,
+      "question": "In the spine, 'dumbbell tumors' extending through the neural foramen are most commonly:",
+      "choices": [
+        "Meningiomas",
+        "Nerve sheath tumors (schwannoma/neurofibroma)",
+        "Metastases",
+        "Myeloma",
+        "Ependymomas"
+      ],
+      "answer": "B",
+      "detail": "Dumbbell tumors are classically nerve sheath tumors exiting the spinal canal."
+    },
+    {
+      "number": 58,
+      "question": "Which metabolite, measured by advanced MR spectroscopy, is a marker for IDH-mutant diffuse gliomas?",
+      "choices": [
+        "Choline",
+        "NAA",
+        "2-hydroxyglutarate (2-HG)",
+        "Myo-inositol",
+        "Lactate"
+      ],
+      "answer": "C",
+      "detail": "2-HG is a specific oncometabolite of IDH mutations."
+    },
+    {
+      "number": 59,
+      "question": "'Tiger-striped' or 'corduroy' appearance of thickened cerebellar folia is pathognomonic for:",
+      "choices": [
+        "Medulloblastoma",
+        "Lhermitte-Duclos disease",
+        "VHL syndrome",
+        "JPA",
+        "Chordoma"
+      ],
+      "answer": "B",
+      "detail": "Lhermitte-Duclos disease has a unique 'tiger-striped' cerebellar appearance."
+    },
+    {
+      "number": 60,
+      "question": "Lhermitte-Duclos disease is often associated with which syndrome?",
+      "choices": [
+        "NF1",
+        "Gorlin syndrome",
+        "Cowden syndrome",
+        "Li-Fraumeni syndrome",
+        "Turcot syndrome"
+      ],
+      "answer": "C",
+      "detail": "Lhermitte-Duclos disease is considered a major diagnostic criterion for Cowden syndrome."
+    },
+    {
+      "number": 61,
+      "question": "What defines 'gliomatosis cerebri'?",
+      "choices": [
+        "Diffuse glioma involving at least three lobes",
+        "Multiple GBMs connected by FLAIR",
+        "GBM crossing the corpus callosum",
+        "Diffuse metastatic disease",
+        "Glial tumor involving the brainstem and spinal cord"
+      ],
+      "answer": "A",
+      "detail": "Gliomatosis cerebri involves diffuse infiltration of at least three brain lobes."
+    },
+    {
+      "number": 62,
+      "question": "'Multicentric' glioblastomas differ from 'multifocal' ones because they:",
+      "choices": [
+        "Are connected by FLAIR abnormality",
+        "Have no connection between the multiple lesions",
+        "Involve both hemispheres",
+        "Are only seen in children",
+        "Are purely extra-axial"
+      ],
+      "answer": "B",
+      "detail": "Multicentric tumors occur independently without bridging abnormality."
+    },
+    {
+      "number": 63,
+      "question": "Which primary sinonasal tumor has a high T1 signal on MRI due to its intrinsic contents?",
+      "choices": [
+        "Squamous cell carcinoma",
+        "Mucosal melanoma",
+        "Sinonasal undifferentiated carcinoma",
+        "Inverted papilloma",
+        "Lymphoma"
+      ],
+      "answer": "B",
+      "detail": "Melanin provides intrinsic T1 hyperintensity in mucosal melanoma."
+    },
+    {
+      "number": 64,
+      "question": "Chordomas arise from remnants of which structure?",
+      "choices": [
+        "Ectoderm",
+        "Neural crest",
+        "Notochord",
+        "Ependyma",
+        "Arachnoid cap cells"
+      ],
+      "answer": "C",
+      "detail": "Chordomas are rare tumors derived from the vestigial notochord."
+    },
+    {
+      "number": 65,
+      "question": "Which foramen of the skull base transmits the abducens nerve (CN VI)?",
+      "choices": [
+        "Foramen rotundum",
+        "Foramen ovale",
+        "Superior orbital fissure (via Dorello’s canal)",
+        "Internal auditory canal",
+        "Jugular foramen"
+      ],
+      "answer": "C",
+      "detail": "CN VI travels through Dorello's canal and exits via the superior orbital fissure."
+    }
+  ]
+}

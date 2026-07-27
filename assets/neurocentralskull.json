@@ -1,0 +1,459 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Which structure forms the roof of the pituitary fossa (sella turcica)?",
+      "choices": [
+        "Tuberculum sellae",
+        "Dorsum sellae",
+        "Diaphragma sellae",
+        "Planum sphenoidale",
+        "Clivus"
+      ],
+      "answer": "C",
+      "detail": "The **diaphragma sellae** is a dural fold that serves as the roof of the pituitary fossa."
+    },
+    {
+      "number": 2,
+      "question": "Which part of the pituitary gland is responsible for the 'posterior pituitary bright spot' normally seen on T1-weighted MRI?",
+      "choices": [
+        "Adenohypophysis",
+        "Neurohypophysis",
+        "Pars intermedia",
+        "Infundibulum",
+        "Tuber cinereum"
+      ],
+      "answer": "B",
+      "detail": "The **neurohypophysis** typically appears bright on T1-weighted images due to its intrinsic lipid-rich neurosecretory granules."
+    },
+    {
+      "number": 3,
+      "question": "Within the cavernous sinus, which of the following cranial nerves is located centrally, adjacent to the internal carotid artery?",
+      "choices": [
+        "CN III",
+        "CN IV",
+        "CN V1",
+        "CN V2",
+        "CN VI"
+      ],
+      "answer": "E",
+      "detail": "Unlike the other nerves which travel in the lateral wall, **CN VI (Abducens nerve)** is the only one located centrally within the cavernous sinus."
+    },
+    {
+      "number": 4,
+      "question": "Which division of the trigeminal nerve is the only one that does NOT traverse the cavernous sinus?",
+      "choices": [
+        "Ophthalmic (V1)",
+        "Maxillary (V2)",
+        "Mandibular (V3)",
+        "All divisions traverse the sinus",
+        "Only V1 traverses the sinus"
+      ],
+      "answer": "C",
+      "detail": "The **mandibular nerve (V3)** bypasses the cavernous sinus, exiting the skull via the foramen ovale."
+    },
+    {
+      "number": 5,
+      "question": "The maxillary nerve (CN V2) exits the skull base through which foramen?",
+      "choices": [
+        "Foramen ovale",
+        "Foramen rotundum",
+        "Foramen spinosum",
+        "Superior orbital fissure",
+        "Dorello's canal"
+      ],
+      "answer": "B",
+      "detail": "**CN V2** passes through the **foramen rotundum** to enter the pterygopalatine fossa."
+    },
+    {
+      "number": 6,
+      "question": "Which small canal transmits the abducens nerve (CN VI) into the petrous portion of the temporal bone?",
+      "choices": [
+        "Foramen rotundum",
+        "Vidian canal",
+        "Dorello's canal",
+        "Meckel's cave",
+        "Hypoglossal canal"
+      ],
+      "answer": "C",
+      "detail": "**Dorello's canal** is the narrow passageway that transmits the abducens nerve at the petrous apex."
+    },
+    {
+      "number": 7,
+      "question": "The presence of the 'infundibulum sign' helps distinguish an empty sella from:",
+      "choices": [
+        "A pituitary macroadenoma",
+        "A true cystic intrasellar lesion",
+        "A meningioma",
+        "Pituitary apoplexy",
+        "Intracranial hypertension"
+      ],
+      "answer": "B",
+      "detail": "The **infundibulum sign** confirms that the pituitary stalk is present and appropriately centered, distinguishing an empty sella from a **true cystic intrasellar lesion**."
+    },
+    {
+      "number": 8,
+      "question": "Empty sella is a key component of the imaging constellation seen in which clinical syndrome?",
+      "choices": [
+        "Wernicke encephalopathy",
+        "Idiopathic intracranial hypertension (pseudotumor cerebri)",
+        "Spontaneous intracranial hypotension",
+        "Pituitary dwarfism",
+        "Cushing disease"
+      ],
+      "answer": "B",
+      "detail": "Empty sella, optic nerve sheath distention, and flattened posterior globes form the constellation of findings for **Idiopathic intracranial hypertension**."
+    },
+    {
+      "number": 9,
+      "question": "According to the MOuSTACHE mnemonic for suprasellar masses, what does the 'C' represent?",
+      "choices": [
+        "Chordoma",
+        "Chondrosarcoma",
+        "Craniopharyngioma",
+        "Colloid cyst",
+        "Cavernous malformation"
+      ],
+      "answer": "C",
+      "detail": "The MOuSTACHE mnemonic includes **Craniopharyngioma** as a primary differential for a suprasellar mass."
+    },
+    {
+      "number": 10,
+      "question": "What is the most common suprasellar tumor in children?",
+      "choices": [
+        "Pituitary adenoma",
+        "Craniopharyngioma",
+        "Meningioma",
+        "Optic pathway glioma",
+        "Germinoma"
+      ],
+      "answer": "B",
+      "detail": "**Craniopharyngioma** is the most common tumor in the suprasellar region for the pediatric population."
+    },
+    {
+      "number": 11,
+      "question": "Which imaging finding is most characteristic of a parasellar meningioma compared to a macroadenoma?",
+      "choices": [
+        "Expansion of the sella turcica",
+        "'Snowman' shape",
+        "Encasement and narrowing of the internal carotid artery",
+        "Lack of contrast enhancement",
+        "Presence of a cystic mural nodule"
+      ],
+      "answer": "C",
+      "detail": "**Meningiomas** in the parasellar region frequently **encase and narrow** the internal carotid artery, whereas pituitary adenomas typically surround it without significant narrowing."
+    },
+    {
+      "number": 12,
+      "question": "A 'gelastic seizure' (fits of laughter) in a child with a nonenhancing suprasellar mass is pathognomonic for:",
+      "choices": [
+        "Craniopharyngioma",
+        "Optic pathway glioma",
+        "Hypothalamic hamartoma",
+        "Germinoma",
+        "Rathke’s cleft cyst"
+      ],
+      "answer": "C",
+      "detail": "**Gelastic seizures** (fits of laughter) are a classic clinical manifestation pathognomonic for **hypothalamic hamartomas**."
+    },
+    {
+      "number": 13,
+      "question": "Which craniopharyngioma subtype is most common in children and often shows 'machine oil' cystic contents?",
+      "choices": [
+        "Papillary",
+        "Adamantinomatous",
+        "Chordoid",
+        "Myxopapillary",
+        "Desmoplastic"
+      ],
+      "answer": "B",
+      "detail": "**Adamantinomatous craniopharyngiomas** are the pediatric subtype known for their multi-cystic appearance and **'machine oil'** fluid contents."
+    },
+    {
+      "number": 14,
+      "question": "In an adult, a nonenhancing cystic suprasellar mass without calcification is most likely a:",
+      "choices": [
+        "Craniopharyngioma",
+        "Pituitary macroadenoma",
+        "Rathke’s cleft cyst",
+        "Meningioma",
+        "Aneurysm"
+      ],
+      "answer": "C",
+      "detail": "**Rathke's cleft cysts** are benign, non-enhancing cystic lesions commonly found in the sella or suprasellar space in adults."
+    },
+    {
+      "number": 15,
+      "question": "Which clival variant refers to a notch in the anterior surface of the basiocciput?",
+      "choices": [
+        "Canalis basilaris medianus",
+        "Fossa navicularis magna",
+        "Craniopharyngeal canal",
+        "Persistent hypophyseal canal",
+        "Spheno-occipital synchondrosis"
+      ],
+      "answer": "B",
+      "detail": "**Fossa navicularis magna** is a benign anatomical variant clival notch on the anterior surface of the basiocciput."
+    },
+    {
+      "number": 16,
+      "question": "Normal aging of the clivus is characterized by a transition on T1-weighted MRI from:",
+      "choices": [
+        "High signal (fat) to low signal (hematopoietic)",
+        "Low signal (hematopoietic) to high signal (fatty marrow)",
+        "Isointense to CSF to hyperintense to brain",
+        "Uniform enhancement to no enhancement",
+        "Solid bone to pneumatized air cells"
+      ],
+      "answer": "B",
+      "detail": "With age, the clivus undergoes a predictable conversion from **low-signal hematopoietic marrow** to **high-signal fatty marrow** on T1-weighted imaging."
+    },
+    {
+      "number": 17,
+      "question": "The Pterygopalatine Fossa (PPF) communicates with the middle cranial fossa posteriorly via which two structures?",
+      "choices": [
+        "Foramen ovale and Foramen spinosum",
+        "Foramen rotundum and Vidian canal",
+        "Inferior orbital fissure and Pterygomaxillary fissure",
+        "Sphenopalatine foramen and Pterygopalatine canal",
+        "Optic canal and Foramen magnum"
+      ],
+      "answer": "B",
+      "detail": "The **Vidian canal** and **foramen rotundum** provide critical posterior communication routes between the middle cranial fossa and the PPF."
+    },
+    {
+      "number": 18,
+      "question": "Which structure transmits the infraorbital nerve from the PPF to the orbit?",
+      "choices": [
+        "Foramen rotundum",
+        "Vidian canal",
+        "Inferior orbital fissure",
+        "Pterygomaxillary fissure",
+        "Sphenopalatine foramen"
+      ],
+      "answer": "C",
+      "detail": "The **inferior orbital fissure** transmits the **infraorbital nerve** as it travels from the PPF into the orbit."
+    },
+    {
+      "number": 19,
+      "question": "What is the earliest imaging sign of pathological involvement of the pterygopalatine fossa?",
+      "choices": [
+        "Widening of the bony walls",
+        "Erosion of the pterygoid plates",
+        "Obliteration or infiltration of the internal fat",
+        "Enlargement of the Vidian canal",
+        "Calcification of the distal maxillary artery"
+      ],
+      "answer": "C",
+      "detail": "Because the PPF contains a significant amount of fat, the **obliteration or infiltration of this internal fat** is the earliest sign of pathological involvement."
+    },
+    {
+      "number": 20,
+      "question": "Which structure transmits the sphenopalatine artery from the PPF to the superior meatus of the nasal cavity?",
+      "choices": [
+        "Pterygomaxillary fissure",
+        "Sphenopalatine foramen",
+        "Pterygopalatine canal",
+        "Foramen rotundum",
+        "Vidian canal"
+      ],
+      "answer": "B",
+      "detail": "The **sphenopalatine foramen** transmits the sphenopalatine artery from the PPF to the nasal cavity's superior meatus."
+    },
+    {
+      "number": 21,
+      "question": "The mandibular nerve (V3) exits the skull through the Foramen Ovale to enter which space?",
+      "choices": [
+        "Parapharyngeal space",
+        "Masticator space",
+        "Carotid space",
+        "Sublingual space",
+        "Retropharyngeal space"
+      ],
+      "answer": "B",
+      "detail": "The **mandibular nerve (V3)** exits the skull through the foramen ovale to enter the **masticator space**."
+    },
+    {
+      "number": 22,
+      "question": "Which of the following is a normal structure that lacks a blood-brain barrier and thus normally enhances?",
+      "choices": [
+        "Thalamus",
+        "Hippocampus",
+        "Tuber cinereum",
+        "Corpus callosum",
+        "Insula"
+      ],
+      "answer": "C",
+      "detail": "The **tuber cinereum** is part of the hypothalamus and normally enhances because it lacks the protective blood-brain barrier."
+    },
+    {
+      "number": 23,
+      "question": "The 'area postrema,' which controls vomiting and lacks a BBB, is located at the:",
+      "choices": [
+        "Superior aspect of the third ventricle",
+        "Inferior aspect of the fourth ventricle",
+        "Floor of the sella",
+        "Pineal gland base",
+        "Optic chiasm"
+      ],
+      "answer": "B",
+      "detail": "The **area postrema** is located at the **inferior aspect of the fourth ventricle** and lacks a blood-brain barrier."
+    },
+    {
+      "number": 24,
+      "question": "Which of the following is considered a primary central skull base tumor?",
+      "choices": [
+        "Meningioma",
+        "Pituitary adenoma",
+        "Chordoma",
+        "Vestibular schwannoma",
+        "Ependymoma"
+      ],
+      "answer": "C",
+      "detail": "**Chordomas** are considered primary central skull base tumors arising from clival notochord remnants."
+    },
+    {
+      "number": 25,
+      "question": "A 'Snowman sign' or 'figure-of-eight' appearance is classically associated with:",
+      "choices": [
+        "Craniopharyngioma",
+        "Pituitary macroadenoma with suprasellar extension",
+        "Optic pathway glioma",
+        "Meningioma",
+        "Hypothalamic hamartoma"
+      ],
+      "answer": "B",
+      "detail": "Suprasellar extension of a **macroadenoma** causes indentation at the diaphragma sellae, leading to the characteristic **snowman sign**."
+    },
+    {
+      "number": 26,
+      "question": "In the context of a suprasellar mass, the presence of diabetes insipidus and an enlarged pituitary stalk in a child suggests:",
+      "choices": [
+        "Optic pathway glioma",
+        "Hypothalamic hamartoma",
+        "Langerhans cell histiocytosis (LCH)",
+        "Craniopharyngioma",
+        "Germinoma"
+      ],
+      "answer": "C",
+      "detail": "**LCH** characteristically involves the pituitary stalk, leading to **diabetes insipidus** and thickening on MRI in pediatric patients."
+    },
+    {
+      "number": 27,
+      "question": "Lymphocytic hypophysitis is a differential for a suprasellar mass in an adult specifically during which clinical state?",
+      "choices": [
+        "Post-menopause",
+        "Chronic hypertension",
+        "Peripartum period",
+        "Acute infection",
+        "Following radiation therapy"
+      ],
+      "answer": "C",
+      "detail": "**Lymphocytic hypophysitis** is an inflammatory condition that classically manifests during the **peripartum period**."
+    },
+    {
+      "number": 28,
+      "question": "The Vidian nerve (nerve of the pterygoid canal) travels through the Vidian canal to reach the:",
+      "choices": [
+        "Masticator space",
+        "Orbit",
+        "Pterygopalatine fossa",
+        "Nasal cavity",
+        "Middle cranial fossa"
+      ],
+      "answer": "C",
+      "detail": "The **Vidian nerve** travels through the Vidian canal to reach the **pterygopalatine fossa**."
+    },
+    {
+      "number": 29,
+      "question": "Enlargement and contrast enhancement of the neural foramina leading to the PPF is a sign of:",
+      "choices": [
+        "Acute sinusitis",
+        "Perineural tumor spread",
+        "Normal anatomical variation",
+        "Chronic osteomyelitis",
+        "Post-traumatic healing"
+      ],
+      "answer": "B",
+      "detail": "**Perineural tumor spread (PNTS)** typically manifests as enlargement and enhancement of neural foramina such as the Vidian canal or foramen rotundum."
+    },
+    {
+      "number": 30,
+      "question": "Which clival variant is characterized as a long channel in the midline basiocciput?",
+      "choices": [
+        "Canalis basilaris medianus",
+        "Fossa navicularis magna",
+        "Craniopharyngeal canal",
+        "Spheno-occipital synchondrosis",
+        "Fossa pharyngea"
+      ],
+      "answer": "A",
+      "detail": "**Canalis basilaris medianus** is a clival variant seen as a long midline channel in the basiocciput."
+    },
+    {
+      "number": 31,
+      "question": "The tuberculum sellae forms which wall of the pituitary fossa?",
+      "choices": [
+        "Anterior",
+        "Posterior",
+        "Lateral",
+        "Medial",
+        "Inferior"
+      ],
+      "answer": "A",
+      "detail": "The **tuberculum sellae** forms the **anterior wall** of the sella turcica."
+    },
+    {
+      "number": 32,
+      "question": "Which structure is the primary content of Meckel’s cave?",
+      "choices": [
+        "Optic chiasm",
+        "Pituitary gland",
+        "Trigeminal (Gasserian) ganglion",
+        "Facial nerve",
+        "Internal carotid artery"
+      ],
+      "answer": "C",
+      "detail": "**Meckel’s cave** is a dural-lined CSF space that primarily houses the **trigeminal (Gasserian) ganglion**."
+    },
+    {
+      "number": 33,
+      "question": "An 'empty sella' can be caused by which of the following?",
+      "choices": [
+        "Intracranial hypotension",
+        "Intracranial hypertension",
+        "Pituitary macroadenoma",
+        "Chordoma",
+        "Optic neuritis"
+      ],
+      "answer": "B",
+      "detail": "An **empty sella** can be a radiological indicator of **intracranial hypertension**."
+    },
+    {
+      "number": 34,
+      "question": "The clivus bones join at the spheno-occipital synchondrosis, which typically fuses during:",
+      "choices": [
+        "Infancy",
+        "Early childhood",
+        "Adolescence",
+        "Late adulthood",
+        "Never (it remains open)"
+      ],
+      "answer": "C",
+      "detail": "The **spheno-occipital synchondrosis** typically fuses during **adolescence**."
+    },
+    {
+      "number": 35,
+      "question": "Which of the following suprasellar lesions is characteristically T2 hyperintense and associated with NF1 in children?",
+      "choices": [
+        "Craniopharyngioma",
+        "Optic pathway glioma",
+        "Hypothalamic hamartoma",
+        "Germ cell tumor",
+        "Rathke's cleft cyst"
+      ],
+      "answer": "B",
+      "detail": "**Optic pathway gliomas** in children are frequently associated with **NF1** and typically demonstrate T2 hyperintensity."
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "By definition, where are extradural lesions located?",
+      "choices": [
+        "Within the spinal cord parenchyma.",
+        "Between the cord and the arachnoid membrane.",
+        "External to the dura, including the vertebra and epidural space.",
+        "Primarily within the subarachnoid space.",
+        "Exclusively in the paraspinal muscles."
+      ],
+      "answer": "C",
+      "detail": "Extradural lesions are situated outside the dural sac and include pathologies involving the vertebrae and the epidural space."
+    },
+    {
+      "number": 2,
+      "question": "Which of the following represents the most common type of extradural lesion?",
+      "choices": [
+        "Extradural metastases.",
+        "Degenerative lesions (e.g., osteophytes and herniated discs).",
+        "Discitis/osteomyelitis.",
+        "Plasmacytoma.",
+        "Epidural hematoma."
+      ],
+      "answer": "B",
+      "detail": "Degenerative changes, such as herniated discs and osteophytes, are the most frequent causes of extradural mass effect."
+    },
+    {
+      "number": 3,
+      "question": "Which three neoplasms are the most common extradural causes of spinal cord compression?",
+      "choices": [
+        "Hemangioma, Osteoblastoma, and ABC.",
+        "Meningioma, Schwannoma, and Neurofibroma.",
+        "Metastases, Plasmacytoma/Multiple Myeloma, and Lymphoma.",
+        "Astrocytoma, Ependymoma, and Hemangioblastoma.",
+        "Chordoma, Chondrosarcoma, and Osteosarcoma."
+      ],
+      "answer": "C",
+      "detail": "Metastatic disease, lymphoma, and plasma cell dyscrasias (plasmacytoma/multiple myeloma) are the leading neoplastic causes of extradural spinal cord compression."
+    },
+    {
+      "number": 4,
+      "question": "When evaluating vertebral marrow for replacement on T1-weighted images, what is the essential 'rule of thumb'?",
+      "choices": [
+        "Marrow should be darker than the spinal cord.",
+        "Marrow should be isoattenuating to the CSF.",
+        "Marrow should always be more hyperintense than the intervertebral discs.",
+        "Marrow should be the same intensity as the ligamentum flavum.",
+        "Marrow signal is irrelevant on T1-weighted images."
+      ],
+      "answer": "C",
+      "detail": "A critical radiographic rule is that normal adult bone marrow should always appear more hyperintense (brighter) than the adjacent intervertebral discs on T1-weighted MRI."
+    },
+    {
+      "number": 5,
+      "question": "A focal decrease in marrow intensity on T1-weighted images is primarily concerning for:",
+      "choices": [
+        "Normal aging.",
+        "Osteoporosis.",
+        "Metastasis.",
+        "Epidural lipomatosis.",
+        "Modic Type 2 changes."
+      ],
+      "answer": "C",
+      "detail": "A focal area of low T1 signal within the marrow is highly suspicious for a metastatic lesion."
+    },
+    {
+      "number": 6,
+      "question": "Which of the following is in the differential diagnosis for a diffuse decrease in T1 marrow signal?",
+      "choices": [
+        "Leukemia and Lymphoma.",
+        "Myelofibrosis.",
+        "HIV.",
+        "All of the above.",
+        "None of the above."
+      ],
+      "answer": "D",
+      "detail": "A global decrease in marrow T1 signal can be seen in leukemia, lymphoma, myelofibrosis, and chronic conditions like HIV."
+    },
+    {
+      "number": 7,
+      "question": "A 'solitary plasmacytoma of bone' is characteristically described as:",
+      "choices": [
+        "A sclerotic, ivory vertebra.",
+        "A lytic, expansile bony lesion of late adulthood.",
+        "A small, nidus-containing lesion with reactive sclerosis.",
+        "A diffuse, multi-level marrow infiltration.",
+        "A purely cystic lesion with a 'hemosiderin cap.'"
+      ],
+      "answer": "B",
+      "detail": "Plasmacytomas typically present as expansile, destructive lytic lesions within the vertebral body of older adults."
+    },
+    {
+      "number": 8,
+      "question": "How is an 'aggressive' vertebral hemangioma distinguished from a common asymptomatic one?",
+      "choices": [
+        "It contains more macroscopic fat.",
+        "It features a 'polka-dot' appearance on axial CT.",
+        "It has an epidural soft tissue component with potential for cord compression.",
+        "It is always located in the cervical spine.",
+        "It is more common in males."
+      ],
+      "answer": "C",
+      "detail": "Aggressive hemangiomas are identified by an associated soft tissue component extending into the epidural space, which can lead to spinal cord compression."
+    },
+    {
+      "number": 9,
+      "question": "In a patient with an extradural mass in the spinal canal, which entity is statistically most likely, given its frequency?",
+      "choices": [
+        "Spinal lymphoma.",
+        "Extradural metastasis.",
+        "A sequestered disc fragment.",
+        "Plasmacytoma.",
+        "Epidural abscess."
+      ],
+      "answer": "C",
+      "detail": "Statistically, a sequestered disc fragment is more common than many neoplastic extradural masses."
+    },
+    {
+      "number": 10,
+      "question": "Which imaging modality/technique is most helpful to differentiate a non-enhancing disc fragment from an enhancing tumor?",
+      "choices": [
+        "Noncontrast CT.",
+        "T2-weighted MRI without fat suppression.",
+        "Contrast-enhanced MRI.",
+        "Diffusion-weighted imaging.",
+        "MR spectroscopy."
+      ],
+      "answer": "C",
+      "detail": "Contrast-enhanced MRI is the definitive technique for distinguishing between a non-enhancing sequestered disc and an enhancing neoplastic mass."
+    }
+  ]
+}

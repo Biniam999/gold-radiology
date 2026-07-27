@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Spinal epidural lipomatosis is a non-neoplastic overgrowth of fat that characteristically follows the signal of which tissue on all MRI sequences?",
+      "choices": [
+        "Cerebrospinal fluid",
+        "Muscle",
+        "Subcutaneous fat",
+        "Spinal cord gray matter",
+        "Cortical bone"
+      ],
+      "answer": "C",
+      "detail": "Spinal epidural lipomatosis is a non-neoplastic overgrowth of fat that characteristically follows the signal of subcutaneous fat on all MRI sequences."
+    },
+    {
+      "number": 2,
+      "question": "What is the most common cause of spinal epidural lipomatosis?",
+      "choices": [
+        "Chronic hypertension",
+        "Steroid administration",
+        "Vitamin B12 deficiency",
+        "Spinal trauma",
+        "Multiple sclerosis"
+      ],
+      "answer": "B",
+      "detail": "The most common cause of spinal epidural lipomatosis is steroid administration."
+    },
+    {
+      "number": 3,
+      "question": "In the mid-thoracic spine, an epidural fat thickness of greater than how many millimeters suggests the diagnosis of epidural lipomatosis?",
+      "choices": [
+        "2 mm",
+        "4 mm",
+        "6 mm",
+        "10 mm",
+        "15 mm"
+      ],
+      "answer": "C",
+      "detail": "In the mid-thoracic spine, an epidural fat thickness of greater than 6 mm suggests the diagnosis of epidural lipomatosis."
+    },
+    {
+      "number": 4,
+      "question": "In the lumbar spine, severe epidural lipomatosis characteristically creates which contour of the thecal sac?",
+      "choices": [
+        "Circular",
+        "Flattened anteriorly",
+        "Trefoil or Y-shaped",
+        "Mushroom-shaped",
+        "Scalloped"
+      ],
+      "answer": "C",
+      "detail": "In the lumbar spine, severe epidural lipomatosis characteristically creates a trefoil or Y-shaped contour of the thecal sac."
+    },
+    {
+      "number": 5,
+      "question": "Ossification of the spinal ligaments, such as OPLL, primarily affects which patient demographic?",
+      "choices": [
+        "Infants",
+        "Adolescents",
+        "Young athletes",
+        "Older adults",
+        "There is no age predilection"
+      ],
+      "answer": "D",
+      "detail": "Ossification of the spinal ligaments, such as OPLL, primarily affects older adults."
+    },
+    {
+      "number": 6,
+      "question": "Ossification of the Posterior Longitudinal Ligament (OPLL) most frequently involves which spinal region?",
+      "choices": [
+        "Lumbar",
+        "Thoracic",
+        "Cervical",
+        "Sacral",
+        "Coccygeal"
+      ],
+      "answer": "C",
+      "detail": "Ossification of the Posterior Longitudinal Ligament (OPLL) most frequently involves the cervical spinal region."
+    },
+    {
+      "number": 7,
+      "question": "Spondylolysis is defined as a failure or defect of which anatomical structure?",
+      "choices": [
+        "Pedicle",
+        "Lamina",
+        "Pars interarticularis",
+        "Transverse process",
+        "Spinous process"
+      ],
+      "answer": "C",
+      "detail": "Spondylolysis is defined as a failure or defect of the pars interarticularis."
+    },
+    {
+      "number": 8,
+      "question": "Which imaging modality is considered the most definitive for diagnosing a pars defect?",
+      "choices": [
+        "Radiography",
+        "MRI",
+        "CT",
+        "Ultrasound",
+        "Nuclear medicine bone scan"
+      ],
+      "answer": "C",
+      "detail": "CT is considered the most definitive imaging modality for diagnosing a pars defect."
+    },
+    {
+      "number": 9,
+      "question": "On an oblique lumbar radiograph, the \"neck\" of the characteristic \"Scotty dog\" represents the:",
+      "choices": [
+        "Superior articular process",
+        "Pedicle",
+        "Pars interarticularis",
+        "Transverse process",
+        "Lamina"
+      ],
+      "answer": "C",
+      "detail": "On an oblique lumbar radiograph, the \"neck\" of the characteristic \"Scotty dog\" represents the pars interarticularis."
+    },
+    {
+      "number": 10,
+      "question": "Spondylolysis typically results in which type of vertebral slippage?",
+      "choices": [
+        "Retrolisthesis",
+        "Lateral subluxation",
+        "Anterolisthesis",
+        "Vertical impaction",
+        "No slippage occurs"
+      ],
+      "answer": "C",
+      "detail": "Spondylolysis typically results in anterolisthesis."
+    },
+    {
+      "number": 11,
+      "question": "When spondylolysis causes anterolisthesis, how is the spinal canal traditionally affected?",
+      "choices": [
+        "Narrowed",
+        "Widened",
+        "Obliterated by fat",
+        "Filled with hemorrhage",
+        "It remains unchanged"
+      ],
+      "answer": "B",
+      "detail": "When spondylolysis causes anterolisthesis, the spinal canal is traditionally widened."
+    },
+    {
+      "number": 12,
+      "question": "If one vertebral pedicle is sclerotic and the other is normal, which of the following is a possible diagnosis?",
+      "choices": [
+        "Metastasis",
+        "Osteoid osteoma",
+        "Unilateral spondylolysis with reactive changes",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": "D",
+      "detail": "Possible diagnoses for one sclerotic vertebral pedicle include metastasis, osteoid osteoma, or unilateral spondylolysis with reactive changes."
+    },
+    {
+      "number": 13,
+      "question": "A \"unilateral lucent pedicle\" on a radiograph, if congenital, is often associated with which finding on the opposite side?",
+      "choices": [
+        "Similar lucency",
+        "Stress-related sclerosis of the contralateral pedicle",
+        "Fracture of the transverse process",
+        "Epidural lipomatosis",
+        "Disk herniation"
+      ],
+      "answer": "B",
+      "detail": "A \"unilateral lucent pedicle\" on a radiograph, if congenital, is often associated with stress-related sclerosis of the contralateral pedicle."
+    },
+    {
+      "number": 14,
+      "question": "An expansile, lytic mass centered at a pedicle with internal cystic components and fluid-levels is most likely:",
+      "choices": [
+        "Hemangioma",
+        "Osteoid osteoma",
+        "Aneurysmal bone cyst (ABC)",
+        "Metastatic prostate cancer",
+        "Chordoma"
+      ],
+      "answer": "C",
+      "detail": "An expansile, lytic mass centered at a pedicle with internal cystic components and fluid-levels is most likely an aneurysmal bone cyst (ABC)."
+    },
+    {
+      "number": 15,
+      "question": "\"Fossa navicularis magna\" (noted in Head/Neck but relevant to the skull base/spine junction) is a variant of the:",
+      "choices": [
+        "C1 arch",
+        "Basiocciput (clivus)",
+        "Dens",
+        "Hard palate",
+        "Mandible"
+      ],
+      "answer": "B",
+      "detail": "\"Fossa navicularis magna\" is a variant of the basiocciput (clivus)."
+    }
+  ]
+}

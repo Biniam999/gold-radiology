@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "What is the primary goal of stroke imaging in the acute setting?",
+      "choices": [
+        "To determine the exact age of the patient",
+        "To identify the specific molecular subtype of a tumor",
+        "To determine which patients would benefit from reperfusion therapy",
+        "To quantify the amount of old microangiopathy",
+        "To assess for spinal cord involvement"
+      ],
+      "answer": "C",
+      "detail": "The primary objective of imaging in the acute stroke setting is to select candidates who will benefit from reperfusion treatments."
+    },
+    {
+      "number": 2,
+      "question": "Which imaging finding on MRI can help identify candidates for IV tPA when the 'last known normal' time is unclear?",
+      "choices": [
+        "T2-hyperintense, DWI-negative lesions",
+        "Diffusion-positive, FLAIR-negative lesions",
+        "Presence of cortical laminar necrosis",
+        "Extensive Wallerian degeneration",
+        "Chronic cystic encephalomalacia"
+      ],
+      "answer": "B",
+      "detail": "A mismatch where lesions are positive on diffusion-weighted imaging but negative on FLAIR suggests the infarct is hyperacute, specifically less than 4.5 hours old, and may still benefit from thrombolysis."
+    },
+    {
+      "number": 3,
+      "question": "According to AHA guidelines, advanced imaging (CTP or MR perfusion) is recommended for selecting mechanical thrombectomy candidates in which time window?",
+      "choices": [
+        "0–3 hours",
+        "3–4.5 hours",
+        "6–24 hours after last known normal",
+        "Only after 48 hours",
+        "Only in pediatric patients"
+      ],
+      "answer": "C",
+      "detail": "For mechanical thrombectomy, advanced imaging like CT or MR perfusion is recommended to select candidates within the 6–24 hour window after they were last known to be normal."
+    },
+    {
+      "number": 4,
+      "question": "Large vessel occlusion (LVO) eligible for mechanical thrombectomy typically involves which segments?",
+      "choices": [
+        "A2 segment of the ACA",
+        "M1 segment of the MCA or intracranial ICA",
+        "P2 segment of the PCA",
+        "Small lenticulostriate perforators",
+        "Cortical veins"
+      ],
+      "answer": "B",
+      "detail": "Candidates for mechanical thrombectomy typically have occlusions in large vessels, specifically the M1 segment of the middle cerebral artery (MCA) or the intracranial internal carotid artery (ICA)."
+    },
+    {
+      "number": 5,
+      "question": "Which clinical trial established the benefit of thrombectomy between 6–24 hours using 'clinical-core mismatch' as a criterion?",
+      "choices": [
+        "DEFUSE 3",
+        "DAWN",
+        "STICH",
+        "NASCET",
+        "CREST"
+      ],
+      "answer": "B",
+      "detail": "The DAWN trial demonstrated the benefits of performing thrombectomy 6 to 24 hours after the last known normal time by using clinical-core mismatch as a selection criterion."
+    },
+    {
+      "number": 6,
+      "question": "The 'infarct core' is defined as hypoperfused tissue that:",
+      "choices": [
+        "Is at risk but salvageable with reperfusion",
+        "Is not salvageable regardless of subsequent reperfusion",
+        "Only occurs in the posterior circulation",
+        "Shows normal cerebral blood volume (CBV)",
+        "Demonstrates T2 shine-through but normal ADC"
+      ],
+      "answer": "B",
+      "detail": "The infarct core refers to tissue that has already sustained irreversible damage and cannot be salvaged even with successful reperfusion."
+    },
+    {
+      "number": 7,
+      "question": "Which perfusion parameter represents the tissue 'at risk' (ischemic penumbra)?",
+      "choices": [
+        "Markedly decreased CBV",
+        "Delayed contrast arrival (elevated Tmax) with compensated CBV",
+        "Normal Mean Transit Time (MTT)",
+        "Low b-value DWI signal",
+        "Rapid TTP (Time to Peak)"
+      ],
+      "answer": "B",
+      "detail": "The ischemic penumbra, or tissue at risk, is characterized by delayed contrast arrival (elevated Tmax) while maintaining relatively compensated cerebral blood volume (CBV)."
+    },
+    {
+      "number": 8,
+      "question": "In automated CT perfusion software, what is the established threshold for the infarct core?",
+      "choices": [
+        "CBF >100%",
+        "Tmax >10 seconds",
+        "CBF <30–45% relative to normal brain",
+        "MTT <2 seconds",
+        "Presence of a 'T-shaped' occlusion"
+      ],
+      "answer": "C",
+      "detail": "Automated software typically defines the infarct core as tissue where the cerebral blood flow (CBF) is less than 30–45% compared to normal brain tissue."
+    },
+    {
+      "number": 9,
+      "question": "The central volume equation relates which three hemodynamic parameters?",
+      "choices": [
+        "CBF = CBV x MTT",
+        "CBF = CBV / MTT",
+        "MTT = CBF / CBV",
+        "Tmax = CBF + CBV",
+        "CBV = CBF / TTP"
+      ],
+      "answer": "B",
+      "detail": "The central volume equation states that cerebral blood flow (CBF) is equal to cerebral blood volume (CBV) divided by the mean transit time (MTT)."
+    },
+    {
+      "number": 10,
+      "question": "A Tmax delay of greater than how many seconds is typically used to define the ischemic penumbra?",
+      "choices": [
+        "2 seconds",
+        "4 seconds",
+        "6 seconds",
+        "12 seconds",
+        "20 seconds"
+      ],
+      "answer": "C",
+      "detail": "A delay in Tmax of more than 6 seconds is the standard threshold used to define hypoperfused tissue within the ischemic penumbra."
+    },
+    {
+      "number": 11,
+      "question": "The 'insular ribbon sign' on a noncontrast head CT refers to:",
+      "choices": [
+        "Hyperdense thrombus in the M1 segment",
+        "Loss of gray-white differentiation in the insular cortex",
+        "Enhancement of the leptomeninges",
+        "Calcification of the basal ganglia",
+        "Widening of the Sylvian fissure"
+      ],
+      "answer": "B",
+      "detail": "The 'insular ribbon sign' is characterized by the loss of normal differentiation between gray and white matter in the insular cortex on a noncontrast CT scan."
+    },
+    {
+      "number": 12,
+      "question": "Which CT finding is specific for ischemia but only seen in approximately 1/3 of cases?",
+      "choices": [
+        "Sulcal effacement",
+        "Hyperdense artery sign",
+        "Midline shift",
+        "Ventricular entrapment",
+        "Duret hemorrhage"
+      ],
+      "answer": "B",
+      "detail": "The 'hyperdense artery sign' is a specific indicator of acute ischemia, although it is only present in about one-third of stroke cases."
+    },
+    {
+      "number": 13,
+      "question": "What is the MRI correlate to the CT 'hyperdense artery sign'?",
+      "choices": [
+        "Restricted diffusion on DWI",
+        "Blooming artifact on GRE or SWI within a vessel",
+        "Gyriform enhancement",
+        "Bright T1 signal in the cortex",
+        "'Ivy sign' on FLAIR"
+      ],
+      "answer": "B",
+      "detail": "On MRI, the presence of blooming artifact within a vessel on GRE or SWI sequences corresponds to the hyperdense artery sign seen on CT."
+    },
+    {
+      "number": 14,
+      "question": "Within minutes of critical ischemia, why does DWI show reduced diffusivity?",
+      "choices": [
+        "Breakdown of the blood-brain barrier",
+        "Failure of the Na/K ATPase pump leading to cytotoxic edema",
+        "Rapid clearance of intracellular water",
+        "Accumulation of paramagnetic iron",
+        "Loss of white matter myelin"
+      ],
+      "answer": "B",
+      "detail": "Reduced diffusivity on DWI occurs very quickly after ischemia because the Na/K ATPase pump fails, leading to the development of cytotoxic edema."
+    },
+    {
+      "number": 15,
+      "question": "At what stage does an infarct typically show peak mass effect and sulcal effacement?",
+      "choices": [
+        "Hyperacute (0–6 hours)",
+        "Acute to early subacute (3–5 days)",
+        "Late subacute (2 weeks)",
+        "Chronic (6 months)",
+        "Only after hemorrhagic transformation"
+      ],
+      "answer": "B",
+      "detail": "The mass effect and sulcal effacement associated with an infarct usually peak during the acute to early subacute stage, roughly 3 to 5 days after the event."
+    },
+    {
+      "number": 16,
+      "question": "In which phase of infarction does T2/FLAIR hyperintensity first reliably extend to involve the white matter?",
+      "choices": [
+        "Hyperacute",
+        "Acute (6–72 hours)",
+        "Early subacute (1.5–5 days)",
+        "Chronic",
+        "Never; it is restricted to gray matter"
+      ],
+      "answer": "C",
+      "detail": "While early T2/FLAIR changes may be subtle, hyperintensity typically extends to include the white matter during the early subacute phase, between 1.5 and 5 days."
+    },
+    {
+      "number": 17,
+      "question": "'Gyriform enhancement' in a late subacute infarct typically lasts for which duration?",
+      "choices": [
+        "24–48 hours",
+        "6 days to 6 weeks",
+        "6 months to 1 year",
+        "Permanently",
+        "Only during the first 6 hours"
+      ],
+      "answer": "B",
+      "detail": "Gyriform enhancement is a characteristic of late subacute infarcts and generally lasts from 6 days to about 6 weeks."
+    },
+    {
+      "number": 18,
+      "question": "According to the '2-2-2' rule for subacute infarct enhancement, when does the enhancement peak?",
+      "choices": [
+        "2 hours",
+        "2 days",
+        "2 weeks",
+        "2 months",
+        "2 years"
+      ],
+      "answer": "C",
+      "detail": "The '2-2-2' rule states that enhancement in a subacute infarct begins at 2 days, reaches its peak at 2 weeks, and typically fades by 2 months."
+    },
+    {
+      "number": 19,
+      "question": "How can a subacute infarct be distinguished from a tumor if both show enhancement?",
+      "choices": [
+        "Infarcts have more mass effect",
+        "Infarcts lack significant mass effect at the time of enhancement",
+        "Infarcts always involve the corpus callosum",
+        "Tumors never show restricted diffusion",
+        "Only infarcts show Choline peaks on MRS"
+      ],
+      "answer": "B",
+      "detail": "By the time a subacute infarct demonstrates enhancement, it typically lacks significant mass effect, which helps differentiate it from an enhancing tumor."
+    },
+    {
+      "number": 20,
+      "question": "Cortical laminar necrosis is characterized by lipid-laden macrophages and manifests as:",
+      "choices": [
+        "T1 and T2 hypointensity",
+        "T1 and T2 hyperintensity",
+        "Restricted diffusion with no T2 change",
+        "Diffuse volume loss only",
+        "'Ivy sign' in the sulci"
+      ],
+      "answer": "B",
+      "detail": "Cortical laminar necrosis involves the accumulation of lipid-laden macrophages and appears as hyperintensity on both T1 and T2-weighted MRI sequences."
+    },
+    {
+      "number": 21,
+      "question": "A 'V-shaped' midbrain infarct combined with bilateral ventromedial thalamic infarcts is pathognomonic for:",
+      "choices": [
+        "Deep venous thrombosis",
+        "Artery of Percheron infarction",
+        "Recurrent artery of Heubner occlusion",
+        "Superior cerebellar artery (SCA) stroke",
+        "Top-of-the-basilar syndrome"
+      ],
+      "answer": "B",
+      "detail": "The combination of bilateral ventromedial thalamic infarcts and a 'V-shaped' midbrain infarct is a pathognomonic finding for an Artery of Percheron infarction."
+    },
+    {
+      "number": 22,
+      "question": "Which small vessel supplies the caudate head and the anterior limb of the internal capsule?",
+      "choices": [
+        "Anterior choroidal artery",
+        "Thalamoperforators",
+        "Recurrent artery of Heubner",
+        "Lateral lenticulostriates",
+        "P-comm"
+      ],
+      "answer": "C",
+      "detail": "The recurrent artery of Heubner is responsible for supplying the head of the caudate and the anterior limb of the internal capsule."
+    },
+    {
+      "number": 23,
+      "question": "Occlusion of the anterior choroidal artery results in infarction of which structures?",
+      "choices": [
+        "Optic chiasm, hippocampus, and posterior limb of the internal capsule",
+        "Thalamus and midbrain",
+        "Frontal pole and corpus callosum",
+        "Cerebellar vermis",
+        "Medulla"
+      ],
+      "answer": "A",
+      "detail": "Anterior choroidal artery occlusions lead to infarcts involving the optic chiasm, the hippocampus, and the posterior limb of the internal capsule."
+    },
+    {
+      "number": 24,
+      "question": "Infarction of the bilateral thalami is a characteristic pattern for which two conditions?",
+      "choices": [
+        "MCA stroke and ACA stroke",
+        "Deep venous system thrombosis or Artery of Percheron infarct",
+        "PCA stroke and SCA stroke",
+        "PICA stroke and AICA stroke",
+        "Moyamoya and CADASIL"
+      ],
+      "answer": "B",
+      "detail": "Bilateral thalamic infarction is typically caused by either deep venous system thrombosis or an infarction of the Artery of Percheron."
+    },
+    {
+      "number": 25,
+      "question": "Superior sagittal sinus thrombosis characteristically causes infarction in the:",
+      "choices": [
+        "Posterior temporal lobe",
+        "Bilateral thalami",
+        "Parasagittal high convexity cortex",
+        "Medulla",
+        "Basal ganglia"
+      ],
+      "answer": "C",
+      "detail": "Thrombosis in the superior sagittal sinus classically results in venous infarction within the parasagittal high convexity cortex."
+    },
+    {
+      "number": 26,
+      "question": "The 'ivy sign' on FLAIR MRI is a marker of slow collateral flow in which condition?",
+      "choices": [
+        "Acute MCA stroke",
+        "Moyamoya disease",
+        "Multiple sclerosis",
+        "ADEM",
+        "Radiation necrosis"
+      ],
+      "answer": "B",
+      "detail": "The 'ivy sign' seen on FLAIR images is a marker of slow collateral flow characteristic of Moyamoya disease."
+    },
+    {
+      "number": 27,
+      "question": "CADASIL (an inherited small vessel arteriopathy) characteristically shows symmetric T2 hyperintensity in which specific location?",
+      "choices": [
+        "Posterior limb of the internal capsule",
+        "Anterior temporal lobes or paramedian frontal lobes",
+        "Medulla",
+        "Occipital cortex",
+        "Thalamus"
+      ],
+      "answer": "B",
+      "detail": "CADASIL typically presents with symmetric T2 hyperintensities located in the anterior temporal lobes or the paramedian frontal lobes."
+    },
+    {
+      "number": 28,
+      "question": "Posterior reversible encephalopathy syndrome (PRES) is typically triggered by:",
+      "choices": [
+        "Chronic hypotension",
+        "Acute hypertension, eclampsia, or chemotherapy",
+        "Bacterial meningitis",
+        "Rupture of a mycotic aneurysm",
+        "Thiamine deficiency"
+      ],
+      "answer": "B",
+      "detail": "PRES is most commonly triggered by acute hypertension, eclampsia, or certain chemotherapy regimens."
+    },
+    {
+      "number": 29,
+      "question": "Which condition presents with 'stroke-like' migraine attacks years after radiotherapy?",
+      "choices": [
+        "CADASIL",
+        "SMART syndrome",
+        "Binswanger disease",
+        "Marburg variant",
+        "Hurst variant"
+      ],
+      "answer": "B",
+      "detail": "SMART syndrome (stroke-like migraine attacks after radiation therapy) is a delayed complication of radiotherapy that can occur years later."
+    },
+    {
+      "number": 30,
+      "question": "Duret hemorrhages in the pons are a secondary complication of:",
+      "choices": [
+        "Primary PICA occlusion",
+        "Downward transtentorial herniation causing shearing of perforators",
+        "Superior sagittal sinus thrombosis",
+        "Chronic hypertension",
+        "Amyloid angiopathy"
+      ],
+      "answer": "B",
+      "detail": "Duret hemorrhages in the pons occur when downward transtentorial herniation causes shearing of small perforating arteries."
+    }
+  ]
+}
