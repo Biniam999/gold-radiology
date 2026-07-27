@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "number": 19,
+      "question": "A \"thoracic aortic aneurysm\" (TAA) is generally defined when the diameter of the ascending aorta exceeds:",
+      "choices": [
+        "2.0 cm",
+        "3.0 cm",
+        "4.0 cm",
+        "5.0 cm",
+        "6.0 cm"
+      ],
+      "answer": "C",
+      "detail": "Diameters greater than 4 cm in the ascending aorta are generally considered aneurysmal."
+    },
+    {
+      "number": 20,
+      "question": "In a patient with Marfan syndrome, the \"tulip bulb\" appearance of the aortic root is a manifestation of:",
+      "choices": [
+        "Coarctation",
+        "Annuloaortic ectasia",
+        "Takayasu arteritis",
+        "Pseudocoarctation",
+        "IMH"
+      ],
+      "answer": "B",
+      "detail": "This features dilation of the sinuses of Valsalva and the aortic annulus, which is characteristic of collagen vascular diseases."
+    },
+    {
+      "number": 21,
+      "question": "Which vasculitis characteristically affects the aortic arch and its primary branches in young women, leading to stenosis or occlusion?",
+      "choices": [
+        "Giant Cell Arteritis",
+        "Polyarteritis Nodosa",
+        "Takayasu Arteritis",
+        "Buerger disease",
+        "Kawasaki disease"
+      ],
+      "answer": "C",
+      "detail": "Also known as \"pulseless disease,\" Takayasu Arteritis causes granulomatous inflammation of the large vessels in young patients."
+    },
+    {
+      "number": 22,
+      "question": "\"Giant Cell Arteritis\" (GCA) typically involves which of the following vessels?",
+      "choices": [
+        "Renal arteries",
+        "Superficial temporal and subclavian arteries",
+        "Mesenteric arteries",
+        "Coronary arteries only",
+        "Pulmonary veins"
+      ],
+      "answer": "B",
+      "detail": "GCA is a large vessel vasculitis seen in older adults and is often associated with Polymyalgia Rheumatica."
+    },
+    {
+      "number": 23,
+      "question": "On a chest radiograph, the \"figure-3 sign\" and \"rib notching\" are classic indicators of:",
+      "choices": [
+        "Aortic dissection",
+        "Aortic coarctation",
+        "Marfan syndrome",
+        "Takayasu arteritis",
+        "Patent ductus arteriosus"
+      ],
+      "answer": "B",
+      "detail": "The \"3\" is formed by pre- and post-stenotic dilation, while rib notching results from collateral flow through intercostal arteries."
+    },
+    {
+      "number": 24,
+      "question": "\"Post-ductal\" coarctation is the most common type in adults and is located:",
+      "choices": [
+        "Proximal to the ductus arteriosus",
+        "Distal to the left subclavian artery origin",
+        "Within the aortic root",
+        "In the abdominal aorta",
+        "At the celiac origin"
+      ],
+      "answer": "B",
+      "detail": "This is the adult (post-ductal) type of coarctation, which often remains asymptomatic until later in life."
+    },
+    {
+      "number": 25,
+      "question": "\"Pseudocoarctation\" differs from true coarctation because it:",
+      "choices": [
+        "Lacks a pressure gradient or collateral circulation",
+        "Is malignant",
+        "Only occurs in children",
+        "Always requires surgery",
+        "Is caused by a mass"
+      ],
+      "answer": "A",
+      "detail": "Pseudocoarctation is an anatomical \"kinking\" of the aorta that lacks hemodynamically significant narrowing."
+    },
+    {
+      "number": 26,
+      "question": "A \"shaggy\" or \"cobblestone\" appearance of the aortic wall on angiography is a sign of:",
+      "choices": [
+        "Acute dissection",
+        "Severe ulcerative atherosclerosis",
+        "Takayasu arteritis",
+        "Coarctation",
+        "Normal variant"
+      ],
+      "answer": "B",
+      "detail": "This irregular contour of the aortic wall is a marker of high-risk atherosclerotic plaque."
+    }
+  ]
+}

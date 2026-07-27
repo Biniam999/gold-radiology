@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "number": 68,
+      "question": "When performing spectral Doppler for vascular assessment, what is the ideal angle of incidence (angle correction) to ensure accurate velocity measurements?",
+      "choices": [
+        "A. 0 degrees",
+        "B. 30 degrees",
+        "C. 60 degrees (or less)",
+        "D. 90 degrees",
+        "E. 180 degrees"
+      ],
+      "answer": "C",
+      "detail": "As the angle approaches 90 degrees, the cosine error increases exponentially, making velocity calculations unreliable."
+    },
+    {
+      "number": 69,
+      "question": "In the assessment of carotid stenosis, a 'Peak Systolic Velocity' (PSV) greater than 230 cm/sec in the ICA generally corresponds to what degree of stenosis?",
+      "choices": [
+        "A. < 50%",
+        "B. 50–69%",
+        "C. ≥ 70%",
+        "D. Total occlusion",
+        "E. Normal"
+      ],
+      "answer": "C",
+      "detail": "This is a standard SRU (Society of Radiologists in Ultrasound) criterion for high-grade stenosis."
+    },
+    {
+      "number": 70,
+      "question": "How can the Internal Carotid Artery (ICA) be distinguished from the External Carotid Artery (ECA) on ultrasound?",
+      "choices": [
+        "A. The ICA has a lower-resistance waveform (continuous flow in diastole)",
+        "B. The ECA has branch vessels in the neck",
+        "C. The ECA responds to a 'temporal tap' (shuddering on spectral)",
+        "D. All of the above",
+        "E. None of the above"
+      ],
+      "answer": "D",
+      "detail": "Lower-resistance flow, presence of branches in the ECA, and the temporal tap are all standard sonographic features used for identification."
+    },
+    {
+      "number": 71,
+      "question": "A 'triphasic' waveform in a peripheral artery (e.g., femoral) represents:",
+      "choices": [
+        "A. Proximal stenosis",
+        "B. Normal, high-resistance flow",
+        "C. Venous contamination",
+        "D. Congestive heart failure",
+        "E. AV fistula"
+      ],
+      "answer": "B",
+      "detail": "The three phases represent systole, early diastolic reversal, and late diastolic forward flow."
+    },
+    {
+      "number": 72,
+      "question": "What is the most reliable sonographic sign for the diagnosis of Acute Deep Venous Thrombosis (DVT)?",
+      "choices": [
+        "A. Visualizing the clot",
+        "B. Lack of venous compressibility with transducer pressure",
+        "C. Spontaneous flow",
+        "D. Phasic variation with respiration",
+        "E. Increased flow on augmentation"
+      ],
+      "answer": "B",
+      "detail": "The failure of the vein walls to touch under transducer compression is the primary diagnostic criterion for DVT."
+    },
+    {
+      "number": 73,
+      "question": "A 'tardus-parvus' waveform (slow upstroke, low amplitude) in the distal vessels indicates:",
+      "choices": [
+        "A. Normal flow",
+        "B. Significant proximal (upstream) stenosis or occlusion",
+        "C. Venous reflux",
+        "D. Distal aneurysm",
+        "E. Vasculitis"
+      ],
+      "answer": "B",
+      "detail": "This waveform is the classic downstream manifestation of a hemodynamically significant narrowing or occlusion."
+    },
+    {
+      "number": 74,
+      "question": "The 'Resistive Index' (RI) is calculated using which formula?",
+      "choices": [
+        "A. (PSV + EDV) / PSV",
+        "B. (PSV – EDV) / PSV",
+        "C. PSV / EDV",
+        "D. EDV / PSV",
+        "E. (PSV – EDV) / EDV"
+      ],
+      "answer": "B",
+      "detail": "The RI measures resistance to flow; higher values indicate higher peripheral resistance."
+    },
+    {
+      "number": 75,
+      "question": "'Venous reflux' (insufficiency) is diagnosed when reversal of flow lasts longer than what threshold during a standing or provocative exam?",
+      "choices": [
+        "A. 0.1 seconds",
+        "B. 0.5 seconds",
+        "C. 2.0 seconds",
+        "D. 5.0 seconds",
+        "E. Reflux is never abnormal"
+      ],
+      "answer": "B",
+      "detail": "Retrograde flow >0.5 seconds in the superficial veins (or >1.0s in the deep veins) is diagnostic of valvular incompetence."
+    }
+  ]
+}

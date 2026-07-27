@@ -1,0 +1,290 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "A 60-year-old male presents with progressive dyspnea. CT shows subpleural reticulation and honeycombing with a posterior basal predominance. According to the 2018 ATS guidelines, this pattern is diagnostic of:",
+      "choices": [
+        "Nonspecific interstitial pneumonitis (NSIP)",
+        "Probable Usual interstitial pneumonia (UIP)",
+        "Definitive Usual interstitial pneumonia (UIP)",
+        "Hypersensitivity pneumonitis",
+        "Desquamative interstitial pneumonia (DIP)"
+      ],
+      "answer": "C",
+      "detail": "The presence of subpleural, basal-predominant reticulation and honeycombing, in the absence of inconsistent features, is the hallmark of a UIP pattern."
+    },
+    {
+      "number": 2,
+      "question": "Which radiographic finding allows for the avoidance of a surgical lung biopsy in a patient suspected of having Idiopathic Pulmonary Fibrosis (IPF)?",
+      "choices": [
+        "Mid-lung predominant ground-glass opacities",
+        "Peripheral basal location of reticulation and honeycombing",
+        "Extensive mosaic attenuation on expiratory imaging",
+        "Mediastinal lymphadenopathy",
+        "Peribronchovascular thickening"
+      ],
+      "answer": "B",
+      "detail": "If characteristic features of UIP (specifically peripheral basal reticulation/honeycombing) are present on CT, surgical biopsy is often unnecessary for a diagnosis."
+    },
+    {
+      "number": 3,
+      "question": "A 45-year-old female with known scleroderma presents with a dry cough. CT demonstrates ground-glass opacities with peribronchial predominance in the lower lobes and sparing of the immediate subpleural lung. What is the most likely diagnosis?",
+      "choices": [
+        "Usual interstitial pneumonia (UIP)",
+        "Nonspecific interstitial pneumonitis (NSIP)",
+        "Cryptogenic organizing pneumonia (COP)",
+        "Sarcoidosis",
+        "Asbestosis"
+      ],
+      "answer": "B",
+      "detail": "Peribronchial ground-glass opacities and the specific finding of subpleural sparing are highly characteristic of NSIP, which is the most common pulmonary manifestation of collagen vascular diseases."
+    },
+    {
+      "number": 4,
+      "question": "On a CT of the chest, dilated esophagus is noted in a patient with lower-lobe reticulation. This finding should increase your suspicion for which underlying condition?",
+      "choices": [
+        "Rheumatoid arthritis",
+        "Scleroderma",
+        "Systemic Lupus Erythematosus (SLE)",
+        "Dermatomyositis",
+        "Mixed connective tissue disease"
+      ],
+      "answer": "B",
+      "detail": "Esophageal dilation is a key imaging 'clue' to the presence of scleroderma, which frequently presents with an NSIP pattern."
+    },
+    {
+      "number": 5,
+      "question": "How does the clinical management and prognosis of NSIP generally differ from IPF/UIP?",
+      "choices": [
+        "NSIP has a worse 5-year survival rate.",
+        "NSIP does not respond to corticosteroids.",
+        "NSIP patients are typically older (70–80 years).",
+        "NSIP has a better 5-year survival rate and responds to steroids.",
+        "Both conditions are treated exclusively with lung transplant."
+      ],
+      "answer": "D",
+      "detail": "Patients with NSIP are typically younger (40–50s) than those with IPF and have a significantly better prognosis because the disease is steroid-responsive."
+    },
+    {
+      "number": 6,
+      "question": "Which feature is considered 'inconsistent' with a UIP pattern according to the 2018 ATS guidelines and suggests an alternative diagnosis?",
+      "choices": [
+        "Basal predominance",
+        "Reticulation",
+        "Upper or mid-lung predominant distribution",
+        "Honeycombing",
+        "Traction bronchiectasis"
+      ],
+      "answer": "C",
+      "detail": "UIP is a lower-lung predominant disease; if the disease is primarily upper or mid-lung, alternative diagnoses like chronic hypersensitivity pneumonitis or sarcoidosis must be considered."
+    },
+    {
+      "number": 7,
+      "question": "'Crazy paving' (ground-glass opacity with superimposed interlobular septal thickening) is the classic imaging pattern for which of the following?",
+      "choices": [
+        "Lymphangioleiomyomatosis (LAM)",
+        "Pulmonary Alveolar Proteinosis (PAP)",
+        "Usual interstitial pneumonia (UIP)",
+        "Silicosis",
+        "Langerhans Cell Histiocytosis (LCH)"
+      ],
+      "answer": "B",
+      "detail": "While not exclusive to PAP, 'crazy paving' is its hallmark manifestation in the appropriate clinical context."
+    },
+    {
+      "number": 8,
+      "question": "Which nodular distribution on CT is characterized by tiny nodules following the pleural surfaces, fissures, and the bronchovascular bundle?",
+      "choices": [
+        "Random",
+        "Centrilobular",
+        "Perilymphatic",
+        "Randomly scattered cavitary nodules",
+        "Miliary"
+      ],
+      "answer": "C",
+      "detail": "Perilymphatic nodules are found along the lymphatic pathways: subpleural surfaces, interlobular septa, and the bronchovascular bundle."
+    },
+    {
+      "number": 9,
+      "question": "The 'Galaxy sign' is most commonly associated with which diffuse lung disease?",
+      "choices": [
+        "Miliary Tuberculosis",
+        "Sarcoidosis",
+        "Pneumoconiosis",
+        "Metastatic adenocarcinoma",
+        "NSIP"
+      ],
+      "answer": "B",
+      "detail": "The galaxy sign occurs in pulmonary sarcoidosis when perilymphatic nodules become confluent, appearing as many tiny nodules surrounding a larger central lesion."
+    },
+    {
+      "number": 10,
+      "question": "What distinguishes the 'Probable UIP' pattern from the 'UIP' pattern in the ATS guidelines?",
+      "choices": [
+        "Absence of reticulation",
+        "Absence of honeycombing",
+        "Presence of pleural effusions",
+        "Presence of micronodules",
+        "Upper lobe predominance"
+      ],
+      "answer": "B",
+      "detail": "According to the 2018 guidelines, a Probable UIP pattern has subpleural basal reticulation but no honeycombing."
+    },
+    {
+      "number": 11,
+      "question": "Which of the following is a known cause of the NSIP pattern?",
+      "choices": [
+        "Cigarette smoking only",
+        "Drug reaction",
+        "Acute bacterial pneumonia",
+        "Asbestos exposure",
+        "Alpha-1 antitrypsin deficiency"
+      ],
+      "answer": "B",
+      "detail": "In addition to collagen vascular diseases, NSIP can be caused by various drug reactions."
+    },
+    {
+      "number": 12,
+      "question": "A 30-year-old female presents with multiple thin-walled, round cysts distributed uniformly throughout the lungs. Chylous pleural effusions are present. What is the most likely diagnosis?",
+      "choices": [
+        "Langerhans Cell Histiocytosis (LCH)",
+        "Lymphangioleiomyomatosis (LAM)",
+        "Birt-Hogg-Dubé syndrome",
+        "Pneumocystis pneumonia",
+        "Emphysema"
+      ],
+      "answer": "B",
+      "detail": "LAM is a cystic lung disease of young women often associated with tuberous sclerosis and chylous effusions."
+    },
+    {
+      "number": 13,
+      "question": "In contrast to UIP, what is the histological hallmark of NSIP?",
+      "choices": [
+        "Fibroblastic foci and temporal heterogeneity",
+        "Thickened alveolar septa from chronic inflammation",
+        "Diffuse alveolar damage",
+        "Granulomatous inflammation",
+        "Necrotizing vasculitis"
+      ],
+      "answer": "B",
+      "detail": "Histologically, NSIP features uniform thickened alveolar septa due to chronic inflammation, unlike the patchy temporal heterogeneity seen in UIP."
+    },
+    {
+      "number": 14,
+      "question": "A smoking patient presents with upper-lobe predominant, bizarre-shaped cysts and nodules. What is the likely diagnosis?",
+      "choices": [
+        "LAM",
+        "Langerhans Cell Histiocytosis (LCH)",
+        "UIP",
+        "Sarcoidosis",
+        "Bronchial atresia"
+      ],
+      "answer": "B",
+      "detail": "LCH is a smoking-related disease that progresses from centrilobular nodules to irregular, 'bizarre-shaped' cysts in the upper and mid-lung."
+    },
+    {
+      "number": 15,
+      "question": "'Tree-in-bud' opacities on CT are highly suggestive of:",
+      "choices": [
+        "Pulmonary edema",
+        "Infectious bronchiolitis",
+        "Interstitial fibrosis",
+        "Pulmonary hypertension",
+        "Asbestosis"
+      ],
+      "answer": "B",
+      "detail": "This sign represents small airway impaction with mucus or pus and is a classic finding for infection or aspiration."
+    },
+    {
+      "number": 16,
+      "question": "Which of the following patterns on CT suggests a diagnosis of Chronic Hypersensitivity Pneumonitis over UIP?",
+      "choices": [
+        "Subpleural honeycombing",
+        "Traction bronchiectasis",
+        "Extensive mosaic attenuation and air trapping",
+        "Lower lobe predominance",
+        "Volume loss"
+      ],
+      "answer": "C",
+      "detail": "Mosaic attenuation/air trapping is an 'alternative diagnosis' feature that strongly suggests chronic hypersensitivity pneumonitis (HP)."
+    },
+    {
+      "number": 17,
+      "question": "Lymphangitic carcinomatosis is characterized on CT by:",
+      "choices": [
+        "Smooth, basilar interlobular septal thickening",
+        "Nodular or 'beaded' interlobular septal thickening",
+        "'Bizarre' shaped cysts",
+        "Upper lobe predominant nodules",
+        "Spinnaker sail sign"
+      ],
+      "answer": "B",
+      "detail": "While edema causes smooth septal thickening, lymphangitic spread of tumor typically causes a nodular or beaded appearance of the septa."
+    },
+    {
+      "number": 18,
+      "question": "A 'Reverse Halo Sign' (Atoll sign) is highly specific for:",
+      "choices": [
+        "Sarcoidosis",
+        "Cryptogenic Organizing Pneumonia (COP)",
+        "UIP",
+        "Miliary TB",
+        "Alveolar Proteinosis"
+      ],
+      "answer": "B",
+      "detail": "The atoll sign is characterized by a central area of ground glass surrounded by a ring of consolidation."
+    },
+    {
+      "number": 19,
+      "question": "Which condition is a smoking-related interstitial lung disease featuring diffuse ground-glass opacities and centrilobular nodules?",
+      "choices": [
+        "UIP",
+        "Respiratory Bronchiolitis-Interstitial Lung Disease (RB-ILD)",
+        "LAM",
+        "Birt-Hogg-Dubé",
+        "Asbestosis"
+      ],
+      "answer": "B",
+      "detail": "RB-ILD is one of the smoking-related ILDs characterized by centrilobular ground-glass nodules."
+    },
+    {
+      "number": 20,
+      "question": "Silicosis and Coal Worker’s Pneumoconiosis typically present with which nodular distribution?",
+      "choices": [
+        "Lower lobe predominant random nodules",
+        "Upper lobe predominant perilymphatic nodules",
+        "Diffuse centrilobular nodules",
+        "Subpleural sparing ground-glass opacities",
+        "Bizarre cysts"
+      ],
+      "answer": "B",
+      "detail": "These pneumoconioses follow a perilymphatic distribution and favor the upper lobes."
+    },
+    {
+      "number": 21,
+      "question": "'Eggshell' calcification of hilar lymph nodes is a classic (though not common) finding in:",
+      "choices": [
+        "Sarcoidosis",
+        "Silicosis",
+        "Tuberculosis",
+        "Lymphoma",
+        "Both A and B"
+      ],
+      "answer": "E",
+      "detail": "Eggshell calcification is most classic for silicosis but is also frequently seen in sarcoidosis."
+    },
+    {
+      "number": 22,
+      "question": "Which diffuse lung disease is associated with multiple renal angiomyolipomas and cardiac rhabdomyomas?",
+      "choices": [
+        "Sarcoidosis",
+        "Tuberous Sclerosis (causing LAM)",
+        "Neurofibromatosis type 1",
+        "Birt-Hogg-Dubé syndrome",
+        "Langerhans Cell Histiocytosis"
+      ],
+      "answer": "B",
+      "detail": "LAM is the pulmonary manifestation of the Tuberous Sclerosis complex, which also includes renal AMIs and cardiac rhabdomyomas."
+    }
+  ]
+}

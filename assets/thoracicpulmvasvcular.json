@@ -1,0 +1,160 @@
+{
+  "questions": [
+    {
+      "number": 24,
+      "question": "On a chest radiograph, the \"Westermark sign\" of acute pulmonary embolism represents:",
+      "choices": [
+        "A wedge-shaped peripheral opacity",
+        "Focal oligemia (decreased vascular markings) distal to an embolus",
+        "Dilation of the right main pulmonary artery",
+        "Pleural effusion",
+        "Elevated hemidiaphragm"
+      ],
+      "answer": "B",
+      "detail": "Westermark sign is a classic but rare sign of PE reflecting reduced perfusion."
+    },
+    {
+      "number": 25,
+      "question": "A peripheral, wedge-shaped opacity on a chest radiograph in a patient with pleuritic chest pain is known as:",
+      "choices": [
+        "Fleischner sign",
+        "Knuckle sign",
+        "Hampton’s hump",
+        "Palla sign",
+        "Golden S sign"
+      ],
+      "answer": "C",
+      "detail": "This represents a pulmonary infarct distal to a PE."
+    },
+    {
+      "number": 26,
+      "question": "What is the CT hallmark for the diagnosis of Acute Pulmonary Embolism?",
+      "choices": [
+        "Mosaic attenuation",
+        "An intraluminal arterial filling defect",
+        "Pericardial effusion",
+        "Bronchiectasis",
+        "Enlarged right ventricle"
+      ],
+      "answer": "B",
+      "detail": "On contrast-enhanced CTPA, the embolus appears as a dark filling defect within the bright contrast-filled artery."
+    },
+    {
+      "number": 27,
+      "question": "Chronic Thromboembolic Pulmonary Hypertension (CTEPH) is characterized on CT by which of the following?",
+      "choices": [
+        "Acute \"saddle\" embolus",
+        "Webbing and eccentric calcified thrombi adherent to the vessel wall",
+        "Batwing opacities",
+        "Diffuse ground-glass opacities",
+        "Air crescent sign"
+      ],
+      "answer": "B",
+      "detail": "Chronic clots become incorporated into the wall, often forming webs or bands."
+    },
+    {
+      "number": 28,
+      "question": "In the evaluation of pulmonary hypertension on CT, a main pulmonary artery diameter greater than what threshold is considered enlarged?",
+      "choices": [
+        "20 mm",
+        "25 mm",
+        "29 mm",
+        "35 mm",
+        "40 mm"
+      ],
+      "answer": "C",
+      "detail": "A main PA diameter ≥29 mm is a highly specific indicator of pulmonary hypertension."
+    },
+    {
+      "number": 29,
+      "question": "Mosaic attenuation on CT can be caused by either small airway disease or vascular disease. How does expiratory CT help differentiate them?",
+      "choices": [
+        "Air trapping from airway disease becomes more apparent on expiration",
+        "Vascular disease shows air trapping on expiration",
+        "Both show the same pattern on expiration",
+        "Airway disease disappears on expiration",
+        "Expiratory CT is only useful for nodules"
+      ],
+      "answer": "A",
+      "detail": "In small airway disease, the lucent areas remain lucent (trap air), whereas in purely vascular disease, the lucent areas increase in density normally."
+    },
+    {
+      "number": 30,
+      "question": "Right ventricular (RV) strain from a large PE is suggested on CT by:",
+      "choices": [
+        "An RV to LV diameter ratio > 1.0",
+        "A small right atrium",
+        "Dilated superior vena cava only",
+        "Flattening of the interventricular septum",
+        "Both A and D"
+      ],
+      "answer": "E",
+      "detail": "RV enlargement (ratio > 1.0) and septal bowing are critical signs of acute RV strain."
+    },
+    {
+      "number": 31,
+      "question": "Pulmonary Arterial Hypertension (PAH) is defined hemodynamically by a mean pulmonary artery pressure (mPAP) greater than:",
+      "choices": [
+        "15 mmHg",
+        "20 mmHg",
+        "25 mmHg",
+        "30 mmHg",
+        "40 mmHg"
+      ],
+      "answer": "C",
+      "detail": "While some recent guidelines use 20 mmHg, 25 remains the classic boards answer for PAH definition."
+    },
+    {
+      "number": 32,
+      "question": "Which vascular anomaly involves a partial anomalous pulmonary venous return (PAPVR) from the right lung to the IVC?",
+      "choices": [
+        "Pulmonary sequestration",
+        "Scimitar syndrome",
+        "Osler-Weber-Rendu",
+        "Eisenmenger syndrome",
+        "Tetralogy of Fallot"
+      ],
+      "answer": "B",
+      "detail": "The \"scimitar\" is the anomalous vein curving toward the diaphragm."
+    },
+    {
+      "number": 33,
+      "question": "Septal lines (Kerley B lines) appearing in a patient with mitral stenosis but NO acute heart failure represent:",
+      "choices": [
+        "Acute alveolar edema",
+        "Chronic lymphatic engorgement and fibrosis",
+        "Pulmonary infarction",
+        "Bacterial pneumonia",
+        "Bronchiectasis"
+      ],
+      "answer": "B",
+      "detail": "In chronic conditions like mitral stenosis, septal lines can become permanent due to fibrosis."
+    },
+    {
+      "number": 34,
+      "question": "The \"Knuckle sign\" (or Palla sign) refers to:",
+      "choices": [
+        "A peripheral wedge infarct",
+        "An abruptly tapering or \"chopped off\" pulmonary artery due to a large embolus",
+        "Rib notching",
+        "Mediastinal shift",
+        "Enlarged azygos vein"
+      ],
+      "answer": "B",
+      "detail": "This is a radiographic sign of a large central PE."
+    },
+    {
+      "number": 35,
+      "question": "A patient with Hereditary Hemorrhagic Telangiectasia (HHT) is most likely to have which pulmonary vascular finding?",
+      "choices": [
+        "Pulmonary embolism",
+        "Pulmonary artery hypertension",
+        "Multiple Pulmonary Arteriovenous Malformations (AVMs)",
+        "Aortic aneurysm",
+        "CTEPH"
+      ],
+      "answer": "C",
+      "detail": "HHT (Osler-Weber-Rendu) is strongly associated with pulmonary AVMs, which can cause paradoxical emboli to the brain."
+    }
+  ]
+}

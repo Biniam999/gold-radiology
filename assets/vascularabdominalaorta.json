@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "number": 27,
+      "question": "What is the standard threshold for elective surgical repair of an Abdominal Aortic Aneurysm (AAA) in a male patient?",
+      "choices": [
+        "> 3.0 cm",
+        "> 4.5 cm",
+        "> 5.5 cm",
+        "> 7.0 cm",
+        "Exactly 5.0 cm"
+      ],
+      "answer": "C",
+      "detail": "For males, repair is generally indicated at 5.5 cm; for females, the threshold is often lower at 5.0 cm."
+    },
+    {
+      "number": 28,
+      "question": "The \"draped aorta sign\" on CT (posterior wall of the aneurysm following the contour of the spine) is a sign of:",
+      "choices": [
+        "Normal anatomy",
+        "Chronic aneurysm",
+        "Impending or contained rupture",
+        "Inflammatory AAA",
+        "Endoleak"
+      ],
+      "answer": "C",
+      "detail": "This suggests the aneurysm wall is no longer self-supporting and is being contained by the retroperitoneum."
+    },
+    {
+      "number": 29,
+      "question": "Following EVAR, a \"Type I\" endoleak refers to:",
+      "choices": [
+        "Retrograde flow from a branch vessel (e.g., IMA)",
+        "An inadequate seal at the proximal or distal attachment sites",
+        "A tear in the graft fabric",
+        "Graft porosity (early post-op)",
+        "Increased pressure without visible leak"
+      ],
+      "answer": "B",
+      "detail": "Type I leaks are high-pressure leaks at the attachment points and require immediate intervention."
+    },
+    {
+      "number": 30,
+      "question": "Which endoleak is the most common and results from retrograde flow into the aneurysm sac via collateral vessels?",
+      "choices": [
+        "Type I",
+        "Type II",
+        "Type III",
+        "Type IV",
+        "Type V"
+      ],
+      "answer": "B",
+      "detail": "These typically involve the Inferior Mesenteric Artery (IMA) or lumbar arteries."
+    },
+    {
+      "number": 31,
+      "question": "A \"Type III\" endoleak involves:",
+      "choices": [
+        "Seal failure",
+        "Retrograde branch flow",
+        "Structural graft failure (fabric tear or component separation)",
+        "Graft porosity",
+        "Endotension"
+      ],
+      "answer": "C",
+      "detail": "This is a mechanical failure of the stent-graft itself."
+    },
+    {
+      "number": 32,
+      "question": "\"Type IV\" endoleaks are generally:",
+      "choices": [
+        "Malignant",
+        "Due to graft porosity and typically resolve as coagulation normalizes",
+        "Caused by lumbar arteries",
+        "Permanent and require surgery",
+        "Only seen with thoracic grafts"
+      ],
+      "answer": "B",
+      "detail": "These are often seen on the initial completion angiogram and resolve shortly after the procedure."
+    },
+    {
+      "number": 33,
+      "question": "\"Endotension\" (increased aneurysm sac size without a visible leak on imaging) is classified as:",
+      "choices": [
+        "Type I",
+        "Type II",
+        "Type III",
+        "Type IV",
+        "Type V"
+      ],
+      "answer": "E",
+      "detail": "This is a diagnosis of exclusion when the sac is enlarging but no leak can be identified."
+    },
+    {
+      "number": 34,
+      "question": "\"Leriche syndrome\" consists of a triad of claudication, decreased femoral pulses, and erectile dysfunction, caused by:",
+      "choices": [
+        "Thoracic dissection",
+        "Chronic aortoiliac occlusive disease",
+        "Takayasu arteritis",
+        "Nutcracker syndrome",
+        "Popliteal entrapment"
+      ],
+      "answer": "B",
+      "detail": "This involves atherosclerotic occlusion of the distal aorta and/or iliac arteries."
+    },
+    {
+      "number": 35,
+      "question": "An \"inflammatory AAA\" is distinguished on CT by:",
+      "choices": [
+        "Presence of macroscopic fat",
+        "Periaortic soft tissue thickening (rind) that spares the posterior wall",
+        "Massive calcification",
+        "\"Galaxy sign\"",
+        "Gas within the wall"
+      ],
+      "answer": "B",
+      "detail": "This rind often involves the ureters and can cause hydronephrosis; notably, it characteristically spares the posterior wall."
+    },
+    {
+      "number": 36,
+      "question": "A \"mycotic\" (infected) aneurysm typically presents with which imaging features?",
+      "choices": [
+        "Smooth margins and slow growth",
+        "Rapidly enlarging, lobulated, and often located in the suprarenal aorta",
+        "Always calcified",
+        "\"Double-duct\" sign",
+        "High HU on non-con only"
+      ],
+      "answer": "B",
+      "detail": "These are typically eccentric and result from septic emboli or hematogenous seeding of the aortic wall."
+    }
+  ]
+}

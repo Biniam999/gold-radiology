@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "number": 6,
+      "question": "According to the Stanford classification, any aortic dissection involving the ASCENDING aorta is classified as:",
+      "choices": [
+        "Type A",
+        "Type B",
+        "Type I",
+        "Type II",
+        "Type III"
+      ],
+      "answer": "A",
+      "detail": "Type A dissections involve the ascending aorta regardless of the entry site and typically require emergent surgical management."
+    },
+    {
+      "number": 7,
+      "question": "A \"DeBakey Type II\" dissection is defined as a dissection that:",
+      "choices": [
+        "Involves the entire aorta",
+        "Is confined to the descending aorta",
+        "Is confined to the ascending aorta",
+        "Starts in the arch and extends distally",
+        "Involves only the abdominal aorta"
+      ],
+      "answer": "C",
+      "detail": "The DeBakey system focuses on the extent of the dissection: Type I (ascending + descending), Type II (ascending only), and Type III (descending only)."
+    },
+    {
+      "number": 8,
+      "question": "On a non-contrast CT, the presence of a \"hyperdense crescent\" within the aortic wall is the hallmark of:",
+      "choices": [
+        "Acute dissection",
+        "Intramural Hematoma (IMH)",
+        "Penetrating Atherosclerotic Ulcer (PAU)",
+        "Ruptured AAA",
+        "Aortitis"
+      ],
+      "answer": "B",
+      "detail": "IMH represents hemorrhage into the media without a visible intimal flap; it is best seen as a high-attenuation crescent (60–70 HU) on unenhanced scans."
+    },
+    {
+      "number": 9,
+      "question": "In a patient with an aortic dissection, the \"true lumen\" is characteristically distinguished from the \"false lumen\" by being:",
+      "choices": [
+        "Larger in diameter",
+        "Often smaller, with faster contrast opacification",
+        "Filled with \"cobweb\" signs",
+        "Prone to the \"beak sign\"",
+        "Always circular in shape"
+      ],
+      "answer": "B",
+      "detail": "The true lumen is usually smaller and opacifies earlier, while the false lumen is typically larger and may contain thrombus or \"cobweb\" strands."
+    },
+    {
+      "number": 10,
+      "question": "The \"beak sign\" (an acute angle between the dissection flap and the outer wall) is a reliable indicator of:",
+      "choices": [
+        "The true lumen",
+        "The false lumen",
+        "An intramural hematoma",
+        "A penetrating ulcer",
+        "Aortic rupture"
+      ],
+      "answer": "B",
+      "detail": "The beak sign is a characteristic feature of the false lumen in an aortic dissection."
+    },
+    {
+      "number": 11,
+      "question": "A \"penetrating atherosclerotic ulcer\" (PAU) is characterized on CT by:",
+      "choices": [
+        "An intimal flap",
+        "A focal, mushroom-shaped contrast outpouching through a calcified plaque",
+        "A hyperdense crescent on non-con images",
+        "Diffuse wall thickening",
+        "A \"bird’s beak\" lumen"
+      ],
+      "answer": "B",
+      "detail": "PAUs occur when an atherosclerotic plaque ulcerates and penetrates the internal elastic lamina into the media."
+    },
+    {
+      "number": 12,
+      "question": "\"Static\" branch vessel obstruction in the setting of a dissection occurs when:",
+      "choices": [
+        "The flap acts as a \"shutter\" during the cardiac cycle",
+        "The dissection entry extends directly into the branch vessel",
+        "The vessel arises from the true lumen only",
+        "There is systemic hypotension",
+        "The aorta ruptures"
+      ],
+      "answer": "B",
+      "detail": "Static obstruction involves the extension of the dissection into the vessel wall itself, whereas dynamic obstruction is due to the flap prolapsing over the vessel origin."
+    },
+    {
+      "number": 13,
+      "question": "Which of the following is an \"indirect\" sign of acute aortic rupture on CT?",
+      "choices": [
+        "Displaced intimal calcification",
+        "Mediastinal or periaortic hematoma",
+        "Intimal flap",
+        "Beak sign",
+        "Cobweb sign"
+      ],
+      "answer": "B",
+      "detail": "While the flap is a direct sign of dissection, a surrounding hematoma is a critical indirect sign of containment failure or rupture."
+    }
+  ]
+}

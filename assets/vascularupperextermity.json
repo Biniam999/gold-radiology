@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "number": 52,
+      "question": "Compression of the subclavian vein in the costoclavicular space, a form of Thoracic Outlet Syndrome (TOS) often leading to 'effort thrombosis' in young athletes, is known as:",
+      "choices": [
+        "Paget-Schroetter syndrome",
+        "Raynaud syndrome",
+        "Buerger disease",
+        "Subclavian steal",
+        "Scalene syndrome"
+      ],
+      "answer": "A",
+      "detail": "Paget-Schroetter syndrome is the venous form of TOS typically seen in active individuals."
+    },
+    {
+      "number": 53,
+      "question": "Subclavian steal syndrome occurs when proximal subclavian artery occlusion leads to which of the following flow patterns?",
+      "choices": [
+        "Antegrade flow in the carotid",
+        "Retrograde flow in the ipsilateral vertebral artery to supply the arm",
+        "Rupture of the aorta",
+        "Digital artery calcification",
+        "Pulmonary embolism"
+      ],
+      "answer": "B",
+      "detail": "In this syndrome, blood is 'stolen' from the cerebral circulation via the vertebral artery to perfuse the arm."
+    },
+    {
+      "number": 54,
+      "question": "Buerger disease (Thromboangiitis obliterans) is a non-atherosclerotic inflammatory disease of small and medium vessels strongly associated with:",
+      "choices": [
+        "Alcohol use",
+        "Cigarette smoking",
+        "Hypertension",
+        "Diabetes",
+        "High cholesterol"
+      ],
+      "answer": "B",
+      "detail": "Buerger disease characteristically affects young smokers and involves the vessels of the hands and feet."
+    },
+    {
+      "number": 55,
+      "question": "Hypothenar Hammer Syndrome results from repetitive trauma to which vessel as it is compressed against the hamate bone?",
+      "choices": [
+        "Radial artery",
+        "Ulnar artery",
+        "Subclavian artery",
+        "Brachial artery",
+        "Digital arteries only"
+      ],
+      "answer": "B",
+      "detail": "Repetitive trauma to the ulnar artery can lead to aneurysm formation or thrombosis."
+    },
+    {
+      "number": 56,
+      "question": "A dialysis patient with an AV fistula who experiences cold, painful fingers during dialysis is likely suffering from:",
+      "choices": [
+        "Buerger disease",
+        "Steal syndrome",
+        "Hypothenar hammer",
+        "Venous congestion",
+        "Raynaud's"
+      ],
+      "answer": "B",
+      "detail": "Steal syndrome occurs when the low-resistance fistula diverts excessive blood flow away from the distal hand."
+    },
+    {
+      "number": 57,
+      "question": "The 'corkscrew collateral' appearance on angiography is a hallmark imaging finding of:",
+      "choices": [
+        "Takayasu arteritis",
+        "Buerger disease",
+        "Atherosclerosis",
+        "Thoracic Outlet Syndrome",
+        "Aortic Dissection"
+      ],
+      "answer": "B",
+      "detail": "These distinctive collaterals develop to bypass small-vessel occlusions in Buerger disease."
+    },
+    {
+      "number": 58,
+      "question": "Which of the following structures are common causes of arterial compression in Thoracic Outlet Syndrome?",
+      "choices": [
+        "Cervical rib",
+        "Pectoralis minor muscle",
+        "Anterior scalene muscle",
+        "Clavicle",
+        "Both A and C"
+      ],
+      "answer": "E",
+      "detail": "The scalene triangle, formed by the anterior and middle scalenes and the 1st rib, is the primary site for arterial and neurogenic compression."
+    },
+    {
+      "number": 59,
+      "question": "Emboli to the digital arteries of the hand most commonly originate from which source?",
+      "choices": [
+        "The heart",
+        "The subclavian or axillary artery",
+        "The IVC",
+        "The renal arteries",
+        "The brain"
+      ],
+      "answer": "B",
+      "detail": "Proximal arterial damage, often due to an aneurysm or Thoracic Outlet Syndrome, can lead to the distal showering of emboli into the hand."
+    }
+  ]
+}

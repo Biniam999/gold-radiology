@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "A premature infant (28 weeks) presents with immediate respiratory distress. Radiograph shows low lung volumes and diffuse 'granular' opacities with air bronchograms. What is the most likely diagnosis?",
+      "choices": [
+        "Transient tachypnea of the newborn (TTN)",
+        "Meconium aspiration syndrome",
+        "Surfactant deficiency disease (SDD)",
+        "Neonatal pneumonia",
+        "Pulmonary interstitial emphysema (PIE)"
+      ],
+      "answer": "C",
+      "detail": "Surfactant deficiency disease typically affects preterm infants and features low lung volumes and granular opacities."
+    },
+    {
+      "number": 2,
+      "question": "A full-term infant born via Caesarean delivery develops respiratory distress that peaks at 24 hours and resolves by 48 hours. Radiograph shows perihilar interstitial opacities and fluid in the minor fissure. What is the diagnosis?",
+      "choices": [
+        "SDD",
+        "Meconium aspiration",
+        "TTN",
+        "PIE",
+        "Bronchopulmonary dysplasia"
+      ],
+      "answer": "C",
+      "detail": "TTN is the most common cause of neonatal respiratory distress, caused by delayed clearance of fetal lung fluid following C-sections, and typically resolves within 72 hours."
+    },
+    {
+      "number": 3,
+      "question": "A premature infant on a ventilator develops asymmetric bubbly and tubular lucencies radiating from the hila in the first week of life. What is the diagnosis?",
+      "choices": [
+        "Bronchopulmonary dysplasia (BPD)",
+        "PIE",
+        "Meconium aspiration",
+        "Congenital pulmonary airway malformation (CPAM)",
+        "Scimitar syndrome"
+      ],
+      "answer": "B",
+      "detail": "Pulmonary interstitial emphysema (PIE) is associated with SDD and barotrauma, featuring dissecting air bubbles seen as tubular or bubbly lucencies."
+    },
+    {
+      "number": 4,
+      "question": "An infant remains oxygen-dependent at 36 weeks post-conception age. Radiograph shows coarse reticular opacities and mild hyperinflation. What is the diagnosis?",
+      "choices": [
+        "SDD",
+        "TTN",
+        "Chronic lung disease (CLD) of prematurity",
+        "PIE",
+        "Bronchial atresia"
+      ],
+      "answer": "C",
+      "detail": "CLD (or BPD) is defined by oxygen dependency beyond 28 days and is the most common cause of chronic respiratory failure in pediatrics."
+    },
+    {
+      "number": 5,
+      "question": "A post-term neonate presents with severe respiratory distress. Radiograph shows bilateral asymmetric coarse interstitial opacities and hyperinflation. What condition is this infant most at risk for?",
+      "choices": [
+        "Biliary atresia",
+        "Pneumothorax",
+        "Tracheomalacia",
+        "Intussusception",
+        "CPAM"
+      ],
+      "answer": "B",
+      "detail": "Meconium aspiration syndrome involves term or post-term infants where non-compliant lungs are highly susceptible to pneumothoraces."
+    },
+    {
+      "number": 6,
+      "question": "Which radiographic feature most strongly differentiates neonatal pneumonia from surfactant deficiency disease?",
+      "choices": [
+        "Low lung volumes",
+        "Granular opacities",
+        "Pleural effusions",
+        "Air bronchograms",
+        "Coarse interstitial opacities"
+      ],
+      "answer": "C",
+      "detail": "While both can have low volumes and granular opacities, pleural effusions are more suggestive of neonatal pneumonia."
+    },
+    {
+      "number": 7,
+      "question": "A newborn has a hyperlucent, hyperexpanded right upper lobe causing leftward mediastinal shift. Why is it essential not to mistake this for a tension pneumothorax?",
+      "choices": [
+        "Antibiotics are the preferred treatment.",
+        "A chest tube will worsen the respiratory distress.",
+        "It will resolve spontaneously within 48 hours.",
+        "It indicates an associated right-sided aortic arch.",
+        "Surgery is contraindicated."
+      ],
+      "answer": "B",
+      "detail": "In Congenital lobar hyperinflation (CLH), inserting a chest tube due to mistaking it for a pneumothorax will exacerbate the respiratory distress."
+    },
+    {
+      "number": 8,
+      "question": "Coronal CT shows a hyperlucent left lower lobe with a globular, well-defined central opacity. What does the central opacity represent?",
+      "choices": [
+        "A systemic feeding artery",
+        "A mucocele",
+        "A fungal ball",
+        "An intrapulmonary pneumatocele",
+        "A rhabdomyoma"
+      ],
+      "answer": "B",
+      "detail": "In bronchial atresia, the atretic bronchus itself forms a characteristic mucocele, appearing as a well-defined opacity."
+    },
+    {
+      "number": 9,
+      "question": "Which type of CPAM features a single large cyst that may be indistinguishable from a cystic pleuropulmonary blastoma?",
+      "choices": [
+        "Type I",
+        "Type II",
+        "Type III",
+        "Type IV",
+        "Type V"
+      ],
+      "answer": "D",
+      "detail": "Type IV CPAM consists of a single large cyst, with its main differential being pleuropulmonary blastoma, the most common primary childhood lung tumor."
+    },
+    {
+      "number": 10,
+      "question": "A solid left lower lobe mass is found to have an anomalous systemic feeding artery from the thoracic aorta. What is the diagnosis?",
+      "choices": [
+        "CPAM",
+        "Bronchial atresia",
+        "Bronchopulmonary sequestration (BPS)",
+        "CLH",
+        "Scimitar syndrome"
+      ],
+      "answer": "C",
+      "detail": "The key finding for sequestration is an anomalous systemic feeding artery, typically arising from the aorta."
+    },
+    {
+      "number": 11,
+      "question": "What is the 'signet ring sign' diagnostic of in the pediatric population?",
+      "choices": [
+        "Pneumomediastinum",
+        "Bronchiectasis",
+        "CLH",
+        "SDD",
+        "PIE"
+      ],
+      "answer": "B",
+      "detail": "The signet ring sign describes a bronchiole that is larger than its adjacent pulmonary artery branch, indicating bronchiectasis."
+    },
+    {
+      "number": 12,
+      "question": "A chest radiograph shows a unilateral hyperlucent lung and physical exam shows absence of the pectoralis major muscle. What is the diagnosis?",
+      "choices": [
+        "Swyer-James-McLeod syndrome",
+        "Poland syndrome",
+        "CPAM",
+        "BPS",
+        "Endobronchial foreign body"
+      ],
+      "answer": "B",
+      "detail": "Poland syndrome involves unilateral congenital absence of the pectoralis muscle, causing radiographic hyperlucency on the affected side."
+    },
+    {
+      "number": 13,
+      "question": "Frontal chest radiograph in an intubated neonate shows elevation of both thymic lobes by air (the 'spinnaker sail sign'). What does this indicate?",
+      "choices": [
+        "Normal thymic variant",
+        "Right-sided aortic arch",
+        "Pneumomediastinum",
+        "Tension pneumothorax",
+        "CLH"
+      ],
+      "answer": "C",
+      "detail": "The spinnaker sail sign, or angel-wing sign, occurs when the thymus is lifted off the mediastinum by pneumomediastinum."
+    },
+    {
+      "number": 14,
+      "question": "What is the ideal termination point for an umbilical venous catheter (UVC)?",
+      "choices": [
+        "T6–T10",
+        "L3–L5",
+        "Left portal vein",
+        "Suprahepatic IVC just below the right atrium",
+        "Internal iliac artery"
+      ],
+      "answer": "D",
+      "detail": "UVCs should terminate in the suprahepatic IVC, as placement in the portal vein can cause thrombosis."
+    },
+    {
+      "number": 15,
+      "question": "A catheter originating at the umbilicus initially descends into the pelvis before ascending to T9. This describes:",
+      "choices": [
+        "A correctly positioned UVC",
+        "A malpositioned UVC",
+        "A correctly positioned UAC (high)",
+        "A malpositioned UAC",
+        "A PICC line"
+      ],
+      "answer": "C",
+      "detail": "Umbilical artery catheters (UACs) initially descend into the internal iliac before ascending; a 'high' tip should terminate between T6 and T10."
+    }
+  ]
+}

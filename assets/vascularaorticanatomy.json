@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Which segment of the aorta is located between the left subclavian artery and the ligamentum arteriosum, serving as the classic site for traumatic injury?",
+      "choices": [
+        "Sinotubular junction",
+        "Aortic root",
+        "Aortic isthmus",
+        "Ascending aorta",
+        "Diaphragmatic hiatus"
+      ],
+      "answer": "C",
+      "detail": "The isthmus is the transition point between the mobile arch and the fixed descending aorta, making it susceptible to deceleration forces."
+    },
+    {
+      "number": 2,
+      "question": "A \"Bovine arch,\" the most common variant of the human aortic arch, is defined as:",
+      "choices": [
+        "Three separate branches from the arch",
+        "A shared origin of the brachiocephalic and left common carotid artery",
+        "An aberrant right subclavian artery",
+        "An isolated left vertebral artery",
+        "A duplicated aortic arch"
+      ],
+      "answer": "B",
+      "detail": "This variant occurs in approximately 15–20% of the population and is clinically significant for neuro-interventional planning."
+    },
+    {
+      "number": 3,
+      "question": "In the setting of an aberrant right subclavian artery, a focal dilation at its origin from the descending aorta is known as:",
+      "choices": [
+        "Marfan’s pouch",
+        "Diverticulum of Kommerell",
+        "Ductus bump",
+        "Pseudoaneurysm",
+        "Azygos continuation"
+      ],
+      "answer": "B",
+      "detail": "This represents a remnant of the primitive dorsal aorta and can occasionally cause esophageal compression (dysphagia lusoria)."
+    },
+    {
+      "number": 4,
+      "question": "A \"mirror-image\" right-sided aortic arch is most strongly associated with which congenital heart condition?",
+      "choices": [
+        "Atrial septal defect",
+        "Tetralogy of Fallot",
+        "Patent ductus arteriosus",
+        "Coarctation of the aorta",
+        "Ebstein anomaly"
+      ],
+      "answer": "B",
+      "detail": "Mirror-image branching is associated with congenital heart disease in >90% of cases, most commonly Tetralogy of Fallot or Truncus Arteriosus."
+    },
+    {
+      "number": 5,
+      "question": "Which aortic variant forms a complete vascular ring that may compress both the trachea and the esophagus?",
+      "choices": [
+        "Bovine arch",
+        "Aberrant right subclavian artery",
+        "Double aortic arch",
+        "Left-sided arch with aberrant right subclavian",
+        "Pseudocoarctation"
+      ],
+      "answer": "C",
+      "detail": "A double arch encircles the trachea and esophagus, often presenting with respiratory distress or dysphagia in infancy."
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "questions": [
+    {
+      "number": 24,
+      "question": "What is the most common radiographic presentation of Primary Tuberculosis?",
+      "choices": [
+        "Upper lobe cavitation",
+        "Military nodules",
+        "Hilar/mediastinal lymphadenopathy with or without consolidation",
+        "Isolated pleural effusion",
+        "Finger-in-glove opacities"
+      ],
+      "answer": "C",
+      "detail": "Primary TB typically presents with adenopathy, often in children or the immunocompromised."
+    },
+    {
+      "number": 25,
+      "question": "Post-primary (reactivation) Tuberculosis is most characteristically located in which lung regions?",
+      "choices": [
+        "Lower lobes, anterior segments",
+        "Middle lobe and Lingula",
+        "Upper lobes, apical and posterior segments",
+        "Lung bases symmetrically",
+        "Perihilar regions"
+      ],
+      "answer": "C",
+      "detail": "Reactivation TB favors highly oxygenated areas, namely the LUL/RUL apices and the superior segments of the lower lobes."
+    },
+    {
+      "number": 26,
+      "question": "Which type of Aspergillosis occurs in a pre-existing lung cavity and features the \"Monod sign\"?",
+      "choices": [
+        "Invasive Aspergillosis",
+        "Semi-invasive Aspergillosis",
+        "Saprophytic Aspergillosis (Aspergilloma)",
+        "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+        "Miliary Aspergillosis"
+      ],
+      "answer": "C",
+      "detail": "The \"Monod sign\" is air seen between a fungus ball (mycetoma) and the wall of a cavity."
+    },
+    {
+      "number": 27,
+      "question": "\"Finger-in-glove\" opacities on a chest radiograph represent mucoid impaction of dilated bronchi and are a hallmark of:",
+      "choices": [
+        "Post-primary TB",
+        "ABPA",
+        "Septic emboli",
+        "Viral pneumonia",
+        "Bronchopneumonia"
+      ],
+      "answer": "B",
+      "detail": "Allergic Bronchopulmonary Aspergillosis causes proximal bronchiectasis and mucoid impaction."
+    },
+    {
+      "number": 28,
+      "question": "Septic emboli typically present on CT as:",
+      "choices": [
+        "Large perihilar masses",
+        "Multiple peripheral nodules with various stages of cavitation",
+        "Diffuse ground-glass opacities",
+        "Lobar consolidation with air bronchograms",
+        "Apical scarring and volume loss"
+      ],
+      "answer": "B",
+      "detail": "These are hematogenous infections, often with a \"feeding vessel\" sign."
+    },
+    {
+      "number": 29,
+      "question": "In a patient with HIV and a low CD4 count, diffuse ground-glass opacities and the development of pneumatoceles are highly suggestive of:",
+      "choices": [
+        "TB",
+        "Streptococcus pneumonia",
+        "Pneumocystis jirovecii pneumonia (PCP/PJP)",
+        "CMV pneumonia",
+        "Histoplasmosis"
+      ],
+      "answer": "C",
+      "detail": "PJP is the most common opportunistic infection in AIDS and frequently features GGO and cysts/pneumatoceles."
+    },
+    {
+      "number": 30,
+      "question": "Which pathogen is the most common cause of \"round pneumonia\" in the pediatric population?",
+      "choices": [
+        "Mycoplasma pneumoniae",
+        "Staphylococcus aureus",
+        "Streptococcus pneumoniae",
+        "Respiratory Syncytial Virus (RSV)",
+        "Haemophilus influenzae"
+      ],
+      "answer": "C",
+      "detail": "Round pneumonia is common in children due to poorly developed collateral ventilation (Pores of Kohn)."
+    },
+    {
+      "number": 31,
+      "question": "Bulging of the minor fissure in the setting of right upper lobe consolidation is a classic sign of which pathogen?",
+      "choices": [
+        "Klebsiella pneumoniae",
+        "Mycoplasma pneumoniae",
+        "Legionella pneumophila",
+        "Mycobacterium tuberculosis",
+        "Pneumocystis jirovecii"
+      ],
+      "answer": "A",
+      "detail": "This pathogen creates voluminous inflammatory exudate that can cause the fissure to bulge."
+    },
+    {
+      "number": 32,
+      "question": "The \"air crescent sign\" seen in an immunocompromised patient recovering from neutropenia is indicative of:",
+      "choices": [
+        "A simple aspergilloma",
+        "Resolving angioinvasive aspergillosis",
+        "Primary TB",
+        "Lung abscess",
+        "Pneumothorax"
+      ],
+      "answer": "B",
+      "detail": "As the patient's neutrophil count recovers, they mount an inflammatory response that causes the infarcted lung tissue to retract, creating the air crescent."
+    },
+    {
+      "number": 33,
+      "question": "Septic pulmonary emboli are most commonly associated with which of the following clinical scenarios?",
+      "choices": [
+        "Travel to endemic TB regions",
+        "IV drug use and tricuspid valve endocarditis",
+        "Chronic smoking",
+        "Bird exposure",
+        "Asbestos exposure"
+      ],
+      "answer": "B",
+      "detail": "These are the primary sources of septic vegetations traveling to the lungs."
+    },
+    {
+      "number": 34,
+      "question": "Which viral pneumonia is known for causing rapid progression to ARDS and was associated with four-corners exposure in the US?",
+      "choices": [
+        "Influenza",
+        "Hantavirus",
+        "Varicella",
+        "Herpes Simplex",
+        "Adenovirus"
+      ],
+      "answer": "B",
+      "detail": "Hantavirus pulmonary syndrome is a high-yield viral cause of rapid respiratory failure."
+    },
+    {
+      "number": 35,
+      "question": "A \"Ghon complex\" is a combination of a calcified peripheral lung nodule and:",
+      "choices": [
+        "Pleural effusion",
+        "Calcified hilar lymph node",
+        "Upper lobe cavity",
+        "Pneumothorax",
+        "Pericardial thickening"
+      ],
+      "answer": "B",
+      "detail": "It represents the sequelae of primary TB."
+    }
+  ]
+}

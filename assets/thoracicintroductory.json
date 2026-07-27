@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "On a frontal chest radiograph, the \"silhouette sign\" is used to localize pathology. If the right heart border is obscured, where is the most likely location of the abnormality?",
+      "choices": [
+        "Right Upper Lobe",
+        "Right Middle Lobe, lateral segment",
+        "Right Middle Lobe, medial segment",
+        "Right Lower Lobe, superior segment",
+        "Right Lower Lobe, medial basal segment"
+      ],
+      "answer": "C",
+      "detail": "The medial segment of the RML is in direct anatomical contact with the right heart border."
+    },
+    {
+      "number": 2,
+      "question": "Which lobe is characterized by the following segments: superior, medial basal, anterior basal, lateral basal, and posterior basal?",
+      "choices": [
+        "Right Upper Lobe",
+        "Left Upper Lobe",
+        "Right Lower Lobe",
+        "Left Lower Lobe",
+        "Right Middle Lobe"
+      ],
+      "answer": "C",
+      "detail": "The RLL consists of these five distinct segments, whereas the LLL typically combines the anterior and medial basal segments into one."
+    },
+    {
+      "number": 3,
+      "question": "The \"Luftsichel sign\" on a frontal chest radiograph is a classic indicator of:",
+      "choices": [
+        "Right upper lobe collapse",
+        "Right middle lobe collapse",
+        "Left upper lobe collapse",
+        "Left lower lobe collapse",
+        "Total lung collapse"
+      ],
+      "answer": "C",
+      "detail": "This sign represents the compensatory hyperinflation of the superior segment of the LLL, which interposes itself between the collapsed LUL and the aortic arch."
+    },
+    {
+      "number": 4,
+      "question": "Which structure represents the airway between the origin of the right upper lobe bronchus and the origin of the right middle/lower lobe bronchi?",
+      "choices": [
+        "Trachea",
+        "Carina",
+        "Bronchus intermedius",
+        "Right mainstem bronchus",
+        "Lingular bronchus"
+      ],
+      "answer": "C",
+      "detail": "The bronchus intermedius is the segment of the right bronchial tree after the RUL origin and before it splits into the middle and lower lobe bronchi."
+    },
+    {
+      "number": 5,
+      "question": "A \"Golden S sign\" seen on a chest radiograph is most concerning for:",
+      "choices": [
+        "Simple atelectasis",
+        "Right upper lobe collapse due to an obstructing mass",
+        "Right lower lobe collapse due to a pleural effusion",
+        "Left upper lobe collapse due to a mucus plug",
+        "Tension pneumothorax"
+      ],
+      "answer": "B",
+      "detail": "The \"S\" shape is formed by the concave collapsed minor fissure and the convex border of the obstructing hilar mass."
+    },
+    {
+      "number": 6,
+      "question": "On a lateral chest radiograph, a wedge-shaped opacity that obscures the right hemidiaphragm anteriorly but spares it posteriorly most likely represents collapse of the:",
+      "choices": [
+        "Right Upper Lobe",
+        "Right Middle Lobe",
+        "Right Lower Lobe",
+        "Lingula",
+        "Superior segment of RLL"
+      ],
+      "answer": "B",
+      "detail": "RML collapse appears as a thin triangle pointing toward the hilum on lateral view, often obscuring the anterior heart border."
+    },
+    {
+      "number": 7,
+      "question": "Which radiographic finding is the most reliable sign of lobar collapse?",
+      "choices": [
+        "Mediastinal shift",
+        "Hemidiaphragm elevation",
+        "Displacement of a fissure",
+        "Compensatory hyperinflation",
+        "Crowding of the ribs"
+      ],
+      "answer": "C",
+      "detail": "While all are signs of volume loss, the movement of a fissure is the most direct and specific radiographic indicator of lobar collapse."
+    },
+    {
+      "number": 8,
+      "question": "In segmental anatomy, the \"lingula\" is functionally equivalent to the right middle lobe but is anatomically a part of the:",
+      "choices": [
+        "Left Lower Lobe",
+        "Left Upper Lobe",
+        "Aortic arch",
+        "Cardiac notch",
+        "Lingular segment of the RML"
+      ],
+      "answer": "B",
+      "detail": "The lingula (superior and inferior segments) is the lowermost portion of the left upper lobe."
+    }
+  ]
+}

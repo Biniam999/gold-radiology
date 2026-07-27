@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "number": 60,
+      "question": "Claudication in the \"calf\" only typically indicates atherosclerotic disease in which vessel?",
+      "choices": [
+        "A. Aorta",
+        "B. Iliac artery",
+        "C. Superficial femoral artery (SFA)",
+        "D. Internal iliac artery",
+        "E. Renal artery"
+      ],
+      "answer": "C",
+      "detail": "Claudication occurs one level distal to the actual stenosis; SFA disease leads to calf symptoms."
+    },
+    {
+      "number": 61,
+      "question": "\"Popliteal artery entrapment syndrome\" occurs due to an anomalous relationship between the artery and the:",
+      "choices": [
+        "A. Tibial nerve",
+        "B. Medial head of the gastrocnemius muscle",
+        "C. Popliteus muscle",
+        "D. Femur",
+        "E. Soleus muscle"
+      ],
+      "answer": "B",
+      "detail": "This is a cause of claudication in young athletes without risk factors for atherosclerosis."
+    },
+    {
+      "number": 62,
+      "question": "A \"persistent sciatic artery\" is a congenital variant where the sciatic artery serves as the primary supply to the lower limb, originating from the:",
+      "choices": [
+        "A. Common iliac",
+        "B. Internal iliac artery",
+        "C. External iliac artery",
+        "D. SFA",
+        "E. Profunda femoris"
+      ],
+      "answer": "B",
+      "detail": "In cases of a persistent sciatic artery, the SFA is often hypoplastic."
+    },
+    {
+      "number": 63,
+      "question": "\"Adventitial cystic disease\" of the popliteal artery appears on imaging as:",
+      "choices": [
+        "A. A calcified aneurysm",
+        "B. Multiple mucoid cysts in the vessel wall that compress the lumen",
+        "C. An intimal flap",
+        "D. Diffuse atherosclerosis",
+        "E. Thrombus in the vein"
+      ],
+      "answer": "B",
+      "detail": "These \"scimitar-like\" compressions caused by mucoid cysts are a rare cause of claudication."
+    },
+    {
+      "number": 64,
+      "question": "A popliteal artery aneurysm is identified. What is the risk that the patient also has a popliteal aneurysm in the CONTRALATERAL leg?",
+      "choices": [
+        "A. 10%",
+        "B. 25%",
+        "C. 50–70%",
+        "D. 90%",
+        "E. 0%"
+      ],
+      "answer": "C",
+      "detail": "Popliteal aneurysms are frequently bilateral and are highly associated with abdominal aortic aneurysms (30–50%)."
+    },
+    {
+      "number": 65,
+      "question": "The \"TASC-II\" classification for femoropopliteal disease is used to:",
+      "choices": [
+        "A. Predict cancer risk",
+        "B. Guide decision-making between endovascular vs. surgical treatment",
+        "C. Measure vein diameter",
+        "D. Diagnose DVT",
+        "E. Grade vasculitis"
+      ],
+      "answer": "B",
+      "detail": "TASC A/B are usually treated endovascularly, while TASC C/D often require surgery."
+    },
+    {
+      "number": 66,
+      "question": "Following femoral artery access, a \"pulsatile mass\" with a \"yin-yang\" flow pattern on color Doppler is a:",
+      "choices": [
+        "A. Hematoma",
+        "B. Pseudoaneurysm",
+        "C. AV fistula",
+        "D. Dissection",
+        "E. Normal finding"
+      ],
+      "answer": "B",
+      "detail": "The yin-yang sign represents the swirling of blood within the false aneurysm sac."
+    },
+    {
+      "number": 67,
+      "question": "Acute limb ischemia (the \"6 Ps\") is most commonly caused by an EMBOLUS from which source?",
+      "choices": [
+        "A. DVT",
+        "B. Atrial fibrillation or the heart",
+        "C. Renal artery",
+        "D. Lungs",
+        "E. Liver"
+      ],
+      "answer": "B",
+      "detail": "Cardiac emboli, often resulting from atrial fibrillation, commonly lodge at the femoral bifurcation."
+    }
+  ]
+}

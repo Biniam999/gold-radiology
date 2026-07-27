@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "number": 14,
+      "question": "What is the most common site of a traumatic aortic injury in survivors who reach the hospital?",
+      "choices": [
+        "Aortic root",
+        "Aortic isthmus",
+        "Diaphragmatic hiatus",
+        "Celiac origin",
+        "Ascending aorta"
+      ],
+      "answer": "B",
+      "detail": "The isthmus is a point of fixation; deceleration causes shear stress at this specific junction."
+    },
+    {
+      "number": 15,
+      "question": "A \"Grade III\" traumatic aortic injury, according to standard grading, refers to:",
+      "choices": [
+        "An intimal tear only",
+        "A pseudoaneurysm",
+        "An intramural hematoma",
+        "A complete transection/rupture",
+        "A \"ductus bump\""
+      ],
+      "answer": "B",
+      "detail": "Grading typically follows: I (intimal tear), II (IMH), III (pseudoaneurysm), and IV (rupture)."
+    },
+    {
+      "number": 16,
+      "question": "Which imaging finding helps differentiate a \"ductus diverticulum\" (a normal variant) from an acute traumatic pseudoaneurysm?",
+      "choices": [
+        "Location at the isthmus",
+        "Smooth margins and obtuse angles with the aorta",
+        "Associated mediastinal hematoma",
+        "Irregular, jagged margins",
+        "High attenuation on non-con CT"
+      ],
+      "answer": "B",
+      "detail": "A ductus diverticulum is a smooth, developmental bump; a traumatic injury is typically irregular and associated with surrounding hemorrhage."
+    },
+    {
+      "number": 17,
+      "question": "The presence of \"displaced intimal calcification\" in the setting of trauma is a sign of:",
+      "choices": [
+        "AAA",
+        "Intimal tear or dissection",
+        "Chronic atherosclerosis only",
+        "Normal aging",
+        "Takayasu arteritis"
+      ],
+      "answer": "B",
+      "detail": "In the setting of trauma, seeing calcifications pushed into the lumen is a marker of an intimal flap."
+    },
+    {
+      "number": 18,
+      "question": "\"Chronic traumatic pseudoaneurysm\" is typically identified by which feature?",
+      "choices": [
+        "Active extravasation",
+        "Massive mediastinal hematoma",
+        "Peripheral calcification of the wall at the isthmus",
+        "Hypotension",
+        "Intimal flap"
+      ],
+      "answer": "C",
+      "detail": "Survivors of a small traumatic tear may develop a pseudoaneurysm that calcifies over years."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Radiographic pulmonary edema progresses through three distinct physiological stages. What is the characteristic finding of the first stage (vascular redistribution)?",
+      "choices": [
+        "Kerley B lines",
+        "Batwing distribution of opacities",
+        "Cephalization of flow (vessels in upper lobes larger than lower lobes)",
+        "Peribronchial cuffing",
+        "Pleural effusions"
+      ],
+      "answer": "C",
+      "detail": "Stage I (redistribution) occurs when pulmonary capillary wedge pressure (PCWP) is 13–18 mmHg and features cephalization."
+    },
+    {
+      "number": 2,
+      "question": "Which radiographic sign represents fluid within the interlobular septa and is typically seen in the lung bases?",
+      "choices": [
+        "Kerley A lines",
+        "Kerley B lines",
+        "Batwing sign",
+        "Air bronchograms",
+        "Westermark sign"
+      ],
+      "answer": "B",
+      "detail": "Kerley B lines are short (1–2 cm), horizontal peripheral lines representing thickened interlobular septa in interstitial edema."
+    },
+    {
+      "number": 3,
+      "question": "In a supine ICU patient, where is the ideal location for the tip of an endotracheal tube (ETT)?",
+      "choices": [
+        "At the level of the vocal cords",
+        "1–2 cm above the carina",
+        "3–5 cm above the carina",
+        "In the right mainstem bronchus",
+        "Level with the T1 vertebral body"
+      ],
+      "answer": "C",
+      "detail": "This position (roughly mid-trachea) allows for neck flexion and extension without the tube dislodging or intubating a mainstem bronchus."
+    },
+    {
+      "number": 4,
+      "question": "A central venous catheter (CVC) tip is ideally positioned in the:",
+      "choices": [
+        "Right atrium",
+        "Internal jugular vein",
+        "Superior Vena Cava (SVC), at the level of the azygos vein",
+        "Left brachiocephalic vein",
+        "Proximal subclavian vein"
+      ],
+      "answer": "C",
+      "detail": "The tip should be in the distal SVC to avoid the risk of cardiac tamponade from atrial perforation."
+    },
+    {
+      "number": 5,
+      "question": "On a chest radiograph, a Swan-Ganz catheter (pulmonary artery catheter) tip should be located:",
+      "choices": [
+        "Within the right ventricle",
+        "No more than 2 cm from the hilar border",
+        "Within the right or left main pulmonary artery",
+        "No more than 3 cm from the midline",
+        "In the superior vena cava"
+      ],
+      "answer": "B",
+      "detail": "Positioning the tip more distally increases the risk of pulmonary artery pseudoaneurysm or pulmonary infarction."
+    }
+  ]
+}

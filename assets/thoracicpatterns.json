@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "number": 9,
+      "question": "Which of the following is the most common cause of perilymphatic nodules?",
+      "choices": [
+        "Miliary Tuberculosis",
+        "Metastatic melanoma",
+        "Sarcoidosis",
+        "Hypersensitivity pneumonitis",
+        "Silicosis"
+      ],
+      "answer": "C",
+      "detail": "Sarcoidosis is the classic cause of perilymphatic nodules, typically seen along fissures, pleura, and the bronchovascular bundle."
+    },
+    {
+      "number": 10,
+      "question": "What is the \"galaxy sign\" in pulmonary imaging?",
+      "choices": [
+        "Multiple cavitary nodules scattered randomly",
+        "A central mass surrounded by many tiny peripheral nodules",
+        "Diffuse ground-glass opacities with centrilobular sparing",
+        "Septal thickening with a \"beaded\" appearance",
+        "Clusters of tree-in-bud opacities in a single lobe"
+      ],
+      "answer": "B",
+      "detail": "This sign is most apparent on axial CT and is characteristic of confluent perilymphatic nodules in sarcoidosis."
+    },
+    {
+      "number": 11,
+      "question": "Micronodules with a \"random\" distribution on CT are typically seen in:",
+      "choices": [
+        "Sarcoidosis",
+        "Miliary Tuberculosis",
+        "Hypersensitivity pneumonitis",
+        "Lymphangitic carcinomatosis",
+        "Respiratory bronchiolitis"
+      ],
+      "answer": "B",
+      "detail": "Random nodules (e.g., miliary TB or hematogenous metastases) lack a specific relationship to the secondary pulmonary lobule."
+    },
+    {
+      "number": 12,
+      "question": "The \"halo sign\" (a nodule surrounded by a rim of ground-glass opacity) is most characteristic of which condition in an immunocompromised patient?",
+      "choices": [
+        "Sarcoidosis",
+        "Angioinvasive Aspergillosis",
+        "Septic emboli",
+        "Metastatic Adenocarcinoma",
+        "Cryptogenic Organizing Pneumonia (COP)"
+      ],
+      "answer": "B",
+      "detail": "The halo represents hemorrhage surrounding an infarct caused by the fungus."
+    },
+    {
+      "number": 13,
+      "question": "\"Crazy paving\" is a CT pattern defined by ground-glass opacities with superimposed:",
+      "choices": [
+        "Centrilobular nodules",
+        "Interlobular septal thickening",
+        "Cavitation",
+        "Pleural effusions",
+        "Bronchiectasis"
+      ],
+      "answer": "B",
+      "detail": "This pattern is seen in alveolar proteinosis, pulmonary edema, and certain infections."
+    },
+    {
+      "number": 14,
+      "question": "A \"reverse halo sign\" (Atoll sign) is most highly associated with:",
+      "choices": [
+        "Pulmonary Alveolar Proteinosis",
+        "Cryptogenic Organizing Pneumonia (COP)",
+        "Pulmonary edema",
+        "Sarcoidosis",
+        "Lymphoma"
+      ],
+      "answer": "B",
+      "detail": "It consists of a central area of ground glass surrounded by a ring of consolidation."
+    },
+    {
+      "number": 15,
+      "question": "Thickening of the interlobular septa that is smooth and predominant in the lower lobes is a common finding in:",
+      "choices": [
+        "Sarcoidosis",
+        "Pulmonary edema",
+        "Lymphangitic carcinomatosis",
+        "Silicosis",
+        "Asbestosis"
+      ],
+      "answer": "B",
+      "detail": "Smooth septal thickening (Kerley B lines) is a hallmark of interstitial pulmonary edema."
+    },
+    {
+      "number": 16,
+      "question": "Which nodular distribution is characterized by nodules that spare the subpleural surfaces and fissures?",
+      "choices": [
+        "Perilymphatic",
+        "Random",
+        "Centrilobular",
+        "Miliary",
+        "Pleural-based"
+      ],
+      "answer": "C",
+      "detail": "Centrilobular nodules (like those in hypersensitivity pneumonitis) are centered in the lobule and do not reach the pleural surface."
+    },
+    {
+      "number": 17,
+      "question": "The \"tree-in-bud\" sign represents:",
+      "choices": [
+        "Interstitial fibrosis",
+        "Impacted small airways with mucus or pus",
+        "Septal edema",
+        "Peribronchial thickening",
+        "Pulmonary hypertension"
+      ],
+      "answer": "B",
+      "detail": "This is a sign of small airway disease, most commonly infectious bronchiolitis."
+    },
+    {
+      "number": 18,
+      "question": "Consolidation is distinguished from ground-glass opacity by the fact that consolidation:",
+      "choices": [
+        "Is always higher in density",
+        "Obscures underlying pulmonary vessels",
+        "Is always associated with air bronchograms",
+        "Spares the lung periphery",
+        "Resolves more slowly"
+      ],
+      "answer": "B",
+      "detail": "This is the primary radiographic/CT distinction between the two patterns."
+    },
+    {
+      "number": 19,
+      "question": "Beaded or nodular thickening of the interlobular septa is most suggestive of:",
+      "choices": [
+        "Pulmonary edema",
+        "Lymphangitic carcinomatosis",
+        "Viral pneumonia",
+        "Hypersensitivity pneumonitis",
+        "Pulmonary Alveolar Proteinosis"
+      ],
+      "answer": "B",
+      "detail": "Nodular thickening (often in a patient with known malignancy) is the classic appearance of lymphangitic spread."
+    },
+    {
+      "number": 20,
+      "question": "Which of the following is a classic cause of cystic lung disease featuring \"bizarre-shaped\" cysts and a strong smoking association?",
+      "choices": [
+        "Lymphangioleiomyomatosis (LAM)",
+        "Langerhans Cell Histiocytosis (LCH)",
+        "Birt-Hogg-Dubé syndrome",
+        "Lymphocytic Interstitial Pneumonia (LIP)",
+        "Pneumocystis pneumonia"
+      ],
+      "answer": "B",
+      "detail": "LCH features upper-lobe predominant cysts that are often irregularly shaped and progress from nodules to cysts."
+    },
+    {
+      "number": 21,
+      "question": "\"Feeding vessel sign\" associated with a pulmonary nodule is most common in:",
+      "choices": [
+        "Lung cancer",
+        "Septic emboli",
+        "Sarcoidosis",
+        "Tuberculosis",
+        "Hamartoma"
+      ],
+      "answer": "B",
+      "detail": "A vessel seen leading directly to a peripheral nodule (often cavitating) is highly suggestive of hematogenous spread."
+    },
+    {
+      "number": 22,
+      "question": "Centrilobular emphysema is most commonly found in which distribution?",
+      "choices": [
+        "Lower lobe predominant",
+        "Upper lobe predominant",
+        "Diffuse and symmetric",
+        "Subpleural only",
+        "Perihilar only"
+      ],
+      "answer": "B",
+      "detail": "Centrilobular emphysema is associated with smoking and favors the upper lobes."
+    },
+    {
+      "number": 23,
+      "question": "Which sign helps differentiate a pulmonary mass from a pleural mass on CT?",
+      "choices": [
+        "The \"Air crescent\" sign",
+        "The \"Split pleura\" sign",
+        "The \"Galaxy\" sign",
+        "The \"Signet ring\" sign",
+        "The \"Atoll\" sign"
+      ],
+      "answer": "B",
+      "detail": "Enhancement and separation of the visceral and parietal pleura is a classic sign of an empyema or pleural mass."
+    }
+  ]
+}

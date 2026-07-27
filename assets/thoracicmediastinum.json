@@ -1,0 +1,238 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Which of the following represents the classic \"4 Ts\" differential diagnosis for a mass in the anterior mediastinum?",
+      "choices": [
+        "Thymoma, Teratoma, Thyroid, Terrible Lymphoma",
+        "Thymoma, Tracheal mass, Thyroid, T-cell Leukemia",
+        "Teratoma, Thyroid, Thoracic Aneurysm, Thymoma",
+        "Thymoma, Toxoplasmosis, Thyroid, Teratoma",
+        "Terrible Lymphoma, Tracheal mass, Thymoma, Thyroid"
+      ],
+      "answer": "A",
+      "detail": "This is a classic mnemonic for anterior mediastinal masses."
+    },
+    {
+      "number": 2,
+      "question": "A 40-year-old female with drooping eyelids and muscle weakness (Myasthenia Gravis) is found to have an anterior mediastinal mass. What is the most likely diagnosis?",
+      "choices": [
+        "Lymphoma",
+        "Germ cell tumor",
+        "Thymoma",
+        "Retrosternal goiter",
+        "Pericardial cyst"
+      ],
+      "answer": "C",
+      "detail": "Approximately 15% of patients with Myasthenia Gravis have a thymoma, and about 30–50% of patients with a thymoma have MG."
+    },
+    {
+      "number": 3,
+      "question": "Which anterior mediastinal mass is most likely to contain fat, fluid, and calcification (the \"triple-tissue\" sign) on CT?",
+      "choices": [
+        "Mature cystic teratoma",
+        "Thyroid goiter",
+        "Lymphoma",
+        "Thymoma",
+        "Pericardial cyst"
+      ],
+      "answer": "A",
+      "detail": "Teratomas are germ cell tumors that frequently contain multiple tissue densities including fat and bone-like calcifications."
+    },
+    {
+      "number": 4,
+      "question": "A mediastinal mass is identified that demonstrates intense uptake on an I-131 scan. This is diagnostic for:",
+      "choices": [
+        "Thymoma",
+        "Teratoma",
+        "Retrosternal thyroid goiter",
+        "Lymphoma",
+        "Neurogenic tumor"
+      ],
+      "answer": "C",
+      "detail": "Ectopic or substernal thyroid tissue will typically take up iodine radiotracers. Conversely, iodine-resistant thyroid cancer may require FDG-PET/CT for staging."
+    },
+    {
+      "number": 5,
+      "question": "Which type of mediastinal mass is most common in the posterior mediastinum and often arises from the sympathetic chain?",
+      "choices": [
+        "Lymphoma",
+        "Thymic cyst",
+        "Neurogenic tumor (e.g., Schwannoma or Neurofibroma)",
+        "Bronchogenic cyst",
+        "Teratoma"
+      ],
+      "answer": "C",
+      "detail": "Posterior mediastinal masses are predominantly neurogenic in origin."
+    },
+    {
+      "number": 6,
+      "question": "A \"water-bottle\" shaped heart and widening of the mediastinum on a frontal radiograph should raise suspicion for:",
+      "choices": [
+        "Large pericardial effusion",
+        "Thymoma",
+        "Aortic dissection",
+        "Esophageal achalasia",
+        "Diaphragmatic hernia"
+      ],
+      "answer": "A",
+      "detail": "Massive effusions cause the cardiac silhouette to enlarge symmetrically in a \"water-bottle\" configuration."
+    },
+    {
+      "number": 7,
+      "question": "On CT, a well-circumscribed, low-attenuation (near water density) mass is seen in the right cardiophrenic angle. What is the most likely diagnosis?",
+      "choices": [
+        "Thymoma",
+        "Pericardial cyst",
+        "Morgagni hernia",
+        "Bronchogenic cyst",
+        "Lymphoma"
+      ],
+      "answer": "B",
+      "detail": "Pericardial cysts are most commonly found in the right cardiophrenic angle and have simple fluid attenuation."
+    },
+    {
+      "number": 8,
+      "question": "Which anatomical landmark marks the boundary between the anterior and middle mediastinum in most classification systems?",
+      "choices": [
+        "The esophagus",
+        "The anterior border of the trachea and the posterior heart border",
+        "The vertebral bodies",
+        "The sternum",
+        "The azygos vein"
+      ],
+      "answer": "B",
+      "detail": "This boundary defines the middle mediastinum, which contains the heart, great vessels, and trachea."
+    },
+    {
+      "number": 9,
+      "question": "Widening of the paratracheal stripe (normal <4 mm) is a common radiographic sign of:",
+      "choices": [
+        "Lymphadenopathy",
+        "Esophageal mass",
+        "Pleural effusion",
+        "Neurogenic tumor",
+        "Scoliosis"
+      ],
+      "answer": "A",
+      "detail": "The paratracheal stripe is sensitive to the presence of enlarged nodes or masses in the paratracheal region."
+    },
+    {
+      "number": 10,
+      "question": "A \"dumbbell-shaped\" mass extending through a neural foramen in the posterior mediastinum is characteristic of:",
+      "choices": [
+        "Azygos vein dilation",
+        "Neurogenic tumor (e.g., Schwannoma)",
+        "Extramedullary hematopoiesis",
+        "Aortic aneurysm",
+        "Esophageal duplication cyst"
+      ],
+      "answer": "B",
+      "detail": "These tumors often follow the path of spinal nerves through the exit foramina."
+    },
+    {
+      "number": 11,
+      "question": "Which mediastinal compartment contains the esophagus, descending aorta, and the thoracic duct?",
+      "choices": [
+        "Anterior mediastinum",
+        "Middle mediastinum",
+        "Posterior mediastinum",
+        "Superior mediastinum only",
+        "Paraspinal compartment"
+      ],
+      "answer": "C",
+      "detail": "In most three-compartment models, these structures are located posteriorly."
+    },
+    {
+      "number": 12,
+      "question": "The presence of air within the mediastinal tissues (pneumomediastinum) in a neonate can lift the thymus, creating the:",
+      "choices": [
+        "Sail sign",
+        "Spinnaker sail sign (angel-wing sign)",
+        "Deep sulcus sign",
+        "Double bubble sign",
+        "Westermark sign"
+      ],
+      "answer": "B",
+      "detail": "Air under the thymic lobes is a hallmark of neonatal pneumomediastinum."
+    },
+    {
+      "number": 13,
+      "question": "Which mediastinal mass is frequently associated with serum elevations of Beta-hCG and Alpha-fetoprotein (AFP)?",
+      "choices": [
+        "Thymoma",
+        "Non-seminomatous germ cell tumor",
+        "Lymphoma",
+        "Thyroid goiter",
+        "Sarcoidosis"
+      ],
+      "answer": "B",
+      "detail": "These biomarkers are used to identify and follow malignant germ cell tumors in the mediastinum."
+    },
+    {
+      "number": 14,
+      "question": "A highly FDG-avid mass in the mediastinum of a 20-year-old with drenching night sweats is most likely:",
+      "choices": [
+        "Thymoma",
+        "Lymphoma",
+        "Teratoma",
+        "Thyroid goiter",
+        "Bronchogenic cyst"
+      ],
+      "answer": "B",
+      "detail": "Lymphoma is a common cause of bulky, hypermetabolic anterior or middle mediastinal masses in young adults."
+    },
+    {
+      "number": 15,
+      "question": "\"Extramedullary hematopoiesis\" typically presents as:",
+      "choices": [
+        "Anterior mediastinal masses in patients with leukemia",
+        "Smooth, lobulated paraspinal masses in patients with chronic anemia",
+        "A solitary mass in the middle mediastinum",
+        "Dilation of the azygos vein",
+        "Rib notching"
+      ],
+      "answer": "B",
+      "detail": "This is a compensatory mechanism for bone marrow failure/anemia and favors the posterior paraspinal regions."
+    },
+    {
+      "number": 16,
+      "question": "Which of the following is a classic cause of a \"middle mediastinal\" cystic mass?",
+      "choices": [
+        "Thymic cyst",
+        "Bronchogenic cyst",
+        "Neuroenteric cyst",
+        "Thyroid cyst",
+        "Mature teratoma"
+      ],
+      "answer": "B",
+      "detail": "Bronchogenic cysts are congenital foregut malformations typically found near the carina in the middle mediastinum."
+    },
+    {
+      "number": 17,
+      "question": "Dilation of the azygos vein (normal <10 mm on upright film) can be a secondary sign of:",
+      "choices": [
+        "Portal hypertension",
+        "SVC obstruction",
+        "Right heart failure",
+        "Interrupted IVC with azygos continuation",
+        "All of the above"
+      ],
+      "answer": "E",
+      "detail": "The azygos vein dilates when it must carry an increased volume of venous return."
+    },
+    {
+      "number": 18,
+      "question": "A \"lying down adrenal\" on neonatal imaging may be a clue to:",
+      "choices": [
+        "Neuroblastoma",
+        "Renal agenesis",
+        "Posterior urethral valves",
+        "Adrenal hemorrhage",
+        "Wilms tumor"
+      ],
+      "answer": "B",
+      "detail": "In the absence of a kidney, the adrenal gland loses its normal triangular shape and lies flat along the psoas muscle."
+    }
+  ]
+}

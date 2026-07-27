@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Which tracheal condition is characterized by multiple cartilaginous and osseous nodules that SPARE the posterior membrane of the trachea?",
+      "choices": [
+        "Relapsing polychondritis",
+        "Tracheobronchopathia osteochondroplastica (TBO)",
+        "Amyloidosis",
+        "Wegener’s (GPA)",
+        "Tracheal papillomatosis"
+      ],
+      "answer": "B",
+      "detail": "TBO nodules originate from the cartilaginous rings, thus sparing the non-cartilaginous posterior membrane."
+    },
+    {
+      "number": 2,
+      "question": "A patient with 'saddle-nose' deformity presents with diffuse tracheal wall thickening that involves the cartilaginous rings but SPARES the posterior membrane. What is the diagnosis?",
+      "choices": [
+        "TBO",
+        "Relapsing polychondritis",
+        "Amyloidosis",
+        "Sarcoidosis",
+        "Croup"
+      ],
+      "answer": "B",
+      "detail": "Relapsing polychondritis is an autoimmune inflammatory condition of cartilage; like TBO, it spares the posterior membrane because it lacks cartilage."
+    },
+    {
+      "number": 3,
+      "question": "In contrast to TBO and relapsing polychondritis, which disease causes circumferential tracheal thickening that INCLUDES the posterior membrane?",
+      "choices": [
+        "Croup",
+        "Tracheal Amyloidosis",
+        "Epiglottitis",
+        "Tracheomalacia",
+        "Bronchial atresia"
+      ],
+      "answer": "B",
+      "detail": "Amyloid deposition is circumferential and often involves the posterior membrane, helping to differentiate it from cartilaginous-based diseases."
+    },
+    {
+      "number": 4,
+      "question": "'Centrilobular emphysema' is most strongly associated with which of the following?",
+      "choices": [
+        "Alpha-1 antitrypsin deficiency",
+        "Cigarette smoking",
+        "Aging only",
+        "Chronic asthma",
+        "Asbestos exposure"
+      ],
+      "answer": "B",
+      "detail": "Centrilobular emphysema (favoring the upper lobes) is the most common pattern in smokers."
+    },
+    {
+      "number": 5,
+      "question": "Panacinar emphysema, which involves the entire secondary pulmonary lobule and favors the lower lobes, is the hallmark of:",
+      "choices": [
+        "Smoking",
+        "Alpha-1 antitrypsin deficiency",
+        "Swyer-James syndrome",
+        "Cystic fibrosis",
+        "ABPA"
+      ],
+      "answer": "B",
+      "detail": "Alpha-1 antitrypsin deficiency leads to diffuse destruction of alveoli, predominant in the lung bases."
+    },
+    {
+      "number": 6,
+      "question": "What is the 'signet ring sign' diagnostic of?",
+      "choices": [
+        "Pulmonary embolism",
+        "Bronchiectasis",
+        "Pneumothorax",
+        "Lung cancer",
+        "Active TB"
+      ],
+      "answer": "B",
+      "detail": "The signet ring sign represents a dilated bronchus (the ring) that is larger than its adjacent pulmonary artery (the signet)."
+    },
+    {
+      "number": 7,
+      "question": "Which condition features proximal bronchiectasis and mucoid impaction ('finger-in-glove' sign) in a patient with asthma?",
+      "choices": [
+        "Cystic fibrosis",
+        "Allergic Bronchopulmonary Aspergillosis (ABPA)",
+        "Williams-Campbell syndrome",
+        "Kartagener syndrome",
+        "Post-infectious bronchiectasis"
+      ],
+      "answer": "B",
+      "detail": "ABPA is a hypersensitivity reaction to Aspergillus causing proximal bronchiectasis and thick mucus plugging."
+    },
+    {
+      "number": 8,
+      "question": "Laryngeal papillomatosis is caused by HPV and can lead to which pulmonary finding?",
+      "choices": [
+        "Solitary peripheral mass",
+        "Multiple cavitary nodules",
+        "Lower lobe consolidation",
+        "Pleural plaques",
+        "Pneumatosis intestinalis"
+      ],
+      "answer": "B",
+      "detail": "Papillomas can seed the distal airways, forming nodules that often cavitate and carry a risk of squamous cell carcinoma."
+    },
+    {
+      "number": 9,
+      "question": "A 'molar tooth' configuration of the midbrain on axial MRI is characteristic of:",
+      "choices": [
+        "Joubert syndrome",
+        "Dandy-Walker malformation",
+        "Chiari II",
+        "Holoprosencephaly",
+        "Agenesis of the corpus callosum"
+      ],
+      "answer": "A",
+      "detail": "This is a hallmark of Joubert syndrome, often associated with respiratory/airway control issues in infants."
+    },
+    {
+      "number": 10,
+      "question": "Bronchial atresia most commonly involves the left upper lobe and features which imaging hallmark?",
+      "choices": [
+        "A 'double bubble' sign",
+        "A 'mucocele' with distal hyperlucent lung",
+        "A 'snowball' sign",
+        "Rapidly progressive consolidation",
+        "Spinnaker sail sign"
+      ],
+      "answer": "B",
+      "detail": "The atretic bronchus fills with mucus (mucocele), while the distal lung is ventilated by collateral pathways but remains hyperlucent due to air trapping."
+    }
+  ]
+}

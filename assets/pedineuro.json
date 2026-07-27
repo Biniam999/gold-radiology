@@ -1,0 +1,238 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Germinal matrix hemorrhage is a common brain emergency primarily affecting infants of what gestational age?",
+      "choices": [
+        "Term infants (>37 weeks)",
+        "Pre-term infants (<32 weeks)",
+        "Infants of diabetic mothers",
+        "Children with neurofibromatosis",
+        "Post-term infants (>42 weeks)"
+      ],
+      "answer": "B",
+      "detail": "The germinal matrix is the site of neuronal precursor cells that regresses and is usually involuted by 32 weeks gestation."
+    },
+    {
+      "number": 2,
+      "question": "A premature infant’s head ultrasound shows hemorrhage extending into the ventricles with associated ventriculomegaly. What is the correct grade?",
+      "choices": [
+        "Grade I",
+        "Grade II",
+        "Grade III",
+        "Grade IV",
+        "Grade V"
+      ],
+      "answer": "C",
+      "detail": "Grade I is confined to the matrix; Grade II is intraventricular without dilation; Grade III is intraventricular with ventriculomegaly."
+    },
+    {
+      "number": 3,
+      "question": "Which structure is expected to show myelination on T1-weighted images in a healthy full-term newborn?",
+      "choices": [
+        "Frontal lobes",
+        "Anterior limb of the internal capsule",
+        "Posterior limb of the internal capsule",
+        "Corpus callosum",
+        "Optic radiation"
+      ],
+      "answer": "C",
+      "detail": "Healthy term newborns show myelination in the posterior limb of internal capsules, thalami, and brainstem at birth."
+    },
+    {
+      "number": 4,
+      "question": "At what age does the brain typically assume a mature myelination pattern?",
+      "choices": [
+        "6 months",
+        "1 year",
+        "2 years",
+        "5 years",
+        "Adolescence"
+      ],
+      "answer": "C",
+      "detail": "While the frontal lobes continue to myelinate through adolescence, the mature pattern is generally reached by age two."
+    },
+    {
+      "number": 5,
+      "question": "Which malformation is characterized by a thick cortex with an irregularly \"bumpy\" surface, often appearing smoother in myelinated regions?",
+      "choices": [
+        "Lissencephaly",
+        "Polymicrogyria",
+        "Schizencephaly",
+        "Gray matter heterotopia",
+        "Holoprosencephaly"
+      ],
+      "answer": "B",
+      "detail": "Polymicrogyria features \"too many gyri and too few sulci,\" creating a bumpy cortical surface on MRI."
+    },
+    {
+      "number": 6,
+      "question": "Cobblestone malformation (Type II lissencephaly) is characterized on MRI by:",
+      "choices": [
+        "A completely smooth 4-layered cortex",
+        "A finely undulating or serrated gray-white interface",
+        "Clusters of normal neurons in the subependymal region",
+        "A full-thickness cleft lined by gray matter",
+        "Parallel orientation of the lateral ventricles"
+      ],
+      "answer": "B",
+      "detail": "Cobblestone malformation features a gently lobulated external cortex and a finely undulating interface at the gray-white junction."
+    },
+    {
+      "number": 7,
+      "question": "\"Colpocephaly\" is a secondary abnormality in ventricular morphology characterized by:",
+      "choices": [
+        "Dilation of the temporal horns",
+        "Parallel orientation of the lateral ventricles",
+        "Dilation of the occipital horns",
+        "Narrowing of the third ventricle",
+        "Absence of the fourth ventricle"
+      ],
+      "answer": "C",
+      "detail": "Colpocephaly (dilation of the occipital horns) often results from decreased white matter volume posteriorly in the setting of corpus callosum agenesis."
+    },
+    {
+      "number": 8,
+      "question": "In agenesis of the corpus callosum, medial impressions on the lateral ventricles are caused by:",
+      "choices": [
+        "Midline lipomas",
+        "Probst bundles",
+        "Subependymal nodules",
+        "Cortical tubers",
+        "Ependymal cysts"
+      ],
+      "answer": "B",
+      "detail": "Probst bundles are axons that normally would cross the corpus callosum but instead pursue an aberrant course parallel to the interhemispheric fissure."
+    },
+    {
+      "number": 9,
+      "question": "What is the pathognomonic imaging finding for schizencephaly that distinguishes it from other cortical clefts?",
+      "choices": [
+        "Communication with the subarachnoid space",
+        "The cleft is lined by white matter",
+        "The cleft is lined by gray matter",
+        "Associated midline lipoma",
+        "Presence of the \"banana sign\""
+      ],
+      "answer": "C",
+      "detail": "While many entities cause cortical clefts, only schizencephaly is lined by (often dysplastic) gray matter."
+    },
+    {
+      "number": 10,
+      "question": "Schizencephaly is commonly associated with which other neurodevelopmental condition?",
+      "choices": [
+        "Dandy-Walker malformation",
+        "Septo-optic dysplasia",
+        "Chiari II malformation",
+        "Tuberous sclerosis",
+        "Sturge-Weber syndrome"
+      ],
+      "answer": "B",
+      "detail": "Septo-optic dysplasia includes agenesis of the septum pellucidum, optic nerve hypoplasia, and pituitary abnormalities, and is associated with schizencephaly."
+    },
+    {
+      "number": 11,
+      "question": "What is the classic radiologic criterion for a confident diagnosis of Chiari I malformation?",
+      "choices": [
+        "Herniation of one tonsil by 1 mm",
+        "Upward displacement of the tentorium",
+        "Herniation of either tonsil by 5 mm",
+        "Presence of the \"molar tooth\" sign",
+        "Small fourth ventricle"
+      ],
+      "answer": "C",
+      "detail": "The classic diagnosis is herniation of either tonsil by 5 mm, or both by 3 mm, though pointed tonsils and complications like syrinx are helpful indicators."
+    },
+    {
+      "number": 12,
+      "question": "\"Torcular-lambdoid inversion\" (elevated torcula) is a classic finding of:",
+      "choices": [
+        "Chiari I malformation",
+        "Chiari II malformation",
+        "Dandy-Walker malformation",
+        "Joubert syndrome",
+        "Sturge-Weber syndrome"
+      ],
+      "answer": "C",
+      "detail": "In Dandy-Walker, the enlarged fourth ventricle and posterior fossa cyst displace the tentorium upwards, causing torcular-lambdoid inversion."
+    },
+    {
+      "number": 13,
+      "question": "In children with Neurofibromatosis type 1 (NF1), T2-hyperintense \"bright spots\" (UBOs) in the cerebellum and basal ganglia represent:",
+      "choices": [
+        "Low-grade gliomas",
+        "Areas of restricted diffusion",
+        "Myelin vacuolization",
+        "Focal calcifications",
+        "Small infarcts"
+      ],
+      "answer": "C",
+      "detail": "These unidentified bright objects (UBOs) are common in children with NF1 and represent myelin vacuolization; they often resolve in adulthood."
+    },
+    {
+      "number": 14,
+      "question": "Which mnemonic is used to remember the components of Neurofibromatosis type 2 (NF2)?",
+      "choices": [
+        "VACTERL",
+        "CHARGE",
+        "MISME",
+        "PHACES",
+        "CRITOE"
+      ],
+      "answer": "C",
+      "detail": "MISME stands for Multiple Inherited Schwannomas, Meningiomas, and Ependymomas."
+    },
+    {
+      "number": 15,
+      "question": "A 3-year-old child presents with a facial port-wine stain. MRI shows diffuse leptomeningeal enhancement and cortical atrophy. What is the likely diagnosis?",
+      "choices": [
+        "Tuberous Sclerosis",
+        "Neurofibromatosis Type 1",
+        "Sturge-Weber Syndrome",
+        "Neurofibromatosis Type 2",
+        "Von Hippel-Lindau"
+      ],
+      "answer": "C",
+      "detail": "Sturge-Weber is a vascular disorder featuring a facial port-wine stain, leptomeningeal angiomatosis (pial enhancement), and cortical atrophy/calcification."
+    },
+    {
+      "number": 16,
+      "question": "A child with Tuberous Sclerosis shows a newly enhancing or enlarging subependymal nodule on serial MRIs. This should raise concern for:",
+      "choices": [
+        "Cortical tuber",
+        "Subependymal giant cell astrocytoma (SEGA)",
+        "Ependymoma",
+        "Meningioma",
+        "Plexiform neurofibroma"
+      ],
+      "answer": "B",
+      "detail": "Approximately 15% of Tuberous Sclerosis patients develop SEGA, typically appearing as an enlarging, enhancing subependymal nodule."
+    },
+    {
+      "number": 17,
+      "question": "The \"molar tooth\" configuration of the midbrain is the hallmark of:",
+      "choices": [
+        "Dandy-Walker malformation",
+        "Chiari II malformation",
+        "Joubert syndrome",
+        "Septo-optic dysplasia",
+        "Lissencephaly"
+      ],
+      "answer": "C",
+      "detail": "The molar tooth sign is caused by aplasia/hypoplasia of the cerebellar vermis and is characteristic of Joubert syndrome."
+    },
+    {
+      "number": 18,
+      "question": "Which skeletal finding is a diagnostic feature of Neurofibromatosis type 1 (NF1)?",
+      "choices": [
+        "Flattened vertebral bodies (platyspondyly)",
+        "Sphenoid wing dysplasia",
+        "\"Telephone receiver\" femurs",
+        "Absence of the clavicles",
+        "Wormian bones"
+      ],
+      "answer": "B",
+      "detail": "Sphenoid wing dysplasia is a classic bony manifestation of NF1, alongside others like tibial bowing and rib notching."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "number": 29,
+      "question": "According to Light's criteria, a pleural effusion is considered an \"exudate\" if the pleural fluid to serum protein ratio is:",
+      "choices": [
+        "> 0.1",
+        "> 0.3",
+        "> 0.5",
+        "< 0.5",
+        "Exactly 1.0"
+      ],
+      "answer": "C",
+      "detail": "Exudates, which are typically due to infection or malignancy, have higher protein and LDH ratios compared to transudates, which are often caused by heart failure."
+    },
+    {
+      "number": 30,
+      "question": "The \"split pleura sign\" on contrast-enhanced CT is a highly specific indicator of:",
+      "choices": [
+        "Simple pleural effusion",
+        "Pleural empyema",
+        "Mesothelioma",
+        "Pneumothorax",
+        "Asbestos plaques"
+      ],
+      "answer": "B",
+      "detail": "The split pleura sign represents the enhancement and separation of the visceral and parietal pleural layers by infected fluid, a classic hallmark of pleural empyema."
+    },
+    {
+      "number": 31,
+      "question": "Which pleural malignancy is strongly associated with asbestos exposure and often presents with circumferential pleural thickening?",
+      "choices": [
+        "Solitary Fibrous Tumor of the Pleura (SFTP)",
+        "Malignant Mesothelioma",
+        "Pleural Lymphoma",
+        "Metastatic Adenocarcinoma",
+        "Fibromatosis coli"
+      ],
+      "answer": "B",
+      "detail": "Malignant Mesothelioma is the primary pleural malignancy linked to asbestos exposure and characteristically encases the lung in a \"rind\" of tumor."
+    },
+    {
+      "number": 32,
+      "question": "Solitary Fibrous Tumor of the Pleura (SFTP) is a mesenchymal tumor that is NOT related to asbestos. It is uniquely associated with which paraneoplastic syndrome?",
+      "choices": [
+        "Hypercalcemia",
+        "SIADH",
+        "Hypoglycemia (Doege-Potter syndrome)",
+        "Cushing syndrome",
+        "Lambert-Eaton syndrome"
+      ],
+      "answer": "C",
+      "detail": "Large SFTPs can produce insulin-like growth factor, leading to the paraneoplastic syndrome known as Doege-Potter syndrome, which causes profound hypoglycemia."
+    },
+    {
+      "number": 33,
+      "question": "Pleural plaques, which are calcified or non-calcified focal areas of thickening, typically SPARE which region of the pleura?",
+      "choices": [
+        "Diaphragmatic pleura",
+        "Parietal pleura along the ribs",
+        "Costophrenic angles and apices",
+        "Mediastinal pleura",
+        "Fissural pleura"
+      ],
+      "answer": "C",
+      "detail": "While asbestos-related pleural plaques commonly involve the mid-lung zones and the diaphragm, they characteristically spare the apices and costophrenic angles."
+    }
+  ]
+}

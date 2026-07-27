@@ -1,0 +1,238 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Which histological subtype of lung cancer is the most common overall and typically presents as a peripheral mass?",
+      "choices": [
+        "Squamous cell carcinoma",
+        "Small cell carcinoma",
+        "Adenocarcinoma",
+        "Large cell carcinoma",
+        "Carcinoid tumor"
+      ],
+      "answer": "C",
+      "detail": "Adenocarcinoma has overtaken squamous cell as the most common subtype and usually originates in the lung periphery."
+    },
+    {
+      "number": 2,
+      "question": "A 65-year-old heavy smoker presents with a large, centrally located mass that shows central cavitation. What is the most likely diagnosis?",
+      "choices": [
+        "Adenocarcinoma",
+        "Squamous cell carcinoma",
+        "Small cell carcinoma",
+        "Metastatic melanoma",
+        "Lymphoma"
+      ],
+      "answer": "B",
+      "detail": "Squamous cell carcinoma is strongly associated with smoking, occurs centrally, and is the subtype most likely to cavitate."
+    },
+    {
+      "number": 3,
+      "question": "Which type of lung cancer is considered a \"surgical\" disease at early stages but frequently presents with paraneoplastic syndromes like Hypercalcemia (PTHrP)?",
+      "choices": [
+        "Small cell carcinoma",
+        "Adenocarcinoma",
+        "Squamous cell carcinoma",
+        "Carcinoid",
+        "Large cell carcinoma"
+      ],
+      "answer": "C",
+      "detail": "Squamous cell is associated with PTHrP-induced hypercalcemia, whereas small cell is more associated with ACTH (Cushing) and ADH (SIADH)."
+    },
+    {
+      "number": 4,
+      "question": "According to the current TNM staging, a tumor measuring 2.5 cm in its greatest dimension with no other suspicious features is classified as:",
+      "choices": [
+        "T1a",
+        "T1b",
+        "T1c",
+        "T2a",
+        "T2b"
+      ],
+      "answer": "B",
+      "detail": "T1 staging is strictly based on size: T1a is ≤1 cm, T1b is >1 to 2 cm, and T1c is >2 to 3 cm."
+    },
+    {
+      "number": 5,
+      "question": "A tumor that invades the chest wall or parietal pleura is automatically staged as at least:",
+      "choices": [
+        "T1",
+        "T2",
+        "T3",
+        "T4",
+        "M1"
+      ],
+      "answer": "C",
+      "detail": "T3 classification includes invasion of the chest wall, pericardium, or phrenic nerve, or satellite nodules in the same lobe."
+    },
+    {
+      "number": 6,
+      "question": "Nodal staging for lung cancer uses specific anatomical levels. Involvement of the ipsilateral hilar nodes (levels 10–14) is classified as:",
+      "choices": [
+        "N0",
+        "N1",
+        "N2",
+        "N3",
+        "N4"
+      ],
+      "answer": "B",
+      "detail": "N1 nodal involvement is defined by the presence of disease in ipsilateral hilar and intrapulmonary nodes."
+    },
+    {
+      "number": 7,
+      "question": "What anatomical landmark defines the boundary between the right and left for level 2 and 4 (paratracheal) lymph nodes?",
+      "choices": [
+        "The midline of the trachea",
+        "The right lateral border of the trachea",
+        "The left lateral border of the trachea",
+        "The esophagus",
+        "The azygos vein"
+      ],
+      "answer": "C",
+      "detail": "The left lateral border of the trachea serves as the anatomical boundary due to the specific flow of lymphatic drainage."
+    },
+    {
+      "number": 8,
+      "question": "Involvement of the subcarinal lymph nodes (Level 7) in a patient with a right-sided lung cancer is classified as:",
+      "choices": [
+        "N1",
+        "N2",
+        "N3",
+        "M1a",
+        "M1b"
+      ],
+      "answer": "B",
+      "detail": "Level 7 (subcarinal) nodes are considered ipsilateral mediastinal nodes (N2) for tumors located on either side of the chest."
+    },
+    {
+      "number": 9,
+      "question": "Metastasis to a contralateral hilar or contralateral mediastinal lymph node is classified as:",
+      "choices": [
+        "N1",
+        "N2",
+        "N3",
+        "M1a",
+        "M1b"
+      ],
+      "answer": "C",
+      "detail": "N3 is defined by involvement of any contralateral node or any supraclavicular node, whether ipsilateral or contralateral."
+    },
+    {
+      "number": 10,
+      "question": "A patient with a 4 cm tumor in the right upper lobe also has a separate 1 cm nodule in the right lower lobe. What is the T-stage?",
+      "choices": [
+        "T2",
+        "T3",
+        "T4",
+        "M1a",
+        "M1b"
+      ],
+      "answer": "C",
+      "detail": "A satellite nodule in the same lobe is staged as T3, but a separate nodule in a different ipsilateral lobe is staged as T4."
+    },
+    {
+      "number": 11,
+      "question": "Which metastatic stage (M-stage) describes a nodule in the contralateral lung?",
+      "choices": [
+        "M0",
+        "M1a",
+        "M1b",
+        "M1c",
+        "N3"
+      ],
+      "answer": "B",
+      "detail": "M1a staging includes pleural or pericardial nodules or effusions, as well as nodules found in the contralateral lung."
+    },
+    {
+      "number": 12,
+      "question": "What is the most common benign calcification pattern in a solitary pulmonary nodule (SPN), often described as \"popcorn\" calcification?",
+      "choices": [
+        "Central",
+        "Diffuse",
+        "Popcorn",
+        "Eccentric",
+        "Laminated"
+      ],
+      "answer": "C",
+      "detail": "Popcorn calcification is considered pathognomonic for a hamartoma. Central, diffuse, and laminated are other typically benign patterns."
+    },
+    {
+      "number": 13,
+      "question": "An SPN showing an \"eccentric\" or stippled calcification pattern is concerning for:",
+      "choices": [
+        "Healing Granuloma",
+        "Hamartoma",
+        "Malignancy",
+        "Old TB",
+        "Histoplasmosis"
+      ],
+      "answer": "C",
+      "detail": "Eccentric or stippled calcification patterns are considered suspicious for malignancy and may represent a tumor engulfing a benign calcified nodule."
+    },
+    {
+      "number": 14,
+      "question": "A Superior Sulcus (Pancoast) tumor is classically associated with which clinical syndrome?",
+      "choices": [
+        "SIADH",
+        "Horner syndrome",
+        "Lambert-Eaton syndrome",
+        "Cushing syndrome",
+        "Superior Vena Cava syndrome"
+      ],
+      "answer": "B",
+      "detail": "Pancoast tumors can invade the sympathetic chain, resulting in Horner syndrome (ptosis, miosis, and anhidrosis)."
+    },
+    {
+      "number": 15,
+      "question": "In staging Small Cell Lung Cancer (SCLC), \"limited stage\" disease is defined as:",
+      "choices": [
+        "Less than 3 cm in size",
+        "Safe to treat within a single radiation portal",
+        "Having no nodal involvement",
+        "Confined to the lung parenchyma only",
+        "Not yet causing paraneoplastic symptoms"
+      ],
+      "answer": "B",
+      "detail": "Limited stage disease is confined to one hemithorax and its regional nodes, meaning it can be encompassed in a single radiation field."
+    },
+    {
+      "number": 16,
+      "question": "Which sign on CT involves a pulmonary artery branch leading directly into a peripheral nodule?",
+      "choices": [
+        "Halo sign",
+        "Atoll sign",
+        "Feeding vessel sign",
+        "Signet ring sign",
+        "Galaxy sign"
+      ],
+      "answer": "C",
+      "detail": "The feeding vessel sign is characteristic of hematogenous processes such as septic emboli and hematogenous metastases."
+    },
+    {
+      "number": 17,
+      "question": "Which paraneoplastic syndrome is most strongly associated with Small Cell Lung Cancer?",
+      "choices": [
+        "Hypercalcemia",
+        "Clubbing",
+        "SIADH (Syndrome of Inappropriate Antidiuretic Hormone)",
+        "Hypertrophic osteoarthropathy",
+        "Trousseau syndrome"
+      ],
+      "answer": "C",
+      "detail": "As a neuroendocrine tumor, small cell carcinoma frequently produces ADH (causing SIADH) or ACTH."
+    },
+    {
+      "number": 18,
+      "question": "What is the current recommended screening method for lung cancer in high-risk patients?",
+      "choices": [
+        "Chest Radiograph every 6 months",
+        "Sputum cytology",
+        "Annual low-dose non-contrast CT (LDCT)",
+        "Contrast-enhanced CT every 2 years",
+        "PET/CT"
+      ],
+      "answer": "C",
+      "detail": "Annual low-dose non-contrast CT has been proven to reduce mortality in high-risk smokers."
+    }
+  ]
+}

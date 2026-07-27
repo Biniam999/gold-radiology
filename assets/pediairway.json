@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "A 2-year-old child presents with a 'barking' cough and inspiratory stridor. A frontal neck radiograph demonstrates symmetric narrowing of the subglottic trachea and loss of normal shouldering. What is the most likely causative pathogen?",
+      "choices": [
+        "Haemophilus influenzae",
+        "Parainfluenza virus",
+        "Staphylococcus aureus",
+        "Respiratory Syncytial Virus (RSV)",
+        "Group B Streptococcus"
+      ],
+      "answer": "B",
+      "detail": "This describes Croup (laryngotracheobronchitis), which is typically a self-limited viral infection (usually parainfluenza) affecting children ages 6 months to 4 years. The 'steeple sign' on frontal view represents symmetric subglottic narrowing."
+    },
+    {
+      "number": 2,
+      "question": "A 14-year-old male transplant recipient presents with high fever and rapidly progressive respiratory distress. A lateral neck radiograph reveals an enlarged epiglottis and thickened aryepiglottic folds. What is the classic radiographic sign?",
+      "choices": [
+        "Steeple sign",
+        "Candle dripping sign",
+        "Thumbprint sign",
+        "Spinnaker sail sign",
+        "Sail sign"
+      ],
+      "answer": "C",
+      "detail": "This is Epiglottitis. While rare due to H. influenzae immunization, it remains an emergency often seen in teens or the immunocompromised. The enlarged epiglottis on lateral view is known as the thumbprint sign."
+    },
+    {
+      "number": 3,
+      "question": "In a 3-year-old child suspected of having a retropharyngeal abscess, what is the maximum normal width of the prevertebral soft tissues at the level of C2?",
+      "choices": [
+        "One-quarter of the vertebral body width",
+        "Half of the vertebral body width",
+        "Equal to the vertebral body width",
+        "Twice the vertebral body width",
+        "One-third of the vertebral body width"
+      ],
+      "answer": "B",
+      "detail": "As a general rule, prevertebral soft tissues should not exceed half the vertebral body width at C1–C3, and one vertebral body width at C4 and below."
+    },
+    {
+      "number": 4,
+      "question": "An 8-year-old child presents with fever and stridor. Radiographs show linear filling defects representing intraluminal membranes in the subglottic trachea (the 'candle dripping sign'). What is the most likely etiology?",
+      "choices": [
+        "Viral croup",
+        "Epiglottitis",
+        "Exudative (bacterial) tracheitis",
+        "Subglottic hemangioma",
+        "Choanal atresia"
+      ],
+      "answer": "C",
+      "detail": "Exudative tracheitis affects older children (6–10 years) and is bacterial (most commonly S. aureus). Imaging shows characteristic linear filling defects known as the candle dripping sign."
+    },
+    {
+      "number": 5,
+      "question": "A neonate presents with respiratory distress that improves when crying. Imaging reveals complete obstruction of the posterior nasal cavity by soft tissue and bone, along with medialization of the pterygoid plates. What syndrome is most commonly associated with this finding?",
+      "choices": [
+        "VACTERL association",
+        "PHACES syndrome",
+        "CHARGE syndrome",
+        "DiGeorge syndrome",
+        "Trisomy 21"
+      ],
+      "answer": "C",
+      "detail": "Choanal atresia is the congenital occlusion of the posterior nasal cavity. It is often part of CHARGE syndrome (Coloboma, Heart defects, Atresia of choanae, Retardation of development, GU anomalies, Ear anomalies)."
+    },
+    {
+      "number": 6,
+      "question": "Axial CT of an infant reveals thickening and medialization of the nasal processes of the maxilla and a central maxillary mega-incisor. What is the diagnosis?",
+      "choices": [
+        "Choanal atresia",
+        "Pyriform aperture stenosis (PAS)",
+        "Subglottic hemangioma",
+        "Retropharyngeal abscess",
+        "Tracheal stenosis"
+      ],
+      "answer": "B",
+      "detail": "PAS involves narrowing of the frontal opening of the nose. The presence of a central maxillary mega-incisor is a classic associated finding."
+    },
+    {
+      "number": 7,
+      "question": "A frontal neck radiograph in an infant with stridor shows asymmetric narrowing of the subglottic trachea. Cutaneous hemangiomas are present. Which syndrome should be considered?",
+      "choices": [
+        "VACTERL",
+        "CHARGE",
+        "PHACES",
+        "DiGeorge",
+        "Beckwith-Wiedemann"
+      ],
+      "answer": "C",
+      "detail": "Subglottic hemangioma characteristically causes asymmetric narrowing (unlike the symmetric narrowing of croup). It is associated with cutaneous hemangiomas and PHACES syndrome."
+    },
+    {
+      "number": 8,
+      "question": "Which vascular anomaly is the only one to produce an anterior impression on the esophagus while causing stridor?",
+      "choices": [
+        "Double aortic arch",
+        "Right aortic arch with aberrant left subclavian",
+        "Pulmonary artery sling",
+        "Left aortic arch with aberrant right subclavian",
+        "Innominate artery syndrome"
+      ],
+      "answer": "C",
+      "detail": "The pulmonary artery sling is the only vascular anomaly producing an anterior esophageal impression. It is also the only one causing stridor with a normal left aortic arch."
+    },
+    {
+      "number": 9,
+      "question": "Barium esophagram in an infant with stridor shows a large posterior esophageal impression and a right-sided aortic arch is seen on frontal radiograph. Which two entities appear identical in this scenario?",
+      "choices": [
+        "Pulmonary sling and Double aortic arch",
+        "Double aortic arch and Right arch with aberrant left subclavian",
+        "Right arch with aberrant left subclavian and Pulmonary sling",
+        "Double aortic arch and Left arch with aberrant right subclavian",
+        "Innominate artery syndrome and Pulmonary sling"
+      ],
+      "answer": "B",
+      "detail": "Both double aortic arch and right arch with aberrant left subclavian cause stridor and show an identical posterior esophageal impression and anterior tracheal impression."
+    },
+    {
+      "number": 10,
+      "question": "A standard inspiratory CT is normal in a child with a 'honking' cough. Expiratory CT shows greater than 50% reduction in the cross-sectional area of the tracheal lumen. What is the diagnosis?",
+      "choices": [
+        "Tracheal stenosis",
+        "Croup",
+        "Tracheobronchomalacia",
+        "Epiglottitis",
+        "Vascular ring"
+      ],
+      "answer": "C",
+      "detail": "Tracheobronchomalacia causes excessive expiratory airway collapse. Standard inspiratory CT may be normal; dynamic expiratory imaging or bronchoscopy is required for diagnosis."
+    }
+  ]
+}

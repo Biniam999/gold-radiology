@@ -1,0 +1,198 @@
+{
+  "questions": [
+    {
+      "number": 37,
+      "question": "The \"Arc of Riolan\" is a mesenteric collateral pathway that connects:",
+      "choices": [
+        "Celiac and SMA",
+        "SMA and IMA (medially)",
+        "SMA and IMA (laterally)",
+        "Internal and External iliacs",
+        "Renal and Mesenteric arteries"
+      ],
+      "answer": "B",
+      "detail": "It is an important meandering mesenteric collateral seen in the setting of proximal arterial occlusion."
+    },
+    {
+      "number": 38,
+      "question": "Which collateral pathway connects the SMA and IMA along the periphery of the colon?",
+      "choices": [
+        "Arc of Buhler",
+        "Pancreatic cascade",
+        "Marginal Artery of Drummond",
+        "Path of Winslow",
+        "Median arcuate ligament"
+      ],
+      "answer": "C",
+      "detail": "This runs along the mesenteric border of the colon."
+    },
+    {
+      "number": 39,
+      "question": "\"Median Arcuate Ligament Syndrome\" (MALS) causes narrowing of which vessel?",
+      "choices": [
+        "SMA",
+        "IMA",
+        "Celiac artery",
+        "Portal vein",
+        "Renal artery"
+      ],
+      "answer": "C",
+      "detail": "Compression is caused by the ligament of the diaphragm, characteristically worsening during expiration."
+    },
+    {
+      "number": 40,
+      "question": "Acute mesenteric ischemia caused by an embolus (e.g., from the heart) typically lodges where in the SMA?",
+      "choices": [
+        "At the exact origin from the aorta",
+        "Distal to the origin of the middle colic artery",
+        "Only in the IMA",
+        "In the GDA",
+        "At the celiac origin"
+      ],
+      "answer": "B",
+      "detail": "Emboli usually lodge 3–10 cm from the origin, often sparing the proximal branches."
+    },
+    {
+      "number": 41,
+      "question": "\"Nutcracker syndrome\" refers to the compression of the left renal vein between:",
+      "choices": [
+        "The aorta and the spine",
+        "The SMA and the IVC",
+        "The aorta and the SMA",
+        "The celiac and the SMA",
+        "The IMA and the spine"
+      ],
+      "answer": "C",
+      "detail": "This compression leads to left-sided flank pain, hematuria, and occasionally a varicocele in males."
+    },
+    {
+      "number": 42,
+      "question": "\"May-Thurner syndrome\" (iliac vein compression syndrome) involves compression of the left common iliac vein by the:",
+      "choices": [
+        "Right common iliac artery",
+        "Left common iliac artery",
+        "Aorta",
+        "Psoas muscle",
+        "Inguinal ligament"
+      ],
+      "answer": "A",
+      "detail": "This predisposition leads to chronic left leg swelling and DVT."
+    },
+    {
+      "number": 43,
+      "question": "\"Pelvic Congestion Syndrome\" is associated with chronic pelvic pain and the presence of:",
+      "choices": [
+        "Uterine fibroids",
+        "Dilation of the ovarian veins and pelvic varices",
+        "Bladder stones",
+        "Ovarian cancer",
+        "Nutcracker syndrome only"
+      ],
+      "answer": "B",
+      "detail": "This results from venous valvular insufficiency and reflux."
+    },
+    {
+      "number": 44,
+      "question": "Polyarteritis nodosa (PAN) classically presents on visceral angiography with:",
+      "choices": [
+        "A single large AAA",
+        "Diffuse atherosclerosis",
+        "Numerous tiny peripheral aneurysms (microaneurysms) in the kidneys or mesentery",
+        "Displaced intimal calcification",
+        "Beak sign"
+      ],
+      "answer": "C",
+      "detail": "PAN is a necrotizing vasculitis of small- and medium-sized arteries."
+    },
+    {
+      "number": 45,
+      "question": "Which vessel serves as the critical landmark for differentiating \"upper\" from \"lower\" GI bleeding for interventionalists?",
+      "choices": [
+        "GDA",
+        "SMA",
+        "Ligament of Treitz",
+        "Celiac axis",
+        "Left gastric artery"
+      ],
+      "answer": "C",
+      "detail": "This anatomical landmark defines the junction where GI bleeding sources are categorized."
+    },
+    {
+      "number": 46,
+      "question": "A \"tangled\" appearance of high-velocity, low-resistance vessels in the uterus on Doppler is suggestive of:",
+      "choices": [
+        "Adenomyosis",
+        "Uterine Arteriovenous Malformation (AVM)",
+        "Fibroid",
+        "Endometrial cancer",
+        "Normal menstruation"
+      ],
+      "answer": "B",
+      "detail": "These are rare but can cause life-threatening hemorrhage."
+    },
+    {
+      "number": 47,
+      "question": "\"Renal artery stenosis\" caused by fibromuscular dysplasia (FMD) classically appears as:",
+      "choices": [
+        "A smooth, focal narrowing at the origin",
+        "A \"string of beads\" in the mid-to-distal renal artery",
+        "Numerous microaneurysms",
+        "Dissection",
+        "Dilation only"
+      ],
+      "answer": "B",
+      "detail": "FMD typically involves the mid-to-distal segments, unlike atherosclerosis which favors the origin."
+    },
+    {
+      "number": 48,
+      "question": "In the evaluation of \"Chronic Mesenteric Ischemia,\" how many of the three main mesenteric vessels are typically involved?",
+      "choices": [
+        "One",
+        "At least two",
+        "Only the IMA",
+        "Only the Celiac",
+        "All three plus the renal arteries"
+      ],
+      "answer": "B",
+      "detail": "Because of the extensive collateral network, single-vessel disease is rarely symptomatic."
+    },
+    {
+      "number": 49,
+      "question": "The \"CLASH\" mnemonic for Polyarteritis nodosa includes which of the following?",
+      "choices": [
+        "Celiac, Liver, Adrenal, Spleen, Heart",
+        "Cryoglobulinemia, Leukemia, Anemia, Stroke, Hepatitis",
+        "Chronic illness, Lung, Arteries, Spleen, Hypertension",
+        "Hepatitis B, Hypertension, Abdominal pain"
+      ],
+      "answer": "D",
+      "detail": "PAN is strongly associated with Hepatitis B and hypertension."
+    },
+    {
+      "number": 50,
+      "question": "What is the normal \"resistive index\" (RI) for the segmental renal arteries?",
+      "choices": [
+        "< 0.3",
+        "0.5–0.7",
+        "> 0.9",
+        "< 0.1",
+        "1.0–2.0"
+      ],
+      "answer": "B",
+      "detail": "An RI >0.7 is non-specific but may indicate obstruction or medical renal disease."
+    },
+    {
+      "number": 51,
+      "question": "Cavernous transformation of the portal vein is the result of:",
+      "choices": [
+        "Acute portal hypertension",
+        "Chronic portal vein thrombosis",
+        "Right heart failure",
+        "Celiac stenosis",
+        "Budd-Chiari"
+      ],
+      "answer": "B",
+      "detail": "This represents the formation of periportal collaterals to bypass the clot."
+    }
+  ]
+}
