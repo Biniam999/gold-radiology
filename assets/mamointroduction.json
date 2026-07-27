@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "What is the estimated lifetime risk for an average woman in the United States to be diagnosed with breast cancer?",
+      "choices": [
+        "One in four",
+        "One in five",
+        "One in eight",
+        "One in ten",
+        "One in twelve"
+      ],
+      "answer": "C",
+      "detail": "Breast cancer is the most common female cancer in the U.S., with a lifetime incidence of approximately 12.5%."
+    },
+    {
+      "number": 2,
+      "question": "Which imaging modality is considered the primary first-line tool for the detection of breast cancer?",
+      "choices": [
+        "Breast Ultrasound",
+        "Breast MRI",
+        "Mammography",
+        "Molecular Breast Imaging (MBI)",
+        "PET/CT"
+      ],
+      "answer": "C",
+      "detail": "Mammography remains the standard first-line tool for breast cancer screening and detection."
+    },
+    {
+      "number": 3,
+      "question": "What is the reported sensitivity range of screening mammography for detecting breast cancer?",
+      "choices": [
+        "50%–60%",
+        "68%–90%",
+        "93%–98%",
+        "99%–100%",
+        "Exactly 75%"
+      ],
+      "answer": "B",
+      "detail": "While screening sensitivity is high, it is noted to be slightly lower than that of diagnostic mammography, which can reach 93%."
+    },
+    {
+      "number": 4,
+      "question": "According to the ACR (American College of Radiology) guidelines, at what age should a woman of average risk begin annual screening mammography?",
+      "choices": [
+        "35",
+        "40",
+        "45",
+        "50",
+        "55"
+      ],
+      "answer": "B",
+      "detail": "The ACR recommends annual screening starting at age 40 and continuing as long as the woman is in good health."
+    },
+    {
+      "number": 5,
+      "question": "The USPSTF (U.S. Preventive Services Task Force) guidelines for screening mammography recommend biennial screening for which age group?",
+      "choices": [
+        "40–50",
+        "45–54",
+        "50–74",
+        "60–80",
+        "All women over 40"
+      ],
+      "answer": "C",
+      "detail": "The USPSTF suggests biennial (every two years) screening for women aged 50–74, with the option to start at age 40 based on individual values."
+    },
+    {
+      "number": 6,
+      "question": "Which organization recommends that women aged 45–54 undergo annual screening, with the option to transition to biennial screening at age 55?",
+      "choices": [
+        "ACR",
+        "USPSTF",
+        "ACS (American Cancer Society)",
+        "SBI (Society of Breast Imaging)",
+        "WHO"
+      ],
+      "answer": "C",
+      "detail": "The ACS guidelines provide specific age-based transitions for frequency, including an option to start at age 40."
+    },
+    {
+      "number": 7,
+      "question": "Histologically, most breast cancers are variants of which type?",
+      "choices": [
+        "Lobular carcinoma in situ (LCIS)",
+        "Invasive ductal carcinoma (IDC)",
+        "Medullary carcinoma",
+        "Mucinous carcinoma",
+        "Sarcoma"
+      ],
+      "answer": "B",
+      "detail": "IDC is the most common form of invasive breast cancer; subtypes like medullary and mucinous are less frequent."
+    },
+    {
+      "number": 8,
+      "question": "Paget disease of the nipple is a clinical presentation of breast cancer characterized by:",
+      "choices": [
+        "A large palpable mass only",
+        "Skin thickening and redness",
+        "Nipple ulceration, itching, or erythema",
+        "Milk discharge in a non-pregnant woman",
+        "Multiple small cysts"
+      ],
+      "answer": "C",
+      "detail": "Paget disease involves the migration of malignant cells (often from an underlying DCIS) to the nipple epidermis."
+    },
+    {
+      "number": 9,
+      "question": "Inflammatory breast cancer is a highly aggressive form that often mimics which benign condition?",
+      "choices": [
+        "Simple cyst",
+        "Fibroadenoma",
+        "Mastitis",
+        "Fat necrosis",
+        "Mondor disease"
+      ],
+      "answer": "C",
+      "detail": "Both present with skin erythema and warmth; failure to respond to antibiotics should prompt concern for inflammatory carcinoma."
+    },
+    {
+      "number": 10,
+      "question": "Which risk model is commonly used to estimate a woman's 5-year and lifetime risk of developing invasive breast cancer based on personal history?",
+      "choices": [
+        "BI-RADS model",
+        "Gail model",
+        "TNM model",
+        "ACR model",
+        "Bosniak model"
+      ],
+      "answer": "B",
+      "detail": "The Gail model uses factors like age, age at menarche, and prior biopsies to calculate risk."
+    }
+  ]
+}

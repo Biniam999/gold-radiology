@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "number": 52,
+      "question": "What is the most common indication for performing a \"Screening\" Breast MRI?",
+      "choices": [
+        "Routine screening for average-risk women",
+        "High-risk screening (e.g., BRCA mutation or >20% lifetime risk)",
+        "Evaluation of simple cysts",
+        "Assessment of biopsy-proven fat necrosis",
+        "To avoid mammography"
+      ],
+      "answer": "B",
+      "detail": "MRI is used as a supplemental tool specifically for women with significantly elevated genetic or calculated lifetime risk."
+    },
+    {
+      "number": 53,
+      "question": "On a Breast MRI, a \"Type III\" (Washout) enhancement kinetic curve is:",
+      "choices": [
+        "Strongly suggestive of benignity",
+        "Equivocal",
+        "Highly suspicious for malignancy",
+        "Characteristic of a simple cyst",
+        "Only seen in the male breast"
+      ],
+      "answer": "C",
+      "detail": "Malignant tumors often exhibit rapid uptake followed by rapid washout of contrast because of leaky, disorganized neovascularity."
+    },
+    {
+      "number": 54,
+      "question": "A \"Type I\" (Persistent) enhancement curve is most commonly associated with:",
+      "choices": [
+        "Invasive ductal carcinoma",
+        "High-grade DCIS",
+        "Benign lesions (e.g., fibroadenomas or lymph nodes)",
+        "Angiosarcoma",
+        "Inflammatory carcinoma"
+      ],
+      "answer": "C",
+      "detail": "Type I curves demonstrate progressive enhancement over time, which is generally considered a benign feature."
+    },
+    {
+      "number": 55,
+      "question": "\"Non-Mass Enhancement\" (NME) on MRI refers to enhancement that is:",
+      "choices": [
+        "A discrete 3D finding",
+        "Not a mass and follows a specific distribution (e.g., linear or segmental)",
+        "Always anechoic",
+        "T1 dark and T2 dark",
+        "Only seen around implants"
+      ],
+      "answer": "B",
+      "detail": "NME is an area of enhancement lacking space-occupying features and is frequently seen in cases of DCIS."
+    },
+    {
+      "number": 56,
+      "question": "Which NME distribution pattern is considered the MOST suspicious for DCIS?",
+      "choices": [
+        "Diffuse",
+        "Multiple regions",
+        "Segmental or Linear",
+        "Focal",
+        "Regional"
+      ],
+      "answer": "C",
+      "detail": "Segmental or linear enhancement is highly suspicious as it follows the path of a ductal system toward the nipple."
+    },
+    {
+      "number": 57,
+      "question": "Breast MRI is typically performed during which days of the menstrual cycle to minimize background parenchymal enhancement (BPE)?",
+      "choices": [
+        "Days 1–5",
+        "Days 7–14",
+        "Days 20–28",
+        "Any time during the cycle",
+        "Only during menstruation"
+      ],
+      "answer": "B",
+      "detail": "Background enhancement is at its lowest during the second week of the cycle when estrogen levels are rising but haven't peaked."
+    },
+    {
+      "number": 58,
+      "question": "Which MRI sequence is used to suppress the signal from normal breast fat to highlight enhancing lesions?",
+      "choices": [
+        "T1 non-fat-sat",
+        "T2 STIR",
+        "T1 weighted fat-saturated dynamic contrast-enhanced (DCE)",
+        "Proton Density",
+        "DWI"
+      ],
+      "answer": "C",
+      "detail": "Contrast-enhanced sequences require fat suppression to distinguish between bright contrast enhancement and bright fat signal."
+    },
+    {
+      "number": 59,
+      "question": "\"Background Parenchymal Enhancement\" (BPE) on MRI is categorized as:",
+      "choices": [
+        "Negative, Benign, or Suspicious",
+        "Minimal, Mild, Moderate, or Marked",
+        "1, 2, 3, or 4",
+        "Type I, II, or III",
+        "It is not reported"
+      ],
+      "answer": "B",
+      "detail": "It is essential to report the degree of BPE because significant enhancement can mask underlying small cancers."
+    },
+    {
+      "number": 60,
+      "question": "MRI has a very high sensitivity for detecting which type of breast cancer, which can be occult on mammography?",
+      "choices": [
+        "Tubular carcinoma",
+        "Invasive Lobular Carcinoma (ILC)",
+        "Mucinous carcinoma",
+        "Medullary carcinoma",
+        "Phyllodes tumor"
+      ],
+      "answer": "B",
+      "detail": "While ILC often fails to form a discrete mass or calcifications, its infiltrative enhancement is frequently visible on MRI."
+    },
+    {
+      "number": 61,
+      "question": "A \"rim-enhancing\" mass with central high T2 signal (water-like) is characteristic of:",
+      "choices": [
+        "Invasive ductal carcinoma",
+        "A fat necrosis/oil cyst",
+        "A lymph node",
+        "A breast abscess",
+        "Both B and D"
+      ],
+      "answer": "E",
+      "detail": "Both inflammatory collections (abscesses) and post-traumatic fluid collections (fat necrosis) can present with rim enhancement."
+    },
+    {
+      "number": 62,
+      "question": "Which MRI finding is a \"classic\" benign indicator for a mass?",
+      "choices": [
+        "Irregular shape",
+        "Spiculated margins",
+        "Non-enhancing internal septations",
+        "Rapid washout",
+        "Segmental distribution"
+      ],
+      "answer": "C",
+      "detail": "Non-enhancing internal septations are a characteristic feature often observed in benign fibroadenomas."
+    },
+    {
+      "number": 63,
+      "question": "\"DWI\" (Diffusion Weighted Imaging) in breast MRI is used as a supplemental tool where a LOW \"ADC\" value suggests:",
+      "choices": [
+        "A simple cyst",
+        "Normal fat",
+        "A malignant lesion (due to high cellularity)",
+        "A hematoma",
+        "A galactocele"
+      ],
+      "answer": "C",
+      "detail": "Restricted diffusion, indicated by a low ADC value, is a hallmark of dense and hypercellular malignant tissue."
+    },
+    {
+      "number": 64,
+      "question": "MRI is the \"gold standard\" for evaluating the integrity of which type of implant?",
+      "choices": [
+        "Saline only",
+        "Silicone only",
+        "Both Saline and Silicone",
+        "MRI cannot see implants",
+        "Polyurethane only"
+      ],
+      "answer": "B",
+      "detail": "The primary role of MRI in implant imaging is the identification of \"silent\" intracapsular silicone ruptures."
+    },
+    {
+      "number": 65,
+      "question": "\"Focus\" on breast MRI is defined as a tiny area of enhancement measuring:",
+      "choices": [
+        "< 5 mm",
+        "< 10 mm",
+        "> 15 mm",
+        "Exactly 1 cm",
+        "< 1 mm"
+      ],
+      "answer": "A",
+      "detail": "A focus is a dot of enhancement too small to be further characterized by its morphology."
+    },
+    {
+      "number": 66,
+      "question": "What is the recommended BI-RADS assessment for a suspicious MRI finding that has no correlate on mammography or ultrasound?",
+      "choices": [
+        "BI-RADS 2",
+        "BI-RADS 3",
+        "BI-RADS 4",
+        "BI-RADS 0",
+        "BI-RADS 6"
+      ],
+      "answer": "C",
+      "detail": "Suspicious findings identified only on MRI require biopsy, often performed under MRI guidance."
+    }
+  ]
+}

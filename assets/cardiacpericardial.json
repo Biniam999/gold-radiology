@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "number": 60,
+      "question": "On a frontal chest radiograph, the \"Oreo cookie sign\" (two lucent fat lines separated by a central density) indicates:",
+      "choices": [
+        "A. Pneumopericardium",
+        "B. Pericardial effusion",
+        "C. Constrictive pericarditis",
+        "D. Thymic hyperplasia",
+        "E. Aortic dissection"
+      ],
+      "answer": "B",
+      "detail": "The sign represents the pericardial fluid sandwiched between the epicardial and paracardial fat layers."
+    },
+    {
+      "number": 61,
+      "question": "What is the normal thickness of the pericardium on CT or MRI?",
+      "choices": [
+        "A. < 1 mm",
+        "B. < 2 mm",
+        "C. < 4 mm",
+        "D. < 10 mm",
+        "E. Exactly 5 mm"
+      ],
+      "answer": "B",
+      "detail": "The pericardium should be thin; thickness > 3–4 mm is considered abnormal."
+    },
+    {
+      "number": 62,
+      "question": "Which imaging feature helps differentiate \"constrictive\" from \"restrictive\" physiology?",
+      "choices": [
+        "A. Pericardial thickening/calcification and septal bounce (bounce favors constriction)",
+        "B. Myocardial LGE (favors constriction)",
+        "C. Atrial size",
+        "D. Heart rate",
+        "E. Ejection fraction"
+      ],
+      "answer": "A",
+      "detail": "Septal bounce (shuddering of the septum during inspiration) is a hallmark of the mechanical tethering seen in constrictive pericarditis."
+    },
+    {
+      "number": 63,
+      "question": "\"Congenital absence of the pericardium\" most commonly involves the:",
+      "choices": [
+        "A. Entire pericardium",
+        "B. Right side only",
+        "C. Left side only",
+        "D. Diaphragmatic portion only",
+        "E. Superior portion only"
+      ],
+      "answer": "C",
+      "detail": "Left-sided absence is most common and results in leftward displacement of the heart and lung tissue interposing between the aorta and pulmonary artery."
+    },
+    {
+      "number": 64,
+      "question": "Pericardial calcification is a high-yield radiographic finding for:",
+      "choices": [
+        "A. Acute viral pericarditis",
+        "B. Uremic pericarditis",
+        "C. Chronic constrictive pericarditis (e.g., from prior TB or surgery)",
+        "D. Pericardial cysts",
+        "E. Marfan syndrome"
+      ],
+      "answer": "C",
+      "detail": "Extensive calcification is often the sequela of old infection (TB) or inflammation and strongly suggests constriction."
+    },
+    {
+      "number": 65,
+      "question": "A pericardial cyst is most commonly found in which location?",
+      "choices": [
+        "A. Left cardiophrenic angle",
+        "B. Right cardiophrenic angle",
+        "C. Superior mediastinum",
+        "D. Posterior to the esophagus",
+        "E. Abutting the aorta"
+      ],
+      "answer": "B",
+      "detail": "These are typically benign, water-density cysts located at the right cardiophrenic angle."
+    },
+    {
+      "number": 66,
+      "question": "On MRI, \"Acute Pericarditis\" is best seen as:",
+      "choices": [
+        "A. Pericardial thinning",
+        "B. Pericardial enhancement and edema",
+        "C. Myocardial fatty replacement",
+        "D. Thrombus in the RA",
+        "E. Aortic root dilation"
+      ],
+      "answer": "B",
+      "detail": "Active inflammation leads to bright signal on T2 and late gadolinium enhancement of the pericardial layers."
+    },
+    {
+      "number": 67,
+      "question": "A \"pericardial diverticulum\" differs from a cyst because it:",
+      "choices": [
+        "A. Communicates with the pericardial space and changes shape with position",
+        "B. Is malignant",
+        "C. Is always calcified",
+        "D. Contains fat",
+        "E. Only occurs in children"
+      ],
+      "answer": "A",
+      "detail": "Diverticula are basically cysts that maintain a connection to the main pericardial cavity."
+    }
+  ]
+}

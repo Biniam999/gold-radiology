@@ -1,0 +1,329 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "According to the Couinaud classification of hepatic segments, which segment represents the caudate lobe?",
+      "choices": [
+        "A. Segment I",
+        "B. Segment IVa",
+        "C. Segment IVb",
+        "D. Segment V",
+        "E. Segment VIII"
+      ],
+      "answer": "A",
+      "detail": "Segment I is the caudate lobe, which has unique venous drainage directly into the IVC and an independent blood supply."
+    },
+    {
+      "number": 2,
+      "question": "Which anatomical structure separates the left hepatic lobe into medial (Segment IV) and lateral (Segments II/III) segments?",
+      "choices": [
+        "A. Right hepatic vein",
+        "B. Middle hepatic vein",
+        "C. Ligamentum teres and falciform ligament",
+        "D. Cantlie’s line",
+        "E. Main lobar fissure"
+      ],
+      "answer": "C",
+      "detail": "The ligamentum teres and falciform ligament serve as the boundary between the medial and lateral segments of the left hepatic lobe."
+    },
+    {
+      "number": 3,
+      "question": "A \"central scar\" that shows delayed enhancement on CT or MRI is a classic feature of which benign liver lesion?",
+      "choices": [
+        "A. Hepatocellular adenoma",
+        "B. Hemangioma",
+        "C. Focal Nodular Hyperplasia (FNH)",
+        "D. Hepatic abscess",
+        "E. Biliary cystadenoma"
+      ],
+      "answer": "C",
+      "detail": "FNH is a hyperplastic response to a vascular malformation, and its characteristic central scar typically enhances on delayed phases."
+    },
+    {
+      "number": 4,
+      "question": "Which imaging feature is most specific for diagnosing a cavernous hemangioma on contrast-enhanced CT?",
+      "choices": [
+        "A. Rapid uniform enhancement on arterial phase",
+        "B. Discontinuous peripheral nodular enhancement with centripetal filling",
+        "C. \"Washout\" on the portal venous phase",
+        "D. Persistent low attenuation on all phases",
+        "E. Peripheral \"halo\" of ground-glass opacity"
+      ],
+      "answer": "B",
+      "detail": "This centripetal \"filling-in\" pattern is considered pathognomonic for a simple hemangioma."
+    },
+    {
+      "number": 5,
+      "question": "In a patient with cirrhosis, a liver mass that demonstrates intense arterial enhancement followed by \"washout\" on portal venous or delayed phases is highly suggestive of:",
+      "choices": [
+        "A. Focal fatty infiltration",
+        "B. Hepatic hemangioma",
+        "C. Hepatocellular Carcinoma (HCC)",
+        "D. Regenerative nodule",
+        "E. FNH"
+      ],
+      "answer": "C",
+      "detail": "Arterial hypervascularity and subsequent washout are hallmark features used in LI-RADS for the diagnosis of HCC."
+    },
+    {
+      "number": 6,
+      "question": "Which liver lesion is strongly associated with the use of oral contraceptives and carries a risk of life-threatening hemorrhage?",
+      "choices": [
+        "A. HCC",
+        "B. FNH",
+        "C. Hepatocellular adenoma",
+        "D. Hepatic lipoma",
+        "E. Simple cyst"
+      ],
+      "answer": "C",
+      "detail": "Hepatocellular adenomas are linked to estrogen use and have a high propensity for spontaneous rupture and bleeding."
+    },
+    {
+      "number": 7,
+      "question": "The \"Gamna-Gandy bodies\" are siderotic nodules seen in the spleen of patients with portal hypertension. On MRI, they are best visualized as:",
+      "choices": [
+        "A. T1 hyperintense spots",
+        "B. T2 hyperintense spots",
+        "C. Signal voids (dark spots) on Gradient Echo (GRE) or SWI sequences",
+        "D. Diffuse enhancement on post-gadolinium images",
+        "E. Areas of restricted diffusion on DWI"
+      ],
+      "answer": "C",
+      "detail": "Because they contain hemosiderin (iron), they cause magnetic susceptibility artifact and appear as signal voids on GRE sequences."
+    },
+    {
+      "number": 8,
+      "question": "The \"nutmeg liver\" appearance on CT represents:",
+      "choices": [
+        "A. Diffuse fatty infiltration",
+        "B. Chronic passive hepatic congestion (e.g., from right heart failure)",
+        "C. Multiple micro-abscesses",
+        "D. Cirrhotic regeneration",
+        "E. Iron overload (hemochromatosis)"
+      ],
+      "answer": "B",
+      "detail": "Congestion results in a mottled, reticular enhancement pattern due to dilated sinusoids and sluggish blood flow."
+    },
+    {
+      "number": 9,
+      "question": "Which vascular syndrome involves the thrombosis of the hepatic veins and presents with hepatomegaly, ascites, and abdominal pain?",
+      "choices": [
+        "A. May-Thurner syndrome",
+        "B. Nutcracker syndrome",
+        "C. Budd-Chiari syndrome",
+        "D. Osler-Weber-Rendu",
+        "E. Kasabach-Merritt syndrome"
+      ],
+      "answer": "C",
+      "detail": "Budd-Chiari syndrome is specifically defined by hepatic venous outflow obstruction."
+    },
+    {
+      "number": 10,
+      "question": "\"Morson’s sign\" or the presence of multiple peripheral hepatic calcifications in a patient from a Mediterranean or Middle Eastern region suggests:",
+      "choices": [
+        "A. Hepatoblastoma",
+        "B. Hydatid disease (Echinococcal cyst)",
+        "C. Biliary hamartomas",
+        "D. Hepatic candidiasis",
+        "E. Schistosomiasis"
+      ],
+      "answer": "B",
+      "detail": "Echinococcal cysts commonly present with wall calcifications or internal daughter cysts."
+    },
+    {
+      "number": 11,
+      "question": "Steatosis (fatty liver) is diagnosed on non-contrast CT when the liver attenuation is at least how many Hounsfield Units (HU) LESS than the spleen?",
+      "choices": [
+        "A. 5 HU",
+        "B. 10 HU",
+        "C. 20 HU",
+        "D. 40 HU",
+        "E. 50 HU"
+      ],
+      "answer": "B",
+      "detail": "Diagnosis is made when the liver is <40 HU or at least 10 HU lower than the spleen attenuation."
+    },
+    {
+      "number": 12,
+      "question": "On MRI, \"In-phase\" and \"Out-of-phase\" T1-weighted imaging is used to identify:",
+      "choices": [
+        "A. Iron overload",
+        "B. Intracellular (microscopic) fat",
+        "C. Biliary stones",
+        "D. Hepatic hemangiomas",
+        "E. Fibrosis"
+      ],
+      "answer": "B",
+      "detail": "A signal drop on out-of-phase images relative to in-phase images confirms the presence of microscopic fat."
+    },
+    {
+      "number": 13,
+      "question": "Which rare primary liver tumor is associated with exposure to vinyl chloride, arsenic, or Thorotrast?",
+      "choices": [
+        "A. HCC",
+        "B. Angiosarcoma",
+        "C. Fibrolamellar HCC",
+        "D. Hepatoblastoma",
+        "E. Epithelioid hemangioendothelioma"
+      ],
+      "answer": "B",
+      "detail": "Angiosarcoma is an aggressive liver malignancy linked to these specific environmental and industrial toxins."
+    },
+    {
+      "number": 14,
+      "question": "A 20-year-old patient with NO history of cirrhosis is found to have a large liver mass with a central stellate calcified scar. What is the most likely diagnosis?",
+      "choices": [
+        "A. FNH",
+        "B. Fibrolamellar HCC",
+        "C. Conventional HCC",
+        "D. Metastatic melanoma",
+        "E. Giant hemangioma"
+      ],
+      "answer": "B",
+      "detail": "Unlike FNH, the scar in fibrolamellar HCC is often calcified, does not enhance on delay, and occurs in young patients without underlying cirrhosis."
+    },
+    {
+      "number": 15,
+      "question": "\"Von Meyenburg complexes\" are multiple small, non-enhancing cystic lesions throughout the liver. These are more accurately known as:",
+      "choices": [
+        "A. Polycystic liver disease",
+        "B. Biliary hamartomas",
+        "C. Caroli disease",
+        "D. Micro-abscesses",
+        "E. Biliary cystadenomas"
+      ],
+      "answer": "B",
+      "detail": "These are benign ductal malformations that do not communicate with the main biliary tree."
+    },
+    {
+      "number": 16,
+      "question": "The normal unenhanced attenuation of the liver is 30 to 60 HU. According to the sources, what absolute attenuation value is considered \"hyperattenuating\"?",
+      "choices": [
+        "A. > 60 HU",
+        "B. > 65 HU",
+        "C. > 70 HU",
+        "D. > 75 HU",
+        "E. > 100 HU"
+      ],
+      "answer": "D",
+      "detail": "An attenuation >75 HU on non-contrast CT is hyperattenuating, most commonly caused by iron overload."
+    },
+    {
+      "number": 17,
+      "question": "In the context of cirrhosis, what causes the radiographic \"empty gallbladder fossa sign\"?",
+      "choices": [
+        "A. Surgical removal of the gallbladder",
+        "B. Intrahepatic stones obstructing the cystic duct",
+        "C. Replacement of hepatic parenchyma surrounding the gallbladder with periportal fat",
+        "D. Massive enlargement of the gallbladder due to hydrops",
+        "E. Congenital absence of the gallbladder"
+      ],
+      "answer": "C",
+      "detail": "Loss of liver volume in cirrhosis leads to the replacement of parenchyma with fat in the gallbladder fossa."
+    },
+    {
+      "number": 18,
+      "question": "According to the AAST liver injury scale, a parenchymal laceration that is 2 cm deep would be classified as which grade?",
+      "choices": [
+        "A. Grade I",
+        "B. Grade II",
+        "C. Grade III",
+        "D. Grade IV",
+        "E. Grade V"
+      ],
+      "answer": "B",
+      "detail": "Grade II injuries include lacerations between 1–3 cm deep or subcapsular hematomas covering 10–50% of the surface."
+    },
+    {
+      "number": 19,
+      "question": "To be considered a candidate for an orthotopic liver transplant under the Milan criteria, a patient with a single HCC tumor must have a maximum tumor diameter of:",
+      "choices": [
+        "A. < 2 cm",
+        "B. < 3 cm",
+        "C. < 5 cm",
+        "D. < 7 cm",
+        "E. < 10 cm"
+      ],
+      "answer": "C",
+      "detail": "Milan criteria specify a single tumor <5 cm, or up to three tumors each <3 cm, without major vascular invasion."
+    },
+    {
+      "number": 20,
+      "question": "Which anatomical structure is responsible for separating the left hepatic lobe into medial (Segment 4) and lateral (Segments 2 and 3) segments?",
+      "choices": [
+        "A. Middle hepatic vein",
+        "B. Right hepatic vein",
+        "C. Ligamentum teres and falciform ligament",
+        "D. Main lobar fissure",
+        "E. Portal vein bifurcation"
+      ],
+      "answer": "C",
+      "detail": "The ligamentum teres and falciform ligament define the boundary between the medial and lateral left lobe segments."
+    },
+    {
+      "number": 21,
+      "question": "Post-transplant lymphoproliferative disorder (PTLD) is a type of lymphoma that can arise after solid organ transplants. It is primarily caused by which virus?",
+      "choices": [
+        "A. Hepatitis B",
+        "B. Hepatitis C",
+        "C. Cytomegalovirus (CMV)",
+        "D. Epstein-Barr virus (EBV)",
+        "E. Herpes Simplex virus (HSV)"
+      ],
+      "answer": "D",
+      "detail": "PTLD is caused by EBV and is managed by modifying immunosuppression levels."
+    },
+    {
+      "number": 22,
+      "question": "Which specific measurement ratio is highly suggestive of cirrhosis when evaluating the morphology of the liver?",
+      "choices": [
+        "A. Left lobe to right lobe ratio > 0.5",
+        "B. Caudate to right lobe size ratio > 0.65",
+        "C. Segment 4 to Segment 2 ratio > 1.0",
+        "D. Portal vein to hepatic artery ratio > 2.0",
+        "E. Spleen to liver ratio > 1.5"
+      ],
+      "answer": "B",
+      "detail": "The caudate lobe often hyper-trophies in early cirrhosis because it has independent drainage into the IVC, resulting in a ratio >0.65."
+    },
+    {
+      "number": 23,
+      "question": "A liver injury that involves a laceration or destruction of more than 75% of one hepatic lobe is classified by the AAST as:",
+      "choices": [
+        "A. Grade III",
+        "B. Grade IV",
+        "C. Grade V",
+        "D. Grade VI",
+        "E. Unstageable"
+      ],
+      "answer": "C",
+      "detail": "Grade V is a severe parenchymal injury involving >75% of a lobe or injury to central hepatic veins."
+    },
+    {
+      "number": 24,
+      "question": "Focal Nodular Hyperplasia (FNH) is often referred to as a \"stealth lesion\" because:",
+      "choices": [
+        "A. It is only visible on nuclear medicine scans",
+        "B. It lacks a blood supply",
+        "C. It resembles background liver parenchyma on almost all imaging modalities",
+        "D. It disappears after contrast administration",
+        "E. It is too small to be seen on CT"
+      ],
+      "answer": "C",
+      "detail": "FNH consists of near-normal but disorganized liver tissue, making it difficult to differentiate from background parenchyma without specialized contrast."
+    },
+    {
+      "number": 25,
+      "question": "On MRI, how does a liver with significant iron overload typically appear across all sequences?",
+      "choices": [
+        "A. Hyperintense relative to the spleen",
+        "B. Hypointense relative to the paraspinal muscles",
+        "C. Bright on T1 and dark on T2",
+        "D. Isointense to the kidneys",
+        "E. Unchanged from a normal liver"
+      ],
+      "answer": "B",
+      "detail": "An iron-overloaded liver is hypointense (dark) on all sequences compared to the paraspinal muscles."
+    }
+  ]
+}

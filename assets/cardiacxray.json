@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "On a frontal chest radiograph, which sign is characteristic of left atrial enlargement?",
+      "choices": [
+        "Boot-shaped heart",
+        "Snowman sign",
+        "Double density sign",
+        "Egg-on-a-string appearance",
+        "Water-bottle heart"
+      ],
+      "answer": "C",
+      "detail": "The double density sign occurs when the right border of the enlarged left atrium is seen through the right atrium."
+    },
+    {
+      "number": 2,
+      "question": "Which congenital heart lesion classically presents with a 'boot-shaped' heart (coeur en sabot) on plain film?",
+      "choices": [
+        "Transposition of the great arteries (TGA)",
+        "Tetralogy of Fallot (TOF)",
+        "Total anomalous pulmonary venous return (TAPVR)",
+        "Ebstein anomaly",
+        "Atrial septal defect (ASD)"
+      ],
+      "answer": "B",
+      "detail": "Right ventricular hypertrophy in TOF uplifts the cardiac apex, creating the classic boot-shaped appearance."
+    },
+    {
+      "number": 3,
+      "question": "Massive right atrial enlargement is a hallmark of which cyanotic heart lesion on chest radiography?",
+      "choices": [
+        "ASD",
+        "VSD",
+        "Ebstein anomaly",
+        "TGA",
+        "PDA"
+      ],
+      "answer": "C",
+      "detail": "Ebstein anomaly features severe tricuspid regurgitation and a 'box-shaped' heart due to massive RA enlargement."
+    },
+    {
+      "number": 4,
+      "question": "A 'narrow superior mediastinum' and an enlarged heart create the 'egg-on-a-string' appearance characteristic of:",
+      "choices": [
+        "TOF",
+        "TAPVR",
+        "D-Transposition of the great arteries",
+        "Truncus arteriosus",
+        "Coarctation of the aorta"
+      ],
+      "answer": "C",
+      "detail": "The 'string' represents the narrow mediastinal waist caused by the parallel orientation of the great vessels and thymic stress."
+    },
+    {
+      "number": 5,
+      "question": "Pulmonary vascularity is typically DECREASED on a chest radiograph in which of the following conditions?",
+      "choices": [
+        "ASD",
+        "VSD",
+        "Tetralogy of Fallot",
+        "PDA",
+        "TAPVR"
+      ],
+      "answer": "C",
+      "detail": "TOF involves RV outflow tract obstruction, leading to reduced pulmonary blood flow and 'clear' (oligemic) lungs."
+    }
+  ]
+}

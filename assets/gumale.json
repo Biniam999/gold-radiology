@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "number": 46,
+      "question": "A long, irregular stricture in the 'bulbar' urethra of a male patient is most likely the sequela of:",
+      "choices": [
+        "Iatrogenic trauma (catheterization)",
+        "Gonococcal urethritis",
+        "Pelvic fracture",
+        "Straddle injury",
+        "Congenital valves"
+      ],
+      "answer": "B",
+      "detail": "Historically, gonorrhea was the most common cause of long bulbar strictures."
+    },
+    {
+      "number": 47,
+      "question": "Short, focal strictures in the 'pendulous' (distal) urethra are most commonly:",
+      "choices": [
+        "Inflammatory",
+        "Iatrogenic",
+        "Malignant",
+        "Traumatic",
+        "Infectious"
+      ],
+      "answer": "B",
+      "detail": "These often result from instrumentation or long-term catheter use."
+    },
+    {
+      "number": 48,
+      "question": "Urethral injury following a 'straddle' trauma most commonly involves the:",
+      "choices": [
+        "Prostatic urethra",
+        "Membranous urethra",
+        "Bulbar urethra",
+        "Pendulous urethra",
+        "Ureter"
+      ],
+      "answer": "C",
+      "detail": "The bulbar urethra is crushed against the pubic symphysis during a straddle-type fall."
+    },
+    {
+      "number": 49,
+      "question": "In the setting of pelvic fracture, urethral 'distraction' injuries most commonly occur at the junction of the:",
+      "choices": [
+        "Bulbar and pendulous urethra",
+        "Prostatic and membranous urethra",
+        "Bladder neck and prostate",
+        "Glans and pendulous urethra",
+        "Ureter and bladder"
+      ],
+      "answer": "B",
+      "detail": "This is the most vulnerable point during the shearing forces of a pelvic fracture."
+    },
+    {
+      "number": 50,
+      "question": "'Peyronie disease' is characterized by painful erections and penile curvature due to:",
+      "choices": [
+        "Chronic infection",
+        "Fibrous plaques in the tunica albuginea",
+        "Venous thrombosis",
+        "Arterial stenosis",
+        "Lymphoma"
+      ],
+      "answer": "B",
+      "detail": "These calcified or non-calcified plaques are easily identified on ultrasound or MRI."
+    }
+  ]
+}

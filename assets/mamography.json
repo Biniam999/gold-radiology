@@ -1,0 +1,329 @@
+{
+  "questions": [
+    {
+      "number": 17,
+      "question": "On a technically adequate MLO (Mediolateral Oblique) view, the pectoralis muscle should be visualized down to what level?",
+      "choices": [
+        "The level of the nipple",
+        "The level of the inframammary fold",
+        "The superior quadrant only",
+        "It does not need to be visualized",
+        "The posterior nipple line"
+      ],
+      "answer": "A",
+      "detail": "Visualizing the pectoralis to the nipple level ensures that the deep posterior breast tissue is included in the image."
+    },
+    {
+      "number": 18,
+      "question": "The 'Posterior Nipple Line' (PNL) measured on the CC and MLO views should be within how many centimeters of each other to ensure adequate positioning?",
+      "choices": [
+        "0.5 cm",
+        "1.0 cm",
+        "2.0 cm",
+        "3.0 cm",
+        "5.0 cm"
+      ],
+      "answer": "B",
+      "detail": "A difference greater than 1 cm suggests that one of the views (usually the CC) has excluded a significant amount of posterior tissue."
+    },
+    {
+      "number": 19,
+      "question": "When localizing a lesion seen on both CC and MLO views, if the lesion moves CEPHALAD (up) on the MLO view compared to its position on a true lateral view, it is located in the:",
+      "choices": [
+        "Medial breast",
+        "Lateral breast",
+        "Superior breast",
+        "Inferior breast",
+        "Retroareolar region"
+      ],
+      "answer": "A",
+      "detail": "The mnemonic 'Muffins Rise' (Medial Rises) describes how medial lesions appear higher on the MLO, while lateral lesions ('Lead Sinks') appear lower."
+    },
+    {
+      "number": 20,
+      "question": "Which mammographic view is specifically used to better image tissue in the 'far lateral' aspect of the breast?",
+      "choices": [
+        "Rolled CC",
+        "Cleavage view (CV)",
+        "Exaggerated CC Lateral (XCCL)",
+        "Spot compression",
+        "Tangential view"
+      ],
+      "answer": "C",
+      "detail": "The XCCL is a modified CC view where the patient is rotated to include the axillary tail and far lateral parenchyma."
+    },
+    {
+      "number": 21,
+      "question": "A 'Rolled CC' view is typically performed to:",
+      "choices": [
+        "Confirm a finding is real versus a summation artifact",
+        "Displace an implant",
+        "Localize a lesion seen only on the CC view",
+        "Both A and C",
+        "Better visualize the pectoralis muscle"
+      ],
+      "answer": "D",
+      "detail": "Rolling the breast tissue allows the radiologist to see if an asymmetry persists or moves, helping to triangulate lesions seen in only one projection."
+    },
+    {
+      "number": 22,
+      "question": "According to the Mammography Quality Standards Act (MQSA), what is the maximum allowable 'Average Glandular Dose' per view for a standard breast phantom?",
+      "choices": [
+        "1 mGy",
+        "2 mGy",
+        "3 mGy",
+        "5 mGy",
+        "10 mGy"
+      ],
+      "answer": "C",
+      "detail": "This dose limit is strictly regulated to ensure patient safety while maintaining image quality."
+    },
+    {
+      "number": 23,
+      "question": "Magnification mammography requires the use of a smaller focal spot size to minimize geometric blur. What is the standard focal spot size used?",
+      "choices": [
+        "0.3 mm",
+        "0.5 mm",
+        "0.1 mm",
+        "1.0 mm",
+        "0.05 mm"
+      ],
+      "answer": "C",
+      "detail": "Standard contact mammography uses a 0.3 mm focal spot, while magnification requires 0.1 mm for higher resolution."
+    },
+    {
+      "number": 24,
+      "question": "Why is a 'grid' typically NOT used during magnification mammography?",
+      "choices": [
+        "It increases the radiation dose too much",
+        "An air gap is introduced which naturally reduces scatter",
+        "It causes too much artifacts",
+        "Grids are only used for thick breasts",
+        "Interferes with the magnification stand"
+      ],
+      "answer": "B",
+      "detail": "The increased object-to-detector distance (air gap) allows scattered photons to miss the detector, making a grid unnecessary and allowing for lower mAs."
+    },
+    {
+      "number": 25,
+      "question": "An 'architectural distortion' on mammography is defined as:",
+      "choices": [
+        "A circumscribed mass with fat",
+        "Thin lines radiating from a point without an associated discrete mass",
+        "Diffuse skin thickening",
+        "A cluster of round calcifications",
+        "Nipple retraction only"
+      ],
+      "answer": "B",
+      "detail": "Architectural distortion is a highly suspicious finding (often BI-RADS 4) that may represent malignancy or a radial scar."
+    },
+    {
+      "number": 26,
+      "question": "Which type of calcification distribution is considered the MOST suspicious for malignancy?",
+      "choices": [
+        "Diffuse",
+        "Regional",
+        "Linear or Segmental",
+        "Grouped (Clustered)",
+        "Multiple regions"
+      ],
+      "answer": "C",
+      "detail": "These distributions suggest that the calcifications are following the path of a duct, a hallmark of DCIS."
+    },
+    {
+      "number": 27,
+      "question": "'Fine pleomorphic' calcifications are characterized by:",
+      "choices": [
+        "Round and uniform shape",
+        "Small, irregular shapes with varying sizes and shapes (shards of glass)",
+        "Large, coarse, 'popcorn-like' appearance",
+        "Centrally lucent centers",
+        "Thin, eggshell-like rims"
+      ],
+      "answer": "B",
+      "detail": "Fine pleomorphic calcifications are higher-probability suspicious findings compared to amorphous or coarse heterogeneous ones."
+    },
+    {
+      "number": 28,
+      "question": "'Popcorn' calcifications are pathognomonic for which benign entity?",
+      "choices": [
+        "Fat necrosis",
+        "Secretory calcifications",
+        "Degenerating fibroadenoma",
+        "Sclerosing adenosis",
+        "Simple cyst"
+      ],
+      "answer": "C",
+      "detail": "As fibroadenomas involute in postmenopausal women, they develop characteristic large, coarse, 'popcorn' calcifications."
+    },
+    {
+      "number": 29,
+      "question": "'Milk of calcium' calcifications are best identified by which mammographic feature?",
+      "choices": [
+        "Disappearing on the CC view",
+        "Changing shape from 'smudgy' on the CC to 'crescentic' or 'tea-cupped' on a 90-degree lateral view",
+        "Being located exclusively in the skin",
+        "Forming a perfect circle",
+        "Intense rapid enhancement on MRI"
+      ],
+      "answer": "B",
+      "detail": "These represent sedimented calcium in small cysts; the horizontal x-ray beam of a lateral view demonstrates the 'fluid-calcium' level."
+    },
+    {
+      "number": 30,
+      "question": "Secretory (Plasma Cell Mastitis) calcifications are characterized by:",
+      "choices": [
+        "Fine branching shards",
+        "Large, solid, 'cigar-shaped' rods that point toward the nipple",
+        "Tiny clusters in a segmental distribution",
+        "Calcified skin pores",
+        "Multiple round cysts"
+      ],
+      "answer": "B",
+      "detail": "These are benign (BI-RADS 2) calcifications resulting from ductal secretions."
+    },
+    {
+      "number": 31,
+      "question": "A 'Global Asymmetry' is defined as involving at least what percentage of the breast?",
+      "choices": [
+        "10%",
+        "25%",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "answer": "B",
+      "detail": "Global asymmetries are often normal variants but require comparison with the contralateral breast."
+    },
+    {
+      "number": 32,
+      "question": "A 'Focal Asymmetry' differs from a mass because it:",
+      "choices": [
+        "Is only seen on one view",
+        "Lacks outward-convex borders and a discrete center",
+        "Is always malignant",
+        "Contains internal fat",
+        "Enhances more than a mass"
+      ],
+      "answer": "B",
+      "detail": "Unlike a mass, a focal asymmetry does not have a three-dimensional shape that displaces normal tissue."
+    },
+    {
+      "number": 33,
+      "question": "If a suspicious mass is seen on only the MLO view and NOT the CC view, what is the next best step for triangulation?",
+      "choices": [
+        "90-degree true lateral view (ML or LM)",
+        "Ultrasound of the entire breast",
+        "Biopsy of the axillary nodes",
+        "MRI immediately",
+        "Repeat the CC view with more compression"
+      ],
+      "answer": "A",
+      "detail": "The lateral view helps determine the true height and position to see if the lesion was 'rising' or 'sinking'."
+    },
+    {
+      "number": 34,
+      "question": "'Oil cysts' and 'eggshell' calcifications are typically the end result of:",
+      "choices": [
+        "Fibroadenomas",
+        "Fat necrosis",
+        "DCIS",
+        "Radial scars",
+        "Mondor disease"
+      ],
+      "answer": "B",
+      "detail": "Following trauma or surgery, damaged fat can liquefy and subsequently calcify peripherally, forming an oil cyst."
+    },
+    {
+      "number": 35,
+      "question": "To meet MQSA requirements, an interpreting physician must have read how many mammograms during the last 24 months of their training?",
+      "choices": [
+        "100",
+        "240",
+        "480",
+        "960",
+        "1,000"
+      ],
+      "answer": "B",
+      "detail": "These 240 mammograms must be read during a 6-month period within those last 24 months of training."
+    },
+    {
+      "number": 36,
+      "question": "'Tangential' mammographic views are specifically helpful for:",
+      "choices": [
+        "Imaging the deep posterior tissue",
+        "Confirming that a finding is located within the skin",
+        "Displacing implants",
+        "Differentiating oil cysts from cancer",
+        "Assessing nipple discharge"
+      ],
+      "answer": "B",
+      "detail": "By placing a lead marker over a lesion and turning the breast profile, skin lesions will be seen directly under the marker."
+    },
+    {
+      "number": 37,
+      "question": "Which mammographic finding is most suggestive of an 'Invasive Lobular Carcinoma' (ILC), which is notoriously difficult to detect?",
+      "choices": [
+        "Large 'popcorn' calcifications",
+        "A well-circumscribed round mass",
+        "Subtle architectural distortion or a shrinking breast on serial films",
+        "Diffuse milk of calcium",
+        "Bilateral symmetry"
+      ],
+      "answer": "C",
+      "detail": "ILC cells often grow in 'single files' that do not form a discrete mass, making architectural distortion a key clue."
+    },
+    {
+      "number": 38,
+      "question": "'Ductography' (Galactography) is an interventional technique used to evaluate:",
+      "choices": [
+        "Any breast pain",
+        "Pathologic (spontaneous, unilateral, single-pore) nipple discharge",
+        "Large clusters of benign calcifications",
+        "Implant rupture",
+        "Gynecomastia"
+      ],
+      "answer": "B",
+      "detail": "Contrast is injected into the discharging duct to identify intraductal masses like papillomas or DCIS."
+    },
+    {
+      "number": 39,
+      "question": "A 'Cleavage View' (CV) is designed to image:",
+      "choices": [
+        "The axillary tail",
+        "The far medial aspect of both breasts simultaneously",
+        "The sub-areolar region",
+        "The inframammary fold",
+        "The pectoralis muscle"
+      ],
+      "answer": "B",
+      "detail": "This view (also called 'Double Breast' view) captures tissue that might be missed on standard CC views."
+    },
+    {
+      "number": 40,
+      "question": "A mammographic mass described as 'Round' with 'Spiculated' margins should be assigned which preliminary BI-RADS category?",
+      "choices": [
+        "BI-RADS 2",
+        "BI-RADS 3",
+        "BI-RADS 4 or 5",
+        "BI-RADS 1",
+        "BI-RADS 0"
+      ],
+      "answer": "C",
+      "detail": "Spiculated margins are highly suspicious for malignancy and require tissue sampling."
+    },
+    {
+      "number": 41,
+      "question": "Which feature of a mass is considered MOST reliable for benignity on mammography?",
+      "choices": [
+        "Small size (< 5 mm)",
+        "Presence of internal macroscopic fat",
+        "Round shape",
+        "Location in the upper outer quadrant",
+        "Slow growth over 5 years"
+      ],
+      "answer": "B",
+      "detail": "Masses containing fat (e.g., lymph nodes, hamartomas, lipomas, or oil cysts) are almost always benign."
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "number": 40,
+      "question": "Which LGE pattern is most characteristic of hypertrophic cardiomyopathy (HCM)?",
+      "choices": [
+        "A. Subendocardial in the LAD territory",
+        "B. Patchy, mid-myocardial enhancement at the junction of the RV and LV (hinge points)",
+        "C. Global subepicardial enhancement",
+        "D. Global subendocardial enhancement",
+        "E. No enhancement"
+      ],
+      "answer": "B",
+      "detail": "HCM typically features mid-wall enhancement, often at the interventricular septal insertion points."
+    },
+    {
+      "number": 41,
+      "question": "Global subendocardial LGE that does NOT follow a coronary territory is a classic sign of:",
+      "choices": [
+        "A. MI",
+        "B. Cardiac Amyloidosis",
+        "C. Myocarditis",
+        "D. Sarcoidosis",
+        "E. Takotsubo cardiomyopathy"
+      ],
+      "answer": "B",
+      "detail": "Amyloid features diffuse, global subendocardial enhancement and difficulty nulling the myocardium on LGE."
+    },
+    {
+      "number": 42,
+      "question": "Which non-ischemic cardiomyopathy presents with transient apical ballooning and a normal coronary angiogram?",
+      "choices": [
+        "A. Dilated cardiomyopathy",
+        "B. Hypertrophic cardiomyopathy",
+        "C. Takotsubo (stress) cardiomyopathy",
+        "D. Restrictive cardiomyopathy",
+        "E. Arrhythmogenic RV cardiomyopathy (ARVC)"
+      ],
+      "answer": "C",
+      "detail": "Takotsubo involves apical dysfunction often triggered by emotional stress; notably, there is usually no LGE, unlike MI."
+    },
+    {
+      "number": 43,
+      "question": "A 25-year-old athlete presents with mid-wall and subepicardial LGE in the lateral wall. He has a recent history of a viral illness. What is the diagnosis?",
+      "choices": [
+        "A. MI",
+        "B. Acute myocarditis",
+        "C. Sarcoidosis",
+        "D. ARVC",
+        "E. Pericarditis"
+      ],
+      "answer": "B",
+      "detail": "Myocarditis characteristically shows subepicardial and mid-wall LGE, often in the lateral free wall."
+    },
+    {
+      "number": 44,
+      "question": "Which cardiomyopathy is associated with fatty replacement of the myocardium and an increased risk of VT in young patients?",
+      "choices": [
+        "A. Amyloidosis",
+        "B. Sarcoidosis",
+        "C. ARVC (Arrhythmogenic Right Ventricular Cardiomyopathy)",
+        "D. Dilated cardiomyopathy",
+        "E. Chagas disease"
+      ],
+      "answer": "C",
+      "detail": "ARVC features fibrofatty replacement of the RV wall and is a cause of sudden cardiac death."
+    },
+    {
+      "number": 45,
+      "question": "\"Systolic anterior motion\" (SAM) of the mitral valve is a common finding in:",
+      "choices": [
+        "A. Dilated cardiomyopathy",
+        "B. Restrictive cardiomyopathy",
+        "C. Hypertrophic Obstructive Cardiomyopathy (HOCM)",
+        "D. Mitral stenosis",
+        "E. Amyloidosis"
+      ],
+      "answer": "C",
+      "detail": "SAM contributes to LV outflow tract obstruction in patients with septal hypertrophy."
+    },
+    {
+      "number": 46,
+      "question": "Cardiac sarcoidosis typically presents on CMR with which enhancement pattern?",
+      "choices": [
+        "A. Global subendocardial",
+        "B. Patchy, multifocal mid-wall and subepicardial enhancement",
+        "C. No enhancement",
+        "D. Linear subendocardial in the RCA territory",
+        "E. RV apical enhancement only"
+      ],
+      "answer": "B",
+      "detail": "Sarcoidosis is a 'mimic' but usually shows patchy non-ischemic enhancement and can involve the conduction system."
+    },
+    {
+      "number": 47,
+      "question": "Which radionuclide scan is most sensitive for diagnosing cardiac amyloidosis (specifically the ATTR type)?",
+      "choices": [
+        "A. Tc-99m sestamibi",
+        "B. Tc-99m MDP or PYP (bone scan agents)",
+        "C. Gallium-67",
+        "D. I-123 MIBG",
+        "E. Thallium-201"
+      ],
+      "answer": "B",
+      "detail": "ATTR amyloidosis shows intense myocardial uptake of bone-seeking radiopharmaceuticals."
+    },
+    {
+      "number": 48,
+      "question": "Dilated cardiomyopathy (DCM) is characterized on CMR by:",
+      "choices": [
+        "A. Markedly increased LV wall thickness",
+        "B. Decreased LV volumes",
+        "C. Increased LV volumes and a \"mid-wall\" linear LGE pattern (in some cases)",
+        "D. Apical hypertrophy",
+        "E. Massive RA enlargement"
+      ],
+      "answer": "C",
+      "detail": "DCM features ventricular dilation and reduced EF; mid-wall enhancement may be seen in about 30% of idiopathic cases."
+    },
+    {
+      "number": 49,
+      "question": "Chagas disease, caused by Trypanosoma cruzi, classically leads to which cardiac MRI finding?",
+      "choices": [
+        "A. Global subendocardial LGE",
+        "B. Septal hypertrophy",
+        "C. LV apical aneurysm and LGE",
+        "D. RA thrombus",
+        "E. Pericardial calcification"
+      ],
+      "answer": "C",
+      "detail": "An apical aneurysm is a characteristic late complication of Chagasic cardiomyopathy."
+    },
+    {
+      "number": 50,
+      "question": "\"Loeffler endocarditis\" is a restrictive cardiomyopathy associated with:",
+      "choices": [
+        "A. Iron overload",
+        "B. Hypereosinophilia",
+        "C. Asbestos exposure",
+        "D. Hypertension",
+        "E. Diabetes"
+      ],
+      "answer": "B",
+      "detail": "Loeffler disease causes endocardial fibrosis and thrombus formation due to eosinophilic infiltration."
+    },
+    {
+      "number": 51,
+      "question": "Iron overload cardiomyopathy (hemochromatosis) is best quantified on MRI using:",
+      "choices": [
+        "A. T1 LGE",
+        "B. T2* (T2 star) mapping",
+        "C. SSFP cine",
+        "D. Phase contrast",
+        "E. Perfusion (T2 star) mapping"
+      ],
+      "answer": "B",
+      "detail": "Excess iron causes reduced T2* signal; a T2* <20 ms indicates myocardial iron overload."
+    },
+    {
+      "number": 52,
+      "question": "\"Non-compaction\" cardiomyopathy is diagnosed when the ratio of non-compacted to compacted myocardium is:",
+      "choices": [
+        "A. > 1.1",
+        "B. > 1.5",
+        "C. > 2.3",
+        "D. < 2.3",
+        "E. Exactly 1.0"
+      ],
+      "answer": "C",
+      "detail": "A ratio of > 2.3 in end-diastole is the standard CMR criterion for non-compaction."
+    },
+    {
+      "number": 53,
+      "question": "Which imaging modality is \"first-line\" for evaluating most non-ischemic cardiomyopathies?",
+      "choices": [
+        "A. Coronary CTA",
+        "B. Echocardiography",
+        "C. Nuclear SPECT",
+        "D. PET/CT",
+        "E. Standard Chest Radiograph"
+      ],
+      "answer": "B",
+      "detail": "While CMR is more accurate, echo is the initial tool for evaluating function, wall thickness, and valves."
+    },
+    {
+      "number": 54,
+      "question": "In cardiac sarcoidosis, FDG-PET/CT is used to identify:",
+      "choices": [
+        "A. Old scars",
+        "B. Areas of active inflammatory granulomatous disease",
+        "C. Fatty infiltration",
+        "D. Myocardial bridging",
+        "E. RA thrombus"
+      ],
+      "answer": "B",
+      "detail": "Active sarcoid granulomas are FDG-avid, helping guide therapy and monitor response."
+    }
+  ]
+}

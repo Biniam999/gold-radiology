@@ -1,0 +1,82 @@
+{
+  "questions": [
+    {
+      "number": 95,
+      "question": "A \"misty mesentery\" appearance on CT refers to:",
+      "choices": [
+        "A. Decreased attenuation of mesenteric fat",
+        "B. Increased attenuation of mesenteric fat with indistinct vessels",
+        "C. Presence of multiple large masses",
+        "D. Dilation of the portal vein",
+        "E. Air within the mesentery"
+      ],
+      "answer": "B",
+      "detail": "A misty mesentery represents infiltration of the mesenteric fat by fluid, inflammatory cells, or fibrosis, leading to increased attenuation."
+    },
+    {
+      "number": 96,
+      "question": "What is the most common cause of mesenteric inflammation in the upper abdomen?",
+      "choices": [
+        "A. Diverticulitis",
+        "B. Acute pancreatitis",
+        "C. Appendicitis",
+        "D. Hepatitis",
+        "E. Splenic infarct"
+      ],
+      "answer": "B",
+      "detail": "Inflammatory fluid and enzymes from the pancreas can easily track into the small bowel mesentery and the transverse mesocolon, making acute pancreatitis the most common cause of inflammation in this region."
+    },
+    {
+      "number": 97,
+      "question": "\"Mesenteric panniculitis\" (Sclerosing mesenteritis) is an idiopathic inflammatory condition that can cause:",
+      "choices": [
+        "A. A diffuse misty mesentery",
+        "B. A mesenteric mass-like lesion",
+        "C. Uphill varices",
+        "D. Achalasia",
+        "E. Both A and B"
+      ],
+      "answer": "E",
+      "detail": "Mesenteric panniculitis is part of a disease spectrum that can present as either diffuse mesenteric thickening (misty mesentery) or a more localized, mass-like lesion."
+    },
+    {
+      "number": 98,
+      "question": "The \"small bowel mesentery\" is oriented obliquely from which two landmarks?",
+      "choices": [
+        "A. Splenic flexure to Hepatic flexure",
+        "B. Ligament of Treitz (LUQ) to Ileocecal junction (RLQ)",
+        "C. Stomach to Liver",
+        "D. Aorta to IVC",
+        "E. Diaphragm to Pelvis"
+      ],
+      "answer": "B",
+      "detail": "The root of the small bowel mesentery follows an anatomical course from the Ligament of Treitz in the left upper quadrant to the ileocecal junction in the right lower quadrant."
+    },
+    {
+      "number": 99,
+      "question": "An \"omental cake\" is a sign of peritoneal carcinomatosis and refers to:",
+      "choices": [
+        "A. Multiple small polyps",
+        "B. Soft tissue thickening/infiltration of the greater omentum",
+        "C. A benign fat-containing mass",
+        "D. A duplicated collecting system",
+        "E. Calcification of the spleen"
+      ],
+      "answer": "B",
+      "detail": "Omental caking occurs when malignant tumor (often from ovarian or gastrointestinal primaries) replaces the normal fat of the greater omentum with dense soft tissue."
+    },
+    {
+      "number": 100,
+      "question": "\"Pseudomyxoma peritonei\" is characterized by the accumulation of mucinous ascites, often secondary to a ruptured:",
+      "choices": [
+        "A. Gallbladder",
+        "B. Appendiceal mucocele or tumor",
+        "C. Pancreatic pseudocyst",
+        "D. Splenic cyst",
+        "E. Meckel diverticulum"
+      ],
+      "answer": "B",
+      "detail": "This condition involves gelatinous mucus filling the peritoneal cavity, typically originating from a ruptured appendiceal mucocele or mucinous tumor; it characteristically causes scalloping of the margins of the liver and spleen."
+    }
+  ]
+}

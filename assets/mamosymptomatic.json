@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "number": 105,
+      "question": "For a woman under age 30 presenting with a focal palpable breast mass, what is the first-line imaging modality?",
+      "choices": [
+        "Diagnostic mammography (CC/MLO)",
+        "Targeted ultrasound",
+        "Screening mammography",
+        "Breast MRI",
+        "Fine needle aspiration without imaging"
+      ],
+      "answer": "B",
+      "detail": "Ultrasound is the primary tool in young women due to high breast density and the higher likelihood of benign cysts or fibroadenomas."
+    },
+    {
+      "number": 106,
+      "question": "A 45-year-old woman presents with a new palpable lump. According to the standard symptomatic pathway, the evaluation should BEGIN with:",
+      "choices": [
+        "Ultrasound only",
+        "Diagnostic mammography (CC and MLO views of the symptomatic breast)",
+        "Bilateral screening mammography",
+        "Breast MRI",
+        "Immediate core biopsy"
+      ],
+      "answer": "B",
+      "detail": "Women over age 40 require mammography to screen the remainder of the breast tissue and characterize the palpable area before proceeding to ultrasound."
+    },
+    {
+      "number": 107,
+      "question": "Which of the following features defines 'pathologic' nipple discharge?",
+      "choices": [
+        "Spontaneous (occurs without expression)",
+        "Persistent and unilateral",
+        "Arising from a single duct (single pore)",
+        "Bloody, serosanguinous, or clear (serous)",
+        "All of the above"
+      ],
+      "answer": "E",
+      "detail": "Discharge that is bilateral or occurs only with expression is typically physiologic or related to systemic issues."
+    },
+    {
+      "number": 108,
+      "question": "What is the most common cause of pathologic nipple discharge in a non-lactating woman?",
+      "choices": [
+        "Ductal carcinoma in situ (DCIS)",
+        "Invasive ductal carcinoma",
+        "Intraductal papilloma",
+        "Plasma cell mastitis",
+        "Pituitary adenoma"
+      ],
+      "answer": "C",
+      "detail": "While DCIS must be excluded, a benign solitary papilloma is the most frequent cause of clinical discharge."
+    },
+    {
+      "number": 109,
+      "question": "A 'BI-RADS 3' (Probably Benign) assessment carries a malignancy risk of:",
+      "choices": [
+        "0%",
+        "≤ 2%",
+        "5%",
+        "10%",
+        "50%"
+      ],
+      "answer": "B",
+      "detail": "This category is reserved for specific findings with a very high likelihood of being benign, managed with short-interval follow-up."
+    },
+    {
+      "number": 110,
+      "question": "Which finding is a strict requirement for assigning a BI-RADS 3 assessment to a mass?",
+      "choices": [
+        "Palpable mass in a 50-year-old",
+        "Non-palpable, circumscribed, oval, non-calcified mass",
+        "New spiculated mass",
+        "Mass with thick internal septations",
+        "Mass with high density"
+      ],
+      "answer": "B",
+      "detail": "To qualify for BI-RADS 3, the mass must meet specific low-risk criteria on a baseline or stable exam."
+    },
+    {
+      "number": 111,
+      "question": "When a patient presents with 'focal breast pain' (mastalgia) and has a normal physical exam, what is the likelihood that imaging will reveal a cancer?",
+      "choices": [
+        "< 1%",
+        "10%",
+        "25%",
+        "50%",
+        "0% (never)"
+      ],
+      "answer": "A",
+      "detail": "Focal pain without a palpable correlate is a very low-risk symptom, but targeted imaging is often performed for patient reassurance."
+    },
+    {
+      "number": 112,
+      "question": "A 'Ductogram' (Galactogram) is indicated for a patient with:",
+      "choices": [
+        "Bilateral milky discharge",
+        "Multi-pore green discharge",
+        "Pathologic (serous or bloody) single-pore discharge",
+        "Breast pain only",
+        "Mastitis"
+      ],
+      "answer": "C",
+      "detail": "This interventional procedure involves injecting contrast into the specific discharging pore to identify intraductal lesions."
+    }
+  ]
+}

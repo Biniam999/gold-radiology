@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "number": 15,
+      "question": "In a multiphase renal CT, the 'Nephrographic phase' (ideally at 100 seconds) is most useful for:",
+      "choices": [
+        "A. Identifying arterial stenoses",
+        "B. Detecting small renal cell carcinomas (RCC)",
+        "C. Visualizing the urothelial lining",
+        "D. Assessing for renal stones",
+        "E. Determining if a mass is a pseudotumor"
+      ],
+      "answer": "B",
+      "detail": "This phase provides the most uniform enhancement of the renal parenchyma, which makes parenchymal masses more apparent."
+    },
+    {
+      "number": 16,
+      "question": "According to the Bosniak classification (v2019), a cystic renal mass with multiple thin septa (< 2 mm) and NO solid components is categorized as:",
+      "choices": [
+        "A. Bosniak I",
+        "B. Bosniak II",
+        "C. Bosniak IIF",
+        "D. Bosniak III",
+        "E. Bosniak IV"
+      ],
+      "answer": "B",
+      "detail": "Simple septated cysts without thickening or enhancing nodes are considered benign and categorized as Bosniak II."
+    },
+    {
+      "number": 17,
+      "question": "A 'Bosniak IIF' renal cyst requires 'Follow-up' (the 'F') because it has:",
+      "choices": [
+        "A. Thickened enhancing septa (> 3 mm)",
+        "B. Minimally thickened septa or a small amount of 'smudgy' calcification",
+        "C. Frank solid components",
+        "D. Spontaneous hemorrhage",
+        "E. Ruptured into the collecting system"
+      ],
+      "answer": "B",
+      "detail": "IIF lesions have features slightly more complex than Category II, such as smudgy calcification or minimally thickened septa, but are not clearly malignant."
+    },
+    {
+      "number": 18,
+      "question": "Which Bosniak category represents a 'surgical' lesion with approximately a 50% risk of malignancy?",
+      "choices": [
+        "A. II",
+        "B. IIF",
+        "C. III",
+        "D. IV",
+        "E. Both C and D"
+      ],
+      "answer": "C",
+      "detail": "Bosniak III lesions characteristically feature thick, enhancing septa and are typically treated surgically due to a high malignancy rate."
+    },
+    {
+      "number": 19,
+      "question": "Which histological subtype of RCC is the most common and typically demonstrates intense enhancement on CT?",
+      "choices": [
+        "A. Papillary",
+        "B. Chromophobe",
+        "C. Clear cell",
+        "D. Medullary",
+        "E. Collecting duct"
+      ],
+      "answer": "C",
+      "detail": "Clear cell RCC accounts for approximately 70% of cases and is usually hypervascular."
+    },
+    {
+      "number": 20,
+      "question": "A patient with Birt-Hogg-Dubé syndrome is at an increased risk for which renal tumor?",
+      "choices": [
+        "A. Clear cell RCC",
+        "B. Chromophobe RCC and oncocytomas",
+        "C. Wilms tumor",
+        "D. Angiomyolipomas",
+        "E. Transitional cell carcinoma"
+      ],
+      "answer": "B",
+      "detail": "This syndrome is associated with chromophobe RCC, oncocytomas, lung cysts, and spontaneous pneumothorax."
+    },
+    {
+      "number": 21,
+      "question": "What imaging finding on CT is diagnostic of a 'classic' Angiomyolipoma (AML)?",
+      "choices": [
+        "A. Central scar",
+        "B. Macroscopic fat",
+        "C. Intense enhancement in the excretory phase",
+        "D. Psammomatous calcification",
+        "E. 'Claw sign'"
+      ],
+      "answer": "B",
+      "detail": "AMLs are benign tumors composed of vessels, muscle, and fat; identifying macroscopic fat within a renal mass is diagnostic."
+    },
+    {
+      "number": 22,
+      "question": "Multiple renal AMLs are a major diagnostic feature of which neurocutaneous syndrome?",
+      "choices": [
+        "A. Neurofibromatosis type 1",
+        "B. Tuberous Sclerosis",
+        "C. Von Hippel-Lindau",
+        "D. Sturge-Weber",
+        "E. Li-Fraumeni"
+      ],
+      "answer": "B",
+      "detail": "Up to 80% of patients with Tuberous Sclerosis present with multiple, often bilateral, AMLs."
+    },
+    {
+      "number": 23,
+      "question": "What is the classic sonographic appearance of Autosomal Recessive Polycystic Kidney Disease (ARPKD) in neonates?",
+      "choices": [
+        "A. Multiple large discrete cysts",
+        "B. Bilateral enlarged, echogenic kidneys with loss of corticomedullary differentiation",
+        "C. Unilateral multicystic mass",
+        "D. Dilated ureters and bladder",
+        "E. Renal agenesis"
+      ],
+      "answer": "B",
+      "detail": "The 'cysts' are actually dilated collecting tubules too small to be resolved individually, which creates an echogenic appearance on ultrasound."
+    },
+    {
+      "number": 24,
+      "question": "Xanthogranulomatous pyelonephritis (XGP) is a chronic destructive infection classically associated with:",
+      "choices": [
+        "A. Diabetes only",
+        "B. A 'staghorn' calculus and a non-functioning kidney",
+        "C. Multiple micro-abscesses",
+        "D. Intense uptake on DMSA scan",
+        "E. Renal vein thrombosis"
+      ],
+      "answer": "B",
+      "detail": "XGP typically results from chronic obstruction by a staghorn stone and the replacement of parenchyma with lipid-laden macrophages."
+    },
+    {
+      "number": 25,
+      "question": "Emphysematous pyelonephritis is a life-threatening emergency characterized by gas within the renal parenchyma. It occurs almost exclusively in which patient population?",
+      "choices": [
+        "A. Children",
+        "B. Pregnant women",
+        "C. Diabetics",
+        "D. Patients with sickle cell disease",
+        "E. Healthy athletes"
+      ],
+      "answer": "C",
+      "detail": "Gas-forming infections in the kidney are a severe complication most often seen in patients with poorly controlled diabetes."
+    },
+    {
+      "number": 26,
+      "question": "In the setting of trauma, a 'Grade IV' renal injury involves:",
+      "choices": [
+        "A. A subcapsular hematoma",
+        "B. A laceration extending through the renal cortex, medulla, and collecting system",
+        "C. Complete shattering of the kidney",
+        "D. Injury to the main renal artery or vein with contained hemorrhage",
+        "E. Both B and D"
+      ],
+      "answer": "E",
+      "detail": "Grade IV injuries involve the collecting system or specific vascular injuries to the main renal artery or vein."
+    },
+    {
+      "number": 27,
+      "question": "What is the most common cause of 'Papillary Necrosis'?",
+      "choices": [
+        "A. Hypertension",
+        "B. Analgesics (NSAIDs), Sickle cell, and Diabetes",
+        "C. Renal cell carcinoma",
+        "D. Polycystic kidney disease",
+        "E. Renal agenesis"
+      ],
+      "answer": "B",
+      "detail": "The main causes are summarized by the 'POSTCARD' mnemonic, with NSAIDs, Sickle cell, and Diabetes being prominent factors."
+    },
+    {
+      "number": 28,
+      "question": "Medullary nephrocalcinosis (calcification of the renal pyramids) is most commonly caused by:",
+      "choices": [
+        "A. Hyperparathyroidism",
+        "B. Medullary sponge kidney",
+        "C. Distal renal tubular acidosis (Type 1)",
+        "D. All of the above",
+        "E. None of the above"
+      ],
+      "answer": "D",
+      "detail": "Hyperparathyroidism, medullary sponge kidney, and distal renal tubular acidosis all lead to calcium deposition in the medulla."
+    },
+    {
+      "number": 29,
+      "question": "On ultrasound, a 'Staghorn calculus' is best distinguished from a normal renal sinus by:",
+      "choices": [
+        "A. Increased echogenicity only",
+        "B. Posterior acoustic shadowing",
+        "C. Being located within the cortex",
+        "D. Showing Doppler flow",
+        "E. Disappearing on prone views"
+      ],
+      "answer": "B",
+      "detail": "Large stones cast a prominent posterior acoustic shadow, which distinguishes them from the bright but non-shadowing fat of the renal sinus."
+    },
+    {
+      "number": 30,
+      "question": "Which nuclear medicine scan is the most sensitive for detecting 'Renal Cortical Scarring' following a pediatric UTI?",
+      "choices": [
+        "A. Tc-99m DTPA",
+        "B. Tc-99m MAG3",
+        "C. Tc-99m DMSA",
+        "D. Tc-99m Pertechnetate",
+        "E. Tc-99m HIDA"
+      ],
+      "answer": "C",
+      "detail": "DMSA binds to the renal cortex, making it the standard for identifying focal areas of non-functioning tissue or scars."
+    },
+    {
+      "number": 31,
+      "question": " 'Page Kidney' is a cause of secondary hypertension resulting from:",
+      "choices": [
+        "A. Renal artery stenosis",
+        "B. Compression of the kidney by a large subcapsular hematoma",
+        "C. Chronic pyelonephritis",
+        "D. RCC invasion",
+        "E. Horseshoe kidney"
+      ],
+      "answer": "B",
+      "detail": "Mechanical compression by a hematoma causes renal ischemia and subsequent activation of the renin-angiotensin-aldosterone (RAA) system."
+    },
+    {
+      "number": 32,
+      "question": "The 'Drooping Lily Sign' on an intravenous urogram (IVU) or VCUG is indicative of:",
+      "choices": [
+        "A. Simple hydronephrosis",
+        "B. An obstructed upper pole moiety in a duplicated system",
+        "C. Renal ptosis",
+        "D. Renal agenesis",
+        "E. Bladder rupture"
+      ],
+      "answer": "B",
+      "detail": "A dilated, non-opacified upper pole moiety in a duplicated system displaces the functioning lower pole moiety downward and outward."
+    },
+    {
+      "number": 33,
+      "question": "'Perirenal lymphangiomatosis' appears on CT as:",
+      "choices": [
+        "A. Multiple solid masses",
+        "B. Fluid-attenuation collections (cysts) surrounding the kidneys and tracking along the renal hilum",
+        "C. Diffuse calcification",
+        "D. A staghorn stone",
+        "E. Renal artery aneurysm"
+      ],
+      "answer": "B",
+      "detail": "This is a benign condition caused by renal lymphatics failing to communicate with systemic lymphatics, leading to perirenal fluid collections."
+    },
+    {
+      "number": 34,
+      "question": "What is the most common 'Fusion Anomaly' of the kidneys?",
+      "choices": [
+        "A. Pancake kidney",
+        "B. Crossed fused ectopia",
+        "C. Horseshoe kidney",
+        "D. Pelvic kidney",
+        "E. Supernumerary kidney"
+      ],
+      "answer": "C",
+      "detail": "The kidneys are usually fused at the lower poles by an isthmus crossing the midline, forming a horseshoe kidney."
+    },
+    {
+      "number": 35,
+      "question": "In a nuclear renogram, which radiotracer is cleared primarily by proximal tubular secretion and is preferred for imaging patients with renal insufficiency?",
+      "choices": [
+        "A. Tc-99m DTPA",
+        "B. Tc-99m DMSA",
+        "C. Tc-99m MAG3",
+        "D. Tc-99m Sulfur Colloid",
+        "E. I-131 Hippuran"
+      ],
+      "answer": "C",
+      "detail": "MAG3 has a high extraction fraction (>50% per pass), providing superior images in patients with poor function compared to DTPA."
+    },
+    {
+      "number": 36,
+      "question": "What is the characteristic finding of a positive Captopril renogram study using Tc-99m MAG3?",
+      "choices": [
+        "A. Immediate improvement in tracer uptake",
+        "B. Progressive increase in GFR",
+        "C. Delayed time to peak activity (>2 minutes compared to baseline) or reduced uptake",
+        "D. Normalization of a previously abnormal curve",
+        "E. Visualization of a striated nephrogram"
+      ],
+      "answer": "C",
+      "detail": "ACE inhibitors remove compensatory efferent arteriole constriction in renal artery stenosis, leading to a drop in GFR and delayed tracer transit."
+    },
+    {
+      "number": 37,
+      "question": "On a diuretic (Lasix) renogram, what clearance half-time (T 1/2) value excludes mechanical obstruction?",
+      "choices": [
+        "A. < 5 minutes",
+        "B. < 10 minutes",
+        "C. < 20 minutes",
+        "D. > 20 minutes",
+        "E. Exactly 15 minutes"
+      ],
+      "answer": "B",
+      "detail": "A clearance half-time of less than 10 minutes following Lasix administration is considered normal."
+    },
+    {
+      "number": 38,
+      "question": "Which finding on contrast-enhanced CT is a helpful clue to the presence of a renal arteriovenous malformation (AVM)?",
+      "choices": [
+        "A. Presence of macroscopic fat",
+        "B. Asymmetric, early enhancement of the ipsilateral renal vein",
+        "C. Absence of any arterial enhancement",
+        "D. Presence of a central calcified scar",
+        "E. 'Bulging' of the minor fissure"
+      ],
+      "answer": "B",
+      "detail": "Early shunting of arterial blood into the venous system causes the renal vein on the affected side to enhance more rapidly than the contralateral side."
+    },
+    {
+      "number": 39,
+      "question": "Which of the following is a potential cause of a UNILATERAL striated nephrogram?",
+      "choices": [
+        "A. Systemic hypotension",
+        "B. Acute tubular necrosis (ATN)",
+        "C. Renal contusion or acute pyelonephritis",
+        "D. Autosomal recessive polycystic kidney disease (ARPKD)",
+        "E. Dehydration"
+      ],
+      "answer": "C",
+      "detail": "Unilateral striated patterns suggest focal or local pathology such as infection, trauma, or infarct."
+    },
+    {
+      "number": 40,
+      "question": "What is the most important risk factor for the development of Contrast-Induced Nephropathy (CIN)?",
+      "choices": [
+        "A. Patient age > 65",
+        "B. Use of non-ionic contrast",
+        "C. Pre-existing renal insufficiency (eGFR < 30)",
+        "D. Hypertension",
+        "E. Recent exercise"
+      ],
+      "answer": "C",
+      "detail": "CIN is exceptionally rare in patients with an eGFR greater than 30, making pre-existing insufficiency the most significant risk factor."
+    },
+    {
+      "number": 41,
+      "question": "In the context of ADPKD, approximately what percentage of patients are found to have saccular (berry) cerebral aneurysms?",
+      "choices": [
+        "A. 5%",
+        "B. 15%",
+        "C. 50%",
+        "D. 70%",
+        "E. 95%"
+      ],
+      "answer": "B",
+      "detail": "ADPKD is a multisystem disorder where 15% of patients have cerebral aneurysms and 70% have hepatic cysts."
+    },
+    {
+      "number": 42,
+      "question": "Which benign cystic renal neoplasm features enhancing septa and a bimodal age distribution affecting young boys and middle-aged women?",
+      "choices": [
+        "A. Multilocular cystic nephroma",
+        "B. Mixed epithelial and stromal tumor (MEST)",
+        "C. Cystic RCC",
+        "D. Simple cortical cyst",
+        "E. Angiomyolipoma"
+      ],
+      "answer": "A",
+      "detail": "This lesion can herniate into the renal pelvis and may be indistinguishable from cystic Wilms tumor or cystic RCC."
+    },
+    {
+      "number": 43,
+      "question": "Following a renal transplant, a patient develops a fluid collection in the second month post-operation. What is the most likely diagnosis?",
+      "choices": [
+        "A. Hematoma",
+        "B. Urinoma",
+        "C. Abscess",
+        "D. Lymphocele",
+        "E. Seroma"
+      ],
+      "answer": "D",
+      "detail": "Lymphoceles typically appear after the first month, whereas hematomas and urinomas occur much earlier."
+    },
+    {
+      "number": 44,
+      "question": "'Contrast-Relative Kidney Injury' is defined as a decrease in renal function occurring within how many hours after contrast administration?",
+      "choices": [
+        "A. 12 hours",
+        "B. 24 hours",
+        "C. 48 hours",
+        "D. 7 days",
+        "E. 1 week"
+      ],
+      "answer": "C",
+      "detail": "Post-contrast acute kidney injury (PC-AKI) is defined as a decline in function within 48 hours of exposure."
+    }
+  ]
+}

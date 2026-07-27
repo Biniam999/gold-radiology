@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "number": 89,
+      "question": "The \"Linguine Sign\" on MRI is diagnostic for which condition?",
+      "choices": [
+        "Saline implant rupture",
+        "Extracapsular silicone rupture",
+        "Intracapsular silicone rupture",
+        "Breast cancer recurrence",
+        "Normal fat necrosis"
+      ],
+      "answer": "C",
+      "detail": "The \"linguine\" represents the collapsed elastomer shell floating within the silicone gel."
+    },
+    {
+      "number": 90,
+      "question": "Which sign describes silicone gel outside of both the elastomer shell AND the fibrous capsule?",
+      "choices": [
+        "Linguine sign",
+        "Teardrop sign",
+        "Snowstorm sign (on ultrasound) or extracapsular globules (on MRI/CT)",
+        "Keyhole sign",
+        "Oreo cookie sign"
+      ],
+      "answer": "C",
+      "detail": "Silicone in the axillary lymph nodes or breast tissue indicates extracapsular rupture."
+    },
+    {
+      "number": 91,
+      "question": "The \"Keyhole\" or \"Noose\" sign on MRI refers to:",
+      "choices": [
+        "A small cancer",
+        "Silicone trapped between the shell and the fibrous capsule (intracapsular rupture)",
+        "A radial scar",
+        "A biopsy clip",
+        "A galactocele"
+      ],
+      "answer": "B",
+      "detail": "This is a sign of an uncollapsed intracapsular rupture."
+    },
+    {
+      "number": 92,
+      "question": "\"Saline\" implant rupture is usually diagnosed by:",
+      "choices": [
+        "MRI",
+        "Clinical exam (the breast deflates rapidly) and mammography",
+        "Bone scan",
+        "Ductography",
+        "It cannot be diagnosed"
+      ],
+      "answer": "B",
+      "detail": "When saline leaks, the fluid is absorbed and the implant volume is lost."
+    },
+    {
+      "number": 93,
+      "question": "After a lumpectomy, the \"surgical bed\" typically appears as:",
+      "choices": [
+        "A simple cyst",
+        "An area of architectural distortion with a fluid collection (seroma) that evolves into a scar",
+        "Multiple fibroadenomas",
+        "Popcorn calcifications",
+        "A normal breast immediately"
+      ],
+      "answer": "B",
+      "detail": "The appearance changes over time, often resolving into a stable scar."
+    },
+    {
+      "number": 94,
+      "question": "\"Fat Necrosis\" is a common sequela of breast surgery. Which finding is MOST helpful to avoid an unnecessary biopsy?",
+      "choices": [
+        "High density on mammography",
+        "Internal macroscopic fat (radiolucent center) on mammography",
+        "Intense enhancement on MRI",
+        "Rapid growth",
+        "Nipple retraction"
+      ],
+      "answer": "B",
+      "detail": "Fat is the only substance in the breast that is darker than water-density cancer on a mammogram."
+    },
+    {
+      "number": 95,
+      "question": "A \"Capsular Contracture\" is a complication of implants where:",
+      "choices": [
+        "The implant ruptures",
+        "The fibrous capsule thickens and tightens, distorting the breast",
+        "The implant turns into a cancer",
+        "The implant disappears",
+        "Milk forms in the implant"
+      ],
+      "answer": "B",
+      "detail": "This is a clinical diagnosis but appears on imaging as a rounded, \"balled-up\" implant."
+    },
+    {
+      "number": 96,
+      "question": "Mammographic \"Eklund\" (Implant-Displaced) views are used to:",
+      "choices": [
+        "Check for rupture",
+        "Better visualize the native breast tissue by pushing the implant posteriorly",
+        "Compress the implant to its limit",
+        "Biopsy the implant",
+        "Image the axilla only"
+      ],
+      "answer": "B",
+      "detail": "Standard views are often obscured by the radiopaque implant."
+    },
+    {
+      "number": 97,
+      "question": "\"Biopsy clips\" are placed during a procedure to:",
+      "choices": [
+        "Stop bleeding",
+        "Mark the site for future surgical localization or to confirm the area was sampled",
+        "Treat the cancer",
+        "Prevent metastasis",
+        "Identify the patient"
+      ],
+      "answer": "B",
+      "detail": "Clips are essential for \"radiology-pathology correlation\" and future follow-up."
+    },
+    {
+      "number": 98,
+      "question": "\"Specimen Radiography\" is performed during surgery to:",
+      "choices": [
+        "Check the patient's lungs",
+        "Confirm that the targeted suspicious calcifications or mass are within the excised tissue",
+        "Measure the patient's heart",
+        "Check for implant rupture",
+        "None of the above"
+      ],
+      "answer": "B",
+      "detail": "This ensures the surgeon has accurately sampled the lesion identified by the radiologist."
+    }
+  ]
+}

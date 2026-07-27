@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "number": 5,
+      "question": "To diagnose an adrenal adenoma on a dedicated adrenal CT, what is the standard threshold for \"Absolute Washout\" at 15 minutes?",
+      "choices": [
+        "A. > 40%",
+        "B. > 50%",
+        "C. > 60%",
+        "D. < 60%",
+        "E. Exactly 100%"
+      ],
+      "answer": "C",
+      "detail": "An absolute enhancement washout of 60% or greater is highly specific for a benign adenoma."
+    },
+    {
+      "number": 6,
+      "question": "If a non-contrast CT phase is not available, a \"Relative Washout\" can be calculated. What is the threshold for a benign adenoma?",
+      "choices": [
+        "A. > 40%",
+        "B. > 50%",
+        "C. > 60%",
+        "D. < 40%",
+        "E. > 10 HU"
+      ],
+      "answer": "A",
+      "detail": "A relative washout of greater than 40% is used when only the venous and delayed phases are available."
+    },
+    {
+      "number": 7,
+      "question": "Which finding on CT is pathognomonic for an adrenal myelolipoma?",
+      "choices": [
+        "A. Intense arterial enhancement",
+        "B. Macroscopic fat (attenuation < -30 HU)",
+        "C. Diffuse calcification",
+        "D. \"Washout\" similar to an adenoma",
+        "E. Absence of enhancement"
+      ],
+      "answer": "B",
+      "detail": "Myelolipomas are benign tumors composed of fat and hematopoietic elements; identifying fat on CT is diagnostic."
+    },
+    {
+      "number": 8,
+      "question": "Adrenal \"Pheochromocytomas\" are often called \"10% tumors.\" Which of the following is NOT part of the classic 10% rule?",
+      "choices": [
+        "A. 10% are malignant",
+        "B. 10% are bilateral",
+        "C. 10% are extra-adrenal",
+        "D. 10% are associated with hypertension",
+        "E. 10% occur in children"
+      ],
+      "answer": "D",
+      "detail": "Hypertension is a very common presenting symptom, far exceeding 10% of cases. The classic rule includes 10% malignant, bilateral, extra-adrenal, and familial."
+    },
+    {
+      "number": 9,
+      "question": "In a neonate with a suprarenal mass, identifying which of the following features on serial ultrasound is most indicative of an \"Adrenal Hemorrhage\" rather than neuroblastoma?",
+      "choices": [
+        "A. Increasing size over time",
+        "B. Development of solid components",
+        "C. Progressive decrease in size and involution",
+        "D. Intense internal Doppler flow",
+        "E. Spread across the midline"
+      ],
+      "answer": "C",
+      "detail": "Neonatal adrenal hemorrhage characteristically resolves or calcifies over weeks, whereas neuroblastoma will continue to grow."
+    },
+    {
+      "number": 10,
+      "question": "What is a \"Collision Tumor\" in the context of adrenal imaging?",
+      "choices": [
+        "A. Two separate tumors (e.g., an adenoma and a metastasis) occurring in the same gland",
+        "B. A tumor that invades the kidney",
+        "C. A tumor caused by trauma",
+        "D. A Pheochromocytoma that secretes two different hormones",
+        "E. A tumor that crosses the midline"
+      ],
+      "answer": "A",
+      "detail": "This refers to the coincidence of two distinct pathologies within the same adrenal gland."
+    },
+    {
+      "number": 11,
+      "question": "Which syndrome is characterized by primary hyperaldosteronism, often due to a functioning adrenal adenoma?",
+      "choices": [
+        "A. Cushing syndrome",
+        "B. Conn syndrome",
+        "C. Addison disease",
+        "D. Waterhouse-Friderichsen syndrome",
+        "E. Nelson syndrome"
+      ],
+      "answer": "B",
+      "detail": "Conn syndrome involves the overproduction of aldosterone, typically presenting with hypertension and hypokalemia."
+    },
+    {
+      "number": 12,
+      "question": "Adrenal cortical carcinoma (ACC) is typically distinguished from an adenoma on imaging by which feature?",
+      "choices": [
+        "A. Small size (< 2 cm)",
+        "B. Presence of microscopic fat only",
+        "C. Large size (> 4-6 cm), irregular margins, and central necrosis",
+        "D. Homogeneous low attenuation",
+        "E. Rapid washout"
+      ],
+      "answer": "C",
+      "detail": "ACCs are usually large, aggressive, and heterogeneous (due to necrosis) at the time of diagnosis."
+    },
+    {
+      "number": 13,
+      "question": "Waterhouse-Friderichsen syndrome involves hemorrhagic destruction of the adrenal glands, classically associated with which infection?",
+      "choices": [
+        "A. Streptococcus",
+        "B. Neisseria meningitidis",
+        "C. Escherichia coli",
+        "D. Tuberculosis",
+        "E. Histoplasmosis"
+      ],
+      "answer": "B",
+      "detail": "This syndrome is a life-threatening adrenal crisis resulting from fulminant septicemia, classically with Neisseria meningitidis."
+    },
+    {
+      "number": 14,
+      "question": "Which nuclear medicine tracer is the \"gold standard\" for localizing a pheochromocytoma?",
+      "choices": [
+        "A. Tc-99m MDP",
+        "B. I-123 MIBG",
+        "C. Tc-99m Sulfur Colloid",
+        "D. I-131 Hippuran",
+        "E. Ga-67 Citrate"
+      ],
+      "answer": "B",
+      "detail": "I-123 MIBG is a norepinephrine analog taken up by chromaffin tissues, making it the standard for localizing these tumors."
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "number": 50,
+      "question": "\"Uphill\" esophageal varices are typically located in the distal esophagus and are caused by:",
+      "choices": [
+        "A. Superior vena cava obstruction",
+        "B. Portal hypertension",
+        "C. Tracheoesophageal fistula",
+        "D. Achalasia",
+        "E. Scleroderma"
+      ],
+      "answer": "B",
+      "detail": "Blood flows \"uphill\" from the portal system through the gastric veins to systemic collaterals."
+    },
+    {
+      "number": 51,
+      "question": "\"Downhill\" esophageal varices are less common and result from:",
+      "choices": [
+        "A. Cirrhosis",
+        "B. Superior Vena Cava (SVC) obstruction",
+        "C. Biliary atresia",
+        "D. Pyloric stenosis",
+        "E. Esophageal duplication cysts"
+      ],
+      "answer": "B",
+      "detail": "Blood is diverted downward to reach the heart via the portal or azygos systems."
+    },
+    {
+      "number": 52,
+      "question": "Where are esophageal duplication cysts most commonly located?",
+      "choices": [
+        "A. Anterior mediastinum",
+        "B. Middle mediastinum",
+        "C. Posterior mediastinum",
+        "D. Submucosal in the stomach",
+        "E. At the carina"
+      ],
+      "answer": "C",
+      "detail": "These foregut cysts are typically posterior, unlike bronchogenic cysts which are usually in the middle mediastinum."
+    },
+    {
+      "number": 53,
+      "question": "\"Neurenteric cysts\" are unique among foregut duplication cysts because they are associated with:",
+      "choices": [
+        "A. Vertebral body anomalies",
+        "B. Pulmonary sequestration",
+        "C. Bicuspid aortic valve",
+        "D. Horseshoe kidney",
+        "E. Choledochal cysts"
+      ],
+      "answer": "A",
+      "detail": "These cysts maintain an embryologic connection between the spinal cord and gut."
+    },
+    {
+      "number": 54,
+      "question": "\"Achalasia\" features which classic appearance on a barium esophagram?",
+      "choices": [
+        "A. Corkscrew appearance",
+        "B. \"Bird's beak\" tapering of the distal esophagus",
+        "C. Multiple large diverticula",
+        "D. Shaggy mucosal contour",
+        "E. Narrowing of the proximal esophagus only"
+      ],
+      "answer": "B",
+      "detail": "This represents the non-relaxing lower esophageal sphincter."
+    },
+    {
+      "number": 55,
+      "question": "A \"corkscrew esophagus\" on fluoroscopy is the hallmark of:",
+      "choices": [
+        "A. Achalasia",
+        "B. Diffuse Esophageal Spasm (DES)",
+        "C. Candida esophagitis",
+        "D. Barrett's esophagus",
+        "E. Reflux"
+      ],
+      "answer": "B",
+      "detail": "High-amplitude, simultaneous, non-peristaltic contractions create the appearance."
+    },
+    {
+      "number": 56,
+      "question": "\"Barrett's esophagus\" is a complication of chronic reflux and is a precursor for:",
+      "choices": [
+        "A. Squamous cell carcinoma",
+        "B. Adenocarcinoma",
+        "C. Esophageal lymphoma",
+        "D. Leiomyosarcoma",
+        "E. Achalasia"
+      ],
+      "answer": "B",
+      "detail": "Intestinal metaplasia significantly increases the risk of adenocarcinoma."
+    },
+    {
+      "number": 57,
+      "question": "The \"feline esophagus\" refers to:",
+      "choices": [
+        "A. A congenital anomaly in cats",
+        "B. Transient transverse mucosal folds seen on esophagram",
+        "C. Thickened longitudinal folds in achalasia",
+        "D. A malignant stricture",
+        "E. Multiple diverticula"
+      ],
+      "answer": "B",
+      "detail": "These are ripples in the mucosa often associated with reflux."
+    },
+    {
+      "number": 58,
+      "question": "A Zenker's diverticulum is located at the pharyngoesophageal junction, specifically through an area of weakness called:",
+      "choices": [
+        "A. Fossa of Landzert",
+        "B. Killian's dehiscence",
+        "C. Meckel's space",
+        "D. Foramen of Winslow",
+        "E. Ampulla of Vater"
+      ],
+      "answer": "B",
+      "detail": "This is an out-pouching of the posterior pharyngeal wall."
+    },
+    {
+      "number": 59,
+      "question": "A \"Schatzki ring\" is a mucosal ring located at the:",
+      "choices": [
+        "A. Pharyngoesophageal junction",
+        "B. Level of the carina",
+        "C. Gastroesophageal junction (B-ring)",
+        "D. Pylorus",
+        "E. Ligament of Treitz"
+      ],
+      "answer": "C",
+      "detail": "It is a common cause of solid-food dysphagia."
+    }
+  ]
+}

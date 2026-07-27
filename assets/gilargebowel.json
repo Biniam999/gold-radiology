@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "number": 85,
+      "question": "\"Ischemic colitis\" most commonly involves the \"watershed\" area of the splenic flexure, also known as:",
+      "choices": [
+        "A. Fossa of Landzert",
+        "B. Griffiths point",
+        "C. Sudeck point",
+        "D. Killian's dehiscence",
+        "E. McBurney's point"
+      ],
+      "answer": "B",
+      "detail": "Griffiths point is the critical watershed area where the territories of the superior mesenteric artery (SMA) and inferior mesenteric artery (IMA) meet."
+    },
+    {
+      "number": 86,
+      "question": "A \"lead pipe\" appearance of the colon (loss of haustration) is a classic feature of chronic:",
+      "choices": [
+        "A. Crohn's disease",
+        "B. Ulcerative Colitis",
+        "C. Ischemic colitis",
+        "D. Pseudomembranous colitis",
+        "E. Diverticulitis"
+      ],
+      "answer": "B",
+      "detail": "Chronic inflammation in ulcerative colitis leads to a shortened, featureless, and non-haustrated colon."
+    },
+    {
+      "number": 87,
+      "question": "\"Toxic megacolon\" is a potentially fatal complication of ulcerative colitis characterized by:",
+      "choices": [
+        "A. Rapid weight loss",
+        "B. Massive colonic dilation (>6 cm) and systemic toxicity",
+        "C. Multiple gallstones",
+        "D. Uphill varices",
+        "E. Intussusception"
+      ],
+      "answer": "B",
+      "detail": "Toxic megacolon is a surgical emergency due to the significant risk of colonic perforation."
+    },
+    {
+      "number": 88,
+      "question": "Pseudomembranous colitis is an inflammatory condition of the colon almost always caused by:",
+      "choices": [
+        "A. Escherichia coli",
+        "B. Clostridioides (formerly Clostridium) difficile",
+        "C. Salmonella",
+        "D. Mycobacterium tuberculosis",
+        "E. HIV"
+      ],
+      "answer": "B",
+      "detail": "This condition results from an antibiotic-related overgrowth of toxin-producing C. difficile bacteria."
+    },
+    {
+      "number": 89,
+      "question": "Which of the following is a classic imaging sign of \"appendicitis\" on CT?",
+      "choices": [
+        "A. Appendiceal diameter >6 mm",
+        "B. Presence of an appendicolith",
+        "C. Periappendiceal fat stranding",
+        "D. Wall thickening and enhancement",
+        "E. All of the above"
+      ],
+      "answer": "E",
+      "detail": "The diagnosis of acute appendicitis on CT typically involves identifying these combined findings."
+    },
+    {
+      "number": 90,
+      "question": "Gardner syndrome is a variant of Familial Adenomatous Polyposis (FAP) that features colonic polyps plus:",
+      "choices": [
+        "A. CNS tumors",
+        "B. Osteomas and soft tissue tumors (desmoids)",
+        "C. Hyperpigmented macules on the lips",
+        "D. Lung cancer",
+        "E. Thyroid cysts"
+      ],
+      "answer": "B",
+      "detail": "Gardner syndrome is specifically recognized for these extra-colonic manifestations alongside intestinal polyposis."
+    },
+    {
+      "number": 91,
+      "question": "Which polyposis syndrome is associated with thousands of polyps and an increased risk of CNS \"gliomas\"?",
+      "choices": [
+        "A. Gardner syndrome",
+        "B. Turcot syndrome",
+        "C. Peutz-Jeghers syndrome",
+        "D. Cowden syndrome",
+        "E. Lynch syndrome"
+      ],
+      "answer": "B",
+      "detail": "Turcot syndrome is characterized by the association of colonic polyposis with central nervous system tumors."
+    },
+    {
+      "number": 92,
+      "question": "\"Epiploic appendagitis\" is a benign mimic of diverticulitis characterized by a fat-density lesion with a:",
+      "choices": [
+        "A. Central dot sign (thrombosed vein)",
+        "B. Bicarbonate layer",
+        "C. Double duct sign",
+        "D. Corkscrew appearance",
+        "E. Biliary leak"
+      ],
+      "answer": "A",
+      "detail": "The central dot represents a thrombosed central vein within the infarcted epiploic appendage."
+    },
+    {
+      "number": 93,
+      "question": "\"Pylephlebitis\" is a rare, serious complication of diverticulitis or appendicitis involving:",
+      "choices": [
+        "A. Gallbladder perforation",
+        "B. Septic thrombophlebitis of the portal vein",
+        "C. Intestinal angioedema",
+        "D. Splenic infarct",
+        "E. Hiatal hernia"
+      ],
+      "answer": "B",
+      "detail": "In this condition, infection from the bowel spreads to the portal system and can lead to hepatic abscesses."
+    },
+    {
+      "number": 94,
+      "question": "The most common site for a colonic fistula in the setting of diverticulitis is the:",
+      "choices": [
+        "A. Gastrogastric fistula",
+        "B. Colovesical fistula (to the bladder)",
+        "C. Colocutaneous fistula",
+        "D. Oroantral fistula",
+        "E. Tracheoesophageal fistula"
+      ],
+      "answer": "B",
+      "detail": "A colovesical fistula is a common complication that often presents clinically as pneumaturia, or air in the urine."
+    }
+  ]
+}

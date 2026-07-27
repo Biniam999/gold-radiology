@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "number": 101,
+      "question": "A 'Mature Cystic Teratoma' (Dermoid) characteristically contains which feature on ultrasound?",
+      "choices": [
+        "Homogeneous ground-glass echoes",
+        "Echogenic fatty component and a 'Rokitansky nodule' (dermoid plug)",
+        "Only clear fluid",
+        "Multiple septations > 4 mm",
+        "Intense vascularity"
+      ],
+      "answer": "B",
+      "detail": "These contain elements from all three germ layers, often including fat and hair."
+    },
+    {
+      "number": 102,
+      "question": "What is the classic 'MRI hallmark' for a dermoid cyst?",
+      "choices": [
+        "T2 dark",
+        "Loss of signal on fat-saturated sequences",
+        "Diffusion restriction",
+        "Bright on T2 and bright on T1 with NO fat suppression",
+        "Enhancement of the entire mass"
+      ],
+      "answer": "B",
+      "detail": "The macroscopic fat in a dermoid will 'drop out' on fat-suppressed images."
+    },
+    {
+      "number": 103,
+      "question": " 'Ovarian torsion' most commonly presents on ultrasound with:",
+      "choices": [
+        "A small, contracted ovary",
+        "An enlarged, edematous ovary with peripheral follicles and a 'whirlpool' sign of the pedicle",
+        "A solitary 1 cm cyst",
+        "Diffuse calcification",
+        "No abnormal findings"
+      ],
+      "answer": "B",
+      "detail": "Venous and lymphatic obstruction leads to massive ovarian enlargement."
+    },
+    {
+      "number": 104,
+      "question": "Which O-RADS category represents a 'Classic Benign' lesion (e.g., simple cyst, dermoid, or endometrioma) with <1% risk of malignancy?",
+      "choices": [
+        "O-RADS 1",
+        "O-RADS 2",
+        "O-RADS 3",
+        "O-RADS 4",
+        "O-RADS 5"
+      ],
+      "answer": "B",
+      "detail": "O-RADS 2 lesions are almost certainly benign and generally do not require surgical intervention in pre-menopausal women."
+    },
+    {
+      "number": 105,
+      "question": "An 'Endometrioma' characteristically demonstrates which feature on T2-weighted MRI?",
+      "choices": [
+        "T2 bright (water-like)",
+        " 'T2 shading' (progressive loss of signal on T2 compared to T1)",
+        "Enhancement of solid components",
+        "Fat signal",
+        "Air-fluid level"
+      ],
+      "answer": "B",
+      "detail": "The high concentration of iron and protein from old blood causes this signal drop."
+    },
+    {
+      "number": 106,
+      "question": " 'Polycystic Ovary Syndrome' (PCOS) is diagnosed sonographically (Rotterdam criteria) when an ovary contains at least how many follicles?",
+      "choices": [
+        "5",
+        "10",
+        "12 or more (or ovarian volume >10cc)",
+        "50",
+        "100"
+      ],
+      "answer": "C",
+      "detail": "These are typically 2–9 mm in size and arranged peripherally (the 'string of pearls' sign)."
+    },
+    {
+      "number": 107,
+      "question": " 'Meigs syndrome' is a triad of an ovarian fibroma, ascites, and:",
+      "choices": [
+        "Pneumothorax",
+        "Pleural effusion (usually right-sided)",
+        "Renal failure",
+        "Intestinal obstruction",
+        "Splenomegaly"
+      ],
+      "answer": "B",
+      "detail": "The fluid typically resolves once the benign ovarian fibroma is removed."
+    },
+    {
+      "number": 108,
+      "question": " 'Struma ovarii' is a specialized teratoma composed primarily of:",
+      "choices": [
+        "Bone",
+        "Fat",
+        "Thyroid tissue",
+        "Brain tissue",
+        "Muscle"
+      ],
+      "answer": "C",
+      "detail": "It can even cause clinical hyperthyroidism."
+    },
+    {
+      "number": 109,
+      "question": "Which ovarian lesion has a characteristic 'lacey' or 'cobweb' internal echo pattern on ultrasound?",
+      "choices": [
+        "Simple cyst",
+        "Hemorrhagic cyst",
+        "Dermoid",
+        "Serous cystadenoma",
+        "Fibroma"
+      ],
+      "answer": "B",
+      "detail": "This represents fibrin strands during blood clot retraction."
+    },
+    {
+      "number": 110,
+      "question": "Ovarian 'Serous Cystadenocarcinoma' frequently presents with which finding on CT?",
+      "choices": [
+        "Pure fat attenuation",
+        "Psammomatous calcifications and complex cystic/solid components",
+        "Central stellate scar",
+        "Air within the mass",
+        "Normal-sized ovaries"
+      ],
+      "answer": "B",
+      "detail": "These are the most common type of malignant ovarian tumor."
+    },
+    {
+      "number": 111,
+      "question": "A 'Krukenberg tumor' refers to:",
+      "choices": [
+        "Primary ovarian cancer",
+        "Metastatic disease to the ovary, characteristically from a GI primary (e.g., stomach)",
+        "A benign dermoid",
+        "A functional cyst",
+        "Ectopic pregnancy"
+      ],
+      "answer": "B",
+      "detail": "These are typically bilateral solid masses."
+    },
+    {
+      "number": 112,
+      "question": " 'Ovarian vein thrombosis' is a postpartum complication most commonly involving the:",
+      "choices": [
+        "Left ovarian vein",
+        "Right ovarian vein",
+        "Both veins equally",
+        "Renal vein",
+        "Splenic vein"
+      ],
+      "answer": "B",
+      "detail": "The right vein is longer and more prone to compression during pregnancy/delivery."
+    },
+    {
+      "number": 113,
+      "question": "A 'paraovarian cyst' is distinguished from an ovarian cyst on ultrasound by:",
+      "choices": [
+        "Its larger size",
+        "Demonstrating a 'separate' ovary from the cyst (sliding sign)",
+        "Thick walls",
+        "Solid components",
+        "Calcification"
+      ],
+      "answer": "B",
+      "detail": "These arise from the broad ligament rather than the ovary itself."
+    },
+    {
+      "number": 114,
+      "question": " 'Theca lutein cysts' are large, bilateral multiloculated cysts associated with:",
+      "choices": [
+        "Normal pregnancy",
+        "Gestational trophoblastic disease (molar pregnancy) or fertility drugs",
+        "Menopause",
+        "Ovarian cancer",
+        "Turner syndrome"
+      ],
+      "answer": "B",
+      "detail": "They result from extremely high levels of hCG."
+    },
+    {
+      "number": 115,
+      "question": "A solid ovarian mass that is 'very dark' (hypointense) on T2-weighted MRI is likely a:",
+      "choices": [
+        "Fibroma or Thecoma",
+        "Dermoid",
+        "Serous cystadenoma",
+        "Follicular cyst",
+        "Abscess"
+      ],
+      "answer": "A",
+      "detail": "Dense fibrous tissue has very low signal on T2WI."
+    }
+  ]
+}

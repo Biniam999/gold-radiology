@@ -1,0 +1,238 @@
+{
+  "questions": [
+    {
+      "number": 9,
+      "question": "What is the clinical significance of a \"low insertion of the cystic duct\"?",
+      "choices": [
+        "A. It increases the risk of cholelithiasis",
+        "B. It may lead to inadvertent common duct ligation during cholecystectomy",
+        "C. It is a precursor to cholangiocarcinoma",
+        "D. It causes Caroli disease",
+        "E. It is always associated with a duplicated gallbladder"
+      ],
+      "answer": "B",
+      "detail": "If the duct inserts low, the surgeon may mistake the common duct for the cystic duct, leading to inadvertent ligation."
+    },
+    {
+      "number": 10,
+      "question": "An \"aberrant right posterior duct\" is a critical anatomical variant for which clinical scenario?",
+      "choices": [
+        "A. Routine cholecystectomy",
+        "B. Right hepatic lobe liver donors",
+        "C. Diagnosis of Primary Sclerosing Cholangitis",
+        "D. Treatment of biliary atresia",
+        "E. Biliary stent placement"
+      ],
+      "answer": "B",
+      "detail": "The aberrant duct must be identified because the recipient will require two separate biliary anastomoses."
+    },
+    {
+      "number": 11,
+      "question": "A \"long common channel\" (>15 mm) in pancreaticobiliary maljunction increases the risk of:",
+      "choices": [
+        "A. Portal vein thrombosis",
+        "B. Choledochal cysts and biliary cancer",
+        "C. Simple gallbladder polyps",
+        "D. Hepatic steatosis",
+        "E. Biliary hamartomas"
+      ],
+      "answer": "B",
+      "detail": "The junction occurring outside the duodenal wall allows reflux of pancreatic juices into the biliary tree, promoting inflammation and malignancy."
+    },
+    {
+      "number": 12,
+      "question": " \"Acute calculus cholecystitis\" is most commonly caused by:",
+      "choices": [
+        "A. A viral infection",
+        "B. An obstructing gallstone in the gallbladder neck or cystic duct",
+        "C. Chronic alcohol use",
+        "D. Biliary-to-enteric anastomosis",
+        "E. Ascending infection from the duodenum"
+      ],
+      "answer": "B",
+      "detail": "Mechanical obstruction of the duct by a stone is the primary trigger for acute inflammation."
+    },
+    {
+      "number": 13,
+      "question": "Which of the following is a classic cause of an \"echogenic gallbladder wall\" with posterior acoustic shadowing?",
+      "choices": [
+        "A. Adenomyomatosis",
+        "B. Porcelain gallbladder",
+        "C. Cholelithiasis (packed)",
+        "D. Adjacent bowel",
+        "E. All of the above"
+      ],
+      "answer": "E",
+      "detail": "These entities all create an echogenic interface at the gallbladder wall or fossa that may cast shadows."
+    },
+    {
+      "number": 14,
+      "question": "Adenomyomatosis is characterized on ultrasound by echogenic foci in the gallbladder wall that demonstrate:",
+      "choices": [
+        "A. Dirty shadowing",
+        "B. Comet tail (V-shaped) artifact",
+        "C. Pure fluid attenuation",
+        "D. Internal vascularity",
+        "E. Movement with patient repositioning"
+      ],
+      "answer": "B",
+      "detail": "These are caused by cholesterol crystals trapped in Rokitansky-Aschoff sinuses."
+    },
+    {
+      "number": 15,
+      "question": "How can a gallbladder polyp be distinguished from adherent sludge on ultrasound?",
+      "choices": [
+        "A. Polyps are mobile",
+        "B. Adherent sludge will not have vascular flow",
+        "C. Polyps always shadow",
+        "D. Sludge has a comet tail artifact",
+        "E. They appear identical on all sequences"
+      ],
+      "answer": "B",
+      "detail": "True polyps are vascularized outgrowths, whereas sludge is non-vascular."
+    },
+    {
+      "number": 16,
+      "question": "According to the provided risk factors, which gallbladder polyp is most suspicious for malignancy?",
+      "choices": [
+        "A. A 5 mm pedunculated polyp in a 30-year-old",
+        "B. Multiple small polyps in a patient with hepatitis C",
+        "C. A solitary, sessile polyp >10 mm in a 65-year-old",
+        "D. Mobile echogenic sludge",
+        "E. A polyp with comet-tail artifact"
+      ],
+      "answer": "C",
+      "detail": "Large size (>10mm), sessile morphology, and older age are high-risk features for malignancy."
+    },
+    {
+      "number": 17,
+      "question": "Diffuse gallbladder wall thickening (>3 mm) in a patient with cirrhosis is typically due to:",
+      "choices": [
+        "A. Acute cholecystitis",
+        "B. Hypoalbuminemia and resultant edema",
+        "C. Infiltrative gallbladder carcinoma",
+        "D. Gallbladder polyps",
+        "E. Cholelithiasis"
+      ],
+      "answer": "B",
+      "detail": "Low protein levels lead to fluid-overload/edematous states, causing diffuse thickening."
+    },
+    {
+      "number": 18,
+      "question": "Gallbladder varices are a secondary sign of:",
+      "choices": [
+        "A. Acute cholecystitis",
+        "B. Portal hypertension",
+        "C. Biliary atresia",
+        "D. Adenomyomatosis",
+        "E. Porcelain gallbladder"
+      ],
+      "answer": "B",
+      "detail": "These are collaterals formed to bypass increased portal pressures."
+    },
+    {
+      "number": 19,
+      "question": "Which Todani classification represents \"Caroli disease\"?",
+      "choices": [
+        "A. Type I",
+        "B. Type III",
+        "C. Type IVA",
+        "D. Type V",
+        "E. Type IVB"
+      ],
+      "answer": "D",
+      "detail": "Type V involves only intrahepatic biliary dilation, which is characteristic of Caroli disease."
+    },
+    {
+      "number": 20,
+      "question": "A \"choledochocele\" is classified as which Todani type?",
+      "choices": [
+        "A. Type I",
+        "B. Type II",
+        "C. Type III",
+        "D. Type IV",
+        "E. Type V"
+      ],
+      "answer": "C",
+      "detail": "This is a dilation of the intraduodenal portion of the bile duct."
+    },
+    {
+      "number": 21,
+      "question": "The \"central dot sign\" on CT, representing a tiny portal vein branch bridging a dilated duct, is characteristic of:",
+      "choices": [
+        "A. PSC",
+        "B. Caroli disease",
+        "C. Biliary atresia",
+        "D. Mirizzi syndrome",
+        "E. Cholelithiasis"
+      ],
+      "answer": "B",
+      "detail": "This finding is highly suggestive of the saccular intrahepatic ductal dilation seen in Caroli disease."
+    },
+    {
+      "number": 22,
+      "question": "Pneumobilia (air in the biliary tree) is most commonly seen following:",
+      "choices": [
+        "A. Cholecystectomy",
+        "B. Sphincterotomy or biliary-to-enteric anastomosis",
+        "C. Acute cholecystitis",
+        "D. Cirrhosis",
+        "E. Liver transplant"
+      ],
+      "answer": "B",
+      "detail": "These procedures allow air to enter the biliary system from the bowel."
+    },
+    {
+      "number": 23,
+      "question": "What is the \"rule of thumb\" for the upper limit of normal for a common bile duct (CBD) diameter in a 70-year-old?",
+      "choices": [
+        "A. 6 mm",
+        "B. 7 mm",
+        "C. 8 mm",
+        "D. 10 mm",
+        "E. 4 mm"
+      ],
+      "answer": "B",
+      "detail": "The CBD should be ≤6 mm before age 60, and 1 mm larger per decade thereafter (6mm + 1mm for 70s = 7mm)."
+    },
+    {
+      "number": 24,
+      "question": "Biliary cystadenoma is a benign cystic neoplasm that occurs predominantly in:",
+      "choices": [
+        "A. Neonates",
+        "B. Elderly men",
+        "C. Middle-aged women",
+        "D. Patients with cirrhosis",
+        "E. Heavy drinkers"
+      ],
+      "answer": "C",
+      "detail": "This is a classic demographic for this multiloculated cystic mass."
+    },
+    {
+      "number": 25,
+      "question": "Primary Sclerosing Cholangitis (PSC) is most frequently associated with which other condition?",
+      "choices": [
+        "A. Crohn's disease",
+        "B. Ulcerative Colitis",
+        "C. Hepatitis C",
+        "D. Diabetes mellitus",
+        "E. Chronic pancreatitis"
+      ],
+      "answer": "B",
+      "detail": "Approximately 70-80% of patients with PSC have underlying Inflammatory Bowel Disease, most commonly UC."
+    },
+    {
+      "number": 26,
+      "question": "Which malignancy can spread hematogenously to the gallbladder mucosa?",
+      "choices": [
+        "A. Hepatocellular carcinoma",
+        "B. Melanoma",
+        "C. Colon cancer",
+        "D. Prostate cancer",
+        "E. Renal cell carcinoma"
+      ],
+      "answer": "B",
+      "detail": "Melanoma is one of the few tumors known for hematogenous metastases to the gallbladder mucosa."
+    }
+  ]
+}

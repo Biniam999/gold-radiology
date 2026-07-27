@@ -1,0 +1,160 @@
+{
+  "questions": [
+    {
+      "number": 6,
+      "question": "Which coronary artery provides the posterior descending artery (PDA) in a 'right-dominant' circulation?",
+      "choices": [
+        "Left anterior descending (LAD)",
+        "Left circumflex (LCx)",
+        "Right coronary artery (RCA)",
+        "Ramus intermedius",
+        "Sinoatrial nodal artery"
+      ],
+      "answer": "C",
+      "detail": "Circulation is defined by which artery gives rise to the PDA and the posterolateral branches; this is the RCA in approximately 85% of people."
+    },
+    {
+      "number": 7,
+      "question": "An Agatston score (calcium score) of 101–400 is categorized as:",
+      "choices": [
+        "No evidence of plaque",
+        "Minimal plaque",
+        "Mild plaque",
+        "Moderate plaque",
+        "Extensive plaque"
+      ],
+      "answer": "D",
+      "detail": "Calcium scoring is standardized: 0 (none), 1–10 (minimal), 11–100 (mild), 101–400 (moderate), and >400 (extensive)."
+    },
+    {
+      "number": 8,
+      "question": "Which coronary anomaly is classified as 'malignant' due to its high risk of sudden cardiac death during exercise?",
+      "choices": [
+        "RCA arising from the left sinus with a retroaortic course",
+        "LAD arising from the right sinus with an interarterial course",
+        "High-takeoff coronary artery",
+        "Myocardial bridging",
+        "Circumflex arising from the right sinus with a retroaortic course"
+      ],
+      "answer": "B",
+      "detail": "An interarterial course (between the aorta and pulmonary artery) is 'malignant' because the vessel can be compressed during physical exertion."
+    },
+    {
+      "number": 9,
+      "question": "'ALCAPA' (Bland-White-Garland syndrome) describes which anomalous connection?",
+      "choices": [
+        "Right coronary arising from the pulmonary artery",
+        "Left coronary arising from the pulmonary artery",
+        "Circumflex arising from the right sinus",
+        "Coronary artery to right atrium fistula",
+        "LCA to SVC fistula"
+      ],
+      "answer": "B",
+      "detail": "ALCAPA involves the left coronary artery originating from the pulmonary artery, leading to 'steal' and potential MI in infancy."
+    },
+    {
+      "number": 10,
+      "question": "According to the CAD-RADS classification, a CAD-RADS 3 score represents:",
+      "choices": [
+        "No stenosis",
+        "1–24% stenosis (minimal)",
+        "25–49% stenosis (mild)",
+        "50–69% stenosis (moderate)",
+        "70–99% stenosis (severe)"
+      ],
+      "answer": "D",
+      "detail": "CAD-RADS categorizes stenosis as 0 (0%), 1 (minimal), 2 (mild), 3 (moderate, 50–69%), 4 (severe, 70–99%), and 5 (occluded."
+    },
+    {
+      "number": 11,
+      "question": "Which CT plaque feature is highly associated with 'vulnerable plaque' and a higher risk of acute coronary syndrome?",
+      "choices": [
+        "Laminated calcification",
+        "Positive remodeling and low-attenuation core",
+        "Diffuse heavy calcification",
+        "Napkin-ring sign",
+        "Both B and D"
+      ],
+      "answer": "E",
+      "detail": "High-risk features include positive remodeling, low-attenuation (lipid) core, and the napkin-ring sign (low density core with high density rim)."
+    },
+    {
+      "number": 12,
+      "question": "Myocardial bridging most commonly involves which segment of which coronary artery?",
+      "choices": [
+        "Proximal RCA",
+        "Distal LCx",
+        "Mid-LAD",
+        "Ramus intermedius",
+        "PDA"
+      ],
+      "answer": "C",
+      "detail": "Myocardial bridging occurs when a segment of a coronary artery (usually the mid-LAD) takes an intramyocardial course."
+    },
+    {
+      "number": 13,
+      "question": "A coronary artery fistula is an abnormal connection between a coronary artery and:",
+      "choices": [
+        "A cardiac chamber",
+        "The pulmonary artery",
+        "The superior vena cava",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": "D",
+      "detail": "Coronary fistulas are connections to any low-pressure structure (chambers, PA, SVC) and are seen in 0.1–0.2% of patients."
+    },
+    {
+      "number": 14,
+      "question": "What is the most common benign coronary anomaly?",
+      "choices": [
+        "Retroaortic circumflex from the right sinus",
+        "Retroaortic LAD",
+        "Single coronary artery",
+        "ALCAPA",
+        "Circumflex from the left sinus"
+      ],
+      "answer": "A",
+      "detail": "This is a common benign variant where the LCx arises from the right side and courses behind the aorta."
+    },
+    {
+      "number": 15,
+      "question": "What is the '17-segment' model used for in cardiac imaging?",
+      "choices": [
+        "Describing coronary artery branches",
+        "Standardized nomenclature for the left ventricular myocardium",
+        "Staging cardiac tumors",
+        "Grading pericardial effusions",
+        "Assessing valvular vegetation size"
+      ],
+      "answer": "B",
+      "detail": "The 17-segment model provides a uniform way to report regional wall motion or perfusion abnormalities."
+    },
+    {
+      "number": 16,
+      "question": "'Dual-source' CT is particularly useful in cardiac imaging because it provides:",
+      "choices": [
+        "Higher radiation dose",
+        "Better temporal resolution for high heart rates",
+        "Improved spatial resolution for distal vessels",
+        "Quantification of GFR",
+        "Better bone-subtraction"
+      ],
+      "answer": "B",
+      "detail": "Dual-source CT uses two tubes at 90 degrees to acquire data faster, significantly improving temporal resolution."
+    },
+    {
+      "number": 17,
+      "question": "In coronary CTA, 'prospective' ECG-gating differs from 'retrospective' gating by:",
+      "choices": [
+        "Pulsing the X-ray beam only during a portion of the cardiac cycle (lowering dose)",
+        "Acquiring data throughout the entire cycle",
+        "Requiring high heart rates",
+        "Producing a full cine loop of wall motion",
+        "Being incompatible with contrast"
+      ],
+      "answer": "A",
+      "detail": "Prospective gating (step-and-shoot) significantly reduces radiation but does not allow for functional/cine evaluation."
+    }
+  ]
+}

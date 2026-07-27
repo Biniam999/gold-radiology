@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "number": 42,
+      "question": "Which of the following sonographic features is considered the MOST suspicious for malignancy?",
+      "choices": [
+        "Wider-than-tall orientation",
+        "Taller-than-wide orientation",
+        "Intense posterior acoustic enhancement",
+        "Smooth, thin pseudo-capsule",
+        "Uniform hyperechoic echo pattern"
+      ],
+      "answer": "B",
+      "detail": "Malignant tumors often grow across tissue planes rather than parallel to them, leading to a taller-than-wide configuration."
+    },
+    {
+      "number": 43,
+      "question": "A 'wider-than-tall' orientation on ultrasound is characteristic of which type of lesion?",
+      "choices": [
+        "Invasive ductal carcinoma",
+        "Benign fibroadenoma",
+        "Inflammatory carcinoma",
+        "High-grade DCIS",
+        "Metastatic lymph node"
+      ],
+      "answer": "B",
+      "detail": "Benign lesions typically grow along the natural tissue planes of the breast."
+    },
+    {
+      "number": 44,
+      "question": "Posterior acoustic 'shadowing' on ultrasound is a common feature of:",
+      "choices": [
+        "Simple cysts",
+        "Highly cellular malignancies (e.g., medullary)",
+        "Fibrotic malignancies and some benign lesions like radial scars",
+        "Galactoceles",
+        "Fat necrosis (early stage)"
+      ],
+      "answer": "C",
+      "detail": "Dense fibrous tissue or high-grade cancers can attenuate the ultrasound beam, creating a shadow."
+    },
+    {
+      "number": 45,
+      "question": "Which echo pattern is most classic for a 'Simple Cyst' on breast ultrasound?",
+      "choices": [
+        "Hyperechoic",
+        "Anechoic",
+        "Isoechoic",
+        "Heterogeneous",
+        "Complex cystic and solid"
+      ],
+      "answer": "B",
+      "detail": "Simple cysts are fluid-filled and should be completely devoid of internal echoes."
+    },
+    {
+      "number": 46,
+      "question": "To be classified as a 'Simple Cyst' (BI-RADS 2), a lesion must demonstrate anechoic contents, a thin wall, and:",
+      "choices": [
+        "Posterior acoustic shadowing",
+        "Intense posterior acoustic enhancement",
+        "Internal septations > 2 mm",
+        "Peripheral vascularity",
+        "Microcalcifications"
+      ],
+      "answer": "B",
+      "detail": "The lack of attenuation through the fluid results in increased signal brightness behind the cyst."
+    },
+    {
+      "number": 47,
+      "question": "A 'Clustered Microcysts' finding (multiple tiny cysts < 3 mm separated by thin septa) is typically categorized as:",
+      "choices": [
+        "BI-RADS 1",
+        "BI-RADS 2 (or 3 depending on stability)",
+        "BI-RADS 3",
+        "BI-RADS 4",
+        "BI-RADS 5"
+      ],
+      "answer": "B",
+      "detail": "While often assigned BI-RADS 2 as benign, some lexicons allow BI-RADS 3 for a baseline finding of clustered microcysts."
+    },
+    {
+      "number": 48,
+      "question": "Which sonographic finding is considered a 'Minor' suspicious feature that might prompt a BI-RADS 4 assessment?",
+      "choices": [
+        "Spiculated margins",
+        "Angular margins",
+        "Indistinct margins",
+        "Microlobulated margins",
+        "All of the above"
+      ],
+      "answer": "E",
+      "detail": "Non-circumscribed margins of any type on ultrasound are suspicious for malignancy."
+    },
+    {
+      "number": 49,
+      "question": "An 'Echogenic Halo' (a hyperechoic rim surrounding a hypoechoic mass) is an ultrasound sign of:",
+      "choices": [
+        "Simple cyst",
+        "Malignant infiltration of the surrounding fat",
+        "Benign hamartoma",
+        "Normal Cooper's ligaments",
+        "Intramammary lymph node"
+      ],
+      "answer": "B",
+      "detail": "This halo represents the desmoplastic reaction or tumor infiltration into the surrounding tissue."
+    },
+    {
+      "number": 50,
+      "question": "How does a 'Complicated Cyst' differ from a 'Complex Cyst' on ultrasound?",
+      "choices": [
+        "Complicated cysts have solid components",
+        "Complicated cysts contain low-level internal echoes (debris) but no solid parts",
+        "Complex cysts are always anechoic",
+        "There is no difference",
+        "Complicated cysts are BI-RADS 5"
+      ],
+      "answer": "B",
+      "detail": "Complicated cysts contain proteinaceous debris or crystals, whereas 'Complex' masses have both cystic and solid components (BI-RADS 4)."
+    },
+    {
+      "number": 51,
+      "question": "Ultrasound-guided biopsy is the preferred method for tissue sampling when a lesion is:",
+      "choices": [
+        "Seen only on MRI",
+        "Seen only on one mammographic view",
+        "Clearly visualized on ultrasound",
+        "A large area of architectural distortion without a mass",
+        "A cluster of 2 mm calcifications"
+      ],
+      "answer": "C",
+      "detail": "Ultrasound provides real-time visualization, making it the most efficient and comfortable biopsy method for visible masses."
+    }
+  ]
+}

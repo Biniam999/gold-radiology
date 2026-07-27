@@ -1,0 +1,82 @@
+{
+  "questions": [
+    {
+      "number": 99,
+      "question": "What is the most common cause of a palpable breast mass in a male?",
+      "choices": [
+        "Male breast cancer",
+        "Gynecomastia",
+        "Lipoma",
+        "Metastatic prostate cancer",
+        "Abscess"
+      ],
+      "answer": "B",
+      "detail": "Gynecomastia is a benign proliferation of the male ductal tissue."
+    },
+    {
+      "number": 100,
+      "question": "\"Nodular\" gynecomastia is the most common pattern and is characteristically located:",
+      "choices": [
+        "In the axillary tail",
+        "Subareolar and concentric",
+        "Along the chest wall only",
+        "In the upper outer quadrant",
+        "In the skin"
+      ],
+      "answer": "B",
+      "detail": "It appears as a \"button\" of tissue directly behind the nipple."
+    },
+    {
+      "number": 101,
+      "question": "Which pattern of gynecomastia resembles \"female-type\" breast tissue and is often seen in long-standing cases?",
+      "choices": [
+        "Nodular",
+        "Dendritic",
+        "Diffuse Glandular",
+        "Spiculated",
+        "Calcified"
+      ],
+      "answer": "C",
+      "detail": "This occurs when the entire breast becomes dense with fibroglandular tissue."
+    },
+    {
+      "number": 102,
+      "question": "Male breast cancer accounts for approximately what percentage of all breast cancers?",
+      "choices": [
+        "< 1%",
+        "10%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "answer": "A",
+      "detail": "It is rare but should be suspected if a mass is eccentric to the nipple or spiculated."
+    },
+    {
+      "number": 103,
+      "question": "Which genetic mutation is most strongly associated with an increased risk of male breast cancer?",
+      "choices": [
+        "BRCA1",
+        "BRCA2",
+        "HER2",
+        "Gail mutation",
+        "Bosniak mutation"
+      ],
+      "answer": "B",
+      "detail": "Men with BRCA2 mutations have a significantly higher lifetime risk of breast cancer compared to the general male population."
+    },
+    {
+      "number": 104,
+      "question": "Radiographically, male breast cancer is often distinguished from gynecomastia because it is:",
+      "choices": [
+        "Symmetrical and subareolar",
+        "Eccentric to the nipple and often spiculated",
+        "Always anechoic",
+        "Radiopaque only",
+        "Found only in infants"
+      ],
+      "answer": "B",
+      "detail": "Cancer typically does not follow the concentric subareolar distribution of gynecomastia."
+    }
+  ]
+}

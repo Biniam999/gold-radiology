@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "number": 82,
+      "question": "\"Sclerosing Adenosis\" is a component of fibrocystic change that can mimic cancer because it often presents with:",
+      "choices": [
+        "Nipple discharge",
+        "Clusters of amorphous or pleomorphic calcifications",
+        "Skin ulceration",
+        "Large oil cysts",
+        "Type III enhancement only"
+      ],
+      "answer": "B",
+      "detail": "This benign proliferative condition is a common cause of false-positive biopsies for calcifications."
+    },
+    {
+      "number": 83,
+      "question": "\"Acute Mastitis\" is most common in which population?",
+      "choices": [
+        "Post-menopausal women",
+        "Lactating women (Puerperal mastitis)",
+        "Male infants",
+        "Teenage boys",
+        "All of the above"
+      ],
+      "answer": "B",
+      "detail": "Bacteria enter through nipple cracks during breastfeeding."
+    },
+    {
+      "number": 84,
+      "question": "A breast \"Abscess\" is best diagnosed and followed using which modality?",
+      "choices": [
+        "Mammography",
+        "Ultrasound",
+        "MRI",
+        "PET/CT",
+        "Bone scan"
+      ],
+      "answer": "B",
+      "detail": "Ultrasound identifies the fluid collection and can guide therapeutic drainage."
+    },
+    {
+      "number": 85,
+      "question": "\"Fibrocystic Changes\" (FCC) is a broad term. Which of the following is NOT a typical feature of FCC?",
+      "choices": [
+        "Multiple simple cysts",
+        "Stromal fibrosis",
+        "Spiculated malignant mass",
+        "Columnar cell changes",
+        "Apocrine metaplasia"
+      ],
+      "answer": "C",
+      "detail": "FCC is a benign process; spiculated masses are suspicious for cancer."
+    },
+    {
+      "number": 86,
+      "question": "\"Plasma Cell Mastitis\" (Secretory disease) is characterized by which pathognomonic finding?",
+      "choices": [
+        "Abscess formation",
+        "Large, cigar-shaped, \"ductal\" calcifications",
+        "Rapidly growing masses",
+        "Nipple discharge in men",
+        "Intense T2 signal"
+      ],
+      "answer": "B",
+      "detail": "These are benign BI-RADS 2 findings seen in older women."
+    }
+  ]
+}

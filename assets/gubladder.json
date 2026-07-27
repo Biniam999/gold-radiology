@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "number": 41,
+      "question": "Which type of bladder rupture is associated with pelvic fractures and is typically managed conservatively with a catheter?",
+      "choices": [
+        "Intraperitoneal rupture",
+        "Extraperitoneal rupture",
+        "Combined rupture",
+        "Spontaneous rupture",
+        "Rupture into the rectum"
+      ],
+      "answer": "B",
+      "detail": "Extraperitoneal rupture is the most common type and results from bony fragments or shear forces; unlike intraperitoneal rupture, it usually does not require surgery."
+    },
+    {
+      "number": 42,
+      "question": "Contrast material seen outlining the loops of small bowel on a CT cystogram is diagnostic of:",
+      "choices": [
+        "Extraperitoneal bladder rupture",
+        "Intraperitoneal bladder rupture",
+        "Bladder diverticulum",
+        "Vesicocolic fistula",
+        "Normal finding"
+      ],
+      "answer": "B",
+      "detail": "This indicates that the bladder wall has torn at the dome, allowing contrast to spill into the peritoneal cavity."
+    },
+    {
+      "number": 43,
+      "question": "A 'Urachal cyst' is a remnant of the allantois that is located:",
+      "choices": [
+        "At the bladder base",
+        "Between the bladder dome and the umbilicus",
+        "Within the prostate",
+        "In the scrotum",
+        "Posterior to the rectum"
+      ],
+      "answer": "B",
+      "detail": "Urachal remnants are midline structures found along the path of the median umbilical ligament."
+    },
+    {
+      "number": 44,
+      "question": "Which malignancy is most likely to arise from a persistent urachal remnant?",
+      "choices": [
+        "Transitional cell carcinoma",
+        "Squamous cell carcinoma",
+        "Adenocarcinoma",
+        "Small cell carcinoma",
+        "Sarcoma"
+      ],
+      "answer": "C",
+      "detail": "Unlike most bladder cancers which are TCC, urachal cancers are typically adenocarcinomas."
+    },
+    {
+      "number": 45,
+      "question": "'Schistosomiasis' of the bladder classically causes which imaging finding?",
+      "choices": [
+        "Massive bladder stones",
+        "Circumferential bladder wall calcification",
+        "A solitary large mass at the dome",
+        "Ureteral duplication",
+        "Bladder exstrophy"
+      ],
+      "answer": "B",
+      "detail": "Chronic infection by S. haematobium leads to egg deposition and intense calcification of the bladder wall."
+    }
+  ]
+}

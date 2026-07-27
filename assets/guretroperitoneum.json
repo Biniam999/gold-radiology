@@ -1,0 +1,56 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Which retroperitoneal compartment contains the pancreas, the duodenal loop, and the ascending/descending colon?",
+      "choices": [
+        "A. Perirenal space",
+        "B. Anterior pararenal space",
+        "C. Posterior pararenal space",
+        "D. Perivesical space",
+        "E. Prevesical space"
+      ],
+      "answer": "B",
+      "detail": "The anterior pararenal space is bounded by the posterior parietal peritoneum and the anterior renal (Gerota’s) fascia."
+    },
+    {
+      "number": 2,
+      "question": "The \"Perirenal space\" is uniquely characterized by containing which of the following structures?",
+      "choices": [
+        "A. The adrenal glands and kidneys",
+        "B. The psoas muscles",
+        "C. The pancreas",
+        "D. The ureters only",
+        "E. Lymph nodes only"
+      ],
+      "answer": "A",
+      "detail": "This space is enclosed by the anterior (Gerota’s) and posterior (Zuckerkandl’s) renal fasciae."
+    },
+    {
+      "number": 3,
+      "question": "In the setting of retroperitoneal fluid or masses, which finding helps localize pathology to the \"Posterior pararenal space\"?",
+      "choices": [
+        "A. Anterior displacement of the kidneys",
+        "B. Preservation of the psoas muscle margin",
+        "C. Absence of major organs within the space",
+        "D. Displacement of the pancreas",
+        "E. Communication with the mediastinum"
+      ],
+      "answer": "C",
+      "detail": "The posterior pararenal space contains only fat and some blood vessels; identifying fluid here that does not displace the kidney anteriorly helps localize the lesion."
+    },
+    {
+      "number": 4,
+      "question": "Lateral displacement of the ureters on an IVP or CT is most characteristic of:",
+      "choices": [
+        "A. Retroperitoneal fibrosis",
+        "B. Lymphadenopathy (Para-aortic)",
+        "C. Horseshoe kidney",
+        "D. Pelvic lipomatosis",
+        "E. Bladder exstrophy"
+      ],
+      "answer": "B",
+      "detail": "Bulky retroperitoneal nodes typically displace the ureters laterally, whereas retroperitoneal fibrosis tends to pull them medially."
+    }
+  ]
+}

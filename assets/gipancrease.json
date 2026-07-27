@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "number": 27,
+      "question": "In 'pancreas divisum,' the majority of the pancreatic parenchyma drains through which duct?",
+      "choices": [
+        "A. Duct of Wirsung into the major papilla",
+        "B. Duct of Santorini into the minor papilla",
+        "C. Common bile duct",
+        "D. Cystic duct",
+        "E. Accessory duct into the stomach"
+      ],
+      "answer": "B",
+      "detail": "Divisum is the failure of the dorsal and ventral buds to fuse, meaning the larger dorsal duct (Santorini) handles most of the drainage."
+    },
+    {
+      "number": 28,
+      "question": "Annular pancreas in a neonate typically presents with:",
+      "choices": [
+        "A. Projectile non-bilious vomiting",
+        "B. Duodenal obstruction and a 'double bubble' sign",
+        "C. Massive ascites",
+        "D. Rectal bleeding",
+        "E. Jaundice"
+      ],
+      "answer": "B",
+      "detail": "The ring of tissue constricts the second portion of the duodenum, causing a proximal obstruction."
+    },
+    {
+      "number": 29,
+      "question": "Which finding is pathognomonic for 'chronic pancreatitis'?",
+      "choices": [
+        "A. Diffuse fatty infiltration",
+        "B. Calcifications in the distribution of the pancreatic duct",
+        "C. A solitary 2 cm cyst in the tail",
+        "D. 'Double duct' sign",
+        "E. Enlargement of the pancreatic head"
+      ],
+      "answer": "B",
+      "detail": "Chronic ductal stones and calcification are specific hallmarks of chronic inflammation."
+    },
+    {
+      "number": 30,
+      "question": "'Groove pancreatitis' occurs in the anatomical groove between the head of the pancreas and which two structures?",
+      "choices": [
+        "A. Stomach and Spleen",
+        "B. Duodenum and Common Bile Duct",
+        "C. Liver and Gallbladder",
+        "D. SMA and SMV",
+        "E. Aorta and IVC"
+      ],
+      "answer": "B",
+      "detail": "This focal form of pancreatitis mimics a head mass and involves this specific groove."
+    },
+    {
+      "number": 31,
+      "question": "The histopathologic hallmark of groove pancreatitis is:",
+      "choices": [
+        "A. Necrosis",
+        "B. Fibrosis in the pancreatoduodenal groove",
+        "C. Fat-containing adenoma",
+        "D. High FDG avidity",
+        "E. Serous microcysts"
+      ],
+      "answer": "B",
+      "detail": "Chronic inflammation leads to dense fibrosis in this region."
+    },
+    {
+      "number": 32,
+      "question": "When evaluating a pancreatic neoplasm for resectability, which vessel's involvement is critical to assess?",
+      "choices": [
+        "A. Superior mesenteric artery (SMA)",
+        "B. Portal vein",
+        "C. Celiac axis",
+        "D. Common hepatic artery",
+        "E. All of the above"
+      ],
+      "answer": "E",
+      "detail": "Tumor contact or encasement of these major peripancreatic vessels determines if a surgical cure is possible."
+    },
+    {
+      "number": 33,
+      "question": "What percentage of pancreatic adenocarcinomas may be isoattenuating on portal venous phase CT?",
+      "choices": [
+        "A. < 1%",
+        "B. ~10%",
+        "C. ~50%",
+        "D. > 90%",
+        "E. Exactly 25%"
+      ],
+      "answer": "B",
+      "detail": "A small percentage of tumors lack enough contrast difference from the normal gland to be easily seen."
+    },
+    {
+      "number": 34,
+      "question": "Which of the following is considered a 'hypervascular' pancreatic lesion?",
+      "choices": [
+        "A. Adenocarcinoma",
+        "B. Neuroendocrine tumor",
+        "C. Intraductal Papillary Mucinous Neoplasm (IPMN)",
+        "D. Pancreatic pseudocyst",
+        "E. Serous cystadenoma"
+      ],
+      "answer": "B",
+      "detail": "Most primary pancreatic malignancies are hypovascular, but neuroendocrine tumors (NETs) enhance avidly."
+    },
+    {
+      "number": 35,
+      "question": "An 'intrapancreatic accessory spleen' is a mimic of which pancreatic lesion?",
+      "choices": [
+        "A. Pseudocyst",
+        "B. Neuroendocrine tumor",
+        "C. Lipoma",
+        "D. Atrophy",
+        "E. Serous cystadenoma"
+      ],
+      "answer": "B",
+      "detail": "Both can appear as hypervascular, well-circumscribed masses in the pancreatic tail."
+    },
+    {
+      "number": 36,
+      "question": "'Fatty infiltration' of the pancreas can be caused by:",
+      "choices": [
+        "A. Cystic fibrosis",
+        "B. Obesity",
+        "C. Exogenous steroids",
+        "D. Schwachman-Diamond syndrome",
+        "E. All of the above"
+      ],
+      "answer": "E",
+      "detail": "Multiple conditions lead to the replacement of pancreatic parenchyma with fat."
+    },
+    {
+      "number": 37,
+      "question": "Which pancreatic condition is associated with 'IgG4-mediated' autoimmune disease?",
+      "choices": [
+        "A. Chronic alcoholic pancreatitis",
+        "B. Autoimmune pancreatitis",
+        "C. Pancreatic divisum",
+        "D. Annular pancreas",
+        "E. Insulinoma"
+      ],
+      "answer": "B",
+      "detail": "Autoimmune pancreatitis (AIP) is part of the IgG4-related systemic sclerosing diseases."
+    },
+    {
+      "number": 38,
+      "question": "Pancreatic 'atrophy' is a normal finding in which population?",
+      "choices": [
+        "A. Neonates",
+        "B. Pregnant women",
+        "C. Elderly patients",
+        "D. Patients with insulinomas",
+        "E. Small children"
+      ],
+      "answer": "C",
+      "detail": "Age-related volume loss is common and should be distinguished from pathologic atrophy."
+    },
+    {
+      "number": 39,
+      "question": "A 'pseudoaneurysm' in the pancreas is most often a complication of:",
+      "choices": [
+        "A. Biliary atresia",
+        "B. Pancreatitis",
+        "C. Diabetes",
+        "D. Bariatric surgery",
+        "E. Cystic fibrosis"
+      ],
+      "answer": "B",
+      "detail": "Inflammatory enzymes can erode adjacent arterial walls, leading to pseudoaneurysm formation."
+    },
+    {
+      "number": 40,
+      "question": "Main-duct IPMN is distinguished from side-branch IPMN by its:",
+      "choices": [
+        "A. Lower risk of malignancy",
+        "B. Higher risk of malignancy",
+        "C. Lack of communication with the main duct",
+        "D. Location in the uncinate process only",
+        "E. Solid components only"
+      ],
+      "answer": "B",
+      "detail": "Main-duct involvement is a high-risk feature for transformation to adenocarcinoma."
+    },
+    {
+      "number": 41,
+      "question": "The 'Double Duct Sign' refers to the simultaneous dilation of the:",
+      "choices": [
+        "A. Common bile duct and cystic duct",
+        "B. Common bile duct and pancreatic duct",
+        "C. Right and left hepatic ducts",
+        "D. Wirsung and Santorini ducts",
+        "E. Portal vein and Hepatic artery"
+      ],
+      "answer": "B",
+      "detail": "This typically indicates an obstructing mass in the pancreatic head or ampulla."
+    }
+  ]
+}

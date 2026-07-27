@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "number": 86,
+      "question": "In the assessment of adenomyosis on MRI, a \"Junctional Zone\" thickness of what threshold is considered diagnostic?",
+      "choices": [
+        "> 5 mm",
+        "> 8 mm",
+        "> 12 mm",
+        "< 12 mm",
+        "Exactly 10 mm"
+      ],
+      "answer": "C",
+      "detail": "Thickening of the low-signal junctional zone on T2WI is the hallmark of adenomyosis."
+    },
+    {
+      "number": 87,
+      "question": "Which type of uterine fibroid (leiomyoma) is most likely to cause heavy menstrual bleeding (menorrhagia)?",
+      "choices": [
+        "Subserosal",
+        "Intramural",
+        "Submucosal",
+        "Pedunculated",
+        "Parasitic"
+      ],
+      "answer": "C",
+      "detail": "These involve the endometrial cavity and disrupt the normal lining."
+    },
+    {
+      "number": 88,
+      "question": "\"Red degeneration\" of a fibroid, common during pregnancy, characteristically appears on MRI as:",
+      "choices": [
+        "High T2 signal",
+        "High T1 signal rim with variable T2 signal and NO enhancement",
+        "Intense enhancement",
+        "Low signal on all sequences",
+        "Multiple small cysts"
+      ],
+      "answer": "B",
+      "detail": "This represents hemorrhagic infarction of the fibroid."
+    },
+    {
+      "number": 89,
+      "question": "After a first-trimester miscarriage, ultrasound shows a thickened endometrium with \"intense internal Doppler flow.\" This is highly suggestive of:",
+      "choices": [
+        "Endometrial cancer",
+        "Retained products of conception (RPOC)",
+        "Normal menstruation",
+        "Adenomyosis",
+        "Endometrial polyp"
+      ],
+      "answer": "B",
+      "detail": "The presence of blood flow helps distinguish RPOC from simple blood clots."
+    },
+    {
+      "number": 90,
+      "question": "Uterine \"arteriovenous malformations\" (AVMs) are a rare cause of life-threatening bleeding. What is the classic Doppler appearance?",
+      "choices": [
+        "No flow",
+        "High-velocity, low-resistance \"tangled\" vessels",
+        "Monophasic venous flow only",
+        "Reversal of flow",
+        "Normal arterial flow"
+      ],
+      "answer": "B",
+      "detail": "AVMs show intense hypervascularity and \"aliasing\" on Doppler."
+    },
+    {
+      "number": 91,
+      "question": "\"Endometrial carcinoma\" staging is primarily based on the depth of:",
+      "choices": [
+        "Cervical invasion",
+        "Myometrial invasion",
+        "Ovarian involvement",
+        "Lymph node size",
+        "Bladder wall thickness"
+      ],
+      "answer": "B",
+      "detail": "Staging (Stage IA vs IB) depends on if the tumor invades <50% or >50% of the myometrium."
+    },
+    {
+      "number": 92,
+      "question": "Which MRI sequence is most important for staging endometrial and cervical cancer?",
+      "choices": [
+        "T1-weighted imaging",
+        "T2-weighted imaging",
+        "DWI",
+        "SWI",
+        "In-phase GRE"
+      ],
+      "answer": "B",
+      "detail": "T2WI provides the best contrast between the tumor, the junctional zone, and the outer myometrium."
+    },
+    {
+      "number": 93,
+      "question": "A \"T-shaped\" uterus is a classic Mullerian anomaly associated with in-utero exposure to:",
+      "choices": [
+        "Thalidomide",
+        "Diethylstilbestrol (DES)",
+        "Alcohol",
+        "Tobacco",
+        "Isotretinoin"
+      ],
+      "answer": "B",
+      "detail": "DES exposure in the 1940s–70s led to various uterine and vaginal abnormalities."
+    },
+    {
+      "number": 94,
+      "question": "\"Septate\" uterus is distinguished from \"bicornuate\" uterus by which feature?",
+      "choices": [
+        "Presence of two cervices",
+        "A normal, flat, or convex fundal contour",
+        "A deep fundal cleft (>1 cm)",
+        "Presence of two ovaries",
+        "No difference"
+      ],
+      "answer": "B",
+      "detail": "A septate uterus has a normal external shape, while a bicornuate uterus has a heart-shaped external contour."
+    },
+    {
+      "number": 95,
+      "question": "Why is it clinically important to distinguish a \"septate\" uterus from other anomalies?",
+      "choices": [
+        "It cannot be treated",
+        "It is the only anomaly treated with simple hysteroscopic septal resection",
+        "it is always associated with renal agenesis",
+        "It has the lowest risk of miscarriage",
+        "It is associated with twins"
+      ],
+      "answer": "B",
+      "detail": "The septum is fibrous and can be removed to improve fertility outcomes."
+    },
+    {
+      "number": 96,
+      "question": "\"Asherman syndrome\" involves the formation of intrauterine adhesions (synechiae), typically following:",
+      "choices": [
+        "Multiple pregnancies",
+        "Vigorous D&C or infection",
+        "Fibroid surgery",
+        "Endometrial cancer",
+        "Menopause"
+      ],
+      "answer": "B",
+      "detail": "Scarring leads to secondary amenorrhea and infertility."
+    },
+    {
+      "number": 97,
+      "question": "\"Nabothian cysts\" are benign, common findings located in the:",
+      "choices": [
+        "Uterine fundus",
+        "Cervix",
+        "Ovary",
+        "Fallopian tube",
+        "Labia"
+      ],
+      "answer": "B",
+      "detail": "These are blocked mucus-secreting glands of the cervix."
+    },
+    {
+      "number": 98,
+      "question": "An \"endometrial polyp\" is best distinguished from a fibroid on ultrasound by its:",
+      "choices": [
+        "Large size",
+        "Feeding vessel (pedicle) on Doppler",
+        "Posterior shadowing",
+        "Location in the myometrium",
+        "Lack of enhancement"
+      ],
+      "answer": "B",
+      "detail": "Identifying a single nutrient artery is a helpful clue for a polyp."
+    },
+    {
+      "number": 99,
+      "question": "\"Uterine artery embolization\" (UAE) is a common interventional procedure used to treat:",
+      "choices": [
+        "Uterine cancer",
+        "Symptomatic fibroids",
+        "Endometritis",
+        "Ovarian cysts",
+        "Nabothian cysts"
+      ],
+      "answer": "B",
+      "detail": "Embolizing the blood supply causes the fibroids to shrink and symptoms to resolve."
+    },
+    {
+      "number": 100,
+      "question": "\"Pyometra\" is the accumulation of pus within the uterine cavity, often secondary to:",
+      "choices": [
+        "Cervical stenosis (e.g., from cancer or radiation)",
+        "Multiple births",
+        "Simple cysts",
+        "Retroverted uterus",
+        "Normal variants"
+      ],
+      "answer": "A",
+      "detail": "Anything that obstructs the cervical canal can lead to fluid or pus collection in the uterus."
+    }
+  ]
+}

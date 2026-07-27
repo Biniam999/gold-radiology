@@ -1,0 +1,160 @@
+{
+  "questions": [
+    {
+      "number": 51,
+      "question": "According to the PI-RADS v2.1 system, which MRI sequence is the primary 'dominant' sequence for evaluating the Peripheral Zone (PZ)?",
+      "choices": [
+        "T2-weighted imaging (T2WI)",
+        "Diffusion-weighted imaging (DWI/ADC)",
+        "Dynamic contrast enhancement (DCE)",
+        "Proton Density",
+        "T1-weighted imaging"
+      ],
+      "answer": "B",
+      "detail": "For the PZ, the DWI score determines the overall PI-RADS score."
+    },
+    {
+      "number": 52,
+      "question": "For the 'Transition Zone' (TZ), which sequence is considered the dominant or primary sequence?",
+      "choices": [
+        "DWI/ADC",
+        "T2-weighted imaging (T2WI)",
+        "DCE",
+        "SWI",
+        "MR Spectroscopy"
+      ],
+      "answer": "B",
+      "detail": "In the TZ, the morphological features on T2WI are the primary driver of the score."
+    },
+    {
+      "number": 53,
+      "question": "A PI-RADS 4 score indicates that clinically significant cancer is:",
+      "choices": [
+        "Highly unlikely",
+        "Unlikely",
+        "Equivocal",
+        "Likely",
+        "Highly likely"
+      ],
+      "answer": "D",
+      "detail": "PI-RADS 4 has a 21–86% likelihood of significant cancer."
+    },
+    {
+      "number": 54,
+      "question": "A 'circumscribed, homogeneous, hypointense' lesion in the Peripheral Zone measuring <1.5 cm that shows restricted diffusion is classified as:",
+      "choices": [
+        "PI-RADS 1",
+        "PI-RADS 2",
+        "PI-RADS 3",
+        "PI-RADS 4",
+        "PI-RADS 5"
+      ],
+      "answer": "D",
+      "detail": "Focal restricted diffusion meeting specific morphology and size (<1.5 cm) criteria is PI-RADS 4."
+    },
+    {
+      "number": 55,
+      "question": "What size threshold distinguishes PI-RADS 4 from PI-RADS 5 in the prostate?",
+      "choices": [
+        "0.5 cm",
+        "1.0 cm",
+        "1.5 cm",
+        "2.0 cm",
+        "3.0 cm"
+      ],
+      "answer": "C",
+      "detail": "A suspicious lesion ≥1.5 cm (or showing extraprostatic extension) is upgraded to PI-RADS 5."
+    },
+    {
+      "number": 56,
+      "question": " 'Dynamic Contrast Enhancement' (DCE) is primarily used in PI-RADS to:",
+      "choices": [
+        "Diagnose cancer in the Transition Zone",
+        "Upgrade a PI-RADS 3 lesion to PI-RADS 4 in the Peripheral Zone",
+        "Rule out BPH",
+        "Measure prostate volume",
+        "Identify the prostatic utricle"
+      ],
+      "answer": "B",
+      "detail": "If a PZ lesion is equivocal (score 3) on DWI, positive focal enhancement on DCE can upgrade it to a score 4."
+    },
+    {
+      "number": 57,
+      "question": "A 'wedge-shaped' area of low T2 signal and mild restricted diffusion in the peripheral zone is most characteristic of:",
+      "choices": [
+        "Adenocarcinoma",
+        "Prostatitis",
+        "Post-biopsy hemorrhage",
+        "BPH nodule",
+        "Prostatic infarct"
+      ],
+      "answer": "B",
+      "detail": "Inflammatory changes typically follow a linear or wedge-shaped distribution rather than forming a discrete mass."
+    },
+    {
+      "number": 58,
+      "question": "Which zone of the prostate is the most common site for the development of BPH?",
+      "choices": [
+        "Peripheral Zone",
+        "Transition Zone",
+        "Central Zone",
+        "Anterior Fibromuscular Stroma",
+        "Verumontanum"
+      ],
+      "answer": "B",
+      "detail": "BPH results in the characteristic 'organized chaos' of nodules within the TZ."
+    },
+    {
+      "number": 59,
+      "question": "Approximately 70–80% of prostate cancers originate in which zone?",
+      "choices": [
+        "Transition Zone",
+        "Central Zone",
+        "Peripheral Zone",
+        "Prostatic Utricle",
+        "Seminal Vesicles"
+      ],
+      "answer": "C",
+      "detail": "The PZ is the most frequent site for malignancy, which is why DWI (the PZ dominant sequence) is so critical."
+    },
+    {
+      "number": 60,
+      "question": "PI-RADS scoring is based strictly on MRI findings and does NOT include which of the following clinical factors?",
+      "choices": [
+        "PSA levels",
+        "Digital rectal exam results",
+        "Patient age",
+        "Family history",
+        "All of the above"
+      ],
+      "answer": "E",
+      "detail": "The score is a standardized assessment of MRI imaging only."
+    },
+    {
+      "number": 61,
+      "question": "High T1-weighted signal within the prostate gland most likely represents:",
+      "choices": [
+        "Prostate cancer",
+        "BPH",
+        "Post-biopsy hemorrhage",
+        "Calcification",
+        "Abscess"
+      ],
+      "answer": "C",
+      "detail": "Hemorrhage is T1-bright and can interfere with the interpretation of other sequences; MRI is ideally performed at least 6 weeks post-biopsy."
+    },
+    {
+      "number": 62,
+      "question": "A PI-RADS score of 1 indicates that the likelihood of clinically significant cancer is:",
+      "choices": [
+        "0%",
+        "10%",
+        "16–20%",
+        "93%",
+        "100%"
+      ],
+      "answer": "A",
+      "detail": "PI-RADS 1 is a normal-appearing gland."
+    }
+  ]
+}

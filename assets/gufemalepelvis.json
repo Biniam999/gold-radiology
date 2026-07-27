@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "number": 81,
+      "question": "The \"Pouch of Douglas\" is also known as the:",
+      "choices": [
+        "Vesicouterine pouch",
+        "Rectouterine pouch",
+        "Space of Retzius",
+        "Pararenal space",
+        "Fossa of Landzert"
+      ],
+      "answer": "B",
+      "detail": "This is the most dependent portion of the peritoneal cavity where fluid or blood first accumulates."
+    },
+    {
+      "number": 82,
+      "question": "The \"Space of Retzius\" is located:",
+      "choices": [
+        "Behind the uterus",
+        "Between the pubic symphysis and the bladder",
+        "Inside the ovary",
+        "In the kidney",
+        "Above the diaphragm"
+      ],
+      "answer": "B",
+      "detail": "This is a pre-peritoneal space often containing fat or hematomas following surgery."
+    },
+    {
+      "number": 83,
+      "question": "On ultrasound, a \"full bladder\" is required for which type of pelvic exam?",
+      "choices": [
+        "Transvaginal",
+        "Transabdominal",
+        "Endorectal",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": "B",
+      "detail": "The bladder serves as an acoustic window to see the deeper pelvic organs."
+    },
+    {
+      "number": 84,
+      "question": "Which of the following is an advantage of \"Transvaginal\" ultrasound?",
+      "choices": [
+        "Larger field of view",
+        "Better penetration of large masses",
+        "Higher spatial resolution of the uterus and ovaries",
+        "Lower frequency transducers",
+        "Better visualization of the upper abdomen"
+      ],
+      "answer": "C",
+      "detail": "The proximity to the organs allows the use of higher-frequency probes."
+    },
+    {
+      "number": 85,
+      "question": "\"Pelvic inflammatory disease\" (PID) frequently presents with which imaging sign on ultrasound?",
+      "choices": [
+        "Normal ovaries",
+        "Hyperemic, thickened fallopian tubes (tubo-ovarian complex)",
+        "Small bladder",
+        "Calcified fibroids",
+        "Nabothian cysts"
+      ],
+      "answer": "B",
+      "detail": "Inflammation leads to wall thickening and increased Doppler flow in the adnexa."
+    }
+  ]
+}

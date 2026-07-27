@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "number": 67,
+      "question": "A \"Galactocele\" is a benign, milk-containing cyst that occurs in which clinical setting?",
+      "choices": [
+        "Elderly women",
+        "Male infants",
+        "Pregnant or lactating women",
+        "Post-menopausal women on HRT",
+        "After a breast lift"
+      ],
+      "answer": "C",
+      "detail": "These are the most common benign masses in this population and result from an obstructed milk duct."
+    },
+    {
+      "number": 68,
+      "question": "On a mammogram, an \"Oil Cyst\" is characterized by:",
+      "choices": [
+        "A dense, spiculated mass",
+        "A radiolucent (fat-density) mass with a thin, calcified rim",
+        "Clusters of fine pleomorphic calcifications",
+        "Intense rapid enhancement",
+        "Nipple retraction"
+      ],
+      "answer": "B",
+      "detail": "Oil cysts are the classic end-stage of fat necrosis."
+    },
+    {
+      "number": 69,
+      "question": "Which benign breast mass is also known as a \"Breast within a Breast\" because it contains a mix of fat and soft tissue?",
+      "choices": [
+        "Fibroadenoma",
+        "Hamartoma (Fibroadenolipoma)",
+        "Lipoma",
+        "Phyllodes tumor",
+        "Radial scar"
+      ],
+      "answer": "B",
+      "detail": "These are well-circumscribed, encapsulated masses that resemble normal breast tissue \"reorganized\" into a mass."
+    },
+    {
+      "number": 70,
+      "question": "A \"Phyllodes Tumor\" is a rapidly growing fibroepithelial lesion that is a mimic of:",
+      "choices": [
+        "DCIS",
+        "Fibroadenoma",
+        "Invasive Lobular Carcinoma",
+        "Simple cyst",
+        "Fat necrosis"
+      ],
+      "answer": "B",
+      "detail": "They look like large fibroadenomas on imaging but grow much faster and can be malignant."
+    },
+    {
+      "number": 71,
+      "question": "\"Intramammary Lymph Nodes\" are characteristically located in which quadrant of the breast?",
+      "choices": [
+        "Lower Inner Quadrant (LIQ)",
+        "Upper Outer Quadrant (UOQ)",
+        "Retroareolar",
+        "Axillary tail",
+        "Both B and D"
+      ],
+      "answer": "E",
+      "detail": "They follow the lymphatic drainage path toward the axilla."
+    },
+    {
+      "number": 72,
+      "question": "Radiographically, a normal intramammary lymph node MUST demonstrate:",
+      "choices": [
+        "Spiculated margins",
+        "A radiolucent fatty hilum",
+        "Uniform high density",
+        "Microcalcifications",
+        "Type III enhancement"
+      ],
+      "answer": "B",
+      "detail": "Identifying the fatty hilum is the most reliable sign of a benign node."
+    },
+    {
+      "number": 73,
+      "question": "\"Mondor Disease\" is a benign condition characterized by:",
+      "choices": [
+        "A rapidly growing malignancy",
+        "Superficial thrombophlebitis of a breast vein",
+        "A milk-filled cyst",
+        "Male breast cancer",
+        "Multiple fibroadenomas"
+      ],
+      "answer": "B",
+      "detail": "It presents as a painful, palpable \"cord-like\" structure."
+    },
+    {
+      "number": 74,
+      "question": "Which malignancy is a \"mimic\" of a benign cyst because it can be well-circumscribed and show posterior enhancement?",
+      "choices": [
+        "Tubular carcinoma",
+        "Medullary carcinoma",
+        "Invasive ductal carcinoma (not otherwise specified)",
+        "ILC",
+        "Radial scar"
+      ],
+      "answer": "B",
+      "detail": "Medullary and mucinous cancers are often soft and circumscribed, leading to potential diagnostic pitfalls."
+    },
+    {
+      "number": 75,
+      "question": "\"Angiosarcoma\" of the breast is a rare, aggressive malignancy that can occur as a primary tumor or secondary to:",
+      "choices": [
+        "Trauma",
+        "Pregnancy",
+        "Prior radiation therapy for breast cancer",
+        "Multiple fibroadenomas",
+        "Nipple discharge"
+      ],
+      "answer": "C",
+      "detail": "Secondary angiosarcoma is a known, late complication of breast irradiation."
+    },
+    {
+      "number": 76,
+      "question": "A \"Radial Scar\" is a complex sclerosing lesion that is highly suspicious because its mammographic appearance is:",
+      "choices": [
+        "A round, well-circumscribed mass",
+        "Architectural distortion with long, thin spicules and no central mass",
+        "Diffuse skin thickening",
+        "Large popcorn calcifications",
+        "Anechoic"
+      ],
+      "answer": "B",
+      "detail": "On imaging, a radial scar is indistinguishable from a spiculated malignancy."
+    },
+    {
+      "number": 77,
+      "question": "\"Fat Necrosis\" can present in several ways. Which of the following is an acute/subacute presentation?",
+      "choices": [
+        "Oil cyst",
+        "Spiculated mass with internal fat and skin thickening",
+        "Dermal calcifications",
+        "Simple cyst",
+        "None of the above"
+      ],
+      "answer": "B",
+      "detail": "The inflammatory phase of fat necrosis can mimic cancer, though the presence of internal fat is a key \"benign\" clue."
+    },
+    {
+      "number": 78,
+      "question": "Uterine and ovarian metastases to the breast are rare. Which tumor is the MOST common source of hematogenous metastases to the breast?",
+      "choices": [
+        "Lung cancer",
+        "Melanoma",
+        "Colon cancer",
+        "Renal cell carcinoma",
+        "Gastric cancer"
+      ],
+      "answer": "B",
+      "detail": "Melanoma is notorious for spreading to unusual sites, including the breast parenchyma."
+    },
+    {
+      "number": 79,
+      "question": "Primary breast \"Lymphoma\" typically presents as:",
+      "choices": [
+        "Diffuse calcifications",
+        "A large, non-calcified, circumscribed or indistinct mass",
+        "Nipple retraction",
+        "An oil cyst",
+        "Architectural distortion only"
+      ],
+      "answer": "B",
+      "detail": "Lymphoma usually presents as a rapidly growing mass without the typical desmoplastic features of IDC."
+    },
+    {
+      "number": 80,
+      "question": "A \"Pseudoangiomatous Stromal Hyperplasia\" (PASH) lesion is a benign entity that is a mimic of:",
+      "choices": [
+        "DCIS",
+        "Fibroadenoma",
+        "Cyst",
+        "Angiosarcoma (histologically)",
+        "Both B and D"
+      ],
+      "answer": "E",
+      "detail": "Radiographically it looks like a fibroadenoma; histologically it can look like angiosarcoma."
+    },
+    {
+      "number": 81,
+      "question": "\"Tubular Carcinoma\" is a subtype of IDC that is typically:",
+      "choices": [
+        "Very aggressive",
+        "Small, slow-growing, and associated with an excellent prognosis",
+        "Always anechoic",
+        "Found only in men",
+        "Associated with milk discharge"
+      ],
+      "answer": "B",
+      "detail": "These are usually found on screening as small spiculated masses."
+    }
+  ]
+}

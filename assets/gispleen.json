@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "number": 42,
+      "question": "What is the most common location for a \"splenule\" (accessory spleen)?",
+      "choices": [
+        "A. Greater omentum",
+        "B. Splenic hilum",
+        "C. Tail of the pancreas",
+        "D. Scrotum",
+        "E. Both B and C"
+      ],
+      "answer": "E",
+      "detail": "Splenules are commonly found in the splenic hilum and the pancreatic tail, where their presence can sometimes mimic other masses."
+    },
+    {
+      "number": 43,
+      "question": "Which nuclear medicine scan can be used to confirm that a mass is a splenule?",
+      "choices": [
+        "A. Tc-99m HIDA",
+        "B. Tc-99m sulfur colloid or heat-damaged RBC scan",
+        "C. Tc-99m Pertechnetate",
+        "D. I-131",
+        "E. Thallium-201"
+      ],
+      "answer": "B",
+      "detail": "Functioning splenic tissue can be identified using Tc-99m sulfur colloid or heat-damaged RBC scans."
+    },
+    {
+      "number": 44,
+      "question": "\"Gamna-Gandy bodies\" (siderotic nodules) demonstrate \"blooming\" (increased darkness) on which MRI sequence?",
+      "choices": [
+        "A. T1-weighted Spin Echo",
+        "B. Out-of-phase GRE",
+        "C. In-phase GRE (longer TE)",
+        "D. T2-weighted STIR",
+        "E. Diffusion Weighted Imaging"
+      ],
+      "answer": "C",
+      "detail": "Siderotic nodules contain iron, which causes magnetic dephasing that becomes more pronounced (blooms) with longer echo times (TE) on in-phase GRE sequences."
+    },
+    {
+      "number": 45,
+      "question": "When evaluating a cystic splenic lesion on ultrasound, what must always be used to exclude a vascular etiology (like an aneurysm)?",
+      "choices": [
+        "A. Harmonic imaging",
+        "B. Higher frequency probe",
+        "C. Color Doppler",
+        "D. Contrast enhancement",
+        "E. Measuring the cyst wall"
+      ],
+      "answer": "C",
+      "detail": "Color Doppler is essential to rule out splenic artery aneurysms, which can sonographically mimic simple cysts."
+    },
+    {
+      "number": 46,
+      "question": "Which of the following is a \"hypervascular\" splenic lesion?",
+      "choices": [
+        "A. Splenic infarct",
+        "B. Splenic lymphoma",
+        "C. Splenic hemangioma",
+        "D. Splenic abscess",
+        "E. Sarcoidosis"
+      ],
+      "answer": "C",
+      "detail": "While infarcts, abscesses, and lymphomas are generally hypovascular, splenic hemangiomas are considered hypervascular lesions."
+    },
+    {
+      "number": 47,
+      "question": "Splenic \"infarcts\" characteristically appear on CT as:",
+      "choices": [
+        "A. Diffuse enlargement",
+        "B. Peripheral wedge-shaped regions of non-enhancement",
+        "C. Central dot signs",
+        "D. Hyperenhancing nodules",
+        "E. Cystic with internal echoes"
+      ],
+      "answer": "B",
+      "detail": "Infarcts typically present as peripheral, wedge-shaped areas that do not enhance, following the segmental blood supply of the spleen."
+    },
+    {
+      "number": 48,
+      "question": "\"Splenosis\" refers to:",
+      "choices": [
+        "A. Massive splenomegaly in cirrhosis",
+        "B. Autotransplantation of splenic tissue after trauma/surgery",
+        "C. Iron overload in the spleen",
+        "D. Splenic vein thrombosis",
+        "E. Congenital absence of the spleen"
+      ],
+      "answer": "B",
+      "detail": "Splenosis occurs when traumatic rupture of the spleen allows splenic cells to seed the peritoneum and develop into functional nodules."
+    },
+    {
+      "number": 49,
+      "question": "An enlarged spleen measuring >13 cm in craniocaudal dimension is a secondary sign of:",
+      "choices": [
+        "A. Portal hypertension",
+        "B. Chronic cholecystitis",
+        "C. Pancreas divisum",
+        "D. Esophageal web",
+        "E. Hiatal hernia"
+      ],
+      "answer": "A",
+      "detail": "Splenomegaly, defined as a craniocaudal dimension greater than 13 cm, is often a result of chronic passive congestion caused by portal hypertension."
+    }
+  ]
+}

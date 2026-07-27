@@ -1,0 +1,30 @@
+{
+  "questions": [
+    {
+      "number": 87,
+      "question": "Accessory breast tissue is most commonly found in which location?",
+      "choices": [
+        "The midline of the chest",
+        "The 'axillary tail of Spence' or axilla",
+        "The abdominal wall",
+        "The neck",
+        "The inguinal canal"
+      ],
+      "answer": "B",
+      "detail": "This tissue follows the embryologic 'milk line.'"
+    },
+    {
+      "number": 88,
+      "question": "'Polythelia' is the medical term for:",
+      "choices": [
+        "Multiple breast masses",
+        "Accessory nipples",
+        "Accessory breast tissue",
+        "Nipple discharge",
+        "Inverted nipples"
+      ],
+      "answer": "B",
+      "detail": "These are common and usually occur along the milk line."
+    }
+  ]
+}

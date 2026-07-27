@@ -1,0 +1,82 @@
+{
+  "questions": [
+    {
+      "number": 11,
+      "question": "A BI-RADS Category 0 assessment on a screening mammogram indicates:",
+      "choices": [
+        "The exam is negative",
+        "There is a definitely benign finding",
+        "Additional imaging or prior films are needed",
+        "The finding is probably benign",
+        "The finding is highly suggestive of malignancy"
+      ],
+      "answer": "C",
+      "detail": "Category 0 is a preliminary assessment used only in screening when a final assessment cannot be made without further workup."
+    },
+    {
+      "number": 12,
+      "question": "Which BI-RADS category is assigned to a finding that is described but is 'definitely benign,' such as a simple cyst or vascular calcifications?",
+      "choices": [
+        "BI-RADS 1",
+        "BI-RADS 2",
+        "BI-RADS 3",
+        "BI-RADS 4",
+        "BI-RADS 6"
+      ],
+      "answer": "B",
+      "detail": "Category 2 indicates a normal periodic screening recommendation with no additional follow-up required for that specific finding."
+    },
+    {
+      "number": 13,
+      "question": "'Category 1' in the BI-RADS lexicon is defined as:",
+      "choices": [
+        "Need additional imaging",
+        "Negative",
+        "Benign",
+        "Probably Benign",
+        "Known biopsy-proven malignancy"
+      ],
+      "answer": "B",
+      "detail": "BI-RADS 1 means the breasts are symmetrical and no masses, architectural distortions, or suspicious calcifications are present."
+    },
+    {
+      "number": 14,
+      "question": "Diagnostic mammography reports MUST conclude with a final assessment from which range?",
+      "choices": [
+        "0–6",
+        "1–6",
+        "1–5",
+        "0–5",
+        "2–6"
+      ],
+      "answer": "B",
+      "detail": "Category 0 is inappropriate for diagnostic exams; a definitive assessment (1–6) must be assigned after completion of the workup."
+    },
+    {
+      "number": 15,
+      "question": "A BI-RADS 6 assessment is reserved for:",
+      "choices": [
+        "Findings highly suggestive of malignancy",
+        "Findings requiring surgical consultation",
+        "Biopsy-proven malignancy prior to definitive therapy",
+        "Recurrent cancer after treatment",
+        "Inflammatory carcinoma only"
+      ],
+      "answer": "C",
+      "detail": "This category is used for patients with known cancer undergoing imaging for treatment planning or monitoring."
+    },
+    {
+      "number": 16,
+      "question": "Which of the following is NOT one of the four standardized breast density categories in BI-RADS?",
+      "choices": [
+        "Entirely fatty",
+        "Scattered fibroglandular densities",
+        "Heterogeneously dense",
+        "Extremely dense",
+        "Minimally dense"
+      ],
+      "answer": "E",
+      "detail": "The standardized categories are A (fatty), B (scattered), C (heterogeneously dense), and D (extremely dense)."
+    }
+  ]
+}

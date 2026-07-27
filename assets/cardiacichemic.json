@@ -1,0 +1,160 @@
+{
+  "questions": [
+    {
+      "number": 28,
+      "question": "What LGE pattern is characteristic of a myocardial infarction (ischemic disease)?",
+      "choices": [
+        "A. Mid-myocardial (mesocardial) enhancement",
+        "B. Subepicardial enhancement",
+        "C. Subendocardial or transmural enhancement in a coronary territory",
+        "D. Diffuse global subendocardial enhancement",
+        "E. Patchy multifocal enhancement"
+      ],
+      "answer": "C",
+      "detail": "Ischemic injury always begins in the subendocardium and spreads outward (the 'wavefront' phenomenon)."
+    },
+    {
+      "number": 29,
+      "question": "In the setting of an acute MI, an area of 'no-reflow' (dark core within a bright LGE area) represents:",
+      "choices": [
+        "A. Hibernating myocardium",
+        "B. Microvascular obstruction (MVO)",
+        "C. Reversible ischemia",
+        "D. Normal tissue",
+        "E. Lipomatous metaplasia"
+      ],
+      "answer": "B",
+      "detail": "MVO represents capillary destruction; it is a poor prognostic sign indicating the tissue is non-viable despite revascularization."
+    },
+    {
+      "number": 30,
+      "question": "Which term describes myocardium that has decreased contractility due to CHRONIC ischemia but remains viable?",
+      "choices": [
+        "A. Stunned myocardium",
+        "B. Infarcted myocardium",
+        "C. Hibernating myocardium",
+        "D. Normal myocardium",
+        "E. Scarred myocardium"
+      ],
+      "answer": "C",
+      "detail": "Hibernating myocardium is a state of adaptive down-regulation; it is viable and will recover function after revascularization."
+    },
+    {
+      "number": 31,
+      "question": "'Stunned myocardium' refers to:",
+      "choices": [
+        "A. Chronic ischemia causing permanent scar",
+        "B. Temporary dysfunction following ACUTE ischemia and successful reperfusion",
+        "C. Dead tissue that enhances on LGE",
+        "D. Myocardial bridging",
+        "E. Cardiac amyloidosis"
+      ],
+      "answer": "B",
+      "detail": "Stunned tissue is dysfunctional but viable and will eventually recover without further intervention."
+    },
+    {
+      "number": 32,
+      "question": "Post-infarction Dressler syndrome is characterized by:",
+      "choices": [
+        "A. Acute mitral regurgitation",
+        "B. Ventricular septal rupture",
+        "C. Late-onset pericarditis, pleuritis, and fever",
+        "D. Ventricular pseudoaneurysm",
+        "E. Papillary muscle rupture"
+      ],
+      "answer": "C",
+      "detail": "Dressler syndrome is an autoimmune-mediated pericarditis occurring weeks to months after an MI."
+    },
+    {
+      "number": 33,
+      "question": "A 'true' ventricular aneurysm differs from a 'pseudoaneurysm' in that a true aneurysm:",
+      "choices": [
+        "A. Has a wide neck and involves all layers of the heart wall",
+        "B. Has a narrow neck and is prone to rupture",
+        "C. Is caused by bacterial infection",
+        "D. Always contains thrombus",
+        "E. Only occurs in the right ventricle"
+      ],
+      "answer": "A",
+      "detail": "True aneurysms have a wide neck and are generally lower risk for rupture than pseudoaneurysms, which have narrow necks."
+    },
+    {
+      "number": 34,
+      "question": "Thallium-201 'rest-redistribution' imaging is used to identify:",
+      "choices": [
+        "A. Acute PE",
+        "B. Myocardial viability (hibernating myocardium)",
+        "C. Cardiac amyloidosis",
+        "D. Coronary dominance",
+        "E. Pericardial effusion"
+      ],
+      "answer": "B",
+      "detail": "Uptake on delayed redistribution images indicates viable cells that can be saved with surgery."
+    },
+    {
+      "number": 35,
+      "question": "A 'fixed' defect on a Tc-99m sestamibi SPECT perfusion scan (seen on both stress and rest) represents:",
+      "choices": [
+        "A. Ischemia",
+        "B. Hibernating myocardium or scar",
+        "C. Normal tissue",
+        "D. Myocarditis",
+        "E. Artifact from breast tissue"
+      ],
+      "answer": "B",
+      "detail": "A fixed defect implies the tissue is not taking up tracer normally at rest, suggesting it is either scarred or hibernating."
+    },
+    {
+      "number": 36,
+      "question": "'Transient Ischemic Dilation' (TID) on a stress perfusion scan is a marker of:",
+      "choices": [
+        "A. Single vessel disease",
+        "B. Left main or three-vessel coronary artery disease",
+        "C. Normal variants",
+        "D. Right heart failure",
+        "E. Tricuspid regurgitation"
+      ],
+      "answer": "B",
+      "detail": "TID represents diffuse subendocardial ischemia and indicates a worse prognosis."
+    },
+    {
+      "number": 37,
+      "question": "Which of the following is a classic mechanical complication occurring 3–7 days after a large MI?",
+      "choices": [
+        "A. Dressler syndrome",
+        "B. Ventricular septal defect (VSD)",
+        "C. Coronary fistula",
+        "D. Atrial septal defect",
+        "E. Pulmonary sequestration"
+      ],
+      "answer": "B",
+      "detail": "Myocardial necrosis can lead to septal rupture (VSD) or papillary muscle rupture in the first week post-MI."
+    },
+    {
+      "number": 38,
+      "question": "'Microvascular obstruction' (MVO) is best identified on CMR using:",
+      "choices": [
+        "A. T2 STIR",
+        "B. Early (first-pass) or early LGE images (1–2 minutes)",
+        "C. T1 cine",
+        "D. Phase contrast",
+        "E. Tagging"
+      ],
+      "answer": "B",
+      "detail": "MVO appears as a central dark zone of non-enhancement within the bright infarcted area."
+    },
+    {
+      "number": 39,
+      "question": "Myocardial 'viability' on CMR is best predicted by the:",
+      "choices": [
+        "A. Thickness of the LGE (transmural extent)",
+        "B. Presence of MVO",
+        "C. T2 signal intensity",
+        "D. Heart rate",
+        "E. Aortic flow volume"
+      ],
+      "answer": "A",
+      "detail": "Segments with <50% transmural enhancement are likely to recover function after revascularization."
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "number": 60,
+      "question": "Which type of hiatal hernia involves the stomach herniating alongside the esophagus, with the gastroesophageal junction remaining in its normal position?",
+      "choices": [
+        "A. Sliding hiatal hernia",
+        "B. Paraesophageal hiatal hernia",
+        "C. Upside-down stomach",
+        "D. Mixed hiatal hernia",
+        "E. Zenker's hernia"
+      ],
+      "answer": "B",
+      "detail": "In paraesophageal hernias, the GE junction is fixed, making them higher risk for strangulation."
+    },
+    {
+      "number": 61,
+      "question": "Which gastric polyps are benign and often associated with the long-term use of proton-pump inhibitors (PPIs)?",
+      "choices": [
+        "A. Adenomatous polyps",
+        "B. Hyperplastic polyps",
+        "C. Fundic gland polyps",
+        "D. Hamartomatous polyps",
+        "E. Inflammatory polyps"
+      ],
+      "answer": "C",
+      "detail": "These are very common and typically small and multiple in the gastric body/fundus."
+    },
+    {
+      "number": 62,
+      "question": "\"Gastric volvulus\" where the stomach rotates around its short axis (connecting the greater and lesser curvatures) is known as:",
+      "choices": [
+        "A. Organoaxial volvulus",
+        "B. Mesenteroaxial volvulus",
+        "C. Torsion",
+        "D. Intussusception",
+        "E. Pyloric stenosis"
+      ],
+      "answer": "B",
+      "detail": "Mesenteroaxial is less common than organoaxial and often involves ischemia."
+    },
+    {
+      "number": 63,
+      "question": "In a Roux-en-Y gastric bypass, the small \"gastric pouch\" is connected directly to a limb of small bowel called the:",
+      "choices": [
+        "A. Biliary limb",
+        "B. Roux limb (Alimentary limb)",
+        "C. Common channel",
+        "D. Jejunal limb",
+        "E. Duodenal limb"
+      ],
+      "answer": "B",
+      "detail": "The Roux limb bypasses the majority of the stomach and duodenum."
+    },
+    {
+      "number": 64,
+      "question": "\"Petersen's hernia\" is a critical internal hernia that occurs through a defect in:",
+      "choices": [
+        "A. The transverse mesocolon",
+        "B. The space between the Roux limb mesentery and the transverse mesocolon",
+        "C. The fossa of Landzert",
+        "D. The esophageal hiatus",
+        "E. The inguinal canal"
+      ],
+      "answer": "B",
+      "detail": "This mesenteric defect is created during the bypass surgery in the space behind the Roux limb."
+    },
+    {
+      "number": 65,
+      "question": "A \"gastrogastric fistula\" is a complication of bariatric surgery involving a communication between:",
+      "choices": [
+        "A. The gastric pouch and the skin",
+        "B. The gastric pouch and the bypassed \"remnant\" stomach",
+        "C. The stomach and the transverse colon",
+        "D. Two different loops of the Roux limb",
+        "E. The stomach and the gallbladder"
+      ],
+      "answer": "B",
+      "detail": "This allows food to enter the large stomach, leading to weight regain."
+    },
+    {
+      "number": 66,
+      "question": "The \"Carman meniscus sign\" is an imaging hallmark of:",
+      "choices": [
+        "A. Adenocarcinoma",
+        "B. A large, ulcerated gastric malignancy",
+        "C. Pyloric stenosis",
+        "D. Gastric leiomyoma",
+        "E. Gastric volvulus"
+      ],
+      "answer": "B",
+      "detail": "The \"meniscus\" describes the shape of contrast within a large, malignant ulcer crater."
+    },
+    {
+      "number": 67,
+      "question": "Gastrointestinal Stromal Tumors (GIST) in the stomach most commonly present as:",
+      "choices": [
+        "A. Diffuse wall thickening",
+        "B. A well-circumscribed, submucosal, exophytic mass",
+        "C. Multiple tiny polyps",
+        "D. A \"bird's beak\" tapering",
+        "E. A \"galaxy sign\""
+      ],
+      "answer": "B",
+      "detail": "GISTs are typically large and grow outward from the stomach wall."
+    },
+    {
+      "number": 68,
+      "question": "\"Ectopic pancreas\" in the stomach is most commonly found in which location?",
+      "choices": [
+        "A. The fundus",
+        "B. The gastric body",
+        "C. The antrum/prepyloric region",
+        "D. The GE junction",
+        "E. The greater curvature"
+      ],
+      "answer": "C",
+      "detail": "These \"rests\" of tissue often have a central umbilication representing a rudimentary duct."
+    },
+    {
+      "number": 69,
+      "question": "\"Thickened gastric folds\" can be caused by:",
+      "choices": [
+        "A. Gastritis (H. pylori)",
+        "B. Ménétrier disease",
+        "C. Zollinger-Ellison syndrome (Gastrinoma)",
+        "D. Lymphoma",
+        "E. All of the above"
+      ],
+      "answer": "E",
+      "detail": "Multiple inflammatory, neoplastic, and hormonal conditions cause fold thickening."
+    }
+  ]
+}

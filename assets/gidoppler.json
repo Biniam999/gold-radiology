@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "What is the normal flow direction and waveform characteristics of the main portal vein (MPV)?",
+      "choices": [
+        "A. Hepatofugal and pulsatile",
+        "B. Hepatopetal and monophasic with mild respiratory variation",
+        "C. Bidirectional and triphasic",
+        "D. Hepatofugal and continuous",
+        "E. Highly resistive with a peak systolic velocity >100 cm/sec"
+      ],
+      "answer": "B",
+      "detail": "Normal portal flow is toward the liver (hepatopetal) and exhibits a relatively steady, monophasic (phasic) waveform."
+    },
+    {
+      "number": 2,
+      "question": "A pulsatile portal venous waveform is an abnormal finding. What is the most likely etiology?",
+      "choices": [
+        "A. Portal vein thrombosis",
+        "B. Tricuspid regurgitation or right-sided heart failure",
+        "C. Early cirrhosis",
+        "D. Splenic artery aneurysm",
+        "E. Normal post-prandial state"
+      ],
+      "answer": "B",
+      "detail": "Pulsatility in the portal vein is abnormal and typically reflects transmitted pressure changes from the right heart."
+    },
+    {
+      "number": 3,
+      "question": "In the setting of portal hypertension, what threshold of portal venous flow velocity may mimic thrombosis?",
+      "choices": [
+        "A. < 10 cm/sec",
+        "B. < 16 cm/sec",
+        "C. < 25 cm/sec",
+        "D. < 30 cm/sec",
+        "E. Exactly 20 cm/sec"
+      ],
+      "answer": "B",
+      "detail": "Slow (<16 cm/sec) or stagnant flow is a pitfall that can be mistaken for portal vein thrombosis."
+    },
+    {
+      "number": 4,
+      "question": "\"Cavernous transformation\" of the portal vein is a sequela of long-standing thrombosis and is characterized by:",
+      "choices": [
+        "A. A single large aneurysmal portal vein",
+        "B. Multiple small periportal collateral vessels",
+        "C. Reversal of flow in the hepatic artery",
+        "D. Air within the portal venous system",
+        "E. Thickening of the gallbladder wall"
+      ],
+      "answer": "B",
+      "detail": "Cavernous transformation consists of numerous tubular collateral vessels at the porta hepatis that bypass the obstructed portal vein."
+    },
+    {
+      "number": 5,
+      "question": "How is portal venous gas distinguished from pneumobilia on ultrasound?",
+      "choices": [
+        "A. Portal gas is central; pneumobilia is peripheral",
+        "B. Portal gas extends to the liver periphery; pneumobilia is more central",
+        "C. Portal gas is transient; pneumobilia is permanent",
+        "D. Pneumobilia causes a \"spiky\" spectral Doppler waveform",
+        "E. There is no sonographic difference"
+      ],
+      "answer": "B",
+      "detail": "Because of the direction of blood flow, portal venous gas is carried to the periphery, whereas air in the bile ducts (pneumobilia) follows the central distribution of the biliary tree."
+    },
+    {
+      "number": 6,
+      "question": "In a patient with a PATENT transjugular intrahepatic portosystemic shunt (TIPS), what is the expected flow direction in the right and left portal veins?",
+      "choices": [
+        "A. Hepatopetal (toward the liver)",
+        "B. Hepatofugal (reversed, toward the TIPS)",
+        "C. Bidirectional",
+        "D. No flow should be present",
+        "E. Pulsatile toward the IVC"
+      ],
+      "answer": "B",
+      "detail": "In a functioning TIPS, blood from the peripheral portal branches is diverted \"backward\" toward the shunt."
+    },
+    {
+      "number": 7,
+      "question": "Which cardiac condition is characterized by \"accentuated A- and V-waves\" on a hepatic vein Doppler tracing?",
+      "choices": [
+        "A. Left-sided heart failure",
+        "B. Right-sided heart failure or tricuspid regurgitation",
+        "C. Mitral stenosis",
+        "D. Constrictive pericarditis only",
+        "E. Hypertrophic cardiomyopathy"
+      ],
+      "answer": "B",
+      "detail": "These right-sided abnormalities cause increased retrograde flow during atrial systole, accentuating the waves."
+    },
+    {
+      "number": 8,
+      "question": "Decreased or \"flattened\" hepatic vein pulsatility is typically seen in which condition?",
+      "choices": [
+        "A. Tricuspid regurgitation",
+        "B. Cirrhosis or Budd-Chiari syndrome",
+        "C. Normal young athletes",
+        "D. Splenic vein thrombosis",
+        "E. Portal vein gas"
+      ],
+      "answer": "B",
+      "detail": "Narrowing or compression of the hepatic veins (as seen in cirrhosis or outflow obstruction) dampens the normal triphasic pulsatility."
+    }
+  ]
+}

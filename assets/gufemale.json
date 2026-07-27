@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "number": 73,
+      "question": "A cystic lesion located in the 'anterolateral' wall of the upper vagina, above the level of the pubococcygeus muscle, is likely a:",
+      "choices": [
+        "Skene gland cyst",
+        "Gartner duct cyst",
+        "Bartholin gland cyst",
+        "Nabothian cyst",
+        "Urethral diverticulum"
+      ],
+      "answer": "B",
+      "detail": "Gartner duct cysts are embryologic remnants of the Wolffian duct."
+    },
+    {
+      "number": 74,
+      "question": "Which cystic lesion is located 'periurethral' and can cause urethral obstruction or recurrent infections?",
+      "choices": [
+        "Gartner duct cyst",
+        "Skene gland cyst",
+        "Bartholin gland cyst",
+        "Nabothian cyst",
+        "Follicular cyst"
+      ],
+      "answer": "B",
+      "detail": "These are the female homologues of the prostate and are located at the urethral meatus."
+    },
+    {
+      "number": 75,
+      "question": "A 'Bartholin gland cyst' is characteristically located:",
+      "choices": [
+        "In the cervix",
+        "At the level of or below the pubococcygeus muscle, in the posterior vaginal wall",
+        "In the pre-vesical space",
+        "Attached to the ovary",
+        "Above the bladder dome"
+      ],
+      "answer": "B",
+      "detail": "These are located in the superficial perineal pouch."
+    },
+    {
+      "number": 76,
+      "question": "A 'saddle-bag' configuration of a fluid collection surrounding the urethra is diagnostic of:",
+      "choices": [
+        "Gartner duct cyst",
+        "Urethral diverticulum",
+        "Bartholin cyst",
+        "Vaginal atresia",
+        "Bladder rupture"
+      ],
+      "answer": "B",
+      "detail": "This out-pouching often wraps around the urethra."
+    },
+    {
+      "number": 77,
+      "question": "'Mayer-Rokitansky-Kuster-Hauser (MRKH) syndrome' is characterized by:",
+      "choices": [
+        "Polycystic ovaries",
+        "Mullerian duct aplasia (absent uterus and upper 2/3 of vagina)",
+        "Duplicated uterus",
+        "Persistent urachus",
+        "Horseshoe kidney only"
+      ],
+      "answer": "B",
+      "detail": "Patients have normal ovaries but congenital absence of the uterus and vagina."
+    },
+    {
+      "number": 78,
+      "question": "Which imaging modality is 'first-line' for characterizing suspected Mullerian duct anomalies?",
+      "choices": [
+        "CT",
+        "Ultrasound (Transvaginal and 3D)",
+        "MRI",
+        "PET/CT",
+        "HSG only"
+      ],
+      "answer": "B",
+      "detail": "3D ultrasound and MRI are both excellent for distinguishing septate from bicornuate uteri."
+    },
+    {
+      "number": 79,
+      "question": "'Hematocolpos' refers to:",
+      "choices": [
+        "Blood in the peritoneal cavity",
+        "Blood-filled vagina, typically due to an imperforate hymen",
+        "Blood in the bladder",
+        "Blood in the ureter",
+        "A malignant tumor of the vagina"
+      ],
+      "answer": "B",
+      "detail": "This presents in adolescent girls who have not yet begun menstruating despite cyclic pain."
+    },
+    {
+      "number": 80,
+      "question": "A 'grape-like' mass in the vagina of a young girl is the classic presentation of:",
+      "choices": [
+        "Gartner cyst",
+        "Sarcoma botryoides (Rhabdomyosarcoma)",
+        "Clear cell adenocarcinoma",
+        "Nabothian cyst",
+        "Endometritis"
+      ],
+      "answer": "B",
+      "detail": "This is a rare but highly characteristic pediatric vaginal malignancy."
+    }
+  ]
+}

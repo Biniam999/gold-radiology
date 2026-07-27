@@ -1,0 +1,82 @@
+{
+  "questions": [
+    {
+      "number": 35,
+      "question": "What is the characteristic radiographic finding of a primary Ureteropelvic Junction (UPJ) obstruction?",
+      "choices": [
+        "Dilated renal pelvis with a dilated ureter",
+        "Dilated renal pelvis with a normal caliber ureter",
+        "Narrowed renal pelvis with a dilated ureter",
+        "Segmental ureteral calcification",
+        "Medial displacement of the mid-ureter"
+      ],
+      "answer": "B",
+      "detail": "UPJ obstruction, whether primary or secondary, is defined by the transition point at the renal pelvis; if the ureter is also dilated, the obstruction is more distal."
+    },
+    {
+      "number": 36,
+      "question": "A congenital 'aperistaltic segment' of the ureter is a common cause of:",
+      "choices": [
+        "Ureteral valves",
+        "Primary UPJ obstruction",
+        "Ureteral diverticula",
+        "Retroperitoneal fibrosis",
+        "Ureterocele"
+      ],
+      "answer": "B",
+      "detail": "This functional narrowing prevents the normal passage of urine from the pelvis into the ureter."
+    },
+    {
+      "number": 37,
+      "question": "Which anatomical variant can cause extrinsic compression and secondary UPJ obstruction?",
+      "choices": [
+        "Duplicated collecting system",
+        "An accessory or crossing lower pole renal vessel",
+        "Horseshoe kidney isthmus",
+        "Circumaortic left renal vein",
+        "Retroaortic left renal vein"
+      ],
+      "answer": "B",
+      "detail": "Vessels crossing the UPJ can mechanically compress the junction, leading to hydronephrosis."
+    },
+    {
+      "number": 38,
+      "question": "The 'cobra head' sign on an IVP or CT urogram is the classic appearance of:",
+      "choices": [
+        "Ureteral transitional cell carcinoma (TCC)",
+        "Ureterocele",
+        "Blood clot in the ureter",
+        "Sloughed papilla",
+        "Impacted stone"
+      ],
+      "answer": "B",
+      "detail": "A ureterocele is a cystic dilation of the distal intramural ureter, which appears as a lucent filling defect with a thin radiopaque rim (the wall) in the bladder."
+    },
+    {
+      "number": 39,
+      "question": "Multiple small, subepithelial cysts lining the ureter, often seen in the setting of chronic inflammation, is known as:",
+      "choices": [
+        "Malacoplakia",
+        "Ureteritis cystica",
+        "Schistosomiasis",
+        "Leuplakia",
+        "Tuberculosis"
+      ],
+      "answer": "B",
+      "detail": "These are benign fluid-filled cysts resulting from chronic urothelial irritation."
+    },
+    {
+      "number": 40,
+      "question": "In a duplicated collecting system, which pole's ureter is prone to ectopic insertion and obstruction (Weigert-Meyer law)?",
+      "choices": [
+        "Lower pole ureter",
+        "Upper pole ureter",
+        "Mid-pole ureter",
+        "Both poles equally",
+        "Neither pole"
+      ],
+      "answer": "B",
+      "detail": "The upper pole ureter typically inserts ectopically (inferior and medial to the normal orifice) and is frequently obstructed."
+    }
+  ]
+}

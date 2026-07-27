@@ -1,0 +1,108 @@
+{
+  "questions": [
+    {
+      "number": 113,
+      "question": "\"Stereotactic\" biopsy is the preferred method for sampling which of the following findings?",
+      "choices": [
+        "A large solid mass seen on ultrasound",
+        "Suspicious microcalcifications or asymmetries NOT seen on ultrasound",
+        "A simple cyst",
+        "A palpable lump",
+        "Nipple discharge"
+      ],
+      "answer": "B",
+      "detail": "Stereotactic biopsy uses X-ray triangulation to localize and sample findings that are mammographically visible but sonographically occult."
+    },
+    {
+      "number": 114,
+      "question": "Which biopsy technique is considered the \"gold standard\" for sampling highly suspicious clusters of microcalcifications?",
+      "choices": [
+        "Ultrasound-guided Fine Needle Aspiration (FNA)",
+        "Stereotactic vacuum-assisted core biopsy",
+        "MRI-guided biopsy",
+        "Palpation-guided biopsy",
+        "Skin punch biopsy"
+      ],
+      "answer": "B",
+      "detail": "Vacuum-assisted devices allow for the collection of large-volume tissue samples, ensuring the calcifications are accurately retrieved."
+    },
+    {
+      "number": 115,
+      "question": "A \"Discordant\" radiology-pathology correlation occurs when:",
+      "choices": [
+        "The biopsy confirms the suspicious imaging finding",
+        "The imaging is highly suspicious (BI-RADS 4/5) but the pathology is benign/non-specific",
+        "The patient chooses a second opinion",
+        "The biopsy clip is not seen on post-procedure films",
+        "The pathology is malignant as expected"
+      ],
+      "answer": "B",
+      "detail": "Discordance requires a repeat biopsy or surgical excision to ensure the target was not missed during the initial procedure."
+    },
+    {
+      "number": 116,
+      "question": "Why is surgical excision often recommended after a core biopsy diagnosis of \"Atypical Ductal Hyperplasia\" (ADH)?",
+      "choices": [
+        "ADH is highly painful",
+        "There is a 10–20% risk of \"upgrading\" to DCIS or invasive cancer in the surgical specimen",
+        "ADH is contagious to the other breast",
+        "Core biopsy is always inaccurate",
+        "To treat the patient's anxiety"
+      ],
+      "answer": "B",
+      "detail": "Core biopsy only samples a small area; the surrounding tissue in a full excision may contain adjacent malignancy."
+    },
+    {
+      "number": 117,
+      "question": "\"Wire Localization\" or \"Seed Localization\" is performed to:",
+      "choices": [
+        "Treat the cancer through radiation",
+        "Guide the surgeon to a non-palpable lesion on the day of surgery",
+        "Measure the depth of the pectoralis muscle",
+        "Stop the spread of metastases",
+        "Prevent skin thickening"
+      ],
+      "answer": "B",
+      "detail": "These markers are placed by the radiologist to ensure the surgeon can accurately remove the correct area of tissue."
+    },
+    {
+      "number": 118,
+      "question": "MRI-guided biopsy is indicated when a suspicious lesion is:",
+      "choices": [
+        "Seen on mammography, ultrasound, and MRI",
+        "Visible ONLY on MRI",
+        "Palpable by the surgeon",
+        "A simple fluid-filled cyst",
+        "Located in the axilla"
+      ],
+      "answer": "B",
+      "detail": "If a lesion has a correlate on ultrasound, US-guided biopsy is preferred because it is faster, more comfortable, and less expensive."
+    },
+    {
+      "number": 119,
+      "question": "In breast imaging, \"Fine Needle Aspiration\" (FNA) is primarily used for:",
+      "choices": [
+        "Staging DCIS",
+        "Draining symptomatic cysts or sampling suspicious axillary lymph nodes",
+        "Biopsying pleomorphic calcifications",
+        "Routine screening",
+        "Evaluating implant rupture"
+      ],
+      "answer": "B",
+      "detail": "FNA provides cytology (cells), which is sufficient for nodes or cysts but lacks the architectural information needed for primary breast masses."
+    },
+    {
+      "number": 120,
+      "question": "Following any percutaneous breast biopsy, the standard of care requires the placement of a:",
+      "choices": [
+        "Radioactive seed",
+        "Permanent metallic biopsy clip",
+        "Drainage catheter",
+        "Suture",
+        "Large bandage only"
+      ],
+      "answer": "B",
+      "detail": "Clips are essential for \"radiology-pathology correlation,\" identifying the site for future surgical localization, and monitoring the site on follow-up imaging."
+    }
+  ]
+}

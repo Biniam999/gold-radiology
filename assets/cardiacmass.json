@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "number": 68,
+      "question": "What is the most common primary cardiac tumor in adults?",
+      "choices": [
+        "Rhabdomyoma",
+        "Angiosarcoma",
+        "Myxoma",
+        "Metastasis",
+        "Lipoma"
+      ],
+      "answer": "C",
+      "detail": "Myxomas are the most common primary benign cardiac tumor in adults."
+    },
+    {
+      "number": 69,
+      "question": "What is the most common location for a cardiac myxoma?",
+      "choices": [
+        "Right atrium",
+        "Left atrium, attached to the fossa ovalis",
+        "LV apex",
+        "Mitral valve leaflet",
+        "Pericardial space"
+      ],
+      "answer": "B",
+      "detail": "About 75% occur in the left atrium, often attached to the interatrial septum by a stalk."
+    },
+    {
+      "number": 70,
+      "question": "The most common primary MALIGNANT cardiac tumor in adults is:",
+      "choices": [
+        "Lymphoma",
+        "Rhabdomyosarcoma",
+        "Angiosarcoma",
+        "Mesothelioma",
+        "Osteosarcoma"
+      ],
+      "answer": "C",
+      "detail": "Angiosarcomas are aggressive and characteristically involve the right atrium."
+    },
+    {
+      "number": 71,
+      "question": "A cardiac mass that is \"T1 hyperintense\" and \"nulls\" on fat-saturation sequences is a:",
+      "choices": [
+        "Myxoma",
+        "Thrombus",
+        "Lipoma",
+        "Fibroma",
+        "Hemangioma"
+      ],
+      "answer": "C",
+      "detail": "These follow fat signal on all MRI sequences."
+    },
+    {
+      "number": 72,
+      "question": "\"Lipomatous hypertrophy of the interatrial septum\" is a benign condition that classically SPARES which region?",
+      "choices": [
+        "The base of the septum",
+        "The superior portion",
+        "The fossa ovalis",
+        "The inferior portion",
+        "The entire right atrium"
+      ],
+      "answer": "C",
+      "detail": "The \"dumbbell\" shape occurs because the fat accumulation spares the fossa ovalis."
+    },
+    {
+      "number": 73,
+      "question": "On CMR, how can you best differentiate a cardiac THROMBUS from a tumor?",
+      "choices": [
+        "Thrombus is T1 bright",
+        "Thrombus is T2 bright",
+        "Thrombus will NOT enhance on first-pass perfusion or LGE",
+        "Thrombus always pulsates",
+        "Tumor is always in the RA"
+      ],
+      "answer": "C",
+      "detail": "Because thrombus is avascular, it does not take up gadolinium (except for very old, organized clots which may show peripheral enhancement)."
+    },
+    {
+      "number": 74,
+      "question": "Primary cardiac lymphoma most commonly involves which part of the heart?",
+      "choices": [
+        "Left ventricle",
+        "Right side of the heart (RA and RV)",
+        "Aortic valve",
+        "Fossa ovalis only",
+        "Myocardium of the apex"
+      ],
+      "answer": "B",
+      "detail": "Lymphoma is rare but favors the right heart and can present with pericardial effusions."
+    },
+    {
+      "number": 75,
+      "question": "Metastatic disease to the heart is much more common than primary tumors. Which malignancy is most likely to involve the heart?",
+      "choices": [
+        "Prostate cancer",
+        "Melanoma, Lung, or Breast cancer",
+        "Thyroid cancer",
+        "Colon cancer",
+        "Glioblastoma"
+      ],
+      "answer": "B",
+      "detail": "Melanoma has the highest rate of cardiac involvement per case, while lung/breast are common due to sheer prevalence."
+    },
+    {
+      "number": 76,
+      "question": "A cardiac mass with a \"sunburst\" appearance on CT due to its vascularity and central necrosis is most likely an:",
+      "choices": [
+        "Angiosarcoma",
+        "Myxoma",
+        "Lipoma",
+        "Fibroma",
+        "Thrombus"
+      ],
+      "answer": "A",
+      "detail": "These are highly vascular, invasive masses in the RA."
+    },
+    {
+      "number": 77,
+      "question": "Papillary fibroelastomas are small, benign tumors most commonly found on:",
+      "choices": [
+        "The ventricular walls",
+        "Heart valves (especially the Aortic or Mitral valves)",
+        "The interatrial septum",
+        "The SVC",
+        "The pericardium"
+      ],
+      "answer": "B",
+      "detail": "They are small, \"frond-like\" tumors that attach to the valves and can embolize."
+    }
+  ]
+}

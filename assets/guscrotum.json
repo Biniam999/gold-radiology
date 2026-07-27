@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "number": 63,
+      "question": "\"Bell-clapper deformity\" is a predisposing factor for:",
+      "choices": [
+        "Testicular cancer",
+        "Epididymitis",
+        "Testicular torsion",
+        "Varicocele",
+        "Spermatocele"
+      ],
+      "answer": "C",
+      "detail": "This anomaly involves an abnormally high attachment of the tunica vaginalis, allowing the testicle to rotate freely."
+    },
+    {
+      "number": 64,
+      "question": "On Doppler ultrasound, which finding is the \"gold standard\" for diagnosing testicular torsion?",
+      "choices": [
+        "Increased flow in the epididymis",
+        "Absent or markedly diminished blood flow in the testis",
+        "Presence of a hydrocele",
+        "Thickened scrotal skin",
+        "Hyperemic flow in the testis"
+      ],
+      "answer": "B",
+      "detail": "Comparison with the contralateral side is essential for confirming absent perfusion."
+    },
+    {
+      "number": 65,
+      "question": "A 25-year-old male presents with a painless, solid, hypoechoic testicular mass. Lab work shows elevated hCG but normal AFP. What is the most likely diagnosis?",
+      "choices": [
+        "Seminoma",
+        "Yolk sac tumor",
+        "Embryonal cell carcinoma",
+        "Choriocarcinoma",
+        "Epidermoid cyst"
+      ],
+      "answer": "A",
+      "detail": "Seminomas are the most common germ cell tumor and typically do not secrete AFP."
+    },
+    {
+      "number": 66,
+      "question": "Testicular cancer showing \"heterogeneous\" morphology with cystic areas and calcifications, associated with elevation of both hCG and AFP, is likely a:",
+      "choices": [
+        "Seminoma",
+        "Non-seminomatous germ cell tumor (NSGCT)",
+        "Lymphoma",
+        "Leydig cell tumor",
+        "Sertoli cell tumor"
+      ],
+      "answer": "B",
+      "detail": "NSGCTs are more aggressive and frequently secrete both markers."
+    },
+    {
+      "number": 67,
+      "question": "\"Testicular microlithiasis\" (5 or more tiny calcifications per field) requires annual follow-up if combined with which risk factor?",
+      "choices": [
+        "Prior history of torsion",
+        "History of cryptorchidism or personal/family history of germ cell tumor",
+        "Large varicocele",
+        "Frequent UTIs",
+        "Advanced age"
+      ],
+      "answer": "B",
+      "detail": "While microlithiasis is often benign, it is a marker for increased cancer risk in patients with these specific histories."
+    },
+    {
+      "number": 68,
+      "question": "A \"lamellated\" or \"onion-skin\" appearance of a testicular mass on ultrasound is characteristic of which benign entity?",
+      "choices": [
+        "Spermatocele",
+        "Epidermoid cyst",
+        "Adenomatoid tumor",
+        "Abscess",
+        "Infarct"
+      ],
+      "answer": "B",
+      "detail": "These benign cysts contain keratin layers that create the characteristic striated appearance."
+    },
+    {
+      "number": 69,
+      "question": "Which type of testicular tumor is the most common bilateral primary malignancy in men over age 60?",
+      "choices": [
+        "Seminoma",
+        "NSGCT",
+        "Lymphoma",
+        "Metastatic prostate cancer",
+        "Teratoma"
+      ],
+      "answer": "C",
+      "detail": "Testicular lymphoma is a systemic disease and often presents bilaterally in older men."
+    },
+    {
+      "number": 70,
+      "question": "A \"varicocele\" is a dilation of the pampiniform plexus of veins. Why is an ISOLATED right-sided varicocele clinically concerning?",
+      "choices": [
+        "It is a normal variant",
+        "It may indicate a retroperitoneal mass (e.g., RCC) obstructing the right gonadal vein",
+        "It is more painful than the left",
+        "It always causes infertility",
+        "It is associated with torsion"
+      ],
+      "answer": "B",
+      "detail": "Because the right gonadal vein drains directly into the IVC (rather than the renal vein), an isolated right varicocele suggests an extrinsic obstruction of the IVC or vein origin."
+    },
+    {
+      "number": 71,
+      "question": "\"Fournier gangrene\" is a surgical emergency of the scrotum characterized by:",
+      "choices": [
+        "Simple hydrocele",
+        "Subcutaneous gas and necrotizing fasciitis",
+        "Intratesticular abscess",
+        "Dilated veins",
+        "Torsion of the appendix testis"
+      ],
+      "answer": "B",
+      "detail": "Identifying gas within the scrotal soft tissues on imaging is critical."
+    },
+    {
+      "number": 72,
+      "question": "A painless, fluid-filled mass located in the \"head\" of the epididymis that contains non-viable sperm is a:",
+      "choices": [
+        "Hydrocele",
+        "Spermatocele",
+        "Varicocele",
+        "Hematocele",
+        "Pyocele"
+      ],
+      "answer": "B",
+      "detail": "These are common benign cystic lesions of the epididymal head."
+    }
+  ]
+}

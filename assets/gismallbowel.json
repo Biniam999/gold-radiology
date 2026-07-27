@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "number": 70,
+      "question": "What is the most specific sign of a Small Bowel Obstruction (SBO) on CT?",
+      "choices": [
+        "A. Dilated loops of bowel",
+        "B. Presence of a \"transition point\" from dilated to decompressed bowel",
+        "C. Ascites",
+        "D. Thickened bowel wall",
+        "E. Small bowel feces sign"
+      ],
+      "answer": "B",
+      "detail": "Finding where the bowel narrows (the transition point) is key to diagnosing an obstruction."
+    },
+    {
+      "number": 71,
+      "question": "A \"closed-loop obstruction\" is a surgical emergency because it carries a high risk of:",
+      "choices": [
+        "A. Chronic diarrhea",
+        "B. Volvulus and strangulation (ischemia)",
+        "C. Liver abscess",
+        "D. Appendicitis",
+        "E. Weight gain"
+      ],
+      "answer": "B",
+      "detail": "When two points of the bowel are obstructed, pressure rises rapidly, leading to ischemia and strangulation."
+    },
+    {
+      "number": 72,
+      "question": "In a \"left paraduodenal hernia,\" the bowel herniates through a mesenteric defect called the:",
+      "choices": [
+        "A. Fossa of Waldeyer",
+        "B. Fossa of Landzert",
+        "C. Foramen of Winslow",
+        "D. Esophageal hiatus",
+        "E. Space of Retzius"
+      ],
+      "answer": "B",
+      "detail": "The Fossa of Landzert is located to the left of the fourth portion of the duodenum, behind the inferior mesenteric vein (IMV)."
+    },
+    {
+      "number": 73,
+      "question": "The \"right paraduodenal hernia\" occurs through the fossa of Waldeyer, which is located:",
+      "choices": [
+        "A. Behind the IMA",
+        "B. Behind the SMA and SMV",
+        "C. Above the stomach",
+        "D. To the left of the midline",
+        "E. In the pelvis"
+      ],
+      "answer": "B",
+      "detail": "The relationship to the SMA and SMV is the characteristic landmark for this rarer right-sided hernia."
+    },
+    {
+      "number": 74,
+      "question": "The \"comb sign\" on CT (engorged vasa recta) is a highly suggestive sign of active inflammation in:",
+      "choices": [
+        "A. Ulcerative Colitis",
+        "B. Crohn's disease",
+        "C. Ischemic colitis",
+        "D. Celiac disease",
+        "E. Diverticulitis"
+      ],
+      "answer": "B",
+      "detail": "Engorged vessels supplying the inflamed ileum create this characteristic appearance in Crohn's disease."
+    },
+    {
+      "number": 75,
+      "question": "\"Backwash ileitis\" refers to terminal ileum inflammation that occurs in which condition?",
+      "choices": [
+        "A. Crohn's disease",
+        "B. Ulcerative Colitis",
+        "C. Celiac disease",
+        "D. Swyer-James syndrome",
+        "E. Swimmer's ear"
+      ],
+      "answer": "B",
+      "detail": "This is ileal involvement sometimes seen in cases of pancolitis in Ulcerative Colitis."
+    },
+    {
+      "number": 76,
+      "question": "A Meckel diverticulum is a remnant of the vitelline duct and is best diagnosed by identifying:",
+      "choices": [
+        "A. Air-fluid levels on plain film",
+        "B. Ectopic gastric mucosa on a Tc-99m Pertechnetate scan",
+        "C. A \"string sign\" on barium study",
+        "D. A \"galaxy sign\" on CT",
+        "E. \"Crazy paving\" on MRI"
+      ],
+      "answer": "B",
+      "detail": "Pertechnetate is selectively taken up by the ectopic gastric cells within the diverticulum."
+    },
+    {
+      "number": 77,
+      "question": "What is the most common \"lead point\" for an intussusception in an adult?",
+      "choices": [
+        "A. Idiopathic (no lead point)",
+        "B. Lymphoid hyperplasia",
+        "C. A neoplasm (e.g., lipoma or cancer)",
+        "D. Meckel diverticulum",
+        "E. Appendix"
+      ],
+      "answer": "C",
+      "detail": "Unlike children, the majority of adult intussusceptions are caused by a pathologic lead point, often a neoplasm."
+    },
+    {
+      "number": 78,
+      "question": "\"Celiac disease\" is characterized on imaging by:",
+      "choices": [
+        "A. Thickened gastric folds",
+        "B. Reversal of the jejunoileal fold pattern (atrophy of jejunum, hypertrophy of ileum)",
+        "C. Multiple large diverticula",
+        "D. Uphill varices",
+        "E. Pylephlebitis"
+      ],
+      "answer": "B",
+      "detail": "The reversal of the normal fold pattern is a classic imaging finding of gluten-sensitive enteropathy."
+    },
+    {
+      "number": 79,
+      "question": "What is the most common cause of Small Bowel Obstruction (SBO) in the United States?",
+      "choices": [
+        "A. Hernias",
+        "B. Adhesions (from prior surgery)",
+        "C. Neoplasms",
+        "D. Crohn's disease",
+        "E. Intussusception"
+      ],
+      "answer": "B",
+      "detail": "Post-operative adhesions account for the vast majority of SBO cases."
+    },
+    {
+      "number": 80,
+      "question": "The \"swirled mesentery sign\" on CT is indicative of:",
+      "choices": [
+        "A. Simple ileus",
+        "B. Small bowel volvulus",
+        "C. Chronic pancreatitis",
+        "D. Gastric polyps",
+        "E. Diverticulitis"
+      ],
+      "answer": "B",
+      "detail": "The sign represents the mechanical twisting of the mesentery around its vascular pedicle."
+    },
+    {
+      "number": 81,
+      "question": "\"Creeping fat\" is a term used to describe mesenteric fat wrapping around the bowel wall in:",
+      "choices": [
+        "A. Ulcerative colitis",
+        "B. Crohn's disease",
+        "C. Celiac disease",
+        "D. Obesity",
+        "E. Liver cirrhosis"
+      ],
+      "answer": "B",
+      "detail": "This is a classic surgical and imaging marker of chronic transmural inflammation in Crohn's disease."
+    },
+    {
+      "number": 82,
+      "question": "\"Bouveret syndrome\" is a rare cause of proximal bowel obstruction caused by:",
+      "choices": [
+        "A. An intussusception",
+        "B. A large gallstone impacted in the duodenum",
+        "C. A hiatal hernia",
+        "D. An annular pancreas",
+        "E. A gastric bypass complication"
+      ],
+      "answer": "B",
+      "detail": "Bouveret syndrome is a variant of gallstone ileus where the stone lodges very proximally in the duodenum."
+    },
+    {
+      "number": 83,
+      "question": "An \"enterocutaneous fistula\" in a patient with Crohn's disease is a communication between:",
+      "choices": [
+        "A. The stomach and the colon",
+        "B. The small bowel and the skin",
+        "C. The bladder and the rectum",
+        "D. The esophagus and the trachea",
+        "E. The gallbladder and the duodenum"
+      ],
+      "answer": "B",
+      "detail": "These fistulas frequently occur following surgery or as a result of chronic transmural tracks."
+    },
+    {
+      "number": 84,
+      "question": "Low-attenuation (fat-density) mesenteric lymph nodes are a characteristic finding in which disease?",
+      "choices": [
+        "A. Lymphoma",
+        "B. Whipple disease",
+        "C. Crohn's disease",
+        "D. Tuberculosis",
+        "E. Celiac disease"
+      ],
+      "answer": "B",
+      "detail": "The presence of fat-laden nodes is highly suggestive of this rare infection."
+    }
+  ]
+}

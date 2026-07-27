@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "Which Cardiac MRI pulse sequence is the 'gold standard' for assessing cardiac anatomy and function?",
+      "choices": [
+        "T1-weighted Spin Echo",
+        "Balanced Steady State Free Precession (SSFP)",
+        "T2-weighted STIR",
+        "Diffusion Weighted Imaging (DWI)",
+        "Proton Density"
+      ],
+      "answer": "B",
+      "detail": "SSFP sequences (e.g., TrueFISP) provide high SNR and blood-to-myocardium contrast, making them ideal for cine functional imaging."
+    },
+    {
+      "number": 2,
+      "question": "To suppress signal from the normal myocardium and highlight infarcted tissue in late gadolinium enhancement (LGE) imaging, which technique is used?",
+      "choices": [
+        "Fat saturation",
+        "Inversion recovery with an appropriate TI (null point)",
+        "Magnetization transfer",
+        "Chemical shift imaging",
+        "Flow compensation"
+      ],
+      "answer": "B",
+      "detail": "Setting the inversion time (TI) to 'null' the signal from normal myocardium allows infarcted or scarred areas to appear bright."
+    },
+    {
+      "number": 3,
+      "question": "On Cardiac MRI, what does 'Black Blood' (Dark Blood) imaging typically represent?",
+      "choices": [
+        "T1-weighted cine imaging",
+        "T2-weighted Double Inversion Recovery (DIR)",
+        "Gadolinium enhancement",
+        "Tagging sequence",
+        "Perfusion imaging"
+      ],
+      "answer": "B",
+      "detail": "DIR sequences null the signal from flowing blood, which is useful for evaluating vessel walls or identifying edema."
+    },
+    {
+      "number": 4,
+      "question": "'Myocardial tagging' sequences are primarily used to evaluate:",
+      "choices": [
+        "Coronary artery stenosis",
+        "Pericardial thickening",
+        "Myocardial strain and rotational mechanics",
+        "Valvular vegetation size",
+        "Cardiac masses"
+      ],
+      "answer": "C",
+      "detail": "Tagging creates a grid on the myocardium, allowing radiologists to track its deformation and strain during the cardiac cycle."
+    },
+    {
+      "number": 5,
+      "question": "On Cardiac MRI, cardiac hemangiomas are typically:",
+      "choices": [
+        "T2 hypointense with no enhancement",
+        "T2 hyperintense and enhance avidly on first-pass perfusion",
+        "Iso-intense with the myocardium and do not enhance",
+        "Low signal on all sequences",
+        "Signal-void on cine sequences"
+      ],
+      "answer": "B",
+      "detail": "Hemangiomas characteristically have high fluid content, making them T2 bright, and high vascularity, leading to avid enhancement."
+    },
+    {
+      "number": 6,
+      "question": "Which CMR sequence is best for detecting acute myocardial edema (e.g., acute myocarditis)?",
+      "choices": [
+        "T1 SSFP",
+        "T2-weighted STIR",
+        "First-pass perfusion",
+        "Phase contrast",
+        "LGE"
+      ],
+      "answer": "B",
+      "detail": "T2-weighted images are sensitive to water and fluid, making them excellent for identifying acute inflammatory edema."
+    },
+    {
+      "number": 7,
+      "question": "Phase-contrast MRI (PC-MRI) is the method of choice for quantifying:",
+      "choices": [
+        "Myocardial scar percentage",
+        "Blood flow velocity and volume (Qp:Qs)",
+        "Pericardial fluid attenuation",
+        "Coronary calcium",
+        "Right ventricular ejection fraction"
+      ],
+      "answer": "B",
+      "detail": "PC-MRI calculates flow based on the phase shift of protons and is used to measure shunts (Qp:Qs) or valvular regurgitation."
+    },
+    {
+      "number": 8,
+      "question": "A standard 'SA' (Short Axis) cardiac MRI view is oriented:",
+      "choices": [
+        "Parallel to the vertebral bodies",
+        "Perpendicular to the long axis of the left ventricle",
+        "Parallel to the aortic arch",
+        "Transaxial to the body",
+        "Coronal to the body"
+      ],
+      "answer": "B",
+      "detail": "Short-axis views are acquired perpendicular to the LV long axis from the base to the apex for volume and function analysis."
+    },
+    {
+      "number": 9,
+      "question": "MRI 'Quenching' refers to:",
+      "choices": [
+        "The loss of contrast due to too much gadolinium",
+        "The rapid loss of superconductivity and release of helium gas",
+        "The process of warming up the magnet",
+        "Image artifact from metal implants",
+        "Turning off the gradient coils"
+      ],
+      "answer": "B",
+      "detail": "Quenching is a potential emergency where cryogenic helium used to cool the magnet is rapidly released."
+    },
+    {
+      "number": 10,
+      "question": "Standard gadolinium-based contrast is generally contraindicated in which patient population?",
+      "choices": [
+        "Patients with prosthetic valves",
+        "Pregnant women",
+        "Patients with pacemakers",
+        "Elderly patients",
+        "Children under age 5"
+      ],
+      "answer": "B",
+      "detail": "Gadolinium is contraindicated in pregnant women because it crosses the placenta."
+    }
+  ]
+}

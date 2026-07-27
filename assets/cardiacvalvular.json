@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "number": 55,
+      "question": "Mitral annular calcification (MAC) is most easily identified on which modality?",
+      "choices": [
+        "A. MRI",
+        "B. CT",
+        "C. PET",
+        "D. Nuclear Perfusion",
+        "E. Ultrasound only"
+      ],
+      "answer": "B",
+      "detail": "CT is exquisitely sensitive to calcium; MAC appears as a dense, C-shaped calcification at the base of the mitral valve."
+    },
+    {
+      "number": 56,
+      "question": "In patients with infective endocarditis, CT is better than Echocardiography for identifying:",
+      "choices": [
+        "A. Small, highly mobile vegetations",
+        "B. Perivalvular abscess and pseudoaneurysm",
+        "C. Valve leaflet perforation",
+        "D. Tricuspid regurgitation severity",
+        "E. Chordae tendineae rupture"
+      ],
+      "answer": "B",
+      "detail": "Cardiac CT provides excellent anatomical detail of the perivalvular tissues and extra-cardiac complications like septic emboli."
+    },
+    {
+      "number": 57,
+      "question": "Which valvular lesion is most strongly associated with 'annuloaortic ectasia' and Marfan syndrome?",
+      "choices": [
+        "A. Mitral stenosis",
+        "B. Mitral regurgitation",
+        "C. Aortic regurgitation",
+        "D. Tricuspid stenosis",
+        "E. Pulmonic stenosis"
+      ],
+      "answer": "C",
+      "detail": "Dilation of the aortic root in Marfan syndrome leads to aortic valve insufficiency (regurgitation)."
+    },
+    {
+      "number": 58,
+      "question": "CMR quantification of 'Regurgitant Fraction' (RF) > 50% generally indicates:",
+      "choices": [
+        "A. Mild regurgitation",
+        "B. Moderate regurgitation",
+        "C. Severe regurgitation",
+        "D. Normal function",
+        "E. Trace regurgitation"
+      ],
+      "answer": "C",
+      "detail": "An RF > 50% is a common threshold for severe valvular insufficiency on CMR."
+    },
+    {
+      "number": 59,
+      "question": "'Paravalvular leak' is a complication of:",
+      "choices": [
+        "A. Acute MI",
+        "B. Prosthetic valve replacement",
+        "C. Rheumatic fever",
+        "D. Untreated VSD",
+        "E. Pericarditis"
+      ],
+      "answer": "B",
+      "detail": "This occurs when blood flows around the outside of a prosthetic valve ring due to poor seating or infection."
+    }
+  ]
+}
